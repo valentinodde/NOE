@@ -1,0 +1,156 @@
+{
+  "bassin": {
+    "code": "X123",
+    "nom": "Sous-bassin de l'Hérault aval",
+    "region_hydrographique": "Rhône-Méditerranée",
+    "cours_eau_principal": "Hérault",
+    "surface_km2": 847,
+    "geojson": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [3.4, 43.5],
+            [3.7, 43.5],
+            [3.9, 43.3],
+            [3.8, 43.1],
+            [3.5, 43.1],
+            [3.3, 43.3],
+            [3.4, 43.5]
+          ]
+        ]
+      },
+      "properties": {
+        "code": "X123",
+        "nom": "Sous-bassin de l'Hérault aval"
+      }
+    },
+    "centroid": {
+      "lat": 43.3,
+      "lon": 3.6
+    }
+  },
+
+  "projections_climatiques": {
+    "horizons": ["actuel", "2030", "2050"],
+    "temperature_delta_c": {
+      "actuel": 0.0,
+      "2030": 1.2,
+      "2050": 2.4
+    },
+    "secheresse_sols_spei": {
+      "description": "Indice SPEI (Standardized Precipitation-Evapotranspiration Index). Valeur négative = déficit hydrique.",
+      "actuel": -0.3,
+      "2030": -0.8,
+      "2050": -1.5
+    },
+    "precipitations_estivales_mm": {
+      "description": "Cumul précipitations juin-août",
+      "actuel": 112,
+      "2030": 92,
+      "2050": 71
+    },
+    "debit_etiage_variation_pct": {
+      "description": "Variation du débit d'étiage (QMNA5) par rapport à la période de référence 1976-2005",
+      "actuel": 0,
+      "2030": -18,
+      "2050": -34
+    }
+  },
+
+  "stress_hydrique": {
+    "description": "Ratio prélèvements / eau disponible renouvelable annuelle",
+    "eau_disponible_mm3_an": {
+      "actuel": 285,
+      "2030": 242,
+      "2050": 198
+    },
+    "prelevements_totaux_mm3_an": {
+      "actuel": 141,
+      "2030": 148,
+      "2050": 155
+    },
+    "ratio_stress": {
+      "actuel": 0.49,
+      "2030": 0.61,
+      "2050": 0.78
+    },
+    "seuils": {
+      "faible": 0.2,
+      "modere": 0.4,
+      "eleve": 0.6,
+      "critique": 0.8
+    },
+    "prelevements_par_usage_mm3_an": {
+      "AEP": {
+        "actuel": 48,
+        "2030": 51,
+        "2050": 54
+      },
+      "industrie": {
+        "actuel": 22,
+        "2030": 24,
+        "2050": 26
+      },
+      "agriculture": {
+        "actuel": 71,
+        "2030": 73,
+        "2050": 75
+      }
+    }
+  },
+
+  "precipitations_mensuelles_mm": {
+    "mois": ["Jan", "Fév", "Mar", "Avr", "Mai", "Jun", "Jul", "Aoû", "Sep", "Oct", "Nov", "Déc"],
+    "actuel": [82, 68, 61, 58, 52, 28, 14, 22, 68, 95, 88, 79],
+    "2050": [91, 74, 55, 48, 40, 14, 6, 11, 79, 108, 97, 88]
+  },
+
+  "risques": {
+    "secheresse": {
+      "niveau_actuel": "modere",
+      "niveau_2050": "eleve",
+      "frequence_episode_severe_actuel_ans": 12,
+      "frequence_episode_severe_2050_ans": 5,
+      "impact_operationnel": "Restrictions d'usage possibles en période estivale. Tensions sur l'approvisionnement en eau industrielle entre juillet et septembre."
+    },
+    "inondation": {
+      "niveau": "modere",
+      "en_zone_ppri": true,
+      "type_ppri": "Risque moyen",
+      "frequence_centennale": true,
+      "hauteur_potentielle_m": 1.2,
+      "dernier_evenement_majeur": "2014-09-19"
+    },
+    "rga": {
+      "niveau_alea": "fort",
+      "pct_surface_communale": 68,
+      "indice_retrait": "B2",
+      "sinistralite_historique": "eleve"
+    }
+  },
+
+  "sources": [
+    {
+      "nom": "Agence de l'eau Rhône-Méditerranée-Corse",
+      "url": "https://www.eaurmc.fr",
+      "description": "Données sur les prélèvements et la disponibilité en eau du bassin"
+    },
+    {
+      "nom": "DREAL Occitanie",
+      "url": "https://www.occitanie.developpement-durable.gouv.fr",
+      "description": "Plans de prévention des risques, données réglementaires"
+    },
+    {
+      "nom": "BRGM",
+      "url": "https://www.georisques.gouv.fr",
+      "description": "Cartographie des aléas géologiques (RGA, inondations)"
+    },
+    {
+      "nom": "INRAE — Explore2",
+      "url": "https://explore2.inrae.fr",
+      "description": "Projections hydrologiques à l'horizon 2050 par bassin versant"
+    }
+  ]
+}

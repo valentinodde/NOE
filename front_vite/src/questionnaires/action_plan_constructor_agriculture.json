@@ -1,0 +1,153 @@
+{
+  "sector_id": "agriculture",
+  "questionnaire_id": "agriculture",
+
+  "always_include": [],
+
+  "never_include": [],
+
+  "filters": [
+    {
+      "id": "f_no_compteur",
+      "description": "Pas de compteur ou relevé irrégulier → recommander le comptage",
+      "type": "answer",
+      "questionId": "agri_q01",
+      "operator": "in",
+      "value": ["a", "b"],
+      "effect": "add",
+      "measures": ["ACT_AGR_001"],
+      "priority": 1
+    },
+    {
+      "id": "f_no_audit",
+      "description": "Pas d'audit ou audit ancien → recommander le diagnostic",
+      "type": "answer",
+      "questionId": "agri_q02",
+      "operator": "in",
+      "value": ["a", "b", "c"],
+      "effect": "add",
+      "measures": ["ACT_AGR_002"],
+      "priority": 1
+    },
+    {
+      "id": "f_usage_irrigation",
+      "description": "Si l'entreprise irrigue (agri_q04 ≠ 'd') → ajouter les mesures irrigation",
+      "type": "answer",
+      "questionId": "agri_q04",
+      "operator": "neq",
+      "value": "d",
+      "effect": "add",
+      "measures": ["ACT_AGR_003", "ACT_AGR_004"],
+      "priority": 1
+    },
+    {
+      "id": "f_no_irrigation",
+      "description": "Si pas d'irrigation du tout → retirer les mesures irrigation",
+      "type": "answer",
+      "questionId": "agri_q04",
+      "operator": "eq",
+      "value": "d",
+      "effect": "remove",
+      "measures": ["ACT_AGR_003", "ACT_AGR_004"],
+      "priority": 2
+    },
+    {
+      "id": "f_pilotage_faible",
+      "description": "Pilotage à vue ou météo → recommander outil de pilotage",
+      "type": "answer",
+      "questionId": "agri_q03",
+      "operator": "in",
+      "value": ["a", "b"],
+      "effect": "add",
+      "measures": ["ACT_AGR_003"],
+      "priority": 1
+    },
+    {
+      "id": "f_systeme_inefficace",
+      "description": "Aspersion ou gravitaire → recommander irrigation localisée",
+      "type": "answer",
+      "questionId": "agri_q04",
+      "operator": "in",
+      "value": ["a", "b"],
+      "effect": "add",
+      "measures": ["ACT_AGR_004"],
+      "priority": 1
+    },
+    {
+      "id": "f_no_stockage",
+      "description": "Pas de stockage → recommander retenue ou récupération pluie",
+      "type": "answer",
+      "questionId": "agri_q05",
+      "operator": "eq",
+      "value": "a",
+      "effect": "add",
+      "measures": ["ACT_AGR_005", "ACT_AGR_006"],
+      "priority": 1
+    },
+    {
+      "id": "f_no_reut",
+      "description": "Pas de réutilisation → recommander récupération eaux pluviales",
+      "type": "answer",
+      "questionId": "agri_q06",
+      "operator": "in",
+      "value": ["a", "b"],
+      "effect": "add",
+      "measures": ["ACT_AGR_006"],
+      "priority": 1
+    },
+    {
+      "id": "f_source_uniquement_aep",
+      "description": "AEP parmi les sources → recommander diversification",
+      "type": "class",
+      "class": "source_eau",
+      "operator": "includes",
+      "value": "a",
+      "effect": "add",
+      "measures": ["ACT_AGR_007"],
+      "priority": 1
+    },
+    {
+      "id": "f_risque_reglementaire",
+      "description": "Peu conscient des risques réglementaires → plan de gestion",
+      "type": "answer",
+      "questionId": "agri_q07",
+      "operator": "in",
+      "value": ["a", "b"],
+      "effect": "add",
+      "measures": ["ACT_AGR_009"],
+      "priority": 1
+    },
+    {
+      "id": "f_pas_adaptation_cultures",
+      "description": "Pas d'adaptation des cultures → recommander démarche agronomique",
+      "type": "answer",
+      "questionId": "agri_q08",
+      "operator": "in",
+      "value": ["a", "b"],
+      "effect": "add",
+      "measures": ["ACT_AGR_008"],
+      "priority": 1
+    },
+    {
+      "id": "f_conso_elevee",
+      "description": "Conso annuelle ≥ 50 000 m³ → proposer démarche collective PTGE",
+      "type": "numeric",
+      "questionId": "agri_q01c",
+      "operator": "gte",
+      "value": 50000,
+      "effect": "add",
+      "measures": ["ACT_AGR_010"],
+      "priority": 1
+    },
+    {
+      "id": "f_avance_collectif",
+      "description": "Entreprise intermédiaire ou avancée → proposer démarche collective PTGE",
+      "type": "maturity",
+      "operator": "in",
+      "value": ["intermediaire", "avance"],
+      "effect": "add",
+      "measures": ["ACT_AGR_010"],
+      "priority": 1
+    }
+  ]
+}

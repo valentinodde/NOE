@@ -1,0 +1,121 @@
+[
+  {
+    "id": "AIDE_AGR_001",
+    "nom": "Aide à l'investissement hydro-économe",
+    "financeur": "Agences de l'Eau",
+    "financeur_icon": "💧",
+    "type": "subvention",
+    "taux": "Jusqu'à 50 %",
+    "plafond": "30 000 €",
+    "description": "Subvention pour l'acquisition de matériels d'irrigation économes en eau : micro-irrigation, aspersion basse pression, capteurs sol et outils d'aide à la décision.",
+    "eligibilite": "Exploitations agricoles engagées dans une démarche de réduction des prélèvements. Dossier déposé avant travaux.",
+    "categories": [
+      "ameliorer_efficacite_hydrique"
+    ],
+    "url": "https://www.eaufrance.fr",
+    "url_label": "Voir les conditions"
+  },
+  {
+    "id": "AIDE_AGR_002",
+    "nom": "Plan de Compétitivité et d'Adaptation des Exploitations (PCAE)",
+    "financeur": "État / Régions (FEADER)",
+    "financeur_icon": "🇫🇷",
+    "type": "subvention",
+    "taux": "20 à 40 %",
+    "plafond": "80 000 €",
+    "description": "Soutien aux investissements matériels et immatériels qui améliorent la performance économique, environnementale et sociale des exploitations, dont les équipements d'irrigation et de stockage.",
+    "eligibilite": "Agriculteurs professionnels, installations récentes ou dossiers justifiant une adaptation face aux aléas climatiques.",
+    "categories": [
+      "ameliorer_efficacite_hydrique",
+      "valoriser_reut_eaux_non_conventionnelles",
+      "changer_process_pratiques"
+    ],
+    "url": "https://draaf.agriculture.gouv.fr",
+    "url_label": "DRAAF – PCAE"
+  },
+  {
+    "id": "AIDE_AGR_003",
+    "nom": "Crédit d'impôt pour audit environnemental",
+    "financeur": "Direction Générale des Finances Publiques",
+    "financeur_icon": "🏛️",
+    "type": "credit_impot",
+    "taux": "40 %",
+    "plafond": "5 000 €",
+    "description": "Crédit d'impôt couvrant 40 % des dépenses engagées pour la réalisation d'un audit environnemental (incluant un volet eau) par un prestataire agréé.",
+    "eligibilite": "TPE/PME agricoles à jour de leurs obligations fiscales. Audit réalisé par un organisme indépendant certifié.",
+    "categories": [
+      "suivre_comprendre_maitriser"
+    ],
+    "url": "https://bofip.impots.gouv.fr",
+    "url_label": "BOFIP – conditions"
+  },
+  {
+    "id": "AIDE_AGR_004",
+    "nom": "Prêt Vert BPI – Transition écologique",
+    "financeur": "Bpifrance",
+    "financeur_icon": "🏦",
+    "type": "pret",
+    "taux": "Taux bonifié",
+    "plafond": "100 000 €",
+    "description": "Prêt sans garantie à taux réduit pour financer des projets de transition écologique, incluant la sobriété hydrique, le stockage d'eau et la modernisation des systèmes d'irrigation.",
+    "eligibilite": "PME et ETI de moins de 250 salariés, projet clairement identifié avec impact environnemental mesurable.",
+    "categories": [
+      "ameliorer_efficacite_hydrique",
+      "valoriser_reut_eaux_non_conventionnelles",
+      "agir_rejets_qualite"
+    ],
+    "url": "https://bpifrance.fr",
+    "url_label": "Bpifrance – Prêt Vert"
+  },
+  {
+    "id": "AIDE_AGR_005",
+    "nom": "Accompagnement MAEC – Mesures Agro-Environnementales et Climatiques",
+    "financeur": "État / Régions (FEADER)",
+    "financeur_icon": "🌿",
+    "type": "accompagnement",
+    "taux": "Paiement annuel",
+    "plafond": "Variable selon engagement",
+    "description": "Paiements pluriannuels (5 ans) conditionnés à la mise en œuvre de pratiques agro-environnementales favorables à la qualité et à la quantité d'eau : cultures intermédiaires, réduction phytos, couverture des sols.",
+    "eligibilite": "Exploitations situées en zones à enjeux eau, engagement volontaire sur 5 ans avec contrôle annuel.",
+    "categories": [
+      "changer_process_pratiques",
+      "agir_rejets_qualite",
+      "agir_grand_cycle"
+    ],
+    "url": "https://telepac.agriculture.gouv.fr",
+    "url_label": "Telepac – MAEC"
+  },
+  {
+    "id": "AIDE_AGR_006",
+    "nom": "Aide à la formation professionnelle (VIVEA)",
+    "financeur": "VIVEA – Fonds pour la formation des entrepreneurs du vivant",
+    "financeur_icon": "📚",
+    "type": "accompagnement",
+    "taux": "Prise en charge totale ou partielle",
+    "plafond": "Selon convention",
+    "description": "Prise en charge des coûts de formation professionnelle continue pour les agriculteurs, incluant des modules sur la gestion de l'eau, l'agronomie et les pratiques économes.",
+    "eligibilite": "Chefs d'exploitation, conjoints collaborateurs et aides familiaux cotisant au régime agricole.",
+    "categories": [
+      "sensibiliser_former"
+    ],
+    "url": "https://vivea.fr",
+    "url_label": "vivea.fr"
+  },
+  {
+    "id": "AIDE_AGR_007",
+    "nom": "Subvention retenue collinaire (Conseil Régional)",
+    "financeur": "Conseil Régional",
+    "financeur_icon": "🗺️",
+    "type": "subvention",
+    "taux": "30 à 60 %",
+    "plafond": "150 000 €",
+    "description": "Aide régionale à la création ou la réhabilitation de retenues collinaires et de bassins de stockage hivernal, dans le cadre des plans régionaux de gestion de la sécheresse.",
+    "eligibilite": "Dossier collectif (ASA ou GIEE) privilégié. Projet compatible avec le SDAGE et sans impact négatif sur les milieux.",
+    "categories": [
+      "valoriser_reut_eaux_non_conventionnelles",
+      "agir_grand_cycle"
+    ],
+    "url": "https://exemple-region.fr/eau",
+    "url_label": "Région – fiche aide"
+  }
+]

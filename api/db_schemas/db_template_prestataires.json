@@ -1,0 +1,159 @@
+{
+  "_collection": "prestataires",
+  "_description": "Stocke tous les prestataires et organismes d'accompagnement, tous secteurs confondus. Chaque prestataire liste explicitement les mesures (actions) sur lesquelles il peut intervenir, ce qui permet au frontend de proposer les prestataires pertinents pour chaque action du plan d'action généré.",
+  "_indexes": [
+    { "field": "id", "unique": true },
+    { "field": "measures" },
+    { "field": "secteurs" },
+    { "field": "type" },
+    { "field": "territoire" }
+  ],
+
+  "_schema": {
+    "_id": "ObjectId — généré automatiquement",
+    "id": "string — identifiant métier unique, ex: 'PREST_AGR_001'",
+    "nom": "string — nom de l'organisme ou de l'entreprise",
+    "type": "string — enum: 'chambre_consulaire' | 'bureau_etudes' | 'organisme_technique' | 'syndicat_professionnel' | 'organisme_formation'",
+    "icon": "string — emoji représentatif",
+    "description": "string — description synthétique de l'offre et du positionnement",
+    "expertises": "array<string> — domaines d'expertise affichés sous forme de tags",
+    "secteurs": "array<string> — codes NAF racine (2 premiers chiffres) des secteurs couverts, ex: ['01', '02']. Vide = tous secteurs.",
+    "measures": "array<string> — ids des actions (collection 'actions') sur lesquelles ce prestataire peut intervenir",
+    "territoire": "string — enum: 'local' | 'regional' | 'national'",
+    "url": "string — site web ou page de contact",
+    "url_label": "string — texte du lien"
+  },
+
+  "_example_documents": [
+    {
+      "_id": "ObjectId('...')",
+      "id": "PREST_AGR_001",
+      "nom": "Chambre d'Agriculture",
+      "type": "chambre_consulaire",
+      "icon": "🌾",
+      "description": "Accompagnement de proximité pour les exploitants agricoles sur la gestion de l'eau, le pilotage de l'irrigation et les pratiques agro-environnementales. Présence dans chaque département.",
+      "expertises": ["Diagnostic eau", "Pilotage irrigation", "Pratiques agro-écologiques", "Conseil réglementaire"],
+      "secteurs": ["01"],
+      "measures": [
+        "ACT_AGR_001",
+        "ACT_AGR_002",
+        "ACT_AGR_003",
+        "ACT_AGR_008",
+        "ACT_AGR_009",
+        "ACT_AGR_010"
+      ],
+      "territoire": "regional",
+      "url": "https://chambres-agriculture.fr",
+      "url_label": "chambres-agriculture.fr"
+    },
+    {
+      "_id": "ObjectId('...')",
+      "id": "PREST_AGR_002",
+      "nom": "AquaConseil (bureau d'études eau)",
+      "type": "bureau_etudes",
+      "icon": "📐",
+      "description": "Bureau d'études spécialisé en hydraulique agricole et gestion quantitative de la ressource. Réalise des audits eau, des schémas directeurs d'irrigation et des études de faisabilité de retenues.",
+      "expertises": ["Audit hydraulique", "Schéma directeur irrigation", "Faisabilité retenues collinaires", "Bilan besoins/ressources"],
+      "secteurs": ["01"],
+      "measures": [
+        "ACT_AGR_002",
+        "ACT_AGR_003",
+        "ACT_AGR_004",
+        "ACT_AGR_005",
+        "ACT_AGR_006",
+        "ACT_AGR_007"
+      ],
+      "territoire": "national",
+      "url": "https://exemple-aquaconseil.fr",
+      "url_label": "aquaconseil.fr"
+    },
+    {
+      "_id": "ObjectId('...')",
+      "id": "PREST_AGR_003",
+      "nom": "ARVALIS – Institut du végétal",
+      "type": "organisme_technique",
+      "icon": "🔬",
+      "description": "Institut technique agricole référent sur l'eau et les grandes cultures. Propose des outils de pilotage de l'irrigation (IRRI@, STICS), des formations et un accompagnement agronomique personnalisé.",
+      "expertises": ["Outils OAD irrigation", "Expérimentation variétale", "Conseil agronomique", "Formation terrain"],
+      "secteurs": ["01"],
+      "measures": [
+        "ACT_AGR_003",
+        "ACT_AGR_004",
+        "ACT_AGR_008"
+      ],
+      "territoire": "national",
+      "url": "https://arvalis.fr",
+      "url_label": "arvalis.fr"
+    },
+    {
+      "_id": "ObjectId('...')",
+      "id": "PREST_AGR_004",
+      "nom": "HydroSolutions (bureau d'études qualité)",
+      "type": "bureau_etudes",
+      "icon": "🧪",
+      "description": "Cabinet spécialisé dans la qualité des eaux agricoles, le traitement des effluents d'élevage et la mise en conformité réglementaire. Accompagne aussi les démarches de labellisation environnementale.",
+      "expertises": ["Traitement effluents", "Plan épandage", "Mise en conformité", "Labellisation HVE"],
+      "secteurs": ["01"],
+      "measures": [
+        "ACT_AGR_009"
+      ],
+      "territoire": "regional",
+      "url": "https://exemple-hydrosolutions.fr",
+      "url_label": "hydrosolutions.fr"
+    },
+    {
+      "_id": "ObjectId('...')",
+      "id": "PREST_AGR_005",
+      "nom": "Coopérative de l'Eau",
+      "type": "syndicat_professionnel",
+      "icon": "🤝",
+      "description": "Structure collective portant des projets de stockage mutualisé, de PTGE et de gouvernance concertée de la ressource. Facilite l'accès à des infrastructures partagées (réserves, forages collectifs).",
+      "expertises": ["PTGE / gouvernance", "Stockage collectif", "Montage de dossiers", "Animation territoriale"],
+      "secteurs": ["01"],
+      "measures": [
+        "ACT_AGR_005",
+        "ACT_AGR_006",
+        "ACT_AGR_007",
+        "ACT_AGR_010"
+      ],
+      "territoire": "local",
+      "url": "https://exemple-coop-eau.fr",
+      "url_label": "coop-eau.fr"
+    },
+    {
+      "_id": "ObjectId('...')",
+      "id": "PREST_AGR_006",
+      "nom": "FormAgri",
+      "type": "organisme_formation",
+      "icon": "🎓",
+      "description": "Organisme de formation agricole certifié Qualiopi, proposant des modules sur les économies d'eau, la gestion des intrants et les pratiques agroécologiques en présentiel et à distance.",
+      "expertises": ["Formation gestion eau", "Agroécologie", "Certification Qualiopi", "E-learning agricole"],
+      "secteurs": ["01"],
+      "measures": [
+        "ACT_AGR_008",
+        "ACT_AGR_009"
+      ],
+      "territoire": "national",
+      "url": "https://exemple-formagri.fr",
+      "url_label": "formagri.fr"
+    },
+    {
+      "_id": "ObjectId('...')",
+      "id": "PREST_AGR_007",
+      "nom": "EcoRecup (récupération eaux pluviales)",
+      "type": "bureau_etudes",
+      "icon": "♻️",
+      "description": "Bureau spécialisé dans la conception de systèmes de récupération et de réutilisation des eaux de pluie et de ruissellement. Du dimensionnement au suivi d'installation.",
+      "expertises": ["Récupération eaux pluviales", "Bassins tampons", "Réutilisation eaux process", "Dimensionnement stockage"],
+      "secteurs": ["01"],
+      "measures": [
+        "ACT_AGR_005",
+        "ACT_AGR_006",
+        "ACT_AGR_007"
+      ],
+      "territoire": "regional",
+      "url": "https://exemple-ecorecup.fr",
+      "url_label": "ecorecup.fr"
+    }
+  ]
+}

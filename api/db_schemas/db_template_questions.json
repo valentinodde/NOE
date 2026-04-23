@@ -1,0 +1,116 @@
+{
+  "_collection": "questions",
+  "_description": "Stocke toutes les questions de tous les questionnaires sectoriels. Chaque document = une question. Référencées dans la collection 'questionnaires' via question_ids.",
+  "_indexes": [
+    { "field": "id", "unique": true },
+    { "field": "theme" },
+    { "field": "type" }
+  ],
+
+  "_schema": {
+    "_id": "ObjectId — généré automatiquement par MongoDB",
+    "id": "string — identifiant métier unique, ex: 'agri_q01'",
+    "theme": "string — identifiant du thème auquel appartient la question, ex: 'connaissance'",
+    "order": "integer — position d'affichage dans le questionnaire",
+    "type": "string — enum: 'single_choice' | 'multi_choice' | 'numeric'",
+    "class": "string | null — classe fonctionnelle permettant un filtrage spécifique, ex: 'source_eau'",
+    "text": "string — libellé de la question affiché à l'utilisateur",
+    "condition": "object | null — condition d'affichage conditionnelle (question parente requise), null si toujours affichée",
+    "options": "array — liste des choix possibles (présent si type = 'single_choice' ou 'multi_choice')",
+    "input": "object — configuration du champ numérique (présent si type = 'numeric')",
+    "scoring": "object — règles de scoring pour les questions numériques (présent si type = 'numeric')",
+    "scoring_note": "string | null — note explicative sur le calcul du score pour les questions multi_choice"
+  },
+
+  "_condition_schema": {
+    "questionId": "string — id de la question parente dont dépend l'affichage",
+    "operator": "string — enum: 'eq' | 'in' | 'neq'",
+    "value": "string | array — valeur(s) attendue(s) pour que la condition soit vraie"
+  },
+
+  "_option_schema": {
+    "id": "string — identifiant de l'option, ex: 'a', 'b', 'c'",
+    "text": "string — libellé de l'option",
+    "maturity_score": "integer (0–3) — contribution au score de maturité globale",
+    "concern_score": "integer (0–3) — contribution au score de préoccupation / urgence",
+    "topics": "array<string> — topics de faiblesse déclenchés si cette option est sélectionnée"
+  },
+
+  "_input_schema": {
+    "unit": "string — unité affichée, ex: 'm³/an'",
+    "placeholder": "string — texte indicatif dans le champ",
+    "min": "number",
+    "max": "number",
+    "integer_only": "boolean"
+  },
+
+  "_scoring_schema": {
+    "if_filled": {
+      "maturity_score": "integer",
+      "concern_score": "integer",
+      "topics": "array<string>"
+    },
+    "if_empty": {
+      "maturity_score": "integer",
+      "concern_score": "integer",
+      "topics": "array<string>"
+    }
+  },
+
+  "_example_documents": [
+    {
+      "_id": "ObjectId('...')",
+      "id": "agri_q01",
+      "theme": "connaissance",
+      "order": 1,
+      "type": "single_choice",
+      "class": null,
+      "text": "Disposez-vous d'un compteur d'eau sur votre exploitation ?",
+      "condition": null,
+      "options": [
+        { "id": "a", "text": "Non", "maturity_score": 0, "concern_score": 0, "topics": ["comptage"] },
+        { "id": "b", "text": "Oui, mais je ne le relève pas régulièrement", "maturity_score": 1, "concern_score": 1, "topics": ["comptage"] },
+        { "id": "c", "text": "Oui, je le relève manuellement", "maturity_score": 2, "concern_score": 2, "topics": [] },
+        { "id": "d", "text": "Oui, télérelève automatique ou outil de suivi numérique", "maturity_score": 3, "concern_score": 3, "topics": [] }
+      ]
+    },
+    {
+      "_id": "ObjectId('...')",
+      "id": "agri_q01b",
+      "theme": "connaissance",
+      "order": 2,
+      "type": "multi_choice",
+      "class": "source_eau",
+      "text": "D'où provient l'eau que vous utilisez sur votre exploitation ? (plusieurs réponses possibles)",
+      "condition": null,
+      "options": [
+        { "id": "a", "text": "Réseau d'eau potable (AEP)",                    "maturity_score": 0, "concern_score": 1, "topics": ["diversification_sources"] },
+        { "id": "b", "text": "Récupération d'eau de pluie",                    "maturity_score": 2, "concern_score": 3, "topics": [] },
+        { "id": "c", "text": "Captage d'eau souterraine (puits, forage)",      "maturity_score": 2, "concern_score": 2, "topics": [] },
+        { "id": "d", "text": "Captage d'eau de surface (rivière, lac, canal)", "maturity_score": 1, "concern_score": 2, "topics": [] }
+      ],
+      "scoring_note": "Somme des scores des options sélectionnées, plafonné à 3. Bonus +1 maturité si au moins 2 sources non-AEP combinées."
+    },
+    {
+      "_id": "ObjectId('...')",
+      "id": "agri_q01c",
+      "theme": "connaissance",
+      "order": 3,
+      "type": "numeric",
+      "class": null,
+      "text": "Quelle est votre consommation d'eau annuelle estimée ?",
+      "condition": null,
+      "input": {
+        "unit": "m³/an",
+        "placeholder": "ex. 15000",
+        "min": 0,
+        "max": 10000000,
+        "integer_only": true
+      },
+      "scoring": {
+        "if_filled": { "maturity_score": 2, "concern_score": 2, "topics": [] },
+        "if_empty":  { "maturity_score": 0, "concern_score": 0, "topics": ["comptage"] }
+      }
+    }
+  ]
+}

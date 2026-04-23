@@ -1,0 +1,624 @@
+{
+  "_endpoint": "GET /questionnaire/{naf}",
+  "_description": "Retourne toutes les données nécessaires au frontend pour afficher le questionnaire, construire le plan d'action et suggérer les aides et prestataires. Le lookup se fait via naf_codes dans la collection 'questionnaires'.",
+  "_example_request": "GET /questionnaire/01.11Z",
+  "_example_response": {
+
+    "questionnaire_id": "agriculture",
+    "sector_id": "agriculture",
+    "sector_label": "Agriculture",
+    "naf_code": "01.11Z",
+
+    "themes": [
+      { "id": "connaissance", "label": "Connaissance & mesure" },
+      { "id": "pratiques",    "label": "Pratiques d'irrigation" },
+      { "id": "reut",         "label": "Réutilisation & stockage" },
+      { "id": "gouvernance",  "label": "Gouvernance & anticipation" }
+    ],
+
+    "topics_labels": {
+      "comptage": "Comptage & mesure",
+      "audit": "Audit eau",
+      "diversification_sources": "Diversification des sources d'eau",
+      "pilotage_irrigation": "Pilotage de l'irrigation",
+      "optimisation_irrigation": "Optimisation du système d'irrigation",
+      "stockage": "Stockage et retenue d'eau",
+      "reut": "Réutilisation des eaux",
+      "risque_reglementaire": "Analyse des risques réglementaires",
+      "adaptation_cultures": "Adaptation des cultures"
+    },
+
+    "questions": [
+      {
+        "id": "agri_q01",
+        "theme": "connaissance",
+        "order": 1,
+        "type": "single_choice",
+        "class": null,
+        "text": "Disposez-vous d'un compteur d'eau sur votre exploitation ?",
+        "condition": null,
+        "options": [
+          { "id": "a", "text": "Non", "maturity_score": 0, "concern_score": 0, "topics": ["comptage"] },
+          { "id": "b", "text": "Oui, mais je ne le relève pas régulièrement", "maturity_score": 1, "concern_score": 1, "topics": ["comptage"] },
+          { "id": "c", "text": "Oui, je le relève manuellement", "maturity_score": 2, "concern_score": 2, "topics": [] },
+          { "id": "d", "text": "Oui, télérelève automatique ou outil de suivi numérique", "maturity_score": 3, "concern_score": 3, "topics": [] }
+        ]
+      },
+      {
+        "id": "agri_q01b",
+        "theme": "connaissance",
+        "order": 2,
+        "type": "multi_choice",
+        "class": "source_eau",
+        "text": "D'où provient l'eau que vous utilisez sur votre exploitation ? (plusieurs réponses possibles)",
+        "condition": null,
+        "options": [
+          { "id": "a", "text": "Réseau d'eau potable (AEP)",                    "maturity_score": 0, "concern_score": 1, "topics": ["diversification_sources"] },
+          { "id": "b", "text": "Récupération d'eau de pluie",                    "maturity_score": 2, "concern_score": 3, "topics": [] },
+          { "id": "c", "text": "Captage d'eau souterraine (puits, forage)",      "maturity_score": 2, "concern_score": 2, "topics": [] },
+          { "id": "d", "text": "Captage d'eau de surface (rivière, lac, canal)", "maturity_score": 1, "concern_score": 2, "topics": [] }
+        ],
+        "scoring_note": "Somme des scores des options sélectionnées, plafonné à 3. Bonus +1 maturité si au moins 2 sources non-AEP combinées."
+      },
+      {
+        "id": "agri_q01c",
+        "theme": "connaissance",
+        "order": 3,
+        "type": "numeric",
+        "class": null,
+        "text": "Quelle est votre consommation d'eau annuelle estimée ?",
+        "condition": null,
+        "input": {
+          "unit": "m³/an",
+          "placeholder": "ex. 15000",
+          "min": 0,
+          "max": 10000000,
+          "integer_only": true
+        },
+        "scoring": {
+          "if_filled": { "maturity_score": 2, "concern_score": 2, "topics": [] },
+          "if_empty":  { "maturity_score": 0, "concern_score": 0, "topics": ["comptage"] }
+        }
+      },
+      {
+        "id": "agri_q02",
+        "theme": "connaissance",
+        "order": 4,
+        "type": "single_choice",
+        "class": null,
+        "text": "Avez-vous réalisé un audit eau ou un diagnostic de vos consommations ?",
+        "condition": null,
+        "options": [
+          { "id": "a", "text": "Non, jamais", "maturity_score": 0, "concern_score": 0, "topics": ["audit"] },
+          { "id": "b", "text": "On y a réfléchi mais pas encore fait", "maturity_score": 0, "concern_score": 2, "topics": ["audit"] },
+          { "id": "c", "text": "Oui, il y a plus de 5 ans", "maturity_score": 1, "concern_score": 2, "topics": ["audit"] },
+          { "id": "d", "text": "Oui, récemment (moins de 3 ans)", "maturity_score": 3, "concern_score": 3, "topics": [] }
+        ]
+      },
+      {
+        "id": "agri_q03",
+        "theme": "pratiques",
+        "order": 5,
+        "type": "single_choice",
+        "class": null,
+        "text": "Comment pilotez-vous vos irrigations ?",
+        "condition": null,
+        "options": [
+          { "id": "a", "text": "À vue / par habitude", "maturity_score": 0, "concern_score": 0, "topics": ["pilotage_irrigation"] },
+          { "id": "b", "text": "En fonction de la météo (prévisions générales)", "maturity_score": 1, "concern_score": 1, "topics": ["pilotage_irrigation"] },
+          { "id": "c", "text": "Avec des outils de pilotage (tensiomètres, ETP...)", "maturity_score": 2, "concern_score": 2, "topics": [] },
+          { "id": "d", "text": "Avec des capteurs connectés et/ou un outil d'aide à la décision", "maturity_score": 3, "concern_score": 3, "topics": [] }
+        ]
+      },
+      {
+        "id": "agri_q04",
+        "theme": "pratiques",
+        "order": 6,
+        "type": "single_choice",
+        "class": null,
+        "text": "Quel type de système d'irrigation utilisez-vous principalement ?",
+        "condition": null,
+        "options": [
+          { "id": "a", "text": "Aspersion ou submersion (gravitaire)", "maturity_score": 0, "concern_score": 0, "topics": ["optimisation_irrigation"] },
+          { "id": "b", "text": "Aspersion avec pivots ou rampes", "maturity_score": 1, "concern_score": 1, "topics": ["optimisation_irrigation"] },
+          { "id": "c", "text": "Goutte-à-goutte ou micro-irrigation", "maturity_score": 3, "concern_score": 2, "topics": [] },
+          { "id": "d", "text": "Je n'irrigue pas / culture pluviale uniquement", "maturity_score": 2, "concern_score": 2, "topics": [] }
+        ]
+      },
+      {
+        "id": "agri_q05",
+        "theme": "reut",
+        "order": 7,
+        "type": "single_choice",
+        "class": null,
+        "text": "Disposez-vous de capacités de stockage d'eau (retenue, bassin, citerne) ?",
+        "condition": null,
+        "options": [
+          { "id": "a", "text": "Non", "maturity_score": 0, "concern_score": 0, "topics": ["stockage"] },
+          { "id": "b", "text": "Oui, de petite capacité (moins de 1 000 m³)", "maturity_score": 1, "concern_score": 1, "topics": [] },
+          { "id": "c", "text": "Oui, capacité significative (plus de 1 000 m³)", "maturity_score": 2, "concern_score": 2, "topics": [] },
+          { "id": "d", "text": "Oui, et je l'optimise avec un plan de gestion", "maturity_score": 3, "concern_score": 3, "topics": [] }
+        ]
+      },
+      {
+        "id": "agri_q06",
+        "theme": "reut",
+        "order": 8,
+        "type": "single_choice",
+        "class": null,
+        "text": "Récupérez-vous les eaux de pluie ou d'autres sources alternatives ?",
+        "condition": null,
+        "options": [
+          { "id": "a", "text": "Non", "maturity_score": 0, "concern_score": 0, "topics": ["reut", "stockage"] },
+          { "id": "b", "text": "De façon informelle / non structurée", "maturity_score": 1, "concern_score": 1, "topics": ["reut"] },
+          { "id": "c", "text": "Oui, système en place", "maturity_score": 3, "concern_score": 3, "topics": [] }
+        ]
+      },
+      {
+        "id": "agri_q07",
+        "theme": "gouvernance",
+        "order": 9,
+        "type": "single_choice",
+        "class": null,
+        "text": "Avez-vous analysé votre exposition aux risques liés aux restrictions d'eau ?",
+        "condition": null,
+        "options": [
+          { "id": "a", "text": "Non, ce n'est pas quelque chose que j'ai regardé", "maturity_score": 0, "concern_score": 0, "topics": ["risque_reglementaire"] },
+          { "id": "b", "text": "Je suis informé mais sans analyse formelle", "maturity_score": 1, "concern_score": 2, "topics": ["risque_reglementaire"] },
+          { "id": "c", "text": "Oui, j'ai évalué les risques pour mon exploitation", "maturity_score": 2, "concern_score": 3, "topics": [] },
+          { "id": "d", "text": "Oui, et j'ai un plan d'adaptation formalisé", "maturity_score": 3, "concern_score": 3, "topics": [] }
+        ]
+      },
+      {
+        "id": "agri_q08",
+        "theme": "gouvernance",
+        "order": 10,
+        "type": "single_choice",
+        "class": null,
+        "text": "Avez-vous envisagé ou réalisé une évolution de vos cultures pour réduire votre dépendance à l'eau ?",
+        "condition": null,
+        "options": [
+          { "id": "a", "text": "Non, pas envisagé", "maturity_score": 0, "concern_score": 0, "topics": ["adaptation_cultures"] },
+          { "id": "b", "text": "Sujet en réflexion, pas encore de changement", "maturity_score": 0, "concern_score": 2, "topics": ["adaptation_cultures"] },
+          { "id": "c", "text": "Quelques ajustements déjà réalisés", "maturity_score": 2, "concern_score": 3, "topics": [] },
+          { "id": "d", "text": "Démarche structurée d'adaptation agronomique", "maturity_score": 3, "concern_score": 3, "topics": [] }
+        ]
+      }
+    ],
+
+    "actions": [
+      {
+        "id": "ACT_AGR_001",
+        "titre": "Installer un compteur divisionnaire par usage",
+        "description": "Séparer le comptage entre irrigation, process, usage sanitaire et nettoyage pour identifier les postes de consommation et détecter les fuites.",
+        "categorie": "suivre_comprendre_maitriser",
+        "tags": ["comptage", "mesure", "baseline", "fuite"],
+        "secteurs": ["01"],
+        "effort": { "capex": "faible", "opex": "faible", "humain": "faible" },
+        "impact_eau": 2, "facilite": 3, "horizon": "immediat",
+        "image": "https://picsum.photos/seed/water-meter-gauge/600/200",
+        "triggers": {
+          "topics": ["comptage"],
+          "maturity": ["novice", "intermediaire"],
+          "answers": [{ "questionId": "agri_q01", "operator": "in", "value": ["a", "b"] }]
+        },
+        "ressources": [
+          { "label": "Guide comptage ADEME", "url": "https://librairie.ademe.fr", "type": "guide" }
+        ]
+      },
+      {
+        "id": "ACT_AGR_002",
+        "titre": "Réaliser un audit eau de l'exploitation",
+        "description": "Faire appel à un bureau d'études ou à la chambre d'agriculture pour établir un diagnostic complet des usages.",
+        "categorie": "suivre_comprendre_maitriser",
+        "tags": ["audit", "diagnostic", "baseline"],
+        "secteurs": ["01"],
+        "effort": { "capex": "faible", "opex": "faible", "humain": "moyen" },
+        "impact_eau": 2, "facilite": 3, "horizon": "immediat",
+        "image": "https://picsum.photos/seed/farm-audit-notebook/600/200",
+        "triggers": {
+          "topics": ["audit"],
+          "maturity": ["novice", "intermediaire"],
+          "answers": [{ "questionId": "agri_q02", "operator": "in", "value": ["a", "b"] }]
+        },
+        "ressources": [
+          { "label": "Chambre d'agriculture – diagnostics eau", "url": "https://chambres-agriculture.fr", "type": "guide" },
+          { "label": "Aide France AgriMer", "url": "https://franceagrimer.fr", "type": "aide_financiere" }
+        ]
+      },
+      {
+        "id": "ACT_AGR_003",
+        "titre": "Mettre en place un outil de pilotage de l'irrigation",
+        "description": "Adopter un outil d'aide à la décision basé sur des données météo locales, l'ETP et des capteurs sol.",
+        "categorie": "ameliorer_efficacite_hydrique",
+        "tags": ["pilotage_irrigation", "capteur", "decision"],
+        "secteurs": ["01"],
+        "effort": { "capex": "moyen", "opex": "faible", "humain": "moyen" },
+        "impact_eau": 3, "facilite": 2, "horizon": "court_terme",
+        "image": "https://picsum.photos/seed/soil-sensor-tech/600/200",
+        "triggers": {
+          "topics": ["pilotage_irrigation"],
+          "maturity": ["novice", "intermediaire"],
+          "answers": [{ "questionId": "agri_q03", "operator": "in", "value": ["a", "b"] }]
+        },
+        "ressources": [
+          { "label": "Irri'Décision – ARVALIS", "url": "https://www.arvalis.fr", "type": "outil" }
+        ]
+      },
+      {
+        "id": "ACT_AGR_004",
+        "titre": "Convertir vers un système d'irrigation localisée (goutte-à-goutte)",
+        "description": "Remplacer les systèmes d'aspersion ou gravitaires par du goutte-à-goutte pour réduire les pertes par évaporation.",
+        "categorie": "ameliorer_efficacite_hydrique",
+        "tags": ["optimisation_irrigation", "goutte_a_goutte", "equipement"],
+        "secteurs": ["01"],
+        "effort": { "capex": "important", "opex": "faible", "humain": "moyen" },
+        "impact_eau": 3, "facilite": 2, "horizon": "moyen_terme",
+        "image": "https://picsum.photos/seed/drip-irrigation-crops/600/200",
+        "triggers": {
+          "topics": ["optimisation_irrigation"],
+          "maturity": ["novice", "intermediaire"],
+          "answers": [{ "questionId": "agri_q04", "operator": "in", "value": ["a", "b"] }]
+        },
+        "ressources": [
+          { "label": "Plan de compétitivité agroécologique – PCAE", "url": "https://agriculture.gouv.fr", "type": "aide_financiere" }
+        ]
+      },
+      {
+        "id": "ACT_AGR_005",
+        "titre": "Construire ou agrandir une retenue collinaire ou un bassin de stockage",
+        "description": "Stocker l'eau en période excédentaire pour disposer d'une réserve en période de restriction.",
+        "categorie": "valoriser_reut_eaux_non_conventionnelles",
+        "tags": ["stockage", "retenue", "resilience"],
+        "secteurs": ["01"],
+        "effort": { "capex": "important", "opex": "faible", "humain": "faible" },
+        "impact_eau": 3, "facilite": 1, "horizon": "moyen_terme",
+        "image": "https://picsum.photos/seed/water-reservoir-hill/600/200",
+        "triggers": {
+          "topics": ["stockage"],
+          "maturity": ["novice", "intermediaire"],
+          "answers": [{ "questionId": "agri_q05", "operator": "eq", "value": "a" }]
+        },
+        "ressources": [
+          { "label": "Financement retenues – Agences de l'eau", "url": "https://eaufrance.fr", "type": "aide_financiere" }
+        ]
+      },
+      {
+        "id": "ACT_AGR_006",
+        "titre": "Mettre en place un système de récupération des eaux pluviales",
+        "description": "Récupérer les eaux de toitures de bâtiments agricoles pour les usages non-alimentaires.",
+        "categorie": "valoriser_reut_eaux_non_conventionnelles",
+        "tags": ["reut", "stockage", "eaux_pluviales"],
+        "secteurs": ["01"],
+        "effort": { "capex": "moyen", "opex": "faible", "humain": "faible" },
+        "impact_eau": 2, "facilite": 2, "horizon": "court_terme",
+        "image": "https://picsum.photos/seed/rainwater-roof-tank/600/200",
+        "triggers": {
+          "topics": ["reut"],
+          "maturity": ["novice", "intermediaire"],
+          "answers": [{ "questionId": "agri_q06", "operator": "in", "value": ["a", "b"] }]
+        },
+        "ressources": [
+          { "label": "Aide équipement – Région / ADEME", "url": "https://ademe.fr", "type": "aide_financiere" }
+        ]
+      },
+      {
+        "id": "ACT_AGR_007",
+        "titre": "Diversifier les sources d'approvisionnement en eau",
+        "description": "Réduire la dépendance au réseau AEP en développant des sources alternatives.",
+        "categorie": "valoriser_reut_eaux_non_conventionnelles",
+        "tags": ["diversification_sources", "resilience", "approvisionnement"],
+        "secteurs": ["01"],
+        "effort": { "capex": "moyen", "opex": "faible", "humain": "moyen" },
+        "impact_eau": 2, "facilite": 2, "horizon": "court_terme",
+        "image": "https://picsum.photos/seed/water-sources-stream/600/200",
+        "triggers": {
+          "topics": ["diversification_sources"],
+          "maturity": ["novice", "intermediaire"],
+          "answers": [{ "questionId": "agri_q01b", "operator": "eq", "value": ["a"] }]
+        },
+        "ressources": []
+      },
+      {
+        "id": "ACT_AGR_008",
+        "titre": "Engager une démarche d'adaptation des cultures aux stress hydriques",
+        "description": "Évaluer et faire évoluer le mix cultural vers des espèces ou variétés plus résilientes au manque d'eau.",
+        "categorie": "changer_process_pratiques",
+        "tags": ["adaptation_cultures", "varietes", "agronomie", "resilience"],
+        "secteurs": ["01"],
+        "effort": { "capex": "faible", "opex": "moyen", "humain": "important" },
+        "impact_eau": 3, "facilite": 1, "horizon": "moyen_terme",
+        "image": "https://picsum.photos/seed/drought-resistant-field/600/200",
+        "triggers": {
+          "topics": ["adaptation_cultures"],
+          "maturity": ["novice", "intermediaire"],
+          "answers": [{ "questionId": "agri_q08", "operator": "in", "value": ["a", "b"] }]
+        },
+        "ressources": [
+          { "label": "Diagnostic Agro-Adapt – Chambres d'agriculture", "url": "https://chambres-agriculture.fr", "type": "guide" }
+        ]
+      },
+      {
+        "id": "ACT_AGR_009",
+        "titre": "Formaliser un plan de gestion de l'eau et anticiper les restrictions",
+        "description": "Élaborer un document interne qui cartographie les usages, les sources, les risques réglementaires.",
+        "categorie": "sensibiliser_former",
+        "tags": ["risque_reglementaire", "planification", "gouvernance"],
+        "secteurs": ["01"],
+        "effort": { "capex": "faible", "opex": "faible", "humain": "moyen" },
+        "impact_eau": 1, "facilite": 2, "horizon": "court_terme",
+        "image": "https://picsum.photos/seed/planning-document-team/600/200",
+        "triggers": {
+          "topics": ["risque_reglementaire"],
+          "maturity": ["novice", "intermediaire"],
+          "answers": [{ "questionId": "agri_q07", "operator": "in", "value": ["a", "b"] }]
+        },
+        "ressources": [
+          { "label": "Outil ZRE – Agences de l'eau", "url": "https://eaufrance.fr", "type": "outil" }
+        ]
+      },
+      {
+        "id": "ACT_AGR_010",
+        "titre": "Participer à une démarche collective de gestion de l'eau (PTGE, ASA)",
+        "description": "S'engager dans un Projet de Territoire pour la Gestion de l'Eau pour mutualiser les ressources.",
+        "categorie": "agir_grand_cycle",
+        "tags": ["gouvernance", "collectif", "territoire", "PTGE"],
+        "secteurs": ["01"],
+        "effort": { "capex": "faible", "opex": "faible", "humain": "moyen" },
+        "impact_eau": 2, "facilite": 2, "horizon": "court_terme",
+        "image": "https://picsum.photos/seed/community-meeting-river/600/200",
+        "triggers": {
+          "topics": ["risque_reglementaire", "adaptation_cultures"],
+          "maturity": ["intermediaire", "avance"],
+          "answers": []
+        },
+        "ressources": [
+          { "label": "PTGE – Ministère de la transition écologique", "url": "https://ecologie.gouv.fr", "type": "guide" }
+        ]
+      }
+    ],
+
+    "action_plan_config": {
+      "always_include": [],
+      "never_include": [],
+      "filters": [
+        {
+          "id": "f_no_compteur",
+          "description": "Pas de compteur ou relevé irrégulier → recommander le comptage",
+          "type": "answer",
+          "questionId": "agri_q01",
+          "operator": "in",
+          "value": ["a", "b"],
+          "effect": "add",
+          "measures": ["ACT_AGR_001"],
+          "priority": 1
+        },
+        {
+          "id": "f_no_audit",
+          "description": "Pas d'audit ou audit ancien → recommander le diagnostic",
+          "type": "answer",
+          "questionId": "agri_q02",
+          "operator": "in",
+          "value": ["a", "b", "c"],
+          "effect": "add",
+          "measures": ["ACT_AGR_002"],
+          "priority": 1
+        },
+        {
+          "id": "f_usage_irrigation",
+          "description": "Si l'entreprise irrigue → ajouter les mesures irrigation",
+          "type": "answer",
+          "questionId": "agri_q04",
+          "operator": "neq",
+          "value": "d",
+          "effect": "add",
+          "measures": ["ACT_AGR_003", "ACT_AGR_004"],
+          "priority": 1
+        },
+        {
+          "id": "f_no_irrigation",
+          "description": "Si pas d'irrigation du tout → retirer les mesures irrigation",
+          "type": "answer",
+          "questionId": "agri_q04",
+          "operator": "eq",
+          "value": "d",
+          "effect": "remove",
+          "measures": ["ACT_AGR_003", "ACT_AGR_004"],
+          "priority": 2
+        },
+        {
+          "id": "f_pilotage_faible",
+          "description": "Pilotage à vue ou météo → recommander outil de pilotage",
+          "type": "answer",
+          "questionId": "agri_q03",
+          "operator": "in",
+          "value": ["a", "b"],
+          "effect": "add",
+          "measures": ["ACT_AGR_003"],
+          "priority": 1
+        },
+        {
+          "id": "f_systeme_inefficace",
+          "description": "Aspersion ou gravitaire → recommander irrigation localisée",
+          "type": "answer",
+          "questionId": "agri_q04",
+          "operator": "in",
+          "value": ["a", "b"],
+          "effect": "add",
+          "measures": ["ACT_AGR_004"],
+          "priority": 1
+        },
+        {
+          "id": "f_no_stockage",
+          "description": "Pas de stockage → recommander retenue ou récupération pluie",
+          "type": "answer",
+          "questionId": "agri_q05",
+          "operator": "eq",
+          "value": "a",
+          "effect": "add",
+          "measures": ["ACT_AGR_005", "ACT_AGR_006"],
+          "priority": 1
+        },
+        {
+          "id": "f_no_reut",
+          "description": "Pas de réutilisation → recommander récupération eaux pluviales",
+          "type": "answer",
+          "questionId": "agri_q06",
+          "operator": "in",
+          "value": ["a", "b"],
+          "effect": "add",
+          "measures": ["ACT_AGR_006"],
+          "priority": 1
+        },
+        {
+          "id": "f_source_uniquement_aep",
+          "description": "AEP parmi les sources → recommander diversification",
+          "type": "class",
+          "class": "source_eau",
+          "operator": "includes",
+          "value": "a",
+          "effect": "add",
+          "measures": ["ACT_AGR_007"],
+          "priority": 1
+        },
+        {
+          "id": "f_risque_reglementaire",
+          "description": "Peu conscient des risques réglementaires → plan de gestion",
+          "type": "answer",
+          "questionId": "agri_q07",
+          "operator": "in",
+          "value": ["a", "b"],
+          "effect": "add",
+          "measures": ["ACT_AGR_009"],
+          "priority": 1
+        },
+        {
+          "id": "f_pas_adaptation_cultures",
+          "description": "Pas d'adaptation des cultures → recommander démarche agronomique",
+          "type": "answer",
+          "questionId": "agri_q08",
+          "operator": "in",
+          "value": ["a", "b"],
+          "effect": "add",
+          "measures": ["ACT_AGR_008"],
+          "priority": 1
+        },
+        {
+          "id": "f_conso_elevee",
+          "description": "Conso annuelle ≥ 50 000 m³ → proposer démarche collective PTGE",
+          "type": "numeric",
+          "questionId": "agri_q01c",
+          "operator": "gte",
+          "value": 50000,
+          "effect": "add",
+          "measures": ["ACT_AGR_010"],
+          "priority": 1
+        },
+        {
+          "id": "f_avance_collectif",
+          "description": "Entreprise intermédiaire ou avancée → proposer démarche collective PTGE",
+          "type": "maturity",
+          "operator": "in",
+          "value": ["intermediaire", "avance"],
+          "effect": "add",
+          "measures": ["ACT_AGR_010"],
+          "priority": 1
+        }
+      ]
+    },
+
+    "prestataires": [
+      {
+        "id": "PREST_AGR_001",
+        "nom": "Chambre d'Agriculture",
+        "type": "chambre_consulaire",
+        "icon": "🌾",
+        "description": "Accompagnement de proximité pour les exploitants agricoles sur la gestion de l'eau, le pilotage de l'irrigation et les pratiques agro-environnementales.",
+        "expertises": ["Diagnostic eau", "Pilotage irrigation", "Pratiques agro-écologiques", "Conseil réglementaire"],
+        "secteurs": ["01"],
+        "measures": ["ACT_AGR_001", "ACT_AGR_002", "ACT_AGR_003", "ACT_AGR_008", "ACT_AGR_009", "ACT_AGR_010"],
+        "territoire": "regional",
+        "url": "https://chambres-agriculture.fr",
+        "url_label": "chambres-agriculture.fr"
+      },
+      {
+        "id": "PREST_AGR_002",
+        "nom": "AquaConseil (bureau d'études eau)",
+        "type": "bureau_etudes",
+        "icon": "📐",
+        "description": "Bureau d'études spécialisé en hydraulique agricole et gestion quantitative de la ressource. Audits eau, schémas directeurs d'irrigation, études de faisabilité de retenues.",
+        "expertises": ["Audit hydraulique", "Schéma directeur irrigation", "Faisabilité retenues collinaires", "Bilan besoins/ressources"],
+        "secteurs": ["01"],
+        "measures": ["ACT_AGR_002", "ACT_AGR_003", "ACT_AGR_004", "ACT_AGR_005", "ACT_AGR_006", "ACT_AGR_007"],
+        "territoire": "national",
+        "url": "https://exemple-aquaconseil.fr",
+        "url_label": "aquaconseil.fr"
+      },
+      {
+        "id": "PREST_AGR_003",
+        "nom": "ARVALIS – Institut du végétal",
+        "type": "organisme_technique",
+        "icon": "🔬",
+        "description": "Institut technique référent sur l'eau et les grandes cultures. Outils de pilotage (IRRI@, STICS), formations et accompagnement agronomique.",
+        "expertises": ["Outils OAD irrigation", "Expérimentation variétale", "Conseil agronomique", "Formation terrain"],
+        "secteurs": ["01"],
+        "measures": ["ACT_AGR_003", "ACT_AGR_004", "ACT_AGR_008"],
+        "territoire": "national",
+        "url": "https://arvalis.fr",
+        "url_label": "arvalis.fr"
+      },
+      {
+        "id": "PREST_AGR_004",
+        "nom": "HydroSolutions (bureau d'études qualité)",
+        "type": "bureau_etudes",
+        "icon": "🧪",
+        "description": "Cabinet spécialisé dans la qualité des eaux agricoles, le traitement des effluents d'élevage et la mise en conformité réglementaire.",
+        "expertises": ["Traitement effluents", "Plan épandage", "Mise en conformité", "Labellisation HVE"],
+        "secteurs": ["01"],
+        "measures": ["ACT_AGR_009"],
+        "territoire": "regional",
+        "url": "https://exemple-hydrosolutions.fr",
+        "url_label": "hydrosolutions.fr"
+      },
+      {
+        "id": "PREST_AGR_005",
+        "nom": "Coopérative de l'Eau",
+        "type": "syndicat_professionnel",
+        "icon": "🤝",
+        "description": "Structure collective portant des projets de stockage mutualisé, de PTGE et de gouvernance concertée de la ressource.",
+        "expertises": ["PTGE / gouvernance", "Stockage collectif", "Montage de dossiers", "Animation territoriale"],
+        "secteurs": ["01"],
+        "measures": ["ACT_AGR_005", "ACT_AGR_006", "ACT_AGR_007", "ACT_AGR_010"],
+        "territoire": "local",
+        "url": "https://exemple-coop-eau.fr",
+        "url_label": "coop-eau.fr"
+      },
+      {
+        "id": "PREST_AGR_006",
+        "nom": "FormAgri",
+        "type": "organisme_formation",
+        "icon": "🎓",
+        "description": "Organisme de formation agricole certifié Qualiopi sur les économies d'eau, la gestion des intrants et les pratiques agroécologiques.",
+        "expertises": ["Formation gestion eau", "Agroécologie", "Certification Qualiopi", "E-learning agricole"],
+        "secteurs": ["01"],
+        "measures": ["ACT_AGR_008", "ACT_AGR_009"],
+        "territoire": "national",
+        "url": "https://exemple-formagri.fr",
+        "url_label": "formagri.fr"
+      },
+      {
+        "id": "PREST_AGR_007",
+        "nom": "EcoRecup (récupération eaux pluviales)",
+        "type": "bureau_etudes",
+        "icon": "♻️",
+        "description": "Bureau spécialisé dans la conception de systèmes de récupération et de réutilisation des eaux de pluie et de ruissellement.",
+        "expertises": ["Récupération eaux pluviales", "Bassins tampons", "Réutilisation eaux process", "Dimensionnement stockage"],
+        "secteurs": ["01"],
+        "measures": ["ACT_AGR_005", "ACT_AGR_006", "ACT_AGR_007"],
+        "territoire": "regional",
+        "url": "https://exemple-ecorecup.fr",
+        "url_label": "ecorecup.fr"
+      }
+    ]
+  }
+}

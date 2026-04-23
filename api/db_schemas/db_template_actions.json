@@ -1,0 +1,110 @@
+{
+  "_collection": "actions",
+  "_description": "Stocke toutes les actions/solutions du plan d'action pour tous les secteurs. Chaque document = une mesure recommandable. Les actions sont sélectionnées côté backend selon les filtres définis dans la collection 'questionnaires'.",
+  "_indexes": [
+    { "field": "id", "unique": true },
+    { "field": "secteurs" },
+    { "field": "categorie" },
+    { "field": "tags" }
+  ],
+
+  "_schema": {
+    "_id": "ObjectId — généré automatiquement",
+    "id": "string — identifiant métier unique, ex: 'ACT_AGR_001'",
+    "titre": "string — titre court de l'action",
+    "description": "string — description détaillée de la mesure",
+    "categorie": "string — catégorie fonctionnelle de l'action, utilisée pour lier les aides et prestataires pertinents",
+    "tags": "array<string> — mots-clés thématiques pour la recherche et le filtrage",
+    "secteurs": "array<string> — codes NAF racine (2 premiers chiffres) auxquels s'applique cette action, ex: ['01']",
+    "effort": {
+      "capex": "string — enum: 'faible' | 'moyen' | 'important'",
+      "opex":  "string — enum: 'faible' | 'moyen' | 'important'",
+      "humain": "string — enum: 'faible' | 'moyen' | 'important'"
+    },
+    "impact_eau": "integer (1–3) — niveau d'impact estimé sur la consommation ou la qualité de l'eau",
+    "facilite": "integer (1–3) — facilité de mise en œuvre (3 = très facile)",
+    "horizon": "string — enum: 'immediat' | 'court_terme' | 'moyen_terme' | 'long_terme'",
+    "image": "string | null — URL d'une image illustrative",
+    "triggers": {
+      "_description": "Conditions intrinsèques à l'action indiquant quand elle est naturellement pertinente. La logique de sélection finale est pilotée par les 'filters' dans la collection 'questionnaires'.",
+      "topics": "array<string> — topics de faiblesse pour lesquels cette action est une réponse directe",
+      "maturity": "array<string> — niveaux de maturité pour lesquels cette action est adaptée: 'novice' | 'intermediaire' | 'avance'",
+      "answers": "array<AnswerCondition> — conditions sur les réponses spécifiques au questionnaire"
+    },
+    "ressources": "array<Ressource> — liens vers ressources externes (guides, aides financières, outils)"
+  },
+
+  "_answer_condition_schema": {
+    "questionId": "string — id de la question concernée",
+    "operator": "string — enum: 'eq' | 'neq' | 'in' | 'gte' | 'lte'",
+    "value": "string | array | number — valeur(s) déclenchant la condition"
+  },
+
+  "_ressource_schema": {
+    "label": "string — texte du lien affiché",
+    "url": "string — URL de la ressource",
+    "type": "string — enum: 'guide' | 'aide_financiere' | 'outil' | 'formation'"
+  },
+
+  "_categories_enum": [
+    "suivre_comprendre_maitriser",
+    "ameliorer_efficacite_hydrique",
+    "valoriser_reut_eaux_non_conventionnelles",
+    "changer_process_pratiques",
+    "agir_rejets_qualite",
+    "agir_grand_cycle",
+    "sensibiliser_former"
+  ],
+
+  "_example_documents": [
+    {
+      "_id": "ObjectId('...')",
+      "id": "ACT_AGR_001",
+      "titre": "Installer un compteur divisionnaire par usage",
+      "description": "Séparer le comptage entre irrigation, process, usage sanitaire et nettoyage pour identifier les postes de consommation et détecter les fuites.",
+      "categorie": "suivre_comprendre_maitriser",
+      "tags": ["comptage", "mesure", "baseline", "fuite"],
+      "secteurs": ["01"],
+      "effort": { "capex": "faible", "opex": "faible", "humain": "faible" },
+      "impact_eau": 2,
+      "facilite": 3,
+      "horizon": "immediat",
+      "image": "https://picsum.photos/seed/water-meter-gauge/600/200",
+      "triggers": {
+        "topics": ["comptage"],
+        "maturity": ["novice", "intermediaire"],
+        "answers": [
+          { "questionId": "agri_q01", "operator": "in", "value": ["a", "b"] }
+        ]
+      },
+      "ressources": [
+        { "label": "Guide comptage ADEME", "url": "https://librairie.ademe.fr", "type": "guide" }
+      ]
+    },
+    {
+      "_id": "ObjectId('...')",
+      "id": "ACT_AGR_004",
+      "titre": "Convertir vers un système d'irrigation localisée (goutte-à-goutte)",
+      "description": "Remplacer les systèmes d'aspersion ou gravitaires par du goutte-à-goutte ou de la micro-irrigation pour réduire les pertes par évaporation et améliorer l'efficience de l'eau appliquée.",
+      "categorie": "ameliorer_efficacite_hydrique",
+      "tags": ["optimisation_irrigation", "goutte_a_goutte", "equipement"],
+      "secteurs": ["01"],
+      "effort": { "capex": "important", "opex": "faible", "humain": "moyen" },
+      "impact_eau": 3,
+      "facilite": 2,
+      "horizon": "moyen_terme",
+      "image": "https://picsum.photos/seed/drip-irrigation-crops/600/200",
+      "triggers": {
+        "topics": ["optimisation_irrigation"],
+        "maturity": ["novice", "intermediaire"],
+        "answers": [
+          { "questionId": "agri_q04", "operator": "in", "value": ["a", "b"] }
+        ]
+      },
+      "ressources": [
+        { "label": "Plan de compétitivité agroécologique – PCAE", "url": "https://agriculture.gouv.fr", "type": "aide_financiere" },
+        { "label": "Guide technique irrigation localisée – INRAE", "url": "https://inrae.fr", "type": "guide" }
+      ]
+    }
+  ]
+}

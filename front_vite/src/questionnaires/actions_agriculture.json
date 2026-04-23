@@ -1,0 +1,195 @@
+[
+  {
+    "id": "ACT_AGR_001",
+    "titre": "Installer un compteur divisionnaire par usage",
+    "description": "Séparer le comptage entre irrigation, process, usage sanitaire et nettoyage pour identifier les postes de consommation et détecter les fuites.",
+    "categorie": "suivre_comprendre_maitriser",
+    "tags": ["comptage", "mesure", "baseline", "fuite"],
+    "secteurs": ["01"],
+    "effort": { "capex": "faible", "opex": "faible", "humain": "faible" },
+    "impact_eau": 2, "facilite": 3, "horizon": "immediat",
+    "image": "https://picsum.photos/seed/water-meter-gauge/600/200",
+    "triggers": {
+      "topics": ["comptage"],
+      "maturity": ["novice", "intermediaire"],
+      "answers": [{ "questionId": "agri_q01", "operator": "in", "value": ["a", "b"] }]
+    },
+    "ressources": [
+      { "label": "Guide comptage ADEME", "url": "https://librairie.ademe.fr", "type": "guide" }
+    ]
+  },
+  {
+    "id": "ACT_AGR_002",
+    "titre": "Réaliser un audit eau de l'exploitation",
+    "description": "Faire appel à un bureau d'études ou à la chambre d'agriculture pour établir un diagnostic complet des usages, identifier les pertes et définir un plan d'action priorisé.",
+    "categorie": "suivre_comprendre_maitriser",
+    "tags": ["audit", "diagnostic", "baseline"],
+    "secteurs": ["01"],
+    "effort": { "capex": "faible", "opex": "faible", "humain": "moyen" },
+    "impact_eau": 2, "facilite": 3, "horizon": "immediat",
+    "image": "https://picsum.photos/seed/farm-audit-notebook/600/200",
+    "triggers": {
+      "topics": ["audit"],
+      "maturity": ["novice", "intermediaire"],
+      "answers": [{ "questionId": "agri_q02", "operator": "in", "value": ["a", "b"] }]
+    },
+    "ressources": [
+      { "label": "Chambre d'agriculture – diagnostics eau", "url": "https://chambres-agriculture.fr", "type": "guide" },
+      { "label": "Aide France AgriMer", "url": "https://franceagrimer.fr", "type": "aide_financiere" }
+    ]
+  },
+  {
+    "id": "ACT_AGR_003",
+    "titre": "Mettre en place un outil de pilotage de l'irrigation",
+    "description": "Adopter un outil d'aide à la décision basé sur des données météo locales, l'ETP et des capteurs sol pour irriguer uniquement quand nécessaire et en quantité juste.",
+    "categorie": "ameliorer_efficacite_hydrique",
+    "tags": ["pilotage_irrigation", "capteur", "decision"],
+    "secteurs": ["01"],
+    "effort": { "capex": "moyen", "opex": "faible", "humain": "moyen" },
+    "impact_eau": 3, "facilite": 2, "horizon": "court_terme",
+    "image": "https://picsum.photos/seed/soil-sensor-tech/600/200",
+    "triggers": {
+      "topics": ["pilotage_irrigation"],
+      "maturity": ["novice", "intermediaire"],
+      "answers": [{ "questionId": "agri_q03", "operator": "in", "value": ["a", "b"] }]
+    },
+    "ressources": [
+      { "label": "Irri'Décision – ARVALIS", "url": "https://www.arvalis.fr", "type": "outil" },
+      { "label": "Subvention équipement numérique – FranceAgriMer", "url": "https://franceagrimer.fr", "type": "aide_financiere" }
+    ]
+  },
+  {
+    "id": "ACT_AGR_004",
+    "titre": "Convertir vers un système d'irrigation localisée (goutte-à-goutte)",
+    "description": "Remplacer les systèmes d'aspersion ou gravitaires par du goutte-à-goutte ou de la micro-irrigation pour réduire les pertes par évaporation et améliorer l'efficience de l'eau appliquée.",
+    "categorie": "ameliorer_efficacite_hydrique",
+    "tags": ["optimisation_irrigation", "goutte_a_goutte", "equipement"],
+    "secteurs": ["01"],
+    "effort": { "capex": "important", "opex": "faible", "humain": "moyen" },
+    "impact_eau": 3, "facilite": 2, "horizon": "moyen_terme",
+    "image": "https://picsum.photos/seed/drip-irrigation-crops/600/200",
+    "triggers": {
+      "topics": ["optimisation_irrigation"],
+      "maturity": ["novice", "intermediaire"],
+      "answers": [{ "questionId": "agri_q04", "operator": "in", "value": ["a", "b"] }]
+    },
+    "ressources": [
+      { "label": "Plan de compétitivité agroécologique – PCAE", "url": "https://agriculture.gouv.fr", "type": "aide_financiere" },
+      { "label": "Guide technique irrigation localisée – INRAE", "url": "https://inrae.fr", "type": "guide" }
+    ]
+  },
+  {
+    "id": "ACT_AGR_005",
+    "titre": "Construire ou agrandir une retenue collinaire ou un bassin de stockage",
+    "description": "Stocker l'eau en période excédentaire (hiver, pluies) pour disposer d'une réserve en période de restriction. Réduire la dépendance aux prélèvements en période d'étiage.",
+    "categorie": "valoriser_reut_eaux_non_conventionnelles",
+    "tags": ["stockage", "retenue", "resilience"],
+    "secteurs": ["01"],
+    "effort": { "capex": "important", "opex": "faible", "humain": "faible" },
+    "impact_eau": 3, "facilite": 1, "horizon": "moyen_terme",
+    "image": "https://picsum.photos/seed/water-reservoir-hill/600/200",
+    "triggers": {
+      "topics": ["stockage"],
+      "maturity": ["novice", "intermediaire"],
+      "answers": [{ "questionId": "agri_q05", "operator": "eq", "value": "a" }]
+    },
+    "ressources": [
+      { "label": "Financement retenues – Agences de l'eau", "url": "https://eaufrance.fr", "type": "aide_financiere" },
+      { "label": "Guide technique retenues collinaires – CACG", "url": "https://cacg.fr", "type": "guide" }
+    ]
+  },
+  {
+    "id": "ACT_AGR_006",
+    "titre": "Mettre en place un système de récupération des eaux pluviales",
+    "description": "Récupérer les eaux de toitures de bâtiments agricoles pour les usages non-alimentaires : nettoyage, abreuvement, irrigation complémentaire.",
+    "categorie": "valoriser_reut_eaux_non_conventionnelles",
+    "tags": ["reut", "stockage", "eaux_pluviales"],
+    "secteurs": ["01"],
+    "effort": { "capex": "moyen", "opex": "faible", "humain": "faible" },
+    "impact_eau": 2, "facilite": 2, "horizon": "court_terme",
+    "image": "https://picsum.photos/seed/rainwater-roof-tank/600/200",
+    "triggers": {
+      "topics": ["reut"],
+      "maturity": ["novice", "intermediaire"],
+      "answers": [{ "questionId": "agri_q06", "operator": "in", "value": ["a", "b"] }]
+    },
+    "ressources": [
+      { "label": "Aide équipement – Région / ADEME", "url": "https://ademe.fr", "type": "aide_financiere" }
+    ]
+  },
+  {
+    "id": "ACT_AGR_007",
+    "titre": "Diversifier les sources d'approvisionnement en eau",
+    "description": "Réduire la dépendance au réseau AEP en développant des sources alternatives (eau de pluie, eau souterraine, eau de surface) afin de sécuriser l'approvisionnement et réduire les coûts.",
+    "categorie": "valoriser_reut_eaux_non_conventionnelles",
+    "tags": ["diversification_sources", "resilience", "approvisionnement"],
+    "secteurs": ["01"],
+    "effort": { "capex": "moyen", "opex": "faible", "humain": "moyen" },
+    "impact_eau": 2, "facilite": 2, "horizon": "court_terme",
+    "image": "https://picsum.photos/seed/water-sources-stream/600/200",
+    "triggers": {
+      "topics": ["diversification_sources"],
+      "maturity": ["novice", "intermediaire"],
+      "answers": [{ "questionId": "agri_q01b", "operator": "eq", "value": ["a"] }]
+    },
+    "ressources": []
+  },
+  {
+    "id": "ACT_AGR_008",
+    "titre": "Engager une démarche d'adaptation des cultures aux stress hydriques",
+    "description": "Évaluer et faire évoluer le mix cultural vers des espèces ou variétés plus résilientes au manque d'eau. Intégrer les projections climatiques locales dans les décisions agronomiques.",
+    "categorie": "changer_process_pratiques",
+    "tags": ["adaptation_cultures", "varietes", "agronomie", "resilience"],
+    "secteurs": ["01"],
+    "effort": { "capex": "faible", "opex": "moyen", "humain": "important" },
+    "impact_eau": 3, "facilite": 1, "horizon": "moyen_terme",
+    "image": "https://picsum.photos/seed/drought-resistant-field/600/200",
+    "triggers": {
+      "topics": ["adaptation_cultures"],
+      "maturity": ["novice", "intermediaire"],
+      "answers": [{ "questionId": "agri_q08", "operator": "in", "value": ["a", "b"] }]
+    },
+    "ressources": [
+      { "label": "Diagnostic Agro-Adapt – Chambres d'agriculture", "url": "https://chambres-agriculture.fr", "type": "guide" },
+      { "label": "Variétés résistantes à la sécheresse – GEVES", "url": "https://geves.fr", "type": "guide" }
+    ]
+  },
+  {
+    "id": "ACT_AGR_009",
+    "titre": "Formaliser un plan de gestion de l'eau et anticiper les restrictions",
+    "description": "Élaborer un document interne qui cartographie les usages, les sources, les risques réglementaires (arrêtés sécheresse, zones de répartition des eaux) et définit les actions de réduction en cas d'alerte.",
+    "categorie": "sensibiliser_former",
+    "tags": ["risque_reglementaire", "planification", "gouvernance"],
+    "secteurs": ["01"],
+    "effort": { "capex": "faible", "opex": "faible", "humain": "moyen" },
+    "impact_eau": 1, "facilite": 2, "horizon": "court_terme",
+    "image": "https://picsum.photos/seed/planning-document-team/600/200",
+    "triggers": {
+      "topics": ["risque_reglementaire"],
+      "maturity": ["novice", "intermediaire"],
+      "answers": [{ "questionId": "agri_q07", "operator": "in", "value": ["a", "b"] }]
+    },
+    "ressources": [
+      { "label": "Outil ZRE – Agences de l'eau", "url": "https://eaufrance.fr", "type": "outil" }
+    ]
+  },
+  {
+    "id": "ACT_AGR_010",
+    "titre": "Participer à une démarche collective de gestion de l'eau (PTGE, ASA)",
+    "description": "S'engager dans un Projet de Territoire pour la Gestion de l'Eau (PTGE) ou une Association Syndicale Autorisée (ASA) pour mutualiser les ressources, partager les données et peser collectivement sur la gouvernance locale de l'eau.",
+    "categorie": "agir_grand_cycle",
+    "tags": ["gouvernance", "collectif", "territoire", "PTGE"],
+    "secteurs": ["01"],
+    "effort": { "capex": "faible", "opex": "faible", "humain": "moyen" },
+    "impact_eau": 2, "facilite": 2, "horizon": "court_terme",
+    "image": "https://picsum.photos/seed/community-meeting-river/600/200",
+    "triggers": {
+      "topics": ["risque_reglementaire", "adaptation_cultures"],
+      "maturity": ["intermediaire", "avance"],
+      "answers": []
+    },
+    "ressources": [
+      { "label": "PTGE – Ministère de la transition écologique", "url": "https://ecologie.gouv.fr", "type": "guide" }
+    ]
+  }
+]

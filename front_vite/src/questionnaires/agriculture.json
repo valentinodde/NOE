@@ -1,0 +1,170 @@
+{
+  "sector_id": "agriculture",
+  "sector_label": "Agriculture",
+  "naf_codes": ["01.11Z", "01.12Z", "01.13Z", "01.14Z", "01.15Z", "01.19Z", "01.21Z", "01.22Z", "01.23Z", "01.24Z", "01.25Z", "01.26Z", "01.28Z", "01.29Z", "01.30Z", "01.41Z", "01.42Z", "01.43Z", "01.44Z", "01.45Z", "01.46Z", "01.47Z", "01.49Z", "01.50Z", "01.61Z", "01.62Z", "01.63Z", "01.64Z", "01.70Z"],
+  "themes": [
+    { "id": "connaissance", "label": "Connaissance & mesure" },
+    { "id": "pratiques", "label": "Pratiques d'irrigation" },
+    { "id": "reut", "label": "Réutilisation & stockage" },
+    { "id": "gouvernance", "label": "Gouvernance & anticipation" }
+  ],
+  "questions": [
+    {
+      "id": "agri_q01",
+      "theme": "connaissance",
+      "order": 1,
+      "type": "single_choice",
+      "text": "Disposez-vous d'un compteur d'eau sur votre exploitation ?",
+      "condition": null,
+      "options": [
+        { "id": "a", "text": "Non", "maturity_score": 0, "concern_score": 0, "topics": ["comptage"] },
+        { "id": "b", "text": "Oui, mais je ne le relève pas régulièrement", "maturity_score": 1, "concern_score": 1, "topics": ["comptage"] },
+        { "id": "c", "text": "Oui, je le relève manuellement", "maturity_score": 2, "concern_score": 2, "topics": [] },
+        { "id": "d", "text": "Oui, télérelève automatique ou outil de suivi numérique", "maturity_score": 3, "concern_score": 3, "topics": [] }
+      ]
+    },
+    {
+      "id": "agri_q01b",
+      "theme": "connaissance",
+      "order": 2,
+      "type": "multi_choice",
+      "class": "source_eau",
+      "text": "D'où provient l'eau que vous utilisez sur votre exploitation ? (plusieurs réponses possibles)",
+      "condition": null,
+      "options": [
+        { "id": "a", "text": "Réseau d'eau potable (AEP)",                      "maturity_score": 0, "concern_score": 1, "topics": ["diversification_sources"] },
+        { "id": "b", "text": "Récupération d'eau de pluie",                      "maturity_score": 2, "concern_score": 3, "topics": [] },
+        { "id": "c", "text": "Captage d'eau souterraine (puits, forage)",        "maturity_score": 2, "concern_score": 2, "topics": [] },
+        { "id": "d", "text": "Captage d'eau de surface (rivière, lac, canal)",   "maturity_score": 1, "concern_score": 2, "topics": [] }
+      ],
+      "scoring_note": "Somme des scores des options sélectionnées, plafonné à 3. Bonus +1 maturité si au moins 2 sources non-AEP combinées."
+    },
+    {
+      "id": "agri_q01c",
+      "theme": "connaissance",
+      "order": 3,
+      "type": "numeric",
+      "text": "Quelle est votre consommation d'eau annuelle estimée ?",
+      "condition": null,
+      "input": {
+        "unit": "m³/an",
+        "placeholder": "ex. 15000",
+        "min": 0,
+        "max": 10000000,
+        "integer_only": true
+      },
+      "scoring": {
+        "if_filled": { "maturity_score": 2, "concern_score": 2, "topics": [] },
+        "if_empty":  { "maturity_score": 0, "concern_score": 0, "topics": ["comptage"] }
+      }
+    },
+    {
+      "id": "agri_q02",
+      "theme": "connaissance",
+      "order": 4,
+      "type": "single_choice",
+      "text": "Avez-vous réalisé un audit eau ou un diagnostic de vos consommations ?",
+      "condition": null,
+      "options": [
+        { "id": "a", "text": "Non, jamais", "maturity_score": 0, "concern_score": 0, "topics": ["audit"] },
+        { "id": "b", "text": "On y a réfléchi mais pas encore fait", "maturity_score": 0, "concern_score": 2, "topics": ["audit"] },
+        { "id": "c", "text": "Oui, il y a plus de 5 ans", "maturity_score": 1, "concern_score": 2, "topics": ["audit"] },
+        { "id": "d", "text": "Oui, récemment (moins de 3 ans)", "maturity_score": 3, "concern_score": 3, "topics": [] }
+      ]
+    },
+    {
+      "id": "agri_q03",
+      "theme": "pratiques",
+      "order": 5,
+      "type": "single_choice",
+      "text": "Comment pilotez-vous vos irrigations ?",
+      "condition": null,
+      "options": [
+        { "id": "a", "text": "À vue / par habitude", "maturity_score": 0, "concern_score": 0, "topics": ["pilotage_irrigation"] },
+        { "id": "b", "text": "En fonction de la météo (prévisions générales)", "maturity_score": 1, "concern_score": 1, "topics": ["pilotage_irrigation"] },
+        { "id": "c", "text": "Avec des outils de pilotage (tensiomètres, ETP...)", "maturity_score": 2, "concern_score": 2, "topics": [] },
+        { "id": "d", "text": "Avec des capteurs connectés et/ou un outil d'aide à la décision", "maturity_score": 3, "concern_score": 3, "topics": [] }
+      ]
+    },
+    {
+      "id": "agri_q04",
+      "theme": "pratiques",
+      "order": 6,
+      "type": "single_choice",
+      "text": "Quel type de système d'irrigation utilisez-vous principalement ?",
+      "condition": null,
+      "options": [
+        { "id": "a", "text": "Aspersion ou submersion (gravitaire)", "maturity_score": 0, "concern_score": 0, "topics": ["optimisation_irrigation"] },
+        { "id": "b", "text": "Aspersion avec pivots ou rampes", "maturity_score": 1, "concern_score": 1, "topics": ["optimisation_irrigation"] },
+        { "id": "c", "text": "Goutte-à-goutte ou micro-irrigation", "maturity_score": 3, "concern_score": 2, "topics": [] },
+        { "id": "d", "text": "Je n'irrigue pas / culture pluviale uniquement", "maturity_score": 2, "concern_score": 2, "topics": [] }
+      ]
+    },
+    {
+      "id": "agri_q05",
+      "theme": "reut",
+      "order": 7,
+      "type": "single_choice",
+      "text": "Disposez-vous de capacités de stockage d'eau (retenue, bassin, citerne) ?",
+      "condition": null,
+      "options": [
+        { "id": "a", "text": "Non", "maturity_score": 0, "concern_score": 0, "topics": ["stockage"] },
+        { "id": "b", "text": "Oui, de petite capacité (moins de 1 000 m³)", "maturity_score": 1, "concern_score": 1, "topics": [] },
+        { "id": "c", "text": "Oui, capacité significative (plus de 1 000 m³)", "maturity_score": 2, "concern_score": 2, "topics": [] },
+        { "id": "d", "text": "Oui, et je l'optimise avec un plan de gestion", "maturity_score": 3, "concern_score": 3, "topics": [] }
+      ]
+    },
+    {
+      "id": "agri_q06",
+      "theme": "reut",
+      "order": 8,
+      "type": "single_choice",
+      "text": "Récupérez-vous les eaux de pluie ou d'autres sources alternatives ?",
+      "condition": null,
+      "options": [
+        { "id": "a", "text": "Non", "maturity_score": 0, "concern_score": 0, "topics": ["reut", "stockage"] },
+        { "id": "b", "text": "De façon informelle / non structurée", "maturity_score": 1, "concern_score": 1, "topics": ["reut"] },
+        { "id": "c", "text": "Oui, système en place", "maturity_score": 3, "concern_score": 3, "topics": [] }
+      ]
+    },
+    {
+      "id": "agri_q07",
+      "theme": "gouvernance",
+      "order": 9,
+      "type": "single_choice",
+      "text": "Avez-vous analysé votre exposition aux risques liés aux restrictions d'eau (arrêtés sécheresse, évolution réglementaire) ?",
+      "condition": null,
+      "options": [
+        { "id": "a", "text": "Non, ce n'est pas quelque chose que j'ai regardé", "maturity_score": 0, "concern_score": 0, "topics": ["risque_reglementaire"] },
+        { "id": "b", "text": "Je suis informé mais sans analyse formelle", "maturity_score": 1, "concern_score": 2, "topics": ["risque_reglementaire"] },
+        { "id": "c", "text": "Oui, j'ai évalué les risques pour mon exploitation", "maturity_score": 2, "concern_score": 3, "topics": [] },
+        { "id": "d", "text": "Oui, et j'ai un plan d'adaptation formalisé", "maturity_score": 3, "concern_score": 3, "topics": [] }
+      ]
+    },
+    {
+      "id": "agri_q08",
+      "theme": "gouvernance",
+      "order": 10,
+      "type": "single_choice",
+      "text": "Avez-vous envisagé ou réalisé une évolution de vos cultures ou pratiques pour réduire votre dépendance à l'eau ?",
+      "condition": null,
+      "options": [
+        { "id": "a", "text": "Non, pas envisagé", "maturity_score": 0, "concern_score": 0, "topics": ["adaptation_cultures"] },
+        { "id": "b", "text": "Sujet en réflexion, pas encore de changement", "maturity_score": 0, "concern_score": 2, "topics": ["adaptation_cultures"] },
+        { "id": "c", "text": "Quelques ajustements déjà réalisés", "maturity_score": 2, "concern_score": 3, "topics": [] },
+        { "id": "d", "text": "Démarche structurée d'adaptation agronomique", "maturity_score": 3, "concern_score": 3, "topics": [] }
+      ]
+    }
+  ],
+  "topics_labels": {
+    "comptage": "Comptage & mesure",
+    "audit": "Audit eau",
+    "diversification_sources": "Diversification des sources d'eau",
+    "pilotage_irrigation": "Pilotage de l'irrigation",
+    "optimisation_irrigation": "Optimisation du système d'irrigation",
+    "stockage": "Stockage et retenue d'eau",
+    "reut": "Réutilisation des eaux",
+    "risque_reglementaire": "Analyse des risques réglementaires",
+    "adaptation_cultures": "Adaptation des cultures"
+  }
+}

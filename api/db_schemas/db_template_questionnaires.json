@@ -1,0 +1,223 @@
+{
+  "_collection": "questionnaires",
+  "_description": "Stocke la configuration de chaque questionnaire sectoriel. Un document = un secteur. Contient les métadonnées du secteur, les références aux questions, et la logique de construction du plan d'action (filtres).",
+  "_indexes": [
+    { "field": "questionnaire_id", "unique": true },
+    { "field": "sector_id", "unique": true },
+    { "field": "naf_codes" }
+  ],
+
+  "_schema": {
+    "_id": "ObjectId — généré automatiquement",
+    "questionnaire_id": "string — identifiant unique du questionnaire, ex: 'agriculture'",
+    "sector_id": "string — identifiant du secteur, ex: 'agriculture'",
+    "sector_label": "string — nom d'affichage du secteur, ex: 'Agriculture'",
+    "naf_codes": "array<string> — codes NAF/APE couverts par ce questionnaire, ex: ['01.11Z', '01.12Z']",
+    "themes": "array<Theme> — liste ordonnée des thèmes structurant le questionnaire",
+    "question_ids": "array<string> — liste ordonnée des identifiants de questions (référencent la collection 'questions')",
+    "topics_labels": "object — dictionnaire topic_id → label affiché, ex: { 'comptage': 'Comptage & mesure' }",
+    "always_include": "array<string> — ids d'actions toujours incluses dans le plan d'action (indépendamment des réponses)",
+    "never_include": "array<string> — ids d'actions jamais incluses (exclues systématiquement)",
+    "filters": "array<Filter> — règles de sélection/exclusion des actions selon les réponses au questionnaire"
+  },
+
+  "_theme_schema": {
+    "id": "string — identifiant du thème, ex: 'connaissance'",
+    "label": "string — libellé affiché, ex: 'Connaissance & mesure'"
+  },
+
+  "_filter_schema": {
+    "id": "string — identifiant unique du filtre, ex: 'f_no_compteur'",
+    "description": "string — description lisible de la règle (pour le débogage et la documentation)",
+    "type": "string — enum: 'answer' | 'class' | 'numeric' | 'maturity' — type de condition évaluée",
+    "questionId": "string | null — id de la question évaluée (pour types 'answer' et 'numeric')",
+    "class": "string | null — classe fonctionnelle évaluée (pour type 'class'), ex: 'source_eau'",
+    "operator": "string — enum: 'eq' | 'neq' | 'in' | 'gte' | 'lte' | 'includes'",
+    "value": "string | array | number — valeur(s) de la condition",
+    "effect": "string — enum: 'add' | 'remove' — ajouter ou retirer des actions du plan si la condition est vraie",
+    "measures": "array<string> — ids des actions (collection 'actions') concernées par cet effet",
+    "priority": "integer — ordre d'application des filtres (plus bas = appliqué en premier)"
+  },
+
+  "_example_document": {
+    "_id": "ObjectId('...')",
+    "questionnaire_id": "agriculture",
+    "sector_id": "agriculture",
+    "sector_label": "Agriculture",
+    "naf_codes": [
+      "01.11Z", "01.12Z", "01.13Z", "01.14Z", "01.15Z", "01.19Z",
+      "01.21Z", "01.22Z", "01.23Z", "01.24Z", "01.25Z", "01.26Z",
+      "01.28Z", "01.29Z", "01.30Z", "01.41Z", "01.42Z", "01.43Z",
+      "01.44Z", "01.45Z", "01.46Z", "01.47Z", "01.49Z", "01.50Z",
+      "01.61Z", "01.62Z", "01.63Z", "01.64Z", "01.70Z"
+    ],
+    "themes": [
+      { "id": "connaissance", "label": "Connaissance & mesure" },
+      { "id": "pratiques",    "label": "Pratiques d'irrigation" },
+      { "id": "reut",         "label": "Réutilisation & stockage" },
+      { "id": "gouvernance",  "label": "Gouvernance & anticipation" }
+    ],
+    "question_ids": [
+      "agri_q01", "agri_q01b", "agri_q01c", "agri_q02",
+      "agri_q03", "agri_q04", "agri_q05", "agri_q06",
+      "agri_q07", "agri_q08"
+    ],
+    "topics_labels": {
+      "comptage": "Comptage & mesure",
+      "audit": "Audit eau",
+      "diversification_sources": "Diversification des sources d'eau",
+      "pilotage_irrigation": "Pilotage de l'irrigation",
+      "optimisation_irrigation": "Optimisation du système d'irrigation",
+      "stockage": "Stockage et retenue d'eau",
+      "reut": "Réutilisation des eaux",
+      "risque_reglementaire": "Analyse des risques réglementaires",
+      "adaptation_cultures": "Adaptation des cultures"
+    },
+    "always_include": [],
+    "never_include": [],
+    "filters": [
+      {
+        "id": "f_no_compteur",
+        "description": "Pas de compteur ou relevé irrégulier → recommander le comptage",
+        "type": "answer",
+        "questionId": "agri_q01",
+        "operator": "in",
+        "value": ["a", "b"],
+        "effect": "add",
+        "measures": ["ACT_AGR_001"],
+        "priority": 1
+      },
+      {
+        "id": "f_no_audit",
+        "description": "Pas d'audit ou audit ancien → recommander le diagnostic",
+        "type": "answer",
+        "questionId": "agri_q02",
+        "operator": "in",
+        "value": ["a", "b", "c"],
+        "effect": "add",
+        "measures": ["ACT_AGR_002"],
+        "priority": 1
+      },
+      {
+        "id": "f_usage_irrigation",
+        "description": "Si l'entreprise irrigue (agri_q04 ≠ 'd') → ajouter les mesures irrigation",
+        "type": "answer",
+        "questionId": "agri_q04",
+        "operator": "neq",
+        "value": "d",
+        "effect": "add",
+        "measures": ["ACT_AGR_003", "ACT_AGR_004"],
+        "priority": 1
+      },
+      {
+        "id": "f_no_irrigation",
+        "description": "Si pas d'irrigation du tout → retirer les mesures irrigation",
+        "type": "answer",
+        "questionId": "agri_q04",
+        "operator": "eq",
+        "value": "d",
+        "effect": "remove",
+        "measures": ["ACT_AGR_003", "ACT_AGR_004"],
+        "priority": 2
+      },
+      {
+        "id": "f_pilotage_faible",
+        "description": "Pilotage à vue ou météo → recommander outil de pilotage",
+        "type": "answer",
+        "questionId": "agri_q03",
+        "operator": "in",
+        "value": ["a", "b"],
+        "effect": "add",
+        "measures": ["ACT_AGR_003"],
+        "priority": 1
+      },
+      {
+        "id": "f_systeme_inefficace",
+        "description": "Aspersion ou gravitaire → recommander irrigation localisée",
+        "type": "answer",
+        "questionId": "agri_q04",
+        "operator": "in",
+        "value": ["a", "b"],
+        "effect": "add",
+        "measures": ["ACT_AGR_004"],
+        "priority": 1
+      },
+      {
+        "id": "f_no_stockage",
+        "description": "Pas de stockage → recommander retenue ou récupération pluie",
+        "type": "answer",
+        "questionId": "agri_q05",
+        "operator": "eq",
+        "value": "a",
+        "effect": "add",
+        "measures": ["ACT_AGR_005", "ACT_AGR_006"],
+        "priority": 1
+      },
+      {
+        "id": "f_no_reut",
+        "description": "Pas de réutilisation → recommander récupération eaux pluviales",
+        "type": "answer",
+        "questionId": "agri_q06",
+        "operator": "in",
+        "value": ["a", "b"],
+        "effect": "add",
+        "measures": ["ACT_AGR_006"],
+        "priority": 1
+      },
+      {
+        "id": "f_source_uniquement_aep",
+        "description": "AEP parmi les sources → recommander diversification",
+        "type": "class",
+        "class": "source_eau",
+        "operator": "includes",
+        "value": "a",
+        "effect": "add",
+        "measures": ["ACT_AGR_007"],
+        "priority": 1
+      },
+      {
+        "id": "f_risque_reglementaire",
+        "description": "Peu conscient des risques réglementaires → plan de gestion",
+        "type": "answer",
+        "questionId": "agri_q07",
+        "operator": "in",
+        "value": ["a", "b"],
+        "effect": "add",
+        "measures": ["ACT_AGR_009"],
+        "priority": 1
+      },
+      {
+        "id": "f_pas_adaptation_cultures",
+        "description": "Pas d'adaptation des cultures → recommander démarche agronomique",
+        "type": "answer",
+        "questionId": "agri_q08",
+        "operator": "in",
+        "value": ["a", "b"],
+        "effect": "add",
+        "measures": ["ACT_AGR_008"],
+        "priority": 1
+      },
+      {
+        "id": "f_conso_elevee",
+        "description": "Conso annuelle ≥ 50 000 m³ → proposer démarche collective PTGE",
+        "type": "numeric",
+        "questionId": "agri_q01c",
+        "operator": "gte",
+        "value": 50000,
+        "effect": "add",
+        "measures": ["ACT_AGR_010"],
+        "priority": 1
+      },
+      {
+        "id": "f_avance_collectif",
+        "description": "Entreprise intermédiaire ou avancée → proposer démarche collective PTGE",
+        "type": "maturity",
+        "operator": "in",
+        "value": ["intermediaire", "avance"],
+        "effect": "add",
+        "measures": ["ACT_AGR_010"],
+        "priority": 1
+      }
+    ]
+  }
+}
