@@ -192,7 +192,7 @@ function Section1Header({ entreprise: e, territoire }) {
           label="Stress hydrique du territoire"
           value={stressLabel ?? '—'}
           color={stressColor}
-          subtitle={ratio != null ? `Ratio prélèvements / ressource : ${(ratio * 100).toFixed(0)} %` : null}
+          subtitle={ratio != null ? `Ratio prélèvements / ressource : ${ratio.toFixed(2)}` : null}
         />
         <WaterIndicator
           icon="💧"

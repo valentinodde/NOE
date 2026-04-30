@@ -4,6 +4,7 @@ from flask_cors import CORS
 import pandas as pd
 
 import DB_processor as DBP
+import DBM_processor as DBM
 import uuid
 import json
 
@@ -26,7 +27,7 @@ def get_all_buildings():
 def get_entreprise_info(entreprise_id):
     entreprise_id = int(entreprise_id)
     entreprise_info = DBP.load_entreprise_data_by_siret(entreprise_id)[0]
-    entreprise_info['code_bassin'] = 'X123'  # Ajout du code bassin pour l'exemple
+    entreprise_info['code_bassin'] = 'b_2'  # Ajout du code bassin pour l'exemple
     # entreprise_info = df_data[df_data['siret'] == entreprise_id].to_dict(orient='records')
     if not entreprise_info:
         return jsonify({"error": "Entreprise not found"}), 404
@@ -35,8 +36,44 @@ def get_entreprise_info(entreprise_id):
 
 @app.route('/territoire/<string:bassin_id>', methods=['GET'])
 def get_territoire_info(bassin_id):
-    test_json = json.load(open('territoire_example.json'))
-    return jsonify(test_json)
+    bassin_info = DBM.load_bassin(bassin_id)
+    if not bassin_info:
+        return jsonify({"error": "Bassin not found"}), 404
+    return jsonify(bassin_info)
+
+
+@app.route('/sectors', methods=['GET'])
+def get_sectors_list():
+    sectors = DBM.load_sectors_list()
+    return jsonify(sectors)
+
+
+@app.route('/sectors/<string:sector_id>', methods=['GET'])
+def get_sector(sector_id):
+    sector = DBM.load_sector_by_id(sector_id)
+    if not sector:
+        return jsonify({"error": "Sector not found"}), 404
+    return jsonify(sector)
+
+
+@app.route('/sectors/<string:sector_id>', methods=['PATCH'])
+def update_sector(sector_id):
+    body = request.get_json()
+    if not body:
+        return jsonify({"error": "Empty body"}), 400
+
+    updates = DBM.flatten_updates(body)
+
+    invalid = [k for k in updates if k not in DBM.SECTOR_ALLOWED_PATHS]
+    if invalid:
+        return jsonify({"error": "Forbidden fields", "fields": invalid}), 400
+
+    matched = DBM.update_sector(sector_id, updates)
+    if not matched:
+        return jsonify({"error": "Sector not found"}), 404
+
+    return jsonify({"updated": list(updates.keys())})
+
 
 @app.route('/questionnaire/<string:naf>', methods=['GET'])
 def get_questionnaire(naf):

@@ -156,8 +156,9 @@ function FitBoundsToGeoJSON({ geojson }) {
 // ─── Mini stress gauge (solid fill, color by level) ──────────────────────────
 
 function MiniStressGauge({ ratio, seuils, active }) {
-  const color = getStressColor(ratio, seuils);
-  const pct   = Math.round(ratio * 100);
+  const color   = getStressColor(ratio, seuils);
+  const maxVal  = (seuils?.critique ?? 0.8) * 10;
+  const pct     = Math.min(Math.round(ratio / maxVal * 100), 100);
   return (
     <div
       className="relative h-2.5 rounded-full overflow-hidden"
@@ -236,14 +237,17 @@ function IndicateurCard({ icon, label, main, mainUnit, mainColor, sub, badge }) 
 function IndicateursRow({ horizon, projClimat }) {
   const mockInd = MOCK_INDICATORS[horizon];
   const ind = {
-    precip_estivales_mm: projClimat?.precip_estivales_mm ?? mockInd.precip_estivales_mm,
-    jours_sols_secs:     projClimat?.jours_sols_secs     ?? mockInd.jours_sols_secs,
-    debit_etiage_pct:    projClimat?.debit_etiage_pct    ?? mockInd.debit_etiage_pct,
+    precip_estivales_mm: projClimat?.precip_estivales_mm?.[horizon] ?? mockInd.precip_estivales_mm,
+    jours_sols_secs:     projClimat?.jours_sols_secs?.[horizon]     ?? mockInd.jours_sols_secs,
+    debit_etiage_pct:    projClimat?.debit_etiage_pct?.[horizon]    ?? mockInd.debit_etiage_pct,
   };
-  const rawTemp   = projClimat?.temperature_delta_c ?? MOCK_TEMPERATURE[horizon];
+  const rawTemp   = projClimat?.temperature_delta_c?.[horizon] ?? MOCK_TEMPERATURE[horizon];
   const tempDelta = rawTemp != null ? Number(rawTemp) : null;
   const isRef    = horizon === 'actuel';
-  const refInd   = MOCK_INDICATORS.actuel;
+  const refInd   = {
+    precip_estivales_mm: projClimat?.precip_estivales_mm?.actuel ?? MOCK_INDICATORS.actuel.precip_estivales_mm,
+    jours_sols_secs:     projClimat?.jours_sols_secs?.actuel     ?? MOCK_INDICATORS.actuel.jours_sols_secs,
+  };
 
   const precipDelta = isRef ? null : pctDelta(ind.precip_estivales_mm, refInd.precip_estivales_mm);
   const joursDelta  = isRef ? null : pctDelta(ind.jours_sols_secs,     refInd.jours_sols_secs);
@@ -313,9 +317,11 @@ function IndicateursRow({ horizon, projClimat }) {
 
 // ─── Bloc 2 — Disponibilité en eau (3 accordéons) ────────────────────────────
 
-function WaterCycleFlow({ data, horizon, precip }) {
+function WaterCycleFlow({ cycleEau, horizon, precip, projClimat }) {
   const [openEfficaces, setOpenEfficaces] = useState(false);
   const [openEstivales, setOpenEstivales] = useState(false);
+
+  const data = cycleEau?.[horizon] ?? MOCK_CYCLE_EAU[horizon];
 
   const {
     precipitations_mm: mm,
@@ -328,18 +334,19 @@ function WaterCycleFlow({ data, horizon, precip }) {
   const infilMm     = Math.round(mm * infil / 100);
   const ruisMm      = Math.round(mm * ruis  / 100);
   const efficacesMm = infilMm + ruisMm;
-  const availPct    = infil + ruis;
-  const estivalesMm = MOCK_INDICATORS[horizon].precip_estivales_mm;
+  const availPct    = Math.round(infil + ruis);
+  const estivalesMm = projClimat?.precip_estivales_mm?.[horizon] ?? MOCK_INDICATORS[horizon].precip_estivales_mm;
 
-  const isRef       = horizon === 'actuel';
-  const refCycle    = MOCK_CYCLE_EAU.actuel;
+  const isRef        = horizon === 'actuel';
+  const refCycle     = cycleEau?.actuel ?? MOCK_CYCLE_EAU.actuel;
   const refEfficaces = Math.round(
     refCycle.precipitations_mm * (refCycle.infiltration_pct + refCycle.ruissellement_pct) / 100
   );
+  const estivalesRef = projClimat?.precip_estivales_mm?.actuel ?? MOCK_INDICATORS.actuel.precip_estivales_mm;
 
   const annuellesDelta = isRef ? null : pctDelta(mm, refCycle.precipitations_mm);
   const efficacesDelta = isRef ? null : pctDelta(efficacesMm, refEfficaces);
-  const estivalesDelta = isRef ? null : pctDelta(estivalesMm, MOCK_INDICATORS.actuel.precip_estivales_mm);
+  const estivalesDelta = isRef ? null : pctDelta(estivalesMm, estivalesRef);
 
   // Monthly chart: show projected line for selected horizon if data exists, else fall back to 2050
   const projKey = horizon === 'actuel' ? null
@@ -352,11 +359,13 @@ function WaterCycleFlow({ data, horizon, precip }) {
     return row;
   }) ?? [];
 
-  const bands = [
-    { key: 'evapo', label: 'Évaporation',   pct: evapo, mmVal: evapoMm, color: '#fb923c', bg: 'rgba(251,146,60,0.10)', border: 'rgba(251,146,60,0.25)', icon: '☀️', note: 'Part non disponible' },
-    { key: 'infil', label: 'Infiltration',  pct: infil, mmVal: infilMm, color: '#8b5cf6', bg: 'rgba(139,92,246,0.10)', border: 'rgba(139,92,246,0.25)', icon: '💧', note: 'Recharge des nappes' },
-    { key: 'ruis',  label: 'Ruissellement', pct: ruis,  mmVal: ruisMm,  color: '#0097d6', bg: 'rgba(0,151,214,0.10)', border: 'rgba(0,151,214,0.25)', icon: '🌊', note: 'Eaux de surface' },
+  const rawBands = [
+    { key: 'evapo', label: 'Évaporation',   pct: Math.round(evapo), mmVal: evapoMm, color: '#fb923c', bg: 'rgba(251,146,60,0.10)', border: 'rgba(251,146,60,0.25)', icon: '☀️', note: 'Part non disponible' },
+    { key: 'infil', label: 'Infiltration',  pct: Math.round(infil), mmVal: infilMm, color: '#8b5cf6', bg: 'rgba(139,92,246,0.10)', border: 'rgba(139,92,246,0.25)', icon: '💧', note: 'Recharge des nappes' },
+    { key: 'ruis',  label: 'Ruissellement', pct: Math.round(ruis),  mmVal: ruisMm,  color: '#0097d6', bg: 'rgba(0,151,214,0.10)', border: 'rgba(0,151,214,0.25)', icon: '🌊', note: 'Eaux de surface' },
   ];
+  const bandTotal = rawBands.reduce((s, b) => s + b.pct, 0);
+  const bands = rawBands.map(b => ({ ...b, width: Math.round(b.pct / bandTotal * 100) }));
 
   // Shared header button renderer (not a React component — avoids remount issues)
   const headerStyle = (isOpen) => ({
@@ -441,11 +450,11 @@ function WaterCycleFlow({ data, horizon, precip }) {
             </p>
             {/* Flow band */}
             <div className="flex rounded-lg overflow-hidden h-7">
-              {bands.map(({ key, pct, color, label }) => (
+              {bands.map(({ key, pct, width, color, label }) => (
                 <div
                   key={key}
                   className="flex items-center justify-center transition-all duration-500"
-                  style={{ width: `${pct}%`, background: color }}
+                  style={{ width: `${width}%`, background: color }}
                   title={`${label} : ${pct}%`}
                 >
                   <span className="text-white text-[0.625rem] font-bold select-none">{pct}%</span>
@@ -567,27 +576,30 @@ function WaterCycleFlow({ data, horizon, precip }) {
 
 // ─── Bloc 3 — Prélèvements (donut) ───────────────────────────────────────────
 
-function WithdrawalsDonut({ data, horizon }) {
+function WithdrawalsDonut({ data, refData, horizon }) {
   const [selected, setSelected] = useState(null);
 
-  const isRef  = horizon === 'actuel';
-  const refData = MOCK_PRELEVEMENTS.actuel;
+  const isRef = horizon === 'actuel';
 
   // Total delta
   const totalDelta = isRef ? null : pctDelta(data.total_mm3, refData.total_mm3);
 
-  // Sector absolute volumes (Mm³) and deltas
+  // Sector deltas (absolute Mm³ comparison)
   const sectorDeltas = {};
   ['agriculture', 'aep', 'industrie'].forEach((k) => {
-    const abs    = data.total_mm3 * data[k] / 100;
-    const absRef = refData.total_mm3 * refData[k] / 100;
-    sectorDeltas[k] = isRef ? null : pctDelta(abs, absRef);
+    sectorDeltas[k] = isRef ? null : pctDelta(data[k], refData[k]);
   });
 
+  // Convert absolute Mm³ to percentages for display
+  const total    = data.total_mm3;
+  const agriPct  = Math.round(data.agriculture / total * 100);
+  const aepPct   = Math.round(data.aep / total * 100);
+  const indusPct = 100 - agriPct - aepPct;
+
   const chartData = [
-    { key: 'agriculture', value: data.agriculture, ...PRELEVEMENT_DETAILS.agriculture },
-    { key: 'aep',         value: data.aep,         ...PRELEVEMENT_DETAILS.aep         },
-    { key: 'industrie',   value: data.industrie,   ...PRELEVEMENT_DETAILS.industrie   },
+    { key: 'agriculture', value: agriPct,  ...PRELEVEMENT_DETAILS.agriculture },
+    { key: 'aep',         value: aepPct,   ...PRELEVEMENT_DETAILS.aep         },
+    { key: 'industrie',   value: indusPct, ...PRELEVEMENT_DETAILS.industrie   },
   ].map((d) => ({
     ...d,
     fill:        d.color,
@@ -813,7 +825,7 @@ const PRELEV_SERIES = [
   { key: 'Industrie',   gradId: 'sg-id', color: '#64748b', note: 'Procédés ind.' },
 ];
 
-function SyntheseChart() {
+function SyntheseChart({ eauDecomp, prelevDecomp }) {
   const [mode,   setMode]   = useState('croise');
   const [chartH, setChartH] = useState('actuel');
 
@@ -827,14 +839,16 @@ function SyntheseChart() {
   // ── Data for stacked modes (eau / prelev)
   const series  = mode === 'eau' ? EAU_SERIES : PRELEV_SERIES;
   const unit    = mode === 'eau' ? 'mm'       : 'Mm³';
-  const rawData = mode === 'eau' ? MOCK_EAU_DECOMP        : MOCK_PRELEV_DECOMP;
-  const rawRef  = mode === 'eau' ? MOCK_EAU_DECOMP.actuel : MOCK_PRELEV_DECOMP.actuel;
+  const eau     = eauDecomp    ?? MOCK_EAU_DECOMP;
+  const prev    = prelevDecomp ?? MOCK_PRELEV_DECOMP;
+  const rawData = mode === 'eau' ? eau        : prev;
+  const rawRef  = mode === 'eau' ? eau.actuel : prev.actuel;
 
   // ── Data for croisé mode
-  const cd  = MOCK_EAU_DECOMP[chartH];
-  const cpd = MOCK_PRELEV_DECOMP[chartH];
-  const cdr = MOCK_EAU_DECOMP.actuel;
-  const cpr = MOCK_PRELEV_DECOMP.actuel;
+  const cd  = eau[chartH];
+  const cpd = prev[chartH];
+  const cdr = eau.actuel;
+  const cpr = prev.actuel;
 
   // ── Chart data
   const chartData = MOIS_LABELS.map((mois, i) => {
@@ -1532,7 +1546,7 @@ export default function TerritorySection({ territoire: t, entreprise: e }) {
                 className="text-[0.75rem] font-bold px-2.5 py-1 rounded-lg"
                 style={{ background: stressColor + '22', color: stressColor }}
               >
-                Stress hydrique {Math.round(stressRatio * 100)}%
+                Ratio {stressRatio.toFixed(1)}
               </span>
               <span className="text-[0.75rem] text-on-surface-var font-medium">←</span>
               <span
@@ -1550,19 +1564,19 @@ export default function TerritorySection({ territoire: t, entreprise: e }) {
               <p className="text-[0.75rem] font-semibold text-on-surface-var uppercase tracking-widest mb-4">
                 Disponibilité en eau
               </p>
-              <WaterCycleFlow data={MOCK_CYCLE_EAU[horizon]} horizon={horizon} precip={precip} />
+              <WaterCycleFlow cycleEau={t?.cycle_eau} horizon={horizon} precip={precip} projClimat={t?.projections_climatiques} />
             </div>
 
             <div className="rounded-xl p-5" style={{ background: '#fff', boxShadow: '0 1px 4px rgba(0,0,20,0.05)' }}>
               <p className="text-[0.75rem] font-semibold text-on-surface-var uppercase tracking-widest mb-4">
                 Prélèvements
               </p>
-              <WithdrawalsDonut key={horizon} data={MOCK_PRELEVEMENTS[horizon]} horizon={horizon} />
+              <WithdrawalsDonut key={horizon} data={t?.prelevements?.[horizon] ?? MOCK_PRELEVEMENTS[horizon]} refData={t?.prelevements?.actuel ?? MOCK_PRELEVEMENTS.actuel} horizon={horizon} />
             </div>
           </div>
 
           {/* ── Graphe de synthèse ── */}
-          <SyntheseChart />
+          <SyntheseChart eauDecomp={t?.decomposition_mensuelle_eau_mm} prelevDecomp={t?.decomposition_mensuelle_prelevements_mm3} />
         </div>
       </div>
 
