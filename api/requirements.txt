@@ -12,7 +12,6 @@ distro==1.9.0
 dnspython==2.8.0
 docstring_parser==0.18.0
 et_xmlfile==2.0.0
-executing @ file:///home/conda/feedstock_root/build_artifacts/executing_1756729339227/work
 fastparquet==2026.3.0
 fonttools==4.62.1
 fsspec==2026.3.0
