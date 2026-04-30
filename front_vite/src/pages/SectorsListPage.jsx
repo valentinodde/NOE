@@ -33,8 +33,9 @@ const STATUS_FILTERS = [
 function getOpsQty(s) {
   const manual = s.operations?.quantity?.manual_score ?? null;
   const cdp    = s.operations?.quantity?.cdp_score    ?? null;
+  const final  = s.operations?.quantity?.final_score  ?? null;
   const ecart  = manual !== null && cdp !== null ? manual - cdp : null;
-  return { manual, cdp, ecart };
+  return { manual, cdp, final, ecart };
 }
 
 function statusWeight(s) {
@@ -300,7 +301,7 @@ export default function SectorsListPage() {
                   {/* Score block header */}
                   <th
                     className="text-center px-2 py-3 text-xs font-semibold text-on-surface-var uppercase tracking-wider"
-                    colSpan={3}
+                    colSpan={4}
                     style={{ borderLeft: '1px solid #dde0ec' }}
                   >
                     Opérations — Quantité
@@ -320,12 +321,15 @@ export default function SectorsListPage() {
                   <th className="text-center pb-2 pt-1 text-[0.6875rem] text-on-surface-var font-semibold">
                     Écart
                   </th>
+                  <th className="text-center pb-2 pt-1 text-[0.6875rem] text-on-surface-var font-semibold" style={{ borderLeft: '1px solid #dde0ec' }}>
+                    Final
+                  </th>
                   <th />
                 </tr>
               </thead>
               <tbody>
                 {filtered.map(s => {
-                  const { manual, cdp, ecart } = getOpsQty(s);
+                  const { manual, cdp, final, ecart } = getOpsQty(s);
                   return (
                     <tr
                       key={s._id}
@@ -355,6 +359,10 @@ export default function SectorsListPage() {
                       {/* Écart */}
                       <td className="px-4 py-3 text-center">
                         <EcartBadge ecart={ecart} />
+                      </td>
+                      {/* Final */}
+                      <td className="px-4 py-3 text-center" style={{ borderLeft: '1px solid #eef0f8' }}>
+                        <ScoreChip value={final} />
                       </td>
                       <td className="px-4 py-3 text-center">
                         <StatusBadge reviewed={s.reviewed} toCheck={s.to_check} />
