@@ -7,4 +7,12 @@ export default defineConfig({
     tailwindcss(),
     react(),
   ],
+  preview: {
+    allowedHosts: [
+      'noe-front.osc-fr1.scalingo.io', // Ton domaine Scalingo
+      '.scalingo.io'                  // Autorise aussi tous les sous-domaines scalingo
+    ],
+    host: '0.0.0.0',                  // Obligatoire pour Scalingo
+    port: process.env.PORT || 4173    // Utilise le port de Scalingo
+  }
 })
