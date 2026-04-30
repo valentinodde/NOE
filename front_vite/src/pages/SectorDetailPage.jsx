@@ -93,7 +93,7 @@ function LevelSelector({ value, onChange }) {
 }
 
 function CdpComment({ comment }) {
-  const [open, setOpen] = useState(false);
+  const [open, setOpen] = useState(true);
   if (!comment) return null;
   return (
     <div>
@@ -283,19 +283,13 @@ function buildPatchBody(draft) {
 
 // ─── Dimension card (Quantité or Qualité) ─────────────────────────────────────
 
-function DimCard({ title, draft, levelKey, descKey, cdpCommentKey, set }) {
+function DimCard({ title, draft, descKey, cdpCommentKey, set }) {
   return (
     <div
       className="flex flex-col gap-5 p-5 rounded-2xl"
       style={{ background: '#f7f8fd' }}
     >
       <div className="text-sm font-semibold text-on-surface">{title}</div>
-
-      {/* Level */}
-      <div className="flex flex-col gap-2">
-        <span className="text-xs text-on-surface-var">Niveau qualitatif</span>
-        <LevelSelector value={draft[levelKey]} onChange={v => set(levelKey, v)} />
-      </div>
 
       {/* Description */}
       <div className="flex flex-col gap-2">
@@ -354,7 +348,11 @@ export default function SectorDetailPage() {
   }, [id]);
 
   const set = useCallback((key, value) => {
-    setDraft(d => ({ ...d, [key]: value }));
+    setDraft(d => {
+      const next = { ...d, [key]: value };
+      if (key !== 'reviewed' && key !== 'to_check') next.reviewed = true;
+      return next;
+    });
     setIsDirty(true);
     setSaveOk(false);
   }, []);
@@ -508,61 +506,7 @@ export default function SectorDetailPage() {
           </button>
         </div>
 
-        {/* ── Score matrix ── */}
-        <div>
-          <div className="text-xs font-semibold text-on-surface-var uppercase tracking-wider mb-3 px-1">
-            Opérations directes — scores
-          </div>
-          <ScoreMatrix
-            draft={draft}
-            onFinalQtyChange={v => set('ops_quantity_final_score', v)}
-            onFinalQltChange={v => set('ops_quality_final_score', v)}
-          />
-        </div>
-
-        {/* ── Phrase de synthèse ── */}
-        <div
-          className="rounded-2xl p-5"
-          style={{ background: '#fff', boxShadow: '0 1px 12px rgba(0,10,67,0.06)' }}
-        >
-          <label className="text-xs font-semibold text-on-surface-var uppercase tracking-wider block mb-2">
-            Phrase de synthèse — Opérations
-          </label>
-          <textarea
-            value={draft.ops_sentence}
-            onChange={e => set('ops_sentence', e.target.value)}
-            rows={2}
-            className="w-full px-3 py-2 rounded-xl border text-sm resize-none"
-            style={{ borderColor: '#e0e2eb', background: '#fafbff' }}
-          />
-        </div>
-
-        {/* ── Quantité & Qualité cards ── */}
-        <div>
-          <div className="text-xs font-semibold text-on-surface-var uppercase tracking-wider mb-3 px-1">
-            Détail par enjeu
-          </div>
-          <div className="grid grid-cols-2 gap-4">
-            <DimCard
-              title="Quantité"
-              draft={draft}
-              levelKey="ops_quantity_level"
-              descKey="ops_quantity_description"
-              cdpCommentKey="ops_quantity_cdp_comment"
-              set={set}
-            />
-            <DimCard
-              title="Qualité"
-              draft={draft}
-              levelKey="ops_quality_level"
-              descKey="ops_quality_description"
-              cdpCommentKey="ops_quality_cdp_comment"
-              set={set}
-            />
-          </div>
-        </div>
-
-        {/* ── General info (compact) ── */}
+        {/* ── General info ── */}
         <div
           className="rounded-2xl p-5 flex flex-col gap-4"
           style={{ background: '#fff', boxShadow: '0 1px 12px rgba(0,10,67,0.06)' }}
@@ -614,6 +558,58 @@ export default function SectorDetailPage() {
               rows={3}
               className="w-full px-3 py-2 rounded-xl border text-sm resize-none"
               style={{ borderColor: '#e0e2eb', background: '#fafbff' }}
+            />
+          </div>
+        </div>
+
+        {/* ── Score matrix ── */}
+        <div>
+          <div className="text-xs font-semibold text-on-surface-var uppercase tracking-wider mb-3 px-1">
+            Opérations directes — scores
+          </div>
+          <ScoreMatrix
+            draft={draft}
+            onFinalQtyChange={v => set('ops_quantity_final_score', v)}
+            onFinalQltChange={v => set('ops_quality_final_score', v)}
+          />
+        </div>
+
+        {/* ── Phrase de synthèse ── */}
+        <div
+          className="rounded-2xl p-5"
+          style={{ background: '#fff', boxShadow: '0 1px 12px rgba(0,10,67,0.06)' }}
+        >
+          <label className="text-xs font-semibold text-on-surface-var uppercase tracking-wider block mb-2">
+            Phrase de synthèse — Opérations
+          </label>
+          <textarea
+            value={draft.ops_sentence}
+            onChange={e => set('ops_sentence', e.target.value)}
+            rows={2}
+            className="w-full px-3 py-2 rounded-xl border text-sm resize-none"
+            style={{ borderColor: '#e0e2eb', background: '#fafbff' }}
+          />
+        </div>
+
+        {/* ── Quantité & Qualité cards ── */}
+        <div>
+          <div className="text-xs font-semibold text-on-surface-var uppercase tracking-wider mb-3 px-1">
+            Détail par enjeu
+          </div>
+          <div className="grid grid-cols-2 gap-4">
+            <DimCard
+              title="Quantité"
+              draft={draft}
+              descKey="ops_quantity_description"
+              cdpCommentKey="ops_quantity_cdp_comment"
+              set={set}
+            />
+            <DimCard
+              title="Qualité"
+              draft={draft}
+              descKey="ops_quality_description"
+              cdpCommentKey="ops_quality_cdp_comment"
+              set={set}
             />
           </div>
         </div>
