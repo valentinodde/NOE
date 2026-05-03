@@ -1,5 +1,5 @@
 import { useEffect, useState, useCallback } from 'react';
-import { useParams, useNavigate } from 'react-router-dom';
+import { useParams, useNavigate, useLocation } from 'react-router-dom';
 import Navbar from '../components/Navbar';
 import { fetchSector, fetchSectorsList, patchSector } from '../utils/api';
 
@@ -312,8 +312,9 @@ function DimCard({ title, draft, descKey, cdpCommentKey, set }) {
 // ─── Main page ────────────────────────────────────────────────────────────────
 
 export default function SectorDetailPage() {
-  const { id }   = useParams();
-  const navigate = useNavigate();
+  const { id }      = useParams();
+  const navigate    = useNavigate();
+  const location    = useLocation();
 
   const [sector, setSector]   = useState(null);
   const [loading, setLoading] = useState(true);
@@ -322,9 +323,10 @@ export default function SectorDetailPage() {
   const [isDirty, setIsDirty] = useState(false);
   const [saving, setSaving]   = useState(false);
   const [saveOk, setSaveOk]   = useState(false);
-  const [allIds, setAllIds]   = useState([]);
+  const [allIds, setAllIds]   = useState(location.state?.orderedIds ?? []);
 
   useEffect(() => {
+    if (location.state?.orderedIds) return;
     fetchSectorsList()
       .then(list => {
         const sorted = [...list].sort((a, b) => (a.naf_code ?? '').localeCompare(b.naf_code ?? ''));
@@ -374,7 +376,7 @@ export default function SectorDetailPage() {
   function goTo(targetId) {
     if (!targetId) return;
     if (isDirty && !window.confirm('Des modifications non sauvegardées seront perdues. Continuer ?')) return;
-    navigate(`/sectors/${targetId}`);
+    navigate(`/sectors/${targetId}`, { state: { orderedIds: allIds } });
   }
 
   function goBack() {

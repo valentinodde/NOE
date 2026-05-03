@@ -1,7 +1,7 @@
-import { useEffect, useState, useMemo } from 'react';
+import { useEffect, useState, useMemo, useCallback } from 'react';
 import { useNavigate } from 'react-router-dom';
 import Navbar from '../components/Navbar';
-import { fetchSectorsList } from '../utils/api';
+import { fetchSectorsList, patchSector } from '../utils/api';
 
 // ─── Constants ────────────────────────────────────────────────────────────────
 
@@ -18,6 +18,8 @@ const SORT_OPTIONS = [
   { value: 'manual_desc',  label: 'Score manuel ↓' },
   { value: 'manual_asc',   label: 'Score manuel ↑' },
   { value: 'cdp_desc',     label: 'Score CDP ↓' },
+  { value: 'final_desc',   label: 'Score final ↓' },
+  { value: 'final_asc',    label: 'Score final ↑' },
   { value: 'status',       label: 'Statut (à vérifier en premier)' },
 ];
 
@@ -119,6 +121,95 @@ function StatusBadge({ reviewed, toCheck }) {
   );
 }
 
+// ─── Inline editors ───────────────────────────────────────────────────────────
+
+function InlineFinalScore({ sectorId, value, updateLocal }) {
+  const [pending, setPending] = useState(false);
+
+  async function pick(e, n) {
+    e.stopPropagation();
+    if (n === value || pending) return;
+    const prev = value;
+    updateLocal(sectorId, s => ({
+      ...s,
+      operations: { ...s.operations, quantity: { ...s.operations?.quantity, final_score: n } },
+    }));
+    setPending(true);
+    try {
+      await patchSector(sectorId, { operations: { quantity: { final_score: n } } });
+    } catch {
+      updateLocal(sectorId, s => ({
+        ...s,
+        operations: { ...s.operations, quantity: { ...s.operations?.quantity, final_score: prev } },
+      }));
+    } finally {
+      setPending(false);
+    }
+  }
+
+  return (
+    <div className="flex gap-1 justify-center" onClick={e => e.stopPropagation()}>
+      {[0, 1, 2, 3].map(n => {
+        const active = value === n;
+        const c = SCORE_COLORS[n];
+        return (
+          <button
+            key={n}
+            onClick={e => pick(e, n)}
+            disabled={pending}
+            className="w-7 h-7 rounded-lg text-xs font-bold transition-all disabled:opacity-40"
+            style={active
+              ? { background: c.bg, color: c.text, border: `1.5px solid ${c.border}` }
+              : { background: '#f1f3fc', color: '#c4c8d8', border: '1.5px solid transparent' }}
+          >
+            {n}
+          </button>
+        );
+      })}
+    </div>
+  );
+}
+
+function InlineReviewedToggle({ sectorId, reviewed, toCheck, updateLocal }) {
+  const [pending, setPending] = useState(false);
+
+  async function toggle(e) {
+    e.stopPropagation();
+    if (pending) return;
+    const next = !reviewed;
+    updateLocal(sectorId, s => ({ ...s, reviewed: next }));
+    setPending(true);
+    try {
+      await patchSector(sectorId, { reviewed: next });
+    } catch {
+      updateLocal(sectorId, s => ({ ...s, reviewed: reviewed }));
+    } finally {
+      setPending(false);
+    }
+  }
+
+  return (
+    <div className="flex flex-col items-center gap-1" onClick={e => e.stopPropagation()}>
+      {toCheck && (
+        <span className="px-2 py-0.5 rounded-full text-[0.6875rem] font-medium"
+          style={{ background: '#fff7ed', color: '#c2410c', border: '1px solid #fdba74' }}>
+          À vérifier
+        </span>
+      )}
+      <button
+        onClick={toggle}
+        disabled={pending}
+        className="px-2 py-0.5 rounded-full text-[0.6875rem] font-medium transition-all disabled:opacity-40"
+        style={reviewed
+          ? { background: '#f0fdf4', color: '#15803d', border: '1px solid #86efac' }
+          : { background: '#f1f3fc', color: '#6b7280', border: '1px solid #e0e2eb' }}
+      >
+        {reviewed ? '✓ Révisé' : '○ Non révisé'}
+      </button>
+    </div>
+  );
+}
+
 // ─── Stats bar ────────────────────────────────────────────────────────────────
 
 function StatsBar({ sectors }) {
@@ -171,6 +262,10 @@ export default function SectorsListPage() {
   const [sortBy, setSortBy]             = useState('ecart_desc');
   const [statusFilter, setStatusFilter] = useState('all');
 
+  const updateLocal = useCallback((sectorId, updater) => {
+    setSectors(prev => prev.map(s => s._id === sectorId ? updater(s) : s));
+  }, []);
+
   useEffect(() => {
     fetchSectorsList()
       .then(setSectors)
@@ -209,6 +304,8 @@ export default function SectorsListPage() {
         case 'manual_desc': return (sb.manual ?? 0) - (sa.manual ?? 0);
         case 'manual_asc':  return (sa.manual ?? 0) - (sb.manual ?? 0);
         case 'cdp_desc':    return (sb.cdp ?? 0) - (sa.cdp ?? 0);
+        case 'final_desc':  return (sb.final ?? -1) - (sa.final ?? -1);
+        case 'final_asc':   return (sa.final ?? -1) - (sb.final ?? -1);
         case 'status':      return statusWeight(a) - statusWeight(b);
         default:            return 0;
       }
@@ -333,7 +430,10 @@ export default function SectorsListPage() {
                   return (
                     <tr
                       key={s._id}
-                      onClick={() => navigate(`/sectors/${s._id}`)}
+                      onClick={(e) => {
+                        if (e.target.closest('button')) return;
+                        navigate(`/sectors/${s._id}`, { state: { orderedIds: filtered.map(x => x._id) } });
+                      }}
                       className="border-t cursor-pointer hover:bg-surface-low transition-colors"
                       style={{ borderColor: '#eef0f8' }}
                     >
@@ -360,12 +460,13 @@ export default function SectorsListPage() {
                       <td className="px-4 py-3 text-center">
                         <EcartBadge ecart={ecart} />
                       </td>
-                      {/* Final */}
-                      <td className="px-4 py-3 text-center" style={{ borderLeft: '1px solid #eef0f8' }}>
-                        <ScoreChip value={final} />
+                      {/* Final — inline editor */}
+                      <td className="px-3 py-3 text-center" style={{ borderLeft: '1px solid #eef0f8' }}>
+                        <InlineFinalScore sectorId={s._id} value={final} updateLocal={updateLocal} />
                       </td>
+                      {/* Statut — inline reviewed toggle */}
                       <td className="px-4 py-3 text-center">
-                        <StatusBadge reviewed={s.reviewed} toCheck={s.to_check} />
+                        <InlineReviewedToggle sectorId={s._id} reviewed={s.reviewed} toCheck={s.to_check} updateLocal={updateLocal} />
                       </td>
                     </tr>
                   );
