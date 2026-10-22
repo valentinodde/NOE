@@ -1,0 +1,1655 @@
+[
+  {
+    "id": "PREST_VIA_001",
+    "nom": "Hypred (groupe Kersia)",
+    "type": "equipementier",
+    "logo_url": null,
+    "siret": "33050741900050",
+    "description": "Fabricant de savons, détergents et produits d'entretien dont le siège et le site de production sont à Dinard (Ille-et-Vilaine), l'une des sociétés qui ont pris le nom unique de Kersia. Un représentant de Kersia a présenté les techniques de nettoyage permettant de réduire la consommation d'eau et d'énergie lors d'une journée technique de l'IFIP consacrée à l'abattage-découpe et à la transformation de viande.",
+    "expertises": [
+      "Fabrication de détergents"
+    ],
+    "categories": [
+      "sensibiliser_former"
+    ],
+    "secteurs": [
+      "industrie_viande"
+    ],
+    "departements": [
+      "35"
+    ],
+    "mesures": [],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.kersia-group.com/"
+      },
+      {
+        "type": "adresse",
+        "value": "55 boulevard Jules Verger, 35800 Dinard"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "siret, adresse, departements, type",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=Hypred&departement=35",
+        "date": "2026-09-24",
+        "extrait": "HYPRED, siret 33050741900050, siège, 55 BOULEVARD JULES VERGER 35800 DINARD, activité 20.41Z, état administratif A"
+      },
+      {
+        "champ": "type, description, expertises",
+        "url": "https://industrie.usinenouvelle.com/fiche/etablissement/hypred-47783244",
+        "date": "2026-09-24",
+        "extrait": "HYPRED DINARD 35800 | Hygiène agroalimentaire : produits de nettoyage des matériels de traite, des bâtiments, des circuits thermiques. Produits de soins des animaux. | Siège social | Site de production [...] Code NAF 2041Z - Fabrication de savons, détergents et produits d'entretien"
+      },
+      {
+        "champ": "nom, description (Hypred au sein de Kersia)",
+        "url": "https://www.processalimentaire.com/qualite/kersia-nouvel-acteur-du-nettoyage-et-de-la-desinfection",
+        "date": "2026-09-24",
+        "extrait": "A la suite d’un rassemblement progressif, Hypred, Anti-Germ, Medentech, LCB food safety et G3 prennent le nom unique de Kersia."
+      },
+      {
+        "champ": "contacts (site_internet)",
+        "url": "https://www.bretagnecommerceinternational.com/adhrent/hypred/",
+        "date": "2026-09-24",
+        "extrait": "HYPRED | Déchets, nettoyage, désinfection | Elevage autres (ovin, caprin, cunicole…) | 55 BD JULES VERGER | BP 10180 | 35803 DINARD CEDEX | https://www.kersia-group.com/"
+      },
+      {
+        "champ": "description, categories",
+        "url": "https://ifip.asso.fr/actualites/comment-reduire-les-consommations-deau-et-denergie-en-abattage-decoupe-et-transformation-de-viande/",
+        "date": "2026-09-24",
+        "extrait": "Journée Technique Ifip du Mardi 8 Mars 2022 [...] Techniques de nettoyage permettant de réduire la consommation d’eau et d’énergie, Benoît Estel, Chef de Marché Food, Kersia"
+      }
+    ],
+    "date_maj": "2026-09-24"
+  },
+  {
+    "id": "PREST_VIA_002",
+    "nom": "REGELAV",
+    "type": "equipementier",
+    "logo_url": null,
+    "siret": "42087469500018",
+    "description": "Constructeur nantais de nettoyeurs haute et moyenne pression créé en 1978, qui conçoit et fabrique en France ses machines, dont des laveurs dédiés : laveur de crochets de ligne d'abattage LDC et tunnels de lavage de caisses (300 à 1200 caisses par heure), qui selon le fabricant intègrent des modules de recyclage de l'eau. Pour les abattoirs, il propose des nettoyeurs haute pression à eau chaude et des canons à mousse, et présente des accessoires économes en eau (lances, buses, régulateurs de débit). Il intervient de la conception à l'installation sur site et à la formation à l'usage de ses matériels, avec un service après-vente sur toute la France.",
+    "expertises": [
+      "Laveurs de crochets d'abattage",
+      "Tunnels de lavage de caisses",
+      "Nettoyeurs haute pression eau chaude",
+      "Canons à mousse"
+    ],
+    "categories": [
+      "valoriser_reut_eaux_non_conventionnelles",
+      "sensibiliser_former"
+    ],
+    "secteurs": [
+      "industrie_viande"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_VIA_006",
+        "roles": [
+          "materiel"
+        ]
+      },
+      {
+        "id": "ACT_VIA_001",
+        "roles": [
+          "materiel"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.regelav.com/"
+      },
+      {
+        "type": "tel",
+        "value": "+33 (0)2 40 49 54 12"
+      },
+      {
+        "type": "adresse",
+        "value": "16 Rue d'Athènes, 44300 Nantes"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "siret, adresse",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=REGELAV&departement=44",
+        "date": "2026-09-24",
+        "extrait": "REGELAV, siret 42087469500018, siège, NANT EST ENTREPRISES ZI DU BOIS BRIAND 16 RUE D'ATHENES 44300 NANTES, activité 28.29B, état administratif A"
+      },
+      {
+        "champ": "contacts",
+        "url": "https://www.regelav.com/lentreprise-regelav/",
+        "date": "2026-09-24",
+        "extrait": "Coordonnées 16 Rue d'Athènes 44300 Nantes +33 (0)2 40 49 54 12"
+      },
+      {
+        "champ": "type, description, departements",
+        "url": "https://www.regelav.com/lentreprise-regelav/",
+        "date": "2026-09-24",
+        "extrait": "REGELAV, intervient sur tout le process global de la demande client, de la conception en passant par la fabrication jusqu'à l'installation sur site chez ses clients sans oublier la formation à l'usage de ses matériels [...] Nos techniciens vous accompagnent sur toute la France [...] 1978 Notre année de création [...] 100 % Conçu et Fabriqué en France"
+      },
+      {
+        "champ": "expertises, description, mesures (ACT_VIA_006)",
+        "url": "https://www.regelav.com/transitions/machines-speciales-haute-pression-2/",
+        "date": "2026-09-24",
+        "extrait": "TUNNEL DE LAVAGE : Laveuse de caisses, palox bois ou plastiques, [...] laveur de crochet dans le secteur de la viande, laveur de grilles, écloserie. Toutes nos solutions intègrent des modules de recyclage de l'eau pour préserver les consommations"
+      },
+      {
+        "champ": "expertises, description",
+        "url": "https://www.regelav.com/laveur-de-crochets/",
+        "date": "2026-09-24",
+        "extrait": "Le Laveur de crochets de ligne d'abattage LDC, la solution idéale pour le lavage haute pression des crochets de différents formats dans le secteur de l'agro-alimentaire pour les lignes d'abattages notamment."
+      },
+      {
+        "champ": "expertises, description",
+        "url": "https://www.regelav.com/transitions/machines-speciales-haute-pression/",
+        "date": "2026-09-24",
+        "extrait": "Découvrez notre gamme de tunnel de lavage dédié au lavage haute pression de caisses multi-format, une solution puissante pour le nettoyage efficace de 300 à 1200 caisses par heure !"
+      },
+      {
+        "champ": "expertises, description",
+        "url": "https://www.regelav.com/actualites/nettoyer-efficacement-un-abattoir/",
+        "date": "2026-09-24",
+        "extrait": "Dans le secteur agro-alimentaire, et plus particulièrement dans les abattoirs et les élevages, [...] REGELAV [...] offre des équipements adaptés pour répondre à ces exigences strictes. [...] Utilisez nos nettoyeurs haute pression à eau chaude de 80°C [...] L'utilisation d'un canon à mousse REGELAV permet une application uniforme des désinfectants."
+      },
+      {
+        "champ": "description, mesures (ACT_VIA_001, ACT_VIA_006)",
+        "url": "https://www.regelav.com/actualites/comment-economiser-leau-avec-un-nettoyeur-haute-pression-astuces-et-equipements/",
+        "date": "2026-09-24",
+        "extrait": "Nos nettoyeurs haute pression sont conçus pour maximiser les performances tout en réduisant la consommation d'eau. Nos solutions innovantes : Systèmes de récupération d'eau pour les installations fixes. Accessoires économes en eau : lances, buses, et régulateurs de débit."
+      }
+    ],
+    "date_maj": "2026-09-24"
+  },
+  {
+    "id": "PREST_VIA_003",
+    "nom": "Facomia",
+    "type": "equipementier",
+    "logo_url": null,
+    "siret": "30227989800035",
+    "description": "Constructeur de machines pour abattoir créé en 1975 et repris en 2023 par le Groupe Bobet, installé à Sainte-Blandine (38), qui conçoit et fabrique en France des équipements de chaînes d'abattage bovins, ovins et porcins (box d'assommage, arracheurs de cuir, rotocuve, épileuse) ainsi que du matériel d'hygiène. Côté eau et rejets, son catalogue comprend un lavabo inox avec option stérilisateur à couteaux à aspersion ou à résistance, avec mise en route par Presto et arrêt automatique, et un tapis de saignée porcs dont la tôle inclinée récupère le sang en vue de le traiter. Les demandes d'information ou de devis passent par le formulaire de contact, le téléphone ou le courriel.",
+    "expertises": [
+      "Chaînes d'abattage bovins, ovins, porcins",
+      "Stérilisateurs à couteaux",
+      "Tapis de saignée porcs"
+    ],
+    "categories": [
+      "ameliorer_efficacite_hydrique",
+      "agir_rejets_qualite"
+    ],
+    "secteurs": [
+      "industrie_viande"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_VIA_003",
+        "roles": [
+          "materiel"
+        ]
+      },
+      {
+        "id": "ACT_VIA_007",
+        "roles": [
+          "materiel"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.facomia.com/fr"
+      },
+      {
+        "type": "tel",
+        "value": "04 74 18 65 35"
+      },
+      {
+        "type": "mail",
+        "value": "contact@facomia.com"
+      },
+      {
+        "type": "adresse",
+        "value": "ZA de Bel Air, 85 rue des savoir-faire, 38110 Sainte-Blandine"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "siret, adresse",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=Facomia&departement=38",
+        "date": "2026-09-24",
+        "extrait": "SOCIETE POUR LA FABRICATION ET LA COMMERCIALISATION DE MATERIELS DE L'INDUSTRIE ALIMENTAIRE FACOMIA (FACOMIA), siret 30227989800035, siège, ZONE D ACTIVITE DE BEL AIR 38110 SAINTE-BLANDINE, activité 28.93Z, état administratif A"
+      },
+      {
+        "champ": "contacts, description (accès)",
+        "url": "https://www.facomia.com/fr/contactez-nous",
+        "date": "2026-09-24",
+        "extrait": "Contactez FACOMIA pour toute demande d'informations ou de devis. FACOMIA SARL, ZA de BEL AIR, 85 rue des savoir-faire, 38110 SAINTE BLANDINE, 04 74 18 65 35, contact@facomia.com"
+      },
+      {
+        "champ": "type, description",
+        "url": "https://www.facomia.com/fr/presentation",
+        "date": "2026-09-24",
+        "extrait": "FACOMIA est créé en 1975 par M. Maurice GUILLAUD [...] En novembre 2023, M. GUILLAUD vend sa structure au Groupe BOBET [...] FACOMIA est l'un des pionniers dans la conception et la fabrication de matériels et de machines pour le secteur de l'Agro-Alimentaire (les abattoirs, ateliers de découpes, salaisons et boucheries, etc…) [...] Machines fabriquées & assemblées en France"
+      },
+      {
+        "champ": "departements",
+        "url": "https://www.facomia.com/fr/presentation",
+        "date": "2026-09-24",
+        "extrait": "FACOMIA, depuis sa création, a équipé beaucoup d'abattoirs dans le Grand Est de la France de par sa position géographique. Néanmoins, FACOMIA est intervenu suites à des demandes de Clients partout en France mais aussi à l'étranger."
+      },
+      {
+        "champ": "expertises, description",
+        "url": "https://www.facomia.com/fr/presentation",
+        "date": "2026-09-24",
+        "extrait": "Bovins: Stabulation, Box d'assommage et traditionnel, Plateformes, Arracheur de cuir... Ovins: Restrainer, Box de contention et de sacrifaction, Arracheur de peau... Porcins: Box porc, Rotocuve, Epileuse, Flagelleuse..."
+      },
+      {
+        "champ": "expertises, description, mesures (ACT_VIA_003)",
+        "url": "https://www.facomia.com/fr/produit/accessoires-hygiene/hygiene/lavabo-et-sterilisateur-a-couteaux",
+        "date": "2026-09-24",
+        "extrait": "Lavabo conçu tout en Inox avec option stérilisateur à couteau avec grille en polyéthylène blanc de forme carrée ou ronde, à aspersion ou à résistance. Mise en route par Presto et arrêt automatique."
+      },
+      {
+        "champ": "expertises, description, mesures (ACT_VIA_007)",
+        "url": "https://www.facomia.com/fr/produit/les-chaines/chaine-porcins/tapis-de-saignee-porcs",
+        "date": "2026-09-24",
+        "extrait": "Fabrication française. Tapis de saignée Porcs. Le tapis est implanté après le box porcs pour saigner l'animal. Une tôle inclinée est fixée sous le tapis pour la récupération du sang en vue de le traiter."
+      }
+    ],
+    "date_maj": "2026-09-24"
+  },
+  {
+    "id": "PREST_VIA_004",
+    "nom": "Termet (Termet Solefi)",
+    "type": "equipementier",
+    "logo_url": null,
+    "siret": "35371092400039",
+    "description": "Filiale depuis 1990 du groupe Bobet, Termet Solefi est installé à Champagné (Sarthe) : il fabrique depuis 1930 le pistolet d'abattage Le Matador (activité déclarée 28.93Z, fabrication de machines pour l'industrie agroalimentaire) et distribue aussi des équipements pour les industriels de la viande, notamment des marques FAN, Ibex et Ollari & Conti. Pour les abattoirs, il propose des stérilisateurs d'outils à aspersion d'eau chaude à déclenchement automatique, du matériel de récupération du sang à la saignée (trocarts, pompe à sang, défibrineur) et des presses et cyclones qui collectent les matières stercoraires transportées par canon pneumatique ou convoyeur, en projet clé en main incluant étude, circuit matière, installation et mise en service. Les demandes d'information, de conception ou de devis passent par le formulaire du site, le standard ou les technico-commerciaux de secteur.",
+    "expertises": [
+      "Stérilisateurs à aspersion",
+      "Matériel de récupération du sang",
+      "Cyclones de décompression pour matières stercoraires",
+      "Presses à matières stercoraires"
+    ],
+    "categories": [
+      "ameliorer_efficacite_hydrique",
+      "agir_rejets_qualite",
+      "changer_process_pratiques"
+    ],
+    "secteurs": [
+      "industrie_viande"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_VIA_003",
+        "roles": [
+          "materiel"
+        ]
+      },
+      {
+        "id": "ACT_VIA_007",
+        "roles": [
+          "materiel"
+        ]
+      },
+      {
+        "id": "ACT_VIA_005",
+        "roles": [
+          "materiel",
+          "travaux"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.termet.fr/"
+      },
+      {
+        "type": "tel",
+        "value": "02 43 54 10 30"
+      },
+      {
+        "type": "mail",
+        "value": "commercial@termet.fr"
+      },
+      {
+        "type": "adresse",
+        "value": "Z.A. La Forêt, 72470 Champagné"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "siret, adresse, type (activité 28.93Z)",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=TERMET%20SOLEFI&departement=72",
+        "date": "2026-09-24",
+        "extrait": "TERMET SOLEFI, siren 353710924, établissement siret 35371092400039, ZA DE LA FORET 72470 CHAMPAGNE, est_siege false, activité 28.93Z, état administratif A (siège actif : 35371092400047, 38 RUE DES MATHURINS 75008 PARIS, 70.10Z)"
+      },
+      {
+        "champ": "siret, type, description (distribution et activité 28.93Z)",
+        "url": "https://www.termet.fr/mentions-legales-expert-materiel-abattage.html",
+        "date": "2026-09-24",
+        "extrait": "TERMET SOLEFI, distributeur d'équipement pour industriels de la viande. Raison sociale : TERMET SOLEFI. Forme juridique : SASU. Adresse : Z.A. La Forêt 72470 Champagné. Activité (Code NAF ou APE) : Fabrication de machines pour l'industrie agro-alimentaire (2893Z). Siret : 353 710 924 00039"
+      },
+      {
+        "champ": "description (groupe Bobet)",
+        "url": "https://www.termet.fr/groupe-bobet-equipement-industriel-viande.html",
+        "date": "2026-09-24",
+        "extrait": "TERMET est depuis 1990 filiale du groupe BOBET, spécialiste en équipements pour l'agro-alimentaire. Au sein du groupe de 250 personnes, Termet peut se concentrer sur son métier \"les équipements pour la viande\""
+      },
+      {
+        "champ": "description (marques distribuées)",
+        "url": "https://www.termet.fr/materiel-abattage-marques-industrie-viande.html",
+        "date": "2026-09-24",
+        "extrait": "TERMET distribue aujourd'hui les équipements nécessaires aux lignes d'abttages issus des plus grandes marques : Ollari & Conti, Ibex, Caps, Argus Real Cold, Gozlin, FAN, FT2A"
+      },
+      {
+        "champ": "contacts, departements, description (accès)",
+        "url": "https://www.termet.fr/contact-devis-expert-materiel-abattage.html",
+        "date": "2026-09-24",
+        "extrait": "Pour tout besoin d'informations, demande de conception ou devis, n'hésitez pas à formuler votre demande via le formulaire de contact ci-dessous. [...] TERMET SOLEFI Adresse Z.A. La Forêt 72470 Champagné France Contacts Tél. : 02 43 54 10 30 [...] Technico-commercial secteur Sud-Est [...] Technico-commercial Secteur Nord [...] Technico-commercial Secteur Sud-Ouest"
+      },
+      {
+        "champ": "type, description (fabrication du Matador), departements",
+        "url": "https://www.termet.fr/vente-materiel-abattage-industrie-viande.html",
+        "date": "2026-09-24",
+        "extrait": "Leader sur le marché français depuis 1930 avec la fabrication du pistolet d'abattage LE MATADOR®, TERMET a su au cours des dernières années diversifier son activité"
+      },
+      {
+        "champ": "contacts (mail), expertises, mesures (ACT_VIA_003)",
+        "url": "https://www.termet.fr/sterilisateur-couteau-circulaire.html",
+        "date": "2026-09-24",
+        "extrait": "Tous les stérilisateurs à aspersion sont construits en inox et disposent d'un déclenchement automatique grâce à un capteur inductif. Le cycle et la température de stérilisation sont réglables selon le rythme et le type de travail. Vous réaliserez ainsi des économies d'eau et d'énergie importantes. [...] > Stérilisation par aspersion d'eau de 65 à 90°C [...] Z.A. La Forêt 72470 Champagné 02 43 54 10 30 (lien mailto:commercial@termet.fr)"
+      },
+      {
+        "champ": "expertises, mesures (ACT_VIA_007)",
+        "url": "https://www.termet.fr/trocart-bovin.html",
+        "date": "2026-09-24",
+        "extrait": "Accueil / Nos produits / Hygiène / Récupération du sang / Trocart bovin. Ce produit est spécialement conçu pour la saignée des bovins. Il permet de récupérer le sang."
+      },
+      {
+        "champ": "expertises, mesures (ACT_VIA_007)",
+        "url": "https://www.termet.fr/pompe-a-sang.html",
+        "date": "2026-09-24",
+        "extrait": "Ce produit est destiné pour la pompage de liquide. Il existe en version Inox (tuyauterie en contact avec le sang) pour la récupération du sang alimentaire ou en version aluminium pour l'équarissage."
+      },
+      {
+        "champ": "description, mesures (ACT_VIA_007)",
+        "url": "https://www.termet.fr/vente-systeme-recuperation-sang-abattoir.html",
+        "date": "2026-09-24",
+        "extrait": "Récupération du sang sur lignes d'abattage. Défibrineur [...] Pompe à sang 1\" [...] Trocart bovin [...] Trocart porcin"
+      },
+      {
+        "champ": "expertises, mesures (ACT_VIA_005, rôles materiel et travaux)",
+        "url": "https://www.termet.fr/presse-matieres-stercoraires-pms400.html",
+        "date": "2026-09-24",
+        "extrait": "Permet la collecte des matières stercoraires transportées par canon pneumatique ou convoyeur. Utilisation d'une presse à vis pour extraire les jus et séparer les matières solides. Projet clef en main incluant : - Etude - Circuit matière - Cyclone efficace et sans éclaboussure - Installation et mise en service"
+      },
+      {
+        "champ": "expertises, mesures (ACT_VIA_005)",
+        "url": "https://www.termet.fr/cyclone-de-decompression2.html",
+        "date": "2026-09-24",
+        "extrait": "Cyclone de décompression Inox. Permet la collecte des matières stercoraires transportées par canon pneumatique ou convoyeur [...] Projet clef en main incluant : - Etude - Circuit matière - Cyclone efficace et sans éclaboussure - Installation et mise en service"
+      },
+      {
+        "champ": "description",
+        "url": "https://www.termet.fr/equipement-traitement-dechets-abattoir.html",
+        "date": "2026-09-24",
+        "extrait": "Termet, distributeur de matériel pour industriels de la viande, propose des équipements nécessaires au traitement des déchets sur chaînes d'abattage tels que : séparateur FAN ; traitement des matières stercoraires."
+      }
+    ],
+    "date_maj": "2026-09-24"
+  },
+  {
+    "id": "PREST_VIA_005",
+    "nom": "Couédic Madoré Équipement",
+    "type": "equipementier",
+    "logo_url": null,
+    "siret": "34866581100025",
+    "description": "Fabricant d'équipements d'abattage et de découpe installé à Plémet (Côtes-d'Armor), qui conçoit dans son bureau d'études et fabrique dans son usine (chaudronnerie, serrurerie, mécanique) puis installe et met en service ses matériels, en France comme à l'international. Pour les abattoirs de porcins, il propose le transfert pneumatique des sous-produits (canon pour les suifs chauds et les matières stercoraires, aspiration des têtes, pattes et panses) et des tables et tapis de saignée avec récupération du sang en tanks ou en poches.",
+    "expertises": [
+      "Transfert pneumatique des sous-produits",
+      "Tables de saignée",
+      "Récupération du sang",
+      "Lignes d'abattage porcins"
+    ],
+    "categories": [
+      "changer_process_pratiques",
+      "agir_rejets_qualite"
+    ],
+    "secteurs": [
+      "industrie_viande"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_VIA_005",
+        "roles": [
+          "materiel"
+        ]
+      },
+      {
+        "id": "ACT_VIA_007",
+        "roles": [
+          "materiel"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.couedic-madore.fr/"
+      },
+      {
+        "type": "tel",
+        "value": "+33 2 96 66 30 30"
+      },
+      {
+        "type": "adresse",
+        "value": "ZAE du Ridor, CS80100, 22210 Plémet"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "siret, adresse",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=Couedic%20Madore%20Equipement&departement=22",
+        "date": "2026-09-24",
+        "extrait": "COUEDIC MADORE EQUIPEMENT, siret 34866581100025, siège, ZAE DU RIDOR 22210 PLEMET, activité 28.93Z, état administratif A"
+      },
+      {
+        "champ": "contacts",
+        "url": "https://www.couedic-madore.fr/contactez-nous/",
+        "date": "2026-09-24",
+        "extrait": "Appelez-nous au +33(0)2 96 66 30 30. ZAE du Ridor, CS80100, 22 210 PLEMET, France"
+      },
+      {
+        "champ": "type, description, departements",
+        "url": "https://www.couedic-madore.fr/couedic-madore-equipement/lentreprise/",
+        "date": "2026-09-24",
+        "extrait": "Couédic Madoré Equipement déménage dans sa nouvelle usine à Plemet. L'espace industriel façonne vos matériels avec sa complémentarité de métiers : méthode, chaudronnerie, serrurerie, mécanique de précision. Les équipes de techniciens de montage en capacité à régler et à mettre en service l'installation. Solutions industrielles globales adaptées à chaque situation en France comme à l'international"
+      },
+      {
+        "champ": "expertises, mesures (ACT_VIA_005)",
+        "url": "https://www.couedic-madore.fr/process-dabattage/abattage-porc/",
+        "date": "2026-09-24",
+        "extrait": "Le canon pneumatique est utilisé pour des produits compacts comme les suifs chauds et les matières stercoraires. L'autre procédé est l'aspiration qui permet de transporter des produits non liquides comme les têtes, pattes, des panses (tuyauteries jusqu'au diamètre 350mm)."
+      },
+      {
+        "champ": "expertises, mesures (ACT_VIA_005)",
+        "url": "https://www.couedic-madore.fr/nos-produits/",
+        "date": "2026-09-24",
+        "extrait": "Pour limiter les circulations de bacs sur roulettes dans les abattoirs et les découpes, [...] nous avons travaillé sur 2 systèmes de transport par air différents : le canon pneumatique [...] suifs chauds et les matières stercoraires ; l'aspiration [...] têtes, les pattes, les panses, les suifs froids"
+      },
+      {
+        "champ": "expertises, mesures (ACT_VIA_007)",
+        "url": "https://www.couedic-madore.fr/process-dabattage/abattage-porc/",
+        "date": "2026-09-24",
+        "extrait": "Nos tables et tapis de saignée permettent une bonne présentation des porcins au saigneur et une excellente récupération du sang. Pour la saignée au trocard, la récupération du sang peut se faire par lot dans des tanks ou individuellement dans des poches à sang."
+      }
+    ],
+    "date_maj": "2026-09-24"
+  },
+  {
+    "id": "PREST_VIA_006",
+    "nom": "CM2A (Constructions Mécaniques et d'Automatismes d'Armor)",
+    "type": "equipementier",
+    "logo_url": null,
+    "siret": "48760026400021",
+    "description": "Constructeur installé à Rostrenen (Côtes-d'Armor) qui conçoit et fabrique des équipements et process automatisés pour l'industrie agroalimentaire, d'abord pour la manutention des volailles de l'élevage à l'abattoir. Pour les abattoirs, sa gamme de transport et de stockage des coproduits d'abattage comprend pompe à vide, réceptacles, tuyauterie, filtration, stockage et presse à plumes, à côté d'équipements de filtration (filtres statiques et rotatifs, séparation mécanique, collecte des déchets) et de lavage. Contact par téléphone ou par formulaire sur son site.",
+    "expertises": [
+      "Transport des coproduits d'abattage",
+      "Presse à plumes",
+      "Filtration et séparation mécanique",
+      "Manutention des volailles vivantes"
+    ],
+    "categories": [
+      "changer_process_pratiques"
+    ],
+    "secteurs": [
+      "industrie_viande"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_VIA_005",
+        "roles": [
+          "materiel"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.cm2a.fr/"
+      },
+      {
+        "type": "tel",
+        "value": "+33 2 96 29 03 12"
+      },
+      {
+        "type": "adresse",
+        "value": "Z.A. La Garenne, 22110 Rostrenen"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "siret, adresse",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=CM2A&departement=22",
+        "date": "2026-09-24",
+        "extrait": "CM2A (CONSTRUCTIONS MECANIQUES ET D'AUTOMATISMES D'ARMOR), siret 48760026400021, siège, ZA LA GARENNE 22110 ROSTRENEN, activité 28.99B, état administratif A, 1 établissement ouvert"
+      },
+      {
+        "champ": "type, description, expertises (manutention des volailles), contacts (adresse, tel)",
+        "url": "https://www.cm2a.fr/",
+        "date": "2026-09-24",
+        "extrait": "Leader dans le domaine de la manutention des volailles, CM2A conçoit et fabrique également tout équipement et process automatisés pour l'industrie agro-alimentaire. [...] ZA La Garenne 22110 Rostrenen France Tél : + 33 02 96 29 03 12"
+      },
+      {
+        "champ": "type (fabrication)",
+        "url": "https://www.cm2a.fr/amelioration-de-lensemble-du-systeme-dinformation.html",
+        "date": "2026-09-24",
+        "extrait": "l'entreprise a relié informatiquement ses deux sites (production et assemblage). [...] L'objectif est d'établir un lien direct entre la conception des process, les approvisionnements et la fabrication."
+      },
+      {
+        "champ": "expertises (transport des coproduits, presse à plumes, filtration), description, mesures (ACT_VIA_005 materiel)",
+        "url": "https://www.cm2a.fr/process-agro/transport-et-stockage-co-produit-abattage.html",
+        "date": "2026-09-24",
+        "extrait": "Transport et stockage co-produit d'abattage • Pompe à vide • Réceptacle • Filtration • Tuyauterie • Stockage • Presse à plume • Automation [...] Filtration • Filtre statique • Filtre rotatif • Séparation mécanique • Collecte déchets • Eviscération volailles [Note du rédacteur : la page ne parle pas d'eau ; le rattachement à ACT_VIA_005 est une déduction, aucune page CM2A trouvée ne présente ce transport comme une alternative au transport par l'eau.]"
+      },
+      {
+        "champ": "expertises (manutention des volailles vivantes)",
+        "url": "https://www.cm2a.fr/transfert-de-volailles.html",
+        "date": "2026-09-24",
+        "extrait": "Le quai automatique de réception des volailles vivantes. Le tunnel d'étourdissement et de narcose irréversible des volailles"
+      },
+      {
+        "champ": "contacts (adresse, tel), description (formulaire), departements",
+        "url": "https://www.cm2a.fr/contactez-nous.html",
+        "date": "2026-09-24",
+        "extrait": "France Rostrenen - CM2A [...] Z.A. La Garenne 22110 ROSTRENEN Tél : (+33) 02 96 29 03 12 [...] Brasil Esteio - Libracom [...] China Shangai [...] México [...] Polska Warsaw [...] Kiev [...] Envoyer un E-mail à l'aide de ce formulaire"
+      }
+    ],
+    "date_maj": "2026-09-24"
+  },
+  {
+    "id": "PREST_VIA_007",
+    "nom": "Axima Réfrigération France",
+    "type": "installateur",
+    "logo_url": null,
+    "siret": "44026717700028",
+    "description": "Entreprise de froid industriel et commercial, siège à Bischheim (67), qui conçoit, installe, dépanne et entretient des installations frigorifiques avec 80 agences en France. Dans la viande, elle a réalisé en 2008 les installations de réfrigération du site de découpe de Cooperl Hunaudaye à La Rochetoirin (38) : groupes à l'ammoniac et à l'eau glycolée, aéroréfrigérants à air munis d'un dispositif adiabatique à la place d'une condensation à eau, et récupération de chaleur sur les compresseurs et les condenseurs pour l'eau chaude sanitaire et de lavage. Les tarifs ne sont pas publiés.",
+    "expertises": [
+      "Installations frigorifiques sur mesure",
+      "Aéroréfrigérants à dispositif adiabatique",
+      "Récupération de chaleur sur le froid",
+      "Maintenance d'installations frigorifiques"
+    ],
+    "categories": [
+      "ameliorer_efficacite_hydrique"
+    ],
+    "secteurs": [
+      "industrie_viande"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_VIA_004",
+        "roles": [
+          "travaux"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "adresse",
+        "value": "6 rue de l'Atome, 67800 Bischheim"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "siret, type, contacts (adresse)",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=Axima%20Refrigeration%20France&departement=67",
+        "date": "2026-09-24",
+        "extrait": "AXIMA REFRIGERATION FRANCE (QUIRI REFRIGERATION), siret 44026717700028, siège, 6 RUE DE L'ATOME 67800 BISCHHEIM, activité 33.20B, état administratif A, 76 établissements ouverts"
+      },
+      {
+        "champ": "type, description, departements, expertises (installations, maintenance)",
+        "url": "https://www.marque.alsace/partenaire/axima-refrigeration-france",
+        "date": "2026-09-24",
+        "extrait": "Axima Réfrigération France, acteur majeur du froid en France. [...] Nous concevons des installations frigorifiques sur-mesure [...]. Axima Réfrigération France vous accompagne pour la conception, l'installation, le dépannage et la maintenance de toutes vos installations frigorifiques. En chiffre, Axima Réfrigération France c'est 80 agences en France, 2300 collaborateurs et 1800 techniciens frigoristes à votre service."
+      },
+      {
+        "champ": "description, expertises (adiabatique, récupération de chaleur), mesures (ACT_VIA_004 travaux)",
+        "url": "https://www.zoneindustrie.com/Actualite/Axima-Refrigeration-equipe-Cooperl-Hunaudaye-6424.html",
+        "date": "2026-09-24",
+        "extrait": "Axima Réfrigération équipe Cooperl Hunaudaye, 18/11/2008. Cooperl Hunaudaye, 1er groupe porcin français [...] a choisi la société Axima Réfrigération pour réaliser les installations de réfrigération de son site de La Rochetoirin (38) [...] Les aéroréfrigérants sont munis d'un dispositif adiabatique qui fournit une brumisation lorsque la température extérieure est supérieure à 31°C. L'utilisation d'air et non d'eau au niveau des condenseurs permet d'éviter tout problème de légionellose."
+      },
+      {
+        "champ": "description (salles de découpe, récupération de chaleur)",
+        "url": "https://www.agroligne.com/news-entreprises/15421-axima-refrigeration-equipe-cooperl-hunaudaye.html",
+        "date": "2026-09-24",
+        "extrait": "Deux groupes destinés au froid positif [...] fonctionnent avec de l'ammoniac comme fluide frigorigène et de l'eau glycolée [...] des salles de découpe à +1° C [...] Afin d'économiser l'énergie, AXIMA REFRIGERATION a mis en place un système de récupération des calories en sortie des compresseurs et au niveau des condenseurs pour chauffer l'eau chaude sanitaire et de lavage."
+      }
+    ],
+    "date_maj": "2026-09-24"
+  },
+  {
+    "id": "PREST_VIA_008",
+    "nom": "Dalkia Froid Solutions",
+    "type": "installateur",
+    "logo_url": null,
+    "siret": "06620112000848",
+    "description": "Filiale de spécialité de Dalkia (groupe EDF), dont le siège est à Verrières-en-Anjou (49), qui conçoit, installe et maintient des installations frigorifiques industrielles à partir d'un réseau de 71 agences en France. Dans la viande, elle a installé chez Maître Jacques à Rennes (préparation de produits élaborés de boucherie) une centrale à l'ammoniac avec deux aéroréfrigérants adiabatiques, une production d'eau glacée de 400 kW pour la Charcuterie du Moulin (72) et des séchoirs pour les salaisons Fernand Dussert (58) ; pour un entrepôt de surgelés à Vannes, elle a conçu et installé une production frigorifique dont le condenseur adiabatique est présenté comme limitant la consommation d'eau. Les demandes de devis se font par le formulaire de contact du site.",
+    "expertises": [
+      "Installations frigorifiques industrielles",
+      "Aéroréfrigérants et condenseurs adiabatiques",
+      "Production d'eau glacée",
+      "Maintenance d'installations frigorifiques"
+    ],
+    "categories": [
+      "ameliorer_efficacite_hydrique"
+    ],
+    "secteurs": [
+      "industrie_viande"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_VIA_004",
+        "roles": [
+          "travaux"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.dalkiafroidsolutions.com"
+      },
+      {
+        "type": "adresse",
+        "value": "Rue Fabien Cesbron, Saint-Sylvain d'Anjou, 49484 Verrières-en-Anjou"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "siret, type (activité 33.20B), contacts (adresse du siège)",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=Dalkia%20Froid%20Solutions&departement=49",
+        "date": "2026-09-24",
+        "extrait": "DALKIA FROID SOLUTIONS, siren 066201120, siret 06620112000848, siege, SAINT SYLVAIN D'ANJOU RUE FABIEN CESBRON 49112 VERRIERES-EN-ANJOU, activite_principale 33.20B, etat_administratif A, 67 établissements ouverts"
+      },
+      {
+        "champ": "contacts (adresse, site internet), siret",
+        "url": "https://www.dalkiafroidsolutions.com/mentions-legales",
+        "date": "2026-09-24",
+        "extrait": "Il est édité par Dalkia Froid Solutions, Société par action simplifiée au capital de 334 710 euros, immatriculée au RCS d'Angers sous le numéro 066 201 120, dont le siège social est rue Fabien Cesbron, Saint-Sylvain d'Anjou, 49484 Verrières-en-Anjou, France."
+      },
+      {
+        "champ": "description (filiale Dalkia, groupe EDF)",
+        "url": "https://www.dalkiafroidsolutions.com/dalkia-froid-solutions-partenaire-performances-energetiques",
+        "date": "2026-09-24",
+        "extrait": "Filiale de spécialité de Dalkia (groupe EDF) depuis 2015, nous intervenons dans les domaines du froid, du génie climatique, de la cuisine professionnelle et de la boulangerie."
+      },
+      {
+        "champ": "description (conception, installation, maintenance, 71 agences), departements, expertises (installations frigorifiques industrielles, maintenance)",
+        "url": "https://www.dalkiafroidsolutions.com/equipements-et-installations-en-froid-industriel",
+        "date": "2026-09-24",
+        "extrait": "nous sélectionnons, intégrons et maintenons des installations frigorifiques [...] Nos 71 agences, réparties sur le territoire français, nous permettent d'être réactifs (astreinte 4 h) [...] Définition des besoins en froid : pré-étude / chiffrage et étude d'exécution Travaux et mise en service : production frigorifique sur-mesure en salle des machines ou en container, skid, eau glacée"
+      },
+      {
+        "champ": "secteurs (viandes, poissons)",
+        "url": "https://www.dalkiafroidsolutions.com/notre-expertise-detude-pour-l-agroalimentaire",
+        "date": "2026-09-24",
+        "extrait": "Nous proposons un accompagnement complet et une mise en place d'installations frigorifiques pour les différentes filières de l'agroalimentaire : viandes et volailles, poissons, plats cuisinés"
+      },
+      {
+        "champ": "description (Maître Jacques), expertises (aéroréfrigérants adiabatiques), mesures (ACT_VIA_004 travaux)",
+        "url": "https://www.dalkiafroidsolutions.com/installation-frigorifique-evolutive-conteneur-amenage",
+        "date": "2026-09-24",
+        "extrait": "Située à Rennes (35), cette entreprise spécialisée dans la préparation de produits élaborés de boucherie a choisi Dalkia Froid Solutions pour réaliser une installation frigorifique compacte en extérieur [...] Dimensionnement d'une centrale NH 3 au MPG [...] Trois compresseurs à vis Deux aéroréfrigérants adiabatiques"
+      },
+      {
+        "champ": "description (entrepôt de Vannes, condenseur adiabatique et eau), expertises (condenseurs adiabatiques), mesures (ACT_VIA_004 travaux)",
+        "url": "https://www.dalkiafroidsolutions.com/production-frigorifique-performante-au-nh3-pour-un-entrepot-logistique",
+        "date": "2026-09-24",
+        "extrait": "Rouxel stockage [...] s'est doté d'un entrepôt de stockage entièrement dédié aux produits alimentaires surgelés, à Vannes. [...] l'entreprise a fait appel à Dalkia Froid Solutions pour concevoir et installer une production frigorifique adaptée aux besoins du site. [...] Le choix d'un condenseur adiabatique contribue à limiter la consommation d'eau et optimiser les performances de l'installation, en particulier pendant la période estivale."
+      },
+      {
+        "champ": "description (Charcuterie du Moulin), expertises (production d'eau glacée)",
+        "url": "https://www.dalkiafroidsolutions.com/une-nouvelle-installation-de-froid-pour-la-charcuterie-du-moulin",
+        "date": "2026-09-24",
+        "extrait": "La Charcuterie du Moulin a fait confiance à Dalkia Froid Solutions pour l'installation frigorifique de sa nouvelle usine près de la Ferté-Bernard, dans le département de la Sarthe (72). [...] la nouvelle production d'eau glacée (-8/4°C) possède une puissance frigorifique de 400kW."
+      },
+      {
+        "champ": "description (salaisons Fernand Dussert)",
+        "url": "https://www.dalkiafroidsolutions.com/sechoirs-et-etuve-sur-process-de-salaisons",
+        "date": "2026-09-24",
+        "extrait": "Située à Arleuf (58), cette charcuterie a choisi Dalkia Froid Solutions pour augmenter les capacités de son process par l'installation de séchoirs et d'une étuve."
+      },
+      {
+        "champ": "description (demande de devis par formulaire)",
+        "url": "https://www.dalkiafroidsolutions.com/contact",
+        "date": "2026-09-24",
+        "extrait": "Thème Demander un devis Contacter un expert Solliciter un sponsoring Proposer ses services Autre"
+      }
+    ],
+    "date_maj": "2026-09-24"
+  },
+  {
+    "id": "PREST_VIA_009",
+    "nom": "JACIR (Cofinair by Jacir)",
+    "type": "equipementier",
+    "logo_url": null,
+    "siret": "78625049800015",
+    "description": "Fabricant de tours de refroidissement, de refroidisseurs et de condenseurs adiabatiques, marque du groupe Cofinair, avec un siège à Pontault-Combault et des sites de production en Normandie (Martin-Église, Hautot-sur-Mer). Ses refroidisseurs adiabatiques TOPAZ NEO et condenseurs adiabatiques ONYX fonctionnent en mode sec et n'humidifient l'air qu'aux fortes charges thermiques, l'eau d'humidification excédentaire étant recyclée ; en agroalimentaire, il a notamment remplacé les tours aéroréfrigérantes d'un refroidissement d'autoclaves par un dry adiabatique TOPAZ NEO et installé trois refroidisseurs adiabatiques TOPAZ dans une laiterie de Loire-Atlantique, qui a pu se séparer de ses condenseurs évaporatifs. Il assure aussi l'expertise, la maintenance, la réhabilitation et la location de tours de refroidissement ; le contact se prend par téléphone, courriel ou formulaire en ligne.",
+    "expertises": [
+      "Refroidisseurs adiabatiques",
+      "Condenseurs adiabatiques",
+      "Tours de refroidissement",
+      "Maintenance et réhabilitation de tours"
+    ],
+    "categories": [
+      "ameliorer_efficacite_hydrique"
+    ],
+    "secteurs": [
+      "industrie_viande"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_VIA_004",
+        "roles": [
+          "materiel"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.jacir.fr/fr/"
+      },
+      {
+        "type": "tel",
+        "value": "01 64 43 53 20"
+      },
+      {
+        "type": "mail",
+        "value": "contact@jacir.fr"
+      },
+      {
+        "type": "adresse",
+        "value": "11 rue Jean Moulin, 77340 Pontault-Combault"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "siret, adresse",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=JACIR&departement=77",
+        "date": "2026-09-24",
+        "extrait": "JACIR (JACIR), siret 78625049800015, siège, 11 RUE JEAN MOULIN 77340 PONTAULT-COMBAULT, activité 28.29B, état administratif A"
+      },
+      {
+        "champ": "type, description, expertises",
+        "url": "https://www.jacir.fr/fr/presentation-entreprise-jacir/",
+        "date": "2026-09-24",
+        "extrait": "A COFINAIR GROUP BRAND [...] JACIR : votre expert en fabrication de tours de refroidissement. [...] une gamme extrêmement diversifiée de tours de refroidissement, de refroidisseurs et condenseurs adiabatiques. [...] Au delà de l'offre d'une gamme complète fabriquée en France, Jacir accompagne ses clients dans le suivi et la maintenance de ses équipements. [...] 2021 Fusion de Jacir et Cofinair Industrie. [...] Services [...] Réhabilitation majeure. Location de tours de refroidissement. Expertise et maintenance"
+      },
+      {
+        "champ": "type, description",
+        "url": "https://www.jacir.fr/fr/nos-sites-de-production/",
+        "date": "2026-09-24",
+        "extrait": "De la conception à la livraison, JACIR développe en Normandie, depuis plus de 60 ans, son savoir-faire et son outil de travail, dans le domaine du travail des métaux. [...] Répartis sur deux sites de production, à Martin-Église et Hautôt-sur-Mer"
+      },
+      {
+        "champ": "contacts (adresse), departements, description",
+        "url": "https://www.jacir.fr/fr/contact-htm/",
+        "date": "2026-09-24",
+        "extrait": "Contactez-nous. [...] Région: Antilles Françaises, Aquitaine, Auvergne-Rhône Alpes, Basse Normandie, Bretagne, Centre - Ouest, Est, Haute Normandie, Hauts de France, Ile-de-France, PACA, Sud Ouest. Siège social Jacir 11, rue Jean Moulin 77340 Pontault Combault France. Site de production Hautôt-sur-Mer Jacir 63, rue de Bernouville 76550 Hautot-sur-Mer. Site de production Martin-Eglise Jacir Cours Bourbon 76370 MARTIN EGLISE"
+      },
+      {
+        "champ": "contacts (tel, mail)",
+        "url": "https://www.jacir.fr/wp-content/uploads/2022/10/Brochure-TN-4-voletsJacir_FR-29-08-22-BD.pdf",
+        "date": "2026-09-24",
+        "extrait": "JACIR S.A.S 11, rue Jean Moulin - 77348 Pontault-Combault Cedex - France Tél : + 33 (0) 1 64 43 53 20 - Fax : +33 (0) 1 64 43 53 21 contact@jacir.fr - www.jacir.fr"
+      },
+      {
+        "champ": "mesures (ACT_VIA_004), expertises, description",
+        "url": "https://www.jacir.fr/fr/categories/refroidisseurs-adiabatiques/",
+        "date": "2026-09-24",
+        "extrait": "Les refroidisseurs adiabatiques résultent de l'association d'un aéroréfrigérant sec et d'une section de pré-refroidissement d'air. Ils fonctionnent majoritairement en mode sec puis en mode adiabatique, lorsque la charge thermique est maximale [...] L'eau d'humidification excédentaire est ainsi collectée dans un bac en acier inox, puis recyclée. L'économie d'eau est alors majeure, sans risque de propagation de bactéries. [...] Consommation d'eau très faible grâce au système de récupération d'eau avec pompe"
+      },
+      {
+        "champ": "mesures (ACT_VIA_004), expertises, description",
+        "url": "https://www.jacir.fr/fr/categories/condenseurs-adiabatiques/",
+        "date": "2026-09-24",
+        "extrait": "Nos condenseurs adiabatiques ONYX sont des échangeurs de chaleur dédiés au fluide frigorigène NH3 en standard. Les calories sont rejetées en sec dans l'atmosphère. Dès que les conditions climatiques augmentent, nos échangeurs utilisent l'évaporation de l'eau. [...] Notre solution de condensation adiabatique résulte de l'association d'un condenseur sec et d'une section de pré-refroidissement adiabatique"
+      },
+      {
+        "champ": "mesures (ACT_VIA_004), description",
+        "url": "https://www.jacir.fr/fr/realisations/systeme-de-refroidissement-dautoclaves/",
+        "date": "2026-09-24",
+        "extrait": "Dans le cadre d'un projet de rénovation et d'amélioration d'une installation de refroidissement d'autoclaves aux Seychelles, le choix de notre client s'est porté sur un dry adiabatique TOPAZ NEO® en remplacement de ses tours aéroréfrigérantes vieillissantes. [...] Recirculation d'eau assurant la plus faible consommation contrairement à des machines « eau perdue »"
+      },
+      {
+        "champ": "description",
+        "url": "https://www.jacir.fr/fr/realisations/refroidisseurs-adiabatique-pour-une-laiterie/",
+        "date": "2026-09-24",
+        "extrait": "la Laiterie Saint-Père en Loire-Atlantique a récemment fait appel à JACIR pour l'installation de 3 refroidisseurs adiabatiques TOPAZ (3TH9 E08 D3). La mise en place de ces appareils a notamment permis à notre client de ne plus être soumis à la rubrique 2921, de pouvoir se séparer de ses vieux condenseurs évaporatifs ainsi que d'éviter l'utilisation de traitements."
+      }
+    ],
+    "date_maj": "2026-09-24"
+  },
+  {
+    "id": "PREST_VIA_010",
+    "nom": "Ecofilae",
+    "type": "bureau_etudes",
+    "logo_url": null,
+    "siret": "80193537000032",
+    "description": "Bureau d'études basé à Montpellier, spécialisé depuis 2009 dans la réutilisation des eaux usées traitées et des eaux non conventionnelles, avec des antennes dans les Landes et à Nantes. Pour les sites industriels, il réalise des audits hydriques, des plans de sobriété hydrique, des études d'opportunité et de faisabilité de réutilisation de l'eau et les dossiers réglementaires associés ; il a notamment étudié en 2023-2024 la réutilisation des eaux résiduaires de l'abattoir-conserverie Maison Lafitte (Landes) pour l'irrigation agricole. Le contact se prend par formulaire, téléphone ou courriel ; les tarifs ne sont pas publiés.",
+    "expertises": [
+      "Audit hydrique de site",
+      "Plan de sobriété hydrique",
+      "Étude de réutilisation des eaux",
+      "Dossiers réglementaires de réutilisation"
+    ],
+    "categories": [
+      "valoriser_reut_eaux_non_conventionnelles",
+      "suivre_comprendre_maitriser"
+    ],
+    "secteurs": [
+      "industrie_viande"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_VIA_006",
+        "roles": [
+          "conseil_etude"
+        ]
+      },
+      {
+        "id": "ACT_AGR_002",
+        "roles": [
+          "conseil_etude"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.ecofilae.fr/"
+      },
+      {
+        "type": "tel",
+        "value": "07 62 47 48 70"
+      },
+      {
+        "type": "mail",
+        "value": "contact@ecofilae.fr"
+      },
+      {
+        "type": "adresse",
+        "value": "650 rue Louis Lépine, 34000 Montpellier"
+      },
+      {
+        "type": "linkedin",
+        "value": "https://fr.linkedin.com/company/ecofilae"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "siret, adresse",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=Ecofilae&departement=34",
+        "date": "2026-09-24",
+        "extrait": "ECOFILAE, siret 80193537000032, siège, 650 RUE LOUIS LEPINE 34000 MONTPELLIER, activité 72.20Z, état administratif A"
+      },
+      {
+        "champ": "contacts",
+        "url": "https://www.ecofilae.fr/contact",
+        "date": "2026-09-24",
+        "extrait": "07 62 47 48 70. contact@ecofilae.fr. Ecofilae - Siège social, 650 rue Louis Lépine, 34000 Montpellier. Antenne Région Sud-Ouest, GIP Agrolandes, 1003 All. Jean d'Arcet, 40280 Haut-Mauco. Antenne Région Ouest, 2 Rue Crucy, CS 60515, 44005 Nantes Cedex 1"
+      },
+      {
+        "champ": "type, description, departements, contacts (linkedin)",
+        "url": "https://www.ecofilae.fr/",
+        "date": "2026-09-24",
+        "extrait": "Ecofilae propose un accompagnement sur-mesure des entreprises et des territoires afin de déterminer les meilleures solutions pour recycler l'eau [...] pour des usages raisonnés de la réutilisation des eaux usées en France. depuis 2009 pionniers de la réutilisation des eaux usées traitées. 269 projets & territoires étudiés"
+      },
+      {
+        "champ": "expertises, mesures (ACT_AGR_002, ACT_VIA_006)",
+        "url": "https://www.ecofilae.fr/secteurs/industries",
+        "date": "2026-09-24",
+        "extrait": "Audits hydriques (visite terrain et bilan des flux d'eau) ; Plan de sobriété hydrique (diagnostic des consommation, comparaison des process avec les meilleur techniques disponibles (MTD), action RRR (Réductions, Recyclage, Réutilisation)) [...] Rédaction de dossiers réglementaires [...] Étude d'opportunités de réutilisation d'eau ; Étude de faisabilité d'un scénario. [...] En réinjectant l'eau recyclée après son traitement initial dans les cycles de production, de refroidissement ou de lavage, les sites industriels et usines peuvent réduire leur consommation d'eau"
+      },
+      {
+        "champ": "description, mesures (ACT_VIA_006)",
+        "url": "https://www.ecofilae.fr/projets-realises/reutilisation-des-eaux-usees-dun-site-dabattoir-conserverie-pour-maison-lafitte",
+        "date": "2026-09-24",
+        "extrait": "Maison Lafitte : réutilisation des eaux usées d'un site d'abattoir-conserverie. [...] Localisation Montaut (40). Type d'eaux Eaux résiduaires industrielles. Usage Irrigation agricole. Date Avril 2023 - Avril 2024. Ecofilae a accompagné MAISON LAFITTE depuis l'étude d'opportunité jusqu'à la faisabilité, notamment sur les volets de cadrage réglementaire, d'aide à la décision"
+      }
+    ],
+    "date_maj": "2026-09-24"
+  },
+  {
+    "id": "PREST_VIA_011",
+    "nom": "Atlantique Industrie",
+    "type": "installateur",
+    "logo_url": null,
+    "siret": "37994658500021",
+    "description": "Entreprise d'Ancenis-Saint-Géréon (Loire-Atlantique) créée en 1990, spécialisée dans le traitement des eaux usées industrielles avant rejet ou réutilisation pour des usages non potables. Elle a réalisé le prétraitement des eaux usées d'une salaison (60 m3 par jour : relevage, tamisage, bassin tampon, traitement chimique, flottateur, rejet au réseau communal). Elle a aussi réalisé la station complète de l'abattoir Bokail (dégrillage, aéroflottation, bassin d'aération, SBR, lagune de finissage) et conçu l'unité d'ultrafiltration placée en sortie, qui permet de réutiliser 3 à 5 m3 par jour d'eau usée traitée.",
+    "expertises": [
+      "Prétraitement des effluents",
+      "Station d'épuration industrielle",
+      "Réutilisation des eaux usées traitées"
+    ],
+    "categories": [
+      "agir_rejets_qualite",
+      "valoriser_reut_eaux_non_conventionnelles"
+    ],
+    "secteurs": [
+      "industrie_viande",
+      "industrie_fruits_legumes"
+    ],
+    "departements": [
+      "44"
+    ],
+    "mesures": [
+      {
+        "id": "ACT_VIA_008",
+        "roles": [
+          "travaux"
+        ]
+      },
+      {
+        "id": "ACT_VIA_006",
+        "roles": [
+          "conseil_etude",
+          "travaux"
+        ]
+      },
+      {
+        "id": "ACT_FRL_008",
+        "roles": [
+          "conseil_etude",
+          "travaux"
+        ]
+      },
+      {
+        "id": "ACT_FRL_006",
+        "roles": [
+          "conseil_etude",
+          "travaux"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.atlantiqueindustrie.fr/"
+      },
+      {
+        "type": "adresse",
+        "value": "ZAC de l'Aubinière, 80 impasse Félix Amiot, 44150 Ancenis-Saint-Géréon"
+      },
+      {
+        "type": "linkedin",
+        "value": "https://www.linkedin.com/company/atlantique-industrie/"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "siret, adresse, departements, type, description",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=Atlantique%20Industrie&departement=44",
+        "date": "2026-09-24",
+        "extrait": "ATLANTIQUE INDUSTRIE, siren 379946585, date_creation 1990-11-15, siège siret 37994658500021, ZAC DE L AUBINIERE 80 IMP FELIX AMIOT 44150 ANCENIS-SAINT-GEREON, département 44, activité principale 46.61Z, état administratif A"
+      },
+      {
+        "champ": "description, contacts (site_internet, linkedin)",
+        "url": "https://www.linkedin.com/company/atlantique-industrie/",
+        "date": "2026-09-24",
+        "extrait": "Atlantique industrie est une entreprise spécialisée dans le traitement des eaux usées provenant des industries. [...] afin de les traiter pour éliminer les polluants [...] avant d'être rejetées dans le milieu naturel ou réutilisées pour des fonctions non potables. Site web : http://www.atlantiqueindustrie.fr"
+      },
+      {
+        "champ": "type, description, expertises, mesures (ACT_VIA_008 travaux)",
+        "url": "https://www.revue-ein.com/article/le-traitement-des-effluents-agroalimentaires",
+        "date": "2026-09-24",
+        "extrait": "Installation de prétraitement des eaux usées d'une salaison réalisée par Atlantique Industrie. Débit journalier : 60 m3- Relevage auto-amorçant, tamisage, bassin tampon, traitement chimique, flottateur et rejet au réseau communal."
+      },
+      {
+        "champ": "description, expertises, mesures (ACT_VIA_008 travaux, ACT_VIA_006 conseil_etude et travaux)",
+        "url": "https://www.revue-ein.com/article/eaux-de-process-industriels-produire-a-moins-cher",
+        "date": "2026-09-24",
+        "extrait": "L'abattoir Bokail a fait un premier pas vers la REUT avec Atlantique Industrie, qui a d'ailleurs réalisé la STEU elle-même: une filière complète avec dégrillage/filtrage, aéroflottation, bassin d'aération, SBR et lagune de finissage. Une unité d'ultrafiltration conteneurisée, placée en sortie de lagune, permet de réutiliser de 3 à 5 m3/j d'eau usée traitée. [légende photo] Atlantique Industrie a conçu et réalisé cette unité d'ultrafiltration, installée en sortie de STEU, pour de la REUT dans un abattoir"
+      },
+      {
+        "champ": "mesures",
+        "url": "https://www.atlantiqueindustrie.fr/marches/epuration/",
+        "date": "2026-09-25",
+        "extrait": "Épuration : les conserveries figurent parmi les spécialités (effluents de process, réutilisation)."
+      }
+    ],
+    "date_maj": "2026-09-25"
+  },
+  {
+    "id": "PREST_VIA_012",
+    "nom": "Step Concept",
+    "type": "installateur",
+    "logo_url": null,
+    "siret": "80149798300032",
+    "description": "Entreprise d'assainissement basée à Villematier (Haute-Garonne) qui conçoit et réalise des stations de traitement des eaux usées, dont des stations compactes et enterrées à procédé SBR pour les ateliers agroalimentaires, développées en partenariat avec la société ATB. Elle a équipé des abattoirs de volailles en Aveyron et des ateliers d'abattage et de transformation porcine dans le Tarn, et intervient de l'étude dimensionnelle jusqu'à l'entretien et au réglage des installations, avec des contrats d'entretien. La demande de devis est gratuite, par formulaire, téléphone ou courriel.",
+    "expertises": [
+      "Station SBR agroalimentaire",
+      "Étude dimensionnelle de station",
+      "Pose de cuves et équipements",
+      "Contrat d'entretien de station"
+    ],
+    "categories": [
+      "agir_rejets_qualite"
+    ],
+    "secteurs": [
+      "industrie_viande"
+    ],
+    "departements": [
+      "09",
+      "11",
+      "12",
+      "15",
+      "19",
+      "24",
+      "30",
+      "31",
+      "32",
+      "34",
+      "46",
+      "48",
+      "63",
+      "65",
+      "66",
+      "81",
+      "82"
+    ],
+    "mesures": [
+      {
+        "id": "ACT_VIA_008",
+        "roles": [
+          "travaux",
+          "conseil_etude"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.step-concept.fr/"
+      },
+      {
+        "type": "tel",
+        "value": "05 62 78 09 69"
+      },
+      {
+        "type": "mail",
+        "value": "contact@step-concept.fr"
+      },
+      {
+        "type": "adresse",
+        "value": "Zone de Pechnauquier III, 480 rue Pierre Compte, 31340 Villematier"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "siret, adresse",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=Step%20Concept&departement=31",
+        "date": "2026-09-24",
+        "extrait": "STEP CONCEPT, siren 801497983, siret 80149798300032, siège, ZONE DE PECHNAUQUIER III 480 RUE PIERRE COMPTE 31340 VILLEMATIER, activité 71.12B, état administratif A"
+      },
+      {
+        "champ": "contacts (tel, mail), departements",
+        "url": "https://www.step-concept.fr/contact",
+        "date": "2026-09-24",
+        "extrait": "Vous pouvez également nous joindre au 05 62 78 09 69 ou par mail : contact@step-concept.fr [...] Basé à Villematier, dans le Nord de la Haute-Garonne (31), nous intervenons sur toute l'Occitanie ainsi que sur les département limitrophes (Dordogne (24), Cantal (15), Corrèze (19), Puy-de-Dôme (63)."
+      },
+      {
+        "champ": "type, description, contacts (site_internet)",
+        "url": "https://www.step-concept.fr/",
+        "date": "2026-09-24",
+        "extrait": "Situé à Villematier, STEP CONCEPT est votre expert en assainissement individuel et collectif de traitement de l'eau. [...] STEP CONCEPT conçoit et réalise des solutions de stockage et de traitement des effluents d’élevage et de production agroalimentaire."
+      },
+      {
+        "champ": "description, expertises, mesures (ACT_VIA_008)",
+        "url": "https://www.step-concept.fr/references-station-d-epuration-agroalimentaire",
+        "date": "2026-09-24",
+        "extrait": "Depuis plus de 20 ans STEP CONCEPT développe en partenariat avec la société ATB des solutions adaptées au traitement des effluents agroalimentaires. [...] Abattoir de volailles en Aveyron (20m3/j), Atelier de transformation porcine dans le Tarn, Tuerie de volaille en Aveyron, Abattoir et atelier de transformation porcine dans le Tarn ... STEP CONCEPT vous aide dans vos projets, de l'étude dimensionnelle jusqu'à l'entretien et l'exploitation de votre installation. DEMANDE DE DEVIS GRATUITE [...] Notre équipe technique permet d'intervenir afin de régler ou d'entretenir nos système d'épuration, nous pouvons aussi proposer des contrats d’entretiens. Mesure du taux de boues activées lors de l'entretien annuel d'un SBR sur un atelier d'abatage. Contrôle de l’homogénéité de l'aération du bassin tampon."
+      },
+      {
+        "champ": "expertises, mesures (ACT_VIA_008, travaux)",
+        "url": "https://www.step-concept.fr/realisation-d-une-station-de-traitement-sbr-pour-un-atelier-agroalimentaire",
+        "date": "2026-09-24",
+        "extrait": "Réalisation d'une station de traitement SBR pour un atelier de transformation agroalimentaire [...] Les cuves doivent être placées dans un ordre précis déterminé par leur fonction, décanteur/silo à boues, tampon et réacteur biologique. [...] Pompes et aérateurs sont installés dans les cuves."
+      }
+    ],
+    "date_maj": "2026-09-24"
+  },
+  {
+    "id": "PREST_VIA_013",
+    "nom": "Energiency by EPSA (EPSA ENERGY)",
+    "type": "bureau_etudes",
+    "logo_url": null,
+    "siret": "79263909800062",
+    "description": "Éditeur de logiciel fondé à Rennes en 2013 et intégré au groupe EPSA, Energiency propose aux sites industriels un logiciel d'analyse de l'énergie, du CO2 et de l'eau qui exploite les données de comptage déjà présentes dans l'usine, et accompagne ses clients par des coachs Energy Managers qui configurent l'application. Ses cas clients décrivent pour l'énergie des indicateurs de performance par atelier et un calcul par kilo de produit fini ; la plateforme suit aussi l'eau, par exemple chez Brient (groupe Agrial), où les consommations d'électricité, de gaz et d'eau des sites de Mordelles et Antrain sont gérées au quotidien, et Arnaud Legrand, alors CEO d'Energiency, a présenté ces outils de comptage en temps réel à la journée technique IFIP de 2022 sur l'eau et l'énergie en abattage, découpe et transformation de viande. L'offre se décline en trois formules : le logiciel en autonomie, le logiciel avec des coachs, ou le logiciel avec coachs et intelligence artificielle.",
+    "expertises": [
+      "Suivi temps réel énergie et eau",
+      "Indicateurs de performance par atelier",
+      "Coaching Energy Manager",
+      "Détection d'anomalies de consommation"
+    ],
+    "categories": [
+      "suivre_comprendre_maitriser"
+    ],
+    "secteurs": [
+      "industrie_viande"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_VIA_002",
+        "roles": [
+          "conseil_etude"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.energiency.com/fr/"
+      },
+      {
+        "type": "tel",
+        "value": "+33 9 67 59 89 54"
+      },
+      {
+        "type": "adresse",
+        "value": "22 avenue Jules Maniez, 35000 Rennes"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "siret, adresse, description (édition de logiciel)",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=Energiency&departement=35",
+        "date": "2026-09-24",
+        "extrait": "EPSA ENERGY, siren 792639098, siret 79263909800062, siège, 22 AVENUE JULES MANIEZ 35000 RENNES, activité 58.29C, état administratif A"
+      },
+      {
+        "champ": "contacts (adresse)",
+        "url": "https://infos.energiency.com/fr/contact",
+        "date": "2026-09-24",
+        "extrait": "France - Siège social : 22 avenue Jules Maniez, 35000 Rennes [...] 62 rue de Bonnel, 69003 Lyon [...] 65 rue d'Anjou, 75008 Paris"
+      },
+      {
+        "champ": "nom, description (création, groupe EPSA), contacts (tel)",
+        "url": "https://www.energiency.com/fr/societe/",
+        "date": "2026-09-24",
+        "extrait": "Fondation d'Energiency à Rennes par 2 ingénieurs Arnaud Legrand et Thierry D'allancé [...] Le groupe EPSA investit dans Energiency [...] Energiency évolue et devient Energiency by EPSA [...] +33967598954"
+      },
+      {
+        "champ": "description (groupe EPSA)",
+        "url": "https://www.energiency.com/fr/presse/energiency-pionnier-de-lia-pour-lanalyse-de-lenergie-dans-lindustrie-rejoint-le-groupe-epsa/",
+        "date": "2026-09-24",
+        "extrait": "6 Mars, 2025, 10:00 CET [...] Energiency [...] rejoint le groupe EPSA [...] cette acquisition marque une nouvelle étape pour EPSA"
+      },
+      {
+        "champ": "description (logiciel, coachs, formules, eau, données existantes), expertises, mesures (ACT_VIA_002 : conseil_etude)",
+        "url": "https://www.energiency.com/fr/offre-efficacite-energetique-industrie/",
+        "date": "2026-09-24",
+        "extrait": "Pilotez votre performance énergétique en temps réel dans notre logiciel [...] Accédez à l'analyse de l'énergie, du CO2 et de l'eau en toute autonomie [...] Approfondissez l'analyse de l'énergie, du CO2 et de l'eau avec nos coachs [...] Accélérez l'analyse de l'énergie, du CO2 et de l'eau grâce à nos coachs et à l'IA [...] Nos coachs Energy Managers configurent l'application [...] Dois-je ajouter des compteurs sur mon site industriel pour tirer toute la valeur de votre offre ? Non, nous sommes habitués à valoriser les données déjà existantes et exploitables dans votre usine."
+      },
+      {
+        "champ": "description (Brient, indicateurs par atelier pour l'énergie, suivi de l'eau), expertises, mesures (ACT_VIA_002)",
+        "url": "https://blog.energiency.com/du-tableur-au-logiciel-4.0-comment-brient-a-reussi-maitriser-sa-consommation-energetique-",
+        "date": "2026-09-24",
+        "extrait": "Afin de pouvoir gérer au quotidien les consommations d'électricité, de gaz et d'eau, les deux sites de Mordelles et Antrain ont été connectés à la plateforme Energiency. Brient reçoit alors les données énergétiques en temps réel, lesquelles sont mises en relation avec les données de production afin de calculer les indicateurs de performance énergétique par atelier, conformément à la certification ISO 50 001."
+      },
+      {
+        "champ": "description (calcul par kilo de produit fini pour l'énergie, logiciel), expertises (détection d'anomalies)",
+        "url": "https://www.energiency.com/fr/cas-usages/analyse-efficacite-energetique-industrie-agroalimentaire/",
+        "date": "2026-09-24",
+        "extrait": "une ligne de production continue à haut rendement est très énergivore (eau + électricité) [...] Nous calculons l'efficacité énergétique par kg de produits finis pour ces 2 lignes [...] la visualisation des indicateurs à un pas de temps plus fin dans notre logiciel de pilotage énergétique a permis de détecter les anomalies"
+      },
+      {
+        "champ": "secteurs, description (journée IFIP 2022)",
+        "url": "https://ifip.asso.fr/actualites/comment-reduire-les-consommations-deau-et-denergie-en-abattage-decoupe-et-transformation-de-viande/",
+        "date": "2026-09-24",
+        "extrait": "Comment réduire les consommations d'eau et d'énergie en abattage-découpe et transformation de viande [...] Journée Technique IFIP du Mardi 8 Mars 2022 [...] Nouveaux outils connectés pour un comptage en temps réel [...] Une start-up spécialiste du comptage en ligne, Arnaud Legrand, CEO de Energiency"
+      },
+      {
+        "champ": "departements",
+        "url": "https://www.energiency.com/fr/presse/epsa-et-energiency-lancent-une-solution-inedite-au-service-de-loptimisation-energetique-des-industriels-05-2021/",
+        "date": "2026-09-24",
+        "extrait": "le secteur industriel français, les ETIs et les grands groupes, dont la facture énergétique s'élève à plus d'1,5 M€ [...] après son lancement dans l'hexagone, Energiency et EPSA ambitionnent de déployer cette offre sur le marché international, notamment en Europe"
+      }
+    ],
+    "date_maj": "2026-09-24"
+  },
+  {
+    "id": "PREST_VIA_014",
+    "nom": "Groupe Ovalt",
+    "type": "installateur",
+    "logo_url": "https://groupe-ovalt.com/wp-content/uploads/2022/11/OVALT_logo_web-300x127.png",
+    "siret": "82464676400020",
+    "description": "Groupe de quatre entreprises (CIP Automation, ID Automation, OET Automation, PGC) sur trois sites, dont le siège est à Betton (35), qui intervient en électricité, automatisation, pilotage et supervision avancée sur l'ensemble des procédés de transformation de la viande, depuis l'abattage jusqu'au conditionnement. Il intervient dans les procédés de nettoyage en place (NEP), développe des systèmes de lavage entièrement automatisés et accompagne la réutilisation des eaux de lavage, lorsque c'est possible d'un point de vue sanitaire, ainsi que la valorisation des coproduits issus du nettoyage des eaux grasses ; il conçoit aussi des machines spéciales clés en main (pliage et palettisation des cuirs de bovins, mise en barquette et palettisation en fin de ligne d'abattage). Couverture saisie d'après ses trois implantations (Lamballe, Betton, Locminé) ; demande de projet ou de maintenance par le formulaire de contact du site ou par téléphone au siège.",
+    "expertises": [
+      "Automatisation et supervision de lignes",
+      "Systèmes de lavage automatisés",
+      "Réutilisation des eaux de lavage",
+      "Traçabilité MES et RFID"
+    ],
+    "categories": [
+      "valoriser_reut_eaux_non_conventionnelles",
+      "agir_rejets_qualite"
+    ],
+    "secteurs": [
+      "industrie_viande",
+      "industrie_fruits_legumes"
+    ],
+    "departements": [
+      "22",
+      "35",
+      "56"
+    ],
+    "mesures": [
+      {
+        "id": "ACT_VIA_006",
+        "roles": [
+          "conseil_etude"
+        ]
+      },
+      {
+        "id": "ACT_FRL_002",
+        "roles": [
+          "conseil_etude",
+          "travaux"
+        ]
+      },
+      {
+        "id": "ACT_AGR_001",
+        "roles": [
+          "travaux"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://groupe-ovalt.com"
+      },
+      {
+        "type": "tel",
+        "value": "02 23 21 12 00"
+      },
+      {
+        "type": "adresse",
+        "value": "1 Route du Gacet, 35830 Betton"
+      },
+      {
+        "type": "linkedin",
+        "value": "https://www.linkedin.com/company/groupe-ovalt"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "siret, adresse",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=Ovalt&departement=35",
+        "date": "2026-09-24",
+        "extrait": "OVALT, siren 824646764, siret 82464676400020, siège, 1 ROUTE DU GACET 35830 BETTON, activité 70.10Z, état administratif A"
+      },
+      {
+        "champ": "siret, nom",
+        "url": "https://groupe-ovalt.com/mentions-legales/",
+        "date": "2026-09-24",
+        "extrait": "Le site www.groupe-ovalt.com est édité par la société Ovalt, société par actions simplifiée au capital de 6 341 330,00 €, immatriculée au registre du commerce et des sociétés sous le numéro Rennes B 824 646 764, dont le siège social est situé à BETTON (35)."
+      },
+      {
+        "champ": "contacts (tel, adresse), description, mesures (ACT_VIA_006), expertises, categories",
+        "url": "https://groupe-ovalt.com/sous-marches/abattoirs-transformation-de-la-viande-et-salaisons/",
+        "date": "2026-09-24",
+        "extrait": "Nous intervenons en électricité, automatisation, pilotage et supervision avancée, sur l'ensemble des procédés de transformation de la viande, depuis l'abattage jusqu'au conditionnement des produits [...] Réutilisation de l'eau et valorisation des coproduits. Nous intervenons dans les procédés de nettoyage en place (NEP) et développons des systèmes de lavage entièrement automatisés répondant aux contraintes sanitaires et environnementales. Nous vous accompagnons dans l'optimisation de votre production, par la valorisation des coproduits issus du nettoyage des eaux grasses et par la réutilisation des eaux de lavage, lorsque c'est possible d'un point de vue sanitaire. [...] Suivi des lots de carcasse à l'aide de tags RFID [...] Gestion de process (MOM et MES) [...] Siège social Ovalt 1 Route du Gacet, 35830 Betton || FR Tel. + 33 (0)2 23 21 12 00"
+      },
+      {
+        "champ": "description (machines spéciales), type",
+        "url": "https://groupe-ovalt.com/sous-marches/abattoirs-transformation-de-la-viande-et-salaisons/",
+        "date": "2026-09-24",
+        "extrait": "OVALT possède une expertise en gestion des cuirs (salage, conservation) et nous développons des machines spéciales clés en main, pour le pliage automatique et la palettisation des cuirs de bovins. [...] Nous concevons des machines de mise en barquette et de palettisation automatique en fin de ligne d'abattage, pour la livraison de grandes et moyennes surfaces (GMS)."
+      },
+      {
+        "champ": "departements, description (implantations), contacts (formulaire)",
+        "url": "https://groupe-ovalt.com/contact/",
+        "date": "2026-09-24",
+        "extrait": "Objet de la demande: Demande commerciale / Nouveau projet, Maintenance/Dépannage [...] Nous rendre visite: Lamballe (22) CIP; Betton (35) Build Data || LAB4i || OET || PGC || RMPI4i; Locminé (56) ID Automation"
+      },
+      {
+        "champ": "description (quatre entreprises, trois sites)",
+        "url": "https://groupe-ovalt.com/qui-sommes-nous/",
+        "date": "2026-09-24",
+        "extrait": "OVALT EN QUELQUES CHIFFRES 4 entreprises sur 3 sites 1 laboratoire d'innovation +480 collaborateurs"
+      },
+      {
+        "champ": "categories (effluents)",
+        "url": "https://groupe-ovalt.com/marches/agroalimentaire/",
+        "date": "2026-09-24",
+        "extrait": "Nous mettons en place les outils pour être plus productif et réaliser des économies d'eau et d'énergie : Ilots robotisés de palettisation, gestion des utilités et des effluents, optimisation énergétique."
+      },
+      {
+        "champ": "logo_url, contacts (linkedin)",
+        "url": "https://groupe-ovalt.com/qui-sommes-nous/",
+        "date": "2026-09-24",
+        "extrait": "img src=\"https://groupe-ovalt.com/wp-content/uploads/2022/11/OVALT_logo_web-300x127.png\" ; lien Linkedin https://www.linkedin.com/company/groupe-ovalt"
+      },
+      {
+        "champ": "mesures",
+        "url": "https://groupe-ovalt.com/sous-marches/fruits-et-legumes/",
+        "date": "2026-09-25",
+        "extrait": "Sous-marché fruits et légumes : automatisme, supervision et gestion de l'eau sur la chaîne de préparation (réception, tri, surgélation, pasteurisation)."
+      }
+    ],
+    "date_maj": "2026-09-25"
+  },
+  {
+    "id": "PREST_VIA_015",
+    "nom": "Essor Ingénierie (groupe Essor)",
+    "type": "bureau_etudes",
+    "logo_url": null,
+    "siret": "43806811600054",
+    "description": "Société d'ingénierie du groupe Essor, dont le siège est à Lons (64), maître d'oeuvre d'une unité de mareyage à Rezé (44) livrée en 2018. Le site du groupe présente un bureau d'études environnementales, le pôle Transitions, sans nommer la société qui le porte : ce pôle identifie les rubriques et le régime ICPE, rédige le dossier réglementaire avec les études d'impact et les études techniques (bruit, air, eau, déchets, biodiversité), monte la demande d'autorisation environnementale unique, puis assure le suivi avec la DREAL et la préfecture et l'assistance lors des inspections. Le dossier d'autorisation environnementale de l'abattoir public du Faou (29), daté du 6 juillet 2020, porte l'en-tête essor.group et indique que la collectivité a été accompagnée dans sa rédaction par le bureau d'études ESSOR ACE ; il estime les consommations d'eau par poste du process, tandis qu'un autre bureau d'études a été missionné sur la station de prétraitement. Le bureau d'études indique intervenir sur tout le territoire ; le contact passe par le siège du groupe.",
+    "expertises": [
+      "Dossier d'autorisation ICPE",
+      "Étude d'impact environnementale",
+      "Dossier loi sur l'eau",
+      "Assistance aux inspections ICPE"
+    ],
+    "categories": [],
+    "secteurs": [
+      "industrie_viande"
+    ],
+    "departements": [],
+    "mesures": [],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.essor.group"
+      },
+      {
+        "type": "tel",
+        "value": "05 59 123 123"
+      },
+      {
+        "type": "adresse",
+        "value": "2 Rue Pierre-Gilles de Gennes, 64140 Lons"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "siret, adresse",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=Essor%20Ingenierie&departement=64",
+        "date": "2026-09-24",
+        "extrait": "ESSOR INGENIERIE, siren 438068116, siret 43806811600054, siège, 2 RUE PIERRE GILLES DE GENNES 64140 LONS, activité 71.12B, état administratif A, 11 établissements ouverts"
+      },
+      {
+        "champ": "nom (rattachement au groupe Essor)",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=438068116",
+        "date": "2026-09-24",
+        "extrait": "ESSOR INGENIERIE, dirigeants : ESSOR (siren 434585774), Président de SAS"
+      },
+      {
+        "champ": "nom (rattachement au groupe Essor)",
+        "url": "https://www.essor.group/mentions-legales/",
+        "date": "2026-09-24",
+        "extrait": "Le Groupe Essor au capital de 210 526,40 € dont le siège est situé : 2 Rue Pierre-Gilles de Gennes 64140 LONS Inscription au registre du commerce de Pau au numéro de SIRET 434 585 774."
+      },
+      {
+        "champ": "contacts",
+        "url": "https://www.essor.group/contact-et-implantations/",
+        "date": "2026-09-24",
+        "extrait": "Nous joindre : Siège ESSOR : 05 59 123 123 [...] 2 Rue Pierre-Gilles de Gennes 64140 LONS"
+      },
+      {
+        "champ": "description, expertises, type",
+        "url": "https://www.essor.group/ingenierie-conseil/transitions/icpe-2/",
+        "date": "2026-09-24",
+        "extrait": "1/ Analyse et identification réglementaire : détermination des rubriques de la nomenclature ICPE applicables à votre activité, évaluation des seuils de classement et du régime à appliquer (déclaration, enregistrement, autorisation) [...] 2/ Constitution du dossier ICPE : rédaction complète du dossier réglementaire, réalisation des études d’impact et études techniques (bruit, air, eau, déchets, biodiversité), montage du dossier de demande d’autorisation environnementale unique, suivi des consultations et enquêtes publiques ; 3/ Suivi et relation avec l’administration : coordination avec la DREAL, la préfecture et les collectivités, réponse aux demandes de compléments, accompagnement lors des inspections et contrôles"
+      },
+      {
+        "champ": "departements, expertises",
+        "url": "https://www.essor.group/ingenierie-conseil/transitions/icpe-2/",
+        "date": "2026-09-24",
+        "extrait": "Notre bureau d’études environnementales intervient sur tout le territoire pour accompagner les maîtres d’ouvrage, exploitants industriels et collectivités. Nos prestations couvrent : Études et établissement de dossiers administratifs (loi sur l’eau, étude d’impact, études environnementales, …) Analyse des risques Le suivi réglementaire et la veille juridique, L’assistance lors des inspections administratives, Assistance en phase exploitation."
+      },
+      {
+        "champ": "type, description (société d'ingénierie)",
+        "url": "https://www.essor.group/ingenierie-conseil/ingenierie-batiment-et-process/",
+        "date": "2026-09-24",
+        "extrait": "en qualité de Maitre d’œuvre ou ingénierie, bureau d’études (BE) ou bureau d’études techniques (BET) [...] Nous avons de nombreuses références dans l’industrie agroalimentaire"
+      },
+      {
+        "champ": "description (référence secteur, abattoir du Faou)",
+        "url": "https://www.finistere.gouv.fr/content/download/40602/293816/file/3.%20AICPE%20-%20Le%20Faou%20-%202020.07.06.pdf",
+        "date": "2026-09-24",
+        "extrait": "p. 1 : DOSSIER DE DEMANDE D’AUTORISATION ENVIRONNEMENTALE UNIQUE [...] Le Faou(29) Construction d’un abattoir public 1 Rue Jacques Brel - BP 30382 44819 SAINT HERBLAIN Cedex [...] Saint-Herblain, le 6 juillet 2020 www.essor.group. p. 24 : Il a été accompagné par le bureau d’études ESSOR ACE dans la rédaction de ce dossier, bureau d’études en environnement de 12 ans d’expérience : ESSOR ACE 1 rue Jacques Brel - 44819 SAINT HERBLAIN"
+      },
+      {
+        "champ": "description (eau dans le dossier du Faou)",
+        "url": "https://www.finistere.gouv.fr/content/download/40602/293816/file/3.%20AICPE%20-%20Le%20Faou%20-%202020.07.06.pdf",
+        "date": "2026-09-24",
+        "extrait": "p. 159 : Selon nos ratios d’estimations, les consommations seront les suivantes : [...] Tableau 25 - Estimation des consommations d'eau par poste du process. p. 124 : Un bureau d’études spécifique a été missionné afin de s’assurer de l’abattement de la pollution par la station de prétraitement."
+      },
+      {
+        "champ": "description (référence secteur, mareyage)",
+        "url": "https://www.essor.group/reference/jean-lebeaupin-mareyeur/",
+        "date": "2026-09-24",
+        "extrait": "LEBEAUPIN Rezé (44) Construction d’une nouvelle unité de mareyage Maître d'ouvrage : JEAN LEBEAUPIN Maître d'oeuvre : Essor Ingénierie [...] Livraison : 2018"
+      }
+    ],
+    "date_maj": "2026-09-24"
+  },
+  {
+    "id": "PREST_VIA_016",
+    "nom": "ADIV, institut technique agro-industriel des industries carnées",
+    "type": "organisme_technique",
+    "logo_url": null,
+    "siret": "31126177000078",
+    "description": "Institut technique agro-industriel (ITAI) basé à Clermont-Ferrand, qui réalise des prestations de R&D, d'audit, de conseil et de formation pour les abattoirs, ateliers de découpe et entreprises de transformation des viandes sur tout le territoire national. Son activité Procédés & Environnement accompagne les abattoirs de plus de 50 tonnes de carcasses par jour dans le réexamen des meilleures techniques disponibles (MTD) exigé pour leur autorisation ICPE : analyse et évaluation des techniques en place, puis plan d'action portant notamment sur le traitement des eaux usées, les coproduits animaux et l'énergie. Prestations sur demande auprès de l'institut ; une formation sur les MTD en abattoir est aussi proposée, en présentiel sur une journée de 7 heures, à 800 euros HT par inscription.",
+    "expertises": [
+      "Audit MTD en abattoir",
+      "Dossier de réexamen ICPE",
+      "Plan d'action eaux usées",
+      "Valorisation des coproduits"
+    ],
+    "categories": [
+      "agir_rejets_qualite"
+    ],
+    "secteurs": [
+      "industrie_viande"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_VIA_008",
+        "roles": [
+          "conseil_etude"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.adiv.fr"
+      },
+      {
+        "type": "tel",
+        "value": "04 73 98 53 80"
+      },
+      {
+        "type": "mail",
+        "value": "adiv@adiv.fr"
+      },
+      {
+        "type": "adresse",
+        "value": "10 rue Jacqueline Auriol, 63100 Clermont-Ferrand"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "siret, adresse",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=ADIV&departement=63",
+        "date": "2026-09-24",
+        "extrait": "ASS DEVELOPP INSTITUT VIANDE (ADIV), siret 31126177000078, siège, ZAC PARC IND DES GRAVANCHES 10 RUE JACQUELINE AURIOL 63100 CLERMONT-FERRAND, activité 72.19Z, état administratif A"
+      },
+      {
+        "champ": "contacts",
+        "url": "https://www.adiv.fr/contact/",
+        "date": "2026-09-24",
+        "extrait": "ADIV, 10 rue Jacqueline Auriol, 63100 Clermont-Ferrand, 04 73 98 53 80, adiv@adiv.fr"
+      },
+      {
+        "champ": "nom, type, description, departements",
+        "url": "https://www.adiv.fr/presentation/",
+        "date": "2026-09-24",
+        "extrait": "l'ADIV est aujourd'hui le leader français en prestations de R&D, Audit, Conseil, Expertise et Formation auprès des industries carnées. Ses équipes mettent chaque jour leur expertise métier multi-espèces au service des outils d'abattage, de découpe et de transformation des viandes sur tout le territoire national. L'ADIV bénéficie de la qualification d'ITAI (Institut Technique Agro Industriel)"
+      },
+      {
+        "champ": "expertises, description",
+        "url": "https://www.adiv.fr/nos-prestations/procedesetenvironnement/",
+        "date": "2026-09-24",
+        "extrait": "Procédés & Environnement. Que pouvons-nous faire pour vous ? Accompagner les entreprises dans le réexamen des MEILLEURES TECHNIQUES DISPONIBLES (MTD). Optimiser les PERFORMANCES ENVIRONNEMENTALES. Valorisation des CO-PRODUITS. Accompagner la mise en CONFORMITÉ RÉGLEMENTAIRE (ICPE, PMS, HACCP)"
+      },
+      {
+        "champ": "description, expertises, mesures (ACT_VIA_008)",
+        "url": "https://www.adiv.fr/environnement/",
+        "date": "2026-09-24",
+        "extrait": "les abattoirs ayant une capacité de production supérieure à 50 tonnes de carcasses par jour doivent adopter les Meilleures Techniques Disponibles (MTD) pour renouveler leurs agréments. [...] L'ADIV accompagne ces outils d'abattage dans la réalisation de ces dossiers avec notamment l'analyse et l'évaluation des techniques mises en place et la réalisation d'un plan d'action, qu'il s'agisse par exemple du traitement des co-produits animaux, eaux usées ou de la consommation d'énergie électrique."
+      },
+      {
+        "champ": "description (formation MTD, tarif)",
+        "url": "https://adiv-formation.catalogueformpro.com/10/environnement/2155531/integrer-les-meilleures-techniques-disponibles-mtd-pour-optimiser-les-process-en-abattoir",
+        "date": "2026-09-24",
+        "extrait": "Intégrer les meilleures techniques disponibles (MTD) pour optimiser les process en abattoir. Présentiel, 7 heures (1 jour), 800,00 € HT. Analyser et évaluer les pratiques existantes par rapport aux MTD."
+      }
+    ],
+    "date_maj": "2026-09-24"
+  },
+  {
+    "id": "PREST_VIA_017",
+    "nom": "ADRIA (Association pour le développement, la recherche et l'innovation agroalimentaires)",
+    "type": "organisme_technique",
+    "logo_url": null,
+    "siret": "30696427100036",
+    "description": "Association basée à Quimper, qualifiée Institut technique agro-industriel (ITAI) et labellisée Centre de ressources technologiques (CRT), qui intervient sur l'ensemble du territoire auprès des industries agroalimentaires. Pour les projets de réutilisation des eaux (REUSE, REUT), elle propose la cartographie et l'inventaire des flux d'eau de l'usine, l'analyse microbiologique et physico-chimique des eaux recyclées, l'appui réglementaire pour la conformité au décret REUT 2024 et à l'arrêté du 8 juillet 2024, la construction du dossier réglementaire avec l'accompagnement auprès des autorités, l'intégration de la REUSE dans le PMS et l'HACCP et la définition d'un plan de surveillance et de maintenance préventive. Accès en contactant ses experts, qui proposent un diagnostic personnalisé.",
+    "expertises": [
+      "Dossier réglementaire REUSE",
+      "Cartographie des flux d'eau",
+      "Analyses des eaux recyclées",
+      "Intégration REUSE au PMS"
+    ],
+    "categories": [
+      "valoriser_reut_eaux_non_conventionnelles"
+    ],
+    "secteurs": [
+      "industrie_viande",
+      "industrie_fruits_legumes"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_VIA_006",
+        "roles": [
+          "conseil_etude"
+        ]
+      },
+      {
+        "id": "ACT_FRL_007",
+        "roles": [
+          "conseil_etude"
+        ]
+      },
+      {
+        "id": "ACT_FRL_006",
+        "roles": [
+          "conseil_etude"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.adria.tm.fr"
+      },
+      {
+        "type": "tel",
+        "value": "02 98 10 18 18"
+      },
+      {
+        "type": "adresse",
+        "value": "ZA Créac'h Gwen, 29000 Quimper"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "nom, siret",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=ADRIA&departement=29",
+        "date": "2026-09-24",
+        "extrait": "ADRIA (ASSOCIATION POUR LE DEVELOPPEMENT, LA RECHERCHE ET L'INNOVATION AGROALIMENTAIRES) (ADRIA), siret 30696427100036, siège, BOULEVARD DE CREAC'H GWEN 29000 QUIMPER, nature juridique 9220, activité 72.19Z, état administratif A"
+      },
+      {
+        "champ": "contacts",
+        "url": "https://www.adria.tm.fr/besoin-de-plus-dinformations/",
+        "date": "2026-09-24",
+        "extrait": "Besoin de plus d'informations ? Contactez-nous ! ADRIA ZA Créac'h Gwen 29000 Quimper Tél.: 02 98 10 18 18"
+      },
+      {
+        "champ": "type, description, departements",
+        "url": "https://www.adria-formationagroalimentaire.fr/adria/qui-sommes-nous-nos-valeurs/",
+        "date": "2026-09-24",
+        "extrait": "Institut Technique Agro-Industriel (ITAI) qualifié par le ministère de l'Agriculture et Centre de Ressources Technologiques (CRT) labellisé par le Ministère de l'Enseignement supérieur et de la recherche, l'ADRIA est une association fédérant plus d'une centaine d'industriels de l'agroalimentaire et des organismes professionnels. [...] L'ADRIA est, à ce titre, également présente sur l'ensemble du territoire pour répondre aux défis nationaux des industries agroalimentaires en matière de qualité et sécurité des aliments."
+      },
+      {
+        "champ": "description, expertises, mesures (ACT_VIA_006)",
+        "url": "https://www.adria.tm.fr/qualite-secu-aliments/reuse-et-reut-accompagner-les-industriels-agroalimentaires-vers-la-sobriete-hydrique/",
+        "date": "2026-09-24",
+        "extrait": "L'accompagnement ADRIA pour sécuriser vos projets REUSE. ADRIA propose un accompagnement complet [...] : Cartographie et inventaire des flux d'eau de l'usine. Analyse microbiologique et physico-chimique des eaux recyclées. Appui réglementaire pour sécuriser la conformité au décret REUT 2024 et à l'arrêté du 8 juillet 2024. Construction du dossier réglementaire et accompagnement auprès des autorités. Intégration de la REUSE dans le PMS et le HACCP. Définition d'un plan de surveillance et de maintenance préventive."
+      },
+      {
+        "champ": "mesures (ACT_VIA_006), description",
+        "url": "https://www.adria.tm.fr/qualite-secu-aliments/reuse-et-reut-accompagner-les-industriels-agroalimentaires-vers-la-sobriete-hydrique/",
+        "date": "2026-09-24",
+        "extrait": "EPR (Eaux de Process Recyclées) [...] : les eaux utilisées lors des opérations de lavage, cuisson, refroidissement… collectées pour être réemployées après traitement éventuel. [...] Contactez nos experts ADRIA pour bénéficier d'un diagnostic personnalisé et construire dès aujourd'hui votre plan d'optimisation hydrique."
+      },
+      {
+        "champ": "mesures",
+        "url": "https://www.adria.tm.fr/qualite-secu-aliments/reuse-et-reut-accompagner-les-industriels-agroalimentaires-vers-la-sobriete-hydrique/",
+        "date": "2026-09-25",
+        "extrait": "Montage des dossiers de réutilisation des eaux au titre du décret n° 2024-33 et de l'arrêté du 8 juillet 2024 : cartographie des flux, analyses, intégration au HACCP, échanges avec l'administration."
+      }
+    ],
+    "date_maj": "2026-09-25"
+  }
+]

@@ -1,0 +1,114 @@
+{
+  "id": "PREST_LAI_007",
+  "nom": "Cemafroid",
+  "type": "organisme_technique",
+  "logo_url": null,
+  "siret": "43251189700048",
+  "description": "Société d'expertise indépendante de la chaîne du froid, implantée à Fresnes, dont les missions affichées sont de « tester, vérifier, évaluer, qualifier et certifier les équipements et les solutions, former les femmes et les hommes et garantir la conformité », et qui, « depuis 2009, dans le cadre d'une délégation de service public, délivre, pour le compte du Ministère en charge de l'agriculture, les attestations de conformité technique des engins de transport sous température dirigée ». Son offre ne se limite pas au contrôle réglementaire : la rubrique Expertise liste l'audit froid, l'audit CVC, l'audit énergétique, les études énergétiques, la modélisation, l'assistance à maîtrise d'ouvrage et le contrôle des installations ICPE pour les métiers du froid et du conditionnement d'air ; la société Cemafroid Formation, qui déclare la même adresse à Fresnes, propose le module FE6 « Réglementation ICPE appliquée aux installations de froid ». En revanche, aucune des pages consultées, expertise, essais et étalonnages, inspection, délégation de service public et catalogue de formation, ne mentionne les tours aéroréfrigérantes, les condenseurs refroidis à l'eau, la consommation d'eau de refroidissement ni les légionelles : dans le groupe, le contrôle périodique de la rubrique ICPE 2921 relève de Tecnea Inspection, personne morale distincte, seule inscrite à ce titre sur la liste des organismes agréés du ministère. Le volet eau du refroidissement n'étant pas affiché dans l'offre de Cemafroid, la mesure sur la fermeture des circuits de froid n'est pas rattachée à cette fiche. Le site ne publie ni tarif ni adresse mail générale : une demande passe par le formulaire de contact ou par le téléphone.",
+  "expertises": [
+    "Audit froid et audit énergétique",
+    "Études énergétiques et modélisation",
+    "Assistance à maîtrise d'ouvrage",
+    "Contrôle ICPE des installations de froid"
+  ],
+  "categories": [],
+  "secteurs": [
+    "industrie_laitiere"
+  ],
+  "departements": [],
+  "mesures": [],
+  "infos_complementaires": [
+    {
+      "type": "avertissement",
+      "texte": "Les prestations publiées par Cemafroid portent sur la performance thermique et énergétique des installations frigorifiques, pas sur leur consommation d'eau : ni les tours aéroréfrigérantes, ni les condenseurs à eau, ni les légionelles n'apparaissent dans ses pages d'expertise, d'essais, d'inspection ou de formation. Avant de l'engager sur un projet de passage en boucle fermée ou en condenseur sec, faites préciser par écrit si l'étude couvre bien le circuit de refroidissement et son appoint en eau."
+    },
+    {
+      "type": "info",
+      "texte": "Pour le contrôle périodique réglementaire d'une tour aéroréfrigérante existante (rubrique ICPE 2921, groupe légionelle), l'organisme agréé du groupe est Tecnea Inspection, société distincte de Cemafroid. Elle figure sur la liste des organismes agréés du ministère pour cette rubrique, aux côtés d'Apave, de Bureau Veritas Exploitation, de Capsis, de Dekra Industrial et de Socotec.",
+      "lien": "https://aida.ineris.fr/reglementation/liste-organismes-agrees-rubriques-icpe-voir-point-4",
+      "lien_label": "Liste des organismes agréés par rubrique ICPE (AIDA, Ineris)"
+    },
+    {
+      "type": "ressource",
+      "texte": "Liste des prestations d'expertise : audit froid, audit CVC, audit énergétique, études énergétiques, modélisation, assistance à maîtrise d'ouvrage, contrôle des installations ICPE pour les métiers du froid et du conditionnement d'air.",
+      "lien": "https://www.cemafroid.fr/prestations/expertise-et-innovation",
+      "lien_label": "Expertise et innovation (Cemafroid)"
+    }
+  ],
+  "contacts": [
+    { "type": "site_internet", "value": "https://www.cemafroid.fr/contact" },
+    { "type": "site_internet", "value": "https://www.cemafroid-formation.com/formations" },
+    { "type": "tel", "value": "+33 (0)1 49 84 84 84" },
+    { "type": "adresse", "value": "5 avenue des Prés, CS 20029, 94266 Fresnes" }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "description, expertises, infos_complementaires, mesures",
+      "url": "https://www.cemafroid.fr/prestations/expertise-et-innovation",
+      "date": "2026-09-22",
+      "extrait": "Réalisation de l'audit froid ; Réalisation de l'audit CVC ; Évaluation du respect de la chaîne du froid alimentaire ; Audit d'installations de traitement d'air dans les établissements de santé ; Mise en conformité de votre parc d'équipements frigorifiques sous pression ESP ; Contrôle des installations ICPE pour les métiers du froid et du conditionnement d'air ; Audit énergétique ; Étanchéité des installations frigorifiques et climatiques ; Assistance à Maîtrise d'Ouvrage (AMO) ; Etudes énergétiques ; Modélisation. Aucune des lignes de cette liste ne nomme les tours aéroréfrigérantes, les condenseurs à eau, la consommation d'eau ni les légionelles, et aucune ne renvoie vers une page de détail."
+    },
+    {
+      "champ": "nom, type, description",
+      "url": "https://www.cemafroid.fr/",
+      "date": "2026-09-22",
+      "extrait": "Cemafroid Groupe Tecnea, « L'expert indépendant de la chaîne du froid ». Prestations : essais et étalonnages, expertise, certification, inspection, délégation de service public, formation."
+    },
+    {
+      "champ": "type, description, departements",
+      "url": "https://www.cemafroid.fr/qui-sommes-nous",
+      "date": "2026-09-22",
+      "extrait": "Nos missions : tester, vérifier, évaluer, qualifier et certifier les équipements et les solutions, former les femmes et les hommes et garantir la conformité. Plus de 8.000 clients dans plus de 40 pays du monde."
+    },
+    {
+      "champ": "description",
+      "url": "https://www.cemafroid.fr/prestations/service-public",
+      "date": "2026-09-22",
+      "extrait": "Depuis 2009, dans le cadre d'une délégation de service public, le Cemafroid délivre, pour le compte du Ministère en charge de l'agriculture, les attestations de conformité technique des engins de transport sous température dirigée."
+    },
+    {
+      "champ": "mesures",
+      "url": "https://www.cemafroid.fr/prestations/inspection",
+      "date": "2026-09-22",
+      "extrait": "Le Cemafroid et le groupe Tecnea, à travers la filiale Tecnea Inspection, proposent des prestations d'inspection en relation avec les réglementations en vigueur : ESP (Équipements Sous Pression), Vérification des appareils de levage avec la marque Hydrotest, etc. Ni la rubrique ICPE 2921, ni les tours aéroréfrigérantes, ni les légionelles ne sont citées."
+    },
+    {
+      "champ": "mesures",
+      "url": "https://www.cemafroid.fr/prestations/essais-et-etalonnages/prestations",
+      "date": "2026-09-22",
+      "extrait": "Essais ATP et coefficient K, caractérisations d'enceintes climatiques, essais d'emballages isothermes, étalonnages de thermomètres, mesure de puissance frigorifique et de consommation, mesures aérauliques, essais de meubles frigorifiques, essais acoustiques, essais de consommation en gasoil, en électricité, en fluides frigorigènes. Aucun essai portant sur un condenseur à eau, une tour aéroréfrigérante ou une consommation d'eau."
+    },
+    {
+      "champ": "siret, adresse",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Cemafroid",
+      "date": "2026-09-22",
+      "extrait": "CEMAFROID, siren 432511897, siret du siège 43251189700048, 5-13 5 AVENUE DES PRES 94260 FRESNES, nature juridique 5710 (SAS), activité principale de l'unité légale 71.12B (ingénierie, études techniques) et de l'établissement siège 82.99Z, 5 établissements ouverts. CEMAFROID FORMATION est une unité légale distincte, siren 529307985."
+    },
+    {
+      "champ": "contacts",
+      "url": "https://www.cemafroid.fr/contact",
+      "date": "2026-09-22",
+      "extrait": "Cemafroid - Groupe Tecnea, 5 Avenue des Prés, CS 20029, 94266 - Fresnes, France. +33 (0) 1 49 84 84 84. Formulaire de contact en ligne. Aucune adresse mail générale ni mention de devis ou de tarif."
+    },
+    {
+      "champ": "description, contacts",
+      "url": "https://www.cemafroid-formation.com/formations",
+      "date": "2026-09-22",
+      "extrait": "Modules classés en six familles (MG maîtrise générale de la chaîne du froid, CF chaîne du froid et hygiène alimentaire, PS produits de santé, ME métrologie, FE froid et environnement, CH vérification des appareils de levage). FE2 - Amélioration de l'efficacité énergétique des installations de froid et de climatisation. Aucun module sur les tours aéroréfrigérantes, les condenseurs, l'eau ou les légionelles."
+    },
+    {
+      "champ": "description, mesures",
+      "url": "https://www.cemafroid.fr/media/c21e861e-786e-11ec-abe5-0242ac130008/a20382ee-69d5-11ee-9192-0242ac14000d/fe6.pdf",
+      "date": "2026-09-22",
+      "extrait": "FE6 Règlementation ICPE appliquée aux installations de froid. Objectifs : connaître la règlementation ICPE applicable aux installations de froid ; être capable de constituer et mettre à jour le dossier ICPE de votre installation pour les rubriques concernées ; connaître le périmètre des inspections pour les installations soumises au régime de déclaration avec contrôle périodique. Le programme ne nomme aucune rubrique, ni les tours aéroréfrigérantes, ni les légionelles. Organisme de formation : CEMAFROID FORMATION SAS, 5 avenue des Prés 94266 Fresnes Cedex."
+    },
+    {
+      "champ": "mesures, infos_complementaires",
+      "url": "https://aida.ineris.fr/sites/default/files/2025-12/Liste%20OA%20version%20%202025_2.pdf",
+      "date": "2026-09-22",
+      "extrait": "MTE - DGPR - BEI, version 2025, liste des organismes agréés par rubrique ICPE. Ligne « 8 Tours aéroréfrigérantes 2921 » : organismes cochés APAVE, BUREAU VERITAS EXPLOITATION, CAPSIS, DEKRA IND., SOCOTEC, TECNEA INSPECTION. CEMAFROID ne figure pas dans la liste."
+    }
+  ],
+  "date_maj": "2026-09-22"
+}

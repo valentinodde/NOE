@@ -1,0 +1,109 @@
+{
+  "id": "AIDE_ART_003",
+  "nom": "Diagnostic eau gratuit des artisans (CMA Auvergne-Rhône-Alpes, agences de l'eau Rhône Méditerranée Corse et Loire-Bretagne)",
+  "financeur": "Agence de l'eau Rhône Méditerranée Corse et agence de l'eau Loire-Bretagne, avec la CMA Auvergne-Rhône-Alpes",
+  "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792065027/Noe%20assets/logos/AIDE_ART_003.png",
+  "type": "accompagnement",
+  "taux": "Entièrement pris en charge : 0 € TTC pour l'entreprise",
+  "plafond": "Un diagnostic de 4 heures maximum sur site, rendu et suivi à un an par téléphone",
+  "description": "Un conseiller de la CMA se déplace dans votre entreprise pour faire le bilan de vos consommations d'eau : postes d'usage (production, nettoyage, sanitaires), équipements, pratiques quotidiennes, fuites éventuelles et coût de l'eau. Il évalue la consommation par poste, puis vous présente un plan d'action visant à réduire d'au moins 20 % vos consommations, avec les économies et les aides disponibles. Un suivi à un an fait le point sur ce qui a été engagé. Le diagnostic a été conçu avec les agences de l'eau Rhône Méditerranée Corse et Loire-Bretagne, qui le prennent en charge avec la CMA.",
+  "eligibilite": "Artisans et chefs d'entreprise artisanale d'Auvergne-Rhône-Alpes, sans prérequis. La CMA cite les métiers de bouche (boulangerie, boucherie, traiteur) parmi les activités visées.",
+  "categories": ["suivre_comprendre_maitriser"],
+  "secteurs": ["artisanat_alimentaire"],
+  "departements": ["01", "03", "07", "15", "26", "38", "42", "43", "63", "69", "73", "74"],
+  "agences": [],
+  "mesures": ["ACT_AGR_002"],
+  "infos_complementaires": [
+    {
+      "type": "info",
+      "texte": "La réservation se fait depuis la fiche du catalogue de la CMA (bouton « Je réserve »). Vous pouvez aussi demander à être rappelé gratuitement par un conseiller CMA, du lundi au vendredi de 8h30 à 16h30, ou vous adresser à l'agence CMA de votre département."
+    },
+    {
+      "type": "info",
+      "texte": "Le livrable est un état des lieux et un plan d'actions. Le rendu du diagnostic et le suivi à un an se font lors de rendez-vous téléphoniques."
+    },
+    {
+      "type": "info",
+      "texte": "La fiche du catalogue consultée le 15 octobre 2026 est datée du 28 octobre 2024 et ne mentionne pas de date de fin du dispositif : vérifiez sa disponibilité au moment de réserver."
+    },
+    {
+      "type": "ressource",
+      "texte": "Fiche « Réaliser le bilan de vos consommations d'eau » du catalogue de la CMA Auvergne-Rhône-Alpes",
+      "lien": "https://www.cma-auvergnerhonealpes.fr/catalogue/realiser-le-bilan-de-vos-consommations-deau/"
+    },
+    {
+      "type": "ressource",
+      "texte": "Article de la CMA « Métiers de bouche : comment réduire vos factures d'eau ? »",
+      "lien": "https://www.cma-auvergnerhonealpes.fr/actualites/metiers-de-bouche-comment-reduire-vos-factures-deau/"
+    },
+    {
+      "type": "ressource",
+      "texte": "Guide de la CMA pour réduire la consommation d'eau dans les métiers de bouche, conçu avec les agences de l'eau Loire-Bretagne et Rhône Méditerranée Corse",
+      "lien": "https://www.cma-auvergnerhonealpes.fr/app/uploads/2026/02/guide-economie-deau-metiers-de-bouche.pdf"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "taux, plafond, type",
+      "url": "https://www.cma-auvergnerhonealpes.fr/catalogue/realiser-le-bilan-de-vos-consommations-deau/",
+      "date": "2026-10-15",
+      "extrait": "Diagnostic 4 heures Individuel 0€ TTC [...] Le diagnostic est réalisé en 4 heures maximum et est réalisé sur le site de l'entreprise. Le rendu du diagnostic et le suivi à 1 an seront effectués lors de rendez-vous téléphoniques"
+    },
+    {
+      "champ": "description, mesures, categories",
+      "url": "https://www.cma-auvergnerhonealpes.fr/catalogue/realiser-le-bilan-de-vos-consommations-deau/",
+      "date": "2026-10-15",
+      "extrait": "Visite sur site de l'entreprise portant sur les consommations, les postes d'usage de l'eau, les équipements consommateurs, le coût de vos consommations [...] Réalisation d'un diagnostic pour évaluer votre consommation par poste. Etablissement d'un plan d'action avec des solutions visant à réduire d'au moins 20% vos consommations et dégager des économies et aides disponibles [...] Le diagnostic fait l'objet d'un suivi à 1 an"
+    },
+    {
+      "champ": "financeur",
+      "url": "https://www.cma-auvergnerhonealpes.fr/catalogue/realiser-le-bilan-de-vos-consommations-deau/",
+      "date": "2026-10-15",
+      "extrait": "En partenariat avec : [logos de l'agence de l'eau Rhône Méditerranée Corse et de l'agence de l'eau Loire-Bretagne]"
+    },
+    {
+      "champ": "financeur, taux",
+      "url": "https://www.cma-auvergnerhonealpes.fr/actualites/reduisez-vos-factures-deau-avec-la-cma/",
+      "date": "2026-10-15",
+      "extrait": "Un programme pour aider les artisans a été imaginé en partenariat avec deux agences de l'eau : Rhône Méditerranée Corse et Loire- Bretagne. [...] Le diagnostic est entièrement pris en charge par votre CMA et votre agence de l'eau."
+    },
+    {
+      "champ": "eligibilite",
+      "url": "https://www.cma-auvergnerhonealpes.fr/catalogue/realiser-le-bilan-de-vos-consommations-deau/",
+      "date": "2026-10-15",
+      "extrait": "Pour qui ? Artisan, chef d'entreprise. Prérequis : Aucun"
+    },
+    {
+      "champ": "eligibilite, description",
+      "url": "https://www.cma-auvergnerhonealpes.fr/actualites/metiers-de-bouche-comment-reduire-vos-factures-deau/",
+      "date": "2026-10-15",
+      "extrait": "Restaurant, boulangerie, boucherie, poissonnerie, traiteur… [...] Un conseiller CMA se déplace dans votre établissement [...] Il analyse : Vos postes de consommation (production, nettoyage, sanitaires…) Vos équipements [...] Vos pratiques quotidiennes. Les éventuelles pertes ou fuites invisibles. Ce diagnostic, accessible à tous les artisans, est entièrement financé par votre CMA et l'agence de l'eau."
+    },
+    {
+      "champ": "departements",
+      "url": "https://www.cma-auvergnerhonealpes.fr/cma/",
+      "date": "2026-10-15",
+      "extrait": "Avec 24 agences réparties dans toute la région [...] CMA Ain, CMA Allier, CMA Ardèche, CMA Cantal, CMA Drôme, CMA Haute-Loire, CMA Haute-Savoie, CMA Isère, CMA Loire, CMA Lyon-Rhone, CMA Puy-de-Dôme, CMA Savoie"
+    },
+    {
+      "champ": "infos_complementaires",
+      "url": "https://www.cma-auvergnerhonealpes.fr/catalogue/realiser-le-bilan-de-vos-consommations-deau/",
+      "date": "2026-10-15",
+      "extrait": "Je réserve [...] Livrables liés au produit : Diagnostic constitué d'un état des lieux et d'un plan d'actions [...] Mise à jour le 28 octobre 2024. Besoin d'être rappelé par un conseiller ? [...] du lundi au vendredi, de 8h30 à 16h30. Rappel gratuit"
+    },
+    {
+      "champ": "infos_complementaires",
+      "url": "https://www.cma-auvergnerhonealpes.fr/actualites/metiers-de-bouche-comment-reduire-vos-factures-deau/",
+      "date": "2026-10-15",
+      "extrait": "la CMA Auvergne-Rhône-Alpes vous propose un guide dédié aux métiers de bouche, conçu avec les agences de l'eau Loire-Bretagne et Rhône-Méditerranée-Corse. [...] Je découvre le guide"
+    },
+    {
+      "champ": "logo_url",
+      "url": "https://www.eaurmc.fr/upload/docs/image/png/2023-10/logo_ae_aout2020_web.png",
+      "date": "2026-10-15",
+      "extrait": "Logo de l'agence de l'eau Rhône Méditerranée Corse, pris sur eaurmc.fr"
+    }
+  ],
+  "date_maj": "2026-10-15"
+}

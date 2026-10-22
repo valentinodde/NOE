@@ -1,0 +1,125 @@
+{
+  "id": "PREST_FRL_014",
+  "nom": "CTCPA, Centre technique agroalimentaire",
+  "type": "organisme_technique",
+  "logo_url": null,
+  "siret": "77569174400038",
+  "description": "Centre technique de la conservation des produits agricoles, siège à Paris et sites régionaux notamment à Amiens (Dury), Avignon, Auch, Nantes, Dijon et Bourg-en-Bresse, qui intervient auprès des industriels de toute la France. Sur l'eau, ses ingénieurs mesurent sur site les consommations et la charge des eaux puis valident des préconisations, comme le recyclage de l'eau de lavage vers l'épierrage et le transport hydraulique des pommes de terre chez Provence Chips ; il accompagne aussi le choix et la validation des traitements pour réutiliser l'eau, la mise à jour du plan de maîtrise sanitaire et le dossier de déclaration ou d'autorisation de réutilisation. Audits et conseil adaptés au besoin et au budget, sur votre site ou dans ses locaux ; formation d'une journée « Optimiser la gestion de la ressource en eau » (diagnostic eau, méthode Pinch eau) à 750 euros HT, en inter ou en intra.",
+  "expertises": [
+    "Diagnostic eau sur site",
+    "Méthode Pinch eau",
+    "Dossier de réutilisation des eaux",
+    "Formation gestion de l'eau"
+  ],
+  "categories": [
+    "suivre_comprendre_maitriser",
+    "valoriser_reut_eaux_non_conventionnelles",
+    "sensibiliser_former"
+  ],
+  "secteurs": [
+    "industrie_fruits_legumes"
+  ],
+  "departements": [],
+  "mesures": [
+    {
+      "id": "ACT_AGR_002",
+      "roles": [
+        "conseil_etude",
+        "formation"
+      ]
+    },
+    {
+      "id": "ACT_FRL_006",
+      "roles": [
+        "conseil_etude",
+        "formation"
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "type": "site_internet",
+      "value": "https://www.ctcpa.org/"
+    },
+    {
+      "type": "tel",
+      "value": "01 53 91 44 00"
+    },
+    {
+      "type": "mail",
+      "value": "contact@ctcpa.org"
+    },
+    {
+      "type": "mail",
+      "value": "contact.formation@ctcpa.org"
+    },
+    {
+      "type": "adresse",
+      "value": "44 rue d'Alésia, TSA 31444, 75158 Paris Cedex 14"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=CTCPA&departement=75",
+      "date": "2026-09-25",
+      "extrait": "CTRE TECH CONSERVATION PRODUIT AGRICOLE (CTCPA), siret 77569174400038, siège, 44 RUE D'ALESIA 75014 PARIS, activité 94.12Z, état administratif A, 10 établissements ouverts"
+    },
+    {
+      "champ": "contacts (siège)",
+      "url": "https://www.ctcpa.org/2026/04/13/traitement-de-leau-en-agroalimentaire/",
+      "date": "2026-09-25",
+      "extrait": "siège social Paris [...] 44 rue d'Alésia TSA 31444 75158 PARIS CEDEX 14 01 53 91 44 00 contact@ctcpa.org"
+    },
+    {
+      "champ": "departements, description (sites régionaux)",
+      "url": "https://www.ctcpa.org/ctcpa-page/ctcpa-en-region/",
+      "date": "2026-09-25",
+      "extrait": "Notre siège social [...] constitue un lieu de formation facilement accessible pour nos clients partout en France. [...] Notre site d'Amiens couvre la région Nord-Est et Ile-de-France [...] Notre site d'Avignon couvre toute la région sud-est [...] Notre site d'Auch couvre toute la région sud-ouest [...] Site de Nantes [...] Site de Dijon [...] Site de Bourg-en-Bresse"
+    },
+    {
+      "champ": "description (réutilisation), expertises, mesures (ACT_FRL_006 conseil_etude)",
+      "url": "https://www.ctcpa.org/wp-content/uploads/2026/04/TechTime-Article-Avril-2026-Traitement-de-leau.pdf",
+      "date": "2026-09-25",
+      "extrait": "Le CTCPA accompagne les industriels agroalimentaires dans la compréhension et la mise en œuvre des solutions de traitement adaptées à leurs besoins. [...] L'accompagnement peut inclure la sélection des critères d'eau requis selon les origines et les usages, la présentation des technologies les mieux adaptées, leur validation ainsi que le suivi pour la mise à jour du plan de maîtrise sanitaire associé et la gestion de la déclaration ou de la demande d'autorisation de réutilisation de l'eau."
+    },
+    {
+      "champ": "description (cas Provence Chips), mesures (ACT_AGR_002 conseil_etude, ACT_FRL_006 conseil_etude)",
+      "url": "https://www.ctcpa.org/2009/12/16/diminution-consommations-eau-provence-chips-temoigne/",
+      "date": "2026-09-25",
+      "extrait": "Publié le : 16/12/2009. Participant au projet européen STEP comme expert technique, le CTCPA a accompagné six entreprises dont Provence Chips [...] M. Fine est venu plusieurs fois sur place, a réalisé des mesures de consommation d'eau, des analyses physico-chimiques et des mesures de matière en suspension [...] L'eau est utilisée au dépierrage pour enlever les souillures physiques ainsi que pour conduire les pommes de terre vers le lavage. [...] On peut donc utiliser de l'eau souillée en recyclant l'eau de lavage."
+    },
+    {
+      "champ": "mesures (ACT_AGR_002 conseil_etude)",
+      "url": "https://www.ctcpa.org/en/2021/12/17/diagnostic-ecoflux-reduire-flux-energie-matiere-eau-dechets/",
+      "date": "2026-09-25",
+      "extrait": "Published on : 17/12/2021. The CTCPA, under the coordination of Actia, participates in the operation \"Diag Eco-Flux\" [...] reducing your consumption of energy, materials, water and waste production. [...] Definition of a personalized and costed action plan"
+    },
+    {
+      "champ": "expertises (méthode Pinch eau), mesures (ACT_FRL_006)",
+      "url": "https://www.ctcpa.org/en/2022/06/08/minimiser-consommaitons-eau-industrie-agroalimentaire-minimeau/",
+      "date": "2026-09-25",
+      "extrait": "The Minimeau project [...] optimizing water reuse on an industrial site. [...] measurements carried out by the technical centers in 10 partner companies made it possible to develop and test the water pinch method"
+    },
+    {
+      "champ": "description (formation, tarif), expertises, mesures (ACT_AGR_002 formation, ACT_FRL_006 formation), contacts (mail formation)",
+      "url": "https://www.ctcpa.org/formation_post/optimiser-la-gestion-de-la-ressource-en-eau/",
+      "date": "2026-09-25",
+      "extrait": "Durée : 1 jour - 7 heures [...] Tarif : 750€ HT [...] Contact:contact.formation@ctcpa.org Nos formations sont déclinables en intra-entreprise. [...] Être capable de réaliser un diagnostic eau dans son entreprise. Expliquer les principes de la méthode Pinch Eau et savoir utiliser les outils pour optimiser l'utilisation et la réutilisation de l'eau en industrie agroalimentaire"
+    },
+    {
+      "champ": "description (modalités audit et conseil)",
+      "url": "https://www.ctcpa.org/service/audit-conseil-agroalimentaire-sur-mesure/",
+      "date": "2026-09-25",
+      "extrait": "Vous souhaitez bénéficier d'une expertise [...] dans une prestation adaptée à vos besoins et à votre budget ? Nos prestations d'audit, d'accompagnement et de conseil sont 100 % flexibles et se réalisent sur votre site ou dans nos locaux."
+    },
+    {
+      "champ": "categories (gestion de la ressource en eau)",
+      "url": "https://www.ctcpa.org/moyen/transition-energetique-et-environnementale/",
+      "date": "2026-09-25",
+      "extrait": "nous accompagnons les acteurs de l'agroalimentaire dans leurs politiques de développement durable et de gestion des ressources : eau, énergie, déchets, valorisation de co-produits, réduction des emballages à la source."
+    }
+  ],
+  "date_maj": "2026-09-25"
+}

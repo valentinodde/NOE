@@ -1,0 +1,63 @@
+{
+  "id": "PREST_VIN_001",
+  "nom": "Station Oenotechnique de Champagne (Sofralab)",
+  "type": "bureau_etudes",
+  "logo_url": null,
+  "siret": "57222486300041",
+  "description": "Laboratoire d'analyses et service de conseil oenologique, nom commercial de la société Sofralab, implanté à Magenta et Cormontreuil (Marne) et à Bar-sur-Seine (Aube). Ses oenologues-conseil suivent les vins de la vendange à la mise en bouteille et auditent l'exploitation ; la station vérifie les plans HACCP et l'application des bonnes pratiques d'hygiène, et forme le groupe HACCP de l'entreprise. Prestations sur contrat de conseil ; le site ne présente pas de prestation dédiée aux économies d'eau.",
+  "expertises": [
+    "Audit HACCP en cave",
+    "Formation HACCP des équipes",
+    "Conseil oenologique",
+    "Analyses oenologiques"
+  ],
+  "categories": [],
+  "secteurs": ["vins_spiritueux"],
+  "departements": ["51", "10"],
+  "mesures": [],
+  "contacts": [
+    { "type": "site_internet", "value": "https://www.oenotechnic.com/" },
+    { "type": "tel", "value": "03 26 51 56 45" },
+    { "type": "adresse", "value": "79 avenue A. A. Thévenet, 51530 Magenta" }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Sofralab&departement=51",
+      "date": "2026-09-28",
+      "extrait": "SOFRALAB, siret 57222486300041, siège, 79 AV A A THEVENET 51530 MAGENTA, activité 70.10Z, état administratif A"
+    },
+    {
+      "champ": "nom, siret",
+      "url": "https://www.oenotechnic.com/mentions-legales-soec/",
+      "date": "2026-09-28",
+      "extrait": "SOFRALAB, 79 av, A.A. Thévenet, CS 11031, 51530 MAGENTA. N° SIRET 572 224 863 00041. Nom commercial : Station Oenotechnique de Champagne"
+    },
+    {
+      "champ": "contacts, departements",
+      "url": "https://www.oenotechnic.com/contact-station-oenotechnique-de-champagne/",
+      "date": "2026-09-28",
+      "extrait": "Magenta : 79 avenue A. A. Thévenet 51530 Magenta, +33 3 26 51 56 45. Bar-sur-Seine : 1 bis avenue Paul Portier BP46 10110 Bar-sur-Seine. Cormontreuil : 55, rue du Commerce 51350 Cormontreuil"
+    },
+    {
+      "champ": "expertises, description (audit et formation HACCP)",
+      "url": "https://www.oenotechnic.com/oenologie-conseil/methode-haccp-oenologie/",
+      "date": "2026-09-28",
+      "extrait": "Vérification de l'application de l'hygiène sur l'exploitation en conformité avec le guide des bonnes pratiques. Formation : Découvrir et comprendre la méthode HACCP en oenologie par le groupe HACCP de l'entreprise"
+    },
+    {
+      "champ": "expertises, description (conseil oenologique, accès)",
+      "url": "https://www.oenotechnic.com/oenologie-conseil/oenologie-conseil/",
+      "date": "2026-09-28",
+      "extrait": "nos œnologues-conseil accompagnent les producteurs dans l'élaboration de leurs vins. Les contrats de conseil peuvent inclure : audit de l'exploitation et des vins déjà mis sur le marché"
+    },
+    {
+      "champ": "expertises (analyses)",
+      "url": "https://www.oenotechnic.com/oenologie-conseil/laboratoires-analyses-oenologiques-soec-champagne/",
+      "date": "2026-09-28",
+      "extrait": "plus de 100 000 analyses vinicoles, suivi analytique des vins et conseil technique personnalisé"
+    }
+  ],
+  "date_maj": "2026-09-28"
+}

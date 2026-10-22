@@ -1,0 +1,14 @@
+### Env conda du backend Flask.
+### Recréer depuis zéro :
+###   conda env create -f api/environment.yml
+### Mettre à jour après modification de requirements.txt :
+###   conda env update -f api/environment.yml --prune
+name: noe-env
+channels:
+  - conda-forge
+dependencies:
+  # Aligné sur api/runtime.txt (cible de déploiement)
+  - python=3.13
+  - pip
+  - pip:
+      - -r requirements.txt

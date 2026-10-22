@@ -1,0 +1,67 @@
+{
+  "id": "PREST_FRL_012",
+  "nom": "Veolia Water STI",
+  "type": "installateur",
+  "logo_url": null,
+  "siret": "35338571900433",
+  "description": "Filiale de Veolia Water Technologies (groupe Veolia) spécialisée dans le traitement de l'eau pour les industries en France et en Belgique, qui fournit des produits, des services et des consommables pour les eaux de process, d'utilité et résiduaires. Pour la Compagnie des Pruneaux à Pineuilh (33), elle a conçu et réalisé la station de traitement des effluents du site : poste de relevage, tamis, bassin tampon et méthaniseur anaérobie Thanium (procédé UASB), mis en service en novembre 2017 pour 50 m3/j et 720 kg de DCO. Elle est saisie comme intégrateur : elle conçoit, sélectionne ses partenaires, contrôle l'exécution des travaux et met en service, et aucune source consultée n'établit qu'elle fabrique en France les équipements Thanium.",
+  "expertises": [
+    "Station de traitement des effluents",
+    "Méthanisation anaérobie des effluents",
+    "Eau de process et d'utilité"
+  ],
+  "categories": [
+    "agir_rejets_qualite"
+  ],
+  "secteurs": [
+    "industrie_fruits_legumes"
+  ],
+  "departements": [],
+  "mesures": [
+    {
+      "id": "ACT_FRL_008",
+      "roles": [
+        "conseil_etude",
+        "travaux"
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "type": "site_internet",
+      "value": "https://www.veoliawatertechnologies.fr"
+    },
+    {
+      "type": "adresse",
+      "value": "Immeuble L'Aquarène, 1 place Montgolfier, 94410 Saint-Maurice"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Veolia%20Water%20STI",
+      "date": "2026-09-25",
+      "extrait": "VEOLIA WATER STI, siret 35338571900433, siège, IMMEUBLE L'AQUARENE 1 PLACE MONTGOLFIER 94410 SAINT-MAURICE, etat_administratif A"
+    },
+    {
+      "champ": "description, expertises, mesures, categories",
+      "url": "https://www.veoliawatertechnologies.fr/fr/references/compagnie-pruneaux",
+      "date": "2026-09-25",
+      "extrait": "Cet industriel a fait confiance à Veolia Water STI (Solutions & Technologies pour l'Industrie) pour la conception et la réalisation d'une station de traitement des effluents sur son site de Pineuilh. Thanium Intégral : poste de relevage, tamis, bassin tampon, cuve de conditionnement, méthaniseur. DCO : 720 kg. Débit : 50 m3/j. Mise en service : Novembre 2017"
+    },
+    {
+      "champ": "nom, description, expertises, departements",
+      "url": "https://www.veoliawatertechnologies.fr/fr/a-propos/veolia-water-sti",
+      "date": "2026-09-25",
+      "extrait": "Veolia Water STI - Solutions & Technologies pour l'Industrie - est spécialisé depuis plus de 30 ans dans le traitement de l'eau pour les industries et les laboratoires, en France et en Belgique. Notre filiale fournit des produits, services et consommables ... pour vos applications en eau de process, d'utilité, de laboratoire, résiduaire"
+    },
+    {
+      "champ": "type, description",
+      "url": "https://www.veoliawatertechnologies.fr/fr/propos/nos-engagements/nos-certifications",
+      "date": "2026-09-25",
+      "extrait": "notre système de management est construit pour : analyser précisément le besoin, proposer une solution adaptée, efficace et pérenne, sélectionner les meilleurs partenaires, contrôler la bonne exécution des travaux, et assurer une mise en service en lien avec l'exploitant."
+    }
+  ],
+  "date_maj": "2026-09-25"
+}

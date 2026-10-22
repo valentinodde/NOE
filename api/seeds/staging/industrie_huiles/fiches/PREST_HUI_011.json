@@ -1,0 +1,76 @@
+{
+  "id": "PREST_HUI_011",
+  "nom": "OID Consultants",
+  "type": "bureau_etudes",
+  "logo_url": null,
+  "siret": "53227788600042",
+  "description": "Cabinet de conseil lyonnais en performance environnementale et énergétique des sites industriels, indépendant des fournisseurs de matériel. Il conçoit des plans de comptage (choix des points de mesure, fourniture du matériel, télérelève radio, WIFI ou filaire, y compris des consommations d'eau froide ou chaude et des effluents, pose par des partenaires agréés) et réalise des diagnostics multi-flux qui couvrent l'eau avec un plan d'action, notamment dans le cadre du Diag Eco-Flux de Bpifrance, financé à 50 % par l'ADEME. L'offre est construite sur demande après prise de contact par téléphone, courriel ou rendez-vous.",
+  "expertises": [
+    "Plan de comptage et télérelève",
+    "Diagnostic multi-flux énergie et eau",
+    "Diag Eco-Flux Bpifrance",
+    "Exploitation des données de consommation"
+  ],
+  "categories": [
+    "suivre_comprendre_maitriser"
+  ],
+  "secteurs": ["industrie_huiles"],
+  "departements": [],
+  "mesures": [
+    { "id": "ACT_AGR_001", "roles": ["conseil_etude", "materiel"] },
+    { "id": "ACT_AGR_002", "roles": ["conseil_etude"] }
+  ],
+  "contacts": [
+    { "type": "site_internet", "value": "https://oid-consultants.com/" },
+    { "type": "tel", "value": "04 82 53 42 40" },
+    { "type": "mail", "value": "contact@oid-consultants.com" },
+    { "type": "adresse", "value": "6c Cours Bayard, 69002 Lyon" },
+    { "type": "linkedin", "value": "https://www.linkedin.com/company/oid-consultants/" }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse, type",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=OID%20Consultants&departement=69",
+      "date": "2026-09-27",
+      "extrait": "OID CONSULTANTS, siret 53227788600042, siège, 6 C COURS BAYARD 69002 LYON, activité 70.22Z, état A"
+    },
+    {
+      "champ": "contacts (tel, mail, adresse)",
+      "url": "https://oid-consultants.com/contact/",
+      "date": "2026-09-27",
+      "extrait": "Nos bureaux à Lyon. Adresse 6c Cours Bayard 69002 Lyon. Téléphone 04 82 53 42 40. Email contact@oid-consultants.com"
+    },
+    {
+      "champ": "expertises, mesures (ACT_AGR_001 conseil_etude, materiel), description, contacts (linkedin)",
+      "url": "https://oid-consultants.com/plan-de-comptage-collecte-de-donnees/",
+      "date": "2026-09-27",
+      "extrait": "OID est indépendant de tout fournisseur de matériel [...] nous vous proposerons des solutions de télérelève radio sur batterie (pas de temps 5 ou 10 minutes) ou WIFI/filaire [...] nous relevons des consommations électriques, de gaz, de vapeur, de frigories, d'eau froide/chaude, d'effluents. Quels que soient vos objectifs et enjeux, nous vous proposerons le matériel adapté. OID s'occupe également de la pose via son réseau de partenaires agréés"
+    },
+    {
+      "champ": "expertises, mesures (ACT_AGR_002), description",
+      "url": "https://oid-consultants.com/multi-flux/",
+      "date": "2026-09-27",
+      "extrait": "Nous faisons notamment partie des bureaux de conseils mandatés par la BPI pour réaliser des Diag Eco Flux [...] Ces diagnostics, financés à hauteur de 50% par l'ADEME, abordent 4 flux : l'énergie, les déchets, la matière et l'eau. [...] Les actions mises en avant portent sur la réduction des consommations et le traitement des eaux usées, pouvant parfois mener à un passage en circuit fermé."
+    },
+    {
+      "champ": "mesures (ACT_AGR_001, ACT_AGR_002), references",
+      "url": "https://oid-consultants.com/references-et-temoignages/",
+      "date": "2026-09-27",
+      "extrait": "Fertinagro France : Déploiement d'un plan de comptage énergétique en 2018. ETS. R. FILLIERE : OID est venu auditer notre usine en 2021 à l'occasion d'un DiagEcoFlux [...] identifier des leviers d'économies sur l'énergie, l'eau et les déchets [...] a fourni un plan d'action chiffré et priorisé"
+    },
+    {
+      "champ": "departements (national)",
+      "url": "https://oid-consultants.com/adn-et-valeurs/",
+      "date": "2026-09-27",
+      "extrait": "Nous restons à ce jour référent national sur les flux énergie - déchets - matière et eau."
+    },
+    {
+      "champ": "references",
+      "url": "https://oid-consultants.com/pilotage-du-chauffage-sur-site-industriel-la-pastillerie-de-vichy-reduit-sa-consommation-de-gaz-de-15-et-poursuit-ses-actions-de-decarbonation/",
+      "date": "2026-09-27",
+      "extrait": "Pilotage du chauffage sur site industriel : la Pastillerie de Vichy réduit sa consommation de gaz de 15% [...] La collaboration entre OID et la Pastillerie Vichy a démarré il y a 10 ans."
+    }
+  ],
+  "date_maj": "2026-09-27"
+}

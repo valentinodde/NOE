@@ -1,0 +1,111 @@
+{
+  "id": "PREST_GCU_019",
+  "nom": "TPF 32",
+  "type": "installateur",
+  "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792084380/Noe%20assets/logos/PREST_GCU_019.png",
+  "siret": "94881320900012",
+  "description": "Entreprise de terrassement et d'élagage installée à Armous-et-Cau, près de Marciac et Mirande, qui intervient dans un rayon de 50 km autour de son siège, dans le Gers et les départements voisins (Hautes-Pyrénées, Pyrénées-Atlantiques, Landes, Haute-Garonne). Pour les agriculteurs, elle crée des bassins d'irrigation, aménage les terres agricoles et cure les lacs et les mares pour leur rendre leur capacité, et réalise aussi du drainage et des chemins d'accès aux champs. Travaux sur devis gratuit, couverts par une assurance décennale.",
+  "expertises": [
+    "Création de bassins d'irrigation",
+    "Curage de lacs et de mares",
+    "Drainage de terrains",
+    "Aménagement de terres agricoles"
+  ],
+  "categories": [
+    "valoriser_reut_eaux_non_conventionnelles"
+  ],
+  "secteurs": [
+    "grandes_cultures"
+  ],
+  "departements": [
+    "32",
+    "65",
+    "64",
+    "40",
+    "31"
+  ],
+  "mesures": [
+    {
+      "id": "ACT_GCU_008",
+      "roles": [
+        "travaux"
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "type": "site_internet",
+      "value": "https://tpf32.fr/"
+    },
+    {
+      "type": "tel",
+      "value": "06 69 69 86 96"
+    },
+    {
+      "type": "mail",
+      "value": "contact@tpf32.fr"
+    },
+    {
+      "type": "adresse",
+      "value": "Las Carreteres, 32230 Armous-et-Cau"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=TPF%2032&departement=32",
+      "date": "2026-10-15",
+      "extrait": "TPF 32, siret 94881320900012, siège, LAS CARRETERES 32230 ARMOUS-ET-CAU, activité 43.12B, état administratif A"
+    },
+    {
+      "champ": "siret, contacts",
+      "url": "https://tpf32.fr/mentions-legales",
+      "date": "2026-10-15",
+      "extrait": "EDITEUR SAS TPF32 [...] SIRET : 94881320900012 [...] Email : contact@tpf32.fr Siège social : LAS CARRETERES, 32230 ARMOUS ET CAU N° de téléphone : 06 69 69 86 96"
+    },
+    {
+      "champ": "contacts",
+      "url": "https://tpf32.fr/contact-armous-et-cau/",
+      "date": "2026-10-15",
+      "extrait": "SAS TPF32 Contact contact@tpf32.fr 06 69 69 86 96 LAS CARRETERES, 32230 ARMOUS ET CAU"
+    },
+    {
+      "champ": "departements, description",
+      "url": "https://tpf32.fr/",
+      "date": "2026-10-15",
+      "extrait": "Implantés à proximité de Marciac et Mirande, nous intervenons dans un rayon de 50 km autour d'Armous-et-Cau [...] Notre assurance décennale témoigne de notre engagement"
+    },
+    {
+      "champ": "departements",
+      "url": "https://tpf32.fr/terrassement-gers/",
+      "date": "2026-10-15",
+      "extrait": "Liste des communes d'intervention de la page : Terrassement Auch, Condom, Mirande, Nogaro (32) ; Terrassement Tarbes, Vic-en-Bigorre, Maubourguet, Rabastens-de-Bigorre (65) ; Terrassement Garlin, Morlaàs, Pontacq, Soumoulou (64) ; Terrassement Cazères-sur-l'Adour, Gabarret (40) ; Terrassement Boulogne-sur-Gesse (31)"
+    },
+    {
+      "champ": "description, expertises, mesures",
+      "url": "https://tpf32.fr/terrassement-gers/",
+      "date": "2026-10-15",
+      "extrait": "Pour les agriculteurs, nous offrons des services de terrassement spécialisés, tels que l'aménagement de terres agricoles, la création de bassins d'irrigation et la préparation de terrains pour les cultures."
+    },
+    {
+      "champ": "description, expertises, mesures",
+      "url": "https://tpf32.fr/terrassement-gers/",
+      "date": "2026-10-15",
+      "extrait": "Nos services incluent le curage de lacs et de mares pour maintenir ou restaurer leur capacité et leur fonctionnalité [...] Nous effectuons des travaux de drainage [...] Nous proposons des devis gratuits pour tous nos services"
+    },
+    {
+      "champ": "description",
+      "url": "https://tpf32.fr/terrassement-gers/",
+      "date": "2026-10-15",
+      "extrait": "Nous réalisons des chemins d'accès durables et fonctionnels pour les propriétés résidentielles, agricoles et industrielles. Que vous ayez besoin d'un chemin pour accéder à un champ"
+    },
+    {
+      "champ": "logo_url",
+      "url": "https://tpf32.fr/wp-content/uploads/2024/07/cropped-logo-TPF32_1024_fond-transparent-180x180.png",
+      "date": "2026-10-15",
+      "extrait": "apple-touch-icon du site tpf32.fr (logo carré en couleur, pelle mécanique et sapins, mention TPF32 Travaux public et forestier)"
+    }
+  ],
+  "date_maj": "2026-10-15"
+}

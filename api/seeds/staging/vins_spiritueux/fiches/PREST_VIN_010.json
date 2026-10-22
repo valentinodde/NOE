@@ -1,0 +1,120 @@
+{
+  "id": "PREST_VIN_010",
+  "nom": "Lamouroux",
+  "type": "equipementier",
+  "logo_url": "https://lamouroux.com/wp-content/uploads/2023/05/logo_lamouroux_444.png",
+  "siret": "34755597100030",
+  "description": "Fabricant girondin de systèmes de thermorégulation vinicole depuis 1988, installé à Beychac-et-Caillau, qui fabrique dans ses ateliers ses armoires de régulation et ses échangeurs serpentins, et propose des modules hydrauliques de distribution des fluides de thermorégulation. Son offre porte sur la thermorégulation des cuves : il fournit et installe des groupes de froid 4 tubes (dont une version glycolée), des kits de production d'eau chaude et froide couplés au groupe d'eau glacée, les réseaux de thermorégulation (dont un réseau froid glycolé) et le raccordement des cuves par vannes pneumatiques. On le contacte directement par son service commercial ou par ses revendeurs partenaires dans d'autres régions viticoles.",
+  "expertises": [
+    "Groupes de froid 4 tubes",
+    "Réseaux de thermorégulation",
+    "Raccordement des cuves",
+    "Armoires de régulation"
+  ],
+  "categories": [
+    "ameliorer_efficacite_hydrique"
+  ],
+  "secteurs": [
+    "vins_spiritueux"
+  ],
+  "departements": [
+    "16",
+    "17",
+    "18",
+    "19",
+    "21",
+    "32",
+    "33",
+    "34",
+    "44",
+    "49",
+    "68",
+    "71",
+    "84",
+    "89",
+    "91"
+  ],
+  "mesures": [
+    {
+      "id": "ACT_VIN_004",
+      "roles": [
+        "materiel",
+        "travaux"
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "type": "site_internet",
+      "value": "https://lamouroux.com"
+    },
+    {
+      "type": "tel",
+      "value": "05 57 80 89 00"
+    },
+    {
+      "type": "mail",
+      "value": "lamouroux@lamouroux.com"
+    },
+    {
+      "type": "adresse",
+      "value": "Z.A. du Bos Plan, 1 route de Canteloup, 33750 Beychac-et-Caillau"
+    },
+    {
+      "type": "linkedin",
+      "value": "https://fr.linkedin.com/company/lamouroux"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Lamouroux&departement=33",
+      "date": "2026-09-28",
+      "extrait": "LAMOUROUX SA (MAUMY), siret 34755597100030, siège, ZA DU BOS PLAN 1 ROUTE DE CANTELOUP 33750 BEYCHAC-ET-CAILLAU, activité 43.22B, etat_administratif A"
+    },
+    {
+      "champ": "type, description, logo_url, contacts",
+      "url": "https://lamouroux.com/",
+      "date": "2026-09-28",
+      "extrait": "Depuis 1988, LAMOUROUX propose des solutions de thermorégulation vinicole [...] Chaque produit LAMOUROUX est conçu et fabriqué dans nos ateliers en Gironde, avant d'être installé chez nos clients. ; logo logo_lamouroux_444.png ; lien https://fr.linkedin.com/company/lamouroux"
+    },
+    {
+      "champ": "type, description, expertises",
+      "url": "https://lamouroux.com/la-societe-lamouroux/",
+      "date": "2026-09-28",
+      "extrait": "la conception, la fabrication et l'installation de systèmes de contrôle et de régulation thermique automatisés, dédiés au milieu vinicole [...] seule société française de process de vinification à concevoir, fabriquer, assembler et tester ses armoires de thermorégulation [...] Depuis 1988 Lamouroux fabrique dans ses ateliers des échangeurs [...] Les modules hydrauliques servent à la distribution des fluides de thermorégulation"
+    },
+    {
+      "champ": "description, expertises, mesures",
+      "url": "https://lamouroux.com/groupe-4-tubes/",
+      "date": "2026-09-28",
+      "extrait": "L'intérêt des groupes de froid à 4 tubes réside dans leur capacité à fournir simultanément du froid et du chaud pour la production du process vinicole et la climatisation [...] Groupe 4 tubes glycolé"
+    },
+    {
+      "champ": "description, mesures",
+      "url": "https://lamouroux.com/locaux-techniques/",
+      "date": "2026-09-28",
+      "extrait": "Conception et fabrication dans notre atelier de chaudronnerie inox, de kits pour la production d'eau chaude et froide. [...] LAMOUROUX assure l'installation de ces kits et le couplage avec la chaudière et le groupe d'eau glacée, vers la tuyauterie de thermorégulation."
+    },
+    {
+      "champ": "description, expertises, mesures",
+      "url": "https://lamouroux.com/reseau-de-thermoregulation/",
+      "date": "2026-09-28",
+      "extrait": "LAMOUROUX conçoit et installe tout type de tuyauterie inox [...] Réseau de thermorégulation + fluides sur cuvier [...] Réseau froid isolé, glycolé"
+    },
+    {
+      "champ": "description, expertises, mesures",
+      "url": "https://lamouroux.com/raccordement-sur-les-cuves/",
+      "date": "2026-09-28",
+      "extrait": "Une installation de maîtrise des températures (froid et chaud) exige l'utilisation de composants fiables. La société LAMOUROUX propose une gamme de vannes pneumatiques capables de contrôler parfaitement l'arrivée d'eau froide ou chaude"
+    },
+    {
+      "champ": "contacts, departements",
+      "url": "https://lamouroux.com/contact/",
+      "date": "2026-09-28",
+      "extrait": "LAMOUROUX S.A.S. Z.A. du Bos Plan 1 route de Canteloup 33750 BEYCHAC-ET-CAILLAU [...] +33 (0)5 57 808 900 lamouroux@lamouroux.com [...] Service commercial thermorégulation Gironde / France [...] Nos partenaires et revendeurs : LIATECH (Charente), PRO METAL INDUSTRIE (Charente-Maritime), CLIMAVIN (Cher), FOUDRERIE FRANCOIS (Corrèze), TONNELLERIE ROUSSEAU (Côte-d'Or), LIATECH EAUZE (Gers), BELLOT (Gironde), TECHNO FROID (Haut-Rhin), HURTHEMEL (Hérault), ACT VINICOLE (Hérault), BUTROT (Loire-Atlantique), BUTROT (Maine-et-Loire), SARL HELIOS GENIE CLIMATIQUE (Saône-et-Loire), FCS 84 (Vaucluse), FROID SERVICE (Yonne), LIATECH (Essonne), GROUPE PALOMBI (Vaucluse)"
+    }
+  ],
+  "date_maj": "2026-09-28"
+}

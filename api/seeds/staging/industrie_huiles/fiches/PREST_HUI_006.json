@@ -1,0 +1,133 @@
+{
+  "id": "PREST_HUI_006",
+  "nom": "SIMOP France",
+  "type": "equipementier",
+  "logo_url": null,
+  "siret": "75404070700012",
+  "description": "Fabricant normand d'équipements de traitement des eaux, qui produit dans deux usines de la Manche et de la Somme. Sa gamme de séparateurs de graisses (polyéthylène, PRV jusqu'à la taille 100, inox pour effluents chauds) est présentée pour les graisses et huiles animales et végétales des eaux ménagères et des métiers de bouche ; sa seule réalisation agroalimentaire publiée est un atelier de pâtisserie, aucune n'est citée en huilerie, et le site ne présente ces appareils ni pour les eaux acides de neutralisation ni pour l'hexane. Il fabrique aussi des débourbeurs, des séparateurs d'hydrocarbures pour les eaux de ruissellement et des bacs de rétention, vendus sur devis par son service commercial ou via un réseau de points de vente et d'installateurs partenaires.",
+  "expertises": [
+    "Séparateurs de graisses",
+    "Débourbeurs",
+    "Séparateurs d'hydrocarbures",
+    "Bacs de rétention"
+  ],
+  "categories": [
+    "agir_rejets_qualite"
+  ],
+  "secteurs": [
+    "industrie_huiles"
+  ],
+  "departements": [],
+  "mesures": [
+    {
+      "id": "ACT_HUI_007",
+      "roles": [
+        "materiel"
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "type": "site_internet",
+      "value": "https://www.simop.fr"
+    },
+    {
+      "type": "tel",
+      "value": "02 33 95 88 00"
+    },
+    {
+      "type": "mail",
+      "value": "simop@simop.fr"
+    },
+    {
+      "type": "adresse",
+      "value": "10 rue Richedoux, 50480 Sainte-Mère-Église"
+    },
+    {
+      "type": "linkedin",
+      "value": "https://fr.linkedin.com/company/simop"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=SIMOP&departement=50",
+      "date": "2026-09-27",
+      "extrait": "SIMOP FRANCE, siret 75404070700012, siège, 10 RUE DE RICHEDOUX 50480 SAINTE-MERE-EGLISE, activité de l'unité légale 22.23Z (activité déclarée du siège 22.29A), état administratif A (l'ancien siret 30497164100085 de SIMOP est fermé)"
+    },
+    {
+      "champ": "contacts",
+      "url": "https://www.simop.fr/l-fc/applications/industrie/agro-alimentaire-agriculture/agro-alimentaire-et-agriculture-166",
+      "date": "2026-09-27",
+      "extrait": "Appelez nous au 02 33 95 88 00 ou bien effectuez une demande de renseignements en ligne et un expert vous contactera. [...] Simop France SAS, 10, rue Richedoux, 50480 Sainte-Mère-Eglise. Mail masqué par Cloudflare dans le pied de page : data-cfemail=\"e3908a8e8c93a3908a8e8c93cd8591\" (clé e3, chaque octet suivant XOR e3), décodé en simop@simop.fr"
+    },
+    {
+      "champ": "secteurs, mesures, expertises",
+      "url": "https://www.simop.fr/l-fc/applications/industrie/agro-alimentaire-agriculture/agro-alimentaire-et-agriculture-166",
+      "date": "2026-09-27",
+      "extrait": "Traitement des eaux usées, gestion des graisses, stockage et récupération des eaux pluviales, régulation, traitement des eaux de ruissellement ou contrôle des réseaux : SIMOP propose des solutions adaptées aux contraintes spécifiques de ces secteurs. De l'exploitation agricole au site de transformation agroalimentaire [...] Débourbeur en polyéthylène"
+    },
+    {
+      "champ": "mesures, expertises, description",
+      "url": "https://www.simop.fr/l-ft/solutions/eaux-usees/traitement-des-graisses/separateur-de-graisses/separateur-de-graisses-43",
+      "date": "2026-09-27",
+      "extrait": "Un séparateur de graisses est un appareil destiné à séparer et stocker les matières solides, les graisses et les huiles d'origine animale et végétale contenues dans les eaux ménagères. [...] Matériaux : PRV (2), INOX (4), Polyéthylène (5)"
+    },
+    {
+      "champ": "mesures, secteurs, description",
+      "url": "https://www.simop.fr/solutions/nos-realisations",
+      "date": "2026-09-27",
+      "extrait": "Traitement des eaux usées d'un site agroalimentaire : BIOXYMOP MAX et séparateur de graisses. Un atelier de pâtisserie à Alpiet s'est équipé d'une Bioxymop MAX 30 équivalents habitants et d'un séparateur de graisses taille 3."
+    },
+    {
+      "champ": "description",
+      "url": "https://www.simop.fr/solutions/a-eaux-usees-5/a400-pretraitement-des-graisses-et-fecules-76/a4200-separateurs-graisses-fecules-p-r-v-standards-405/6632-separateur-de-graisses-prv-taille-25-a-100-1932",
+      "date": "2026-09-27",
+      "extrait": "Séparateur de graisses PRV Taille 25 à 100 [...] graisses et les huiles d'origine animale et végétale contenues dans les eaux ménagères [...] Taille : 25, 30, 35, 40, 45, 50, 60, 70, 80, 90, 100. Matériaux : PRV. Norme et certification : NF"
+    },
+    {
+      "champ": "description",
+      "url": "https://www.simop.fr/solutions/a-eaux-usees-5/a400-pretraitement-des-graisses-et-fecules-76/a4400-separateurs-graisses-fecules-inox-standards-407/bixat-separateurs-de-graisses-inox-acc-totale-2540",
+      "date": "2026-09-27",
+      "extrait": "Taille : 1, 2, 4, 5, 6, 8, 10. Matériaux : INOX [...] Le + utilisateur : Résistantce à la corosion. Supporte les effluents chauds"
+    },
+    {
+      "champ": "description",
+      "url": "https://www.simop.fr/l-mm/solutions/eaux-usees/reglementation/traitement-des-graisses/traitement-des-graisses-213",
+      "date": "2026-09-27",
+      "extrait": "Les professionnels des métiers de bouche sont donc contraints de s'équiper de systèmes de traitements adaptés à leur activité. [...] Les séparateurs de graisses sont régis par la norme 1825."
+    },
+    {
+      "champ": "mesures",
+      "url": "https://www.simop.fr/l-mm/solutions/eaux-usees/traitement-des-graisses/traitement-des-graisses-41",
+      "date": "2026-09-27",
+      "extrait": "Les séparateurs de graisses sont des équipements destinés à traiter les eaux susceptibles d'être polluées par des graisses animales et/ou végétales avant d'être rejetées dans le réseau ou dans le milieu naturel."
+    },
+    {
+      "champ": "expertises",
+      "url": "https://www.simop.fr/l-ft/solutions/eaux-pluviales/traitement-eaux-de-ruissellement/separateur-hydrocarbures/separateur-d-hydrocarbures-59",
+      "date": "2026-09-27",
+      "extrait": "Les eaux de ruissellement, lors de leurs parcours sur les surfaces imperméabilisées se chargent, en polluant tels que les hydrocarbures [...] Séparateurs d'hydrocarbures CE (acier), 1,5 à 50L/s, débourbeur V100"
+    },
+    {
+      "champ": "expertises",
+      "url": "https://www.simop.fr/l-ft/solutions/securite-stockage-environnement/retention/bac/bac-255",
+      "date": "2026-09-27",
+      "extrait": "Bac de rétention [...] Bacs de rétention rectangulaires [...] Polyéthylène"
+    },
+    {
+      "champ": "type, description",
+      "url": "https://www.simop.fr/a-propos",
+      "date": "2026-09-27",
+      "extrait": "Spécialiste du traitement des eaux depuis 1975, SIMOP conçoit, fabrique et commercialise des solutions pour l'environnement. [...] SIMOP compte trois sites en France métropolitaine : le siège social basé à Sainte-Mère-Eglise (Manche, Normandie), deux usines implantées au Ham (Manche) et à Montdidier (Somme)."
+    },
+    {
+      "champ": "departements, description",
+      "url": "https://www.simop.fr/outils/installateur-partenaire/devenir-installateur-partenaire",
+      "date": "2026-09-27",
+      "extrait": "Le réseau partenaire SIMOP, ce sont des entreprises à travers toute la France [...] la disponibilité de nos produits dans plus de 2500 points de vente sur toute la France"
+    }
+  ],
+  "date_maj": "2026-09-27"
+}

@@ -1,0 +1,1558 @@
+[
+  {
+    "id": "PREST_HOP_001",
+    "nom": "OFIS, Office d'ingénierie sanitaire (Veolia Ingénierie sanitaire)",
+    "type": "bureau_etudes",
+    "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792070884/Noe%20assets/logos/PREST_HOP_001.png",
+    "siret": "42102587500186",
+    "description": "Bureau d'études qui exerce sous le nom « Ingénierie sanitaire » de Veolia, certifié QB24 par le CSTB pour l'analyse des risques et le diagnostic sanitaire et technique des réseaux d'eau dans le bâtiment, établissements de santé compris, et présent sur tout le territoire national via six agences. Il évalue les risques des réseaux d'eau intérieurs en repérant les facteurs qui dégradent la qualité de l'eau, comme les bras morts, cartographie et diagnostique les réseaux pour la maîtrise du risque légionelle, et réalise des audits d'économies d'eau. Des hôpitaux lui ont confié par marché public un diagnostic des réseaux d'eau sanitaire pour la maîtrise du risque légionelle (CHU de Saint-Étienne), un audit-diagnostic des réseaux d'eau chaude et d'eau froide (GHT Vosges) et la cartographie des usages de l'eau (CHR Metz-Thionville). C'est aussi un organisme de formation certifié Qualiopi.",
+    "expertises": [
+      "Diagnostic légionelle des réseaux d'eau",
+      "Évaluation des risques des réseaux d'eau",
+      "Cartographie des réseaux d'eau",
+      "Audit d'économies d'eau"
+    ],
+    "categories": [
+      "changer_process_pratiques",
+      "suivre_comprendre_maitriser"
+    ],
+    "secteurs": [
+      "hopitaux"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_HOP_001",
+        "roles": [
+          "conseil_etude"
+        ]
+      },
+      {
+        "id": "ACT_AGR_002",
+        "roles": [
+          "conseil_etude"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://assainissement-et-maintenance.veolia.fr/entreprises/besoins/ingenierie-sanitaire"
+      },
+      {
+        "type": "adresse",
+        "value": "Parc du Golf, bâtiment 19, avenue Gautier de la Lauzière, 13080 Aix-en-Provence"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "siret, type, contacts (adresse)",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=office%20d%20ingenierie%20sanitaire&limite_matching_etablissements=20",
+        "date": "2026-10-15",
+        "extrait": "OFFICE D INGENIERIE SANITAIRE (OFIS), siren 421025875, activité 71.12B, état administratif A, siège 42102587500186 21 RUE LA BOETIE 75008 PARIS ; établissement 42102587500152 PARC DU GOLF BAT 19 AV J R G GAUTIER DE LA LAUZIERE 13080 AIX-EN-PROVENCE, état A ; dirigeants : FOURNY Dorothée, Directeur Général ; complements : est_organisme_formation true, est_qualiopi true, liste_id_organisme_formation [11751140192]"
+      },
+      {
+        "champ": "nom, contacts (site_internet), departements, description, expertises",
+        "url": "https://assainissement-et-maintenance.veolia.fr/entreprises/besoins/ingenierie-sanitaire",
+        "date": "2026-10-15",
+        "extrait": "Depuis 1995, l'expertise Ingénierie sanitaire de Veolia est utile aux établissements tertiaires, de santé [...] Dorothée Fourny, Directrice générale Ingénierie sanitaire [...] La certification QB24 délivrée par le Centre scientifique et technique du bâtiment (CSTB) couvre [...] L'analyse des risques des réseaux d'eau dans le bâtiment ; Le diagnostic sanitaire et technique des réseaux d'eau dans le bâtiment [...] (ERP, hôtel, établissement de santé, etc.) [...] L'Ingénierie sanitaire de Veolia est un organisme de formation déclaré auprès de la préfecture de la Région Ile-de-France sous le n°11 75 1140 192. Une couverture nationale. Nos experts en ingénierie sanitaire interviennent sur tout le territoire national via six agences"
+      },
+      {
+        "champ": "description, expertises, mesures (ACT_HOP_001 conseil_etude)",
+        "url": "https://assainissement-et-maintenance.veolia.fr/entreprises/besoins/ingenierie-sanitaire/evaluation-risques-des-reseaux-eau",
+        "date": "2026-10-15",
+        "extrait": "Santé et médico-social : hôpitaux, cliniques, Ehpad. [...] 2. Identification des événements dangereux. Nos experts détectent les facteurs critiques susceptibles de dégrader la qualité sanitaire de l'eau (bras morts, températures inadaptées, matériaux vétustes, etc.). [...] 4. Plan de remédiation et surveillance. Nous proposons des mesures correctives concrètes"
+      },
+      {
+        "champ": "description, expertises, mesures (ACT_HOP_001 conseil_etude)",
+        "url": "https://assainissement-et-maintenance.veolia.fr/entreprises/besoins/ingenierie-sanitaire/maitrise-du-risque-legionelle",
+        "date": "2026-10-15",
+        "extrait": "1. Connaître et diagnostiquer ses réseaux. La première étape consiste à réaliser une cartographie précise de vos réseaux. Nous effectuons des pré-diagnostics et des diagnostics techniques et sanitaires complets pour évaluer les risques de prolifération. [...] Certification CSTB : Veolia est certifiée QB24"
+      },
+      {
+        "champ": "description, expertises, mesures (ACT_AGR_002 conseil_etude)",
+        "url": "https://assainissement-et-maintenance.veolia.fr/entreprises/besoins/ingenierie-sanitaire/economies-deau-maitrisez-vos-consommations-avec-lexpertise-veolia",
+        "date": "2026-10-15",
+        "extrait": "Réduisez votre facture et préservez la ressource avec l'audit économies d'eau de Veolia. Un diagnostic complet et un plan d'action chiffré pour vos sites. [...] 3. Diagnostic technique approfondi [...] inventaire des équipements et la mesure précise des débits et des pressions [...] 5. Élaboration du plan d'action"
+      },
+      {
+        "champ": "mesures (ACT_AGR_002 conseil_etude)",
+        "url": "https://assainissement-et-maintenance.veolia.fr/conseils/performance-et-economies-d-eau-en-environnement-hospitalier",
+        "date": "2026-10-15",
+        "extrait": "Centre hospitalier Santa Chiara (via Siram, filiale de Veolia) [...] 6 bâtiments hospitaliers audités intégralement. Plus de 50 mesures de débit et de pression effectuées [...] LA SOLUTION : un audit technique pour optimiser les consommations [...] définition d'un plan d'actions priorisé incluant une analyse financière (CAPEX/OPEX)"
+      },
+      {
+        "champ": "description, mesures (ACT_HOP_001 conseil_etude)",
+        "url": "https://tabular-api.data.gouv.fr/api/resources/22847056-61df-452d-837d-8b8ceadbfc52/data/?uid__exact=2642003040001420222022S2623500_71321300",
+        "date": "2026-10-15",
+        "extrait": "acheteur_nom: CENTRE HOSPITALIER UNIVERSITAIRE, acheteur_commune_nom: Saint-Étienne, acheteur_departement_code: 42, titulaire_nom: OFFICE D INGENIERIE SANITAIRE, objet: MISSION DE DIAGNOSTIC, EXPERTISE TECHNIQUE ET HYDRAULIQUE DES RESEAUX D'EAU SANITAIRE POUR LA MAITRISE DU RISQUE LEGIONELLE, dateNotification: 2022-10-27"
+      },
+      {
+        "champ": "description",
+        "url": "https://tabular-api.data.gouv.fr/api/resources/22847056-61df-452d-837d-8b8ceadbfc52/data/?uid__exact=2000294450010925-1089333_71321300",
+        "date": "2026-10-15",
+        "extrait": "acheteur_nom: CENTRE HOSPITALIER INTERCOMMUNAL EMILE DURKHEIM, titulaire_nom: OFFICE D INGENIERIE SANITAIRE, objet: Réalisation d'un audit, diagnostic des réseaux de distribution d'Eau Chaude Sanitaire (ECS) et d'Eau Froide (EF) pour différents sites du GHT Vosges et ses annexes, dateNotification: 2025-02-25"
+      },
+      {
+        "champ": "description, mesures (ACT_AGR_002 conseil_etude)",
+        "url": "https://tabular-api.data.gouv.fr/api/resources/22847056-61df-452d-837d-8b8ceadbfc52/data/?uid__exact=2657028030051020250000000445_71354100",
+        "date": "2026-10-15",
+        "extrait": "acheteur_nom: CENTRE HOSPITAL REGION METZ THIONVILLE, titulaire_id: 42102587500186, titulaire_nom: OFFICE D INGENIERIE SANITAIRE, objet: Cartographie des usages de l'eau dans les établissements du CHR METZ-THIONVILLE, dateNotification: 2025-12-09"
+      },
+      {
+        "champ": "logo_url",
+        "url": "https://assainissement-et-maintenance.veolia.fr/apple-icon.png",
+        "date": "2026-10-15",
+        "extrait": "apple-touch-icon 180 x 180 px (symbole Veolia) déclaré dans <link rel=\"apple-touch-icon\"> de la page Ingénierie sanitaire"
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "PREST_HOP_002",
+    "nom": "Aquafluence",
+    "type": "bureau_etudes",
+    "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792070144/Noe%20assets/logos/PREST_HOP_002.png",
+    "siret": "48416655800052",
+    "description": "Bureau d'études en plomberie sanitaire basé à Massy, avec une agence à Surgères, certifié QB24 par le CSTB pour le diagnostic des risques sanitaires des réseaux d'eau du bâtiment. Son audit légionelles et Pseudomonas relève les réseaux de distribution, recense les défauts de conception, d'équipement, de fonctionnement et de maintenance, modélise l'hydraulique des réseaux bouclés et livre un plan d'action. Il a diagnostiqué les réseaux d'eau de centres hospitaliers de l'Oise (Beauvais, Clermont, Noyon, Méru) en appui de l'ARS Hauts-de-France lors de leur inspection, ainsi que ceux de cliniques, et réalise l'analyse des risques EDCH, obligatoire avant le 1er janvier 2029 pour les établissements de santé qui consomment plus de 10 m³ par jour et alimentent plus de 50 personnes. Il propose aussi des formations au risque légionelles certifiées Qualiopi, en session à Malakoff ou dans vos locaux.",
+    "expertises": [
+      "Audit légionelles et Pseudomonas",
+      "Analyse des risques EDCH",
+      "Équilibrage eau chaude sanitaire",
+      "Formation risque légionelles"
+    ],
+    "categories": [
+      "changer_process_pratiques"
+    ],
+    "secteurs": [
+      "hopitaux"
+    ],
+    "departements": [],
+    "mesures": [],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.aquafluence.fr/"
+      },
+      {
+        "type": "tel",
+        "value": "01 60 13 09 69"
+      },
+      {
+        "type": "mail",
+        "value": "administration@aquafluence.fr"
+      },
+      {
+        "type": "adresse",
+        "value": "8 rue René Cassin, 91300 Massy"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "siret, adresse",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=Aquafluence&departement=91",
+        "date": "2026-10-15",
+        "extrait": "AQUAFLUENCE, siret 48416655800052, siège, 1ER ETAGE 8 RUE RENE CASSIN 91300 MASSY, activite_principale 71.12B, etat_administratif A"
+      },
+      {
+        "champ": "contacts",
+        "url": "https://www.aquafluence.fr/nous-contacter",
+        "date": "2026-10-15",
+        "extrait": "Aquafluence Île-de-France, 8 rue René Cassin, 91300 - Massy, 01 60 13 09 69. Véronique Kersten, Secrétariat - administration : administration@aquafluence.fr. Aquafluence Atlantique, Rue Théodore Tournat, 17700 - Surgères"
+      },
+      {
+        "champ": "expertises, description",
+        "url": "https://www.aquafluence.fr/nos-études-légionelles-et-pseudomonas",
+        "date": "2026-10-15",
+        "extrait": "L'audit a pour objectif d'identifier toutes les causes de développement de germes pathogènes (Legionella, Pseudomonas) : causes liées à la conception (ex. mauvais dimensionnement, absence de bouclage ou à l'inverse mise en place d'un nombre excessif de bouclage), causes liées à la maintenance (ex. défaut d'entretien des terminaux). Relevé détaillé des réseaux de distribution avec identification exhaustive des défauts. Modélisation et étude hydraulique du fonctionnement des réseaux bouclés. Proposition de plan d'action pour corriger les défauts. Sanitaires (hôpitaux publics et privés)"
+      },
+      {
+        "champ": "description",
+        "url": "https://www.aquafluence.fr/nos-références",
+        "date": "2026-10-15",
+        "extrait": "ARS Haut-de-France, DT de l'Oise : diagnostic des réseaux d'eau intérieurs de 7 sites hospitaliers dont CH de Beauvais, CH de Clermont, CH de Noyon, Clinique du Parc de Beauvais, CH de Méru sur Oise. Clinique de Champagne, Troyes : diagnostic de la production et du réseau d'eau chaude sanitaire, modélisation du réseau, plan d'action. Hôpital Louis Constant Fleming, Saint Martin. Clinique Mas de Rochet, Castelnau-le-Lez. EHPAD Les Opalines, Le Pradet (83)"
+      },
+      {
+        "champ": "departements",
+        "url": "https://www.aquafluence.fr/nos-références",
+        "date": "2026-10-15",
+        "extrait": "Choix éditorial faute de zone d'intervention publiée : la page références montre des interventions dans de nombreuses régions, dont l'Oise (CH de Beauvais, Clermont, Noyon, Méru), Troyes, Castelnau-le-Lez, Le Pradet (83), Valence (26), Vingt Hanaps (61), Wattignies (59), Paris, Strasbourg et Saint-Martin, d'où departements vide (national)."
+      },
+      {
+        "champ": "expertises, description",
+        "url": "https://www.aquafluence.fr/analysedesrisquessanitaires",
+        "date": "2026-10-15",
+        "extrait": "Aquafluence réalise l'analyse des risques relative aux installations intérieures de distribution d'eau destinée à la consommation humaine (EDCH), exigée par l'arrêté du 30 décembre 2022. Établissements concernés : les établissements de santé [...] ET Consommant plus de 10 m3 en moyenne par jour et alimentant plus de 50 personnes. Au plus tard le 1er janvier 2029"
+      },
+      {
+        "champ": "expertises",
+        "url": "https://www.aquafluence.fr/nos-équilibrages-ecs",
+        "date": "2026-10-15",
+        "extrait": "Optimiser le confort des utilisateurs par une meilleure répartition de température et limiter ainsi le temps d'attente au niveau des différents points d'usage. Limiter le risque de développement de légionelles par un respect des températures minimales fixées par la règlementation (50°C en réseau)"
+      },
+      {
+        "champ": "expertises, description",
+        "url": "https://www.aquafluence.fr/nos-formations-légionelles-généralités",
+        "date": "2026-10-15",
+        "extrait": "AQLEG 1 - Gestion du risque lié aux légionelles dans les réseaux d'eau chaude sanitaire. 500 € HT. Bureaux&Co, 32 rue Guy Moquet, 92240 MALAKOFF. Possibilité de formation en INTRA (dans vos locaux) : nous consulter. Aquafluence Île-de-France a obtenu la certification Qualiopi"
+      },
+      {
+        "champ": "description",
+        "url": "https://www.aquafluence.fr/_files/ugd/bc02ec_d0bd8df0a13944ce883ab76ff711ae43.pdf",
+        "date": "2026-10-15",
+        "extrait": "QB - Réseaux d'eau dans le bâtiment (QB24), N° 25_02_QB24_CSTB_007, titulaire AQUAFLUENCE, 8 rue René Cassin, 91300 Massy. Diagnostics des risques sanitaires et désordres techniques dans les réseaux d'eau sanitaire dans le bâtiment. Date de décision : 16/09/2025"
+      },
+      {
+        "champ": "description",
+        "url": "https://www.aquafluence.fr/_files/ugd/bc02ec_a362331f2af34672ab278cbdee9337bb.pdf",
+        "date": "2026-10-15",
+        "extrait": "I.Cert atteste que AQUAFLUENCE, 8 RUE RENE CASSIN, 1ER ETAGE MASSY 91300, SIREN 484166558, est titulaire de la certification Qualiopi. Actions de formation (AF). Validité 04/04/2026 au 03/04/2029"
+      },
+      {
+        "champ": "logo_url",
+        "url": "https://static.wixstatic.com/media/bc02ec_3b9f7cc479e348e2b11683ef5bf82d33%7Emv2.png/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/bc02ec_3b9f7cc479e348e2b11683ef5bf82d33%7Emv2.png",
+        "date": "2026-10-15",
+        "extrait": "apple-touch-icon du site aquafluence.fr, 180 x 180, même symbole que le logo carré de la page d'accueil"
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "PREST_HOP_003",
+    "nom": "Provence Maintenance Services (VINCI Facilities)",
+    "type": "installateur",
+    "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792070305/Noe%20assets/logos/PREST_HOP_003.png",
+    "siret": "43389978800072",
+    "description": "Entreprise de maintenance des bâtiments installée à Aix-en-Provence, qui exerce sous la marque VINCI Facilities, marque dédiée au facility management et à la maintenance multitechnique. Pour l'Assistance publique des hôpitaux de Marseille, elle est titulaire depuis janvier 2021 d'un marché de 48 mois (6 millions d'euros) de conduite, entretien et maintenance des installations d'eau sanitaire à l'intérieur des bâtiments hospitaliers, qui porte sur la conduite, la maintenance et le suivi des installations de distribution d'eau, de traitement d'eau et d'eau chaude sanitaire, avec une obligation de résultats en disponibilité et en sûreté de fonctionnement. Ses références publiques sont des marchés publics dans les Bouches-du-Rhône, dont l'exploitation, la conduite et la maintenance des installations électriques de l'hôpital d'instruction des armées Laveran à Marseille.",
+    "expertises": [
+      "Maintenance des réseaux d'eau sanitaire",
+      "Maintenance multitechnique de bâtiments",
+      "Maintenance des installations électriques"
+    ],
+    "categories": [
+      "changer_process_pratiques"
+    ],
+    "secteurs": [
+      "hopitaux"
+    ],
+    "departements": [
+      "13"
+    ],
+    "mesures": [],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.vinci-facilities.com/"
+      },
+      {
+        "type": "tel",
+        "value": "04 42 90 55 80"
+      },
+      {
+        "type": "adresse",
+        "value": "685 rue Georges Claude, 13100 Aix-en-Provence"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "siret, adresse, nom",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=Provence%20Maintenance%20Services&departement=13",
+        "date": "2026-10-15",
+        "extrait": "PROVENCE MAINTENANCE SERVICES (VINCI FACILITIES), siret 43389978800072, siège, 685 RUE GEORGES CLAUDE 13100 AIX-EN-PROVENCE, activité 43.22B, etat_administratif A"
+      },
+      {
+        "champ": "description (AP-HM), expertises, departements, secteurs",
+        "url": "https://tabular-api.data.gouv.fr/api/resources/22847056-61df-452d-837d-8b8ceadbfc52/data/?uid__exact=26130008100484201977_71800000",
+        "date": "2026-10-15",
+        "extrait": "DECP consolidées : acheteur CENTRE HOSPITALIER REGIONAL DE MARSEILLE (ASSISTANCE PUBLIQUE-HOPITAUX MARSEILLE), titulaire PROVENCE MAINTENANCE SERVICES (VINCI FACILITIES) (43389978800072), objet « Conduite, entretien et maintenance des installations d'eau sanitaire à l'intérieur des bâtiments hospitaliers », montant 6000000, dureeMois 48, dateNotification 2021-01-07, lieuExecution 13005"
+      },
+      {
+        "champ": "description (marché AP-HM, nature et montant)",
+        "url": "https://tabular-api.data.gouv.fr/api/resources/22847056-61df-452d-837d-8b8ceadbfc52/data/?uid__exact=26130008100484201976_71800000",
+        "date": "2026-10-15",
+        "extrait": "DECP consolidées : même acheteur et même objet, nature Marché, montant 600000, dureeMois 48, dateNotification 2021-01-01, offresRecues 6"
+      },
+      {
+        "champ": "description (périmètre du marché AP-HM)",
+        "url": "https://ted.europa.eu/fr/notice/476224-2020/html",
+        "date": "2026-10-15",
+        "extrait": "Intitulé : Conduite, entretien et maintenance des installations d'eau sanitaire à l'intérieur des bâtiments hospitaliers. Description succincte : Prestations de conduite, de maintenance et suivi des installations de distribution d'eau, de traitement d'eau et eau chaude sanitaire de l'Assistance publique des hôpitaux de Marseille. Il s'agit d'un marché de services à obligation de résultats en termes de disponibilité et de sûreté de fonctionnement. Acheteur : APHM. Numéro de référence : 200018/Jo"
+      },
+      {
+        "champ": "description (marchés publics dans les Bouches-du-Rhône), expertises, departements",
+        "url": "https://tabular-api.data.gouv.fr/api/resources/22847056-61df-452d-837d-8b8ceadbfc52/data/?titulaire_id__exact=43389978800072&page_size=50",
+        "date": "2026-10-15",
+        "extrait": "17 marchés du titulaire 43389978800072, dont CCI Aix-Marseille-Provence « prestations d'exploitation et de maintenance multi technique des installations », CAF des Bouches-du-Rhône « Maintenance des installations électriques », lieux d'exécution dans le 13"
+      },
+      {
+        "champ": "contacts (tel), description (HIA Laveran)",
+        "url": "https://ted.europa.eu/fr/notice/691357-2022/html",
+        "date": "2026-10-15",
+        "extrait": "Lot nº : 3 Intitulé : prestations d'exploitation, de conduite et de maintenance des installations électriques au profit de l'hia Laveran de Marseille. Nom officiel : vinci Facilities - société Provence Maintenance Service Adresse postale : 685, rue Georges Claude Ville : Aix-en-Provence Téléphone : +33 442905580 Adresse internet : http://www.vinci-facilities.com"
+      },
+      {
+        "champ": "contacts (site_internet)",
+        "url": "https://ted.europa.eu/fr/notice/133957-2021/html",
+        "date": "2026-10-15",
+        "extrait": "Section V, nom et adresse du titulaire : Vinci Facilities ù Provence Maintenance Services, 685 rue Georges-Claude, Aix-en-Provence. Internet address: https://www.vinci-facilities.com/"
+      },
+      {
+        "champ": "description (marque VINCI Facilities)",
+        "url": "https://www.vinci-facilities.com/",
+        "date": "2026-10-15",
+        "extrait": "VINCI Facilities est la marque dédiée au facility management et à la maintenance multitechnique"
+      },
+      {
+        "champ": "logo_url",
+        "url": "https://www.vinci-facilities.com/app/themes/ve-uas-marques/resources/assets/images/favicons/apple-touch-icon.png",
+        "date": "2026-10-15",
+        "extrait": "Icône carrée du site (apple-touch-icon, 180 x 180), symbole rouge de VINCI Facilities"
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "PREST_HOP_004",
+    "nom": "Société des Eaux de Marseille",
+    "type": "bureau_etudes",
+    "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792070081/Noe%20assets/logos/PREST_HOP_004.png",
+    "siret": "05780615000488",
+    "description": "Exploitant des réseaux d'eau de la région marseillaise (plus de 5 000 km gérés pour des collectivités), la Société des Eaux de Marseille intervient ici en étude et diagnostic pour les établissements, dont les hôpitaux : recherche de fuites sur réseaux publics ou privés (corrélateurs acoustiques, sectorisation, compteurs connectés) avec rapport de diagnostic et actions correctives, et prévention du risque légionelles sur les réseaux d'eau chaude sanitaire, retenue par l'AP-HM. En 2025, elle a mené avec la Société du Canal de Provence l'étude de réutilisation des eaux de dialyse de l'hôpital de la Conception (AP-HM) : caractérisation du gisement (23 000 m³ par an potentiellement réutilisables), analyses dont les médicaments, et scénarios d'usage chiffrés pour les rejets des osmoseurs. Ancrée en région marseillaise, elle annonce intervenir sans contrainte géographique. Demande par téléphone, par mail ou par formulaire de rappel sur son site.",
+    "expertises": [
+      "Recherche de fuites",
+      "Diagnostic des pertes en eau",
+      "Étude de réutilisation des eaux",
+      "Prévention du risque légionelles"
+    ],
+    "categories": [
+      "suivre_comprendre_maitriser",
+      "valoriser_reut_eaux_non_conventionnelles"
+    ],
+    "secteurs": [
+      "hopitaux"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_HOP_002",
+        "roles": [
+          "conseil_etude"
+        ]
+      },
+      {
+        "id": "ACT_HOP_006",
+        "roles": [
+          "conseil_etude"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.eauxdemarseille.fr"
+      },
+      {
+        "type": "tel",
+        "value": "0 969 39 41 51"
+      },
+      {
+        "type": "mail",
+        "value": "communication@eauxdemarseille.fr"
+      },
+      {
+        "type": "adresse",
+        "value": "78 boulevard Lazer, 13010 Marseille"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "siret, adresse",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=Soci%C3%A9t%C3%A9%20des%20Eaux%20de%20Marseille&departement=13",
+        "date": "2026-10-15",
+        "extrait": "SOCIETE DES EAUX DE MARSEILLE (S.E.M.), siret 05780615000488, siège, 78 BOULEVARD LAZER 13010 MARSEILLE, etat_administratif A"
+      },
+      {
+        "champ": "expertises, mesures (ACT_HOP_002), description",
+        "url": "https://www.eauxdemarseille.fr/nos-offres/recherche-et-detection-de-fuites/",
+        "date": "2026-10-15",
+        "extrait": "Syndics, copropriétés, particuliers, collectivités, régies, industries, centres commerciaux, hôpitaux … tous font appel à nos spécialistes en recherche de fuites. Étude et diagnostic pour la diminution des pertes (identification des anomalies, interprétation des résultats, rapport de diagnostic et proposition d'actions correctives)."
+      },
+      {
+        "champ": "contacts",
+        "url": "https://www.eauxdemarseille.fr/nos-offres/recherche-et-detection-de-fuites/",
+        "date": "2026-10-15",
+        "extrait": "Par téléphone 0 969 39 41 51 (Appel non surtaxé). Par mail (mailto:communication@eauxdemarseille.fr). Laissez vos coordonnées, un expert va vous rappeler."
+      },
+      {
+        "champ": "departements",
+        "url": "https://www.eauxdemarseille.fr/nos-offres/recherche-et-detection-de-fuites/",
+        "date": "2026-10-15",
+        "extrait": "Un expert ou une équipe qui interviennent sans contrainte géographique et d'horaire, sur tous types de sites : industriels, entreprises, particuliers, communes et communautés de communes avec la compétence Eau potable. (Aucune limite de zone publiée : departements vide, choix éditorial.)"
+      },
+      {
+        "champ": "type, description",
+        "url": "https://www.eauxdemarseille.fr/nos-offres/recherche-et-detection-de-fuites/",
+        "date": "2026-10-15",
+        "extrait": "La recherche de fuites est un des métiers phares de la Société des Eaux de Marseille qui gère plus de 5 000 km de réseaux d'eaux pour le compte de collectivités. Étude et diagnostic pour la diminution des pertes (identification des anomalies, interprétation des résultats, rapport de diagnostic et proposition d'actions correctives)."
+      },
+      {
+        "champ": "expertises, description",
+        "url": "https://www.eauxdemarseille.fr/nos-offres/maitrise-des-risques-sanitaires/",
+        "date": "2026-10-15",
+        "extrait": "Son offre de service permet de lutter contre la prolifération des légionelles dans les réseaux d'eau chaude sanitaire pour tous les établissements recevant du public, notamment dans le secteur hospitalier. Pour leur sécurité sanitaire, l'Assistance Publique-Hôpitaux de Marseille ainsi que l'hôpital Européen ont choisi la Société des Eaux de Marseille."
+      },
+      {
+        "champ": "expertises, mesures (ACT_HOP_006), description",
+        "url": "https://www.reset-bfc.fr/fileadmin/mediatheque_reset/actualites/20251113-3eme_rencontre_regionale/20251113_presentation_recuperation_eau_dialyse.pdf",
+        "date": "2026-10-15",
+        "extrait": "Étude de la réutilisation des eaux issues de la dialyse, Hôpital de la Conception. Prestataire : Société des Eaux de Marseille (SEM) et le canal de Provence (SCP). 23 000 m3/an potentiellement réutilisable. Osmoseur/adoucisseur : pour réutiliser ces eaux, il faudrait mettre en place un système de traitement simple de 10 m3/h."
+      },
+      {
+        "champ": "logo_url",
+        "url": "https://www.eauxdemarseille.fr/app/uploads/2022/12/cropped-favicon-eaux-de-marseille-144x144-v5-180x180.png",
+        "date": "2026-10-15",
+        "extrait": "apple-touch-icon du site eauxdemarseille.fr, 180 x 180"
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "PREST_HOP_005",
+    "nom": "SADE, Compagnie générale de travaux hydrauliques",
+    "type": "installateur",
+    "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792070231/Noe%20assets/logos/PREST_HOP_005.png",
+    "siret": "56207750302584",
+    "description": "Entreprise de travaux publics spécialisée dans la construction et la remise en état des réseaux d'eau, filiale du groupe NGE depuis mars 2024 (auparavant Veolia), organisée en huit directions régionales. Elle pose, renouvelle et répare les canalisations d'eau potable et d'assainissement, y compris sur site hospitalier : en 2024, l'AP-HP lui a confié la réhabilitation du collecteur d'assainissement et le renouvellement des canalisations d'eau potable du site Tenon (marché de 699 518 euros), un renouvellement et non une campagne de recherche de fuites. L'offre d'interventions sur fuites (diagnostic des canalisations, recherche et localisation, réparations planifiées ou urgentes 24 heures sur 24) est publiée par sa direction Île-de-France, et la présence dans les Bouches-du-Rhône passe par la direction Sud (agence à Marseille, antenne à Meyreuil), sans établissement SADE ouvert dans ce département au registre Sirene.",
+    "expertises": [
+      "Renouvellement de canalisations d'eau potable",
+      "Réparation des fuites de réseaux",
+      "Réhabilitation de conduites par éclatement",
+      "Réseaux d'assainissement"
+    ],
+    "categories": [
+      "suivre_comprendre_maitriser"
+    ],
+    "secteurs": [
+      "hopitaux"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_HOP_002",
+        "roles": [
+          "conseil_etude",
+          "travaux"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.sade-cgth.fr/"
+      },
+      {
+        "type": "tel",
+        "value": "01 53 75 99 11"
+      },
+      {
+        "type": "adresse",
+        "value": "23-25 avenue du Docteur Lannelongue, 75014 Paris"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "siret, adresse",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=SADE%20compagnie%20generale%20de%20travaux%20hydrauliques&departement=13",
+        "date": "2026-10-15",
+        "extrait": "SADE - COMPAGNIE GENERALE DE TRAVAUX HYDRAULIQUES, siret 56207750302584, siège, 23-25 AV DU DOCTEUR LANNELONGUE 75014 PARIS 14, etat_administratif A, 72 établissements ouverts"
+      },
+      {
+        "champ": "description (aucun établissement ouvert dans le 13)",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=SADE%20COMPAGNIE%20GENERALE%20DE%20TRAVAUX%20HYDRAULIQUES&departement=13&per_page=3",
+        "date": "2026-10-15",
+        "extrait": "SADE - COMPAGNIE GENERALE DE TRAVAUX HYDRAULIQUES, établissement correspondant dans le 13 : 56207750302287, 11 boulevard de la Grande Thumine 13100 Aix-en-Provence, état F, fermé le 2005-03-16. SADERTELEC (792602278), 251 boulevard Mireille Lauze 13010 Marseille, état A"
+      },
+      {
+        "champ": "contacts (tel, adresse), departements",
+        "url": "https://www.sade-cgth.fr/france/",
+        "date": "2026-10-15",
+        "extrait": "SADE 23-25 av. du Docteur Lannelongue 75014 Paris Tél : 01 53 75 99 11. Directions Régionales : DR Centre-Est, DR Grand Est, DR Hauts-de-France, DR Ile-de-France, DR Normandie, DR Ouest, DR Sud, DR Sud-Ouest"
+      },
+      {
+        "champ": "departements",
+        "url": "https://www.sade-cgth.fr/chiffres-cles/",
+        "date": "2026-10-15",
+        "extrait": "100 sites en France"
+      },
+      {
+        "champ": "description (présence dans le 13), expertises",
+        "url": "https://www.sade-cgth.fr/dr-sud/",
+        "date": "2026-10-15",
+        "extrait": "Agence de Marseille 251, boulevard Mireille Lauze 13395 Marseille Tél : 04 91 80 85 57. Antenne de Meyreuil Chemin du Sarret 13590 Meyreuil. La Direction Régionale Sud propose des solutions spécifiques pour la réhabilitation des réseaux par la technique de l'éclatement"
+      },
+      {
+        "champ": "mesures, expertises, description",
+        "url": "https://tabular-api.data.gouv.fr/api/resources/22847056-61df-452d-837d-8b8ceadbfc52/data/?uid__exact=267500452005242539453_45232410",
+        "date": "2026-10-15",
+        "extrait": "DECP consolidées : acheteur ASSISTANCE PUBLIQUE HOPITAUX DE PARIS, titulaire SADE - COMPAGNIE GENERALE DE TRAVAUX HYDRAULIQUES (56207750300125), objet « Réhabilitation du collecteur visitable d'assainissement et renouvellement des canalisations d'eau potable, Site Tenon », montant 699518, type Travaux, notifié le 2024-08-07"
+      },
+      {
+        "champ": "mesures, expertises, description",
+        "url": "https://www.sade-cgth.fr/dr-ile-de-france/interventions-sur-fuites/",
+        "date": "2026-10-15",
+        "extrait": "Effectuer le diagnostic de l'état des canalisations et branchements. Rechercher et localiser les fuites. Réaliser les interventions planifiées ou des réparations urgentes. Mettre en place des moyens d'intervention 24/24 et 7/7"
+      },
+      {
+        "champ": "expertises",
+        "url": "https://www.sade-cgth.fr/eau/eau-potable/",
+        "date": "2026-10-15",
+        "extrait": "Eau potable : Canalisations et branchements. Assainissement : Canalisations"
+      },
+      {
+        "champ": "description (groupe NGE)",
+        "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/BWR/2024/03/FCBWR155433_20240304.pdf",
+        "date": "2026-10-15",
+        "extrait": "Veolia annonce la finalisation de l'acquisition par NGE, groupe indépendant de travaux publics, de SADE-CGTH, sa filiale à 100 % spécialisée dans la construction et la remise en état des réseaux d'eau (communiqué du 4 mars 2024)"
+      },
+      {
+        "champ": "logo_url",
+        "url": "https://www.sade-cgth.fr/wp-content/uploads/2021/01/cropped-favicon_sade-270x270.jpg",
+        "date": "2026-10-15",
+        "extrait": "Icône carrée du site (msapplication-TileImage, 270 x 270)"
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "PREST_HOP_006",
+    "nom": "Adeunis",
+    "type": "equipementier",
+    "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792070135/Noe%20assets/logos/PREST_HOP_006.png",
+    "siret": "43019049600025",
+    "description": "Fabricant de capteurs sans fil (LoRaWAN, Sigfox, cellulaires) installé à Crolles, en Isère. Adeunis ne vend pas le compteur divisionnaire lui-même mais le capteur de télérelève qui l'équipe : son capteur PULSE se branche sur la sortie à impulsions d'un compteur d'eau pour en remonter l'index, surveiller le débit par seuils et déclencher une alarme en cas de fuite. Au CHU de Clermont-Ferrand, ces capteurs relèvent les compteurs d'eau et transmettent les données, via un concentrateur, au système de gestion énergétique. Achat auprès des distributeurs de la marque, ou contact direct avec l'équipe commerciale à défaut de distributeur proche.",
+    "expertises": [
+      "Capteur de télérelève pour compteur d'eau",
+      "Alarme de fuite sur compteur",
+      "Détecteurs de fuite d'eau au sol",
+      "Remontée vers la supervision"
+    ],
+    "categories": [
+      "suivre_comprendre_maitriser"
+    ],
+    "secteurs": [
+      "hopitaux"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_AGR_001",
+        "roles": [
+          "materiel"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.adeunis.com/"
+      },
+      {
+        "type": "tel",
+        "value": "04 76 92 01 62"
+      },
+      {
+        "type": "mail",
+        "value": "sales@adeunis.com"
+      },
+      {
+        "type": "adresse",
+        "value": "283 rue Louis Néel, Parc technologique Pré Roux, 38920 Crolles"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "siret, adresse",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=Adeunis&departement=38",
+        "date": "2026-10-15",
+        "extrait": "ADEUNIS, siret 43019049600025, siège, PARC TECHNOLOGIQUE PRE ROUX 283 RUE LOUIS NEEL 38920 CROLLES, activite_principale 26.30Z, etat_administratif A"
+      },
+      {
+        "champ": "type",
+        "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2023/09/FCACT066115_20230918.pdf",
+        "date": "2026-10-15",
+        "extrait": "Les capteurs cellulaires Adeunis, conçus et fabriqués sur le sol français, utilisent ainsi le module radio nRF9160 de Nordic. Adeunis compte 30 collaborateurs sur 1 site unique en France (près de Grenoble)."
+      },
+      {
+        "champ": "type",
+        "url": "https://www.adeunis.com/societe-iot/",
+        "date": "2026-10-15",
+        "extrait": "Savoir-faire industriel : + de 5 millions de produits vendus, Industrialisation de +100 produits, Production en grandes séries"
+      },
+      {
+        "champ": "mesures (ACT_AGR_001), expertises, description",
+        "url": "https://www.adeunis.com/cas-client-iot-energie-hopital/",
+        "date": "2026-10-15",
+        "extrait": "CHU de Clermont-Ferrand : surveiller et optimiser ses consommations (eau, électricité, température...). PULSE : permettre de remonter des indices de compteur d'eau et surveiller les consommations. Le concentrateur met à disposition, via BacNet, du système de gestion énergétique les données collectées."
+      },
+      {
+        "champ": "mesures (ACT_AGR_001), expertises, description",
+        "url": "https://www.adeunis.com/produit/pulse-compteur-iot/",
+        "date": "2026-10-15",
+        "extrait": "Ce capteur sans fil est conçu pour se connecter facilement aux compteurs d'électricité, d'eau ou thermique. Détection de fraude et de fuite. Surveillance de débit d'un compteur. Déclencher une alarme lorsque le débit dépasse un seuil (haut/bas), lorsqu'une fuite est détectée."
+      },
+      {
+        "champ": "expertises",
+        "url": "https://www.adeunis.com/produit/water-leak-cable-detection-deau/",
+        "date": "2026-10-15",
+        "extrait": "WATER LEAK CABLE : détecter une fuite d'eau au sol, autour d'un objet ou d'un équipement. Position du capteur : autour d'un élément, le long d'un mur, autour d'un tuyau."
+      },
+      {
+        "champ": "contacts",
+        "url": "https://www.adeunis.com/contact/",
+        "date": "2026-10-15",
+        "extrait": "283 Rue Louis Néel, 38920 Crolles, France. Réception / Administration : +33 (0) 4 76 92 01 62. Commerce : sales@adeunis.com"
+      },
+      {
+        "champ": "departements, description",
+        "url": "https://www.adeunis.com/revendeurs/",
+        "date": "2026-10-15",
+        "extrait": "Sélectionnez parmi la liste de pays celui dans lequel vous souhaitez rechercher un distributeur. Si vous ne trouvez pas de distributeur proche de chez vous, n'hésitez pas à nous contacter."
+      },
+      {
+        "champ": "logo_url",
+        "url": "https://www.adeunis-bourse.com/images/template/adeunis-logo-touch-icon.png",
+        "date": "2026-10-15",
+        "extrait": "apple-touch-icon du site investisseurs adeunis-bourse.com, symbole en couleur, 192 x 192"
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "PREST_HOP_007",
+    "nom": "Ubigreen",
+    "type": "solution_numerique",
+    "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792070082/Noe%20assets/logos/PREST_HOP_007.png",
+    "siret": "78891923100076",
+    "description": "Éditeur basé à Labège (31) d'une plateforme en ligne de suivi des consommations multi-fluides (électricité, gaz, chaleur, eau), utilisée par l'AP-HP depuis 2018 sur 38 hôpitaux. Ubigreen ne fournit pas le compteur : elle fournit des modules de télérelève qui se raccordent aux compteurs et sous-compteurs d'eau existants dotés d'une sortie à impulsions, centralise leurs relevés et envoie par courriel ou SMS des alertes sur les consommations d'eau inhabituelles. L'établissement exploite lui-même la plateforme, le premier contact se fait sur rendez-vous avec un expert de l'éditeur.",
+    "expertises": [
+      "Modules de télérelève sur compteurs d'eau",
+      "Suivi du sous-comptage par poste",
+      "Alertes de surconsommation d'eau",
+      "Plateforme de suivi multi-fluides"
+    ],
+    "categories": [
+      "suivre_comprendre_maitriser"
+    ],
+    "secteurs": [
+      "hopitaux"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_AGR_001",
+        "roles": [
+          "materiel"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.ubigreen.com/"
+      },
+      {
+        "type": "mail",
+        "value": "sales@ubigreen.com"
+      },
+      {
+        "type": "tel",
+        "value": "04 42 84 10 35"
+      },
+      {
+        "type": "tel",
+        "value": "05 61 80 70 67"
+      },
+      {
+        "type": "adresse",
+        "value": "1000 L'Occitane, 31670 Labège"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "siret, adresse",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=Ubigreen&departement=31",
+        "date": "2026-10-15",
+        "extrait": "UBIGREEN, siret 78891923100076, siège, 1000 L'OCCITANE 31670 LABEGE, etat_administratif A"
+      },
+      {
+        "champ": "adresse, contacts (tel du siège)",
+        "url": "https://www.ubigreen.com/mentions-legales/",
+        "date": "2026-10-15",
+        "extrait": "UBIGREEN SAS [...] RCS 788 919 231 Siège social : 1000 L'Occitane, 31670 Labège - Tél. : +33 (0)5 61 80 70 67"
+      },
+      {
+        "champ": "contacts (mail, tel)",
+        "url": "https://www.ubigreen.com/contactez-nous/",
+        "date": "2026-10-15",
+        "extrait": "Contact commercial sales@ubigreen.com 04 42 84 10 35"
+      },
+      {
+        "champ": "description, expertises, secteurs (référence hospitalière, eau suivie, prise de rendez-vous)",
+        "url": "https://www.ubigreen.com/management-energetique-sante/",
+        "date": "2026-10-15",
+        "extrait": "Depuis 2018, l'Assistance Publique, Hôpitaux de Paris (AP-HP) s'appuie sur Ubigreen pour maîtriser, piloter et analyser ses consommations multi-fluides (électricité, gaz, chauffage urbain, biomasse, eau) [...] sur 38 hôpitaux répartis en 6 GHU [...] Prendre RDV avec un de nos experts"
+      },
+      {
+        "champ": "expertises, mesures (ACT_AGR_001)",
+        "url": "https://www.ubigreen.com/management-energetique-sante/",
+        "date": "2026-10-15",
+        "extrait": "Télérelève et sous-comptage : des données fiables, site par site et poste par poste (blocs, blanchisserie, ECS…), pour cibler les bons leviers. Alertes sur dérives : dépassement de seuil, consommation d'eau inhabituelle, compteur muet, donnée incohérente : alertes par email ou SMS."
+      },
+      {
+        "champ": "description, expertises, mesures (ACT_AGR_001)",
+        "url": "https://www.ubigreen.com/capteurs-energie/",
+        "date": "2026-10-15",
+        "extrait": "Capteur d'eau : mesurez votre consommation d'eau [...]. Blue Pulse est une solution de télérelève et d'optimisation des réseaux d'eau compatible avec la plupart des compteurs disposant d'un émetteur d'impulsions (intégré ou couplé au compteur)"
+      },
+      {
+        "champ": "description (pas de fourniture du compteur), expertises, mesures (ACT_AGR_001)",
+        "url": "https://www.ubigreen.com/smartmetering-telerelever-consommations-usage/",
+        "date": "2026-10-15",
+        "extrait": "Faut-il remplacer les compteurs existants ? Pas nécessairement. Ubigreen s'intègre aux équipements et compteurs existants et peut les compléter avec des capteurs, dispositifs de télérelève ou passerelles [...] Le sous-comptage permet de mesurer séparément la consommation d'une zone, d'un usage ou d'un équipement."
+      },
+      {
+        "champ": "departements (plateforme en ligne)",
+        "url": "https://www.ubigreen.com/energy-management/",
+        "date": "2026-10-15",
+        "extrait": "La plateforme est accessible en ligne, sans installation d'un logiciel sur chaque poste utilisateur. [...] permet de suivre plusieurs fluides, notamment l'électricité, le gaz, l'eau et les énergies thermiques"
+      },
+      {
+        "champ": "logo_url",
+        "url": "https://www.ubigreen.com/wp-content/uploads/2023/01/cropped-MicrosoftTeams-image-2-300x300.png",
+        "date": "2026-10-15",
+        "extrait": "apple-touch-icon du site ubigreen.com, symbole carré en couleur"
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "PREST_HOP_008",
+    "nom": "Hemotech",
+    "type": "installateur",
+    "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792070065/Noe%20assets/logos/PREST_HOP_008.png",
+    "siret": "34821460200024",
+    "description": "Distributeur de produits pour l'hémodialyse basé à Ramonville-Saint-Agne, membre de Pollet Medical Group, dont le bureau d'études traitement d'eau a fêté son 100e projet de traitement d'eau pour dialyse. Il dimensionne, installe, met en service et maintient les systèmes de traitement d'eau des unités de dialyse, de l'autodialyse à la réhabilitation de CHU de plus de 40 postes, avec phasage et systèmes provisoires pendant les travaux, et forme les utilisateurs et les techniciens. Il ne fabrique pas les osmoseurs, produits en Allemagne par HERCO Wassertechnik et distribués en France par Hemotech, et l'offre s'établit après étude du site ou passe par la centrale d'achat UGAP.",
+    "expertises": [
+      "Dimensionnement du traitement d'eau de dialyse",
+      "Installation et mise en service d'osmoseurs",
+      "Maintenance et télésurveillance",
+      "Formation des utilisateurs et techniciens"
+    ],
+    "categories": [
+      "ameliorer_efficacite_hydrique"
+    ],
+    "secteurs": [
+      "hopitaux"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_HOP_004",
+        "roles": [
+          "conseil_etude",
+          "travaux",
+          "materiel",
+          "formation"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://hemotech.fr/"
+      },
+      {
+        "type": "tel",
+        "value": "05 61 75 27 27"
+      },
+      {
+        "type": "mail",
+        "value": "info@hemotech.fr"
+      },
+      {
+        "type": "adresse",
+        "value": "19 avenue de l'Europe, CS 62270, 31522 Ramonville-Saint-Agne Cedex"
+      },
+      {
+        "type": "linkedin",
+        "value": "https://fr.linkedin.com/company/hemotech"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "siret, adresse",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=Hemotech&departement=31",
+        "date": "2026-10-15",
+        "extrait": "HEMOTECH, SIRET 34821460200024, siège, CS 62270 19 AVENUE DE L'EUROPE 31520 RAMONVILLE-SAINT-AGNE, état administratif A"
+      },
+      {
+        "champ": "description, expertises, mesures",
+        "url": "https://hemotech.fr/bureau-detudes-traitement-deau/",
+        "date": "2026-10-15",
+        "extrait": "Elle intègre le dimensionnement de systèmes de traitement d'eau pour la dialyse, l'installation, la mise en service et la maintenance associée. [...] L'assurance d'une continuité de service avec des phasages et des systèmes provisoires pendant l'installation. [...] La formation et assistance aux utilisateurs."
+      },
+      {
+        "champ": "description, mesures",
+        "url": "https://hemotech.fr/bureau-detudes-traitement-deau/",
+        "date": "2026-10-15",
+        "extrait": "Nous intervenons sur des grandes structures : création de clinique, réhabilitation de CHU (plus de 40 postes de dialyse), comme sur des petites entités telles les autodialyses. [...] Formation utilisateurs & techniciens"
+      },
+      {
+        "champ": "description, type, mesures",
+        "url": "https://hemotech.fr/bureau-detudes-traitement-deau/",
+        "date": "2026-10-15",
+        "extrait": "Osmoseur. Dispositif médical destiné au traitement des eaux pour dialyse. [...] Fabriqué en Allemagne par HERCO Wassertechnik GmbH. Distribué en France par HEMOTECH SAS."
+      },
+      {
+        "champ": "description",
+        "url": "https://hemotech.fr/bureau-detudes-traitement-deau/",
+        "date": "2026-10-15",
+        "extrait": "une étude du site en amont de l'étude et anticipation des contraintes [...] Le référencement de nos systèmes de traitement d'eau par la centrale d'achat UGAP facilite les démarches des ingénieurs biomédicaux."
+      },
+      {
+        "champ": "description, departements",
+        "url": "https://hemotech.fr/le-100eme/",
+        "date": "2026-10-15",
+        "extrait": "Nous sommes fiers de fêter notre 100ème projet de traitement d'eau pour dialyse. [...] une offre complète dédiée à la dialyse, déployée sur toute la France métropolitaine et les DROM-COM."
+      },
+      {
+        "champ": "contacts",
+        "url": "https://hemotech.fr/bureau-detudes-traitement-deau/",
+        "date": "2026-10-15",
+        "extrait": "Hemotech Toulouse 19 avenue de l'Europe CS 62270 31522 Ramonville St Agne Cedex Tel : 05 61 75 27 27 [...] info@hemotech.fr"
+      },
+      {
+        "champ": "contacts",
+        "url": "https://hemotech.fr/",
+        "date": "2026-10-15",
+        "extrait": "Lien LinkedIn du site : https://fr.linkedin.com/company/hemotech"
+      },
+      {
+        "champ": "logo_url",
+        "url": "https://hemotech.fr/wp-content/uploads/2021/03/cropped-favicon-192x192.png",
+        "date": "2026-10-15",
+        "extrait": "Icône du site hemotech.fr (192 x 192 px)"
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "PREST_HOP_009",
+    "nom": "Fresenius Medical Care France",
+    "type": "installateur",
+    "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792070110/Noe%20assets/logos/PREST_HOP_009.png",
+    "siret": "65202528900099",
+    "description": "Filiale française du groupe allemand Fresenius Medical Care, fournisseur de produits de dialyse. Son site de production de L'Arbresle fabrique des dialyseurs et des concentrés, aucune page consultée ne situe la fabrication de ses systèmes de traitement d'eau, d'où le type installateur retenu pour cette activité de fourniture et de pose. Elle est l'un des deux titulaires, avec Vantive SAS, du marché UniHA 2024-2028 des centrales de traitement d'eau d'hémodialyse, qui couvre la fourniture (composants de boucle, osmoseurs, tuyauterie), l'installation, la mise en service, la qualification, la maintenance et la formation, et annonce des économies d'eau avec certains osmoseurs adaptant le débit à la demande. Les établissements publics adhérents d'UniHA y accèdent par la centrale d'achat, en offre complète ou à la carte.",
+    "expertises": [
+      "Centrale de traitement d'eau de dialyse",
+      "Installation et mise en service",
+      "Maintenance et qualification d'installation"
+    ],
+    "categories": [
+      "ameliorer_efficacite_hydrique"
+    ],
+    "secteurs": [
+      "hopitaux"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_HOP_004",
+        "roles": [
+          "materiel",
+          "travaux"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://freseniusmedicalcare.com/fr-fr/"
+      },
+      {
+        "type": "tel",
+        "value": "01 49 84 78 00"
+      },
+      {
+        "type": "mail",
+        "value": "info.france@freseniusmedicalcare.com"
+      },
+      {
+        "type": "adresse",
+        "value": "Parc Médicis, 47 avenue des Pépinières, 94832 Fresnes Cedex"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "siret, adresse",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=Fresenius%20Medical%20Care%20France&departement=94",
+        "date": "2026-10-15",
+        "extrait": "FRESENIUS MEDICAL CARE FRANCE, siret 65202528900099, siège, 47 AVENUE DES PEPINIERES 94260 FRESNES, etat_administratif A"
+      },
+      {
+        "champ": "contacts",
+        "url": "https://freseniusmedicalcare.com/fr-fr/contact/",
+        "date": "2026-10-15",
+        "extrait": "Parc Médicis, 47 avenue des Pépinières, 94832 Fresnes Cedex. Tél. : +33 (0)1 49 84 78 00"
+      },
+      {
+        "champ": "description (groupe), contacts (mail)",
+        "url": "https://freseniusmedicalcare.com/fr-fr/mentions-legales/",
+        "date": "2026-10-15",
+        "extrait": "Publié par : Fresenius Medical Care AG & Co. KGaA, Représenté par son partenaire général Fresenius Medical Care Management AG, Hof an der Saale [...] Immatriculée au Registre du Commerce et des Sociétés de Créteil, sous le numéro B 652 025 289. Email : info.france@freseniusmedicalcare.com (lien mailto identique)"
+      },
+      {
+        "champ": "description (activité)",
+        "url": "https://freseniusmedicalcare.com/fr-fr/a-propos-de-nous/fresenius-medical-care-en-france/",
+        "date": "2026-10-15",
+        "extrait": "le principal fournisseur de produits de dialyse, comme les générateurs de dialyse ou les dialyseurs"
+      },
+      {
+        "champ": "description (site de L'Arbresle, type)",
+        "url": "https://freseniusmedicalcare.com/fr-fr/a-propos-de-nous/smad-production-site/",
+        "date": "2026-10-15",
+        "extrait": "Productions du site : concentrés secs bi_b_ag 4008 et 5008, concentré acide Granudial, plus de 30 millions de dialyseurs fabriqués tous les ans, fibres en polysulfone, composants plastiques ; aucun système de traitement d'eau cité"
+      },
+      {
+        "champ": "description, expertises, mesures, categories",
+        "url": "https://www.uniha.org/marche/traitement-deau-dialyse-m-2937",
+        "date": "2026-10-15",
+        "extrait": "Centrale de traitement d'eau pour service d'hémodialyse et d'hémodiafiltration : fourniture, installation, mise en service et maintenance [...] composants de la boucle, osmoseurs, tuyauterie ainsi que les prestations de qualifications, la maintenance, la formation, les travaux et les prestations de bureau d'étude [...] Economie sur les consommations en eau avec certains osmoseurs adaptant le débit à la demande [...] Les fournisseurs titulaires des lots FRESENIUS MEDICAL CARE FRANCE VANTIVE SAS. Début de marché 24 janvier 2024, Fin de marché 23 janvier 2028 [...] Osmoseurs très efficients permettant des rejets et une perte en eau minimum. Offre complète ou à la carte. Moyens d'accès : Centrale d'achats"
+      },
+      {
+        "champ": "departements, description (accès UniHA)",
+        "url": "https://www.uniha.org/qui-sommes-nous/uniha-union-hopitaux-achats",
+        "date": "2026-10-15",
+        "extrait": "UniHA est le groupement national de référence pour la mutualisation des achats des hôpitaux publics."
+      },
+      {
+        "champ": "logo_url",
+        "url": "https://freseniusmedicalcare.com/content/experience-fragments/fresenius-medical-care/fr/fr/site/header/master/_jcr_content/root/freseniuscontainer_c/image.coreimg.svg/1744275039691/fmc-logo.svg",
+        "date": "2026-10-15",
+        "extrait": "Logo du bandeau du site freseniusmedicalcare.com/fr-fr (l'icône carrée du site n'existe qu'en 16 px)"
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "PREST_HOP_010",
+    "nom": "EnveneO Conseil",
+    "type": "bureau_etudes",
+    "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792070075/Noe%20assets/logos/PREST_HOP_010.png",
+    "siret": "91047429500011",
+    "description": "Cabinet de conseil indépendant spécialisé dans les procédés de blanchisserie, basé dans l'Essonne, qui intervient en France et en Europe. Il réalise des diagnostics des process (traitement d'eau, lavage et séchage, vapeur) avec bilans eau, vapeur et énergie et plan d'actions chiffré, et assure l'assistance à maîtrise d'ouvrage des projets de blanchisserie (faisabilité, rédaction du CCTP, analyse des offres, suivi de chantier). Son intervention se limite à la blanchisserie : le site ne mentionne ni la stérilisation ni le recyclage des eaux de rinçage, et la mission menée pour la blanchisserie hospitalière du CHU de Nantes a un résultat publié qui porte sur le gaz, pas sur l'eau. Il propose aussi des formations sur mesure aux process et équipements, dispensées par l'organisme ITENOR. Prise de contact directe pour échanger sur les besoins ou planifier un diagnostic.",
+    "expertises": [
+      "Bilans eau, vapeur et énergie",
+      "Diagnostic process de blanchisserie",
+      "AMO projets de blanchisserie",
+      "Gestion de l'eau et de l'énergie"
+    ],
+    "categories": [
+      "ameliorer_efficacite_hydrique",
+      "suivre_comprendre_maitriser"
+    ],
+    "secteurs": [
+      "hopitaux"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_HOP_005",
+        "roles": [
+          "conseil_etude"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.enveneo.fr/"
+      },
+      {
+        "type": "tel",
+        "value": "06 86 26 59 18"
+      },
+      {
+        "type": "mail",
+        "value": "jpasquet@enveneo.fr"
+      },
+      {
+        "type": "adresse",
+        "value": "17 square du Tertre, 91070 Bondoufle"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "siret, adresse",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=EnveneO%20Conseil",
+        "date": "2026-10-15",
+        "extrait": "ENVENEO CONSEIL, siret 91047429500011, siège, 17 SQUARE DU TERTRE 91070 BONDOUFLE, activité 71.12B, état administratif A"
+      },
+      {
+        "champ": "contacts, departements, description",
+        "url": "https://www.enveneo.fr/contact/",
+        "date": "2026-10-15",
+        "extrait": "Adresse 17 square du Tertre, 91 070 BONDOUFLE. Téléphone 06 86 26 59 18. Email jpasquet@enveneo.fr. Zone d'intervention France et Europe. Contactez-nous pour échanger sur vos besoins ou planifier un diagnostic."
+      },
+      {
+        "champ": "description",
+        "url": "https://www.enveneo.fr/",
+        "date": "2026-10-15",
+        "extrait": "expert reconnu du process de blanchisserie et de la gestion de l'eau et de l'énergie depuis plus de 25 ans. [...] Le CHU de Nantes a engagé une démarche ambitieuse de réduction de ses consommations en gaz fossile sur sa blanchisserie hospitalière"
+      },
+      {
+        "champ": "description, expertises, mesures (conseil_etude)",
+        "url": "https://www.enveneo.fr/diagnostic/",
+        "date": "2026-10-15",
+        "extrait": "EnveneO Conseil réalise des diagnostics complets des performances de vos process (traitement d'eau, traitement des rejets, process lavage et séchage, production de vapeur,...) [...] Bilans eau / vapeur / énergie [...] séchoirs, calandres, tunnels, chaufferie, échangeurs, production d'eau de process."
+      },
+      {
+        "champ": "description, expertises, mesures (conseil_etude)",
+        "url": "https://www.enveneo.fr/assistance-a-maitrise-douvrage/",
+        "date": "2026-10-15",
+        "extrait": "EnveneO Conseil intervient en AMO spécialisé, garantissant la cohérence technique et énergétique du projet à chaque étape. [...] Rédaction du CCTP"
+      },
+      {
+        "champ": "expertises, description",
+        "url": "https://www.enveneo.fr/formation/",
+        "date": "2026-10-15",
+        "extrait": "EnveneO Conseil propose des formations sur mesure, centrées sur vos équipements et votre réalité d'exploitation. [...] Gestion de l'eau et de l'énergie. Les formations sont dispensées via la société ITENOR organisme de formation certifié QUALIOPI."
+      },
+      {
+        "champ": "logo_url",
+        "url": "https://www.enveneo.fr/wp-content/uploads/2025/10/cropped-favicon-180x180.png",
+        "date": "2026-10-15",
+        "extrait": "apple-touch-icon du site enveneo.fr, symbole goutte 180 x 180"
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "PREST_HOP_011",
+    "nom": "JENSEN France",
+    "type": "installateur",
+    "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792070120/Noe%20assets/logos/PREST_HOP_011.png",
+    "siret": "63200026100057",
+    "description": "Filiale française du groupe international JENSEN, d'origine danoise, spécialiste des équipements de blanchisserie industrielle, basée à Épône (Yvelines). Elle fournit et installe en France les tunnels de lavage, presses et calandres conçus et fabriqués par les usines du groupe, et assure le service et les pièces détachées. Elle a équipé les blanchisseries du CHU de Besançon (tunnel UniQ et presse) et du centre hospitalier de Cambrai (tunnel de 12 modules), retenue sur appel d'offres, en achat ou en location avec option d'achat.",
+    "expertises": [
+      "Tunnels de lavage économes en eau",
+      "Presses d'extraction d'eau",
+      "Calandres de linge plat",
+      "Service et pièces détachées"
+    ],
+    "categories": [
+      "ameliorer_efficacite_hydrique"
+    ],
+    "secteurs": [
+      "hopitaux"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_HOP_005",
+        "roles": [
+          "materiel",
+          "travaux"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.jensen-group.com/fr"
+      },
+      {
+        "type": "mail",
+        "value": "info-fr@jensen-group.com"
+      },
+      {
+        "type": "tel",
+        "value": "+33 1 39 29 76 04"
+      },
+      {
+        "type": "adresse",
+        "value": "Avenue de la Mauldre, CS20605, ZA de la Couronne des Prés, 78680 Épône"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "siret, adresse",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=JENSEN%20France&departement=78",
+        "date": "2026-10-15",
+        "extrait": "JENSEN FRANCE S.A.S., siret 63200026100057, siège, ZA DE LA COURONNE DES PRES AVENUE DE LA MAULDRE 78680 EPONE, activité 46.69C, etat_administratif A"
+      },
+      {
+        "champ": "contacts, departements",
+        "url": "https://www.jensen-group.com/fr/contact/FR",
+        "date": "2026-10-15",
+        "extrait": "Sales: JENSEN FRANCE S.A.S., Avenue de la Mauldre CS20605 Z.A. de la Couronne des Prés, FR-78680 Epône (Paris), info-fr@jensen-group.com, +33 1 39 29 76 04. Service: service-fr@jensen-group.com. Spares: stock-fr@jensen-group.com"
+      },
+      {
+        "champ": "description, type",
+        "url": "https://www.jensen-group.com/fr/jensen-votre-partenaire",
+        "date": "2026-10-15",
+        "extrait": "Le groupe JENSEN est capable de planifier, développer, fabriquer, installer et entretenir tout équipement. Les usines des régions commerciales développent, produisent et livrent une gamme complète de produits JENSEN aux clients, grâce à un réseau mondial de centres de vente et de service"
+      },
+      {
+        "champ": "description",
+        "url": "https://www.jensen-group.com/fr/jensen-votre-partenaire/historique",
+        "date": "2026-10-15",
+        "extrait": "Le groupe JENSEN trouve son origine dans une société de services et de fabrication, fondée en 1937 à Bornholm, une île danoise de la Mer baltique"
+      },
+      {
+        "champ": "description, expertises, mesures",
+        "url": "https://www.entretien-textile.fr/index.php/actualite/blanchisseries-industrielles-hospitalieres/le-chu-de-besancon-retient-jensen-pour-son-train-de-lavage",
+        "date": "2026-10-15",
+        "extrait": "C'est Jensen qui a emporté l'offre comprenant un tunnel Uniq 11 modules de 50 kg et une presse de 40 bars. L'installation s'est faite avec professionnalisme sur trois jours, courant mai. La consommation d'eau et d'énergie correspond bien à la baisse attendue."
+      },
+      {
+        "champ": "description, expertises, mesures",
+        "url": "https://www.entretien-textile.fr/actualite/fournisseurs/un-nouveau-tunnel-de-lavage-au-ch-de-cambrai",
+        "date": "2026-10-15",
+        "extrait": "Ce tunnel de 12 modules de 35 kg vient en remplacement d'un tunnel Arista installé en 2005. Le tunnel a été acquis sous la forme d'une AOL, une location avec option d'achat à cinq ans. Nous devrions également gagner en consommation d'eau et d'énergie. Une calandre alpha de Jensen."
+      },
+      {
+        "champ": "expertises, mesures",
+        "url": "https://www.jensen-group.com/fr/products/washroom-technology/washing/tunnel-de-lavage-uniq-de-jensen",
+        "date": "2026-10-15",
+        "extrait": "Consommation d'eau de seulement 1,6 l/kg confirmée pour la version BlueEdition. Une consommation d'eau minimale grâce à un processus de rinçage breveté et un concept exceptionnel de récupération de l'eau."
+      },
+      {
+        "champ": "expertises",
+        "url": "https://www.jensen-group.com/fr/sante",
+        "date": "2026-10-15",
+        "extrait": "Le programme de lavage idéal pour les hôpitaux et les maisons de repos. Presse d'extraction d'eau SEPPlus. Une faible consommation d'énergie, d'eau et de produits chimiques"
+      },
+      {
+        "champ": "logo_url",
+        "url": "https://www.jensen-group.com/_assets/2755d902211d761c5a1a13cf6afcffc9/Images/favicon.ico",
+        "date": "2026-10-15",
+        "extrait": "Favicon du site jensen-group.com, symbole J carré, 48 x 48 px"
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "PREST_HOP_012",
+    "nom": "Ecolab",
+    "type": "equipementier",
+    "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792070120/Noe%20assets/logos/PREST_HOP_012.png",
+    "siret": "38174333500220",
+    "description": "Ecolab SNC, basée à Bagneux (Hauts-de-Seine), est l'entité française du groupe américain Ecolab, dont le siège mondial est à Saint Paul (Minnesota). Pour les blanchisseries, elle fournit des produits lessiviels avec matériel de dosage et des systèmes de réutilisation de l'eau des tunnels de lavage propres à la marque. Le groupe déclare trois sites de fabrication en France sans préciser ce qui y est produit, et rien n'indique que ces systèmes y soient fabriqués. À la blanchisserie hospitalière du GCS Santalys (La Garde, Var), son système Water Optimizer Ultimate, installé en avril 2024 sur deux tunnels, filtre l'eau de lavage et la réinjecte dans le circuit : le tunnel 1 est passé de 3,2 à 1,8 litre par kilo de linge et le tunnel 2 de 5,8 à 3,2 litres, et une autre évaluation, présentée par le CTTN, chiffre l'économie à environ 11 700 m³ par an. Elle répond aux appels d'offres des hôpitaux, par exemple pour la fourniture de produits lessiviels avec matériel de dosage à la blanchisserie du centre hospitalier de la Côte basque.",
+    "expertises": [
+      "Recyclage de l'eau des tunnels",
+      "Filtration des eaux de lavage",
+      "Produits lessiviels et dosage"
+    ],
+    "categories": [
+      "ameliorer_efficacite_hydrique"
+    ],
+    "secteurs": [
+      "hopitaux"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_HOP_005",
+        "roles": [
+          "materiel"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://fr-fr.ecolab.com/locations/ecolab-france-paris"
+      },
+      {
+        "type": "mail",
+        "value": "Textile.France@ecolab.com"
+      },
+      {
+        "type": "tel",
+        "value": "01 49 69 67 44"
+      },
+      {
+        "type": "adresse",
+        "value": "10 avenue Aristide Briand, 92220 Bagneux"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "siret, adresse",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=Ecolab&departement=92",
+        "date": "2026-10-15",
+        "extrait": "ECOLAB SNC, siren 381743335, siret 38174333500220, siège, 10 AVENUE ARISTIDE BRIAND 92220 BAGNEUX, activité 46.75Z, etat_administratif A"
+      },
+      {
+        "champ": "contacts, description, expertises",
+        "url": "https://www.boamp.fr/telechargements/FILES/PDF/2024/04/24-40342.pdf",
+        "date": "2026-10-15",
+        "extrait": "Avis d'attribution n° 24-40342, acheteur Centre hospitalier de la côte basque : La fourniture de produits lessiviels avec mise à disposition de matériel de dosage pour une blanchisserie hospitalière. Lauréat ECOLAB SNC, 38174333500220, 10 avenue aristide briand, Bagneux, Textile.France@ecolab.com, 0149696744"
+      },
+      {
+        "champ": "description",
+        "url": "https://www.ecolab.com/en-us/about/locations/ecolab-global-headquarters",
+        "date": "2026-10-15",
+        "extrait": "Ecolab Global Headquarters, 1 Ecolab Place, St. Paul, MN 55102-2233"
+      },
+      {
+        "champ": "description, expertises, mesures",
+        "url": "https://achat-logistique.info/logistique/blanchisseries-la-reutilisation-des-eaux-petit-eldorado/",
+        "date": "2026-10-15",
+        "extrait": "La blanchisserie du GCS Santalys, implantée à La Garde dans le Var : chute impressionnante depuis l'installation d'un système Water Optimizer Ultimate (WOU) d'Ecolab en avril 2024. Le dispositif filtre l'eau de lavage et la réinjecte dans le circuit. La consommation atteignait 3,2 litres par kilo entre janvier et mars pour le tunnel 1, elle a décru à 1,8 litre entre mai et décembre. Celle du second tunnel est passée de 5,8 à 3,2 litres dans le même temps."
+      },
+      {
+        "champ": "description, mesures",
+        "url": "https://achat-logistique.info/logistique/blanchisserie-wou-la-solution-qui-fait-gagner-des-sous/",
+        "date": "2026-10-15",
+        "extrait": "Le système WOU pour « Water optimizer ultimate » a permis de réduire de 44% la consommation d'eau. 11.700 m3 d'eau ont été économisés par an. Les résultats ont été présentés par le CTTN, Institut de recherche sur l'entretien et le nettoyage"
+      },
+      {
+        "champ": "expertises",
+        "url": "https://www.ecolab.com/offerings/aquamiser",
+        "date": "2026-10-15",
+        "extrait": "Designed specifically for tunnel washers. Filters solids and lint from the selected wastewater. Manages reuse water at both the front and back of the tunnel."
+      },
+      {
+        "champ": "contacts, description",
+        "url": "https://fr-fr.ecolab.com/locations/ecolab-france-paris",
+        "date": "2026-10-15",
+        "extrait": "Ecolab SNC, 10 Avenue Aristide Briand 92220 BAGNEUX, France. Ecolab est un leader mondial dans le domaine des solutions et services liés à l'eau, à l'hygiène et à la prévention des infections"
+      },
+      {
+        "champ": "departements, description, type",
+        "url": "https://fr-fr.ecolab.com/news/2026/06/choose-france-summit",
+        "date": "2026-10-15",
+        "extrait": "Présente en France depuis plus de 40 ans. L'entreprise dispose de 3 sites de fabrication, 2 de centres de R&D, et de 4 bureaux en France, emploie près de 2 000 collaborateurs au niveau national. Ecolab snc, 10 avenue Aristide Briand, 92 220 BAGNEUX. Choix éditorial pour departements vide (national) : implantation nationale déclarée et marchés hospitaliers attestés hors du siège (64 par l'avis BOAMP, 83 à Santalys), aucune page ne détaille une zone d'intervention."
+      },
+      {
+        "champ": "logo_url",
+        "url": "https://www.ecolab.com/favicon.ico",
+        "date": "2026-10-15",
+        "extrait": "Favicon du site ecolab.com, symbole étoile bleu, 256 x 256 px"
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "PREST_HOP_013",
+    "nom": "Matachana France",
+    "type": "installateur",
+    "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792070100/Noe%20assets/logos/PREST_HOP_013.png",
+    "siret": "34172237900045",
+    "description": "Matachana France SA, établie à Créteil, est la filiale française du groupe espagnol Matachana (siège à Castelldefels, près de Barcelone), qui conçoit et fabrique des équipements de stérilisation hospitalière. Elle fournit aux services de stérilisation des laveurs-désinfecteurs et des cabines de lavage (gamme MAT LD), dont la cabine MAT LD2000 annoncée avec récupération de l'eau du dernier rinçage, et le service technique du groupe assure l'entretien des équipements en France. Au CHU de Rennes, le passage à des laveurs-désinfecteurs Matachana a fait baisser la consommation moyenne de 225 à 124,5 L d'eau par cycle, soit environ 1 550 m³ économisés par an sur les laveurs et 2 150 m³ sur les lave-cabines (poster SF2S 2024).",
+    "expertises": [
+      "Laveurs-désinfecteurs de stérilisation",
+      "Cabines de lavage",
+      "Stérilisateurs à vapeur",
+      "Maintenance des équipements"
+    ],
+    "categories": [
+      "ameliorer_efficacite_hydrique"
+    ],
+    "secteurs": [
+      "hopitaux"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_HOP_005",
+        "roles": [
+          "materiel"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.matachana.com/fr/"
+      },
+      {
+        "type": "tel",
+        "value": "01 41 94 17 80"
+      },
+      {
+        "type": "adresse",
+        "value": "ZAC Europarc, 5 allée des Saules, 94043 Créteil"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "siret, adresse",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=Matachana%20France&departement=94",
+        "date": "2026-10-15",
+        "extrait": "MATACHANA FRANCE SA, siret 34172237900045, siège, EUROPARC 5 ALLEE DES SAULES 94000 CRETEIL, activité 33.20D, etat_administratif A"
+      },
+      {
+        "champ": "contacts",
+        "url": "https://www.matachana.com/fr/service-clientele/",
+        "date": "2026-10-15",
+        "extrait": "MATACHANA FRANCE. Zac Europarc 5 Allée des Saules, 94043 Créteil, France. Tel. +33 01 41 94 17 80"
+      },
+      {
+        "champ": "description (groupe espagnol, filiale France)",
+        "url": "https://www.matachana.com/fr/matachana-group/",
+        "date": "2026-10-15",
+        "extrait": "Carrer Copèrnic, 8 08860 Castelldefels | Barcelona. La conception, fabrication, commercialisation [...] par le biais de bureaux en Espagne, Allemagne, France, Argentine et Indonésie."
+      },
+      {
+        "champ": "expertises, description",
+        "url": "https://www.matachana.com/fr/healthcare/",
+        "date": "2026-10-15",
+        "extrait": "Healthcare (CSSD) : stérilisateurs à vapeur (Miniclaves, S100, SC500, S1000, S2000), laveurs-désinfecteurs (MAT LD60/90 à LD1000), cabines de lavage et thermodésinfection (LD2000)"
+      },
+      {
+        "champ": "mesures (ACT_HOP_005), description",
+        "url": "https://www.matachana.com/fr/mat-ld2000/",
+        "date": "2026-10-15",
+        "extrait": "Réduction de la consommation d'énergie, d'eau et de produits chimiques. Jusqu'à 60% de moins. Efficacité améliorée. Récupération jusqu'à 90% de l'eau du dernier rinçage."
+      },
+      {
+        "champ": "expertises (maintenance), departements, description",
+        "url": "https://www.matachana.com/fr/support-et-services/",
+        "date": "2026-10-15",
+        "extrait": "le vaste réseau de succursales du SAV NATIONAL en Espagne, en France, en Allemagne [...] nous proposons un soutien technique direct aux clients et aux hôpitaux"
+      },
+      {
+        "champ": "mesures (ACT_HOP_005), description (référence hospitalière)",
+        "url": "https://www.sf2s-sterilisation.fr/wp-content/uploads/2024/11/PO-53.pdf",
+        "date": "2026-10-15",
+        "extrait": "Pharmacie usage intérieur CHU Rennes, secteur stérilisation. Comparaison 2021/2023 des consommations d'eau [...] sur les laveurs Matachana (nouveaux) et Steelco (anciens). Consommation moyenne : 225L eau/cycle (2021), 124,5L eau/cycle (2023). Economie d'eau : laveur-désinfecteurs 1 554 m3, laves cabines 2 146 m3."
+      },
+      {
+        "champ": "logo_url",
+        "url": "https://www.matachana.com/wp-content/uploads/2020/12/cropped-fabicon-192x192.png",
+        "date": "2026-10-15",
+        "extrait": "icône du site matachana.com (rel=icon 192 x 192, même image que l'apple-touch-icon), symbole bleu foncé"
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "PREST_HOP_014",
+    "nom": "Sanivap (groupe Oxy'Pharm)",
+    "type": "equipementier",
+    "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792070180/Noe%20assets/logos/PREST_HOP_014.png",
+    "siret": "39956733800062",
+    "description": "Fabricant de générateurs de vapeur pour le bionettoyage et la désinfection des surfaces, conçus et fabriqués à Lozanne (Rhône), dispositifs médicaux de classe IIa conformes à la norme NF T72-110. En établissement de santé, la vapeur réduit l'usage des produits chimiques : la clinique Saint-Augustin de Bordeaux l'emploie pour son bionettoyage, et une présentation du CPias consacrée au dispositif Sanivap rapporte qu'au CH de Compiègne-Noyon, où l'achat de neuf nettoyeurs vapeur a été subventionné à 25 % par l'agence de l'eau, la vapeur remplace le détergent-désinfectant pour l'entretien des incubateurs. Les appareils s'achètent avec une formation des agents incluse et obligatoire, et la fiche technique de 2019 mentionne un service après-vente et des contrats de maintenance. Le même retour de Compiègne-Noyon nuance le bilan : formation approfondie et accompagnement initial indispensables, échec dans les chambres de sortie des patients en précautions complémentaires faute d'appropriation, et réservoirs d'eau des appareils tous trouvés contaminés, d'où une vidange régulière à prévoir.",
+    "expertises": [
+      "Générateurs de bionettoyage vapeur",
+      "Désinfection des surfaces à la vapeur",
+      "Formation des agents au bionettoyage",
+      "Maintenance des appareils"
+    ],
+    "categories": [
+      "agir_rejets_qualite"
+    ],
+    "secteurs": [
+      "hopitaux"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_HOP_007",
+        "roles": [
+          "materiel"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.oxypharm.net/sanivap-bionettoyage/"
+      },
+      {
+        "type": "mail",
+        "value": "info@sanivap.fr"
+      },
+      {
+        "type": "tel",
+        "value": "04 37 22 55 55"
+      },
+      {
+        "type": "adresse",
+        "value": "391 rue Louis Arnal, ZAC des Prés Secs, 69380 Lozanne"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "siret, adresse",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=39956733800062",
+        "date": "2026-10-15",
+        "extrait": "SANIVAP, siret 39956733800062, ZAC DES PRES SECS 391 RUE LOUIS ARNAL 69380 LOZANNE, activite_principale 28.29B, etat_administratif A (siège 39956733800054 à Champigny-sur-Marne, actif)"
+      },
+      {
+        "champ": "type, description (fabrication en France, Lozanne, groupe), expertises",
+        "url": "https://careers.sanivap.fr",
+        "date": "2026-10-15",
+        "extrait": "Conçus et fabriqués 100 % en France, les équipements SANIVAP bénéficient du label Origine France Garantie. Basée à Lozanne, près de Lyon, Sanivap est spécialisée dans la conception et la fabrication de générateurs vapeur dédiés au nettoyage et à la désinfection des surfaces."
+      },
+      {
+        "champ": "description (classe IIa, NF T72-110, formation incluse et obligatoire), expertises, contacts (site_internet)",
+        "url": "https://www.oxypharm.net/sanivap-bionettoyage/",
+        "date": "2026-10-15",
+        "extrait": "Les appareils Sanivap sont des dispositifs médicaux de la Classe IIa. Organisme notifié GMED 0459. Pour toute acquisition de nos appareils, la formation à l'utilisation de nos dispositifs et aux bonnes pratiques du bionettoyage est inclue et obligatoire."
+      },
+      {
+        "champ": "description (service après-vente, contrats de maintenance), expertises, departements",
+        "url": "https://frenchhealthcare.fr/wp-content/uploads/2025/04/FT-SP400-Juillet-2019.pdf",
+        "date": "2026-10-15",
+        "extrait": "Le dispositif SP400 assure le bionettoyage des surfaces au quotidien : locaux, mobilier, équipements, dispositifs médicaux. SAV assuré par SANIVAP et réseau national agréé. Possibilité de contrats de maintenance. CE Dispositif Médical, ISO 13485 : 2016 (logo Origine France Garantie en en-tête)"
+      },
+      {
+        "champ": "contacts (mail, tel, adresse)",
+        "url": "https://www.oxypharm.net/wp-content/uploads/2022/08/doc_sanivap_v2.pdf",
+        "date": "2026-10-15",
+        "extrait": "391 rue Louis Arnal, ZAC des Prés Secs, 69380 Lozanne, France, www.oxypharm.net, info@sanivap.fr, +33 4 37 22 55 55. Établissements de santé, hôpitaux, cliniques, EHPAD. Fabrication 100 % française"
+      },
+      {
+        "champ": "mesures (ACT_HOP_007 materiel), description (CH Compiègne-Noyon : incubateurs, subvention agence de l'eau, limites)",
+        "url": "https://www.cpias.chu-lille.fr/wp-content/uploads/sites/15/2023/10/231017-Dr-Boris-JOLIBOIS-Topo_Sanivap.pdf",
+        "date": "2026-10-15",
+        "extrait": "Titre du fichier : Topo_Sanivap. Achat de 9 nettoyeurs vapeur. Subvention Agence de l'eau (25%). Incubateurs : en remplacement de l'utilisation de Détergent-Désinfectant. Limites : nécessité d'une formation approfondie et d'un accompagnement initial des utilisateurs. Chambres de sortie, patients en précautions complémentaires : Echec, pas d'appropriation. 100% des réservoirs contaminés, 25% des chaudières contaminés, vapeur 100% conforme."
+      },
+      {
+        "champ": "mesures (ACT_HOP_007 materiel), description (clinique Saint-Augustin)",
+        "url": "https://www.elsan.care/fr/presse/la-clinique-saint-augustin-de-bordeaux-le-bio-nettoyage-cest-sans-chimie",
+        "date": "2026-10-15",
+        "extrait": "le dispositif vapeur de Sanivap ; la réduction notable d'utilisation de produits chimiques (communiqué du 15/03/2022)"
+      },
+      {
+        "champ": "logo_url",
+        "url": "https://www.oxypharm.net/wp-content/uploads/2021/10/logo_sanivap_XL.png",
+        "date": "2026-10-15",
+        "extrait": "Logo Sanivap (335 x 100 px) de la page Sanivap du site du groupe Oxy'Pharm, faute de site sanivap.fr en service"
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "PREST_HOP_015",
+    "nom": "EnvirobatBDM",
+    "type": "association",
+    "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792070078/Noe%20assets/logos/PREST_HOP_015.png",
+    "siret": "48051220100033",
+    "description": "Association basée à Marseille, centre de ressources régional du bâtiment durable en Provence-Alpes-Côte d'Azur. Le projet régional « sobriété en eau et réduction des micropolluants » des établissements sanitaires et médico-sociaux, lauréat de l'appel à manifestation d'intérêt « opérations groupées sectorielles » de l'agence de l'eau Rhône Méditerranée Corse, est porté par l'ARS PACA et, d'après l'offre d'emploi publiée par l'association, animé par EnvirobatBDM avec un cofinancement de l'ARS PACA et de la Région Sud. Le dispositif est en cours de mise en place : l'association a annoncé en 2026 le recrutement d'un conseiller chargé de réaliser des diagnostics et des accompagnements individuels pour réduire les consommations d'eau et les micropolluants issus des activités, puis d'aider les établissements les plus avancés à déposer leurs demandes d'aide aux travaux auprès de l'agence de l'eau. Contactez l'association pour savoir si l'accompagnement est ouvert à votre établissement.",
+    "expertises": [
+      "Diagnostic eau en établissement de santé",
+      "Réduction des micropolluants",
+      "Dossiers d'aide agence de l'eau"
+    ],
+    "categories": [
+      "suivre_comprendre_maitriser",
+      "agir_rejets_qualite"
+    ],
+    "secteurs": [
+      "hopitaux"
+    ],
+    "departements": [
+      "04",
+      "05",
+      "06",
+      "13",
+      "83",
+      "84"
+    ],
+    "mesures": [
+      {
+        "id": "ACT_AGR_002",
+        "roles": [
+          "conseil_etude"
+        ]
+      },
+      {
+        "id": "ACT_HOP_007",
+        "roles": [
+          "conseil_etude"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://envirobatbdm.eu/"
+      },
+      {
+        "type": "mail",
+        "value": "contact@envirobatbdm.eu"
+      },
+      {
+        "type": "tel",
+        "value": "04 95 04 30 44"
+      },
+      {
+        "type": "adresse",
+        "value": "Résidence Le Phocéen, 32 rue de Crimée, 13003 Marseille"
+      },
+      {
+        "type": "linkedin",
+        "value": "https://www.linkedin.com/company/envirobatbdm/"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "siret, adresse",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=48051220100033",
+        "date": "2026-10-15",
+        "extrait": "ENVIROBAT-BDM, siret 48051220100033, siège, LE PHOCEEN BAT. C 32 RUE DE CRIMEE 13003 MARSEILLE, nature juridique 9220, état administratif A"
+      },
+      {
+        "champ": "contacts",
+        "url": "https://envirobatbdm.eu/contact",
+        "date": "2026-10-15",
+        "extrait": "contact@envirobatbdm.eu. Tel : 04 95 043 044. Résidence Le Phocéen 32 rue de Crimée 13003 Marseille. Lien Linkedin : https://www.linkedin.com/company/envirobatbdm/"
+      },
+      {
+        "champ": "description, expertises, mesures, departements",
+        "url": "https://envirobatbdm.eu/sites/default/files/2026-05/2026_EvBDM_Conseiller-CTEES_V2.pdf",
+        "date": "2026-10-15",
+        "extrait": "Offre d'emploi : Conseiller·ère en transition énergétique et écologique en santé (CTEES) [...] EnvirobatBDM a été retenu pour mobiliser, informer et accompagner les établissements de santé de la région Sud dans la réduction de leurs consommations d'eau, des micropolluants issus de leurs activités [...] Réaliser des diagnostics et accompagnements individuels dans les établissements sanitaires et médico-sociaux de la région PACA. Identifier les établissements les plus matures et les accompagner dans le dépôt de demandes d'aide aux travaux auprès de l'Agence de l'eau RMC. [...] Contrat : CDD 18 MOIS. Prise de fonction : dès que possible."
+      },
+      {
+        "champ": "description",
+        "url": "https://envirobatbdm.eu/sites/default/files/2026-05/2026_EvBDM_Conseiller-CTEES_V2.pdf",
+        "date": "2026-10-15",
+        "extrait": "EnvirobatBDM est le centre de ressources régional dédié au bâtiment durable en Provence-Alpes-Côte d'Azur. [...] Le projet est co-financé par l'ARS PACA et la région Sud, et se déroule en coordination étroite avec le réseau régional des Conseillers Transition Énergétique et Écologique en Santé (CTEES)"
+      },
+      {
+        "champ": "description (porteur du projet), departements",
+        "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2026-03/liste_des_laureats_ami_sectoriel.pdf",
+        "date": "2026-10-15",
+        "extrait": "Agence régionale de santé (ARS) PACA | PACA | Sobriété en eau, Réduction des micropolluants dispersés | Établissements de santé et médico-sociaux"
+      },
+      {
+        "champ": "logo_url",
+        "url": "https://envirobatbdm.eu/sites/default/files/favicon.ico",
+        "date": "2026-10-15",
+        "extrait": "Icône carrée 200 x 200 du site (symbole bdm en couleur)"
+      }
+    ],
+    "date_maj": "2026-10-15"
+  }
+]

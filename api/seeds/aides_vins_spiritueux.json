@@ -1,0 +1,651 @@
+[
+  {
+    "id": "AIDE_VIN_001",
+    "nom": "Aide aux investissements des entreprises vitivinicoles (appel à projets FranceAgriMer)",
+    "financeur": "FranceAgriMer (plan stratégique national de la PAC, FEAGA)",
+    "logo_url": null,
+    "type": "subvention",
+    "taux": "30 % des dépenses éligibles pour une PME, 15 % pour une ETI, 7,5 % pour une grande entreprise, bonifiés de 5, 2,5 ou 1,25 points pour les investissements environnementaux (bonifications non cumulables), soit au plus 35 %, 17,5 % ou 8,75 %",
+    "plafond": "Dépenses éligibles d'au moins 10 000 € par demande. Plafonds par poste : 800 €/m² en construction, 400 €/m² en rénovation, 40 000 € pour l'aménagement du caveau et de la salle de dégustation, études limitées à 10 % des dépenses",
+    "description": "Subvention européenne gérée par FranceAgriMer pour moderniser l'outil de vinification, de la réception des vendanges à la commercialisation des vins, conditionnement et stockage compris. Plusieurs équipements classés « économie d'eau » y reçoivent la bonification « investissements environnementaux » : nettoyage en place (NEP), cuves inox à finition recuit brillant, électropolie ou polimiroir, cuves béton à revêtement époxy et rénovation de leur revêtement, pressoirs à lavage intégré, équipements de traitement de l'eau par UV, ultrafiltration, nanofiltration ou osmose inverse, et aménagement des sols associant forme de pente, caniveaux et revêtement. Le dégrilleur automatique, classé « réduction des déchets », est aussi bonifié : il retient les matières organiques avant les eaux usées. Les groupes de froid, la maîtrise des températures et les systèmes de récupération de chaleur sont également éligibles.",
+    "eligibilite": "Entreprises vitivinicoles, individuelles ou sociétaires, qui produisent ou commercialisent des produits de la vigne (vins, vins de liqueur, mousseux, moûts), ainsi que les organisations de producteurs, associations de producteurs à activité lucrative et organisations interprofessionnelles. Il faut un numéro CVI ou un agrément d'entrepositaire agréé, un SIRET actif et des obligations sociales à jour au 31 décembre 2025 ; un exploitant individuel doit être agriculteur à titre principal et inscrit à l'AMEXA. Sont notamment exclus les SCI et GFA non exploitants, les syndicats, les indivisions, les œnothèques et bars à vin, les commerces de détail de boissons en magasin spécialisé, les producteurs de raisins qui ne vinifient pas et les entreprises en difficulté. Les investissements doivent être neufs, réalisés en France, et ne pas renouveler à l'identique un équipement existant.",
+    "categories": [
+      "ameliorer_efficacite_hydrique",
+      "agir_rejets_qualite"
+    ],
+    "secteurs": [
+      "vins_spiritueux"
+    ],
+    "departements": [],
+    "agences": [],
+    "mesures": [
+      "ACT_VIN_003",
+      "ACT_VIN_004",
+      "ACT_VIN_006"
+    ],
+    "infos_complementaires": [
+      {
+        "type": "info",
+        "texte": "L'appel à projets 2026 est clos : les dépôts étaient ouverts du 10 février au 24 mars 2026 à midi, avec une période supplémentaire du 27 mars au 3 avril 2026 à midi après une panne du téléservice. Un appel à projets avait déjà été ouvert en 2025 : surveillez la page de FranceAgriMer pour le prochain (situation au 28 septembre 2026)."
+      },
+      {
+        "type": "avertissement",
+        "texte": "L'aide ne concerne que les produits de la vigne (vins, vins de liqueur, mousseux, moûts, vinaigre de vin) et les investissements spécifiques à leur production, de la réception des vendanges à la commercialisation. Les eaux-de-vie ne figurent pas dans cette liste : les alambics et le refroidissement d'une distillerie ne sont pas finançables par ce dispositif. Pour le refroidissement, seuls les groupes de froid et la maîtrise des températures des vendanges, moûts et vins en cave sont éligibles."
+      },
+      {
+        "type": "avertissement",
+        "texte": "Tout début d'exécution avant la date d'ouverture de l'appel à projets (arrhes, acompte, avance, facture payée) rend le devis ou la facture concerné inéligible. Les études préalables et les devis payants ne comptent pas comme début d'exécution."
+      },
+      {
+        "type": "avertissement",
+        "texte": "Pour les effluents, seul le dégrilleur automatique est finançable (avec le broyeur de rafles) : les équipements de stockage et de traitement des effluents sont exclus, tout comme les surfaces de bâtiment dédiées au stockage de marc ou d'autres déchets et les aires de lavage extérieures. Sont aussi exclus les adoucisseurs et systèmes de filtration d'eau qui ne sont pas accessoires d'un investissement éligible, les réseaux d'eau hors projet de construction, et les nettoyeurs autres que les nettoyeurs à eau ou à vapeur spécifiques aux fûts et aux cuves et le NEP."
+      },
+      {
+        "type": "avertissement",
+        "texte": "La construction et la rénovation de bâtiments, dont l'aménagement des sols en pente avec caniveaux, ne sont éligibles que pour les demandeurs bénéficiant de la bonification « nouvel installé » ou « projet structurant ». Cette restriction ne vise pas la création ou la rénovation d'un caveau de vente de vin, qui relève de règles propres."
+      },
+      {
+        "type": "avertissement",
+        "texte": "Si les demandes dépassent l'enveloppe (95 millions d'euros en 2026), un coefficient stabilisateur réduit toutes les aides, sauf celles des nouveaux installés. En 2025, ce coefficient a été de 65,32 %. Aucune autre aide financée par l'Union européenne ne peut compléter le projet, sous peine de rejet."
+      },
+      {
+        "type": "info",
+        "texte": "La demande se dépose sur le téléservice Viti-investissement après inscription au portail des téléservices de FranceAgriMer, qui demande un délai de validation. Une demande restée en statut provisoire n'est pas déposée. Pour l'appel 2026, la demande de paiement est à déposer avant le 15 mai 2028. Pour bénéficier de la bonification, les dépenses environnementales doivent être isolées sur les devis et factures."
+      },
+      {
+        "type": "ressource",
+        "texte": "Page de l'appel à projets 2026 sur le site de FranceAgriMer",
+        "lien": "https://www.franceagrimer.fr/aides/investissement-vitivinicole-appel-projets-2026"
+      },
+      {
+        "type": "ressource",
+        "texte": "Décision INTV-GPASV-2026-06 et ses annexes (liste des dépenses éligibles, dépenses inéligibles, investissements environnementaux)",
+        "lien": "https://www.franceagrimer.fr/sites/default/files/2026-02/INTV-GPASV-2026-06_AAP26%20aide%20aux%20investissements%20vitivinicole%20et%20annexes.pdf"
+      },
+      {
+        "type": "ressource",
+        "texte": "Téléservice Viti-investissement",
+        "lien": "https://www.franceagrimer.fr/e-services/viti-investissement"
+      },
+      {
+        "type": "ressource",
+        "texte": "Annuaire des services territoriaux de FranceAgriMer pour l'investissement vitivinicole",
+        "lien": "https://www.franceagrimer.fr/sites/default/files/2026-02/Annuaire%20_Services%20Territoriaux%20FAM_investissement%20viti.pdf"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "financeur",
+        "url": "https://www.franceagrimer.fr/sites/default/files/2026-02/INTV-GPASV-2026-06_AAP26%20aide%20aux%20investissements%20vitivinicole%20et%20annexes.pdf",
+        "date": "2026-09-28",
+        "extrait": "Objet : programme de soutien aux investissements des entreprises du secteur vitivinicole dans le cadre du plan stratégique national. Article 1 : Cette aide financée par le Fonds européen agricole de garantie (FEAGA) ... FranceAgriMer, en tant qu'organisme payeur des aides FEAGA."
+      },
+      {
+        "champ": "taux",
+        "url": "https://www.franceagrimer.fr/sites/default/files/2026-02/INTV-GPASV-2026-06_AAP26%20aide%20aux%20investissements%20vitivinicole%20et%20annexes.pdf",
+        "date": "2026-09-28",
+        "extrait": "Article 3, tableau 2 : PME 30% +5% ... 35% ; ETI 15% +2,5 ... 17,5% ; GE 7,5% +1,25% ... 8,75%. Les bonifications ne sont pas cumulables."
+      },
+      {
+        "champ": "plafond",
+        "url": "https://www.franceagrimer.fr/sites/default/files/2026-02/INTV-GPASV-2026-06_AAP26%20aide%20aux%20investissements%20vitivinicole%20et%20annexes.pdf",
+        "date": "2026-09-28",
+        "extrait": "Article 2.2.3 : Le montant total de dépenses éligibles au sein de la demande d'aide doit être supérieur ou égal à 10 000 €. Tableau 1 : construction 800 €/m², rénovation 400 €/m². Article 2.2.2 : aménagement des caveaux plafonné à 40 000 € ; frais d'études plafonnés à 10 %."
+      },
+      {
+        "champ": "description, eligibilite",
+        "url": "https://www.franceagrimer.fr/sites/default/files/2026-02/INTV-GPASV-2026-06_AAP26%20aide%20aux%20investissements%20vitivinicole%20et%20annexes.pdf",
+        "date": "2026-09-28",
+        "extrait": "Article 2.1.1 : entreprises vitivinicoles ... produisant ou commercialisant les produits visés à l'annexe VII, partie II ... disposer d'un numéro CVI ou d'un agrément EA ; disposer d'un numéro SIRET actif ; être à jour de leurs obligations sociales ... au 31 décembre 2025 ; exploitants à titre individuel : être agriculteur à titre principal, être inscrit à l'AMEXA. Article 2.1.2 : ne sont pas éligibles les SCI non exploitantes et GFA non exploitants, les syndicats, les indivisions, les œnothèques et bars à vin, les commerçants de détail de boissons en magasin spécialisé, les producteurs de raisins qui ne vinifient pas, les entreprises en difficulté. Article 2.2.1 : biens neufs, ne pas renouveler à l'identique."
+      },
+      {
+        "champ": "mesures (ACT_VIN_003, ACT_VIN_004, ACT_VIN_006), description",
+        "url": "https://www.franceagrimer.fr/sites/default/files/2026-02/INTV-GPASV-2026-06_AAP26%20aide%20aux%20investissements%20vitivinicole%20et%20annexes.pdf",
+        "date": "2026-09-28",
+        "extrait": "Annexe 5 : NEP ... Economie d'énergie et économie d'eau ... permet d'optimiser les consommations en eau ; Cuves inox recuit brillant, électropolies ou polimiroir ... économies d'eau ; Cuves béton avec revêtement epoxy ; Equipement de traitement de l'eau par UV, ultrafiltration, nanofiltration ou osmose inverse ... Economie d'eau ; Dégrilleur automatique Réduction des déchets : Permet d'éliminer les déchets des eaux usées ; Aménagement du sol (forme de pente, caniveaux, couverture) ... réduction de la consommation d'eau ; Système de récupération d'énergie ou de chaleur. Annexe 1 : Groupes de froid ; Maîtrise des températures des vendanges, moûts et vins."
+      },
+      {
+        "champ": "infos_complementaires (exclusions)",
+        "url": "https://www.franceagrimer.fr/sites/default/files/2026-02/INTV-GPASV-2026-06_AAP26%20aide%20aux%20investissements%20vitivinicole%20et%20annexes.pdf",
+        "date": "2026-09-28",
+        "extrait": "Annexe 2, point 20 : Les réseaux (eau, oxygène, azote, SO2...) non inclus dans un projet de construction de bien immeuble ; point 26 g : Les équipements de traitement des déchets et effluents ... hors broyeurs à rafles et dégrilleurs automatiques ; p : adoucisseurs et systèmes de filtration d'eau ; q : nettoyeurs et laveurs hors Nettoyeurs à eau ou à vapeur spécifiques aux fûts et aux cuves et Nettoyage en place. Annexe 2bis : 8. Stockage de marc ou autres déchets ; 10. Aire de lavage extérieure."
+      },
+      {
+        "champ": "infos_complementaires (début d'exécution, bâtiments, enveloppe, cumul, démarche)",
+        "url": "https://www.franceagrimer.fr/sites/default/files/2026-02/INTV-GPASV-2026-06_AAP26%20aide%20aux%20investissements%20vitivinicole%20et%20annexes.pdf",
+        "date": "2026-09-28",
+        "extrait": "5.3 : Tout début d'exécution du projet antérieur à cette date rend tout le devis ou la facture concerné inéligible. 2.2.2 a) Construction de biens immeubles (hors création ou rénovation d'un caveau de vente de vin) et b) Rénovation de biens immeubles (hors création ou rénovation d'un caveau de vente de vin) : éligibilité restreinte aux demandeurs bénéficiant des bonifications définies aux articles 3.2.1 et 3.2.2. 5.2 : enveloppe fixée à 95 millions d'euros ... coefficient stabilisateur ... à l'exception des demandes avec bonification nouvel installé. Article 4 : Aucune autre aide financée par l'Union européenne ne peut compléter le financement. 6.1 : demandes de paiement avant le 15 mai 2028."
+      },
+      {
+        "champ": "infos_complementaires (calendrier 2026, appel clos)",
+        "url": "https://www.franceagrimer.fr/aides/investissement-vitivinicole-appel-projets-2026",
+        "date": "2026-09-28",
+        "extrait": "Une période supplémentaire de dépôt des demandes d'aide est ouverte du vendredi 27 mars 2026 midi au vendredi 3 avril 2026 midi. / La date limite de dépôt des demandes d'aide accompagnées de toutes les pièces justificatives est fixée au 24 mars 2026 à 12h00 (midi)."
+      },
+      {
+        "champ": "infos_complementaires (appel 2025, coefficient stabilisateur)",
+        "url": "https://www.franceagrimer.fr/aides/investissement-vitivinicole-appel-projets-2025",
+        "date": "2026-09-28",
+        "extrait": "L'aide estimée s'est éleve à 161 M€ (AAP 2024 : 179 M€) => un coefficient stabilisateur de 65,322423% a été appliqué pour respecter l'enveloppe fixée à 110 M€"
+      },
+      {
+        "champ": "infos_complementaires (distillation hors champ)",
+        "url": "https://www.franceagrimer.fr/sites/default/files/2026-02/INTV-GPASV-2026-06_AAP26%20aide%20aux%20investissements%20vitivinicole%20et%20annexes.pdf",
+        "date": "2026-09-28",
+        "extrait": "Article 2.2.1 a) : Les investissements éligibles sont utilisés pour la production de vin, pour les étapes allant de la réception des vendanges à la commercialisation. Annexe 6 : Les catégories de produits de la vigne sont celles figurant aux points 1) à 17) (vin ... vinaigre de vin). Annexe 2, point 26 : Les investissements non spécifiques à la production des produits visés à l'annexe VII, partie II."
+      }
+    ],
+    "date_maj": "2026-09-28"
+  },
+  {
+    "id": "AIDE_VIN_002",
+    "nom": "Aide au traitement des effluents vinicoles (agence de l'eau Seine-Normandie, programme Eau, climat et biodiversité 2025-2030)",
+    "financeur": "Agence de l'eau Seine-Normandie",
+    "logo_url": null,
+    "type": "subvention",
+    "taux": "Taux maximaux autorisés par l'encadrement européen des aides d'État, règle du chapitre B du programme (dépollution des acteurs économiques). Aucun taux propre aux effluents vinicoles n'est publié.",
+    "plafond": "Assiette limitée par un prix de référence calculé sur les flux de pollution concernés par le projet (MES, DBO5, DCO, azote, phosphore) ; pour la réduction des pollutions, ce prix de référence ne s'applique pas aux projets zéro rejet. Si l'aide est accordée au titre du régime de minimis : 300 000 € d'aides publiques au maximum sur les trois derniers exercices fiscaux, toutes aides publiques cumulées. Projets de moins de 10 000 € TTC non aidés (3 500 € TTC pour les études des acteurs économiques).",
+    "description": "L'agence de l'eau Seine-Normandie finance, au titre du chapitre B de son 12e programme et avec un formulaire de demande propre à la viniculture, les projets de traitement des rejets d'un établissement vinicole : traitement autonome par stockage et épandage agricole, traitement autonome par stockage aéré individuel, prétraitement et raccordement au réseau d'assainissement de la collectivité, ou travaux d'aménagement en vue d'une épuration hors site sur un dispositif de traitement collectif. Le formulaire détaille les travaux de collecte, le prétraitement (dégrillage, tamisage, neutralisation), les capacités de stockage étanches et le matériel d'aération, et chiffre la modification du réseau de collecte interne, les raccordements, le relevage et le prétraitement, ainsi que les études, honoraires et la maîtrise d'œuvre.",
+    "eligibilite": "Entreprises vinicoles du bassin Seine-Normandie, pour le traitement des rejets de leur établissement : simple mise en conformité, mise aux normes lors d'une restructuration ou d'une extension, transfert d'activité ou création d'un nouveau site. Ne sont pas éligibles les projets faisant l'objet d'un arrêté de mise en demeure ; le demandeur certifie que l'entreprise n'est pas en difficulté au sens européen.",
+    "categories": [
+      "agir_rejets_qualite"
+    ],
+    "secteurs": [
+      "vins_spiritueux"
+    ],
+    "departements": [],
+    "agences": [
+      "AESN"
+    ],
+    "mesures": [
+      "ACT_VIN_006"
+    ],
+    "infos_complementaires": [
+      {
+        "type": "avertissement",
+        "texte": "Aucun commencement d'exécution (ordre de service, bon de commande, devis signé) ne doit avoir lieu avant le dépôt d'une demande d'aide formelle auprès de l'agence, sauf autorisation de démarrage anticipé. L'accusé de réception de la demande ne vaut pas décision d'attribution."
+      },
+      {
+        "type": "info",
+        "texte": "Le formulaire l'exige : au terme du projet, la collecte des eaux usées vinicoles doit être exhaustive et séparée de la collecte des eaux pluviales, et les écoulements liés notamment au stockage du marc doivent être maîtrisés."
+      },
+      {
+        "type": "avertissement",
+        "texte": "Création d'un site (installation nouvelle, soit une nouvelle implantation géographique depuis moins de 2 années) : seules les études et les travaux d'épuration qui vont au-delà des exigences de la réglementation applicable sont éligibles, et l'assiette se limite à ces dépenses."
+      },
+      {
+        "type": "info",
+        "texte": "Pièces demandées selon la filière : pour l'épandage, le cas échéant, le contrat de prestation d'épandage, de mise à disposition des parcelles et une attestation que les terrains utilisés sont validés par une étude préalable ; pour un établissement raccordé au réseau communal, l'autorisation ou la convention de rejet ; pour une entreprise soumise à un arrêté ICPE, l'arrêté préfectoral ou l'attestation de déclaration. Le formulaire demande aussi la consommation d'eau totale annuelle et celle liée à l'activité pressurage."
+      },
+      {
+        "type": "info",
+        "texte": "Démarche en trois étapes : présenter le projet au chargé d'opérations de votre direction territoriale, télécharger le formulaire de demande d'aide vinicole, puis déposer le dossier complet sur Démarche Numérique. En septembre 2026, l'agence indiquait : « Pour avoir l'assurance d'une instruction en 2026, vous devez déposer vos dossiers complets de demande d'aide sur Démarche Numérique avant le 30 septembre. » Vérifiez la date de l'année en cours."
+      },
+      {
+        "type": "info",
+        "texte": "En Champagne, le Comité Champagne conseille les établissements sur la collecte et le traitement des effluents ; dans le contrat d'animation 2013-2018 passé avec l'agence, il les assistait aussi pour constituer les dossiers de demande d'aide. Dans le bilan des aides signées en 2025, les dossiers de la Marne et de l'Aisne portent le libellé « CIVC », ceux de l'Yonne non."
+      },
+      {
+        "type": "retour_experience",
+        "texte": "Le bilan des aides signées publié par l'agence au 10 juillet 2025 compte dix subventions portant explicitement sur les effluents vinicoles, de 11 386 € à 123 395 €, pour l'amélioration de la collecte, les réseaux de collecte et le stockage-épandage, attribuées à des entreprises vinicoles de la Marne, de l'Aisne et de l'Yonne.",
+        "lien": "https://www.eau-seine-normandie.fr/sites/public_file/deliberations-commission-des-aides/2025/Bilan_des_aides_signees_juin_2025.pdf",
+        "lien_label": "Bilan des aides signées au 10 juillet 2025"
+      },
+      {
+        "type": "ressource",
+        "texte": "Formulaire de demande d'aide VINICULTURE (chapitre B du programme 2025-2030)",
+        "lien": "https://www.eau-seine-normandie.fr/sites/public_file/12e-programme/FORMULAIRES/12eme_Formulaire_aide_INDUSTRIE_specifique_VINICOLE_VF.docx"
+      },
+      {
+        "type": "ressource",
+        "texte": "Formulaires de demande d'aide et conditions générales d'attribution",
+        "lien": "https://www.eau-seine-normandie.fr/formulaires_aides"
+      },
+      {
+        "type": "ressource",
+        "texte": "Les aides financières destinées aux entreprises, programme Eau, climat et biodiversité 2025-2030",
+        "lien": "https://www.eau-seine-normandie.fr/entreprises/aides-financieres-du-programme-eau-climat-biodiversite"
+      },
+      {
+        "type": "ressource",
+        "texte": "12e programme 2025-2030 de l'agence de l'eau Seine-Normandie (chapitre B, pages 63 à 71)",
+        "lien": "https://economie.eaufrance.fr/sites/default/files/2024-11/doc577-12e_programme_aesn_vf.pdf"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "nom, description (chapitre B, filières), eligibilite (cadre du projet), mesures (ACT_VIN_006)",
+        "url": "https://www.eau-seine-normandie.fr/sites/public_file/12e-programme/FORMULAIRES/12eme_Formulaire_aide_INDUSTRIE_specifique_VINICOLE_VF.docx",
+        "date": "2026-09-28",
+        "extrait": "Chapitre B du programme \"Eau, climat & biodiversité\" 2025-2030 [...] Dans quel cadre s’inscrit votre projet ? [...] Simple mise en conformité pour le traitement des rejets de l’établissement [...] Mise aux normes de votre établissement dans le cadre de travaux de restructuration ou d’extension à préciser [...] Transfert de votre activité sur un autre site [...] Création d’un nouveau site [...] En quoi consiste votre projet ? [...] Mise en place d’un traitement autonome par stockage et épandage agricole [...] Mise en place d’un traitement autonome par stockage aéré individuel [...] Prétraitement, raccordement au réseau d’assainissement de la collectivité [...] Travaux d’aménagement en vue d’une épuration hors site sur un dispositif de traitement collectif"
+      },
+      {
+        "champ": "description (travaux et dépenses)",
+        "url": "https://www.eau-seine-normandie.fr/sites/public_file/12e-programme/FORMULAIRES/12eme_Formulaire_aide_INDUSTRIE_specifique_VINICOLE_VF.docx",
+        "date": "2026-09-28",
+        "extrait": "Dispositifs(s) de prétraitement des rejets envisagé(s) (dégrillage, tamisage, neutralisation, ...) : [...] Mise en place de capacités de stockage étanches pour les rejets vinicoles [...] Matériel d’aération des rejets [...] Modification du réseau de collecte interne [...] Raccordements principaux [...] Relevage, prétraitement des rejets [...] Études, honoraires, maîtrise d’œuvre"
+      },
+      {
+        "champ": "plafond (de minimis), eligibilite (mise en demeure, entreprise en difficulté)",
+        "url": "https://www.eau-seine-normandie.fr/sites/public_file/12e-programme/FORMULAIRES/12eme_Formulaire_aide_INDUSTRIE_specifique_VINICOLE_VF.docx",
+        "date": "2026-09-28",
+        "extrait": "Pour une demande d’aides sollicitée au titre d’un régime dit “de minimis”, précisez si vous avez perçu des aides publiques dit « de minimis » (règlement européen n° 1407/2013 modifié par le règlement n°2023/2391) permettant de recevoir au maximum 300 000 € d’aides publiques durant les 3 derniers exercices fiscaux dont celui en cours à la date de signature de la présente déclaration, toutes aides publiques cumulées, en complétant le tableau ci-dessous : [...] certifie ne pas présenter un projet faisant l’objet d’un arrêté préfectoral de mise en demeure, [...] certifie que l’entreprise bénéficiaire n’est pas en difficulté au sens européen, en référence au règlement (UE) n°651/2014 de la Commission européenne du 17 juin 2014, et notamment qu’elle ne fait pas l’objet d’une procédure collective d’insolvabilité (procédure de sauvegarde, procédure de redressement judiciaire, procédure de liquidation judiciaire),"
+      },
+      {
+        "champ": "infos_complementaires (collecte exhaustive, marc, pièces, consommations)",
+        "url": "https://www.eau-seine-normandie.fr/sites/public_file/12e-programme/FORMULAIRES/12eme_Formulaire_aide_INDUSTRIE_specifique_VINICOLE_VF.docx",
+        "date": "2026-09-28",
+        "extrait": "Au terme du projet, la collecte des eaux usées vinicoles devra être exhaustive et séparée de la collecte des eaux pluviales. [...] Les écoulements liés notamment au stockage du marc devront être maîtrisés. [...] ☐ Pour l’épandage, le cas échéant, contrat de prestation d’épandage, de mise à disposition des parcelles et attestation certifiant que les terrains utilisés sont validés par une étude préalable [...] ☐ Pour les établissements raccordés à un réseau d’assainissement communal, fournir une copie de l’autorisation ou la convention de rejet [...] ☐ Si l’entreprise est soumise à un ou plusieurs arrêtés ICPE, joindre une copie de l’arrêté préfectoral d’autorisation d’exercer ou de l’attestation de déclaration d’activité en préfecture [...] Consommation d’eau totale annuelle [...] Consommation d’eau liée à l’activité pressurage (existence d’un compteur spécifique ?)"
+      },
+      {
+        "champ": "infos_complementaires (démarche, date de dépôt, commencement d'exécution), ressources (formulaire VINICULTURE)",
+        "url": "https://www.eau-seine-normandie.fr/formulaires_aides",
+        "date": "2026-09-28",
+        "extrait": "Pour avoir l'assurance d'une instruction en 2026, vous devez déposer vos dossiers complets de demande d'aide sur Démarche Numérique avant le 30 septembre. [...] Prendre contact avec le chargé d'opérations de la direction territoriale dont vous dépendez [...] aucun commencement d'exécution du projet (émission d'ordre de service ou de bon de commande par exemple) ne peut avoir lieu avant le dépôt d'une demande d'aide formelle [...] Industrie, Artisanat, Activités économiques et assimilés domestiques [...] Formulaire de demande d'aide VINICULTURE"
+      },
+      {
+        "champ": "taux",
+        "url": "https://economie.eaufrance.fr/sites/default/files/2024-11/doc577-12e_programme_aesn_vf.pdf",
+        "date": "2026-09-28",
+        "extrait": "Tableau Niveaux d'aide du chapitre B : Réduction des pollutions / Taux maximaux autorisés par l'encadrement européen / Oui / a = 1,5 et b = 3 / 1311 ; Mesures d'accompagnement [...] Taux maximaux autorisés par l'encadrement européen (pages 69 et 70 du fichier)"
+      },
+      {
+        "champ": "plafond (prix de référence, zéro rejet, seuils plancher), type",
+        "url": "https://economie.eaufrance.fr/sites/default/files/2024-11/doc577-12e_programme_aesn_vf.pdf",
+        "date": "2026-09-28",
+        "extrait": "Le prix de référence (PR) est déterminé en fonction des assiettes de pollution [...] PR = a. [A + PR(MES).(MES) + PR(DB05).(DB05) + PR(DCO).(DCO) + PR(NR).(NR) + PR(P).(P) ...] (page 71) ; Les aides sont accordées par l'agence de l'eau sous forme de subventions ou d'avances remboursables à taux zéro. [...] ne sont pas aidés les projets dont le coût est inférieur à 10 000 €TTC. Par exception, ce seuil est ramené à 3 500 €TTC pour : les études des acteurs économiques (page 29) ; tableau Niveaux d'aide : Réduction des pollutions / Taux maximaux autorisés par l’encadrement européen / Oui / Non si zéro rejet / a = 1,5 et b = 3 / 1311 (page 70)"
+      },
+      {
+        "champ": "infos_complementaires (démarrage anticipé, devis, accusé de réception)",
+        "url": "https://economie.eaufrance.fr/sites/default/files/2024-11/doc577-12e_programme_aesn_vf.pdf",
+        "date": "2026-09-28",
+        "extrait": "Sauf autorisation de démarrage anticipé accordée par l'agence, l'attributaire ne peut pas démarrer l'exécution de l'opération avant le dépôt à l'agence de l'eau d'une demande d'aide formelle. L'agence en accuse réception. Cet accusé de réception ne vaut pas décision d'attribution de l'aide. [...] En cas de contractualisation par acceptation d'un devis, la date de signature du devis. (pages 28 et 29 du fichier)"
+      },
+      {
+        "champ": "description (travaux d'épuration du chapitre B), mesures (ACT_VIN_006)",
+        "url": "https://www.eau-seine-normandie.fr/entreprises/aides-financieres-du-programme-eau-climat-biodiversite",
+        "date": "2026-09-28",
+        "extrait": "L'agence de l'eau consacre 218 millions d'euros (soit 6 % du montant des aides du 12è programme) à la dépollution industrielle pour : [...] les travaux d'épuration : la réduction des pollutions chroniques par la mise en place de dispositifs de collecte, épuration ou prétraitement des effluents pollués et de leurs sous-produits"
+      },
+      {
+        "champ": "infos_complementaires (retour d'expérience, libellés CIVC), mesures (ACT_VIN_006)",
+        "url": "https://www.eau-seine-normandie.fr/sites/public_file/deliberations-commission-des-aides/2025/Bilan_des_aides_signees_juin_2025.pdf",
+        "date": "2026-09-28",
+        "extrait": "BILAN DES AIDES SIGNEES AU 10 JUILLET 2025 [...] SOCIETE CHAMPENOISE DES BARONS ET ASSO [...] CIVC - Réseaux collecte effluents vinicoles DVM 51 (110 217,00) ; SCEV DOMAINE GAUTHERON ALAIN ET CYRIL [...] Stockage épandage effluents vinicoles DSAM 89 (65 623,00) ; BCT DE REKENEIRE [...] CIVC - Amélioration stockage-épandage vinicole DVM 02 (11 386,00) ; SOCIETE AGRO-VITICOLE CHARBAUT [...] CIVC - Amélioration gestion effluents vinicoles DVM 51 (123 395,00)"
+      },
+      {
+        "champ": "infos_complementaires (Comité Champagne, assistance aux dossiers)",
+        "url": "https://levigneronchampenois.comitechampagne.fr/environnement/effluents-vinicoles",
+        "date": "2026-09-28",
+        "extrait": "En 2013, l'agence de l'eau Seine- Normandie et l'Interprofession signaient le contrat d'animation \"vigne, vin et qualité de l'eau en Champagne\". [...] L'objet du nouveau contrat (2013-2018) a donc été orienté vers l'accompagnement des élaborateurs dans la gestion des effluents vinicoles [...] au travers de missions de conseil et d'assistances techniques, mais aussi administratives, pour la constitution des dossiers de demande d'aides financières. [...] Depuis une trentaine d'années, le Comité Champagne accompagne les professionnels désireux d'avoir un conseil technique sur la gestion des effluents. [...] Collecte et traitement des effluents, gestion des résidus de vinification, optimisation du fonctionnement des stockages aérés, et contexte réglementaire font partie du conseil dispensé auprès des établissements vinicoles."
+      },
+      {
+        "champ": "infos_complementaires (installations nouvelles)",
+        "url": "https://economie.eaufrance.fr/sites/default/files/2024-11/doc577-12e_programme_aesn_vf.pdf",
+        "date": "2026-09-28",
+        "extrait": "B.2.2.9. Les installations nouvelles Une installation nouvelle correspond à la création d’une nouvelle implantation géographique depuis moins de 2 années. [...] Pour les installations nouvelles, sont éligibles les études et les travaux liés aux dispositifs d’épuration et aux technologies propres permettant d’aller au-delà des exigences de la règlementation applicable. [...] Le montant des dépenses éligibles correspond aux dépenses qui permettent d’aller au-delà des exigences de la réglementation applicable. (page 68 du fichier)"
+      },
+      {
+        "champ": "eligibilite (entreprises vinicoles)",
+        "url": "https://levigneronchampenois.comitechampagne.fr/environnement/programme-eau-climat-biodiversite-de-lagence-de-leau-seine-normandie",
+        "date": "2026-09-28",
+        "extrait": "Partenaire historique de la filière vinicole, l’agence de l’eau reconduit son programme d’intervention auprès des entreprises vinicoles. [...] L’agence de l’eau Seine-Normandie peut vous accompagner financièrement dans vos actions."
+      }
+    ],
+    "date_maj": "2026-09-28"
+  },
+  {
+    "id": "AIDE_VIN_003",
+    "nom": "Mise aux normes des entreprises vinicoles et de distillation : dispositif « Activité vinicole/distillation » (agence de l'eau Adour-Garonne, 12e programme)",
+    "financeur": "Agence de l'eau Adour-Garonne",
+    "logo_url": null,
+    "type": "subvention",
+    "taux": "Traitement des macropolluants : 30 %. Traitement des micropolluants, ou des macropolluants rejetés dans une masse d'eau subissant une pression significative des activités économiques ou domestique (ou dans une zone à enjeux « usages » du SDAGE) : 40 à 60 % selon le statut. Aménagements internes (technologies propres) et travaux combinés avec des travaux d'économie d'eau : 40 à 60 % selon le statut. Études, y compris préalables aux travaux : 60 à 80 % selon le statut.",
+    "plafond": "Pour la mise aux normes des entreprises vinicoles ou de distillation (hors structures de type coopératives, CUMA), le montant retenu est calculé à partir de la production en hectolitres selon une formule propre à chaque type d'ouvrage (stockage épandage, prétraitement avant adhésion à une structure collective ou traitement par prestataire, traitement biologique in situ), plafonné au montant prévisionnel des dépenses.",
+    "description": "Aide de l'agence de l'eau Adour-Garonne à la mise aux normes des entreprises vinicoles et de distillation, déposée sur la plateforme Rivage au titre du dispositif « Activité vinicole/distillation ». Les actions citées par l'agence sont l'aire de lavage, le stockage, la station de traitement in situ et la mise en circuit fermé. Le dispositif relève de la ligne « Réduction des pollutions liées aux activités économiques industrielles et artisanales » du 12e programme, applicable du 1er janvier 2025 au 31 décembre 2030, qui finance aussi les études préalables aux travaux.",
+    "eligibilite": "Personnes publiques ou privées (entreprise, collectivité, association, syndicat) exerçant une activité économique à caractère industriel, commercial et artisanal, hors secteur agricole et élevage (ou assimilé) traité dans la politique de lutte contre les pollutions agricoles. Le projet doit être porté par une structure créée depuis plus de 2 ans (sauf continuité d'activité), s'inscrire dans un programme global de dépollution comprenant une réflexion en termes d'économie d'eau à l'échelle de l'établissement, et aboutir à une réduction de la pression du rejet sur la masse d'eau.",
+    "categories": [
+      "agir_rejets_qualite"
+    ],
+    "secteurs": [
+      "vins_spiritueux"
+    ],
+    "departements": [],
+    "agences": [
+      "AEAG"
+    ],
+    "mesures": [
+      "ACT_VIN_006",
+      "ACT_VIN_007"
+    ],
+    "infos_complementaires": [
+      {
+        "type": "avertissement",
+        "texte": "La mise aux normes d'une entreprise vinicole ou de distillation n'est aidée que dans la limite d'une seule demande par bénéficiaire sur tout le 12e programme (2025-2030) : regroupez les travaux dans un même projet."
+      },
+      {
+        "type": "avertissement",
+        "texte": "Ne sont pas éligibles les projets concernant des pollutions nouvelles (par exemple la création d'une entreprise), des travaux de renouvellement à l'identique, des activités de prestation de service (transport ou traitement d'effluents de tiers) et des études réglementaires."
+      },
+      {
+        "type": "info",
+        "texte": "Le secteur agricole est exclu de cette ligne d'aide, car traité dans la politique de lutte contre les pollutions agricoles de l'agence. Si votre structure est une exploitation viticole, vérifiez auprès de l'agence de quelle ligne relève votre projet avant de déposer."
+      },
+      {
+        "type": "info",
+        "texte": "Les travaux doivent s'inscrire dans un programme global de dépollution précédé d'une étude de définition. Un établissement raccordé à une station d'épuration collective doit disposer d'une étude montrant que le réseau et la station peuvent accepter sa charge de pollution, et d'une autorisation de rejet au réseau de la collectivité."
+      },
+      {
+        "type": "info",
+        "texte": "La demande se dépose sur la plateforme Rivage : thématique « Lutte contre les pressions des activités économiques hors agriculture (réduction des pollutions, économies d'eau et eaux pluviales) », puis dispositif « Activité vinicole/distillation ». Pour l'agroalimentaire, l'interlocuteur indiqué par l'agence est Marc Pinel, chargé d'intervention industries, 05 61 36 82 19, marc.pinel@eau-adour-garonne.fr."
+      },
+      {
+        "type": "ressource",
+        "texte": "Délibération du 12e programme sur la réduction des pollutions des activités industrielles et artisanales (PDF)",
+        "lien": "https://eau-grandsudouest.fr/sites/default/files/2025-01/53-24-Re%CC%81duction%20pollutions%20industries_0.pdf"
+      },
+      {
+        "type": "ressource",
+        "texte": "Fiche de l'aide sur Aides-territoires",
+        "lien": "https://aides-territoires.beta.gouv.fr/aides/collecter-et-traiter-les-eaux-usees-et-les-eaux-pluviales-1/"
+      },
+      {
+        "type": "ressource",
+        "texte": "Plateforme de dépôt des demandes d'aide Rivage",
+        "lien": "https://rivage.eau-adour-garonne.fr/appli/"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "nom, description (dispositif Rivage, actions)",
+        "url": "https://eau-grandsudouest.fr/sites/default/files/2025-01/53-24-Re%CC%81duction%20pollutions%20industries_0.pdf",
+        "date": "2026-09-28",
+        "extrait": "Annexe 2 : Liste (non exhaustive) des actions pouvant être financées [...] Mise aux normes des entreprises vinicoles et/ou distillation | Aire de lavage, stockage, station de traitement in situ, mise en circuit fermé"
+      },
+      {
+        "champ": "nom, description (12e programme, période)",
+        "url": "https://eau-grandsudouest.fr/sites/default/files/2025-01/53-24-Re%CC%81duction%20pollutions%20industries_0.pdf",
+        "date": "2026-09-28",
+        "extrait": "12EME PROGRAMME PLURIANNUEL D'INTERVENTION MODALITES ET CONDITIONS D'ATTRIBUTION DES AIDES REDUCTION DES POLLUTIONS LIEES AUX ACTIVITES ECONOMIQUES INDUSTRIELLES ET ARTISANALES LIGNE 13 POUR LA PERIODE DU 1ER JANVIER 2025 AU 31 DECEMBRE 2030"
+      },
+      {
+        "champ": "nom, infos_complementaires (dispositif Rivage « Activité vinicole/distillation »)",
+        "url": "https://eau-grandsudouest.fr/aides-financieres/activites-industrielles-artisanat",
+        "date": "2026-09-28",
+        "extrait": "Sur quels thématiques et dispositifs Rivage déposer votre demande : Thématique : Lutte contre les pressions économiques hors agriculture (réduction des pollutions, économies d'eau et eaux pluviales) Dispositifs : Technologie propre / aménagements internes Ouvrage épuratoire - Gestion des boues d'épuration - autosurveillance Travaux de lutte contre le risque de pollution accidentelle ou par temps de pluie Activité vinicole/distillation"
+      },
+      {
+        "champ": "taux",
+        "url": "https://eau-grandsudouest.fr/sites/default/files/2025-01/53-24-Re%CC%81duction%20pollutions%20industries_0.pdf",
+        "date": "2026-09-28",
+        "extrait": "Article 7 [...] 30% | Traitement des macropolluants. 40 à 60% selon statut | Traitement des micropolluants, aménagements internes (technologie propres), prévention des pollutions accidentelles, opérations collectives partenariales Ou Traitement des macropolluants rejetés dans une masse d'eau subissant une pression significative des activités économiques ou domestique (et/ou dans une des zones à enjeux « usages » du SDAGE) Ou Travaux combinés avec des travaux d'économie d'eau ou faisant appel à des SFN. 60 à 80% selon statut | Etudes (y compris études préalables aux travaux)"
+      },
+      {
+        "champ": "taux (fiche thématique, ligne du dispositif Activité vinicole/distillation)",
+        "url": "https://eau-grandsudouest.fr/sites/default/files/2025-11/fiche-thematique_industries_reduction-des-pollutions_hd_bureau.pdf",
+        "date": "2026-09-28",
+        "extrait": "Traitement des macropolluants et micropolluants | Ouvrage épuratoire - Gestion des boues d'épuration - Autosurveillance Activité vinicole/distillation | 30 % : traitement des macropolluants 40 à 60 % selon le statut : traitement des micropolluants & traitement des macropolluants rejetés dans une masse d'eau subissant une pression significative des activités économiques ou domestique (et/ou dans une des zones à enjeux « usages » du SDAGE). Études | Études | 60 à 80 % selon statut. Aménagements internes (technologies propres) | Technologie propre / aménagements internes | 40 à 60 % selon statut. [...] Version de novembre 2025"
+      },
+      {
+        "champ": "taux (version de février 2025 de la même fiche, contenu identique)",
+        "url": "https://eau-grandsudouest.fr/sites/default/files/2025-02/FICHE-THEMATIQUE_Industries_Pollutions.pdf",
+        "date": "2026-09-28",
+        "extrait": "Traitement des macropolluants et micropolluants | Ouvrage épuratoire - Gestion des boues d'épuration - Autosurveillance Activité vinicole/distillation | 30 % : traitement des macropolluants 40 à 60 % selon le statut : traitement des micropolluants [...]"
+      },
+      {
+        "champ": "plafond, infos_complementaires (une seule demande par bénéficiaire)",
+        "url": "https://eau-grandsudouest.fr/sites/default/files/2025-01/53-24-Re%CC%81duction%20pollutions%20industries_0.pdf",
+        "date": "2026-09-28",
+        "extrait": "L'accompagnement de la mise aux normes des entreprises vinicoles et/ou de distillation (hors structures de type coopératives, CUMA ...) présente les modalités d'aides particulières ci-dessous et est aidé dans la limite d'une seule demande par bénéficiaire au cours du 12ème programme. Stockage épandage | Montant retenu (en €) = Production (hl) x (800 x hl vin (-0.5)) plafonné au montant prévisionnel des dépenses. Prétraitement avant adhésion à une structure collective ou traitement par prestataire de service | Production (hl) x (7500 x hl vin (-0.75)) plafonné au montant prévisionnel des dépenses. Traitement biologique in situ | Production (hl) x (20000 x hl vin (-0.75)) plafonné au montant prévisionnel des dépenses"
+      },
+      {
+        "champ": "eligibilite, infos_complementaires (secteur agricole exclu)",
+        "url": "https://eau-grandsudouest.fr/sites/default/files/2025-01/53-24-Re%CC%81duction%20pollutions%20industries_0.pdf",
+        "date": "2026-09-28",
+        "extrait": "Article 4 - Bénéficiaires : Peuvent bénéficier des aides de l'Agence, toute personne publique ou privée (à titre d'exemple : entreprise, collectivité, association, syndicat) exerçant une activité économique à caractère industriel, commercial et artisanal ou en lien avec de telles activités (hors secteur agricole et élevage (ou assimilé) traité dans la politique de lutte contre les pollutions agricoles)."
+      },
+      {
+        "champ": "eligibilite, infos_complementaires (programme global, étude de définition, établissements raccordés)",
+        "url": "https://eau-grandsudouest.fr/sites/default/files/2025-01/53-24-Re%CC%81duction%20pollutions%20industries_0.pdf",
+        "date": "2026-09-28",
+        "extrait": "Article 5 - Conditions d'éligibilité : Les travaux éligibles doivent : s'inscrire dans un programme global de dépollution, précédé d'une étude de définition [...] s'inscrire dans une réflexion en termes d'économie d'eau à l'échelle de l'établissement [...] être portés par une structure créée depuis plus de 2 ans (sauf s'il y a continuité d'activité) [...] aboutir à une réduction de la pression du rejet sur la masse d'eau [...] pour les établissements raccordés à une station collective de traitement des eaux usées, disposer d'une étude démontrant que le réseau et la station d'épuration peuvent accepter la charge et le type de pollution générée par cet établissement, et disposer d'une autorisation de rejet au réseau de la collectivité."
+      },
+      {
+        "champ": "eligibilite (source de secours lisible)",
+        "url": "https://aides-territoires.beta.gouv.fr/aides/collecter-et-traiter-les-eaux-usees-et-les-eaux-pluviales-1/",
+        "date": "2026-09-28",
+        "extrait": "Réduire les pollutions des activités industrielles et artisanales [...] Les bénéficiaires sont des personnes publiques ou privées (à titre d'exemple : entreprise, collectivité, association, syndicat) exerçant une activité économique à caractère industriel, commercial et artisanal ou en lien avec de telles activités (hors secteur agricole et élevage (ou assimilé) traité dans la politique de lutte contre les pollutions agricoles). [...] Subvention (min : 30% - max : 80%) [...] Du 1 janvier 2025 au 31 décembre 2030"
+      },
+      {
+        "champ": "infos_complementaires (opérations non éligibles)",
+        "url": "https://eau-grandsudouest.fr/sites/default/files/2025-01/53-24-Re%CC%81duction%20pollutions%20industries_0.pdf",
+        "date": "2026-09-28",
+        "extrait": "Article 6 - Opérations non éligibles [...] des pollutions nouvelles (exemple : création d'une entreprise) - des travaux de renouvellement à l'identique [...] - les activités de prestation de service (transport et/ou traitement d'effluents de tiers) - les études réglementaires"
+      },
+      {
+        "champ": "infos_complementaires (dépôt Rivage, contact)",
+        "url": "https://eau-grandsudouest.fr/sites/default/files/2025-11/fiche-thematique_industries_reduction-des-pollutions_hd_bureau.pdf",
+        "date": "2026-09-28",
+        "extrait": "COMMENT DÉPOSER UNE AIDE ? 1. Sélectionner la thématique « Lutte contre les pressions des activités économiques hors agriculture (réduction des pollutions, économies d'eau et eaux pluviales) ». 2. Sélectionner l'un des dispositifs d'aide associé présenté dans le tableau ci-dessous. Lien vers la plateforme Rivage : rivage.eau-adour-garonne.fr/appli/ [...] Secteurs d'activités : Agro-Alimentaires / Golf / Activités commerciales Marc PINEL - Chargé d'intervention industries Tel direct : 05 61 36 82 19 marc.pinel@eau-adour-garonne.fr"
+      },
+      {
+        "champ": "mesures (ACT_VIN_006 : stockage et traitement des effluents vinicoles)",
+        "url": "https://eau-grandsudouest.fr/sites/default/files/2025-01/53-24-Re%CC%81duction%20pollutions%20industries_0.pdf",
+        "date": "2026-09-28",
+        "extrait": "Mise aux normes des entreprises vinicoles et/ou distillation | Aire de lavage, stockage, station de traitement in situ, mise en circuit fermé [...] Stockage épandage [...] Prétraitement avant adhésion à une structure collective ou traitement par prestataire de service [...] Traitement biologique in situ"
+      },
+      {
+        "champ": "mesures (ACT_VIN_007 : stockage et filière des effluents de distillation)",
+        "url": "https://eau-grandsudouest.fr/sites/default/files/2025-01/53-24-Re%CC%81duction%20pollutions%20industries_0.pdf",
+        "date": "2026-09-28",
+        "extrait": "L'accompagnement de la mise aux normes des entreprises vinicoles et/ou de distillation [...] Stockage épandage [...] Prétraitement avant adhésion à une structure collective ou traitement par prestataire de service"
+      },
+      {
+        "champ": "nom, infos_complementaires (dispositif Rivage « Activité vinicole/distillation » ; copie d'archive lisible de la page de l'agence, certificat valide)",
+        "url": "https://web.archive.org/web/20260611033615/https://eau-grandsudouest.fr/aides-financieres/activites-industrielles-artisanat",
+        "date": "2026-09-28",
+        "extrait": "Sur quels thématiques et dispositifs Rivage déposer votre demande : Thématique : Lutte contre les pressions économiques hors agriculture (réduction des pollutions, économies d'eau et eaux pluviales) Dispositifs : Technologie propre / aménagements internes Ouvrage épuratoire - Gestion des boues d'épuration - autosurveillance Travaux de lutte contre le risque de pollution accidentelle ou par temps de pluie Activité vinicole/distillation Communication - sensibilisation thématique Animation thématique Études"
+      },
+      {
+        "champ": "taux, nom (copie d'archive lisible de la fiche thématique de novembre 2025, fichier identique à l'original)",
+        "url": "https://web.archive.org/web/20251213194057/https://eau-grandsudouest.fr/sites/default/files/2025-11/fiche-thematique_industries_reduction-des-pollutions_hd_bureau.pdf",
+        "date": "2026-09-28",
+        "extrait": "NATURE DE L'OPÉRATION | DISPOSITIF RIVAGE CORRESPONDANT | TAUX D'AIDE MAXIMUM. Études | Études | 60 à 80 % selon statut. Traitement des macropolluants et micropolluants | Ouvrage épuratoire - Gestion des boues d'épuration - Autosurveillance Activité vinicole/distillation | 30 % : traitement des macropolluants 40 à 60 % selon le statut : traitement des micropolluants & traitement des macropolluants rejetés dans une masse d'eau subissant une pression significative des activités économiques ou domestique (et/ou dans une des zones à enjeux « usages » du SDAGE). Aménagements internes (technologies propres) | Technologie propre / aménagements internes | 40 à 60 % selon statut."
+      },
+      {
+        "champ": "infos_complementaires (opérations non éligibles, dépôt Rivage, contact ; copie d'archive lisible de la fiche thématique)",
+        "url": "https://web.archive.org/web/20251213194057/https://eau-grandsudouest.fr/sites/default/files/2025-11/fiche-thematique_industries_reduction-des-pollutions_hd_bureau.pdf",
+        "date": "2026-09-28",
+        "extrait": "OPÉRATIONS NON ÉLIGIBLES Ne sont pas éligibles aux aides de l'Agence les projets concernant : des pollutions nouvelles (exemple : création d'une entreprise) des travaux de renouvellement à l'identique des sites et sols pollués (site orphelin, fermé ou en post-exploitation) des activités de prestation de service (transport et/ou traitement d'effluents de tiers) des études réglementaires [...] COMMENT DÉPOSER UNE AIDE ? 1. Sélectionner la thématique « Lutte contre les pressions des activités économiques hors agriculture (réduction des pollutions, économies d'eau et eaux pluviales) ». 2. Sélectionner l'un des dispositifs d'aide associé présenté dans le tableau ci-dessous. [...] Secteurs d'activités : Agro-Alimentaires / Golf / Activités commerciales Marc PINEL - Chargé d'intervention industries Tel direct : 05 61 36 82 19 marc.pinel@eau-adour-garonne.fr"
+      },
+      {
+        "champ": "mesures (ACT_VIN_006, ACT_VIN_007 : le dispositif « Activité vinicole/distillation » est rangé sous le traitement des effluents ; copie d'archive lisible de la fiche thématique)",
+        "url": "https://web.archive.org/web/20251213194057/https://eau-grandsudouest.fr/sites/default/files/2025-11/fiche-thematique_industries_reduction-des-pollutions_hd_bureau.pdf",
+        "date": "2026-09-28",
+        "extrait": "Traiter les effluents [...] Traitement des macropolluants et micropolluants | Ouvrage épuratoire - Gestion des boues d'épuration - Autosurveillance Activité vinicole/distillation | 30 % : traitement des macropolluants"
+      },
+      {
+        "champ": "plafond, taux (travaux combinés avec économies d'eau), infos_complementaires (une seule demande, étude de définition, établissements raccordés), description (actions citées) : copie d'archive de la délibération, fichier identique à l'original, PDF scanné sans couche texte",
+        "url": "https://web.archive.org/web/20250625081133/https://eau-grandsudouest.fr/sites/default/files/2025-01/53-24-Re%CC%81duction%20pollutions%20industries_0.pdf",
+        "date": "2026-09-28",
+        "extrait": "L'accompagnement de la mise aux normes des entreprises vinicoles et/ou de distillation (hors structures de type coopératives, CUMA ...) présente les modalités d'aides particulières ci-dessous et est aidé dans la limite d'une seule demande par bénéficiaire au cours du 12ème programme [...] Mise aux normes des entreprises vinicoles et/ou distillation | Aire de lavage, stockage, station de traitement in situ, mise en circuit fermé"
+      }
+    ],
+    "date_maj": "2026-09-28"
+  },
+  {
+    "id": "AIDE_VIN_004",
+    "nom": "Financement de la formation des salariés par OCAPIAT au titre du plan de développement des compétences : catalogue régional et offre Boost Compétences",
+    "financeur": "OCAPIAT, opérateur de compétences (OPCO) de la coopération agricole, de l'agriculture, de la pêche, de l'industrie agroalimentaire et des territoires",
+    "logo_url": null,
+    "type": "subvention",
+    "taux": "Catalogue régional : 100 % des coûts pédagogiques pour les entreprises de moins de 50 salariés. Formation hors catalogue (Boost Compétences) : 50 % des coûts pédagogiques",
+    "plafond": "Boost Compétences : coûts pédagogiques éligibles retenus dans la limite de 1 500 € HT par stagiaire et par dossier, soit une prise en charge de 750 € HT au plus par stagiaire et par dossier ; coût pédagogique horaire plafonné à 40 €/h. Catalogue régional : pas de plafond indiqué sur la page du dispositif",
+    "description": "OCAPIAT finance sur ses fonds mutualisés, au titre du plan de développement des compétences, la formation des salariés des entreprises de son périmètre, dont les entreprises des vins et spiritueux et les caves coopératives vinicoles. Deux voies : le catalogue de l'offre régionale (plus de 3 500 formations courtes, dont une formation « Raisonner et maîtriser ses opérations d'hygiène en cave » qui traite des techniques de nettoyage des chais et de la gestion de l'eau), et l'offre Boost Compétences, qui cofinance pour les entreprises de moins de 50 salariés une formation externe choisie librement (thème, organisme certifié Qualiopi, calendrier) quand le catalogue n'y répond pas. OCAPIAT présente la formation des salariés comme un levier des plans de réduction des flux d'énergie, de matières, d'eau et de déchets.",
+    "eligibilite": "Entreprises relevant du champ d'OCAPIAT, déterminé par la convention collective (IDCC) : notamment la convention nationale des vins, cidres, jus de fruits, sirops, spiritueux et liqueurs (IDCC 0493), les caves coopératives vinicoles (IDCC 7005), les distilleries viticoles coopératives (IDCC 7503) et la production agricole. Le catalogue est ouvert prioritairement aux entreprises de moins de 50 salariés, et sur contribution volontaire à celles de 50 salariés et plus ; Boost Compétences est réservé aux entreprises de moins de 50 salariés.",
+    "categories": [
+      "sensibiliser_former"
+    ],
+    "secteurs": [
+      "vins_spiritueux"
+    ],
+    "departements": [],
+    "agences": [],
+    "mesures": [
+      "ACT_VIN_001"
+    ],
+    "infos_complementaires": [
+      {
+        "type": "avertissement",
+        "texte": "Boost Compétences : la demande de prise en charge se dépose sur votre espace en ligne OCAPIAT avant le démarrage de la formation, au plus tôt 2 mois avant et au plus tard le premier jour. Une demande déposée après ce délai est refusée. Les justificatifs (convention ou devis, facture, certificat de réalisation) sont à déposer au plus tard 3 mois après la fin de la formation, sinon l'accord devient caduc.",
+        "lien": "https://www.ocapiat.fr/financement-sur-mesure-par-lopco-simulateur-boost-competences/",
+        "lien_label": "Page Boost Compétences"
+      },
+      {
+        "type": "avertissement",
+        "texte": "Ces financements ne sont ouverts qu'aux entreprises du périmètre d'OCAPIAT. Vérifiez le code IDCC de votre convention collective sur le site d'OCAPIAT avant d'engager une formation.",
+        "lien": "https://www.ocapiat.fr/verifier-par-secteur-lappartenance-dune-entreprise-a-ocapiat/",
+        "lien_label": "Vérifier l'appartenance à OCAPIAT"
+      },
+      {
+        "type": "info",
+        "texte": "Au catalogue, la formation « Raisonner et maîtriser ses opérations d'hygiène en cave » de l'EPLEFPA de Nîmes-Rodilhan (7 heures) vise la maîtrise des techniques de nettoyage et de désinfection des chais et aborde les matières actives et la gestion de l'eau ; elle s'adresse à tout public travaillant en cave coopérative ou individuelle. Elle n'est proposée qu'en Occitanie et, au 28 septembre 2026, aucune session n'y était ouverte. Hors Occitanie, ou faute de session, une formation équivalente auprès d'un organisme certifié Qualiopi se finance par Boost Compétences (formation hors catalogue)."
+      },
+      {
+        "type": "info",
+        "texte": "Catalogue régional : vous recherchez la formation sur le portail de l'offre régionale, puis vous inscrivez en ligne votre salarié, ou vous mandatez un centre de formation référencé, sous réserve de son accord. Si la formation n'existe pas au catalogue, OCAPIAT oriente vers l'action de formation hors catalogue (Boost Compétences)."
+      },
+      {
+        "type": "info",
+        "texte": "Boost Compétences fonctionne en remboursement : l'entreprise règle l'organisme de formation, puis OCAPIAT lui rembourse par virement les coûts accordés après réception des justificatifs. La formation doit être externe, délivrée par un organisme certifié Qualiopi, d'une durée minimale de 3 h 30 en continu. Plusieurs demandes sont possibles dans l'année, dans la limite des fonds disponibles. Les formations internes relèvent d'une offre distincte, « Formations internes »."
+      },
+      {
+        "type": "info",
+        "texte": "Pour les salariés de 50 ans et plus des entreprises de moins de 50 salariés, OCAPIAT prend aussi en charge la rémunération à hauteur du SMIC horaire brut chargé fixé à 12 € de l'heure, pour les formations du catalogue comme pour Boost Compétences, dans la limite du montant des coûts pédagogiques pris en charge."
+      },
+      {
+        "type": "ressource",
+        "texte": "Page du catalogue de formations et de son financement sur le site d'OCAPIAT",
+        "lien": "https://www.ocapiat.fr/catalogue-de-formations-et-financement/"
+      },
+      {
+        "type": "ressource",
+        "texte": "Portail de recherche et d'inscription de l'offre régionale OCAPIAT",
+        "lien": "https://offredeformation.ocapiat.fr/catalogui/#/home"
+      },
+      {
+        "type": "ressource",
+        "texte": "Page de l'offre Boost Compétences (formations hors catalogue) sur le site d'OCAPIAT",
+        "lien": "https://www.ocapiat.fr/financement-sur-mesure-par-lopco-simulateur-boost-competences/"
+      },
+      {
+        "type": "ressource",
+        "texte": "Page d'OCAPIAT sur le plan de développement des compétences des entreprises de moins de 50 salariés",
+        "lien": "https://www.ocapiat.fr/plan-developpement-competences/"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "financeur",
+        "url": "https://www.ocapiat.fr/catalogue-de-formations-et-financement/",
+        "date": "2026-09-28",
+        "extrait": "OCAPIAT est l'Opérateur de Compétences (OPCO) pour la Coopération agricole, l'Agriculture, la Pêche, l'Industrie Agroalimentaire et les Territoires."
+      },
+      {
+        "champ": "eligibilite",
+        "url": "https://www.ocapiat.fr/verifier-par-secteur-lappartenance-dune-entreprise-a-ocapiat/",
+        "date": "2026-09-28",
+        "extrait": "Toute entreprise, salarié, association, syndicat… appartenant à nos branches professionnelles adhérentes peut bénéficier des services d'OCAPIAT. Liste des secteurs adhérents [...] Production agricole et CUMA [...] Vins, cidres, jus de fruits, sirops, spiritueux et liqueurs [...] Coopératives Vinicoles"
+      },
+      {
+        "champ": "eligibilite (codes IDCC)",
+        "url": "https://www.legifrance.gouv.fr/conv_coll/article/KALIARTI000038908043",
+        "date": "2026-09-28",
+        "extrait": "Accord professionnel du 18 décembre 2018 relatif à l'OPCO (OCAPIAT), article 2, champ d'application professionnel : IDCC 0493. Les entreprises relevant de la convention collective nationale des vins, cidres jus de fruits, sirop, spiritueux et liqueurs. [...] IDCC 7005. Caves coopératives vinicoles. [...] IDCC 7503. Distilleries viticoles (coopératives et unions) et distillation (SICA)."
+      },
+      {
+        "champ": "eligibilite",
+        "url": "https://www.ocapiat.fr/catalogue-de-formations-et-financement/",
+        "date": "2026-09-28",
+        "extrait": "Le catalogue de formation de l'offre régionale est accessible : Uniquement aux entreprises du périmètre d'OCAPIAT. Prioritairement aux entreprises < 50 salariés. Sur contribution volontaire, aux entreprises de 50 salariés et plus."
+      },
+      {
+        "champ": "type, taux, description",
+        "url": "https://www.ocapiat.fr/catalogue-de-formations-et-financement/",
+        "date": "2026-09-28",
+        "extrait": "Financement sur fonds mutualisés d'OCAPIAT au titre du dispositif plan de développement des compétences. Coûts pédagogiques financés à 100 % pour les entreprises de moins de 50 salariés."
+      },
+      {
+        "champ": "description, infos_complementaires",
+        "url": "https://www.ocapiat.fr/catalogue-de-formations-et-financement/",
+        "date": "2026-09-28",
+        "extrait": "D'accéder à plus de 3 500 formations de courte durée sélectionnées par OCAPIAT. [...] J'inscris en ligne mon salarié via le portail de l'offre régionale ou j'ai la possibilité de mandater un centre de formation référencé sur l'offre régionale sous réserve de son accord. [...] La formation recherchée n'existe pas dans le catalogue ? Action de formation hors catalogue"
+      },
+      {
+        "champ": "infos_complementaires (portail)",
+        "url": "https://www.ocapiat.fr/catalogue-de-formations-et-financement/",
+        "date": "2026-09-28",
+        "extrait": "Via le portail de recherche en ligne : accédez à toutes les formations disponibles grâce à un moteur de recherche performant. Accéder au portail (lien vers https://offredeformation.ocapiat.fr/catalogui/#/home)"
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.ocapiat.fr/catalogue-de-formations-et-financement/",
+        "date": "2026-09-28",
+        "extrait": "Prise en charge de la rémunération pour les salariés expérimentés (50 ans et plus) à hauteur de 12€ stagiaire. Prise en charge des salaires plafonnée au montant des coûts pédagogiques pris en charge par l'OPCO."
+      },
+      {
+        "champ": "taux, plafond, description, eligibilite",
+        "url": "https://www.ocapiat.fr/financement-sur-mesure-par-lopco-simulateur-boost-competences/",
+        "date": "2026-09-28",
+        "extrait": "BOOST Compétences permet aux entreprises de moins de 50 salariés de se faire financer en partie les formations de leur choix concernant le thème, l'intervenant, le lieu et le calendrier de mise en oeuvre. [...] Prise en charge des coûts pédagogiques : 50 % des coûts pédagogiques demandés plafonnés à 750 € par stagiaire. Coût pédagogique horaire plafonné à 40 € /h"
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.ocapiat.fr/financement-sur-mesure-par-lopco-simulateur-boost-competences/",
+        "date": "2026-09-28",
+        "extrait": "Ma demande est à réaliser impérativement via mon service en ligne Mon Compte et au préalable du démarrage de l'action : au plus tôt dans les 2 mois précédant l'action et au plus tard le 1er jour de la formation [...] au plus tard 3 mois après la date de fin de ma formation externe (sinon l'accord de prise en charge devient caduc)"
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.ocapiat.fr/financement-sur-mesure-par-lopco-simulateur-boost-competences/",
+        "date": "2026-09-28",
+        "extrait": "Soutenir l'investissement des entreprises de moins de 50 salariés lorsqu'elles réalisent librement une action de formation externe d'une durée minimale de 3h30 en continu. [...] OCAPIAT me rembourse directement par virement les coûts pédagogiques [...] Plusieurs demandes préalables de prise en charge sont possibles dans l'année dans la limite des fonds disponibles. [...] pour la prise en charge des formations et AFEST internes, se reporter désormais à la nouvelle offre dédiée « Formations internes »"
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.ocapiat.fr/financement-sur-mesure-par-lopco-simulateur-boost-competences/",
+        "date": "2026-09-28",
+        "extrait": "Prise en charge des salaires : Prise en charge de 12 €/h pour les salariés expérimentés de 50 ans et plus. Prise en charge des salaires plafonnée au montant des coûts pédagogiques pris en charge par l'OPCO."
+      },
+      {
+        "champ": "description, mesures (ACT_VIN_001)",
+        "url": "https://www.ocapiat.fr/transition-ecologique-adaptez-votre-entreprise/",
+        "date": "2026-09-28",
+        "extrait": "Pourquoi vouloir développer ou renforcer les compétences de vos salariés dans le cadre d'un plan d'action et de réduction de flux d'énergie, matières, eau et déchets"
+      },
+      {
+        "champ": "description, infos_complementaires, mesures (ACT_VIN_001)",
+        "url": "https://wspub.ocapiat.fr/wsapicatalog/api/Formations/40829",
+        "date": "2026-09-28",
+        "extrait": "\"objectif\":\"Maitriser les techniques de nettoyage et de désinfection des chais\",\"contenu\":\"Distinction entre nettoyage et désinfection , Les techniques mises en ¿uvre , Les matières actives et la gestion de l'eau\",\"publicVise\":\"Tout public travaillant ou souhaitant travailler en cave coopérative ou individuelle\" [...] \"libelle\":\"Raisonner et maîtriser ses opérations d'hygiène en cave\" [...] \"libelle\":\"EPLEFPA DE NÎMES RODILHAN\" [...] \"libelle\":\"Occitanie\" [...] \"duree\":7.0 [...] \"nombreSessionsOuvertes\":0"
+      },
+      {
+        "champ": "plafond",
+        "url": "https://www.ocapiat.fr/formations-hors-catalogue/",
+        "date": "2026-09-28",
+        "extrait": "50 % des coûts pédagogiques/\"pédagogiques divers\" (coût du formateur) (éligibles sur la base de 1 500 € HT / stagiaire / dossier). Les 50% correspondent donc à une prise en charge nette d'OCAPIAT d'un montant maximum de 750 € HT / stagiaire / dossier) Et dans la limite des fonds disponibles"
+      },
+      {
+        "champ": "infos_complementaires (rémunération 12 €/h)",
+        "url": "https://www.ocapiat.fr/plan-developpement-competences/",
+        "date": "2026-09-28",
+        "extrait": "Pour tous les secteurs, un soutien au départ en formation des salariés de 50 ans et plus. Prise en charge de la rémunération, à hauteur du SMIC horaire brut chargé fixé à 12 €/h, pour les salariés de 50 ans et plus des entreprises de moins de 50 salarié. Cette mesure financière s'applique aux dispositifs Boost compétences et du catalogue de formations \"offre régionale\"."
+      }
+    ],
+    "date_maj": "2026-09-28"
+  }
+]

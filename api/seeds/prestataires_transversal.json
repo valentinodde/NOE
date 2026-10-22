@@ -1,0 +1,796 @@
+[
+  {
+    "id": "PREST_TRA_001",
+    "nom": "Willie",
+    "type": "solution_numerique",
+    "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792056184/Noe%20assets/logos/PREST_TRA_001.png",
+    "siret": "92957050500016",
+    "description": "Entreprise lyonnaise qui fournit un module de télérelève à fixer sur les compteurs d'eau existants (compteurs à sortie impulsion), sans travaux de plomberie. Les consommations remontent toutes les 5 minutes sur une plateforme en ligne qui détecte fuites et anomalies, envoie des alertes (y compris lors d'un arrêté sécheresse) et consolide les données de plusieurs sites. Offre sur devis après démonstration, tarifs non publiés.",
+    "expertises": [
+      "Télérelève des compteurs existants",
+      "Détection de fuites et alertes",
+      "Suivi multi-sites des consommations",
+      "Veille arrêtés sécheresse"
+    ],
+    "categories": [
+      "suivre_comprendre_maitriser"
+    ],
+    "secteurs": [],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_AGR_001",
+        "roles": [
+          "materiel",
+          "conseil_etude"
+        ]
+      },
+      {
+        "id": "ACT_HOT_007",
+        "roles": [
+          "materiel",
+          "conseil_etude"
+        ]
+      },
+      {
+        "id": "ACT_LAI_002",
+        "roles": [
+          "materiel",
+          "conseil_etude"
+        ]
+      },
+      {
+        "id": "ACT_VIA_002",
+        "roles": [
+          "materiel",
+          "conseil_etude"
+        ]
+      },
+      {
+        "id": "ACT_FRL_002",
+        "roles": [
+          "materiel",
+          "conseil_etude"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.meetwillie.com"
+      },
+      {
+        "type": "mail",
+        "value": "hi@meetwillie.com"
+      },
+      {
+        "type": "adresse",
+        "value": "70 quai Perrache, 69002 Lyon"
+      },
+      {
+        "type": "linkedin",
+        "value": "https://www.linkedin.com/company/meet-willie/"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "description, expertises",
+        "url": "https://www.meetwillie.com/infrastructure/compteur-deau-connecte",
+        "date": "2026-10-15",
+        "extrait": "Remontée des données toutes les 5 minutes. Fonctionne avec tous les compteurs à sortie impulsion."
+      },
+      {
+        "champ": "description, expertises, mesures (conseil_etude, ACT_AGR_001)",
+        "url": "https://www.meetwillie.com/",
+        "date": "2026-10-15",
+        "extrait": "Alertes en temps réel en cas de fuite, d'anomalie ou d'arrêté sécheresse. Audit du plan de comptage, consolidation multi-sites."
+      },
+      {
+        "champ": "mesures (ACT_LAI_002, ACT_VIA_002, ACT_FRL_002)",
+        "url": "https://www.meetwillie.com/secteur/agroalimentaire",
+        "date": "2026-10-15",
+        "extrait": "Relevés sur les points d'eau process, tours de refroidissement, CIP/NEP et rejets. Consolidation multi-sites et multi-ateliers."
+      },
+      {
+        "champ": "mesures (ACT_HOT_007)",
+        "url": "https://www.meetwillie.com/secteur/hotellerie",
+        "date": "2026-10-15",
+        "extrait": "Suivi des consommations par zone : chambres, restaurant, spa, espaces extérieurs. Vue consolidée de l'ensemble de vos établissements. Meliá Hotels International parmi les références affichées."
+      },
+      {
+        "champ": "contacts",
+        "url": "https://www.meetwillie.com/contact",
+        "date": "2026-10-15",
+        "extrait": "Écrivez-nous à hi@meetwillie.com. 70 quai Perrache, 69002 Lyon, France"
+      },
+      {
+        "champ": "siret",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=Willie",
+        "date": "2026-10-15",
+        "extrait": "WILLIE, SIRET 92957050500016, siège 60 quai Perrache 69002 Lyon, NAF 74.90B, état administratif A. Écart de numéro avec l'adresse du site (70)."
+      },
+      {
+        "champ": "departements",
+        "url": "https://www.meetwillie.com/",
+        "date": "2026-10-15",
+        "extrait": "Couverture nationale : information Hydros (V. Odde), non indiquée sur le site, à confirmer auprès de Willie."
+      },
+      {
+        "champ": "logo_url",
+        "url": "https://www.meetwillie.com/images/webclip.png",
+        "date": "2026-10-15",
+        "extrait": "Icône du site (nav-logo), déposée sur Cloudinary"
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "PREST_TRA_002",
+    "nom": "Fastnaet",
+    "type": "equipementier",
+    "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792056494/Noe%20assets/logos/PREST_TRA_002.png",
+    "siret": "87974913300010",
+    "description": "Fabricant breton, basé à Moëlan-sur-Mer (Finistère), de matériel de nettoyage qui mélange air comprimé et eau grâce à une buse brevetée, pour réduire l'eau consommée au lavage. La gamme comprend des centrales et nettoyeurs en inox avec moussage (15 à 21 L/min, 20 à 80 bars), des vannes et pistolets de nettoyage pour l'agroalimentaire, ainsi que les compresseurs associés. Fastnaet conseille sur le choix du matériel et assure l'installation, sur devis.",
+    "expertises": [
+      "Centrales de nettoyage air et eau",
+      "Pistolets de nettoyage agroalimentaire",
+      "Moussage et désinfection",
+      "Compresseurs d'air"
+    ],
+    "categories": [
+      "ameliorer_efficacite_hydrique",
+      "sensibiliser_former"
+    ],
+    "secteurs": [],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_VIA_001",
+        "roles": [
+          "materiel"
+        ]
+      },
+      {
+        "id": "ACT_LAI_001",
+        "roles": [
+          "materiel"
+        ]
+      },
+      {
+        "id": "ACT_HUI_004",
+        "roles": [
+          "materiel"
+        ]
+      },
+      {
+        "id": "ACT_VIN_003",
+        "roles": [
+          "materiel"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://fastnaet.com"
+      },
+      {
+        "type": "mail",
+        "value": "contact@fastnaet.com"
+      },
+      {
+        "type": "tel",
+        "value": "06 30 34 98 98"
+      },
+      {
+        "type": "adresse",
+        "value": "30 rue de Bellevue, 29350 Moëlan-sur-Mer"
+      },
+      {
+        "type": "linkedin",
+        "value": "https://www.linkedin.com/company/fastnaet/"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "description, expertises",
+        "url": "https://fastnaet.com/catalogue/",
+        "date": "2026-10-15",
+        "extrait": "AQUACYCLONE : débit d'eau de 15 L/min ou 21 L/min, pressions réglables de 20 à 80 bars, consommation d'air 6 m³/h en moyenne. CYCLODOM 5 : Vanne de nettoyage Agroalimentaire, Pistolet de nettoyage Agroalimentaire."
+      },
+      {
+        "champ": "description",
+        "url": "https://fastnaet.com/le-concept/",
+        "date": "2026-10-15",
+        "extrait": "La buse cyclone design concept permet d'obtenir une défragmentation d'énergies gaz/liquide [...] nous réduisons considérablement la consommation des liquides. Un service commercial et un service après-vente."
+      },
+      {
+        "champ": "type, description",
+        "url": "https://fastnaet.com/la-societe/",
+        "date": "2026-10-15",
+        "extrait": "Fabriquant Français créée en 2019, brevet déposé, label Made in France FR-IMF-2021-254. Installation des matériels."
+      },
+      {
+        "champ": "mesures (ACT_VIA_001)",
+        "url": "https://fastnaet.com/",
+        "date": "2026-10-15",
+        "extrait": "Références affichées : Bigard, Celvia, abattoir de Rostrenen, Pruvost Leroy, Agromousquetaires."
+      },
+      {
+        "champ": "contacts",
+        "url": "https://fastnaet.com/contact/",
+        "date": "2026-10-15",
+        "extrait": "30 rue de Bellevue 29350 Moëlan-sur-Mer, 06 30 34 98 98, contact@fastnaet.com"
+      },
+      {
+        "champ": "siret",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=Fastnaet",
+        "date": "2026-10-15",
+        "extrait": "FASTNAET, SIRET 87974913300010, siège 30 Bellevue 29350 Moëlan-sur-Mer, NAF 46.69B, état administratif A."
+      },
+      {
+        "champ": "departements",
+        "url": "https://fastnaet.com/",
+        "date": "2026-10-15",
+        "extrait": "Couverture nationale : information Hydros (V. Odde), non indiquée sur le site, références dans plusieurs régions (Bigard, Volkswagen, ministère des Armées)."
+      },
+      {
+        "champ": "logo_url",
+        "url": "https://fastnaet.com/wp-content/uploads/2026/04/cropped-Fastnaet.LOGO_-192x192.png",
+        "date": "2026-10-15",
+        "extrait": "Icône du site, déposée sur Cloudinary"
+      },
+      {
+        "champ": "mesures (ACT_LAI_001, ACT_HUI_004, ACT_VIN_003)",
+        "url": "https://fastnaet.com/catalogue/",
+        "date": "2026-10-15",
+        "extrait": "Centrales et nettoyeurs air et eau avec moussage, pistolets de nettoyage. Pertinence pour tout site équipé d'une centrale de nettoyage (industrie, restauration collective) : information Hydros (V. Odde)."
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "PREST_TRA_003",
+    "nom": "Fontaine Ingénierie",
+    "type": "bureau_etudes",
+    "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792056897/Noe%20assets/logos/PREST_TRA_003.png",
+    "siret": "52817399000029",
+    "description": "Bureau d'études rennais spécialisé dans les eaux de pluie et les eaux grises. Il conduit les projets de récupération d'eau de pluie de bout en bout : étude de faisabilité, dimensionnement des ouvrages, choix du matériel (il n'en vend pas), suivi de chantier, puis mise en service, audit et maintenance de l'installation. Il monte aussi les dossiers de financement et forme maîtres d'ouvrage et installateurs. Prestations sur devis.",
+    "expertises": [
+      "Étude de faisabilité eau de pluie",
+      "Dimensionnement des ouvrages",
+      "Choix du matériel et suivi de chantier",
+      "Formation des installateurs"
+    ],
+    "categories": [
+      "valoriser_reut_eaux_non_conventionnelles",
+      "agir_grand_cycle"
+    ],
+    "secteurs": [],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_AGR_006",
+        "roles": [
+          "conseil_etude",
+          "formation"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://fontaine-ingenierie.fr"
+      },
+      {
+        "type": "mail",
+        "value": "cedric@fontaine-ingenierie.fr"
+      },
+      {
+        "type": "tel",
+        "value": "06 20 47 48 60"
+      },
+      {
+        "type": "adresse",
+        "value": "49 rue Jean Guéhenno, 35700 Rennes"
+      },
+      {
+        "type": "linkedin",
+        "value": "https://fr.linkedin.com/in/cedric-fontaine"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "description, expertises, mesures",
+        "url": "https://fontaine-ingenierie.fr/expertises/",
+        "date": "2026-10-15",
+        "extrait": "Étude de faisabilité, dimensionnement des ouvrages, choix des meilleures technologies disponibles, accompagnement sur chantier. [...] monter un dossier de financement."
+      },
+      {
+        "champ": "description",
+        "url": "https://fontaine-ingenierie.fr/votre-projet/",
+        "date": "2026-10-15",
+        "extrait": "J'ai décidé de récupérer mes eaux de pluie et je cherche à dimensionner mon installation. [...] J'ai besoin qu'un expert mette en service mon système. Je souhaite faire un audit sur mon système. J'ai besoin de maintenance."
+      },
+      {
+        "champ": "description",
+        "url": "https://fontaine-ingenierie.fr/solutions-certifiees/",
+        "date": "2026-10-15",
+        "extrait": "En tant que Bureau d'études, nous devons vous assurer une impartialité vis-à-vis des fabricants [...] nous ne souhaitons pas commercialiser de produits."
+      },
+      {
+        "champ": "expertises, mesures (formation)",
+        "url": "https://fontaine-ingenierie.fr/formations/",
+        "date": "2026-10-15",
+        "extrait": "Récupération et valorisation des eaux de pluie. À destination des maîtres d'oeuvre et des maîtres d'ouvrage, 1 journée. Du dimensionnement du volume de stockage au choix des composants."
+      },
+      {
+        "champ": "contacts",
+        "url": "https://fontaine-ingenierie.fr/",
+        "date": "2026-10-15",
+        "extrait": "49 Rue Jean Guehenno, 35700 Rennes, 06 20 47 48 60, cedric@fontaine-ingenierie.fr"
+      },
+      {
+        "champ": "siret",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=Fontaine%20Ingenierie",
+        "date": "2026-10-15",
+        "extrait": "FONTAINE INVESTISSEMENTS (FONTAINE INGENIERIE), SIRET 52817399000029, 49 rue Jean Guehenno 35700 Rennes, NAF 71.12B, état administratif A."
+      },
+      {
+        "champ": "departements",
+        "url": "https://fontaine-ingenierie.fr/",
+        "date": "2026-10-15",
+        "extrait": "Couverture nationale : information Hydros (V. Odde), seule l'adresse rennaise figure sur le site."
+      },
+      {
+        "champ": "logo_url",
+        "url": "https://fontaine-ingenierie.fr/",
+        "date": "2026-10-15",
+        "extrait": "Logo couleur du pied de page (SVG intégré à la page), déposé sur Cloudinary"
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "PREST_TRA_004",
+    "nom": "Hydros",
+    "type": "bureau_etudes",
+    "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792057351/Noe%20assets/logos/PREST_TRA_004.png",
+    "siret": "95375950300022",
+    "description": "Cabinet de conseil en résilience climatique spécialisé dans l'eau, créé en 2023. Il réalise des audits eau de sites et de bâtiments avec son outil Walter, qui répartit les consommations par lieu et par usage et simule les pistes de réduction, puis rédige le plan de sobriété hydrique et monte les dossiers de financement. Il conduit aussi des études de risques climatiques et hydriques qui projettent le territoire et l'activité de l'établissement à l'horizon 2100, et anime des ateliers et conférences de sensibilisation. Prestations sur devis.",
+    "expertises": [
+      "Audit eau avec l'outil Walter",
+      "Plan de sobriété hydrique",
+      "Étude des risques climatiques et hydriques",
+      "Ateliers et conférences sur l'eau"
+    ],
+    "categories": [
+      "suivre_comprendre_maitriser",
+      "sensibiliser_former"
+    ],
+    "secteurs": [],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_AGR_002",
+        "roles": [
+          "conseil_etude"
+        ]
+      },
+      {
+        "id": "ACT_AGR_009",
+        "roles": [
+          "conseil_etude"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://hydros-consulting.com"
+      },
+      {
+        "type": "mail",
+        "value": "valentin.odde@hydros-consulting.com"
+      },
+      {
+        "type": "adresse",
+        "value": "3 rue Joliot-Curie, 91190 Gif-sur-Yvette"
+      },
+      {
+        "type": "linkedin",
+        "value": "https://www.linkedin.com/company/hydrosgroup/"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "description, expertises, mesures (ACT_AGR_002)",
+        "url": "https://hydros-consulting.com/audit-eau",
+        "date": "2026-10-15",
+        "extrait": "Walter, un outil pour piloter sa consommation d'eau. Grâce à un audit personnalisé, identifiez les leviers d'action. Une visualisation des postes de consommation d'eau de votre bâtiment. Une simulation interactive des pistes de réduction."
+      },
+      {
+        "champ": "description, mesures (ACT_AGR_002, ACT_AGR_009)",
+        "url": "https://hydros-consulting.com/plan-de-sobriete-hydrique",
+        "date": "2026-10-15",
+        "extrait": "Nous réalisons un audit de vos consommations [...] Nous vous aidons à mettre en place votre plan, nous vous accompagnons dans le montage de dossiers de financement et nous suivons l'application du plan d'action."
+      },
+      {
+        "champ": "description, expertises, mesures (ACT_AGR_009)",
+        "url": "https://hydros-consulting.com/risques",
+        "date": "2026-10-15",
+        "extrait": "Nous nous basons sur les données climatiques à horizon 2100 selon les scénarios du GIEC. [...] Nous mettons en regard ces données climatiques avec votre territoire et votre activité et nous en tirons une matrice de risques et vulnérabilités."
+      },
+      {
+        "champ": "description, expertises",
+        "url": "https://hydros-consulting.com/formation-sensibilisation",
+        "date": "2026-10-15",
+        "extrait": "Au travers d'ateliers, de modules de formations ou de conférences, nous vous aidons à impliquer l'ensemble du personnel."
+      },
+      {
+        "champ": "contacts",
+        "url": "https://hydros-consulting.com",
+        "date": "2026-10-15",
+        "extrait": "Lien LinkedIn de la page d'accueil. SAS Hydros, RCS Versailles 953 759 503."
+      },
+      {
+        "champ": "siret, contacts (adresse)",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=953759503",
+        "date": "2026-10-15",
+        "extrait": "HYDROS, SIRET 95375950300022, siège 3 rue Joliot-Curie 91190 Gif-sur-Yvette, NAF 62.02A, créée le 2023-06-20, état administratif A."
+      },
+      {
+        "champ": "departements",
+        "url": "https://hydros-consulting.com",
+        "date": "2026-10-15",
+        "extrait": "Couverture nationale : information Hydros (V. Odde)."
+      },
+      {
+        "champ": "logo_url",
+        "url": "https://hydros-consulting.com",
+        "date": "2026-10-15",
+        "extrait": "Icône du site (apple-touch-icon), déposée sur Cloudinary"
+      },
+      {
+        "champ": "contacts (mail)",
+        "url": "https://hydros-consulting.com",
+        "date": "2026-10-15",
+        "extrait": "Adresse de contact fournie par Hydros (V. Odde) : valentin.odde@hydros-consulting.com"
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "PREST_TRA_005",
+    "nom": "Atelier Compte-Gouttes (Hydros)",
+    "type": "organisme_formation",
+    "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792057354/Noe%20assets/logos/PREST_TRA_005.png",
+    "siret": "95375950300022",
+    "description": "Atelier collaboratif de sensibilisation à l'eau et au changement climatique, conçu par Hydros. En 2 h à 3 h 30, de 6 à 10 participants posent les bases avec une fresque de l'eau, puis se projettent par un jeu de rôle dans un territoire en tension hydrique, avant un débrief qui dégage des pistes d'action. En présentiel ou à distance, pour les entreprises, les collectivités ou le grand public, avec une conférence d'une heure en format court. Sur devis.",
+    "expertises": [
+      "Atelier de sensibilisation à l'eau",
+      "Jeu de rôle sur la tension hydrique",
+      "Conférence eau et climat"
+    ],
+    "categories": [
+      "sensibiliser_former"
+    ],
+    "secteurs": [],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_AGR_009",
+        "roles": [
+          "formation"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://compte-gouttes.fr"
+      },
+      {
+        "type": "mail",
+        "value": "contact@compte-gouttes.fr"
+      },
+      {
+        "type": "linkedin",
+        "value": "https://www.linkedin.com/company/98478146/"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "description, expertises",
+        "url": "https://compte-gouttes.fr/",
+        "date": "2026-10-15",
+        "extrait": "2 h à 3 h 30, 6 à 10 participants, en présentiel ou en distanciel. Une fresque sur l'eau permet de poser les bases. Jeu de rôle immersif. Débrief et conclusions."
+      },
+      {
+        "champ": "description, mesures (ACT_AGR_009)",
+        "url": "https://hydros-consulting.com/formation-sensibilisation",
+        "date": "2026-10-15",
+        "extrait": "Un atelier immersif que nous avons construit permettant de projeter votre entreprise à horizon 2035 face à une situation de stress hydrique et d'en tirer une cartographie de vos risques."
+      },
+      {
+        "champ": "siret",
+        "url": "https://compte-gouttes.fr/",
+        "date": "2026-10-15",
+        "extrait": "Pied de page : Hydros - 2024. Marque déposée à l'INPI, demande n°FR4981539. SIRET de Hydros (recherche-entreprises, SIREN 953759503)."
+      },
+      {
+        "champ": "departements",
+        "url": "https://compte-gouttes.fr/",
+        "date": "2026-10-15",
+        "extrait": "Couverture nationale, en présentiel ou à distance : information Hydros (V. Odde)."
+      },
+      {
+        "champ": "logo_url",
+        "url": "https://compte-gouttes.fr/",
+        "date": "2026-10-15",
+        "extrait": "Icône du site (apple-touch-icon), déposée sur Cloudinary"
+      },
+      {
+        "champ": "contacts (mail)",
+        "url": "https://compte-gouttes.fr",
+        "date": "2026-10-15",
+        "extrait": "Adresse de contact fournie par Hydros (V. Odde) : contact@compte-gouttes.fr"
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "PREST_TRA_006",
+    "nom": "Aquassay",
+    "type": "bureau_etudes",
+    "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792057933/Noe%20assets/logos/PREST_TRA_006.png",
+    "siret": "81099872400019",
+    "description": "Bureau d'études créé à Limoges en 2015, spécialisé dans l'efficacité hydrique des grands sites industriels (agroalimentaire et embouteillage, chimie, plateformes industrielles). Ses ingénieurs cartographient les flux et usages de l'eau du site en posant des points de mesure (débit, pH, conductivité, température) pendant une campagne ciblée ou de façon pérenne, et en déduisent des préconisations. Les données des compteurs et capteurs sont ensuite suivies en temps réel dans son logiciel en ligne, le Métaviseur e-Water Efficiency, avec des indicateurs construits pour le site, sur abonnement.",
+    "expertises": [
+      "Audit et cartographie des usages",
+      "Campagnes de mesure sur site",
+      "Suivi eau en temps réel (Métaviseur)",
+      "Water Master Plan industriel"
+    ],
+    "categories": [
+      "suivre_comprendre_maitriser",
+      "agir_rejets_qualite"
+    ],
+    "secteurs": [
+      "industrie_fruits_legumes",
+      "industrie_laitiere",
+      "industrie_viande"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_AGR_001",
+        "roles": [
+          "conseil_etude"
+        ]
+      },
+      {
+        "id": "ACT_AGR_002",
+        "roles": [
+          "conseil_etude"
+        ]
+      },
+      {
+        "id": "ACT_FRL_002",
+        "roles": [
+          "conseil_etude"
+        ]
+      },
+      {
+        "id": "ACT_LAI_002",
+        "roles": [
+          "conseil_etude"
+        ]
+      },
+      {
+        "id": "ACT_VIA_002",
+        "roles": [
+          "conseil_etude"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://aquassay.com/"
+      },
+      {
+        "type": "tel",
+        "value": "05 87 03 80 57"
+      },
+      {
+        "type": "mail",
+        "value": "hello@aquassay.com"
+      },
+      {
+        "type": "adresse",
+        "value": "31 rue du Châtenet, 87410 Le Palais-sur-Vienne"
+      },
+      {
+        "type": "linkedin",
+        "value": "https://fr.linkedin.com/company/aquassay"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "siret",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=Aquassay&departement=87",
+        "date": "2026-09-25",
+        "extrait": "AQUASSAY, siret 81099872400019, siège, 116 RUE DU GRAND TREUIL 87100 LIMOGES, activité 71.12B, état administratif A"
+      },
+      {
+        "champ": "contacts",
+        "url": "https://aquassay.com/contactez-experts-efficacite-hydrique-aquassay/",
+        "date": "2026-09-25",
+        "extrait": "Email hello@aquassay.com. Téléphone +33 (0)5 87 03 80 57. Adresse Bureaux : 31 Rue du Châtenet, 87410 Le Palais-sur-Vienne. Siège social : 116 Rue du Grand Treuil, 87000 Limoges"
+      },
+      {
+        "champ": "contacts (linkedin)",
+        "url": "https://aquassay.com/contactez-experts-efficacite-hydrique-aquassay/",
+        "date": "2026-09-25",
+        "extrait": "Icône LinkedIn du pied de page (présente aussi sur la page d'accueil) : lien vers https://fr.linkedin.com/company/aquassay"
+      },
+      {
+        "champ": "type, description (historique, cartographies)",
+        "url": "https://aquassay.com/presentation-entreprise-aquassay/",
+        "date": "2026-09-25",
+        "extrait": "Créée à Limoges en 2015 [...] Initialement bureau d'études au service des sites industriels, Aquassay a commencé par réaliser des cartographies des flux et usages de l'eau pour apporter des préconisations d'amélioration"
+      },
+      {
+        "champ": "expertises, mesures (ACT_AGR_002), departements, categories",
+        "url": "https://aquassay.com/services-optimisation-hydrique-aquassay/",
+        "date": "2026-09-25",
+        "extrait": "Des interventions sur site. Plus de 200 sites accompagnés. Études techniques, analyse systémique et intégrée (incluant les usages), campagnes de mesures, digitalisation et connexion temps réel. [...] Réduire les consommations et les rejets de pollutions [...] Établir un Water Master Plan (industrie) [...] Déployer mondialement des programmes d'efficacité hydrique"
+      },
+      {
+        "champ": "mesures (ACT_AGR_002, ACT_AGR_001), description (abonnement, capteurs)",
+        "url": "https://aquassay.com/communique-100-usines-200-abonnements/",
+        "date": "2026-09-25",
+        "extrait": "Que ce soit pour un audit du cycle de l'eau sur un site, une cartographie des usages et traitements de l'eau ou le suivi au long cours d'un process, Aquassay collecte les données des équipements et des capteurs du site. [...] nos clients souscrivent des abonnements [...] Si de nouveaux capteurs doivent être installés temporairement et reliés à un réseau pour l'envoi des données, notre équipe certifiée CATEC, peut intervenir"
+      },
+      {
+        "champ": "mesures (ACT_AGR_001), description (points de mesure par usage)",
+        "url": "https://aquassay.com/efficacite-transition-hydrique-aquassay/",
+        "date": "2026-09-25",
+        "extrait": "Le premier objectif technique est de connaître et suivre précisément les consommations et rejets de chaque usage de l'eau. Ceci peut se faire, durant des campagnes ciblées ou de manière pérenne, par l'installation de points de mesure quantitative et qualitative."
+      },
+      {
+        "champ": "description (paramètres mesurés), secteurs (cas agroalimentaire)",
+        "url": "https://aquassay.com/a3p-180130/",
+        "date": "2026-09-25",
+        "extrait": "par l'installation de points de mesure quantitative et qualitative (débitmétrie, physico-chimie : pH, conductivité, température, etc.) [...] 3.3 Optimisation de procédé de traitement de l'eau. Contexte : industrie agroalimentaire [...] réduction de 60% de la quantité d'eau utilisée par lavage de filtre"
+      },
+      {
+        "champ": "expertises (suivi temps réel), description (eWE)",
+        "url": "https://aquassay.com/metaviseur/",
+        "date": "2026-09-25",
+        "extrait": "MÉTAVISEUR E-WATER EFFICIENCY. Analyser et piloter votre performance [...] Intervention : Définition de vos objectifs techniques, économiques et environnementaux. Co-conception d'indicateurs de suivi adaptés"
+      },
+      {
+        "champ": "secteurs (références clients)",
+        "url": "https://aquassay.com/partenaires-clients-efficacite-hydrique-aquassay/",
+        "date": "2026-09-25",
+        "extrait": "INDUSTRIE AGROALIMENTAIRE ET EMBOUTEILLAGE [...] Nestlé Waters a annoncé avoir l'intention de déployer la solution SaaS d'analyse de données en temps réel d'Aquassay sur ses sites de production industrielle (logos clients dont danone_logo, nestle_waters_logo)"
+      },
+      {
+        "champ": "description, secteurs (références clients)",
+        "url": "https://aquassay.com/partenaires-clients-efficacite-hydrique-aquassay/",
+        "date": "2026-10-15",
+        "extrait": "INDUSTRIE AGROALIMENTAIRE ET EMBOUTEILLAGE : Abatilles, Blue Triton, BWT, Danone, Nestlé Waters. PLATEFORMES INDUSTRIELLES : Alsachimie, Butachimie, Total Energie, Arkema. CHIMIE ET CHIMIE FINE : BASF, Ceva, Johnson, Merck, Solvay."
+      },
+      {
+        "champ": "mesures (ACT_FRL_002, ACT_LAI_002, ACT_VIA_002)",
+        "url": "https://aquassay.com/metaviseur/",
+        "date": "2026-10-15",
+        "extrait": "Définition de vos objectifs techniques, économiques et environnementaux. Co-conception d'indicateurs de suivi adaptés. Analyse métier temps réel et historique long. 100% Web (SaaS)."
+      },
+      {
+        "champ": "contacts (vérification)",
+        "url": "https://aquassay.com/contactez-experts-efficacite-hydrique-aquassay/",
+        "date": "2026-10-15",
+        "extrait": "hello@aquassay.com, +33 (0)5 87 03 80 57, Bureaux : 31 Rue du Châtenet, 87410 Le Palais-sur-Vienne"
+      },
+      {
+        "champ": "logo_url",
+        "url": "https://aquassay.com/new/wp-content/uploads/2019/06/cropped-fav-icon-2-200x200.png",
+        "date": "2026-10-15",
+        "extrait": "Icône du site, déposée sur Cloudinary"
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "PREST_TRA_007",
+    "nom": "Treval France",
+    "type": "installateur",
+    "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792059148/Noe%20assets/logos/PREST_TRA_007.png",
+    "siret": "50386398700015",
+    "description": "Entreprise de Treillières (Loire-Atlantique), intégratrice depuis 2008 des régulateurs de débit Neoperl, fabriqués en Suisse et en Allemagne. Elle mesure les débits de chaque point d'eau d'un parc de bâtiments, pose les régulateurs sur les robinets et les douches avec ses propres équipes, assure la maintenance et chiffre les économies dans un rapport de performance. Intervient pour les hôtels, bureaux, commerces, établissements de santé et collectivités, partout en France, sur devis.",
+    "expertises": [
+      "Pose de régulateurs de débit",
+      "Mesure des débits des points d'eau",
+      "Maintenance des équipements",
+      "Rapport d'économies"
+    ],
+    "categories": [
+      "ameliorer_efficacite_hydrique"
+    ],
+    "secteurs": [],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_HOT_001",
+        "roles": [
+          "travaux"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://treval-france.com"
+      },
+      {
+        "type": "mail",
+        "value": "contact@treval-france.com"
+      },
+      {
+        "type": "tel",
+        "value": "02 28 24 09 40"
+      },
+      {
+        "type": "adresse",
+        "value": "19 rue des Chênes, 44119 Treillières"
+      },
+      {
+        "type": "linkedin",
+        "value": "https://www.linkedin.com/company/5297458/"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "description, expertises, mesures (ACT_HOT_001), departements",
+        "url": "https://treval-france.com/",
+        "date": "2026-10-15",
+        "extrait": "Intégrateur officiel Neoperl depuis 2008. Matériel Neoperl fabriqué en Suisse et en Allemagne. Audit de l'ensemble du parc, mesure des débits. Installation clé en main par nos équipes. Maintenance incluse. Rapport de performance. Partout en France. Secteurs : industrie, hôtellerie, secteur public, santé, construction, commerce, loisirs."
+      },
+      {
+        "champ": "siret, contacts (adresse)",
+        "url": "https://treval-france.com/mentions-legales",
+        "date": "2026-10-15",
+        "extrait": "NERRIERE SARL, nom commercial Treval France, SIRET (siège) 503 863 987 00015, 19 rue des Chênes 44119 Treillières."
+      },
+      {
+        "champ": "siret",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=503863987",
+        "date": "2026-10-15",
+        "extrait": "NERRIERE, SIRET 50386398700015, 19 rue des Chênes 44119 Treillières, NAF 46.69B, état administratif A."
+      },
+      {
+        "champ": "contacts",
+        "url": "https://treval-france.com/",
+        "date": "2026-10-15",
+        "extrait": "02 28 24 09 40, contact@treval-france.com, LinkedIn company/5297458"
+      },
+      {
+        "champ": "logo_url",
+        "url": "https://treval-france.com/logo-treval-bleu.png",
+        "date": "2026-10-15",
+        "extrait": "Logo du site, déposé sur Cloudinary"
+      }
+    ],
+    "date_maj": "2026-10-15"
+  }
+]

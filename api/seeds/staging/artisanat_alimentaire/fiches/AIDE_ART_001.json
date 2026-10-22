@@ -1,0 +1,122 @@
+{
+  "id": "AIDE_ART_001",
+  "nom": "Subvention Prévention « Poussières de farine » (Assurance Maladie, risques professionnels)",
+  "financeur": "Assurance Maladie, risques professionnels (versée par la Carsat, la Cramif, la CGSS ou la CSS de votre région)",
+  "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792065007/Noe%20assets/logos/AIDE_ART_001.png",
+  "type": "subvention",
+  "taux": "70 % du montant HT des équipements",
+  "plafond": "Subvention minimale de 500 € (soit 715 € HT d'investissement). Plafond d'investissement subventionnable de 25 000 € HT sur la période 2023-2028 (ce n'est pas un montant maximal de subvention)",
+  "description": "Aide de santé au travail, pas une aide eau : elle finance des équipements qui réduisent l'exposition des salariés aux poussières de farine (rhinites, asthme professionnel, dermatites). Parmi les équipements éligibles figurent les aspirateurs de boulangerie et pâtisserie adaptés aux poussières de farine et leurs accessoires, ainsi que les pétrins et batteurs-mélangeurs à capot plein, les diviseuses à faible émission et les farineurs. Dans Noé, elle est rattachée au nettoyage à sec parce que l'aspirateur de fournil permet de retirer la farine sans eau avant de laver.",
+  "eligibilite": "Entreprises et associations qui emploient entre 1 et 49 salariés (effectif national), cotisent au régime général comme employeur et sont à jour de leurs cotisations, en métropole et dans les DOM. L'employeur doit adhérer à un service de prévention et de santé au travail, avoir réalisé son document unique d'évaluation des risques (mis à jour depuis moins d'un an, sauf pour les entreprises de moins de 11 salariés) et ne pas avoir de contrat de prévention en cours ou dans les deux années précédentes.",
+  "categories": [
+    "changer_process_pratiques"
+  ],
+  "secteurs": [
+    "artisanat_alimentaire"
+  ],
+  "departements": [],
+  "agences": [],
+  "mesures": [
+    "ACT_ART_005"
+  ],
+  "infos_complementaires": [
+    {
+      "type": "avertissement",
+      "texte": "Réservée aux entreprises qui ont au moins un salarié : un artisan qui travaille seul, sans salarié, n'y a pas droit."
+    },
+    {
+      "type": "avertissement",
+      "texte": "L'aspirateur doit être neuf, acheté en propre (pas de crédit-bail, de leasing ni de location longue durée) et conforme au cahier des charges : classe M ou H, conçu pour les poussières de farine combustibles, filtres et accessoires antistatiques. Le devis ou la facture doit mentionner la conformité au cahier des charges, et la même dépense ne doit pas être subventionnée par un autre financeur public."
+    },
+    {
+      "type": "info",
+      "texte": "Le budget est limité et les demandes sont traitées par ordre d'arrivée : l'Assurance Maladie conseille la demande sur réservation, faite sur devis avant l'achat, plutôt que la demande directe après facture. La demande se fait en ligne sur net-entreprises.fr, rubrique Votre entreprise > Demander une subvention."
+    },
+    {
+      "type": "info",
+      "texte": "Les conditions d'attribution indiquent que la subvention est en vigueur depuis le 1er septembre 2025, et le cahier des charges publié sur ameli.fr est daté d'octobre 2026 (lecture du 15 octobre 2026). Seuls les investissements de l'année en cours sont financés."
+    },
+    {
+      "type": "ressource",
+      "texte": "Page de la subvention sur ameli.fr",
+      "lien": "https://www.ameli.fr/entreprise/sante-travail/prevention/aides-financieres/subventions-1-50-salaries/subventions-risques-chimiques/poussieres-de-farine",
+      "lien_label": "Voir la subvention"
+    },
+    {
+      "type": "ressource",
+      "texte": "Cahier des charges des équipements éligibles, dont l'aspirateur de boulangerie et pâtisserie",
+      "lien": "https://www.ameli.fr/sites/default/files/Documents/Annexe%204%20-%20Cahier%20des%20charges%20-%20poussi%C3%A8res%20farines%20-%20octobre%202026.pdf",
+      "lien_label": "Lire le cahier des charges"
+    },
+    {
+      "type": "ressource",
+      "texte": "Dépôt de la demande sur net-entreprises.fr",
+      "lien": "https://www.net-entreprises.fr/",
+      "lien_label": "Faire la demande"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "description, mesures",
+      "url": "https://www.ameli.fr/entreprise/sante-travail/prevention/aides-financieres/subventions-1-50-salaries/subventions-risques-chimiques/poussieres-de-farine",
+      "date": "2026-10-15",
+      "extrait": "La subvention permet de financer des équipements à faible émission de farine : pétrins à capot plein ; batteurs-mélangeurs à capot plein ; diviseuses à faible émission de farine [...] ; aspirateurs de boulangerie / pâtisserie adapté aux poussières de farine et ses accessoires ; farineurs manuel ou automatique."
+    },
+    {
+      "champ": "taux, plafond",
+      "url": "https://www.ameli.fr/entreprise/sante-travail/prevention/aides-financieres/subventions-1-50-salaries/subventions-risques-chimiques/poussieres-de-farine",
+      "date": "2026-10-15",
+      "extrait": "70 % du montant HT des sommes engagées pour les équipements, Le montant minimum de subvention est de 500 €. [...] (soit un investissement minimum de 715 € HT), à hauteur de 25 000 € HT maximum sur la période 2023-2028."
+    },
+    {
+      "champ": "eligibilite",
+      "url": "https://www.ameli.fr/entreprise/sante-travail/prevention/aides-financieres/subventions-1-50-salaries/subventions-risques-chimiques/poussieres-de-farine",
+      "date": "2026-10-15",
+      "extrait": "La subvention s'adresse à toutes les entreprises de 1 à 49 salariés, quel que soit leur secteur d'activité. [...] adhérer à un service de santé au travail ; [...] ne pas bénéficier d'un contrat de prévention en cours, ni en avoir bénéficié aux cours des deux années précédant la demande"
+    },
+    {
+      "champ": "eligibilite, financeur, departements",
+      "url": "https://www.ameli.fr/sites/default/files/Documents/Conditions%20d%27attribution_poussieres_farine_202610%20et%20annexe1.pdf",
+      "date": "2026-10-15",
+      "extrait": "sociétés et associations (les organismes de la fonction publique sont exclus), implantées sur l'ensemble du territoire, en France Métropolitaine et dans les DOM, cotisant au régime général de la Sécurité Sociale en tant qu'employeur, avec un effectif national compris entre 1 et 49 salariés (selon le SIREN). Versées par les caisses régionales (Carsat, Cramif ou CGSS/CSS)."
+    },
+    {
+      "champ": "eligibilite (document unique)",
+      "url": "https://www.ameli.fr/sites/default/files/Documents/Conditions%20d%27attribution_poussieres_farine_202610%20et%20annexe1.pdf",
+      "date": "2026-10-15",
+      "extrait": "avoir réalisé et mis à jour son document unique d'évaluation des risques (DUER) depuis moins de 1 an (les entreprises de moins de 11 salariés sont exonérées de cette obligation de mise à jour annuelle)"
+    },
+    {
+      "champ": "infos_complementaires (salariés)",
+      "url": "https://www.ameli.fr/sites/default/files/Documents/Conditions%20d%27attribution_poussieres_farine_202610%20et%20annexe1.pdf",
+      "date": "2026-10-15",
+      "extrait": "Le terme « Entreprise » employé dans ce document s'entend par toute entité économique employant des salariés (y compris les associations)."
+    },
+    {
+      "champ": "infos_complementaires (conditions d'achat, cumul, ouverture)",
+      "url": "https://www.ameli.fr/sites/default/files/Documents/Conditions%20d%27attribution_poussieres_farine_202610%20et%20annexe1.pdf",
+      "date": "2026-10-15",
+      "extrait": "Cette subvention est en vigueur au 1er septembre 2025. [...] les investissements de l'année en cours, des équipements neufs [...] (pas de financement possible par crédit-bail, leasing ou sous la forme d'une location de longue durée) [...] ne sollicitera pas une subvention auprès d'un autre opérateur public pour le même investissement."
+    },
+    {
+      "champ": "infos_complementaires (démarche)",
+      "url": "https://www.ameli.fr/sites/default/files/Documents/Conditions%20d%27attribution_poussieres_farine_202610%20et%20annexe1.pdf",
+      "date": "2026-10-15",
+      "extrait": "Les budgets annuels étant limités, une règle privilégiant les demandes selon l'ordre chronologique d'arrivée est appliquée, il est donc fortement conseillé d'opter pour la réservation en ligne."
+    },
+    {
+      "champ": "infos_complementaires (cahier des charges de l'aspirateur)",
+      "url": "https://www.ameli.fr/sites/default/files/Documents/Annexe%204%20-%20Cahier%20des%20charges%20-%20poussi%C3%A8res%20farines%20-%20octobre%202026.pdf",
+      "date": "2026-10-15",
+      "extrait": "Version Octobre 2026. L'aspirateur doit être : destiné à l'aspiration de poussières de farine, de classe M (ou H) suivant la norme NF EN 60335-2-69 : 2012, [...] conçu pour l'aspiration de poussières combustibles, équipé de filtres et d'accessoires (flexible, canne...) antistatiques"
+    },
+    {
+      "champ": "logo_url",
+      "url": "https://www.ameli.fr/apple-touch-icon.png",
+      "date": "2026-10-15",
+      "extrait": "Icône carrée du site ameli.fr (57 x 57 px)"
+    }
+  ],
+  "date_maj": "2026-10-15"
+}

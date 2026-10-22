@@ -1,107 +1,19 @@
 import { useState, useMemo, useEffect } from 'react';
 
-import questionnaireData from '../../questionnaires/agriculture.json';
 import { createSiretStorage } from '../../utils/siretStorage';
-
-const QUESTIONNAIRES = [questionnaireData];
-const SKIP_VALUE = '__skip__';
-
-// ─── Seuils (conservés pour export vers d'autres tabs) ────────────────────
-export const MATURITY_THRESHOLDS = [
-  { min: 0,    max: 0.33, level: 'novice',        label: 'Novice',        color: 'text-amber-700',   bg: 'bg-amber-50',   border: 'border-amber-200',  dot: 'bg-amber-400' },
-  { min: 0.33, max: 0.66, level: 'intermediaire', label: 'Intermédiaire', color: 'text-blue-700',    bg: 'bg-blue-50',    border: 'border-blue-200',   dot: 'bg-blue-400' },
-  { min: 0.66, max: 1.01, level: 'avance',        label: 'Avancé',        color: 'text-emerald-700', bg: 'bg-emerald-50', border: 'border-emerald-200',dot: 'bg-emerald-400' },
-];
-
-export const CONCERN_THRESHOLDS = [
-  { min: 0,    max: 0.33, level: 'faible', label: 'Faible concernement', color: 'text-slate-600',  bg: 'bg-slate-50',  border: 'border-slate-200' },
-  { min: 0.33, max: 0.66, level: 'moyen',  label: 'Concerné',            color: 'text-violet-700', bg: 'bg-violet-50', border: 'border-violet-200' },
-  { min: 0.66, max: 1.01, level: 'eleve',  label: 'Très motivé',         color: 'text-primary',    bg: 'bg-primary/5', border: 'border-primary/20' },
-];
-
-// ─── Utilitaires ─────────────────────────────────────────────────────────
-export function getLevel(ratio, thresholds) {
-  return thresholds.find(t => ratio >= t.min && ratio < t.max) ?? thresholds[0];
-}
-
-export function evaluateCondition(condition, answers) {
-  if (!condition) return true;
-  if (condition.operator === 'and') return condition.rules.every(r => evaluateCondition(r, answers));
-  if (condition.operator === 'or')  return condition.rules.some(r => evaluateCondition(r, answers));
-  const answer = answers[condition.questionId];
-  if (answer === undefined) return false;
-  switch (condition.operator) {
-    case 'eq':  return answer === condition.value;
-    case 'neq': return answer !== condition.value;
-    case 'in':  return condition.value.includes(answer);
-    case 'nin': return !condition.value.includes(answer);
-    default:    return true;
-  }
-}
-
-// Returns true when a question has a valid real answer (not skip, not empty)
-export function isQuestionAnswered(question, answer) {
-  if (answer === undefined || answer === null || answer === SKIP_VALUE) return false;
-  switch (question?.type) {
-    case 'multi_choice': return Array.isArray(answer) && answer.length > 0;
-    case 'numeric':      return typeof answer === 'string' && answer.trim() !== '';
-    default:             return true; // single_choice: any truthy value
-  }
-}
-
-export function computeScores(questions, answers) {
-  const visible  = questions.filter(q => evaluateCondition(q.condition, answers));
-  const answered = visible.filter(q => isQuestionAnswered(q, answers[q.id]));
-
-  if (answered.length === 0) return null;
-
-  let maturityTotal = 0;
-  let concernTotal  = 0;
-  const topicCounts = {};
-  const maxPerQ = 3;
-
-  answered.forEach(q => {
-    const ans = answers[q.id];
-
-    if (q.type === 'multi_choice') {
-      // Sum scores of selected options, capped at maxPerQ
-      const selected = q.options.filter(o => ans.includes(o.id));
-      const m = Math.min(maxPerQ, selected.reduce((s, o) => s + o.maturity_score, 0));
-      const c = Math.min(maxPerQ, selected.reduce((s, o) => s + o.concern_score,  0));
-      maturityTotal += m;
-      concernTotal  += c;
-      selected.forEach(o => o.topics.forEach(t => { topicCounts[t] = (topicCounts[t] || 0) + 1; }));
-
-    } else if (q.type === 'numeric') {
-      const score = q.scoring.if_filled;
-      maturityTotal += score.maturity_score;
-      concernTotal  += score.concern_score;
-      score.topics.forEach(t => { topicCounts[t] = (topicCounts[t] || 0) + 1; });
-
-    } else {
-      // single_choice
-      const opt = q.options.find(o => o.id === ans);
-      if (!opt) return;
-      maturityTotal += opt.maturity_score;
-      concernTotal  += opt.concern_score;
-      opt.topics.forEach(t => { topicCounts[t] = (topicCounts[t] || 0) + 1; });
-    }
-  });
-
-  const maxMaturity = answered.length * maxPerQ;
-  const maxConcern  = answered.length * maxPerQ;
-
-  return {
-    maturityRatio:  maxMaturity > 0 ? maturityTotal / maxMaturity : 0,
-    concernRatio:   maxConcern  > 0 ? concernTotal  / maxConcern  : 0,
-    topics: Object.entries(topicCounts).sort((a, b) => b[1] - a[1]).map(([t]) => t),
-    answeredCount: answered.length,
-    totalCount: visible.length,
-  };
-}
+// Le scoring vit dans un util sans React, partagé avec la Synthèse, l'onglet
+// Avancer et le script de simulation du référentiel.
+import {
+  SKIP_VALUE,
+  evaluateCondition,
+  isQuestionAnswered,
+  computeScores,
+} from '../../utils/questionnaireScoring';
 
 // ─── LocalStorage ────────────────────────────────────────────────────────
-const storage = createSiretStorage('maturite_data');
+// Suffixe _v2 depuis le passage aux ids d'options sémantiques : les réponses
+// enregistrées sous les anciens ids (a, b, c) seraient scorées de travers.
+const storage = createSiretStorage('maturite_data_v2');
 
 function loadData(siret) {
   const data = storage.load(siret);
@@ -111,6 +23,12 @@ function loadData(siret) {
 function persistData(siret, answers, scores) {
   storage.persist(siret, { answers, scores });
 }
+
+// Charte commune aux onglets : dégradé de marque, ombre des cartes, bleu ciel
+// pour ce qui est fait (repris de la Synthèse). Les cartes ont en plus un
+// filet bleu marine léger, pour détacher le questionnaire du fond de page.
+const DEGRADE = 'linear-gradient(135deg, #000a43 0%, #051b71 100%)';
+const OMBRE   = '0 0 0 1px rgba(5,27,113,0.22), 0 0 40px rgba(0,10,67,0.06)';
 
 // ─── MetroLine ───────────────────────────────────────────────────────────
 function MetroLine({ questions, answers, currentIndex, onNavigate }) {
@@ -130,7 +48,7 @@ function MetroLine({ questions, answers, currentIndex, onNavigate }) {
         {/* ── Colored progress rail (answered segments) ── */}
         {currentIndex > 0 && (
           <div
-            className="absolute top-1/2 -translate-y-1/2 h-0.5 bg-primary/40 rounded-full pointer-events-none transition-all duration-300"
+            className="absolute top-1/2 -translate-y-1/2 h-0.5 bg-tertiary/50 rounded-full pointer-events-none transition-all duration-300"
             style={{
               left: 14,
               // reaches center of the currentIndex dot
@@ -149,13 +67,13 @@ function MetroLine({ questions, answers, currentIndex, onNavigate }) {
           let inner = null;
 
           if (isCurrent) {
-            cls = 'bg-primary border-primary text-white ring-2 ring-primary/25 ring-offset-1 scale-125 shadow-md z-20';
+            cls = 'bg-primary-container border-primary-container text-white ring-2 ring-primary-container/20 ring-offset-1 scale-125 shadow-md z-20';
             inner = <span className="text-[0.5rem] font-bold">{i + 1}</span>;
           } else if (skipped) {
             cls = 'bg-surface-low border-slate-300 text-slate-400 hover:border-primary/40 z-10';
             inner = <span className="text-[0.6rem] leading-none">−</span>;
           } else if (answered) {
-            cls = 'bg-emerald-400 border-emerald-500 text-white hover:bg-emerald-500 z-10';
+            cls = 'bg-tertiary border-tertiary text-white hover:opacity-85 z-10';
             inner = (
               <svg className="w-2.5 h-2.5" viewBox="0 0 10 10" fill="none">
                 <path d="M1.5 5l2.5 2.5 4.5-4.5" stroke="white" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round"/>
@@ -194,12 +112,12 @@ function SingleChoiceCard({ question, value, onChange }) {
             onClick={() => onChange(isSelected ? undefined : opt.id)}
             className={`w-full text-left px-4 py-3 rounded-xl border text-[0.875rem] leading-snug transition-all duration-150
               ${isSelected
-                ? 'bg-primary/10 border-primary/50 text-primary font-medium shadow-sm'
-                : 'bg-surface border-border text-on-surface-var hover:border-primary/30 hover:bg-primary/4 hover:text-on-surface'
+                ? 'bg-primary-container/[0.06] border-primary-container/60 text-primary font-semibold'
+                : 'bg-surface-low border-transparent text-on-surface hover:bg-surface-high'
               }`}
           >
             <span className={`inline-block w-4 h-4 rounded-full border-2 mr-3 flex-shrink-0 align-middle transition-all
-              ${isSelected ? 'border-primary bg-primary' : 'border-border'}`}
+              ${isSelected ? 'border-primary-container bg-primary-container' : 'border-on-surface-var/30 bg-white'}`}
             />
             {opt.text}
           </button>
@@ -230,13 +148,13 @@ function MultiChoiceCard({ question, value, onChange }) {
             onClick={() => toggle(opt.id)}
             className={`w-full text-left px-4 py-3 rounded-xl border text-[0.875rem] leading-snug transition-all duration-150
               ${isSelected
-                ? 'bg-primary/10 border-primary/50 text-primary font-medium shadow-sm'
-                : 'bg-surface border-border text-on-surface-var hover:border-primary/30 hover:bg-primary/4 hover:text-on-surface'
+                ? 'bg-primary-container/[0.06] border-primary-container/60 text-primary font-semibold'
+                : 'bg-surface-low border-transparent text-on-surface hover:bg-surface-high'
               }`}
           >
             {/* Square checkbox indicator */}
             <span className={`inline-flex w-4 h-4 rounded border-2 mr-3 flex-shrink-0 align-middle items-center justify-center transition-all
-              ${isSelected ? 'border-primary bg-primary' : 'border-border'}`}
+              ${isSelected ? 'border-primary-container bg-primary-container' : 'border-on-surface-var/30 bg-white'}`}
             >
               {isSelected && (
                 <svg className="w-2.5 h-2.5" viewBox="0 0 10 10" fill="none">
@@ -272,7 +190,7 @@ function NumericCard({ question, value, onChange }) {
           placeholder={cfg.placeholder ?? ''}
           value={strVal}
           onChange={handleChange}
-          className="flex-1 px-4 py-3 rounded-xl border border-border bg-surface text-on-surface text-[0.875rem] outline-none focus:border-primary/50 focus:ring-2 focus:ring-primary/10 transition-all"
+          className="flex-1 px-4 py-3 rounded-xl border border-transparent bg-surface-low text-on-surface text-[0.875rem] outline-none focus:bg-white focus:border-primary-container/50 focus:ring-2 focus:ring-primary-container/10 transition-all"
         />
         {cfg.unit && (
           <span className="text-[0.875rem] text-on-surface-var font-medium flex-shrink-0 pr-1">
@@ -300,20 +218,24 @@ function QuestionCard({ question, value, onChange }) {
 }
 
 // ─── Composant principal ──────────────────────────────────────────────────
-export default function TabMaturite({ entreprise }) {
-  const siret   = entreprise?.siret;
-  const nafCode = entreprise?.activiteprincipaleetablissement;
+export default function TabMaturite({ entreprise, referentiel, onAllerPlan }) {
+  const siret = entreprise?.siret;
 
-  const questionnaire = useMemo(() =>
-    QUESTIONNAIRES.find(q => q.naf_codes.includes(nafCode)) ?? QUESTIONNAIRES[0],
-    [nafCode]
-  );
+  // Le référentiel est servi par l'API selon le code NAF, et garanti non nul
+  // par le ReferentielGate de CompanyPage.
+  const questionnaire = referentiel;
 
-  // Answers — initialized from localStorage (discarded if siret doesn't match)
+  // Answers: initialized from localStorage (discarded if siret doesn't match)
   const [answers, setAnswers] = useState(() => loadData(siret).answers);
 
-  // Force-show quiz even when complete (review mode)
-  const [reviewing, setReviewing] = useState(false);
+  // Écran de fin : affiché à l'ouverture si tout est déjà renseigné, puis
+  // seulement au clic sur « Terminer » (pas dès la dernière réponse, pour
+  // laisser cocher plusieurs options à la dernière question)
+  const [recap, setRecap] = useState(() => {
+    const { answers: saved } = loadData(siret);
+    const qs = questionnaire.questions.filter(q => evaluateCondition(q.condition, saved));
+    return qs.length > 0 && qs.every(q => saved[q.id] === SKIP_VALUE || isQuestionAnswered(q, saved[q.id]));
+  });
 
   // Current question index
   const [currentIndex, setCurrentIndex] = useState(() => {
@@ -368,7 +290,7 @@ export default function TabMaturite({ entreprise }) {
   const handleReset = () => {
     setAnswers({});
     setCurrentIndex(0);
-    setReviewing(false);
+    setRecap(false);
     storage.clear();
   };
 
@@ -387,29 +309,24 @@ export default function TabMaturite({ entreprise }) {
     <div className="flex flex-col gap-5 max-w-2xl mx-auto">
 
       {/* ── En-tête ───────────────────────────────────────────────────── */}
-      <div className="rounded-2xl bg-surface-low border border-border p-5 flex flex-col gap-4">
+      <div className="rounded-2xl bg-surface-lowest p-6 flex flex-col gap-5" style={{ boxShadow: OMBRE }}>
         <div className="flex items-start justify-between gap-4">
-          <div className="flex flex-col gap-0.5">
-            <p className="text-[0.6875rem] font-semibold text-on-surface-var uppercase tracking-widest">
-              Évaluation maturité eau
-            </p>
-            <p className="text-[1rem] font-bold text-on-surface leading-snug">
+          <div className="flex flex-col gap-1">
+            <h2 className="text-[1.125rem] sm:text-[1.25rem] font-extrabold text-primary leading-snug" style={{ letterSpacing: '-0.015em' }}>
               {questionnaire.sector_label}
+            </h2>
+            <p className="text-[0.8125rem] text-on-surface-var tabular-nums">
+              {totalAnswered} question{totalAnswered > 1 ? 's' : ''} renseignée{totalAnswered > 1 ? 's' : ''} sur {totalVisible}
             </p>
           </div>
-          <div className="flex items-center gap-2 flex-shrink-0">
-            <span className="text-[0.75rem] text-on-surface-var tabular-nums">
-              {totalAnswered}/{totalVisible}
-            </span>
-            {totalAnswered > 0 && (
-              <button
-                onClick={handleReset}
-                className="text-[0.75rem] text-on-surface-var hover:text-red-600 transition-colors px-3 py-1.5 rounded-lg border border-border hover:border-red-200 hover:bg-red-50"
-              >
-                Réinitialiser
-              </button>
-            )}
-          </div>
+          {totalAnswered > 0 && (
+            <button
+              onClick={handleReset}
+              className="shrink-0 text-[0.75rem] text-on-surface-var hover:text-red-600 transition-colors px-3 py-1.5 rounded-lg bg-surface-low hover:bg-red-50"
+            >
+              Réinitialiser
+            </button>
+          )}
         </div>
 
         {/* Metro progress line */}
@@ -417,53 +334,72 @@ export default function TabMaturite({ entreprise }) {
           questions={visibleQuestions}
           answers={answers}
           currentIndex={currentIndex}
-          onNavigate={setCurrentIndex}
+          onNavigate={i => { setRecap(false); setCurrentIndex(i); }}
         />
       </div>
 
-      {/* ── Question ou completion ─────────────────────────────────── */}
-      {isComplete && !reviewing ? (
-        /* Completion state */
-        <div className="rounded-2xl border border-emerald-200 bg-emerald-50 p-8 flex flex-col items-center gap-4 text-center">
-          <div className="w-12 h-12 rounded-full bg-emerald-100 border-2 border-emerald-300 flex items-center justify-center text-emerald-600 text-xl">
-            ✓
-          </div>
+      {/* ── Question ou écran de fin ─────────────────────────────────── */}
+      {isComplete && recap ? (
+        <div className="rounded-2xl bg-surface-lowest px-6 sm:px-8 py-8 flex flex-col items-center gap-5 text-center" style={{ boxShadow: OMBRE }}>
+          <span className="w-12 h-12 rounded-full flex items-center justify-center text-white" style={{ background: DEGRADE }} aria-hidden="true">
+            <svg width="20" height="20" viewBox="0 0 20 20" fill="none">
+              <path d="M4.5 10.5l3.5 3.5 7.5-8" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" />
+            </svg>
+          </span>
           <div className="flex flex-col gap-1">
-            <p className="text-[1rem] font-bold text-emerald-900">Questionnaire complété</p>
-            <p className="text-[0.875rem] text-emerald-700 leading-relaxed max-w-sm">
-              Toutes les questions ont été renseignées. Les résultats sont disponibles dans l'onglet Synthèse.
+            <p className="text-[1.125rem] font-extrabold text-primary" style={{ letterSpacing: '-0.015em' }}>
+              Questionnaire terminé
+            </p>
+            <p className="text-[0.875rem] text-on-surface-var leading-relaxed max-w-sm">
+              Vos réponses sont enregistrées. Votre score de maturité et les mesures adaptées à votre site vous attendent.
             </p>
           </div>
-          <button
-            onClick={() => { setReviewing(true); setCurrentIndex(0); }}
-            className="text-[0.8125rem] text-emerald-700 hover:text-emerald-900 transition-colors underline underline-offset-2"
-          >
-            Revoir les réponses
-          </button>
+          <div className="flex flex-col sm:flex-row items-center gap-3">
+            {onAllerPlan && (
+              <button
+                type="button"
+                onClick={onAllerPlan}
+                className="inline-flex items-center justify-center gap-2 rounded-xl px-5 py-3 text-[0.875rem] font-semibold text-white transition-opacity hover:opacity-90 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary-container"
+                style={{ background: DEGRADE }}
+              >
+                Voir mon plan d'action
+                <svg width="16" height="16" viewBox="0 0 16 16" aria-hidden="true">
+                  <path d="M3 8h10M9 4l4 4-4 4" fill="none" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round" />
+                </svg>
+              </button>
+            )}
+            <button
+              type="button"
+              onClick={() => { setRecap(false); setCurrentIndex(0); }}
+              className="rounded-xl px-4 py-3 text-[0.8125rem] font-medium text-on-surface-var hover:text-primary hover:bg-surface-low transition-colors"
+            >
+              Revoir les réponses
+            </button>
+          </div>
         </div>
       ) : currentQuestion ? (
         /* Question active */
-        <div className="rounded-2xl bg-surface-low border border-border overflow-hidden">
+        <div className="rounded-2xl bg-surface-lowest overflow-hidden" style={{ boxShadow: OMBRE }}>
 
           {/* Question header */}
-          <div className="px-6 pt-6 pb-4 border-b border-border/60 flex flex-col gap-2">
+          <div className="px-6 pt-6 pb-4 flex flex-col gap-3">
             <div className="flex items-center gap-2">
               {currentTheme && (
-                <span className="text-[0.6875rem] font-semibold text-on-surface-var uppercase tracking-widest">
+                <span className="text-[0.6875rem] font-semibold px-2.5 py-1 rounded-full bg-surface-high text-on-surface-var">
                   {currentTheme.label}
                 </span>
               )}
-              <span className="text-[0.6875rem] text-on-surface-var/50 ml-auto tabular-nums">
+              <span className="text-[0.75rem] text-on-surface-var/60 ml-auto tabular-nums">
                 {currentIndex + 1} / {totalVisible}
               </span>
             </div>
-            <p className="text-[1rem] font-semibold text-on-surface leading-snug">
+            <p className="text-[1.0625rem] sm:text-[1.125rem] font-bold text-primary leading-snug" style={{ letterSpacing: '-0.01em' }}>
               {currentQuestion.text}
             </p>
           </div>
 
           {/* Options */}
-          <div className="px-6 py-5">
+          <div className="px-6 pb-5">
             <QuestionCard
               question={currentQuestion}
               value={isSkipped ? undefined : currentValue}
@@ -472,11 +408,11 @@ export default function TabMaturite({ entreprise }) {
           </div>
 
           {/* Actions */}
-          <div className="px-6 pb-6 flex items-center justify-between gap-3">
+          <div className="px-6 py-4 flex items-center justify-between gap-3 border-t border-surface-high">
             <button
               onClick={handlePrev}
               disabled={currentIndex === 0}
-              className="text-[0.8125rem] text-on-surface-var hover:text-on-surface transition-colors disabled:opacity-30 disabled:cursor-not-allowed flex items-center gap-1.5"
+              className="text-[0.8125rem] text-on-surface-var hover:text-primary transition-colors disabled:opacity-30 disabled:cursor-not-allowed flex items-center gap-1.5"
             >
               <svg className="w-3.5 h-3.5" viewBox="0 0 14 14" fill="none">
                 <path d="M9 2L4 7l5 5" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round"/>
@@ -493,7 +429,7 @@ export default function TabMaturite({ entreprise }) {
                 return (
                   <button
                     onClick={handleSkipAndNext}
-                    className="inline-flex items-center gap-2 px-5 py-2.5 rounded-xl border border-border bg-surface text-on-surface-var text-[0.875rem] font-medium transition-all hover:border-primary/30 hover:text-on-surface hover:bg-primary/4"
+                    className="inline-flex items-center gap-2 px-5 py-2.5 rounded-xl bg-surface-low text-on-surface-var text-[0.875rem] font-medium transition-colors hover:bg-surface-high hover:text-primary"
                   >
                     Je ne sais pas
                     <svg className="w-3.5 h-3.5" viewBox="0 0 14 14" fill="none">
@@ -507,7 +443,7 @@ export default function TabMaturite({ entreprise }) {
               const handleAction = isLast
                 ? (firstUnanswered >= 0
                     ? () => setCurrentIndex(firstUnanswered)
-                    : () => setReviewing(false))
+                    : () => setRecap(true))
                 : handleNext;
               const label = isLast
                 ? (firstUnanswered >= 0 ? 'Question manquante' : 'Terminer')
@@ -516,7 +452,8 @@ export default function TabMaturite({ entreprise }) {
               return (
                 <button
                   onClick={handleAction}
-                  className="inline-flex items-center gap-2 px-5 py-2.5 rounded-xl bg-primary text-white text-[0.875rem] font-semibold transition-all hover:opacity-90 shadow-sm"
+                  className="inline-flex items-center gap-2 px-5 py-2.5 rounded-xl text-white text-[0.875rem] font-semibold transition-opacity hover:opacity-90"
+                  style={{ background: DEGRADE }}
                 >
                   {label}
                   <svg className="w-3.5 h-3.5" viewBox="0 0 14 14" fill="none">

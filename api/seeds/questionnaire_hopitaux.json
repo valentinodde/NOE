@@ -1,0 +1,849 @@
+{
+  "sector_id": "hopitaux",
+  "sector_label": "Hôpitaux et cliniques",
+  "naf_codes": [
+    "86.10Z"
+  ],
+  "themes": [
+    {
+      "id": "connaissance",
+      "label": "Connaissance & mesure"
+    },
+    {
+      "id": "reseaux",
+      "label": "Réseaux & équipements"
+    },
+    {
+      "id": "eaux_rejets",
+      "label": "Autres eaux & rejets"
+    },
+    {
+      "id": "gouvernance",
+      "label": "Continuité & anticipation"
+    }
+  ],
+  "questions": [
+    {
+      "id": "hop_q01",
+      "theme": "connaissance",
+      "order": 1,
+      "type": "single_choice",
+      "text": "Quel type d'activité votre établissement accueille-t-il sur son site ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "sans_hebergement",
+          "text": "Pas de lits sur site (hospitalisation à domicile, siège)",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": []
+        },
+        {
+          "id": "hebergement_seul",
+          "text": "Hospitalisation sans bloc ni imagerie (soins de suite, psychiatrie)",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": []
+        },
+        {
+          "id": "plateau_technique",
+          "text": "Hospitalisation avec blocs, imagerie ou urgences",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "hop_q02",
+      "theme": "connaissance",
+      "order": 2,
+      "type": "single_choice",
+      "text": "Comment suivez-vous la consommation d'eau de l'établissement ?",
+      "condition": {
+        "questionId": "hop_q01",
+        "operator": "neq",
+        "value": "sans_hebergement"
+      },
+      "options": [
+        {
+          "id": "facture",
+          "text": "Par la facture uniquement",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "comptage"
+          ]
+        },
+        {
+          "id": "releve_general",
+          "text": "Relevé régulier du compteur général",
+          "maturity_score": 1,
+          "concern_score": 1,
+          "topics": [
+            "comptage"
+          ]
+        },
+        {
+          "id": "sous_compteurs",
+          "text": "Sous-compteurs par bâtiment ou par usage, relevés",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        },
+        {
+          "id": "telereleve",
+          "text": "Télérelève ou GTC, avec alertes de surconsommation",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "hop_q03",
+      "theme": "connaissance",
+      "order": 3,
+      "type": "single_choice",
+      "text": "Avez-vous fait réaliser un audit ou un diagnostic eau de votre établissement ?",
+      "condition": {
+        "questionId": "hop_q01",
+        "operator": "neq",
+        "value": "sans_hebergement"
+      },
+      "options": [
+        {
+          "id": "jamais",
+          "text": "Non, jamais",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "audit"
+          ]
+        },
+        {
+          "id": "envisage",
+          "text": "On y a réfléchi mais pas encore fait",
+          "maturity_score": 0,
+          "concern_score": 2,
+          "topics": [
+            "audit"
+          ]
+        },
+        {
+          "id": "ancien",
+          "text": "Oui, il y a plus de 5 ans",
+          "maturity_score": 1,
+          "concern_score": 2,
+          "topics": [
+            "audit"
+          ]
+        },
+        {
+          "id": "recent",
+          "text": "Oui, récemment (moins de 3 ans)",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "hop_q04",
+      "theme": "connaissance",
+      "order": 4,
+      "type": "single_choice",
+      "text": "Comment les fuites des réseaux enterrés et des locaux techniques sont-elles recherchées ?",
+      "condition": {
+        "questionId": "hop_q01",
+        "operator": "neq",
+        "value": "sans_hebergement"
+      },
+      "options": [
+        {
+          "id": "non_recherchees",
+          "text": "Elles ne sont pas recherchées, on répare ce qui se voit",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "fuites"
+          ]
+        },
+        {
+          "id": "ecarts_facture",
+          "text": "On réagit quand la facture augmente",
+          "maturity_score": 1,
+          "concern_score": 1,
+          "topics": [
+            "fuites"
+          ]
+        },
+        {
+          "id": "campagne_ponctuelle",
+          "text": "Une campagne de recherche a déjà été menée",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        },
+        {
+          "id": "recherche_reguliere",
+          "text": "Recherche régulière ou suivi des débits de nuit",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "hop_q05",
+      "theme": "reseaux",
+      "order": 5,
+      "type": "single_choice",
+      "text": "Comment gérez-vous les points d'eau peu utilisés et leurs purges anti-légionelles ?",
+      "condition": {
+        "questionId": "hop_q01",
+        "operator": "neq",
+        "value": "sans_hebergement"
+      },
+      "options": [
+        {
+          "id": "sans_protocole",
+          "text": "Pas de protocole, purges au cas par cas",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "legionelles"
+          ]
+        },
+        {
+          "id": "purges_systematiques",
+          "text": "Purges longues sur tous les points, sans recensement",
+          "maturity_score": 1,
+          "concern_score": 1,
+          "topics": [
+            "legionelles"
+          ]
+        },
+        {
+          "id": "points_recenses",
+          "text": "Points peu utilisés recensés et purgés selon un protocole",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        },
+        {
+          "id": "bras_morts_supprimes",
+          "text": "Bras morts supprimés, purges ajustées et tracées",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "hop_q06",
+      "theme": "reseaux",
+      "order": 6,
+      "type": "single_choice",
+      "text": "Quels équipements économes équipent vos chambres et vos lave-mains ?",
+      "condition": {
+        "questionId": "hop_q01",
+        "operator": "neq",
+        "value": "sans_hebergement"
+      },
+      "options": [
+        {
+          "id": "origine",
+          "text": "Équipements d'origine, sans critère d'économie",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "equipements"
+          ]
+        },
+        {
+          "id": "reducteurs_debit",
+          "text": "Réducteurs de débit ou mousseurs posés largement",
+          "maturity_score": 1,
+          "concern_score": 2,
+          "topics": [
+            "equipements"
+          ]
+        },
+        {
+          "id": "au_renouvellement",
+          "text": "Critère d'économie au renouvellement, au cas par cas",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        },
+        {
+          "id": "programme_valide",
+          "text": "Programme de renouvellement validé par l'équipe d'hygiène",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "hop_q07",
+      "theme": "reseaux",
+      "order": 7,
+      "type": "single_choice",
+      "text": "Pratiquez-vous l'hémodialyse sur le site, et où en est son traitement d'eau ?",
+      "condition": {
+        "questionId": "hop_q01",
+        "operator": "neq",
+        "value": "sans_hebergement"
+      },
+      "options": [
+        {
+          "id": "traitement_ancien",
+          "text": "Oui, traitement d'eau ancien ou eau par séance inconnue",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "dialyse"
+          ]
+        },
+        {
+          "id": "traitement_recent",
+          "text": "Oui, traitement récent, rejets d'osmose non réutilisés",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": [
+            "dialyse"
+          ]
+        },
+        {
+          "id": "rejets_reutilises",
+          "text": "Oui, traitement récent et rejets d'osmose réutilisés",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        },
+        {
+          "id": "sans_dialyse",
+          "text": "Pas d'hémodialyse sur le site",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "hop_q08",
+      "theme": "reseaux",
+      "order": 8,
+      "type": "single_choice",
+      "text": "Comment l'eau compte-t-elle dans vos choix de blanchisserie et de stérilisation ?",
+      "condition": {
+        "questionId": "hop_q01",
+        "operator": "neq",
+        "value": "sans_hebergement"
+      },
+      "options": [
+        {
+          "id": "sans_critere",
+          "text": "Elle n'entre ni dans les achats ni dans le marché",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "equipements"
+          ]
+        },
+        {
+          "id": "critere_achat",
+          "text": "Consommation par kilo ou par cycle exigée à l'achat",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        },
+        {
+          "id": "equipements_economes",
+          "text": "Équipements économes en place (tunnel, recyclage)",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        },
+        {
+          "id": "sans_objet",
+          "text": "Ni blanchisserie ni stérilisation, sur site ou en prestation",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "hop_q09",
+      "theme": "eaux_rejets",
+      "order": 9,
+      "type": "single_choice",
+      "text": "Utilisez-vous une autre eau que celle du réseau pour l'arrosage, le nettoyage ou les chasses ?",
+      "condition": {
+        "questionId": "hop_q01",
+        "operator": "neq",
+        "value": "sans_hebergement"
+      },
+      "options": [
+        {
+          "id": "reseau_seul",
+          "text": "Non, tout vient du réseau d'eau potable",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "autres_eaux"
+          ]
+        },
+        {
+          "id": "projet_etudie",
+          "text": "Un projet est étudié, pas encore réalisé",
+          "maturity_score": 0,
+          "concern_score": 2,
+          "topics": [
+            "autres_eaux"
+          ]
+        },
+        {
+          "id": "eau_pluie",
+          "text": "Oui, de l'eau de pluie pour l'arrosage ou le nettoyage",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        },
+        {
+          "id": "plusieurs_sources",
+          "text": "Oui, plusieurs eaux (pluie, rejets d'osmose, forage)",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "hop_q10",
+      "theme": "eaux_rejets",
+      "order": 10,
+      "type": "single_choice",
+      "text": "Où en êtes-vous de la connaissance et de la maîtrise de vos effluents ?",
+      "condition": {
+        "questionId": "hop_q01",
+        "operator": "eq",
+        "value": "plateau_technique"
+      },
+      "options": [
+        {
+          "id": "non_caracterises",
+          "text": "Ils n'ont jamais été caractérisés",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "rejets"
+          ]
+        },
+        {
+          "id": "autorisation_seule",
+          "text": "Autorisation de déversement, sans analyse récente",
+          "maturity_score": 1,
+          "concern_score": 1,
+          "topics": [
+            "rejets"
+          ]
+        },
+        {
+          "id": "convention_suivie",
+          "text": "Convention de déversement et analyses régulières",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        },
+        {
+          "id": "reduction_source",
+          "text": "Analyses suivies et réduction à la source engagée",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "hop_q11",
+      "theme": "gouvernance",
+      "order": 11,
+      "type": "single_choice",
+      "text": "Votre plan blanc prévoit-il une rupture d'approvisionnement en eau ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "non_traite",
+          "text": "Non, ce risque n'y est pas traité",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "continuite"
+          ]
+        },
+        {
+          "id": "connu_sans_procedure",
+          "text": "Le risque est connu, sans procédure écrite",
+          "maturity_score": 1,
+          "concern_score": 2,
+          "topics": [
+            "continuite"
+          ]
+        },
+        {
+          "id": "procedure_ecrite",
+          "text": "Oui, procédure écrite (besoins par service, stocks, citerne)",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        },
+        {
+          "id": "procedure_exercee",
+          "text": "Oui, procédure écrite et exercée régulièrement",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "hop_q12",
+      "theme": "gouvernance",
+      "order": 12,
+      "type": "single_choice",
+      "text": "Participez-vous à une démarche collective sur l'eau dans votre territoire ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "non",
+          "text": "Non",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "territoire"
+          ]
+        },
+        {
+          "id": "informe",
+          "text": "Je connais les démarches locales sans y participer",
+          "maturity_score": 1,
+          "concern_score": 2,
+          "topics": [
+            "territoire"
+          ]
+        },
+        {
+          "id": "participe",
+          "text": "Oui, l'établissement y participe",
+          "maturity_score": 2,
+          "concern_score": 3,
+          "topics": []
+        },
+        {
+          "id": "porteur",
+          "text": "Oui, l'établissement porte ou anime une démarche",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    }
+  ],
+  "topics_labels": {
+    "comptage": "Comptage & mesure",
+    "audit": "Audit eau",
+    "fuites": "Recherche de fuites",
+    "legionelles": "Purges et bras morts",
+    "equipements": "Équipements économes",
+    "dialyse": "Eau de dialyse",
+    "autres_eaux": "Eaux de pluie et de rejet",
+    "rejets": "Effluents hospitaliers",
+    "continuite": "Continuité d'approvisionnement",
+    "territoire": "Démarche de territoire"
+  },
+  "action_plan_config": {
+    "always_include": [],
+    "never_include": [],
+    "filters": [
+      {
+        "id": "f_suivi_global",
+        "description": "Suivi par la facture ou le seul compteur général : recommander les sous-compteurs par usage",
+        "type": "answer",
+        "questionId": "hop_q02",
+        "operator": "in",
+        "value": [
+          "facture",
+          "releve_general"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_AGR_001"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_pas_audit",
+        "description": "Pas d'audit, audit seulement envisagé ou de plus de 5 ans : recommander l'audit eau",
+        "type": "answer",
+        "questionId": "hop_q03",
+        "operator": "in",
+        "value": [
+          "jamais",
+          "envisage",
+          "ancien"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_AGR_002"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_audit_inconnu",
+        "description": "Ne sait pas si un audit a été fait : l'audit est la porte d'entrée",
+        "type": "answer",
+        "questionId": "hop_q03",
+        "operator": "not_answered",
+        "effect": "add",
+        "measures": [
+          "ACT_AGR_002"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_fuites_non_recherchees",
+        "description": "Fuites jamais recherchées ou repérées à la facture : recommander une campagne de recherche",
+        "type": "answer",
+        "questionId": "hop_q04",
+        "operator": "in",
+        "value": [
+          "non_recherchees",
+          "ecarts_facture"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_HOP_002"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_purges_non_maitrisees",
+        "description": "Purges sans protocole ou sans recensement des points : supprimer les bras morts et ajuster les purges",
+        "type": "answer",
+        "questionId": "hop_q05",
+        "operator": "in",
+        "value": [
+          "sans_protocole",
+          "purges_systematiques"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_HOP_001"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_robinetterie",
+        "description": "Robinetterie d'origine ou réducteurs de débit déconseillés : robinetterie validée par l'hygiène",
+        "type": "answer",
+        "questionId": "hop_q06",
+        "operator": "in",
+        "value": [
+          "origine",
+          "reducteurs_debit"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_HOP_003"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_dialyse_ancienne",
+        "description": "Traitement d'eau de dialyse ancien ou eau par séance inconnue : compter l'eau de la dialyse, moderniser le traitement et réutiliser ses rejets",
+        "type": "answer",
+        "questionId": "hop_q07",
+        "operator": "eq",
+        "value": "traitement_ancien",
+        "effect": "add",
+        "measures": [
+          "ACT_AGR_001",
+          "ACT_HOP_004",
+          "ACT_HOP_006"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_osmose_rejetee",
+        "description": "Traitement récent mais rejets d'osmose perdus : étudier leur réutilisation",
+        "type": "answer",
+        "questionId": "hop_q07",
+        "operator": "eq",
+        "value": "traitement_recent",
+        "effect": "add",
+        "measures": [
+          "ACT_HOP_006"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_sans_dialyse",
+        "description": "Pas d'hémodialyse : retirer la modernisation du traitement d'eau de dialyse",
+        "type": "answer",
+        "questionId": "hop_q07",
+        "operator": "eq",
+        "value": "sans_dialyse",
+        "effect": "remove",
+        "measures": [
+          "ACT_HOP_004"
+        ],
+        "priority": 2
+      },
+      {
+        "id": "f_blanchisserie_sans_critere",
+        "description": "L'eau n'entre pas dans les choix de blanchisserie et de stérilisation : en faire un critère",
+        "type": "answer",
+        "questionId": "hop_q08",
+        "operator": "eq",
+        "value": "sans_critere",
+        "effect": "add",
+        "measures": [
+          "ACT_HOP_005"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_sans_blanchisserie",
+        "description": "Ni blanchisserie ni stérilisation : retirer la mesure correspondante",
+        "type": "answer",
+        "questionId": "hop_q08",
+        "operator": "eq",
+        "value": "sans_objet",
+        "effect": "remove",
+        "measures": [
+          "ACT_HOP_005"
+        ],
+        "priority": 2
+      },
+      {
+        "id": "f_reseau_seul",
+        "description": "Tout vient du réseau ou projet seulement étudié : recommander la récupération d'eau de pluie",
+        "type": "answer",
+        "questionId": "hop_q09",
+        "operator": "in",
+        "value": [
+          "reseau_seul",
+          "projet_etudie"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_AGR_006"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_effluents",
+        "description": "Aucune réduction à la source engagée, quel que soit le niveau de conformité : réduire les rejets de médicaments et de désinfectants",
+        "type": "answer",
+        "questionId": "hop_q10",
+        "operator": "in",
+        "value": [
+          "non_caracterises",
+          "autorisation_seule",
+          "convention_suivie"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_HOP_007"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_continuite",
+        "description": "Rupture d'eau absente du plan blanc ou sans procédure écrite : formaliser le plan de gestion de l'eau",
+        "type": "answer",
+        "questionId": "hop_q11",
+        "operator": "in",
+        "value": [
+          "non_traite",
+          "connu_sans_procedure"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_AGR_009"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_collectif",
+        "description": "Connaît les démarches locales sans y participer : proposer d'en rejoindre une",
+        "type": "answer",
+        "questionId": "hop_q12",
+        "operator": "eq",
+        "value": "informe",
+        "effect": "add",
+        "measures": [
+          "ACT_AGR_010"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_avance_collectif",
+        "description": "Établissement avancé : la démarche collective est l'étape suivante",
+        "type": "maturity",
+        "operator": "in",
+        "value": [
+          "avance"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_AGR_010"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_deja_collectif",
+        "description": "Participe déjà à une démarche collective : ne pas la reproposer",
+        "type": "answer",
+        "questionId": "hop_q12",
+        "operator": "in",
+        "value": [
+          "participe",
+          "porteur"
+        ],
+        "effect": "remove",
+        "measures": [
+          "ACT_AGR_010"
+        ],
+        "priority": 2
+      },
+      {
+        "id": "f_sans_hebergement",
+        "description": "Pas de lits sur site (hospitalisation à domicile, siège) : retirer toutes les mesures de bâtiment et d'équipement, et la démarche collective où une structure de bureaux ne pèse pas",
+        "type": "answer",
+        "questionId": "hop_q01",
+        "operator": "eq",
+        "value": "sans_hebergement",
+        "effect": "remove",
+        "measures": [
+          "ACT_AGR_001",
+          "ACT_AGR_002",
+          "ACT_AGR_006",
+          "ACT_HOP_001",
+          "ACT_HOP_002",
+          "ACT_HOP_003",
+          "ACT_HOP_004",
+          "ACT_HOP_005",
+          "ACT_HOP_006",
+          "ACT_HOP_007",
+          "ACT_AGR_010"
+        ],
+        "priority": 2
+      }
+    ]
+  }
+}

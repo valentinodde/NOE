@@ -1,0 +1,79 @@
+{
+  "id": "PREST_HOT_017",
+  "nom": "Osmozis",
+  "type": "installateur",
+  "logo_url": null,
+  "siret": "48515641800058",
+  "description": "Société par actions simplifiée de Clapiers (Hérault), opérateur de réseaux Wifi et de services connectés pour l'hébergement touristique (campings, hôtels, villages vacances), qui inclut dans son offre de gestion de l'énergie pour hôtels des objets connectés qu'elle a développés et qui s'intègrent aux compteurs d'eau existants. Ces objets permettent de visualiser les consommations à distance, de détecter fuites et surconsommations et de couper l'eau à distance en cas d'anomalie ; selon des articles de son blog de 2023 (offre alors nommée OsmoWater), le personnel est alerté par SMS ou courriel et la consommation des différents équipements de l'hôtel peut être suivie. Prestation sur devis ; la page d'offre ne précise ni qui pose les objets ni où ils sont fabriqués, et indique qu'après leur installation ses équipes assurent le paramétrage et la formation à l'outil.",
+  "expertises": [
+    "Télérelève des compteurs d'eau",
+    "Détection de fuites et surconsommations",
+    "Coupure d'eau à distance"
+  ],
+  "categories": [
+    "suivre_comprendre_maitriser"
+  ],
+  "secteurs": ["hotellerie"],
+  "departements": [],
+  "mesures": [
+    { "id": "ACT_HOT_007", "roles": ["materiel"] }
+  ],
+  "contacts": [
+    { "type": "site_internet", "value": "https://www.osmozis.com/" },
+    { "type": "tel", "value": "04 67 58 40 83" },
+    { "type": "mail", "value": "sales@osmozis.com" },
+    { "type": "adresse", "value": "7 avenue de l'Europe, 34830 Clapiers" }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse, description (forme juridique)",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Osmozis&departement=34",
+      "date": "2026-09-24",
+      "extrait": "OSMOZIS, siret 48515641800058, siège, 7 AVENUE DE L'EUROPE 34830 CLAPIERS, nature juridique 5710 (SAS), activité 61.20Z, état administratif A"
+    },
+    {
+      "champ": "siret",
+      "url": "https://www.osmozis.com/mentions-legales/",
+      "date": "2026-09-24",
+      "extrait": "7, Avenue de l'Europe, 34 830 Clapiers [...] SIRET : 485 156 418 00058"
+    },
+    {
+      "champ": "contacts",
+      "url": "https://www.osmozis.com/assistance/",
+      "date": "2026-09-24",
+      "extrait": "7, avenue de l'Europe 34830 Clapiers, France. +33(0)4 67 58 40 83. sales@osmozis.com"
+    },
+    {
+      "champ": "description, expertises, mesures (ACT_HOT_007 materiel), type",
+      "url": "https://www.osmozis.com/nos-solutions/solution_gestion_energie/",
+      "date": "2026-09-24",
+      "extrait": "Nous avons également développé des objets connectés qui s'intègrent aux compteurs d'eau et d'électricité : Visualisation à distance des consommations ; Détection de fuites ou de surconsommations ; Coupure à distance en cas d'anomalie. [...] Après l'installation des objets connectés, nos équipes procèdent au paramétrage et à la formation. [...] Devis gratuit"
+    },
+    {
+      "champ": "description, secteurs",
+      "url": "https://www.osmozis.com/nos-secteurs/hotellerie/",
+      "date": "2026-09-24",
+      "extrait": "Nos solutions pour les hôtels : Wifi Network, TV & Streaming, Affichage dynamique, VoIP, Caméra, Alerte sonore, Energy Management solution"
+    },
+    {
+      "champ": "description (suivi par équipement, présentation de 2023), secteurs",
+      "url": "https://www.osmozis.com/blog/hotellerie-hpa-consommation-deau-moyenne-postes-a-optimiser/",
+      "date": "2026-09-24",
+      "extrait": "Article publié le 1 août 2023 : Suivre en temps réel la consommation d'eau des différents équipements de votre hôtel ; Être averti en cas de fuite ou de consommation excessive d'eau ; Couper ou activer l'eau à distance"
+    },
+    {
+      "champ": "description (alerte SMS ou courriel, présentation de 2023), secteurs",
+      "url": "https://www.osmozis.com/blog/alerte-fuite-deau-hotel-hpa-le-bon-reflexe-pour-faire-des-economies-deau/",
+      "date": "2026-09-24",
+      "extrait": "Article publié le 31 mars 2023 : si notre dispositif identifie une surconsommation d'eau, le personnel de l'hôtel ou du camping reçoit une alerte par sms ou par email"
+    },
+    {
+      "champ": "departements",
+      "url": "https://www.osmozis.com/nos-references/",
+      "date": "2026-09-24",
+      "extrait": "Environ 2600 sites équipés en Europe [...] Répartis en France, Espagne, Italie, Pays Bas, Allemagne"
+    }
+  ],
+  "date_maj": "2026-09-24"
+}

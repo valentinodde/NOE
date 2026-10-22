@@ -1,0 +1,222 @@
+{
+  "id": "AIDE_GCU_005",
+  "nom": "Dispositif unique d'aide aux investissements dans les exploitations agricoles (Région Occitanie, FEADER 2023-2027)",
+  "financeur": "Région Occitanie, avec le FEADER et les agences de l'eau",
+  "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792084755/Noe%20assets/logos/AIDE_GCU_005.png",
+  "type": "subvention",
+  "taux": "Agroéquipements (cofinancés par les agences de l'eau) : 35 % de base, majoré de 20 points pour un jeune ou nouvel agriculteur (DJA, DNA ou Pass installation de moins de 5 ans, ou parcours installation) et de 10 points en zone de montagne ou pour un atelier en agriculture biologique, dans la limite de 50 %. Autres investissements : 20 % de base, majoré de 20 points pour un jeune ou nouvel agriculteur et de 10 points en zone de montagne ou pour un atelier en agriculture biologique ou sous signe officiel de qualité (SIQO), dans la limite de 50 %.",
+  "plafond": "Dépenses éligibles plafonnées par dossier à 200 000 € HT hors GAEC, 300 000 € pour un GAEC de 2 associés et 400 000 € à partir de 3 associés, dont 80 000 €, 120 000 € et 160 000 € pour les agroéquipements. Plancher de 20 000 € HT de dépenses éligibles.",
+  "description": "Aide de la Région Occitanie, cofinancée par le FEADER (intervention 73.01 du plan stratégique national) et, pour les agroéquipements, par les agences de l'eau, qui accompagne le projet global d'investissement d'une exploitation. Parmi les agroéquipements éligibles : le matériel de pilotage de l'irrigation (logiciel de pilotage, tensiomètres, capteurs sol ou plante, sondes capacitives), les systèmes de régulation électronique sur le matériel d'irrigation, la collecte et le stockage des eaux de pluie des bâtiments agricoles, le matériel spécifique d'implantation, d'entretien et de destruction des couverts et les semoirs de semis direct, ainsi que le matériel de désherbage mécanique et de modulation des apports d'engrais.",
+  "eligibilite": "Exploitations agricoles dont le siège social (ou l'établissement qui porte le projet) est en Occitanie : exploitants individuels à titre principal ou secondaire, sociétés agricoles (EARL, GAEC, SCEA...), personnes en parcours installation ayant déposé une demande de DJA, DNA ou Pass installation, coopératives actives dans la production agricole primaire et autres structures exerçant réellement une activité agricole. Les collectivités, propriétaires bailleurs, SCI et entreprises de travaux agricoles sont exclus.",
+  "categories": [
+    "suivre_comprendre_maitriser",
+    "ameliorer_efficacite_hydrique",
+    "changer_process_pratiques",
+    "valoriser_reut_eaux_non_conventionnelles"
+  ],
+  "secteurs": [
+    "grandes_cultures"
+  ],
+  "departements": [
+    "09",
+    "11",
+    "12",
+    "30",
+    "31",
+    "32",
+    "34",
+    "46",
+    "48",
+    "65",
+    "66",
+    "81",
+    "82"
+  ],
+  "agences": [],
+  "mesures": [
+    "ACT_GCU_001",
+    "ACT_GCU_003",
+    "ACT_GCU_007",
+    "ACT_AGR_006"
+  ],
+  "infos_complementaires": [
+    {
+      "type": "avertissement",
+      "texte": "Les dépenses ne sont éligibles qu'à partir de la date de dépôt de la demande d'aide : un devis signé ou un bon de commande antérieur rend la dépense inéligible."
+    },
+    {
+      "type": "avertissement",
+      "texte": "Le matériel d'irrigation lui-même n'est pas financé : rampes, pivots, goutte-à-goutte, asperseurs, canons, pompes et modification de la station de pompage (hors automatisation et programmation), crépines et variateurs de fréquence sont exclus, de même que forage, captage et pompage. Pour le pilotage, les abonnements annuels aux outils de pilotage et les compteurs sont aussi exclus : seuls le logiciel et les appareils de mesure sont aidés. Pour l'eau de pluie, la collecte et le stockage sont aidés, pas le réseau de distribution de l'eau recueillie. Les investissements relevant des mesures d'hydraulique agricole du plan stratégique national relèvent d'un autre dispositif."
+    },
+    {
+      "type": "avertissement",
+      "texte": "Toute dépense non listée dans les annexes de l'appel à projets est inéligible, comme le matériel d'occasion, l'achat en crédit-bail ou en copropriété. Un projet de moins de 20 000 € HT de dépenses éligibles relève du PASS « petits investissements dans les exploitations agricoles »."
+    },
+    {
+      "type": "avertissement",
+      "texte": "Sur la période 2023-2027, un agriculteur sans Contrat Agriculture Durable validé par la Région n'a droit qu'à un dossier au titre de ce dispositif (ou à deux PASS petits investissements), deux avec un CAD validé. Le projet est aussi inéligible tant que la demande de solde d'une précédente aide Région ou FEADER à l'investissement n'a pas été déposée (hors aide à la plantation et dispositif hydraulique individuel)."
+    },
+    {
+      "type": "info",
+      "texte": "Le dispositif fonctionne par appel à projets annuel, avec dépôt exclusivement en ligne sur Europac. Pour 2026, la deuxième période de dépôt court du 7 juillet au 30 octobre 2026, avec une enveloppe FEADER de 11,7 millions d'euros (calendrier lu le 15 octobre 2026). Les dossiers complets sont notés et retenus par ordre de note jusqu'à épuisement de l'enveloppe, avec une note minimale de 80 points : un projet d'agroéquipements rapporte 80 points si le siège est en zone à enjeux Eau, 20 points sinon."
+    },
+    {
+      "type": "info",
+      "texte": "Chaque dépense sur devis se justifie par une pièce estimative jusqu'à 3 000 € HT, deux pièces de fournisseurs différents entre 3 000 et 70 000 € HT, trois au-delà. Les investissements aidés doivent être conservés 3 ans après la dernière demande de paiement."
+    },
+    {
+      "type": "info",
+      "texte": "Le service instructeur de la Région se contacte par courriel selon le département du siège, par exemple investissements.agri31@laregion.fr pour la Haute-Garonne ou investissements.agri32-65@laregion.fr pour le Gers et les Hautes-Pyrénées. La liste complète figure sur la page du dispositif."
+    },
+    {
+      "type": "ressource",
+      "texte": "Page du dispositif sur Europe en Occitanie (appel à projets, calendrier, contacts)",
+      "lien": "https://www.europe-en-occitanie.eu/Investissements-exploitations-agricoles-FEADER23-27"
+    },
+    {
+      "type": "ressource",
+      "texte": "Documents de l'appel à projets 2026, dont la liste des dépenses éligibles et des agroéquipements (archive ZIP)",
+      "lien": "https://www.europe-en-occitanie.eu/IMG/zip/d/3/1/dmi_iea26_documentsaap.zip"
+    },
+    {
+      "type": "ressource",
+      "texte": "Livret de présentation du Dispositif unique (PDF, avril 2026)",
+      "lien": "https://www.europe-en-occitanie.eu/IMG/pdf/e/b/9/occ_2026_livret-8p-a5-dispositif_unique_investissementavril2026.pdf"
+    },
+    {
+      "type": "ressource",
+      "texte": "Dépôt de la demande sur Europac (appel à projets IEA-26A)",
+      "lien": "https://europac.laregion.fr/sub/tiers/aides/details?sigle=IEA-26A"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "nom, description (intervention 73.01, projet global)",
+      "url": "https://www.europe-en-occitanie.eu/IMG/zip/d/3/1/dmi_iea26_documentsaap.zip",
+      "date": "2026-10-15",
+      "extrait": "IEA-26A Appel a Projet.pdf, version CP du 12 décembre 2025 : DISPOSITIF 2023-2027 Investissements pour les exploitations agricoles (DISPOSITIF UNIQUE). Fiche Intervention correspondante 73.01 - Investissements productifs on farm"
+    },
+    {
+      "champ": "financeur",
+      "url": "https://www.europe-en-occitanie.eu/IMG/pdf/e/b/9/occ_2026_livret-8p-a5-dispositif_unique_investissementavril2026.pdf",
+      "date": "2026-10-15",
+      "extrait": "Le Dispositif Unique (DU) d'aide aux investissements dans les exploitations agricoles et les Cuma avec un financement Région, FEADER et Agences de l'eau."
+    },
+    {
+      "champ": "financeur, taux",
+      "url": "https://www.europe-en-occitanie.eu/IMG/zip/d/3/1/dmi_iea26_documentsaap.zip",
+      "date": "2026-10-15",
+      "extrait": "IEA-26A Appel a Projet.pdf : Investissements « Agro-équipements » (cofinancement Agences de l'eau) - Taux d'aide publique de base pour les investissements productifs : 35 % - Bonifications cumulables dans la limite d'un taux de 50% : 20% pour les demandeurs ayant bénéficié d'une DJA ou d'une DNA ou d'un Pass installation [...] de moins de 5 ans [...] Personnes en parcours installation [...] 10 % pour les exploitations dont le siège [...] est situé en zone de montagne ou [...] atelier de production en cours de conversion ou engagée en agriculture biologique"
+    },
+    {
+      "champ": "taux",
+      "url": "https://www.europe-en-occitanie.eu/IMG/zip/d/3/1/dmi_iea26_documentsaap.zip",
+      "date": "2026-10-15",
+      "extrait": "IEA-26A Appel a Projet.pdf : Investissements hors liste spécifique « Agro-équipements » - Taux d'aide publique de base 20% - Bonifications cumulables dans la limite d'un taux de 50 % : 20% pour les [...] DJA, [...] DNA [...] Pass installation [...] 10 % pour les exploitations dont le siège [...] est situé en zone de montagne ou dont une partie ou la totalité des investissements du projet est liée à un atelier de production en cours de conversion ou engagée en agriculture biologique ou certifié et/ou labellisé au titre d'un SIQO listé en annexe 4"
+    },
+    {
+      "champ": "plafond",
+      "url": "https://www.europe-en-occitanie.eu/IMG/zip/d/3/1/dmi_iea26_documentsaap.zip",
+      "date": "2026-10-15",
+      "extrait": "IEA-26A Appel a Projet.pdf : Plafond par dossier Hors GAEC 200 000€, GAEC 2 associés 300 000€, GAEC 3 associés et + 400 000€ [...] Agroéquipements 80 k€ 120 K€ 160 K€ [...] Le montant des dépenses éligibles de la demande d'aide doit être supérieur ou égal à 20 000 € HT"
+    },
+    {
+      "champ": "eligibilite",
+      "url": "https://www.europe-en-occitanie.eu/IMG/zip/d/3/1/dmi_iea26_documentsaap.zip",
+      "date": "2026-10-15",
+      "extrait": "IEA-26A Appel a Projet.pdf : Exploitant agricole individuel/personne physique - Agriculteur à titre principal ou secondaire [...] Sociétés coopératives (SCA, SICA, SCIC, SCOP…) active dans la production agricole primaire [...] Sont inéligibles : Les collectivités territoriales, Les propriétaires bailleurs, Les SCI, Les Entreprises de travaux agricoles. [...] Le siège social du demandeur (ou de l'établissement actif qui porte le projet) doit être situé en Occitanie."
+    },
+    {
+      "champ": "departements",
+      "url": "https://www.europe-en-occitanie.eu/Investissements-exploitations-agricoles-FEADER23-27",
+      "date": "2026-10-15",
+      "extrait": "Contacts du service instructeur par département du siège : Ariège (09), Aude et Pyrénées-Orientales (11, 66), Aveyron (12), Gard et Hérault (30, 34), Haute-Garonne (31), Gers et Hautes-Pyrénées (32, 65), Lot et Tarn-et-Garonne (46, 82), Lozère (48), Tarn (81)"
+    },
+    {
+      "champ": "description, mesures (ACT_GCU_001), infos_complementaires (abonnements et compteurs exclus)",
+      "url": "https://www.europe-en-occitanie.eu/IMG/zip/d/3/1/dmi_iea26_documentsaap.zip",
+      "date": "2026-10-15",
+      "extrait": "IEA-26A Appel a Projet.pdf, Annexe 2 Partie I Agroéquipements, tableau 1.1 Matériel de pilotage de l'irrigation. Dépenses éligibles : • Logiciel de pilotage de l'irrigation • Appareils de mesures pour déterminer les besoins en eau (tensiomètres, capteurs sols, capteurs plantes, sondes capacitives). Dépenses non éligibles : • Abonnements annuels pour les outils de pilotage • Compteurs"
+    },
+    {
+      "champ": "description, mesures (ACT_GCU_003, ACT_AGR_006), infos_complementaires (matériel d'irrigation et réseau d'eau de pluie exclus)",
+      "url": "https://www.europe-en-occitanie.eu/IMG/zip/d/3/1/dmi_iea26_documentsaap.zip",
+      "date": "2026-10-15",
+      "extrait": "IEA-26A Appel a Projet.pdf, Annexe 2, tableau 1.2 Matériels spécifiques économes en eau. Dépenses éligibles : • Système de régulation électronique sur les matériels d'irrigation (outils d'automatisation et de programmation) [...] • Equipements de collecte et stockage des eaux de drainage des serres, et de récupération des eaux de pluie des serres et des bâtiments agricoles. Dépenses non éligibles : • Réseau de distribution de l'eau de pluie recueillie des bâtiments [...] • Pompes et investissements de modification de la station de pompage en dehors de l'automatisation et de la programmation • Crépines • Variateurs de fréquences • Investissements d'irrigation, dont rampes, pivots, goutte à goutte, asperseurs, canons et canons à retour lent"
+    },
+    {
+      "champ": "description, mesures (ACT_GCU_007)",
+      "url": "https://www.europe-en-occitanie.eu/IMG/zip/d/3/1/dmi_iea26_documentsaap.zip",
+      "date": "2026-10-15",
+      "extrait": "IEA-26A Appel a Projet.pdf, Annexe 2 : 2.1 Matériel spécifique pour l'implantation et l'entretien de couverts [...] Matériel spécifique pour le semis d'un couvert végétal ou d'une culture intermédiaire dans une culture en place [...] 2.2 Matériel permettant la diminution du travail du sol • Matériels de semis adaptés pour le semis de cultures dans un couvert végétal des sols • Semoirs spécifiques semis direct [...] Matériel spécifique pour l'implantation, l'entretien ou destruction des couverts végétaux inter-rangs ou intercultures [...] rouleau destructeur de couverts (rolofaca, écorouleau)"
+    },
+    {
+      "champ": "description (désherbage mécanique, modulation des engrais)",
+      "url": "https://www.europe-en-occitanie.eu/IMG/zip/d/3/1/dmi_iea26_documentsaap.zip",
+      "date": "2026-10-15",
+      "extrait": "IEA-26A Appel a Projet.pdf, Annexe 2 : 3.2 Matériel de substitution • Matériel de lutte mécanique, thermique (y compris électrique) contre les adventices : bineuse, houe rotative [...] 4- Réduction des pollutions des eaux par les fertilisants [...] distributeur d'engrais de précision"
+    },
+    {
+      "champ": "infos_complementaires (forage, pompage, hydraulique PSN, occasion, crédit-bail, dépenses non listées)",
+      "url": "https://www.europe-en-occitanie.eu/IMG/zip/d/3/1/dmi_iea26_documentsaap.zip",
+      "date": "2026-10-15",
+      "extrait": "IEA-26A Appel a Projet.pdf : Dépenses inéligibles = Toutes dépenses non listées dans la colonne « Dépenses éligibles » [...] Les investissements concernant du matériel d'occasion sont inéligibles [...] achat sous forme de crédit-bail - achat en copropriété [...] forage, captage, pompage des eaux souterraines ou des rivières [...] Les investissements éligibles aux mesures PSN relatives à l'hydraulique agricole ne sont pas éligibles au présent dispositif."
+    },
+    {
+      "champ": "infos_complementaires (PASS petits investissements)",
+      "url": "https://www.europe-en-occitanie.eu/IMG/zip/d/3/1/dmi_iea26_documentsaap.zip",
+      "date": "2026-10-15",
+      "extrait": "IEA-26A Appel a Projet.pdf : Le PASS petits investissements dans les exploitations agricoles, qui permet d'accompagner les projets dont le montant de dépenses éligibles est inférieur à 20 000€"
+    },
+    {
+      "champ": "infos_complementaires (récurrence, aide précédente non soldée)",
+      "url": "https://www.europe-en-occitanie.eu/IMG/zip/d/3/1/dmi_iea26_documentsaap.zip",
+      "date": "2026-10-15",
+      "extrait": "IEA-26A Appel a Projet.pdf : Agriculteurs n'ayant pas de CAD validé par la Région : un seul dossier au titre du présent dispositif (FEADER) ou 2 PASS « petits investissements dans les exploitations agricoles » - Agriculteurs ayant un CAD validé par la Région ou Espace Test Agricole : 2 dossiers maximum [...] le projet ne sera pas éligible si le demandeur a bénéficié d'une aide Région et/ou FEADER à l'investissement (hors aide à la plantation, dispositif hydraulique individuel dont la demande de solde n'a pas encore été déposée"
+    },
+    {
+      "champ": "infos_complementaires (dépenses avant dépôt, pérennité)",
+      "url": "https://www.europe-en-occitanie.eu/IMG/zip/d/3/1/dmi_iea26_documentsaap.zip",
+      "date": "2026-10-15",
+      "extrait": "IEA-26A Appel a Projet.pdf : Ce dispositif couvre les dépenses engagées à partir de la date de dépôt de la demande d'aide (les devis et/ou bons de commande signés avant le dépôt de la demande ne sont pas éligibles). [...] Les investissements aidés doivent être maintenus pour une durée de 3 ans à compter de la date de dépôt de la dernière demande de paiement."
+    },
+    {
+      "champ": "infos_complementaires (sélection, note minimale, zone à enjeux Eau)",
+      "url": "https://www.europe-en-occitanie.eu/IMG/zip/d/3/1/dmi_iea26_documentsaap.zip",
+      "date": "2026-10-15",
+      "extrait": "IEA-26A Appel a Projet.pdf : Investissements Agroéquipements et siège de l'exploitation agricole situé en zones à enjeux Eau 80 / Investissements Agroéquipements et siège de l'exploitation agricole situé hors en zones à enjeux Eau 20 [...] Note minimale : 80 points"
+    },
+    {
+      "champ": "infos_complementaires (période de dépôt 2026, enveloppe)",
+      "url": "https://www.europe-en-occitanie.eu/IMG/pdf/e/a/e/du_periodes-enveloppes_cp_030726.pdf",
+      "date": "2026-10-15",
+      "extrait": "Version CP du 03 juillet 2026. IEA 73.01 Investissement dans les exploitations agricoles Du 07/07/2026 au 30/10/2026 (2ème période) 11 700 000 €"
+    },
+    {
+      "champ": "infos_complementaires (appel à projets annuel, dépôt sur Europac)",
+      "url": "https://www.europe-en-occitanie.eu/IMG/pdf/e/b/9/occ_2026_livret-8p-a5-dispositif_unique_investissementavril2026.pdf",
+      "date": "2026-10-15",
+      "extrait": "Le « Dispositif Unique » fonctionne sous forme d'appel à projets annuel [...] les dossiers doivent être déposés durant ces périodes d'ouverture, exclusivement de manière dématérialisée sur le site Europac."
+    },
+    {
+      "champ": "infos_complementaires (pièces estimatives)",
+      "url": "https://www.europe-en-occitanie.eu/IMG/zip/d/3/1/dmi_iea26_documentsaap.zip",
+      "date": "2026-10-15",
+      "extrait": "IEA-26B Liste_des_pieces_a_fournir_2026.pdf : Dépenses inférieures ou égales à 3 000 € HT : fournir une pièce estimative - Dépenses comprises entre 3 001 € et 70 000€ HT : fournir 2 pièces estimatives de fournisseurs différents. Dépenses supérieures à 70 000 € HT : fournir 3 pièces estimatives de fournisseurs différents"
+    },
+    {
+      "champ": "infos_complementaires (contacts du service instructeur, lien Europac)",
+      "url": "https://www.europe-en-occitanie.eu/Investissements-exploitations-agricoles-FEADER23-27",
+      "date": "2026-10-15",
+      "extrait": "Haute-Garonne (31) : investissements.agri31@laregion.fr. Gers et Hautes-Pyrénées (32, 65) : investissements.agri32-65@laregion.fr. Dépôt sur Europac (appel à projets IEA-26A)"
+    },
+    {
+      "champ": "logo_url",
+      "url": "https://www.laregion.fr/plugins/occitanie/squelettes-occitanie/squelettes/apple-icon-180x180.png",
+      "date": "2026-10-15",
+      "extrait": "Icône apple-touch-icon (180 x 180) du site de la Région Occitanie, https://www.laregion.fr/"
+    }
+  ],
+  "date_maj": "2026-10-15"
+}

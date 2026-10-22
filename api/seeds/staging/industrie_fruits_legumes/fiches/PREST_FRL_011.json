@@ -1,0 +1,86 @@
+{
+  "id": "PREST_FRL_011",
+  "nom": "EMO (Équipements et Machines de l'Ouest)",
+  "type": "equipementier",
+  "logo_url": null,
+  "siret": "39180565200032",
+  "description": "Concepteur et fabricant d'équipements de traitement des eaux usées, des effluents industriels et des boues (NAF 28.29B), basé à Noyal-sur-Vilaine (Ille-et-Vilaine), qui fabrique et assemble dans ses ateliers d'Angers et de Saint-Lyphard. Pour une conserverie de tomates, il a préconisé un prétraitement par flottateur à air dissous (60 m3/h) puis fourni un filtre à bandes pour déshydrater les boues ; sa gamme comprend aussi des tamis rotatifs de 250 µm à 2,5 mm pour effluents industriels. Son laboratoire caractérise les effluents et réalise des essais de traitabilité (décantation, flottation, égouttage, déshydratation), et son pôle ingénierie assure étude de faisabilité, dimensionnement, installation, mise en service et formation.",
+  "expertises": [
+    "Tamis rotatifs de prétraitement",
+    "Flottateurs à air dissous",
+    "Déshydratation des boues",
+    "Essais de traitabilité des effluents"
+  ],
+  "categories": [
+    "agir_rejets_qualite"
+  ],
+  "secteurs": ["industrie_fruits_legumes"],
+  "departements": [],
+  "mesures": [
+    { "id": "ACT_FRL_008", "roles": ["materiel", "conseil_etude", "travaux"] }
+  ],
+  "contacts": [
+    { "type": "site_internet", "value": "https://emo-france.com/" },
+    { "type": "tel", "value": "02 99 86 02 03" },
+    { "type": "mail", "value": "emo@emo-france.com" },
+    { "type": "adresse", "value": "4 rue Lépine, Parc d'Activités de la Richardière, 35530 Noyal-sur-Vilaine" }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, description",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=EMO&departement=35",
+      "date": "2026-09-25",
+      "extrait": "EQUIPEMENTS ET MACHINES DE L'OUEST (EMO), siret 39180565200032, siège, PARC D'ACTIVITES DE LA RICHARDIERE 4 RUE DE L'EPINE 35530 NOYAL-SUR-VILAINE, activité 28.29B, état administratif A, 2 établissements ouverts"
+    },
+    {
+      "champ": "contacts",
+      "url": "https://emo-france.com/contact/",
+      "date": "2026-09-25",
+      "extrait": "Nous contacter 4 rue Lépine Parc d'Activités de la Richardière 35530 NOYAL SUR VILAINE + 33 (0)2 99 86 02 03 emo@emo-france.com"
+    },
+    {
+      "champ": "type, description, mesures (ACT_FRL_008 conseil_etude, travaux)",
+      "url": "https://emo-france.com/services/ingenierie/",
+      "date": "2026-09-25",
+      "extrait": "étude de faisabilité détermination des procédés de traitement réalisation des études techniques fabrication & assemblage installation, mise en service et formation [...] Nous fabriquons et assemblons nos équipements dans nos ateliers d'Angers (Maine-et-Loire) et de Saint-Lyphard (Loire-Atlantique). [...] Nous assurons l'installation complète de nos équipements"
+    },
+    {
+      "champ": "type",
+      "url": "https://emo-france.com/qui-sommes-nous/",
+      "date": "2026-09-25",
+      "extrait": "la plupart des équipements fournis par EMO sont conçus et fabriqués en France"
+    },
+    {
+      "champ": "departements",
+      "url": "https://emo-france.com/nous-connaitre/",
+      "date": "2026-09-25",
+      "extrait": "Spécialiste de la conception et de la fabrication d'équipements de traitement des boues, des eaux usées et des boues d'eau potable, EMO intervient sur le territoire français ainsi qu'à l'international."
+    },
+    {
+      "champ": "description, expertises, secteurs, mesures (ACT_FRL_008 materiel, conseil_etude)",
+      "url": "https://emo-france.com/en/realisation/combination-of-a-daf-unit-and-a-belt-filter-press-in-a-tomato-caning-factory/",
+      "date": "2026-09-25",
+      "extrait": "Annaba, Algeria Tomato canning factory [...] contacted EMO to assist them in their project. [...] EMO then recommended to carry out a first phase of work consisting of a thorough pretreatment [...] collected sludge will be dewatered on a belt filter press supplied by EMO. [...] Dissolved Air Flotation unit (DAF) Model: DELTA 75 Capacity: 60 m³/h, 1440 m³/d"
+    },
+    {
+      "champ": "description, expertises",
+      "url": "https://emo-france.com/produit/aquameo-r-rc/",
+      "date": "2026-09-25",
+      "extrait": "AQUAMEO R/RC sont des équipements conçus pour le tamisage fin de 250 μm à 2,5 mm des effluents prédégrillés urbains et industriels."
+    },
+    {
+      "champ": "description, expertises",
+      "url": "https://emo-france.com/services/laboratoire-essai-effluents-boues/",
+      "date": "2026-09-25",
+      "extrait": "Son laboratoire étudie les effluents industriels et les boues de station d'épuration. [...] Essais de traitabilité en laboratoire Décantation [...] Flottation : test de flottation pour simuler un flottateur Epaississement : cellule d'égouttage pour simuler une table d'égouttage Déshydratation"
+    },
+    {
+      "champ": "secteurs",
+      "url": "https://emo-france.com/liste-solutions/effluents-industriels/",
+      "date": "2026-09-25",
+      "extrait": "EMO dimensionne et installe des équipements pour le traitement des effluents industriels et des boues industrielles sur site. Traitement des effluents d'industries agroalimentaires, chimiques, textiles, métallurgiques"
+    }
+  ],
+  "date_maj": "2026-09-25"
+}

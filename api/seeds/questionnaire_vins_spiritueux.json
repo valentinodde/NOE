@@ -1,0 +1,929 @@
+{
+  "sector_id": "vins_spiritueux",
+  "sector_label": "Vins et spiritueux",
+  "naf_codes": [
+    "11.01Z",
+    "11.02A",
+    "11.02B",
+    "11.03Z",
+    "11.04Z"
+  ],
+  "themes": [
+    {
+      "id": "connaissance",
+      "label": "Connaissance & mesure"
+    },
+    {
+      "id": "pratiques",
+      "label": "Nettoyage & refroidissement"
+    },
+    {
+      "id": "rejets",
+      "label": "Effluents & vinasses"
+    },
+    {
+      "id": "gouvernance",
+      "label": "Gouvernance & anticipation"
+    }
+  ],
+  "questions": [
+    {
+      "id": "vin_q01",
+      "theme": "connaissance",
+      "order": 1,
+      "type": "single_choice",
+      "text": "Comment suivez-vous aujourd'hui la consommation d'eau de votre site ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "aucun_compteur",
+          "text": "Je n'ai pas de compteur, je m'en remets à la facture",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "comptage"
+          ]
+        },
+        {
+          "id": "compteur_general",
+          "text": "Un compteur général, partagé avec la vigne ou l'habitation",
+          "maturity_score": 1,
+          "concern_score": 1,
+          "topics": [
+            "comptage"
+          ]
+        },
+        {
+          "id": "releves_campagne",
+          "text": "Des relevés réguliers, plus serrés pendant la campagne",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        },
+        {
+          "id": "ratio_hl",
+          "text": "Des compteurs par usage et un ratio d'eau par hectolitre",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "vin_q02",
+      "theme": "connaissance",
+      "order": 2,
+      "type": "multi_choice",
+      "class": "source_eau",
+      "text": "D'où provient l'eau que vous utilisez sur le site ? (plusieurs réponses possibles)",
+      "condition": null,
+      "options": [
+        {
+          "id": "reseau",
+          "text": "Réseau public d'eau potable",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "diversification_sources"
+          ]
+        },
+        {
+          "id": "forage",
+          "text": "Forage ou captage d'eau souterraine",
+          "maturity_score": 0,
+          "concern_score": 1,
+          "topics": []
+        },
+        {
+          "id": "surface",
+          "text": "Captage en rivière, canal ou retenue",
+          "maturity_score": 0,
+          "concern_score": 1,
+          "topics": []
+        },
+        {
+          "id": "pluie",
+          "text": "Eau de pluie récupérée sur les toitures",
+          "maturity_score": 2,
+          "concern_score": 3,
+          "topics": []
+        },
+        {
+          "id": "recyclage",
+          "text": "Eaux de rinçage ou de refroidissement réutilisées",
+          "maturity_score": 2,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "vin_q03",
+      "theme": "connaissance",
+      "order": 3,
+      "type": "numeric",
+      "text": "Quelle est votre consommation d'eau annuelle, tous usages du site confondus ?",
+      "condition": null,
+      "input": {
+        "unit": "m³/an",
+        "placeholder": "ex. 4000",
+        "min": 0,
+        "max": 5000000,
+        "integer_only": true
+      },
+      "scoring": {
+        "if_filled": {
+          "maturity_score": 1,
+          "concern_score": 2,
+          "topics": []
+        }
+      }
+    },
+    {
+      "id": "vin_q04",
+      "theme": "connaissance",
+      "order": 4,
+      "type": "single_choice",
+      "text": "Avez-vous réalisé un audit eau ou un diagnostic de vos consommations ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "jamais",
+          "text": "Non, jamais",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "audit"
+          ]
+        },
+        {
+          "id": "envisage",
+          "text": "On y a réfléchi, sans le faire",
+          "maturity_score": 0,
+          "concern_score": 2,
+          "topics": [
+            "audit"
+          ]
+        },
+        {
+          "id": "ancien",
+          "text": "Oui, il y a plus de cinq ans",
+          "maturity_score": 1,
+          "concern_score": 2,
+          "topics": [
+            "audit"
+          ]
+        },
+        {
+          "id": "recent",
+          "text": "Oui, il y a moins de trois ans",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "vin_q05",
+      "theme": "pratiques",
+      "order": 5,
+      "type": "single_choice",
+      "text": "Comment videz-vous les tuyaux de vendange, de moût ou de vin avant de les rincer ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "pousse_eau",
+          "text": "On pousse le produit à l'eau",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "nettoyage"
+          ]
+        },
+        {
+          "id": "pousse_gaz",
+          "text": "On pousse au gaz ou à l'air, sans obus",
+          "maturity_score": 1,
+          "concern_score": 1,
+          "topics": [
+            "nettoyage"
+          ]
+        },
+        {
+          "id": "raclage_obus",
+          "text": "Par raclage avec un obus, sur un réseau adapté",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        },
+        {
+          "id": "sans_reseau",
+          "text": "Pas de réseau fixe, seulement des tuyaux souples courts",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "vin_q06",
+      "theme": "pratiques",
+      "order": 6,
+      "type": "single_choice",
+      "text": "Comment nettoyez-vous vos cuves et votre matériel de chai ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "jet_froid",
+          "text": "Au jet d'eau froide, en eau perdue",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "nettoyage"
+          ]
+        },
+        {
+          "id": "haute_pression",
+          "text": "Au nettoyeur haute pression ou à l'eau chaude",
+          "maturity_score": 1,
+          "concern_score": 1,
+          "topics": [
+            "nettoyage"
+          ]
+        },
+        {
+          "id": "tetes_lavage",
+          "text": "Avec des têtes de lavage rotatives ou un canon à mousse",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        },
+        {
+          "id": "centrale_recup",
+          "text": "Centrale de nettoyage, avec récupération du dernier rinçage",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "vin_q07",
+      "theme": "pratiques",
+      "order": 7,
+      "type": "single_choice",
+      "text": "Vos équipes, saisonniers compris, ont-elles des consignes de nettoyage économe ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "aucune",
+          "text": "Non, chacun fait à sa façon",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "gestes"
+          ]
+        },
+        {
+          "id": "orales",
+          "text": "Des habitudes transmises à l'oral",
+          "maturity_score": 1,
+          "concern_score": 1,
+          "topics": [
+            "gestes"
+          ]
+        },
+        {
+          "id": "ecrites",
+          "text": "Des consignes écrites, affichées au chai",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        },
+        {
+          "id": "ecrites_formees",
+          "text": "Consignes écrites et formation à chaque campagne",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "vin_q08",
+      "theme": "pratiques",
+      "order": 8,
+      "type": "single_choice",
+      "text": "Comment refroidissez-vous vos cuves, vos pompes à vide ou vos alambics ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "eau_perdue",
+          "text": "À l'eau perdue ou par ruissellement sur les cuves",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "refroidissement"
+          ]
+        },
+        {
+          "id": "tour_aero",
+          "text": "Tour aéroréfrigérante, avec appoint et purges",
+          "maturity_score": 1,
+          "concern_score": 1,
+          "topics": [
+            "refroidissement"
+          ]
+        },
+        {
+          "id": "circuit_ferme",
+          "text": "En circuit fermé, avec récupération de la chaleur",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        },
+        {
+          "id": "sans_eau",
+          "text": "Groupe froid à air, ou pas de refroidissement",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "vin_q09",
+      "theme": "rejets",
+      "order": 9,
+      "type": "single_choice",
+      "text": "Comment sont traités les effluents de votre chai, pressurage compris ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "sans_traitement",
+          "text": "Rejetés sans traitement, au réseau ou au milieu",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "effluents"
+          ]
+        },
+        {
+          "id": "raccorde_sans_autorisation",
+          "text": "Envoyés à la station communale, sans autorisation écrite",
+          "maturity_score": 1,
+          "concern_score": 1,
+          "topics": [
+            "effluents"
+          ]
+        },
+        {
+          "id": "deborde_vendanges",
+          "text": "Traités, mais le stockage sature en pleine campagne",
+          "maturity_score": 1,
+          "concern_score": 2,
+          "topics": [
+            "effluents"
+          ]
+        },
+        {
+          "id": "filiere_dimensionnee",
+          "text": "Traités par une filière dimensionnée sur la pointe de campagne",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        },
+        {
+          "id": "sans_vendange",
+          "text": "Pas de pressurage sur le site, seulement des eaux de lavage",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "vin_q10",
+      "theme": "rejets",
+      "order": 10,
+      "type": "single_choice",
+      "text": "Que deviennent vos vinasses de distillation ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "epandage_sans_plan",
+          "text": "Épandues sans plan d'épandage à jour",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "vinasses"
+          ]
+        },
+        {
+          "id": "stockage_insuffisant",
+          "text": "Épandues avec un plan, mais le stockage est trop juste",
+          "maturity_score": 1,
+          "concern_score": 2,
+          "topics": [
+            "vinasses"
+          ]
+        },
+        {
+          "id": "epandage_maitrise",
+          "text": "Stockage suffisant et plan d'épandage suivi",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        },
+        {
+          "id": "traitement_collectif",
+          "text": "Apportées à un traitement collectif ou valorisées",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        },
+        {
+          "id": "sans_distillation",
+          "text": "Je ne distille pas",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "vin_q11",
+      "theme": "gouvernance",
+      "order": 11,
+      "type": "single_choice",
+      "text": "Avez-vous analysé votre exposition aux restrictions d'eau en période de sécheresse ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "non_analyse",
+          "text": "Non, ce n'est pas un sujet que j'ai regardé",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "restrictions"
+          ]
+        },
+        {
+          "id": "informe",
+          "text": "Je suis informé, sans analyse formelle",
+          "maturity_score": 1,
+          "concern_score": 2,
+          "topics": [
+            "restrictions"
+          ]
+        },
+        {
+          "id": "evalue",
+          "text": "Oui, je sais ce qui s'arrêterait, vendanges comprises",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        },
+        {
+          "id": "plan_formalise",
+          "text": "Oui, et un plan écrit dit quoi réduire à chaque niveau",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "vin_q12",
+      "theme": "gouvernance",
+      "order": 12,
+      "type": "single_choice",
+      "text": "Participez-vous à une démarche collective sur l'eau (filière, cave, bassin) ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "non",
+          "text": "Non, aucune",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "collectif"
+          ]
+        },
+        {
+          "id": "informe",
+          "text": "J'en ai entendu parler, sans y prendre part",
+          "maturity_score": 1,
+          "concern_score": 1,
+          "topics": [
+            "collectif"
+          ]
+        },
+        {
+          "id": "participe",
+          "text": "Oui, je participe aux réunions ou aux diagnostics groupés",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        },
+        {
+          "id": "pilote",
+          "text": "Oui, et j'y porte des engagements chiffrés",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    }
+  ],
+  "topics_labels": {
+    "comptage": "Comptage et suivi des volumes",
+    "diversification_sources": "Diversification des sources d'eau",
+    "audit": "Audit eau",
+    "nettoyage": "Nettoyage des cuves et des transferts",
+    "gestes": "Consignes et formation des équipes",
+    "refroidissement": "Refroidissement et circuits",
+    "effluents": "Traitement des effluents",
+    "vinasses": "Filière des vinasses",
+    "restrictions": "Anticipation des restrictions",
+    "collectif": "Démarche collective"
+  },
+  "action_plan_config": {
+    "always_include": [],
+    "never_include": [],
+    "filters": [
+      {
+        "id": "f_suivi_absent",
+        "description": "Pas de compteur ou compteur général seul : recommander le comptage par usage",
+        "type": "answer",
+        "questionId": "vin_q01",
+        "operator": "in",
+        "value": [
+          "aucun_compteur",
+          "compteur_general"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_AGR_001"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_suivi_inconnu",
+        "description": "Suivi de la consommation inconnu : commencer par le compteur par usage",
+        "type": "answer",
+        "questionId": "vin_q01",
+        "operator": "not_answered",
+        "effect": "add",
+        "measures": [
+          "ACT_AGR_001"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_pluie_sans_suivi",
+        "description": "Suivi de la consommation inconnu : sans volumes connus on ne dimensionne pas une cuve, retirer l'eau de pluie",
+        "type": "answer",
+        "questionId": "vin_q01",
+        "operator": "not_answered",
+        "effect": "remove",
+        "measures": [
+          "ACT_AGR_006"
+        ],
+        "priority": 2
+      },
+      {
+        "id": "f_sur_reseau",
+        "description": "Eau du réseau public parmi les sources : l'eau de pluie des toitures peut la remplacer pour les sols et les extérieurs",
+        "type": "class",
+        "class": "source_eau",
+        "operator": "includes",
+        "value": "reseau",
+        "effect": "add",
+        "measures": [
+          "ACT_AGR_006"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_pluie_pas_novice",
+        "description": "Niveau novice : les premiers gestes sont le comptage et le nettoyage, la récupération d'eau de pluie vient après",
+        "type": "maturity",
+        "operator": "in",
+        "value": [
+          "novice"
+        ],
+        "effect": "remove",
+        "measures": [
+          "ACT_AGR_006"
+        ],
+        "priority": 2
+      },
+      {
+        "id": "f_pluie_deja",
+        "description": "Eau de pluie déjà récupérée : ne pas la proposer",
+        "type": "class",
+        "class": "source_eau",
+        "operator": "includes",
+        "value": "pluie",
+        "effect": "remove",
+        "measures": [
+          "ACT_AGR_006"
+        ],
+        "priority": 2
+      },
+      {
+        "id": "f_cascade_deja",
+        "description": "Eaux de rinçage ou de refroidissement déjà réutilisées parmi les sources : retirer la cascade",
+        "type": "class",
+        "class": "source_eau",
+        "operator": "includes",
+        "value": "recyclage",
+        "effect": "remove",
+        "measures": [
+          "ACT_VIN_005"
+        ],
+        "priority": 2
+      },
+      {
+        "id": "f_conso_icpe",
+        "description": "Consommation annuelle d'au moins 10 000 m3, seuil de l'arrêté sécheresse ICPE du 30 juin 2023 : un plan de gestion écrit devient nécessaire",
+        "type": "numeric",
+        "questionId": "vin_q03",
+        "operator": "gte",
+        "value": 10000,
+        "effect": "add",
+        "measures": [
+          "ACT_AGR_009"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_pas_audit",
+        "description": "Pas d'audit, audit seulement envisagé ou de plus de cinq ans : recommander le diagnostic",
+        "type": "answer",
+        "questionId": "vin_q04",
+        "operator": "in",
+        "value": [
+          "jamais",
+          "envisage",
+          "ancien"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_AGR_002"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_audit_inconnu",
+        "description": "Question de l'audit laissée sans réponse : ne pas savoir est le motif même de recommander le diagnostic",
+        "type": "answer",
+        "questionId": "vin_q04",
+        "operator": "not_answered",
+        "effect": "add",
+        "measures": [
+          "ACT_AGR_002"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_pousse_eau",
+        "description": "Produit poussé à l'eau ou au gaz sans obus : recommander le raclage des canalisations",
+        "type": "answer",
+        "questionId": "vin_q05",
+        "operator": "in",
+        "value": [
+          "pousse_eau",
+          "pousse_gaz"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_VIN_002"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_sans_reseau",
+        "description": "Pas de réseau de transfert fixe : le raclage ne s'installe pas, retirer la mesure",
+        "type": "answer",
+        "questionId": "vin_q05",
+        "operator": "eq",
+        "value": "sans_reseau",
+        "effect": "remove",
+        "measures": [
+          "ACT_VIN_002"
+        ],
+        "priority": 2
+      },
+      {
+        "id": "f_nettoyage_basique",
+        "description": "Cuves lavées au jet froid ou au nettoyeur haute pression : recommander la modernisation du nettoyage",
+        "type": "answer",
+        "questionId": "vin_q06",
+        "operator": "in",
+        "value": [
+          "jet_froid",
+          "haute_pression"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_VIN_003"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_rincage_perdu",
+        "description": "Dernier rinçage non récupéré (jet, haute pression, têtes de lavage) : proposer la réutilisation en cascade",
+        "type": "answer",
+        "questionId": "vin_q06",
+        "operator": "in",
+        "value": [
+          "jet_froid",
+          "haute_pression",
+          "tetes_lavage"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_VIN_005"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_sans_consignes",
+        "description": "Pas de consignes de nettoyage, ou seulement orales : recommander la formation des équipes",
+        "type": "answer",
+        "questionId": "vin_q07",
+        "operator": "in",
+        "value": [
+          "aucune",
+          "orales"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_VIN_001"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_froid_ouvert",
+        "description": "Refroidissement à l'eau perdue ou par tour aéroréfrigérante : recommander le circuit fermé",
+        "type": "answer",
+        "questionId": "vin_q08",
+        "operator": "in",
+        "value": [
+          "eau_perdue",
+          "tour_aero"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_VIN_004"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_froid_sans_eau",
+        "description": "Froid sans eau ou pas de refroidissement : retirer la mesure sur le circuit fermé",
+        "type": "answer",
+        "questionId": "vin_q08",
+        "operator": "eq",
+        "value": "sans_eau",
+        "effect": "remove",
+        "measures": [
+          "ACT_VIN_004"
+        ],
+        "priority": 2
+      },
+      {
+        "id": "f_effluents_fragiles",
+        "description": "Effluents rejetés sans traitement, sans autorisation de déversement, ou stockage saturé en campagne : fiabiliser la filière",
+        "type": "answer",
+        "questionId": "vin_q09",
+        "operator": "in",
+        "value": [
+          "sans_traitement",
+          "raccorde_sans_autorisation",
+          "deborde_vendanges"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_VIN_006"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_sans_vendange",
+        "description": "Pas de pressurage sur le site : ni pointe à absorber ni bourbes à retirer, retirer la mesure sur les effluents vinicoles",
+        "type": "answer",
+        "questionId": "vin_q09",
+        "operator": "eq",
+        "value": "sans_vendange",
+        "effect": "remove",
+        "measures": [
+          "ACT_VIN_006"
+        ],
+        "priority": 2
+      },
+      {
+        "id": "f_vinasses_fragiles",
+        "description": "Vinasses épandues sans plan à jour ou avec un stockage trop juste : sécuriser la filière",
+        "type": "answer",
+        "questionId": "vin_q10",
+        "operator": "in",
+        "value": [
+          "epandage_sans_plan",
+          "stockage_insuffisant"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_VIN_007"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_sans_distillation",
+        "description": "Pas de distillation sur le site : retirer la mesure sur les vinasses",
+        "type": "answer",
+        "questionId": "vin_q10",
+        "operator": "eq",
+        "value": "sans_distillation",
+        "effect": "remove",
+        "measures": [
+          "ACT_VIN_007"
+        ],
+        "priority": 2
+      },
+      {
+        "id": "f_risque_non_analyse",
+        "description": "Exposition aux restrictions non analysée ou connue sans formalisation : recommander le plan de gestion",
+        "type": "answer",
+        "questionId": "vin_q11",
+        "operator": "in",
+        "value": [
+          "non_analyse",
+          "informe"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_AGR_009"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_plan_deja_formalise",
+        "description": "Plan de gestion de l'eau déjà écrit : ne pas le proposer, même au-dessus du seuil de 10 000 m3",
+        "type": "answer",
+        "questionId": "vin_q11",
+        "operator": "eq",
+        "value": "plan_formalise",
+        "effect": "remove",
+        "measures": [
+          "ACT_AGR_009"
+        ],
+        "priority": 2
+      },
+      {
+        "id": "f_preleve_forage",
+        "description": "Prélèvement propre en nappe : la démarche collective de partage de la ressource (PTGE, contrat de nappe, SAGE) le concerne directement",
+        "type": "class",
+        "class": "source_eau",
+        "operator": "includes",
+        "value": "forage",
+        "effect": "add",
+        "measures": [
+          "ACT_AGR_010"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_preleve_surface",
+        "description": "Prélèvement propre en rivière ou en retenue : la démarche collective de partage de la ressource le concerne directement",
+        "type": "class",
+        "class": "source_eau",
+        "operator": "includes",
+        "value": "surface",
+        "effect": "add",
+        "measures": [
+          "ACT_AGR_010"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_deja_collectif",
+        "description": "Participe déjà à une démarche collective, ou la pilote : ne pas la proposer",
+        "type": "answer",
+        "questionId": "vin_q12",
+        "operator": "in",
+        "value": [
+          "participe",
+          "pilote"
+        ],
+        "effect": "remove",
+        "measures": [
+          "ACT_AGR_010"
+        ],
+        "priority": 2
+      }
+    ]
+  }
+}

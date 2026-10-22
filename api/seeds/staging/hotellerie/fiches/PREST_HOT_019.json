@@ -1,0 +1,87 @@
+{
+  "id": "PREST_HOT_019",
+  "nom": "CCI de région Bretagne (programme ECODO PRO)",
+  "type": "chambre_consulaire",
+  "logo_url": null,
+  "siret": "18350004000310",
+  "description": "Chambre de commerce et d'industrie de région Bretagne, qui porte le programme régional d'économies d'eau ECODO PRO, animé par Bretagne Compétitivité, association de développement économique pilotée par les CCI bretonnes. Un conseiller (Bretagne Compétitivité ou CCI) réalise un état des lieux avec diagnostic et recommandations personnalisées, vous accompagne sur la réglementation, les financements et les solutions techniques, et vous aide à élaborer un plan d'actions ; le programme organise aussi des ateliers inter-entreprises et des webinaires, et publie une fiche de pratiques hydro-économes dédiée aux hôtels. Réservé aux entreprises bretonnes, sur candidature, pour 1 à 4 jours d'accompagnement avec un reste à charge de 90 à 240 € HT par jour selon l'effectif.",
+  "expertises": [
+    "Diagnostic eau et recommandations",
+    "Plan d'actions hydro-économes",
+    "Conseil réglementaire et financements",
+    "Ateliers inter-entreprises sur l'eau"
+  ],
+  "categories": [
+    "suivre_comprendre_maitriser",
+    "sensibiliser_former"
+  ],
+  "secteurs": [
+    "hotellerie"
+  ],
+  "departements": [
+    "22",
+    "29",
+    "35",
+    "56"
+  ],
+  "mesures": [
+    {
+      "id": "ACT_AGR_002",
+      "roles": [
+        "conseil_etude"
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "type": "site_internet",
+      "value": "https://www.bretagne-competitivite.fr/ecodopro/"
+    },
+    {
+      "type": "mail",
+      "value": "ecodo@bretagne-competitivite.fr"
+    },
+    {
+      "type": "tel",
+      "value": "02 99 25 41 70"
+    },
+    {
+      "type": "adresse",
+      "value": "1A rue Louis Braille, 35136 Saint-Jacques-de-la-Lande"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=chambre%20de%20commerce%20et%20d%27industrie%20de%20region%20Bretagne&departement=35",
+      "date": "2026-09-24",
+      "extrait": "CHAMBRE DE COMMERCE ET D'INDUSTRIE DE REGION BRETAGNE (CCIR), siren 183500040, siret 18350004000310, siège, 1 A RUE LOUIS BRAILLE 35136 SAINT-JACQUES-DE-LA-LANDE, nature juridique 7381, état administratif A"
+    },
+    {
+      "champ": "type, description, expertises, mesures (ACT_AGR_002), categories (sensibiliser_former : ateliers inter-entreprises, webinaires), contacts (site, mail, tel)",
+      "url": "https://www.bretagne-competitivite.fr/ecodopro/",
+      "date": "2026-09-24",
+      "extrait": "Un état des lieux avec un diagnostic et des recommandations personnalisées à mettre en place. Un accompagnement individuel spécifique : réglementation, financements, solutions techniques…. Des accompagnements collectifs pour monter en compétence (ateliers inter-entreprises, webinaires). […] De 1 à 4 jours selon la nature des projets. […] 90 € HT / jour d'accompagnement (- de 50 salariés) 180 € HT / jour d'accompagnement (50 à 250 salariés) 240 € HT / jour d'accompagnement (+ de 250 salariés) Accompagnements réservés aux entreprises bretonnes […] Bénéficiez de l'accompagnement d'ECODO PRO par l'un de nos conseillers (Bretagne Compétitive / CCI) […] ECODO PRO, le programme de la CCI de Bretagne, animé par Bretagne Compétitivité. […] ecodo@bretagne-competitivite.fr […] +33(0)2 99 25 41 70"
+    },
+    {
+      "champ": "description (Bretagne Compétitivité), contacts (adresse, tel)",
+      "url": "https://www.bretagne-competitivite.fr/contactez-nous/",
+      "date": "2026-09-24",
+      "extrait": "1A Rue Louis Braille (CCI Bretagne), 35136 Saint-Jacques-de-la-Lande. +33(0)2 99 25 41 70. Bretagne Compétitivité, est une association loi 1901 de développement économique, pilotée par un directoire de 8 élus désignés par les CCI territoriales et par la CCI de région."
+    },
+    {
+      "champ": "departements, mesures (ACT_AGR_002), description (plan d'actions)",
+      "url": "https://www.bretagne-economique.com/actualites/ecodopro-programme-danticipation-pour-securiser-lapprovisionnement-en-eau/",
+      "date": "2026-09-24",
+      "extrait": "[…] programme Ecodo'Pro, initié par la préfecture du Morbihan en 2019, déployé depuis régionalement par le réseau des CCI bretonnes […] la cartographie des process et des solutions hydroéconomes et enfin, l'élaboration d'un plan d'actions potentiellement financées […] Solliciter le conseiller CCI référent Ecodo'Pro de votre département […] Côtes d'Armor (22) Finistère (29) Ille-et-vilaine (35) Morbihan (56). (Maude Duval, le 22 juillet 2026)"
+    },
+    {
+      "champ": "description (fiche hôtels)",
+      "url": "https://www.bretagne-competitivite.fr/wp-content/uploads/2025/06/ECODO-Fiche-BP_Hotels.pdf",
+      "date": "2026-09-24",
+      "extrait": "ÉCOD'O, un programme d'actions pour économiser l'eau dans les entreprises. Pratiques hydro-économes hôtels. 7 recommandations pour réduire vos consommations d'eau. Contact : chargé de mission transition écologique, CCI Côtes d'Armor."
+    }
+  ],
+  "date_maj": "2026-09-24"
+}

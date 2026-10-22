@@ -1,0 +1,110 @@
+{
+  "id": "PREST_HOP_002",
+  "nom": "Aquafluence",
+  "type": "bureau_etudes",
+  "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792070144/Noe%20assets/logos/PREST_HOP_002.png",
+  "siret": "48416655800052",
+  "description": "Bureau d'études en plomberie sanitaire basé à Massy, avec une agence à Surgères, certifié QB24 par le CSTB pour le diagnostic des risques sanitaires des réseaux d'eau du bâtiment. Son audit légionelles et Pseudomonas relève les réseaux de distribution, recense les défauts de conception, d'équipement, de fonctionnement et de maintenance, modélise l'hydraulique des réseaux bouclés et livre un plan d'action. Il a diagnostiqué les réseaux d'eau de centres hospitaliers de l'Oise (Beauvais, Clermont, Noyon, Méru) en appui de l'ARS Hauts-de-France lors de leur inspection, ainsi que ceux de cliniques, et réalise l'analyse des risques EDCH, obligatoire avant le 1er janvier 2029 pour les établissements de santé qui consomment plus de 10 m³ par jour et alimentent plus de 50 personnes. Il propose aussi des formations au risque légionelles certifiées Qualiopi, en session à Malakoff ou dans vos locaux.",
+  "expertises": [
+    "Audit légionelles et Pseudomonas",
+    "Analyse des risques EDCH",
+    "Équilibrage eau chaude sanitaire",
+    "Formation risque légionelles"
+  ],
+  "categories": [
+    "changer_process_pratiques"
+  ],
+  "secteurs": [
+    "hopitaux"
+  ],
+  "departements": [],
+  "mesures": [],
+  "contacts": [
+    {
+      "type": "site_internet",
+      "value": "https://www.aquafluence.fr/"
+    },
+    {
+      "type": "tel",
+      "value": "01 60 13 09 69"
+    },
+    {
+      "type": "mail",
+      "value": "administration@aquafluence.fr"
+    },
+    {
+      "type": "adresse",
+      "value": "8 rue René Cassin, 91300 Massy"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Aquafluence&departement=91",
+      "date": "2026-10-15",
+      "extrait": "AQUAFLUENCE, siret 48416655800052, siège, 1ER ETAGE 8 RUE RENE CASSIN 91300 MASSY, activite_principale 71.12B, etat_administratif A"
+    },
+    {
+      "champ": "contacts",
+      "url": "https://www.aquafluence.fr/nous-contacter",
+      "date": "2026-10-15",
+      "extrait": "Aquafluence Île-de-France, 8 rue René Cassin, 91300 - Massy, 01 60 13 09 69. Véronique Kersten, Secrétariat - administration : administration@aquafluence.fr. Aquafluence Atlantique, Rue Théodore Tournat, 17700 - Surgères"
+    },
+    {
+      "champ": "expertises, description",
+      "url": "https://www.aquafluence.fr/nos-études-légionelles-et-pseudomonas",
+      "date": "2026-10-15",
+      "extrait": "L'audit a pour objectif d'identifier toutes les causes de développement de germes pathogènes (Legionella, Pseudomonas) : causes liées à la conception (ex. mauvais dimensionnement, absence de bouclage ou à l'inverse mise en place d'un nombre excessif de bouclage), causes liées à la maintenance (ex. défaut d'entretien des terminaux). Relevé détaillé des réseaux de distribution avec identification exhaustive des défauts. Modélisation et étude hydraulique du fonctionnement des réseaux bouclés. Proposition de plan d'action pour corriger les défauts. Sanitaires (hôpitaux publics et privés)"
+    },
+    {
+      "champ": "description",
+      "url": "https://www.aquafluence.fr/nos-références",
+      "date": "2026-10-15",
+      "extrait": "ARS Haut-de-France, DT de l'Oise : diagnostic des réseaux d'eau intérieurs de 7 sites hospitaliers dont CH de Beauvais, CH de Clermont, CH de Noyon, Clinique du Parc de Beauvais, CH de Méru sur Oise. Clinique de Champagne, Troyes : diagnostic de la production et du réseau d'eau chaude sanitaire, modélisation du réseau, plan d'action. Hôpital Louis Constant Fleming, Saint Martin. Clinique Mas de Rochet, Castelnau-le-Lez. EHPAD Les Opalines, Le Pradet (83)"
+    },
+    {
+      "champ": "departements",
+      "url": "https://www.aquafluence.fr/nos-références",
+      "date": "2026-10-15",
+      "extrait": "Choix éditorial faute de zone d'intervention publiée : la page références montre des interventions dans de nombreuses régions, dont l'Oise (CH de Beauvais, Clermont, Noyon, Méru), Troyes, Castelnau-le-Lez, Le Pradet (83), Valence (26), Vingt Hanaps (61), Wattignies (59), Paris, Strasbourg et Saint-Martin, d'où departements vide (national)."
+    },
+    {
+      "champ": "expertises, description",
+      "url": "https://www.aquafluence.fr/analysedesrisquessanitaires",
+      "date": "2026-10-15",
+      "extrait": "Aquafluence réalise l'analyse des risques relative aux installations intérieures de distribution d'eau destinée à la consommation humaine (EDCH), exigée par l'arrêté du 30 décembre 2022. Établissements concernés : les établissements de santé [...] ET Consommant plus de 10 m3 en moyenne par jour et alimentant plus de 50 personnes. Au plus tard le 1er janvier 2029"
+    },
+    {
+      "champ": "expertises",
+      "url": "https://www.aquafluence.fr/nos-équilibrages-ecs",
+      "date": "2026-10-15",
+      "extrait": "Optimiser le confort des utilisateurs par une meilleure répartition de température et limiter ainsi le temps d'attente au niveau des différents points d'usage. Limiter le risque de développement de légionelles par un respect des températures minimales fixées par la règlementation (50°C en réseau)"
+    },
+    {
+      "champ": "expertises, description",
+      "url": "https://www.aquafluence.fr/nos-formations-légionelles-généralités",
+      "date": "2026-10-15",
+      "extrait": "AQLEG 1 - Gestion du risque lié aux légionelles dans les réseaux d'eau chaude sanitaire. 500 € HT. Bureaux&Co, 32 rue Guy Moquet, 92240 MALAKOFF. Possibilité de formation en INTRA (dans vos locaux) : nous consulter. Aquafluence Île-de-France a obtenu la certification Qualiopi"
+    },
+    {
+      "champ": "description",
+      "url": "https://www.aquafluence.fr/_files/ugd/bc02ec_d0bd8df0a13944ce883ab76ff711ae43.pdf",
+      "date": "2026-10-15",
+      "extrait": "QB - Réseaux d'eau dans le bâtiment (QB24), N° 25_02_QB24_CSTB_007, titulaire AQUAFLUENCE, 8 rue René Cassin, 91300 Massy. Diagnostics des risques sanitaires et désordres techniques dans les réseaux d'eau sanitaire dans le bâtiment. Date de décision : 16/09/2025"
+    },
+    {
+      "champ": "description",
+      "url": "https://www.aquafluence.fr/_files/ugd/bc02ec_a362331f2af34672ab278cbdee9337bb.pdf",
+      "date": "2026-10-15",
+      "extrait": "I.Cert atteste que AQUAFLUENCE, 8 RUE RENE CASSIN, 1ER ETAGE MASSY 91300, SIREN 484166558, est titulaire de la certification Qualiopi. Actions de formation (AF). Validité 04/04/2026 au 03/04/2029"
+    },
+    {
+      "champ": "logo_url",
+      "url": "https://static.wixstatic.com/media/bc02ec_3b9f7cc479e348e2b11683ef5bf82d33%7Emv2.png/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/bc02ec_3b9f7cc479e348e2b11683ef5bf82d33%7Emv2.png",
+      "date": "2026-10-15",
+      "extrait": "apple-touch-icon du site aquafluence.fr, 180 x 180, même symbole que le logo carré de la page d'accueil"
+    }
+  ],
+  "date_maj": "2026-10-15"
+}

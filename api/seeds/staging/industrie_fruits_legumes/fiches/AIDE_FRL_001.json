@@ -1,0 +1,211 @@
+{
+  "id": "AIDE_FRL_001",
+  "nom": "Appel à projets Structuration de filières, AAP PAM 2026 (plan agriculture climat Méditerranée, FranceAgriMer)",
+  "financeur": "FranceAgriMer (fonds de transition et de souveraineté agricole)",
+  "logo_url": null,
+  "type": "subvention",
+  "taux": "Dépenses matérielles : 40 % pour les PME, 25 % pour les grandes entreprises. Dépenses immatérielles : 50 % pour les PME, 40 % pour les grandes entreprises.",
+  "plafond": "2 000 000 € d'aide par projet sur les dépenses matérielles et 400 000 € sur les dépenses immatérielles, soit 2 400 000 € au plus par projet",
+  "description": "Subvention à des projets collectifs de filière qui s'inscrivent dans une démarche territoriale labellisée « aire agricole de résilience climatique » (AARC). L'appel à projets soutient en priorité la structuration aval, la transformation, la logistique et la commercialisation, hors amont agricole et expérimentation. Il finance des investissements à l'aval des filières (collecte, tri, stockage, préparation et transformation des produits agricoles, immobilier lié au projet) et des dépenses immatérielles (personnel du projet, prestations d'études, de diagnostic et de conseil). La réduction de l'utilisation de l'eau fait partie des objectifs environnementaux attendus des projets.",
+  "eligibilite": "Chef de file dont l'objet principal est agricole ou agroalimentaire (entreprise de transformation, coopérative, négoce, collecteur, distributeur, chambre d'agriculture, interprofession, structure fédérative, centre technique), partenaire d'une démarche AARC préalablement labellisée. Projet collectif associant au moins un opérateur de l'amont agricole et une entreprise, mis en œuvre majoritairement dans l'un des 18 départements du plan, avec plus de 100 000 € de dépenses mêlant matériel et immatériel.",
+  "categories": [
+    "suivre_comprendre_maitriser",
+    "ameliorer_efficacite_hydrique",
+    "changer_process_pratiques",
+    "valoriser_reut_eaux_non_conventionnelles"
+  ],
+  "secteurs": [
+    "industrie_fruits_legumes"
+  ],
+  "departements": [
+    "04",
+    "06",
+    "07",
+    "11",
+    "13",
+    "2A",
+    "2B",
+    "26",
+    "30",
+    "31",
+    "32",
+    "34",
+    "47",
+    "66",
+    "81",
+    "82",
+    "83",
+    "84"
+  ],
+  "agences": [],
+  "mesures": [
+    "ACT_AGR_002",
+    "ACT_FRL_003",
+    "ACT_FRL_005",
+    "ACT_FRL_006",
+    "ACT_FRL_007"
+  ],
+  "infos_complementaires": [
+    {
+      "type": "avertissement",
+      "texte": "Le projet doit s'inscrire dans une démarche préalablement labellisée « aire agricole de résilience climatique » (AARC), réserves levées, et le chef de file doit figurer parmi les partenaires de cette démarche. Sans cette labellisation, le dossier n'est pas éligible : un investissement d'économie d'eau porté seul par une conserverie hors AARC ne relève pas de ce dispositif."
+    },
+    {
+      "type": "avertissement",
+      "texte": "Aucun devis ne doit être signé ni aucune commande passée avant l'accusé de réception de la demande par FranceAgriMer : un devis signé avant cette date est inéligible dans son entièreté."
+    },
+    {
+      "type": "avertissement",
+      "texte": "Le projet doit être collectif (au moins un opérateur de l'amont agricole et une entreprise, sauf coopérative ou interprofession seule), dépasser 100 000 € de dépenses et comporter à la fois des dépenses matérielles et immatérielles, chacune au plus 80 % du budget. Les travaux de mise aux normes, le simple renouvellement de matériel et le matériel d'occasion sont exclus."
+    },
+    {
+      "type": "info",
+      "texte": "Les mesures liées à cette aide le sont sous condition. La source ne cite aucun équipement d'économie d'eau : les investissements de lavage, d'épluchage, de recyclage de l'eau ou de valorisation de l'eau de végétation ne sont finançables que comme investissements de préparation ou de transformation, au titre de l'objectif de réduction de l'utilisation de l'eau, dans un projet collectif de filière inscrit dans une AARC et qui comporte à la fois des dépenses matérielles et immatérielles. Un audit eau n'est finançable que comme dépense immatérielle (prestation de diagnostic) d'un tel projet d'investissement, jamais seul. Les travaux de mise aux normes restent exclus."
+    },
+    {
+      "type": "avertissement",
+      "texte": "Sont exclus du bénéfice de l'aide, même s'ils peuvent être partenaires non financés ou prestataires : les exploitations agricoles, les instituts de recherche, les grandes entreprises dont le produit fini est hors annexe I du traité sur le fonctionnement de l'UE, les entreprises dont l'objet n'est pas agricole ou agroalimentaire, les entreprises en difficulté et celles qui ne sont pas à jour de leurs obligations fiscales, sanitaires et environnementales. Un même SIRET ne peut déposer qu'une seule demande, et les devis doivent dater de moins de trois mois avant le dépôt."
+    },
+    {
+      "type": "info",
+      "texte": "Édition 2026 (lue le 25 septembre 2026) : la relève du 11 septembre 2026 est passée ; seule reste celle du 19 octobre 2026, sous réserve de crédits encore disponibles. Le dépôt se fait sur la téléprocédure PAD de FranceAgriMer, par le chef de file uniquement. Enveloppe de 7,5 millions d'euros. Un indicateur d'impact environnemental est obligatoire, par exemple le volume d'eau économisé en m³."
+    },
+    {
+      "type": "info",
+      "texte": "La FAQ de l'appel à projets ne contraint pas FranceAgriMer : en cas de litige, seule la décision du directeur général de FranceAgriMer (INTV-SIIF-2026-37) fait foi."
+    },
+    {
+      "type": "ressource",
+      "texte": "Page de l'appel à projets sur le site de FranceAgriMer",
+      "lien": "https://www.franceagrimer.fr/aides/appel-projets-structuration-de-filieres-aap-pam-2026"
+    },
+    {
+      "type": "ressource",
+      "texte": "Foire aux questions de l'appel à projets",
+      "lien": "https://www.franceagrimer.fr/sites/default/files/2026-08/FAQ_AAP_PAM_2026_0.pdf"
+    },
+    {
+      "type": "ressource",
+      "texte": "Téléprocédure de dépôt (PAD FranceAgriMer)",
+      "lien": "https://padcollecte.franceagrimer.fr/padcollecte-usager/#/detail?cdDispositif=PAM-FILIERES26"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "taux, plafond",
+      "url": "https://www.franceagrimer.fr/aides/appel-projets-structuration-de-filieres-aap-pam-2026",
+      "date": "2026-09-25",
+      "extrait": "L'aide publique aux dépenses matérielles est plafonnée à 40 % maximum du coût total éligible de ces dépenses pour les PME et 25 % maximum pour les GE, dans la limite de 2 000 000 euros par projet."
+    },
+    {
+      "champ": "taux, plafond",
+      "url": "https://www.franceagrimer.fr/aides/appel-projets-structuration-de-filieres-aap-pam-2026",
+      "date": "2026-09-25",
+      "extrait": "L'aide publique aux dépenses immatérielles est plafonnée à 50 % maximum du coût total éligible de ces dépenses pour les PME et 40 % maximum pour les GE, dans la limite de 400 000 euros par projet."
+    },
+    {
+      "champ": "plafond, type",
+      "url": "https://www.franceagrimer.fr/sites/default/files/2026-08/FAQ_AAP_PAM_2026_0.pdf",
+      "date": "2026-09-25",
+      "extrait": "L'aide maximum par projet est de 2 400 000 € (400 000 € sur les dépenses immatérielles + 2 000 000 € sur les dépenses matérielles). [...] L'aide prend la forme d'une subvention."
+    },
+    {
+      "champ": "departements",
+      "url": "https://www.franceagrimer.fr/aides/appel-projets-structuration-de-filieres-aap-pam-2026",
+      "date": "2026-09-25",
+      "extrait": "Alpes-de-Haute-Provence, Alpes-Maritimes, Ardèche, Aude, Bouches-du-Rhône, Corse-du-Sud, Drôme, Gard, Haute-Corse, Haute-Garonne, Gers, Hérault, Lot-et-Garonne, Pyrénées-Orientales, Tarn, Tarn-et-Garonne, Var et Vaucluse."
+    },
+    {
+      "champ": "description, eligibilite, infos_complementaires",
+      "url": "https://www.franceagrimer.fr/sites/default/files/2026-08/FAQ_AAP_PAM_2026_0.pdf",
+      "date": "2026-09-25",
+      "extrait": "Mon projet doit-il obligatoirement être labellisé AARC ? Oui. Le projet doit s'inscrire dans le cadre d'une démarche préalablement labellisée « aire agricole de résilience climatique » (AARC) [...] Sans cette labellisation préalable, le dossier ne sera pas éligible."
+    },
+    {
+      "champ": "eligibilite",
+      "url": "https://www.franceagrimer.fr/aides/appel-projets-structuration-de-filieres-aap-pam-2026",
+      "date": "2026-09-25",
+      "extrait": "Les demandeurs sont des acteurs dont l'objet principal est agricole ou agroalimentaire : collecteur, coopérative, entreprise de transformation agroalimentaire, négoce, distributeur ; chambre d'agriculture ; [...] Le chef de file doit être un des partenaires identifiés dans la démarche labellisée AARC."
+    },
+    {
+      "champ": "eligibilite, infos_complementaires",
+      "url": "https://www.franceagrimer.fr/aides/appel-projets-structuration-de-filieres-aap-pam-2026",
+      "date": "2026-09-25",
+      "extrait": "Les dépenses présentées par projet doivent être supérieures à 100 000 euros. [...] Les projets doivent présenter à la fois des dépenses matérielles et des dépenses immatérielles. [...] Un opérateur de l'amont agricole et une entreprise doivent toujours être représentés dans le partenariat."
+    },
+    {
+      "champ": "description, mesures",
+      "url": "https://www.franceagrimer.fr/aides/appel-projets-structuration-de-filieres-aap-pam-2026",
+      "date": "2026-09-25",
+      "extrait": "le coût des investissements à l'aval des filières (hors production agricole), relatifs par exemple à la collecte, au tri, au commerce de gros, au stockage [...], à la préparation et à la transformation des produits agricoles"
+    },
+    {
+      "champ": "description, mesures",
+      "url": "https://www.franceagrimer.fr/aides/appel-projets-structuration-de-filieres-aap-pam-2026",
+      "date": "2026-09-25",
+      "extrait": "dans les domaines environnemental et sanitaire (transition écologique, adaptation des pratiques au changement climatique, développement des alternatives à l'utilisation des produits phytosanitaires, réduction des émissions des gaz à effet de serre et de l'utilisation de l'eau"
+    },
+    {
+      "champ": "mesures",
+      "url": "https://www.franceagrimer.fr/aides/appel-projets-structuration-de-filieres-aap-pam-2026",
+      "date": "2026-09-25",
+      "extrait": "les prestations extérieures juridiques, financières, informatiques, d'études, de diagnostic et de conseils, directement en lien avec le projet ; ces prestations sont plafonnées à 50 % du coût éligible des dépenses totales du projet."
+    },
+    {
+      "champ": "infos_complementaires",
+      "url": "https://www.franceagrimer.fr/sites/default/files/2026-08/FAQ_AAP_PAM_2026_0.pdf",
+      "date": "2026-09-25",
+      "extrait": "Un devis signé avant l'ACT est-il éligible ? Non. [...] Le devis devient inéligible dans son entièreté."
+    },
+    {
+      "champ": "infos_complementaires",
+      "url": "https://www.franceagrimer.fr/sites/default/files/2026-08/FAQ_AAP_PAM_2026_0.pdf",
+      "date": "2026-09-25",
+      "extrait": "travaux de mise aux normes ; entretien et simple renouvellement des matériels ; [...] matériel d'occasion ou reconditionné"
+    },
+    {
+      "champ": "infos_complementaires",
+      "url": "https://www.franceagrimer.fr/sites/default/files/2026-08/FAQ_AAP_PAM_2026_0.pdf",
+      "date": "2026-09-25",
+      "extrait": "Au moins un indicateur d'impact environnemental est obligatoire. [...] volume d'eau économisé (m³)"
+    },
+    {
+      "champ": "infos_complementaires",
+      "url": "https://www.franceagrimer.fr/aides/appel-projets-structuration-de-filieres-aap-pam-2026",
+      "date": "2026-09-25",
+      "extrait": "La période de dépôt des projets ouvre le 29/06/2026. Relèves des dossiers : 11 septembre 2026 et 19 octobre 2026 (cette seconde relève est sous réserve de crédits encore disponibles). [...] L'enveloppe allouée à ce dispositif est de 7,5 millions d'euros d'aide."
+    },
+    {
+      "champ": "infos_complementaires",
+      "url": "https://www.franceagrimer.fr/sites/default/files/2026-08/FAQ_AAP_PAM_2026_0.pdf",
+      "date": "2026-09-25",
+      "extrait": "Cette Foire Aux Questions (FAQ) ne contraint pas FranceAgriMer. En cas de litige, seule la décision du Directeur général de FranceAgriMer publiée au Bulletin Officiel du Ministère en charge de l'agriculture fait foi."
+    },
+    {
+      "champ": "infos_complementaires",
+      "url": "https://www.franceagrimer.fr/sites/default/files/2026-08/FAQ_AAP_PAM_2026_0.pdf",
+      "date": "2026-09-25",
+      "extrait": "Sont exclues du bénéfice de l'aide (mais peuvent être partenaires non financés ou prestataires) : les exploitations agricoles, les instituts de recherche, les grandes entreprises (GE) dont le produit fini est hors annexe I du traité UE, les entreprises dont l'objet n'est pas agricole ou agroalimentaire, les entreprises en difficulté, les entreprises qui ne sont pas à jour de leurs obligations fiscales, sanitaires et environnementales"
+    },
+    {
+      "champ": "infos_complementaires",
+      "url": "https://www.franceagrimer.fr/sites/default/files/2026-08/FAQ_AAP_PAM_2026_0.pdf",
+      "date": "2026-09-25",
+      "extrait": "Non, un même demandeur (SIRET) ne peut déposer qu'une seule demande d'aide dans le cadre de cet appel à projets."
+    },
+    {
+      "champ": "infos_complementaires",
+      "url": "https://www.franceagrimer.fr/sites/default/files/2026-08/FAQ_AAP_PAM_2026_0.pdf",
+      "date": "2026-09-25",
+      "extrait": "Les devis présentés doivent être datés de moins de 3 mois avant la date de dépôt du dossier (ACT)."
+    },
+    {
+      "champ": "infos_complementaires, mesures",
+      "url": "https://www.franceagrimer.fr/sites/default/files/2026-08/FAQ_AAP_PAM_2026_0.pdf",
+      "date": "2026-09-25",
+      "extrait": "Les projets doivent présenter à la fois des dépenses matérielles et des dépenses immatérielles. À défaut, le projet ne peut pas être considéré comme éligible."
+    }
+  ],
+  "date_maj": "2026-09-25"
+}

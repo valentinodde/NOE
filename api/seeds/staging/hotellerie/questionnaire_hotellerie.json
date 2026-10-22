@@ -1,0 +1,765 @@
+{
+  "sector_id": "hotellerie",
+  "sector_label": "Hôtellerie",
+  "naf_codes": [
+    "55.10Z"
+  ],
+  "themes": [
+    {
+      "id": "connaissance",
+      "label": "Connaissance & mesure"
+    },
+    {
+      "id": "chambres",
+      "label": "Chambres & linge"
+    },
+    {
+      "id": "exterieurs",
+      "label": "Piscine & extérieurs"
+    },
+    {
+      "id": "gouvernance",
+      "label": "Gouvernance & anticipation"
+    }
+  ],
+  "questions": [
+    {
+      "id": "hot_q01",
+      "theme": "connaissance",
+      "order": 1,
+      "type": "multi_choice",
+      "class": "usage_eau",
+      "text": "Quels usages de l'eau votre établissement a-t-il en plus des chambres ? (plusieurs réponses possibles)",
+      "condition": null,
+      "options": [
+        {
+          "id": "restaurant",
+          "text": "Restaurant ou cuisine de production",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": []
+        },
+        {
+          "id": "blanchisserie",
+          "text": "Blanchisserie sur place",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": []
+        },
+        {
+          "id": "piscine",
+          "text": "Piscine, spa ou bassin",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": []
+        },
+        {
+          "id": "espaces_verts",
+          "text": "Jardin ou espaces verts arrosés",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": []
+        },
+        {
+          "id": "chambres_seules",
+          "text": "Aucun : uniquement des chambres",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "hot_q02",
+      "theme": "connaissance",
+      "order": 2,
+      "type": "single_choice",
+      "text": "Comment suivez-vous aujourd'hui la consommation d'eau de votre établissement ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "facture",
+          "text": "Je m'en remets à la facture du service d'eau",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "comptage"
+          ]
+        },
+        {
+          "id": "releve_occasionnel",
+          "text": "Je relève le compteur général de temps en temps",
+          "maturity_score": 1,
+          "concern_score": 1,
+          "topics": [
+            "comptage"
+          ]
+        },
+        {
+          "id": "ratio_general",
+          "text": "Je relève chaque mois et suis un ratio par nuitée",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        },
+        {
+          "id": "sous_compteurs",
+          "text": "Ratio par nuitée et sous-compteurs par usage",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "hot_q03",
+      "theme": "connaissance",
+      "order": 3,
+      "type": "single_choice",
+      "text": "Avez-vous fait réaliser un diagnostic eau (audit) de votre établissement ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "jamais",
+          "text": "Non, jamais",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "audit"
+          ]
+        },
+        {
+          "id": "envisage",
+          "text": "Non, mais nous l'envisageons",
+          "maturity_score": 0,
+          "concern_score": 2,
+          "topics": [
+            "audit"
+          ]
+        },
+        {
+          "id": "ancien",
+          "text": "Oui, il y a plus de cinq ans",
+          "maturity_score": 1,
+          "concern_score": 1,
+          "topics": [
+            "audit"
+          ]
+        },
+        {
+          "id": "recent",
+          "text": "Oui, depuis moins de cinq ans, avec un plan d'actions",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "hot_q04",
+      "theme": "chambres",
+      "order": 4,
+      "type": "single_choice",
+      "text": "Quels équipements économes équipent les salles de bains de vos chambres ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "origine",
+          "text": "Robinetterie et chasses d'origine, sans équipement économe",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "equipements"
+          ]
+        },
+        {
+          "id": "partiel",
+          "text": "Quelques chambres équipées, ou seulement des mousseurs",
+          "maturity_score": 1,
+          "concern_score": 2,
+          "topics": [
+            "equipements"
+          ]
+        },
+        {
+          "id": "toutes_chambres",
+          "text": "Douchettes, mousseurs et chasses économes partout",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        },
+        {
+          "id": "toutes_controlees",
+          "text": "Tout est équipé et les débits sont contrôlés chaque année",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "hot_q05",
+      "theme": "chambres",
+      "order": 5,
+      "type": "single_choice",
+      "text": "Comment les fuites dans les chambres (chasse qui coule, robinet qui goutte) sont-elles repérées ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "signalement_client",
+          "text": "Quand un client ou un employé s'en plaint",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "fuites"
+          ]
+        },
+        {
+          "id": "consigne_orale",
+          "text": "Le personnel d'étage a pour consigne orale de les signaler",
+          "maturity_score": 1,
+          "concern_score": 1,
+          "topics": [
+            "fuites"
+          ]
+        },
+        {
+          "id": "fiche_signalement",
+          "text": "Fiche de signalement suivie, réparation rapide",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        },
+        {
+          "id": "controle_annuel",
+          "text": "Signalement suivi et contrôle annuel de la robinetterie",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "hot_q06",
+      "theme": "chambres",
+      "order": 6,
+      "type": "single_choice",
+      "text": "À quelle fréquence changez-vous draps et serviettes pendant un séjour ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "chaque_jour",
+          "text": "Chaque jour, pour tous les clients",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "linge"
+          ]
+        },
+        {
+          "id": "refus_non_suivi",
+          "text": "Le client peut refuser, mais ce n'est pas toujours respecté",
+          "maturity_score": 1,
+          "concern_score": 2,
+          "topics": [
+            "linge"
+          ]
+        },
+        {
+          "id": "a_la_demande",
+          "text": "Seulement à la demande du client, consigne respectée",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        },
+        {
+          "id": "a_la_demande_suivi",
+          "text": "À la demande, et nous suivons le linge lavé par nuitée",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "hot_q07",
+      "theme": "chambres",
+      "order": 7,
+      "type": "single_choice",
+      "text": "Comment choisissez-vous vos lave-linge et lave-vaisselle professionnels ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "sans_critere_eau",
+          "text": "Au prix ou à la marque, sans regarder l'eau consommée",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "equipements"
+          ]
+        },
+        {
+          "id": "critere_eau",
+          "text": "L'eau consommée par cycle ou par kilo est un critère d'achat",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        },
+        {
+          "id": "critere_et_dosage",
+          "text": "Critère d'achat, avec dosage automatique des lessives",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        },
+        {
+          "id": "sans_machine",
+          "text": "Pas de machine : linge et vaisselle confiés à l'extérieur",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "hot_q08",
+      "theme": "exterieurs",
+      "order": 8,
+      "type": "single_choice",
+      "text": "Comment limitez-vous l'eau consommée par votre piscine ou votre spa ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "aucune_mesure",
+          "text": "Pas de mesure particulière, filtres lavés à heure fixe",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "piscine"
+          ]
+        },
+        {
+          "id": "couverture",
+          "text": "Bassins couverts la nuit, filtres lavés à heure fixe",
+          "maturity_score": 1,
+          "concern_score": 1,
+          "topics": [
+            "piscine"
+          ]
+        },
+        {
+          "id": "lavage_optimise",
+          "text": "Couverture et lavage des filtres selon leur encrassement",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        },
+        {
+          "id": "recyclage",
+          "text": "Lavage optimisé et eau de lavage des filtres réutilisée",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        },
+        {
+          "id": "sans_piscine",
+          "text": "Nous n'avons ni piscine ni spa",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "hot_q09",
+      "theme": "exterieurs",
+      "order": 9,
+      "type": "single_choice",
+      "text": "Comment entretenez-vous vos espaces verts ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "arrosage_classique",
+          "text": "Plantations classiques, arrosage au jet ou par aspersion",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "exterieurs"
+          ]
+        },
+        {
+          "id": "jardin_sobre",
+          "text": "Plantes adaptées au climat et goutte-à-goutte",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        },
+        {
+          "id": "jardin_sobre_pluie",
+          "text": "Plantes adaptées, goutte-à-goutte et eau de pluie récupérée",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        },
+        {
+          "id": "sans_jardin",
+          "text": "Nous n'avons pas d'espace vert arrosé",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "hot_q10",
+      "theme": "gouvernance",
+      "order": 10,
+      "type": "single_choice",
+      "text": "Savez-vous ce que vous devrez réduire ou arrêter en cas d'arrêté sécheresse ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "jamais_regarde",
+          "text": "Nous n'avons jamais regardé la question",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "anticipation"
+          ]
+        },
+        {
+          "id": "informe",
+          "text": "Nous suivons les alertes, sans rien avoir prévu",
+          "maturity_score": 1,
+          "concern_score": 2,
+          "topics": [
+            "anticipation"
+          ]
+        },
+        {
+          "id": "consignes",
+          "text": "Des consignes existent pour chaque niveau d'alerte",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        },
+        {
+          "id": "plan_formalise",
+          "text": "Un plan écrit, connu des équipes, révisé chaque année",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "hot_q11",
+      "theme": "gouvernance",
+      "order": 11,
+      "type": "single_choice",
+      "text": "Participez-vous à une démarche collective sur l'eau dans votre territoire ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "non",
+          "text": "Non",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": []
+        },
+        {
+          "id": "informe",
+          "text": "Nous en connaissons une, sans y participer",
+          "maturity_score": 1,
+          "concern_score": 2,
+          "topics": [
+            "collectif"
+          ]
+        },
+        {
+          "id": "participe",
+          "text": "Oui, nous y participons",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        },
+        {
+          "id": "moteur",
+          "text": "Oui, nous y tenons un rôle actif (animation, pilote)",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    }
+  ],
+  "topics_labels": {
+    "comptage": "Comptage et suivi des volumes",
+    "audit": "Audit eau",
+    "equipements": "Équipements économes",
+    "fuites": "Détection des fuites",
+    "linge": "Gestion du linge",
+    "piscine": "Piscine et spa",
+    "exterieurs": "Espaces verts et arrosage",
+    "anticipation": "Anticipation des restrictions",
+    "collectif": "Démarche collective"
+  },
+  "action_plan_config": {
+    "always_include": [],
+    "never_include": [],
+    "filters": [
+      {
+        "id": "f_suivi_facture",
+        "description": "Consommation suivie à la facture ou par relevés occasionnels : suivre un ratio mensuel en litres par nuitée",
+        "type": "answer",
+        "questionId": "hot_q02",
+        "operator": "in",
+        "value": [
+          "facture",
+          "releve_occasionnel"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_HOT_007"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_sans_sous_compteur",
+        "description": "Relevés occasionnels ou ratio mensuel sans sous-compteur : passer au comptage divisionnaire (eau chaude, piscine, cuisine, arrosage)",
+        "type": "answer",
+        "questionId": "hot_q02",
+        "operator": "in",
+        "value": [
+          "releve_occasionnel",
+          "ratio_general"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_AGR_001"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_chambres_seules",
+        "description": "Établissement sans aucun usage en dehors des chambres : pas de poste à isoler, retirer le compteur par usage",
+        "type": "class",
+        "class": "usage_eau",
+        "operator": "includes",
+        "value": "chambres_seules",
+        "effect": "remove",
+        "measures": [
+          "ACT_AGR_001"
+        ],
+        "priority": 2
+      },
+      {
+        "id": "f_pas_audit",
+        "description": "Pas d'audit, audit seulement envisagé ou de plus de cinq ans : recommander le diagnostic",
+        "type": "answer",
+        "questionId": "hot_q03",
+        "operator": "in",
+        "value": [
+          "jamais",
+          "envisage",
+          "ancien"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_AGR_002"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_audit_inconnu",
+        "description": "Question de l'audit laissée sans réponse : ne pas savoir est le motif même de recommander le diagnostic",
+        "type": "answer",
+        "questionId": "hot_q03",
+        "operator": "not_answered",
+        "effect": "add",
+        "measures": [
+          "ACT_AGR_002"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_sdb_non_equipees",
+        "description": "Salles de bains d'origine ou partiellement équipées : équiper toutes les chambres en hydro-économes",
+        "type": "answer",
+        "questionId": "hot_q04",
+        "operator": "in",
+        "value": [
+          "origine",
+          "partiel"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_HOT_001"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_fuites_subies",
+        "description": "Fuites connues seulement par plainte ou consigne orale : former l'étage et organiser le signalement",
+        "type": "answer",
+        "questionId": "hot_q05",
+        "operator": "in",
+        "value": [
+          "signalement_client",
+          "consigne_orale"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_HOT_002"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_linge_quotidien",
+        "description": "Linge changé chaque jour, ou choix du client mal respecté : passer au linge à la demande",
+        "type": "answer",
+        "questionId": "hot_q06",
+        "operator": "in",
+        "value": [
+          "chaque_jour",
+          "refus_non_suivi"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_HOT_003"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_machines_sans_critere",
+        "description": "Machines choisies sans critère de consommation d'eau : en faire un critère au prochain renouvellement",
+        "type": "answer",
+        "questionId": "hot_q07",
+        "operator": "eq",
+        "value": "sans_critere_eau",
+        "effect": "add",
+        "measures": [
+          "ACT_HOT_004"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_sans_machine",
+        "description": "Linge et vaisselle entièrement externalisés : pas de machine à choisir, retirer la mesure",
+        "type": "answer",
+        "questionId": "hot_q07",
+        "operator": "eq",
+        "value": "sans_machine",
+        "effect": "remove",
+        "measures": [
+          "ACT_HOT_004"
+        ],
+        "priority": 2
+      },
+      {
+        "id": "f_piscine_non_optimisee",
+        "description": "Piscine sans mesure ou seulement couverte : optimiser et recycler le lavage des filtres",
+        "type": "answer",
+        "questionId": "hot_q08",
+        "operator": "in",
+        "value": [
+          "aucune_mesure",
+          "couverture"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_HOT_005"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_sans_piscine",
+        "description": "Ni piscine ni spa : retirer la mesure piscine",
+        "type": "answer",
+        "questionId": "hot_q08",
+        "operator": "eq",
+        "value": "sans_piscine",
+        "effect": "remove",
+        "measures": [
+          "ACT_HOT_005"
+        ],
+        "priority": 2
+      },
+      {
+        "id": "f_arrosage_classique",
+        "description": "Plantations classiques arrosées au jet ou par aspersion : adapter le jardin au climat",
+        "type": "answer",
+        "questionId": "hot_q09",
+        "operator": "eq",
+        "value": "arrosage_classique",
+        "effect": "add",
+        "measures": [
+          "ACT_HOT_006"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_jardin_sans_pluie",
+        "description": "Jardin arrosé sans eau de pluie récupérée : proposer la récupération des eaux de toiture",
+        "type": "answer",
+        "questionId": "hot_q09",
+        "operator": "in",
+        "value": [
+          "arrosage_classique",
+          "jardin_sobre"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_AGR_006"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_sans_jardin",
+        "description": "Pas d'espace vert arrosé : retirer le jardin sobre et l'eau de pluie, dont l'usage aux seules chasses d'eau suppose un double réseau rarement justifié",
+        "type": "answer",
+        "questionId": "hot_q09",
+        "operator": "eq",
+        "value": "sans_jardin",
+        "effect": "remove",
+        "measures": [
+          "ACT_HOT_006",
+          "ACT_AGR_006"
+        ],
+        "priority": 2
+      },
+      {
+        "id": "f_restrictions_non_anticipees",
+        "description": "Exposition aux arrêtés sécheresse jamais regardée, suivie sans rien prévoir, ou seulement des consignes : formaliser un plan de gestion écrit, pour toutes les saisons",
+        "type": "answer",
+        "questionId": "hot_q10",
+        "operator": "in",
+        "value": [
+          "jamais_regarde",
+          "informe",
+          "consignes"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_AGR_009"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_hors_collectif",
+        "description": "Une démarche collective de territoire est connue mais l'établissement n'y participe pas : proposer d'y entrer",
+        "type": "answer",
+        "questionId": "hot_q11",
+        "operator": "in",
+        "value": [
+          "informe"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_AGR_010"
+        ],
+        "priority": 1
+      }
+    ]
+  }
+}

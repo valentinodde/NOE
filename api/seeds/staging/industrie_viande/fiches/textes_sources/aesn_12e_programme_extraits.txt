@@ -1,0 +1,559 @@
+Extraction texte (pdfplumber) du PDF https://economie.eaufrance.fr/sites/default/files/2024-11/doc577-12e_programme_aesn_vf.pdf , pages 28 à 31 et 63 à 71 (numérotation du fichier PDF), téléchargé le 2026-09-24 par l orchestrateur. Total pages : 162
+
+===== page PDF 28 =====
+3. Conditions générales et opérationnelles d'attribution
+des subventions et des concours financiers du 12e
+programme d’intervention
+3.1. Conditions générales d’attribution des subventions
+et des concours financiers
+Les dispositions du présent chapitre s’appliquent tant qu’elles ne sont pas contraires à celles du
+chapitre 3.2.
+3.1.1. Attributaires et bénéficiaires des aides
+Les aides sont accordées aux maîtres d’ouvrage publics ou privés pour des projets répondant aux
+modalités du programme d’intervention en vigueur. Elles peuvent être attribuées à des tiers publics
+ou privés (dits « attributaires ») qui agissent pour le compte de ces maîtres d’ouvrage (dits
+« bénéficiaires ») dans le cadre d’un contrat qui définit le montage juridique et financier du projet.
+L’agence de l’eau peut assurer la maîtrise d’ouvrage d’investissements, d’études, d’acquisition de
+données, d’opérations de communication et de systèmes d’information d’intérêt général. Dans ce
+cas, le montant de ces opérations est intégralement pris en charge au titre du programme.
+L’agence de l’eau peut donner mandat à un organisme public pour assurer l’instruction, la
+liquidation et le paiement des aides, dans le cadre d’une convention de mandat dont le modèle est
+approuvé par le conseil d’administration.
+Des compléments aux conditions générales du présent chapitre, relatifs notamment au
+paiement des aides de l’agence de l’eau, sont approuvés par délibération du conseil
+d’administration et portés à la connaissance des attributaires et bénéficiaires des aides au
+moment de leur notification.
+Lorsque la maîtrise d’ouvrage d’une opération est assurée par l’État, l’aide peut être accordée
+sous la forme d’un fonds de concours dont les modalités peuvent être définies par une
+convention spécifique auquel cas, les conditions générales d’attribution et de paiement des
+aides de l’agence de l’eau Seine-Normandie ne s’appliquent pas.
+3.1.2. Demande d’aide - Démarrage des opérations
+Les demandes d’aide sont transmises sous forme de formulaires accompagnés le cas échéant
+de pièces justificatives.
+Sauf autorisation de démarrage anticipé accordée par l’agence, l’attributaire ne peut pas démarrer
+l’exécution de l’opération avant le dépôt à l’agence de l’eau d’une demande d’aide formelle.
+L’agence en accuse réception. Cet accusé de réception ne vaut pas décision d’attribution de
+l’aide.
+Cette obligation ne s’applique pas aux demandes d’aide complémentaires à une aide initiale
+octroyée par l’agence de l’eau et portant sur le même objet, visées à l’article 3.1.9. Elle ne
+s’applique pas non plus aux demandes d’aide relatives au renouvellement du financement
+d’actions reconduites ou aux aides d’urgence.
+Les prestations d’assistance à maitrise d’ouvrage, les études préalables au projet, les études
+de maitrise d’œuvre de conception, les frais engagés à la suite de procédures administratives
+28 / 162 enregistré le 7 octobre 2024
+
+===== page PDF 29 =====
+ainsi que les acquisitions ou frais de mises à disposition de terrain, jugés nécessaires à la
+réalisation de l’opération par l’agence ne constituent pas un commencement d’exécution ; ils sont
+alors financés avec l’opération à laquelle ils sont destinés et au même taux.
+Le commencement d'exécution est apprécié par l’acte juridique démarrant l’opération. Il
+correspond notamment à :
+• Pour les marchés prévoyant une exécution par ordre de service, la date de démarrage
+de la préparation du chantier ou à défaut la date de démarrage des travaux, indiquée
+dans le premier ordre de service.
+• Pour les marchés sans ordre de service :
+- la date de notification du marché,
+- ou la date de signature du bon de commande pour les accords cadre à bons de
+commande,
+- ou, dans le cas d’une aide portant sur une tranche conditionnelle, la date
+d’affermissement de la tranche conditionnelle.
+• En cas de contractualisation par acceptation d’un devis, la date de signature du devis.
+À défaut de recours à un prestataire, une déclaration sur l'honneur signée par le demandeur
+peut attester de la date du commencement d'exécution.
+3.1.3. Forme des aides de l’agence de l’eau – Appel à projets
+Les aides sont accordées par l’agence de l’eau sous forme de subventions ou d’avances
+remboursables à taux zéro.
+L’agence peut financer, sous forme d’appel à projets, des actions thématiques ciblées. À l’initiative
+de l’agence de l’eau, chaque appel à projets fait l’objet d’un cahier des charges comprenant le
+champ des projets visés, les modalités d’aide des projets, les conditions d’éligibilité, les critères et
+les modalités de sélection. II est validé par le conseil d’administration lorsqu’il prévoit des
+conditions opérationnelles d’intervention spécifiques, différentes de celles prévues dans le
+présent programme d’intervention au chapitre 3.2.
+3.1.4. Seuils plancher
+Dans un objectif d’efficacité de l’action de l’agence, ne sont pas aidés les projets dont le coût est
+inférieur à 10 000 €TTC. Par exception, ce seuil est ramené à 3 500 €TTC pour :
+• les études des acteurs économiques,
+• les actions collectives (études, travaux, animation) des acteurs économiques,
+• les classes d’eau et les partenariats éducatifs,
+• les opérations de maitrise foncière,
+• les projets d’agroforesterie.
+Ces planchers ne s’appliquent pas dans le cas de projets financés dans le cadre de conventions
+de mandat, ni à des mandataires de l’agence pour les aides au titre desquelles ils sont maîtres
+d’ouvrage.
+Par ailleurs, le montant minimum des avances accordées est de 100 000 €. En dessous de ce
+seuil, l’avance n’est pas accordée. Cette disposition ne s’applique pas aux avances accordées
+pour les mesures d’urgence à la suite d’évènements naturels ainsi que pour les opérations de
+maitrise foncière.
+29 / 162 enregistré le 7 octobre 2024
+
+===== page PDF 30 =====
+3.1.5. Assiette des aides
+Les aides de l’agence de l’eau sont calculées principalement soit par l’application d’un taux d’aide
+à une assiette prévisionnelle de dépenses éligibles soit par l’application d’un forfait associé le cas
+échéant à des unités d’œuvre.
+L'aide est accordée sous forme d'un montant maximal.
+À l’exception des aides dont le montant a été établi sur une base forfaitaire, le montant définitif de
+l’aide de l’agence de l’eau est ajusté par application du taux d’aide aux dépenses réelles,
+éligibles et justifiées de l’opération.
+Sauf disposition particulière prévue dans le programme, le montant de l’assiette est la partie du
+montant des dépenses retenues au regard des orientations générales du programme et éligible
+au concours financier, réduite le cas échéant par application des règles relatives au prix de
+référence et au prix plafond définies au § 3.1.6.
+Les montants des dépenses retenues sont hors TVA, sauf lorsque l’attributaire ne peut pas
+bénéficier pour ces dépenses d’une compensation ou d’une récupération totale ou partielle de
+cette taxe.
+Lorsque le projet est réalisé en tout ou partie par l’attributaire avec ses propres ressources
+internes (dit en régie), le montant des dépenses retenues peut comprendre les charges
+relatives au personnel directement impliqué dans la réalisation du projet ainsi que les frais de
+fonctionnement affectés au projet selon des modalités précisées dans le chapitre 3.2.
+Pour les personnes morales de droit privé à but non lucratif, le bénévolat directement impliqué
+dans la réalisation du projet peut être pris en compte dans l’assiette de l’aide s’il est valorisé
+dans le compte de résultat de l’organisme. La subvention est dans ce cas plafonnée au
+montant des dépenses éligibles retenues hors bénévolat.
+Les mesures visant à compenser, au sens du code de l’environnement, les atteintes à
+l’environnement qui n’ont pu être évitées ou réduites ne sont pas éligibles aux aides de l’agence.
+Cependant, la partie d'une opération qui va au-delà des mesures compensatoires peut être
+éligible.
+3.1.6. Prix de référence et prix plafond
+Pour chaque ligne programme, peuvent être définis pour les opérations éligibles :
+• un prix de référence, que le montant de l’assiette ne peut pas dépasser sauf
+circonstances technico-économiques inhabituelles et justifiées ;
+• un prix plafond que le montant de l’assiette ne peut pas dépasser sauf autorisation de
+la commission des aides.
+Pour tenir compte de l’évolution technique et économique, le directeur général de l’agence de
+l’eau peut actualiser les prix de référence (PR) et prix plafond (PP) après avis conforme de la
+commission des aides.
+3.1.7. Taux des aides
+Les taux de subvention ou d’avance indiqués dans le présent programme d’intervention
+constituent des taux maximaux. En outre, les taux appliqués peuvent être plafonnés par la
+législation en vigueur, notamment celle limitant le cumul des aides publiques.
+Hors encadrement des aides d’État, pour apprécier le cumul des aides publiques, l’équivalent
+subvention pour les avances est calculé par référence au taux d’intérêt indexé sur le livret A
+de l’Aqua Prêt de la Banque des territoires en vigueur au 1er janvier de l’année.
+30 / 162 enregistré le 7 octobre 2024
+
+===== page PDF 31 =====
+3.1.8. Durée des avances remboursables
+À l’exception des travaux d’urgence et de certaines opérations de maitrise foncière visés au
+chapitre 3.2, les avances ont des durées de :
+• 20 ans pour la création et la modernisation de stations de traitement des eaux usées ;
+• 15 ans pour les autres projets.
+Il peut être dérogé à tout moment, par le directeur général de l’agence de l’eau après avis conforme
+du conseil d’administration, à ces durées, à titre exceptionnel, lorsque les conditions techniques,
+environnementales, économiques ou sociales du projet le justifient.
+Les avances sont sans intérêt ni frais de gestion.
+Elles sont remboursables en annuités constantes, à l’exception de certaines opérations de
+maîtrise foncière comme le portage qui sont remboursables en une seule fois.
+3.1.9. Attribution d’aides complémentaires exceptionnelles
+Des aides complémentaires peuvent être attribuées exceptionnellement par l’agence dans le
+cadre de surcoûts substantiels supportés par l’attributaire lors de l’exécution d’une opération
+ayant fait l’objet d’une aide initiale. Ces surcoûts doivent être imprévisibles au moment du
+dépôt de l’aide initiale et être dus à des circonstances extérieures s’imposant à l’attributaire et
+indépendant de sa volonté.
+L’aide complémentaire est attribuée selon les mêmes modalités que celles de l’aide initiale
+(éligibilité, assiette, taux maximal d’aide, engagement...), dans les limites fixées par les
+dispositions du programme en vigueur au moment de l’attribution de l’aide complémentaire.
+Le surcoût présenté par l’attributaire doit par ailleurs respecter le seuil plancher visé à l’article
+3.1.4.
+3.1.10. Encadrement européen des aides aux activités
+économiques
+L’encadrement européen et national relatif aux aides d’État s’applique aux aides de l’agence de
+l’eau.
+Les modalités d’aides de l’agence de l’eau aux secteurs concurrentiels (notamment les activités
+agricoles, la pêche et l’aquaculture, les autres activités économiques) sont donc fixées dans le
+respect de l’encadrement européen relatif aux aides d’État et de la réglementation nationale en
+vigueur.
+En particulier, les aides doivent avoir un effet incitatif. À ce titre notamment, les travaux faisant
+l’objet d’un arrêté de mise en demeure émanant de l’autorité administrative compétente ne
+sont pas éligibles aux aides de l’agence.
+31 / 162 enregistré le 7 octobre 2024
+
+===== page PDF 63 =====
+B. Accompagner la réduction des pressions des acteurs
+économiques hors agriculture
+L’agence de l’eau peut attribuer aux acteurs économiques non agricoles une participation
+financière au titre de la lutte contre les micropolluants, de l’élimination des pollutions
+classiques, des économies d’eau, de la gestion intégrée des eaux de pluies, de la lutte contre
+les pollutions accidentelles et en faveur de la biodiversité.
+B.1. Actions aidées
+Tous les acteurs économiques sont aidés individuellement quelle que soit leur taille ou leur
+activité dès lors que le projet présenté correspond aux objectifs du programme. Les études et
+les travaux des activités dispersées sont préférentiellement accompagnés dans le cadre
+d’actions collectives sectorielles ou territoriales.
+Les acteurs économiques sont mobilisés à travers plusieurs orientations du programme :
+dépollution, économie et sobriété en eau, recours aux eaux non conventionnelles et gestion
+des eaux de pluie à la source. Le présent chapitre présente l’accompagnement des actions de
+dépollution et de gestion des eaux de pluie à la source.
+Sont aidés les études, les travaux ou l’animation permettant :
+• d’aider la connaissance, la maîtrise et la réduction des rejets polluants des activités
+économiques en accompagnant leur évolution et de favoriser la prise en compte des
+enjeux eau dans le développement des filières structurantes pour l’industrie dans le
+cadre notamment de la stratégie d’adaptation au changement climatique ;
+• de réduire ou maîtriser les rejets chroniques, les rejets de temps de pluie et les rejets
+accidentels des installations économiques existantes ;
+• de réduire ou limiter les émissions de micropolluants et de microplastiques dans les
+milieux aquatiques avec, en particulier, la suppression des rejets de substances
+classées « dangereuses prioritaires » par la directive cadre sur l’eau ;
+• de mener des programmes coordonnés d’amélioration des raccordements des
+activités économiques. Ces actions sont articulées avec celles relatives aux rejets de
+substances toxiques dans les réseaux d’assainissement ;
+• d’améliorer la mise en séparatif des réseaux d’assainissement pour les parties
+publiques et privées des branchements des acteurs économiques non agricoles ;
+• de mettre en place des technologies propres, des actions de substitution, des
+systèmes (individuels ou centralisés) de valorisation de la matière contenue dans la
+pollution émise, des dispositifs de traitement ;
+• de mobiliser les collectivités locales et les entreprises autour des objectifs du
+programme ;
+• de développer des dispositifs de réutilisation d’eaux, sous réserve de la non-
+dégradation du milieu ;
+• d’accompagner les centres collectifs de regroupements ou de valorisation des boues
+et effluents concentrés, le traitement centralisé des produits de curage et matières de
+vidange des assainissements non collectifs ;
+• de réduire à la source les rejets au milieu naturel ou dans les systèmes
+d’assainissement collectif, des effluents toxiques ou graisseux en quantités
+dispersées ;
+• de réduire l’impact des sites pollués sur la qualité de l’eau ou les milieux aquatiques.
+63 / 162 enregistré le 7 octobre 2024
+
+===== page PDF 64 =====
+B.2. Modalités
+Éligibilité - Conditions d’éligibilité
+Sont éligibles les opérations (études et travaux) ne faisant pas l’objet d’une mise en demeure
+de la part d’une autorité administrative compétente sur l’objet du projet.
+Les modalités d’aides de l’agence de l’eau aux secteurs concurrentiels sont fixées dans le
+respect de l’encadrement européen relatif aux aides d’État et de la réglementation nationale
+en vigueur.
+B.2.1. Les études
+Éligibilité - Conditions d’éligibilité
+Sont éligibles les études externalisées : les études générales, les études d’orientation, les
+études diagnostics, les études préalables d’aide à la décision de réaliser des travaux, les
+études nécessaires à la réalisation des travaux, les études relatives à la réhabilitation des sites
+pollués et aux sédiments de dragage, les essais pilotes.
+Concernant les études réalisées en régie, seules sont éligibles les études d’ingénierie en lien
+avec la conception de solution.
+En vue d’aider à la décision d’investissements sur le moyen-long terme, les études concernant
+la mise en place d’un système de traitement des effluents envisageront au moins un scenario
+tenant compte des perspectives de l’impact du changement climatique sur le milieu récepteur
+(en prenant notamment pour hypothèse une baisse des débits de référence de QMNA5 -15 %
+des cours d’eau servant de base à la définition des niveaux de rejets moyens ou de pointe
+acceptables).
+Le financement d’étude ne donne pas droit systématique au financement de travaux.
+Assiette (et calcul de l’aide)
+Dans le cadre des études réglementaires, seul le volet en lien avec l’eau ou les déchets
+dangereux pour l’eau est pris en compte.
+Les études nécessaires à la réalisation des travaux (études préalables aux travaux, maîtrise
+d’œuvre) sont financées selon les mêmes conditions opérationnelles que les travaux. Elles ne
+sont pas soumises à un prix de référence ni à un prix plafond.
+Le financement des études réalisées en régie est plafonné à hauteur de 5 % du montant de
+l’assiette des travaux éligibles.
+Engagement(s)
+Les engagements communs aux études aidées précisés au § G.1 s’appliquent.
+B.2.2. Les travaux
+B.2.2.1. Les travaux de technologies propres
+Éligibilité - Conditions d’éligibilité
+Sont éligibles les usages de technologies propres, c’est-à-dire correspondant soit à toute
+modification du dispositif de production permettant d’éviter tout ou partie du flux de pollution
+antérieurement émis ou de lui substituer un flux de pollution moindre ou plus facile à traiter,
+soit à un dispositif (individuel ou centralisé) de valorisation de la matière contenue dans la
+pollution émise.
+64 / 162 enregistré le 7 octobre 2024
+
+===== page PDF 65 =====
+Les opérations pilotes (au sens de l’encadrement européen) éligibles sont celles visant la prise
+en compte des enjeux eau dans le développement de filières, de techniques ou de
+technologies de production nouvelles (chimie verte, écologie industrielle…), notamment les
+actions en partenariat avec les pôles de compétitivité ou les organismes professionnels.
+Assiette (et calcul de l’aide)
+Le montant des dépenses éligibles est calculé dans la limite autorisée par l’application des
+règlements européens.
+Engagement(s)
+L’attributaire fournit à l’agence de l’eau les données relatives aux quantités de pollution évitée
+ou valorisée.
+B.2.2.2. Les travaux de gestion à la source des eaux pluviales
+Éligibilité - Conditions d’éligibilité
+Voir § A.3 et § A.4.
+Assiette (et calcul de l’aide)
+Voir § A.3 et § A.4.
+B.2.2.3. Les travaux d’épuration
+Éligibilité - Conditions d’éligibilité
+Sont éligibles :
+• les actions de réduction des pollutions chroniques : dispositifs de collecte, épuration
+ou prétraitement des effluents pollués, traitement des sous-produits associés, collecte
+et stockage d’effluents concentrés ou d’effluents graisseux avant envoi en centre
+autorisé ;
+• le déplacement de point de rejet dans des milieux récepteurs moins sensibles ou la
+mise en place de zone de rejet végétalisée ;
+• la mise en place de toilettes sèches ou la collecte séparative des urines ;
+• les stations de traitement des eaux usées (STEU) classées sous la rubrique ICPE 2752
+quelle que soit la nature juridique du maître d’ouvrage.
+Les séparateurs à hydrocarbures ne sont éligibles qu’à titre exceptionnel, lorsque les eaux
+pluviales sont susceptibles d’être significativement polluées du fait des activités menées par
+l’installation industrielle ou dans le cas d’activités polluantes à ciel ouvert (récupérateurs de
+métaux, démolisseurs de véhicules hors d’usage, par exemple) ou encore dans des situations
+particulièrement sensibles pour éviter des pollutions accidentelles (par exemple lorsqu’il s’agit
+d’une zone de dépotage, d’avitaillement ou d’aires de distribution de stations-service).
+Assiette (et calcul de l’aide)
+Lorsqu’un projet concerne une pollution de nature domestique (« eaux noires »
+principalement), l’assiette de l’aide est déterminée à partir des flux de pollution estimés sur la
+base de l’équivalent-habitant EH (base DBO5) et dans la limite autorisée par l’application des
+règlements européens.
+Engagement(s)
+Pour la réduction des pollutions industrielles : l’attributaire s’engage à fournir à l’agence de
+l’eau les données relatives à la quantité de pollution éliminée par le dispositif d’épuration ou
+65 / 162 enregistré le 7 octobre 2024
+
+===== page PDF 66 =====
+justifiant du respect des normes de rejet à un réseau de collecte ou au milieu naturel ; il
+s’engage à justifier de l'élimination conforme des boues et sous-produits d’épuration.
+B.2.2.4. Les mesures d’accompagnement
+Éligibilité - Conditions d’éligibilité
+Sont éligibles les travaux d’adaptation, de fiabilisation du dispositif de collecte et de traitement,
+dispositif d’autosurveillance, dépollution des rejets par temps de pluie, les ouvrages visant la
+prévention des pollutions accidentelles, des déchets flottants jusqu’aux microplastiques, la
+réduction des risques de pollution liés à l’inondation du site.
+Assiette (et calcul de l’aide)
+Pour les ouvrages visant la prévention des pollutions accidentelles, la dépollution des eaux
+pluviales ou la réduction des risques de pollution liés à l’inondation du site, l’assiette est limitée
+au montant des travaux nécessaires pour contenir les pollutions accidentelles et les
+déversements de polluants par temps de pluie.
+Pour les autres, l’assiette correspond au montant éligible retenu par l’agence de l’eau.
+Engagement(s)
+Les engagements de dépollution liés au dispositif d’épuration financé lors de précédents
+travaux sont reconduits.
+Dans le cadre de la mise en conformité de raccordement, l’attributaire transmet à l’agence de
+l’eau une attestation de fin de travaux conforme au règlement d’assainissement de la
+collectivité ou à l’autorisation de déversement ou à la réglementation ICPE, élimination ou
+valorisation conforme des boues ou des effluents concentrés graisseux.
+B.2.2.5. La réduction des micropolluants
+Éligibilité - Conditions d’éligibilité
+Sont éligibles les actions spécifiques de réduction significative et quantifiée des rejets de
+micropolluants, concernant les sites en rejet direct au milieu naturel ou les sites raccordés à
+un réseau public d’assainissement.
+Pour un projet visant principalement la réduction du flux de macropolluants (DCO, MES, NR…)
+sans pouvoir quantifier en parallèle une réduction de l’émission de micropolluants, ces travaux
+sont éligibles au titre des travaux d’épuration.
+En cas de substitution de micropolluants dans un procédé nécessitant une homologation, sont
+éligibles à titre exceptionnel les études d’homologation. Les dossiers seront examinés au cas
+par cas par la commission des aides.
+Est éligible la réduction de rejets atmosphériques de micropolluants lorsqu’ils constituent une
+source significative et avérée de contamination des milieux aquatiques (micropolluants ou
+famille de micropolluants qualifiant l’état chimique ou écologique des masses d’eau).
+Assiette (et calcul de l’aide)
+Le montant des dépenses éligibles est calculé dans la limite autorisée par les règlements
+européens.
+Engagement(s)
+66 / 162 enregistré le 7 octobre 2024
+
+===== page PDF 67 =====
+L’attributaire s’engage à respecter le gain chiffré attendu ayant justifié l’aide en matière de
+réduction ou de suppression du flux rejeté de substances exprimé en g/an, ainsi que la
+destination des sous-produits d’épuration.
+B.2.2.6. Actions collectives
+Éligibilité - Conditions d’éligibilité
+Sont éligibles aux actions collectives les projets conduisant à l’utilisation des technologies
+propres, à la séparation des réseaux d’eaux usées et d’eaux pluviales, au traitement des
+effluents avant raccordement, à la collecte et l’élimination des substances toxiques ou
+graisseuses, à la prévention des pollutions accidentelles, à la gestion à la source des eaux de
+pluie, et à l’amélioration des parties publiques et privées des branchements des entreprises.
+L’attributaire de l’aide est soit le bénéficiaire soit le porteur d’une action groupée, qu’il soit
+maître d’ouvrage ou qu’il verse des subventions aux bénéficiaires (mandataire).
+Dans le cadre d’actions collectives (territoriales ou sectorielles ou les deux), sont éligibles
+toutes les activités économiques, de toute taille et de toute activité, quel que soit l’impact
+environnemental pris individuellement.
+L'outil convention de mandat peut également être mobilisé pour accompagner la mise en
+conformité des raccordements au réseau public.
+Est éligible l’animation auprès des collectivités locales et des entreprises. L’animation est
+aidée dans le cadre des modalités du § H.3.
+Pour les aides aux études et travaux des collectivités, pour ce qui ne relève pas d’une action
+collective relative aux effluents toxiques ou graisseux, se reporter au § A.1.
+Assiette (et calcul de l’aide)
+Dans le cadre d’une animation, l’assiette correspond soit à l’application d’un coût unitaire
+forfaitaire à un nombre d’actions cibles, soit aux dépenses liées aux ETP engagés (voir § H.3.).
+Le prix de référence correspondant à la thématique (dépollution, technologies propres, etc.)
+s’applique pour tous les projets accompagnés dans le cadre d’une action collective.
+Engagement(s)
+Dans le cadre de travaux d’action collective, l’attributaire transmet une attestation de fin de
+travaux conforme au règlement d’assainissement de la collectivité ou à l’autorisation de
+déversement ou à la réglementation ICPE, élimination ou valorisation conforme des boues ou
+des effluents concentrés graisseux.
+Dans le cas d’une animation se référer au § H.3.
+B.2.2.7. La collecte et l’élimination des effluents concentrés
+Éligibilité - Conditions d’éligibilité
+Sont éligibles les études de réalisation et travaux assurant la création de centres collectifs de
+regroupement (dont des déchetteries publiques) ou de valorisation de la matière contenue
+dans les boues et effluents concentrés.
+Sont éligibles uniquement les actions et travaux concernant les effluents (concentrés, toxiques
+ou graisseux) susceptibles de perturber le système d’assainissement, de remettre en cause la
+valorisation des boues, ou de polluer les eaux.
+67 / 162 enregistré le 7 octobre 2024
+
+===== page PDF 68 =====
+Ne sont pas éligibles les déchets faisant l’objet d’une responsabilité élargie du producteur, les
+transformateurs contenant des PCB (pour la partie décontamination des carcasses), les
+résidus de fumées, les déchets explosifs, radioactifs et infectieux, les gaz, les déchets issus
+de sites et sols pollués, les déchets issus des activités économiques de traitement des
+déchets.
+Assiette (et calcul de l’aide)
+Le montant des dépenses éligibles est calculé dans la limite autorisée par les règlements
+européens.
+B.2.2.8. Les transferts d’activités existantes
+Éligibilité - Conditions d’éligibilité
+Pour les transferts d’activités existantes, sont éligibles, sous réserve d’une amélioration de la
+protection de l’environnement par rapport à la situation initiale, les études (toutes les études
+éligibles pour les installations existantes) et les travaux liés aux dispositifs d’épuration, aux
+technologies propres, à la gestion à la source des pluies courantes et aux actions de
+prévention des pollutions accidentelles.
+Assiette (et calcul de l’aide)
+Le montant des dépenses éligibles correspond à un renforcement de la protection
+environnementale par rapport à la situation initiale, et dans la limite autorisée par les
+règlements européens.
+Engagement(s)
+L’attributaire transmet à l’agence de l’eau le récépissé de cessation de l’activité transférée.
+B.2.2.9. Les installations nouvelles
+Une installation nouvelle correspond à la création d’une nouvelle implantation géographique
+depuis moins de 2 années.
+Éligibilité - Conditions d’éligibilité
+Pour les installations nouvelles, sont éligibles les études et les travaux liés aux dispositifs
+d’épuration et aux technologies propres permettant d’aller au-delà des exigences de la
+règlementation applicable.
+Ne sont pas éligibles les projets d’économies d’eau (hors projet zéro rejet).
+Assiette (et calcul de l’aide)
+Le montant des dépenses éligibles correspond aux dépenses qui permettent d’aller au-delà
+des exigences de la réglementation applicable.
+Engagement(s)
+Pour la réduction des pollutions industrielles : l’attributaire transmet à l’agence de l’eau les
+données relatives à la quantité de pollution éliminée par le dispositif d’épuration ou justifiant
+du respect des normes de rejet à un réseau de collecte ou au milieu naturel ; il s’engage à
+justifier de l'élimination conforme des boues et sous-produits d’épuration.
+68 / 162 enregistré le 7 octobre 2024
+
+===== page PDF 69 =====
+B.2.2.10. Les mesures d’urgence de remise en état des dispositifs
+d’épuration à la suite d'évènements naturels
+Éligibilité - Conditions d’éligibilité
+Les mesures d’urgence nécessaires à la remise en fonctionnement des installations
+d’épuration des effluents industriels et autres activités économiques non agricoles sont
+éligibles lorsqu’elles portent sur des opérations de remise en fonctionnement des installations
+en cas de pollution accidentelle, d’évènements naturels, d’effondrements de sol ou de tout
+autre type de phénomène risquant d’être amplifié par le changement climatique.
+Assiette (et calcul de l’aide)
+Le montant des dépenses éligibles est calculé dans la limite autorisée par les règlements
+européens.
+Niveaux d’aide
+Nature de l’opération Taux d’aide max Application d’un Coefficients Ligne
+S = subvention prix de référence prix de référence programme
+A= avance
+Études Taux maximaux Non - 1310
+autorisés par 1320 pour
+l’encadrement études sites
+européen pollués
+S 80 % pour
+études sites
+pollués des
+collectivités
+Études rattachées aux Taux maximaux Non - 1311
+travaux autorisés par Sauf études en 1313
+l’encadrement régie plafonnées 1315
+européen à 5 % du 1316
+montant des 1331
+travaux éligibles
+Réduction des Taux maximaux Non - 1331
+micropolluants autorisés par
+l’encadrement
+européen
+Ou
+S 70 % de
+minimis
+Technologie propre Taux maximaux Oui a = 2 1315
+autorisés par Non si
+l’encadrement micropolluants
+européen
+Ou
+S 70 % de
+minimis
+69 / 162 enregistré le 7 octobre 2024
+
+===== page PDF 70 =====
+Nature de l’opération Taux d’aide max Application d’un Coefficients Ligne
+S = subvention prix de référence prix de référence programme
+A= avance
+Gestion à la source Taux maximaux Aide plafonnée voir § A.3 et § A.4 1317 et 1318
+des eaux pluviales autorisés par
+l’encadrement
+européen
+Réduction des Taux maximaux Oui a = 1,5 et b = 3 1311
+pollutions autorisés par Non si zéro rejet -
+l’encadrement
+européen
+Mesures Taux maximaux Oui a = 1 et b = 3 ; 1313
+d’accompagnement et autorisés par Prix de référence
+prévention des l’encadrement Sauf pour la pour les
+pollutions européen prévention des Canalisations :
+accidentelles pollutions réseaux
+accidentelles internes et
+transfert de
+point de rejet
+Px = 35 500 +
+(547 5 * longueur
+en mètres)
+Actions collectives Taux maximaux Oui Selon la nature 1316
+Études et travaux autorisés par des travaux
+l’encadrement
+européen
+S 70 % de
+minimis
+Animation des actions S 50 % Oui (voir § H.3) 1316
+collectives (aide à
+l’ETP ou actions
+cibles)
+Épuration mesures A : jusqu’au Non 1334
+d’urgence maximum
+autorisé par
+l’encadrement
+européen
+(Rembourseme
+nt sur 10 ans)
+70 / 162 enregistré le 7 octobre 2024
+
+===== page PDF 71 =====
+Prix de référence/prix plafond
+Valeur en € Unité
+applicable
+Le prix de référence (PR) est déterminé en fonction des assiettes de pollution appliquées aux prix de
+référence unitaires selon la formule suivante :
+PR = a. [A + PR(MES).(MES) + PR(DB05).(DB05) + PR(DCO).(DCO) + PR(NR).(NR) + PR(P).(P)
++ b. PR(MI).(MI) + b. PR(METOX).(METOX) + b. PR(AOX).(AOX)]
+où :
+• a est un coefficient ;
+• b est un coefficient prenant en compte les substances dangereuses prioritaires du SDAGE ;
+• A est un terme fixe ;
+• (MES), (DCO), (DBO)… représentent les quantités journalières de pollution concernée
+par le projet pour chaque paramètre ;
+• PR(MES), PR(DCO), PR(DBO)… représentent les prix de référence unitaires par paramètres de
+pollution…
+Terme fixe A 600 000 €
+PR (MES) par kg/j de pollution 2059 €/kg/j de
+pollution
+PR (DB05) par kg/j de pollution 1160 €/kg/j de
+pollution
+PR (DCO) par kg/j de pollution 580 €/kg/j de
+pollution
+PR (NR) par kg/j de pollution 2403 €/kg/j de
+pollution
+Si traitements spécifiques de l’azote (non biologique) 6884
+PR (P) par kg/j de pollution 6010 €/kg/j de
+pollution
+PR (AOX) par g/j de pollution 47 €/g/j de pollution
+PR (METOX) par g/j de pollution 47 €/g/j de pollution
+PR (Ml) par equitox/j de pollution 47 €/equitox/j
+Pour les cas atypiques hors encadrement européen, le taux des moyennes entreprises est
+appliqué.
+Pour les sites à caractère industriel, le prix de référence est calculé en tenant compte des flux
+de pollutions concernés par le projet et déterminés à partir des assiettes de redevance pollution
+ou à partir de données fournies par le maître d’ouvrage.
+Pour un site d’activité donné, le terme fixe A (cf. tableau ci-dessus) est utilisé une seule fois
+pour chaque sous ligne programme et pour la durée du programme.
+En cas de fluctuation importante d’activité d’une année sur l’autre, il peut être retenu la
+moyenne des flux des 3 dernières années.
+71 / 162 enregistré le 7 octobre 2024
+

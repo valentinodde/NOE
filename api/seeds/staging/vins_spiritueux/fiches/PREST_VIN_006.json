@@ -1,0 +1,111 @@
+{
+  "id": "PREST_VIN_006",
+  "nom": "ACI Entreprise (ACIE, Assistance Champagne Inox Entreprise)",
+  "type": "equipementier",
+  "logo_url": null,
+  "siret": "49101109400043",
+  "description": "Chaudronnerie créée en 1989 (groupe Univitech), dont l'usine d'Œuilly, près d'Épernay, conçoit et fabrique des cuves inox parallélépipédiques sur mesure pour les caves, dans la région Champagne-Ardenne, avec assemblage sur site quand l'accès à la cuverie l'impose. Elle réhabilite aussi les cuves béton par un habillage en inox 316L qui limite l'adhérence du tartre et facilite le nettoyage, réalise des tuyauteries inox de transfert de vin, d'eau et de gaz de l'étude à la mise en service, et assure la maintenance des pompes, agitateurs et matériels de cuverie. Contact par téléphone ou par courriel.",
+  "expertises": [
+    "Cuves inox sur mesure",
+    "Habillage inox de cuves béton",
+    "Tuyauterie inox vinaire",
+    "Maintenance de matériel de cuverie"
+  ],
+  "categories": [
+    "ameliorer_efficacite_hydrique"
+  ],
+  "secteurs": [
+    "vins_spiritueux"
+  ],
+  "departements": [
+    "08",
+    "10",
+    "51",
+    "52"
+  ],
+  "mesures": [
+    {
+      "id": "ACT_VIN_003",
+      "roles": [
+        "materiel",
+        "travaux"
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "type": "site_internet",
+      "value": "https://www.aci-entreprise.fr"
+    },
+    {
+      "type": "tel",
+      "value": "03 26 58 28 11"
+    },
+    {
+      "type": "mail",
+      "value": "accueil@aci-entreprise.fr"
+    },
+    {
+      "type": "adresse",
+      "value": "La Pierre Qui Tourne, 51480 Œuilly"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret (établissement d'Œuilly)",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=assistance%20champagne%20inox&departement=51&code_postal=51480",
+      "date": "2026-09-28",
+      "extrait": "ASSISTANCE CHAMPAGNE INOX ENTREPRISE (A C I E), siren 491011094, établissement 49101109400043, LA PIERRE QUI TOURNE 51480 ŒUILLY, état administratif A, activité 25.29Z, non siège"
+    },
+    {
+      "champ": "siret (siège, pour mémoire)",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Assistance%20Champagne%20Inox%20Entreprise&departement=51",
+      "date": "2026-09-28",
+      "extrait": "ASSISTANCE CHAMPAGNE INOX ENTREPRISE, siret 49101109400050, siège, 1 RUE DE LA NOUE SAINT-NICOLAS 51530 MARDEUIL, état administratif A, 2 établissements ouverts"
+    },
+    {
+      "champ": "contacts (adresse, tel)",
+      "url": "https://www.aci-entreprise.fr/contact",
+      "date": "2026-09-28",
+      "extrait": "ACI Entreprise, La Pierre Qui Tourne, 51480 Œuilly, France. Téléphone 03 26 58 28 11"
+    },
+    {
+      "champ": "contacts (mail)",
+      "url": "https://www.aci-entreprise.fr/magasin",
+      "date": "2026-09-28",
+      "extrait": "Notre magasin ACI Inox Entreprise est fermé. Nous vous invitons à nous contacter par mail à accueil@aci-entreprise.fr."
+    },
+    {
+      "champ": "description (création, groupe, usine d'Œuilly), departements (région Champagne-Ardenne)",
+      "url": "https://www.aci-entreprise.fr/",
+      "date": "2026-09-28",
+      "extrait": "Spécialisée dans la Chaudronnerie Industrielle depuis 1989 dans la région Champagne-Ardenne, la société ACI Entreprise vous propose tout son Savoir-faire dans la conception et la fabrication de Cuve en Inox. Créée en 1989, ACIE, Assistance Champagne Inox Entreprise, groupe Univitech. Situés à Oeuilly, près d'Epernay. Notre usine vous propose tout son savoir-faire dans la conception et la fabrication de cuve inox parallélépipédique sur-mesure."
+    },
+    {
+      "champ": "expertises (cuves inox sur mesure), mesures (ACT_VIN_003, materiel, travaux)",
+      "url": "https://www.aci-entreprise.fr/cuve-inox",
+      "date": "2026-09-28",
+      "extrait": "Fabricant champenois de cuves inox, ACIE vous propose toute une gamme de cuves parallélépipédiques sur-mesure. Pour répondre aux problématiques d'accès en cuverie, nous proposons l'assemblage de vos cuves directement sur site. Spécialisé dans le secteur Vinicole."
+    },
+    {
+      "champ": "expertises (habillage de cuves béton), mesures (ACT_VIN_003, materiel, travaux)",
+      "url": "https://www.aci-entreprise.fr/habillage-cuve-beton",
+      "date": "2026-09-28",
+      "extrait": "Nous vous proposons la réhabilitation complète de vos cuves béton. L'habillage est réalisé à partir de tôle inox 316L. Les cuves en inox sont faciles à nettoyer. Habillage en inox de vos cuves béton [...] limitant l'adhérence des tartres et facilitant le nettoyage."
+    },
+    {
+      "champ": "expertises (tuyauterie inox)",
+      "url": "https://www.aci-entreprise.fr/tuyauterie",
+      "date": "2026-09-28",
+      "extrait": "Nous réalisons tout type de tuyauterie inox, tout diamètre et toute longueur sur transfert de vin, eau et gaz. Nous vous assistons depuis la conception jusqu'à la mise en service."
+    },
+    {
+      "champ": "expertises (maintenance)",
+      "url": "https://www.aci-entreprise.fr/maintenance",
+      "date": "2026-09-28",
+      "extrait": "Nos services techniques prennent en charge vos pompes, agitateurs et matériels de cuverie quelle que soit leur marque."
+    }
+  ],
+  "date_maj": "2026-09-28"
+}

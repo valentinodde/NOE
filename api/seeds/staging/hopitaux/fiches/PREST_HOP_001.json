@@ -1,0 +1,110 @@
+{
+  "id": "PREST_HOP_001",
+  "nom": "OFIS, Office d'ingénierie sanitaire (Veolia Ingénierie sanitaire)",
+  "type": "bureau_etudes",
+  "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792070884/Noe%20assets/logos/PREST_HOP_001.png",
+  "siret": "42102587500186",
+  "description": "Bureau d'études qui exerce sous le nom « Ingénierie sanitaire » de Veolia, certifié QB24 par le CSTB pour l'analyse des risques et le diagnostic sanitaire et technique des réseaux d'eau dans le bâtiment, établissements de santé compris, et présent sur tout le territoire national via six agences. Il évalue les risques des réseaux d'eau intérieurs en repérant les facteurs qui dégradent la qualité de l'eau, comme les bras morts, cartographie et diagnostique les réseaux pour la maîtrise du risque légionelle, et réalise des audits d'économies d'eau. Des hôpitaux lui ont confié par marché public un diagnostic des réseaux d'eau sanitaire pour la maîtrise du risque légionelle (CHU de Saint-Étienne), un audit-diagnostic des réseaux d'eau chaude et d'eau froide (GHT Vosges) et la cartographie des usages de l'eau (CHR Metz-Thionville). C'est aussi un organisme de formation certifié Qualiopi.",
+  "expertises": [
+    "Diagnostic légionelle des réseaux d'eau",
+    "Évaluation des risques des réseaux d'eau",
+    "Cartographie des réseaux d'eau",
+    "Audit d'économies d'eau"
+  ],
+  "categories": [
+    "changer_process_pratiques",
+    "suivre_comprendre_maitriser"
+  ],
+  "secteurs": [
+    "hopitaux"
+  ],
+  "departements": [],
+  "mesures": [
+    {
+      "id": "ACT_HOP_001",
+      "roles": [
+        "conseil_etude"
+      ]
+    },
+    {
+      "id": "ACT_AGR_002",
+      "roles": [
+        "conseil_etude"
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "type": "site_internet",
+      "value": "https://assainissement-et-maintenance.veolia.fr/entreprises/besoins/ingenierie-sanitaire"
+    },
+    {
+      "type": "adresse",
+      "value": "Parc du Golf, bâtiment 19, avenue Gautier de la Lauzière, 13080 Aix-en-Provence"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, type, contacts (adresse)",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=office%20d%20ingenierie%20sanitaire&limite_matching_etablissements=20",
+      "date": "2026-10-15",
+      "extrait": "OFFICE D INGENIERIE SANITAIRE (OFIS), siren 421025875, activité 71.12B, état administratif A, siège 42102587500186 21 RUE LA BOETIE 75008 PARIS ; établissement 42102587500152 PARC DU GOLF BAT 19 AV J R G GAUTIER DE LA LAUZIERE 13080 AIX-EN-PROVENCE, état A ; dirigeants : FOURNY Dorothée, Directeur Général ; complements : est_organisme_formation true, est_qualiopi true, liste_id_organisme_formation [11751140192]"
+    },
+    {
+      "champ": "nom, contacts (site_internet), departements, description, expertises",
+      "url": "https://assainissement-et-maintenance.veolia.fr/entreprises/besoins/ingenierie-sanitaire",
+      "date": "2026-10-15",
+      "extrait": "Depuis 1995, l'expertise Ingénierie sanitaire de Veolia est utile aux établissements tertiaires, de santé [...] Dorothée Fourny, Directrice générale Ingénierie sanitaire [...] La certification QB24 délivrée par le Centre scientifique et technique du bâtiment (CSTB) couvre [...] L'analyse des risques des réseaux d'eau dans le bâtiment ; Le diagnostic sanitaire et technique des réseaux d'eau dans le bâtiment [...] (ERP, hôtel, établissement de santé, etc.) [...] L'Ingénierie sanitaire de Veolia est un organisme de formation déclaré auprès de la préfecture de la Région Ile-de-France sous le n°11 75 1140 192. Une couverture nationale. Nos experts en ingénierie sanitaire interviennent sur tout le territoire national via six agences"
+    },
+    {
+      "champ": "description, expertises, mesures (ACT_HOP_001 conseil_etude)",
+      "url": "https://assainissement-et-maintenance.veolia.fr/entreprises/besoins/ingenierie-sanitaire/evaluation-risques-des-reseaux-eau",
+      "date": "2026-10-15",
+      "extrait": "Santé et médico-social : hôpitaux, cliniques, Ehpad. [...] 2. Identification des événements dangereux. Nos experts détectent les facteurs critiques susceptibles de dégrader la qualité sanitaire de l'eau (bras morts, températures inadaptées, matériaux vétustes, etc.). [...] 4. Plan de remédiation et surveillance. Nous proposons des mesures correctives concrètes"
+    },
+    {
+      "champ": "description, expertises, mesures (ACT_HOP_001 conseil_etude)",
+      "url": "https://assainissement-et-maintenance.veolia.fr/entreprises/besoins/ingenierie-sanitaire/maitrise-du-risque-legionelle",
+      "date": "2026-10-15",
+      "extrait": "1. Connaître et diagnostiquer ses réseaux. La première étape consiste à réaliser une cartographie précise de vos réseaux. Nous effectuons des pré-diagnostics et des diagnostics techniques et sanitaires complets pour évaluer les risques de prolifération. [...] Certification CSTB : Veolia est certifiée QB24"
+    },
+    {
+      "champ": "description, expertises, mesures (ACT_AGR_002 conseil_etude)",
+      "url": "https://assainissement-et-maintenance.veolia.fr/entreprises/besoins/ingenierie-sanitaire/economies-deau-maitrisez-vos-consommations-avec-lexpertise-veolia",
+      "date": "2026-10-15",
+      "extrait": "Réduisez votre facture et préservez la ressource avec l'audit économies d'eau de Veolia. Un diagnostic complet et un plan d'action chiffré pour vos sites. [...] 3. Diagnostic technique approfondi [...] inventaire des équipements et la mesure précise des débits et des pressions [...] 5. Élaboration du plan d'action"
+    },
+    {
+      "champ": "mesures (ACT_AGR_002 conseil_etude)",
+      "url": "https://assainissement-et-maintenance.veolia.fr/conseils/performance-et-economies-d-eau-en-environnement-hospitalier",
+      "date": "2026-10-15",
+      "extrait": "Centre hospitalier Santa Chiara (via Siram, filiale de Veolia) [...] 6 bâtiments hospitaliers audités intégralement. Plus de 50 mesures de débit et de pression effectuées [...] LA SOLUTION : un audit technique pour optimiser les consommations [...] définition d'un plan d'actions priorisé incluant une analyse financière (CAPEX/OPEX)"
+    },
+    {
+      "champ": "description, mesures (ACT_HOP_001 conseil_etude)",
+      "url": "https://tabular-api.data.gouv.fr/api/resources/22847056-61df-452d-837d-8b8ceadbfc52/data/?uid__exact=2642003040001420222022S2623500_71321300",
+      "date": "2026-10-15",
+      "extrait": "acheteur_nom: CENTRE HOSPITALIER UNIVERSITAIRE, acheteur_commune_nom: Saint-Étienne, acheteur_departement_code: 42, titulaire_nom: OFFICE D INGENIERIE SANITAIRE, objet: MISSION DE DIAGNOSTIC, EXPERTISE TECHNIQUE ET HYDRAULIQUE DES RESEAUX D'EAU SANITAIRE POUR LA MAITRISE DU RISQUE LEGIONELLE, dateNotification: 2022-10-27"
+    },
+    {
+      "champ": "description",
+      "url": "https://tabular-api.data.gouv.fr/api/resources/22847056-61df-452d-837d-8b8ceadbfc52/data/?uid__exact=2000294450010925-1089333_71321300",
+      "date": "2026-10-15",
+      "extrait": "acheteur_nom: CENTRE HOSPITALIER INTERCOMMUNAL EMILE DURKHEIM, titulaire_nom: OFFICE D INGENIERIE SANITAIRE, objet: Réalisation d'un audit, diagnostic des réseaux de distribution d'Eau Chaude Sanitaire (ECS) et d'Eau Froide (EF) pour différents sites du GHT Vosges et ses annexes, dateNotification: 2025-02-25"
+    },
+    {
+      "champ": "description, mesures (ACT_AGR_002 conseil_etude)",
+      "url": "https://tabular-api.data.gouv.fr/api/resources/22847056-61df-452d-837d-8b8ceadbfc52/data/?uid__exact=2657028030051020250000000445_71354100",
+      "date": "2026-10-15",
+      "extrait": "acheteur_nom: CENTRE HOSPITAL REGION METZ THIONVILLE, titulaire_id: 42102587500186, titulaire_nom: OFFICE D INGENIERIE SANITAIRE, objet: Cartographie des usages de l'eau dans les établissements du CHR METZ-THIONVILLE, dateNotification: 2025-12-09"
+    },
+    {
+      "champ": "logo_url",
+      "url": "https://assainissement-et-maintenance.veolia.fr/apple-icon.png",
+      "date": "2026-10-15",
+      "extrait": "apple-touch-icon 180 x 180 px (symbole Veolia) déclaré dans <link rel=\"apple-touch-icon\"> de la page Ingénierie sanitaire"
+    }
+  ],
+  "date_maj": "2026-10-15"
+}

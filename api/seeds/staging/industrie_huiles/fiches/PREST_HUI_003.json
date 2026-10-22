@@ -1,0 +1,78 @@
+{
+  "id": "PREST_HUI_003",
+  "nom": "Biotechna (groupe Eaux de Marseille)",
+  "type": "installateur",
+  "logo_url": null,
+  "siret": "32653268600051",
+  "description": "Filiale du groupe des Eaux de Marseille, exploitant de plateforme de compostage (NAF 38.21Z) : elle exploite à Ensuès-la-Redonne une installation classée autorisée pour 30 000 t de boues de station d'épuration urbaine, 25 000 t de déchets verts et 5 000 t de biodéchets par an ; le type « installateur » est provisoire, aucune valeur du vocabulaire ne correspondant à un exploitant de site de traitement de déchets. Elle mélange les boues aux déchets verts pour produire un compost destiné à l'agriculture ; aucune source actuelle n'indique qu'elle accepte des grignons ou des margines de moulin, à vérifier directement avec elle. En 2007, une plateforme de compostage de Salon-de-Provence exploitée par Biotechna a accueilli l'essai France Olive de co-compostage de grignons et de déchets verts, et la société a eu un établissement de Salon-de-Provence fermé en 2011 ; l'arrêté préfectoral du 19 novembre 2025 prescrit un suivi des odeurs « jusqu'à l'arrêt des activités de compostage ».",
+  "expertises": [
+    "Compostage de boues d'épuration",
+    "Compostage de déchets verts",
+    "Compostage de biodéchets",
+    "Broyage de déchets verts"
+  ],
+  "categories": [],
+  "secteurs": [
+    "industrie_huiles"
+  ],
+  "departements": [
+    "13"
+  ],
+  "mesures": [],
+  "contacts": [
+    {
+      "type": "site_internet",
+      "value": "https://www.eauxdemarseille.fr/nos-metiers/valorisation-boues-epuration/"
+    },
+    {
+      "type": "adresse",
+      "value": "Quartier Pas de la Fos, CD 9, chemin de l'Aiguille, 13820 Ensuès-la-Redonne"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, contacts (adresse), departements, description (NAF 38.21Z)",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=32653268600051",
+      "date": "2026-09-27",
+      "extrait": "32653268600051, QUARTIER PAS DE LA FOS CD 9 CHE DE L AIGUILLE 13820 ENSUES-LA-REDONNE, etat_administratif A, activite 38.21Z"
+    },
+    {
+      "champ": "description (établissement de Salon-de-Provence fermé en 2011)",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=32653268600036",
+      "date": "2026-09-27",
+      "extrait": "32653268600036, ENTRAGES 13300 SALON-DE-PROVENCE, etat_administratif F, date_fermeture 2011-05-31"
+    },
+    {
+      "champ": "description, contacts (site_internet)",
+      "url": "https://www.eauxdemarseille.fr/nos-metiers/valorisation-boues-epuration/",
+      "date": "2026-09-27",
+      "extrait": "Cette filiale spécialisée située à Ensuès-la-Redonne, réduit les boues produites par les stations d'épuration en les mélangeant à des déchets verts pour ensuite les réutiliser à des fins agricoles."
+    },
+    {
+      "champ": "description (tonnages autorisés, suivi des odeurs jusqu'à l'arrêt des activités), expertises",
+      "url": "https://www.georisques.gouv.fr/webappReport/ws/installations/document/Tn6pmAWB6QxJeEkPUa26Xn5owRle4AKQ",
+      "date": "2026-09-27",
+      "extrait": "Arrêté n°2025-248-PC du 19 novembre 2025 : boues de station d'épuration urbaine 30 000 t, déchets verts 25 000 t, biodéchets 5 000 t ; 2794-1 broyage de déchets végétaux ; poursuite du suivi de l'observatoire des odeurs en concertation avec les riverains et les maires des communes associées jusqu'à l'arrêt des activités de compostage"
+    },
+    {
+      "champ": "departements, expertises",
+      "url": "https://georisques.gouv.fr/api/v1/installations_classees?siret=32653268600051",
+      "date": "2026-09-27",
+      "extrait": "BIOTECHNA, 9 CHE DE L AIGUILLE, 13820 Ensues-la-Redonne, etatActivite En exploitation avec titre, regime Autorisation, rubriques 2780 (traitement aérobie de déchets non dangereux), 2794 (broyage de déchets verts), 3532"
+    },
+    {
+      "champ": "description (essai France Olive 2007 à Salon-de-Provence), copie archivée de https://afidol.org/oleiculteur/olea-2020/compostage-des-residus-de-trituration/",
+      "url": "http://web.archive.org/web/20260418033317/https://afidol.org/oleiculteur/olea-2020/compostage-des-residus-de-trituration/",
+      "date": "2026-09-27",
+      "extrait": "les mélanges de grignons et de déchets verts ont été réalisés les 6, 7 et 8 novembre 2007 sur la plateforme de compostage de Salon-de-Provence exploitée par la société Biotechna (filiale du Groupe des Eaux de Marseille)"
+    },
+    {
+      "champ": "description (essai France Olive 2007 à Salon-de-Provence), URL d'origine de la page archivée, redirigée aujourd'hui vers https://www.franceolive.fr/",
+      "url": "https://afidol.org/oleiculteur/olea-2020/compostage-des-residus-de-trituration/",
+      "date": "2026-09-27",
+      "extrait": "la plateforme de compostage de Salon-de-Provence exploitée par la société Biotechna (filiale du Groupe des Eaux de Marseille) a été retenue pour la mise en œuvre du compostage (texte lu sur la copie archivée du 18/04/2026)"
+    }
+  ],
+  "date_maj": "2026-09-27"
+}

@@ -1,0 +1,90 @@
+{
+  "id": "PREST_VIN_009",
+  "nom": "Fourage-CTI",
+  "type": "equipementier",
+  "logo_url": "https://www.fourage-cti.fr/wp-content/uploads/2017/08/Logo-Fourage-CTI.png",
+  "siret": "50478086700017",
+  "description": "PME de La Haie-Fouassière (Loire-Atlantique) qui fabrique dans son atelier, représente et distribue du matériel de cave, de process et de conditionnement pour les viticulteurs, négociants et distilleries. Elle fournit, fabrique et monte des réseaux de tuyauterie inox avec épuisement des canalisations par obus de raclage ou balle mousse, fabrique des cuves process dont un bac multifonction NEP/CIP qui récupère et réinjecte les mélanges vin et eau des lignes de filtration et de tirage, et commercialise du matériel de nettoyage (centrales de lavage, canon à mousse, nettoyeur haute pression eau chaude). Son service eau process propose audit sur site, préconisations chiffrées, installation et suivi ; prestations sur devis.",
+  "expertises": [
+    "Réseaux inox avec raclage",
+    "Cuves process et bac NEP",
+    "Matériel de nettoyage de chai",
+    "Audit eau process"
+  ],
+  "categories": [
+    "ameliorer_efficacite_hydrique",
+    "suivre_comprendre_maitriser"
+  ],
+  "secteurs": ["vins_spiritueux"],
+  "departements": [],
+  "mesures": [
+    { "id": "ACT_VIN_002", "roles": ["materiel", "travaux"] },
+    { "id": "ACT_VIN_003", "roles": ["materiel"] },
+    { "id": "ACT_AGR_002", "roles": ["conseil_etude"] }
+  ],
+  "contacts": [
+    { "type": "site_internet", "value": "https://www.fourage-cti.fr" },
+    { "type": "tel", "value": "02 40 54 80 70" },
+    { "type": "mail", "value": "contact@fourage-cti.fr" },
+    { "type": "adresse", "value": "Tournebride, BP 37, 44690 La Haie-Fouassière" },
+    { "type": "linkedin", "value": "https://www.linkedin.com/company/fourage-cti-sas/" }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Fourage%20CTI&departement=44",
+      "date": "2026-09-28",
+      "extrait": "FOURAGE - CTI, siret 50478086700017, siege, TOURNEBRIDE 44690 HAIE-FOUASSIERE (LA), activite 46.69C, etat_administratif A"
+    },
+    {
+      "champ": "type, description, departements",
+      "url": "https://www.fourage-cti.fr/qui-sommes-nous/",
+      "date": "2026-09-28",
+      "extrait": "s'installe alors à la Haie Fouassière afin d'aménager un atelier [...] La société Fourage-CTI fabrique, représente, distribue des matériels [...] L'industrie de la boisson : les négociants, les viticulteurs, les cidriculteurs, les brasseries, les distilleries [...] SECTEUR GÉOGRAPHIQUE [...] National : France métropolitaine et France hors métropole."
+    },
+    {
+      "champ": "type, description",
+      "url": "https://www.fourage-cti.fr/atelier/",
+      "date": "2026-09-28",
+      "extrait": "Équipés d'un atelier de 800m² [...] Nous effectuons la fabrication des matériels Process et brasserie. [...] Nous effectuons sur site l'installation de nos matériels grâce à nos équipes de techniciens."
+    },
+    {
+      "champ": "type, description, expertises",
+      "url": "https://www.fourage-cti.fr/materiel-process/",
+      "date": "2026-09-28",
+      "extrait": "La société FOURAGE-CTI est spécialisée dans la fabrication de solutions de process et filtration des liquides alimentaires [...] L'étude, La conception, La fabrication, L'intégration, L'installation sur site [...] CUVES PROCESS Cuve tampon, Bac d'avinage, NEP & CIP"
+    },
+    {
+      "champ": "mesures (ACT_VIN_002), expertises, description",
+      "url": "https://www.fourage-cti.fr/reseaux/",
+      "date": "2026-09-28",
+      "extrait": "Notre activité principale consiste à fournir, fabriquer, monter et tester des réseaux de tuyauterie en acier inoxydable de gamme alimentaire. [...] nous sommes spécialisés dans l'épuisement des canalisations en fin de transfert ou de production. Selon votre exigence qualitative, l'opération peut être effectuée avec un obus de raclage ou une balle mousse."
+    },
+    {
+      "champ": "description, expertises",
+      "url": "https://www.fourage-cti.fr/cuve-process/",
+      "date": "2026-09-28",
+      "extrait": "Bac multifonction NEP/CIP [...] Sa fonction principale est de recevoir les volumes de vin, ou des mélanges vin/eau, provenant des médiats filtrants, des purges et de la tireuse / remplisseuse. [...] Les réinjections : automatiques des volumes collectés."
+    },
+    {
+      "champ": "mesures (ACT_VIN_003), expertises, description",
+      "url": "https://www.fourage-cti.fr/hygiene-accessoires/",
+      "date": "2026-09-28",
+      "extrait": "Gamme de matériels d'hygiène : Adoucisseur, Skid sécurisation de l'eau, Centrales de lavage et de désinfection, Centrale de dosage, Centrale mini-mousse, [...] Canon à mousse, [...] Nettoyeur haute pression eau chaude ou eau froide [...] Nous commercialisons tous les matériels associés"
+    },
+    {
+      "champ": "mesures (ACT_AGR_002), expertises, description",
+      "url": "https://www.fourage-cti.fr/eau-process/",
+      "date": "2026-09-28",
+      "extrait": "Eau nécessaire au nettoyage des équipements [...] Comment économiser l'eau? [...] AUDIT (Diagnostic & ANALYSE) Identification des besoins [...] Visite sur site (quantification et qualification) [...] Formulation des pistes d'amélioration CONSEIL (Préconisation & chiffrage)"
+    },
+    {
+      "champ": "contacts, logo_url",
+      "url": "https://www.fourage-cti.fr/contact/",
+      "date": "2026-09-28",
+      "extrait": "Fourage-Cti Tournebride, BP 37, F-44690 LA HAYE FOUASSIERE Tél : +33 (0)2 40 54 80 70 [...] e-mail : contact@fourage-cti.fr ; lien linkedin.com/company/fourage-cti-sas/ ; logo Logo-Fourage-CTI.png"
+    }
+  ],
+  "date_maj": "2026-09-28"
+}

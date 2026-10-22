@@ -1,0 +1,134 @@
+{
+  "id": "AIDE_GCU_002",
+  "nom": "Aides directes aux agriculteurs : investissements matériels et infrastructures agroécologiques (agence de l'eau Adour-Garonne, programme 2025-2030)",
+  "financeur": "Agence de l'eau Adour-Garonne",
+  "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792084614/Noe%20assets/logos/AIDE_GCU_002.png",
+  "type": "subvention",
+  "taux": "50 % maximum, jusqu'à 80 % pour les infrastructures agroécologiques",
+  "plafond": null,
+  "description": "Aide individuelle de l'agence de l'eau Adour-Garonne aux agriculteurs qui s'équipent pour une gestion plus durable. Elle porte sur le matériel de pratiques agroécologiques (désherbage mécanique, semis direct, matériel spécifique à certaines cultures, matériel d'économie d'eau), sur les dispositifs de pilotage de l'irrigation comme les stations météo et les sondes, et sur les infrastructures agroécologiques : plantation de haies, bandes enherbées, restauration de zones humides, points d'abreuvement, mares.",
+  "eligibilite": "Agriculteurs du bassin Adour-Garonne. Le matériel doit figurer sur la liste des matériels éligibles, que l'agence met régulièrement à jour. Les sondes et stations météo sont aidées dans le cadre d'un achat collectif de matériels hydroéconomes, avec l'engagement de réaliser au moins 10 % d'économies d'eau de prélèvement.",
+  "categories": [
+    "suivre_comprendre_maitriser",
+    "agir_grand_cycle"
+  ],
+  "secteurs": [
+    "grandes_cultures"
+  ],
+  "departements": [],
+  "agences": [
+    "AEAG"
+  ],
+  "mesures": [
+    "ACT_GCU_001",
+    "ACT_GCU_010"
+  ],
+  "infos_complementaires": [
+    {
+      "type": "avertissement",
+      "texte": "Le matériel d'irrigation lui-même (goutte-à-goutte, pivot, rampe) est exclu : seuls les dispositifs de pilotage comme les sondes et les stations météo sont aidés."
+    },
+    {
+      "type": "avertissement",
+      "texte": "Les délibérations de l'agence placent les matériels hydroéconomes et le matériel de pratiques agroécologiques au taux des dispositifs du Plan stratégique national (PSN) : ces investissements peuvent relever des appels à projets régionaux, avec alors un taux et des conditions propres à chaque appel. Faites confirmer le taux et le guichet par la délégation avant de commander.",
+      "lien": "https://eau-grandsudouest.fr/sites/default/files/2025-01/54-24-%20Pollutions%20agricoles_0_0.pdf",
+      "lien_label": "Délibération réduction des pollutions agricoles (PDF)"
+    },
+    {
+      "type": "info",
+      "texte": "Contactez la délégation de l'agence la plus proche, puis déposez la demande sur la plateforme Rivage. Délégations : Toulouse (09, 11, 31, 32, 34, 81, 82), 05 61 43 26 80. Rodez (12, 30, 46, 48), 05 65 75 56 00. Brive-la-Gaillarde (15, 19, 23, 24, 63, 87), 05 55 88 02 00. Bordeaux (16, 17, 33, 47, 79, 86), 05 56 11 19 99. Pau (40, 64, 65), 05 59 80 77 90."
+    },
+    {
+      "type": "info",
+      "texte": "L'agence soutient aussi les agriculteurs par d'autres aides individuelles : conversion à l'agriculture biologique et mesures agroenvironnementales et climatiques (MAEC), cofinancées avec l'État ou la Région et à demander auprès de la DRAAF ou de la DDT, et paiements pour services environnementaux (PSE) sur des territoires définis, non cumulables avec les MAEC ou la conversion bio."
+    },
+    {
+      "type": "ressource",
+      "texte": "Fiche bénéficiaire agriculteurs de l'agence (aides individuelles et collectives, interlocuteurs)",
+      "lien": "https://eau-grandsudouest.fr/sites/default/files/2025-03/Fiche-b%C3%A9n%C3%A9ficiaire-agriculteur%20AEAG_1_0.pdf",
+      "lien_label": "Fiche bénéficiaire (PDF)"
+    },
+    {
+      "type": "ressource",
+      "texte": "Page des aides agricoles de l'agence, avec les thématiques et dispositifs à choisir sur Rivage",
+      "lien": "https://eau-grandsudouest.fr/aides-financieres/agriculture-accompagnement-filieres-agricoles",
+      "lien_label": "Aides agriculture et filières"
+    },
+    {
+      "type": "ressource",
+      "texte": "Plateforme Rivage de dépôt des demandes d'aide",
+      "lien": "https://rivage.eau-adour-garonne.fr/appli/",
+      "lien_label": "Rivage"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "description, mesures (ACT_GCU_001, ACT_GCU_010), taux",
+      "url": "https://eau-grandsudouest.fr/sites/default/files/2025-03/Fiche-b%C3%A9n%C3%A9ficiaire-agriculteur%20AEAG_1_0.pdf",
+      "date": "2026-10-15",
+      "extrait": "Investissements matériels : mettre en place des pratiques agroécologiques (désherbage mécanique, semis direct, matériel spécifique sur certaines cultures, matériel d'économie d'eau, etc.) ; piloter l'irrigation : dispositifs hydro économes (stations météo, sondes…) hors matériel d'irrigation (goutte à goutte, pivot, rampe…). L'Agence soutient également les investissements d'infrastructures agroécologiques. Cela inclut la plantation de haies, de bandes enherbées, la restauration de zones humides, point d'abreuvement, mares […] Taux d'aide : 50%"
+    },
+    {
+      "champ": "eligibilite",
+      "url": "https://eau-grandsudouest.fr/sites/default/files/2025-03/Fiche-b%C3%A9n%C3%A9ficiaire-agriculteur%20AEAG_1_0.pdf",
+      "date": "2026-10-15",
+      "extrait": "Un projet, des aides individuelles […] Pour information, la liste des matériels éligibles est régulièrement mise à jour par l'Agence."
+    },
+    {
+      "champ": "infos_complementaires (démarche, délégations de Rodez, Brive, Bordeaux et Pau)",
+      "url": "https://eau-grandsudouest.fr/sites/default/files/2025-03/Fiche-b%C3%A9n%C3%A9ficiaire-agriculteur%20AEAG_1_0.pdf",
+      "date": "2026-10-15",
+      "extrait": "Comment ? Contactez la délégation de l'agence de l'eau la plus proche. […] Déposez votre demande sur la plateforme RIVAGE […] 12 . 30 . 46 . 48 […] Rodez cedex 9 Tél. : 05.65.75.56.00"
+    },
+    {
+      "champ": "infos_complementaires (CAB, MAEC, PSE)",
+      "url": "https://eau-grandsudouest.fr/sites/default/files/2025-03/Fiche-b%C3%A9n%C3%A9ficiaire-agriculteur%20AEAG_1_0.pdf",
+      "date": "2026-10-15",
+      "extrait": "L'Agence est co-financeur des aides du 2e pilier de la PAC avec DRAAF ou Région selon le dispositif […] Contactez la DRAAF ou la DDT […] Cette aide est non cumulable avec les MAEC ou la CAB."
+    },
+    {
+      "champ": "eligibilite (achat collectif), infos_complementaires (taux PSN)",
+      "url": "https://eau-grandsudouest.fr/sites/default/files/2026-08/56-24_l21_gestion_quantitative_12ieme_adapteecvm_1.pdf",
+      "date": "2026-10-15",
+      "extrait": "Un meilleur pilotage et efficience de l'irrigation (matériels hydro- économes de type sondes, stations météo, brise-jets, systèmes de régulation électronique) et l'accompagnement individuel induit dans le cadre d'un achat collectif et d'une démarche menée à une échelle hydrographique cohérente permettant d'atteindre a minima 10% d'économies d'eau de prélèvement […] Taux PSN Matériels hydro-économes, MAEC…"
+    },
+    {
+      "champ": "infos_complementaires (Rivage)",
+      "url": "https://eau-grandsudouest.fr/aides-financieres/agriculture-accompagnement-filieres-agricoles",
+      "date": "2026-10-15",
+      "extrait": "Dispositifs : […] Investissements et infrastructures agroécologiques (hors programme européen ou équivalent) […] Investissements en faveur des économies d'eau"
+    },
+    {
+      "champ": "nom (programme 2025-2030)",
+      "url": "https://eau-grandsudouest.fr/aides-financieres",
+      "date": "2026-10-15",
+      "extrait": "Avec 77 millions d'euros / an dans le programme Eau 2025-2030, elle finance les MAEC eau et biodiversité, la CAB, les PSE"
+    },
+    {
+      "champ": "type, taux (80 % infrastructures agroécologiques), infos_complementaires (taux PSN du matériel agroécologique)",
+      "url": "https://eau-grandsudouest.fr/sites/default/files/2025-01/54-24-%20Pollutions%20agricoles_0_0.pdf",
+      "date": "2026-10-15",
+      "extrait": "Article 7 - Taux et conditions de bonification […] Taux max subvention ou forfait d'aide […] 80% : Investissements non productifs hors réglementaire, dont infrastructures agroécologiques […] Modalités PSN, déclinaisons régionales du PSN, Appels à Projets (AAP) nationaux ou régionaux ou équivalents, régimes exemptés : […] Investissement matériel pour la mise en œuvre de pratiques agroécologiques"
+    },
+    {
+      "champ": "taux (50 % maximum, 80 %), infos_complementaires (délégation de Toulouse)",
+      "url": "https://eau-grandsudouest.fr/sites/default/files/2025-11/fiche-thematique_agriculture-et-filieres_3_captages-et-milieux_hd_bureau.pdf",
+      "date": "2026-10-15",
+      "extrait": "Investissements et infrastructures agroécologiques (hors programme européen ou équivalent) […] 50 % […] Investissements non productifs hors réglementaire, dont infrastructures agroécologiques […] 80 % […] 97 rue Saint Roch CS 14407 31405 Toulouse Cedex 4 Tél. : 05.61.43.26.80 09 . 11 . 31 . 32 . 34 . 81 . 82 DÉLÉGATION GARONNE ET RIVIÈRES D'OCCITANIE / TOULOUSE"
+    },
+    {
+      "champ": "eligibilite (achat collectif, 10 % d'économies), taux (pilotage)",
+      "url": "https://eau-grandsudouest.fr/sites/default/files/2025-11/fiche-thematique_gq_sobriete-et-economies-d-eau-en-agriculture_hd_bureau.pdf",
+      "date": "2026-10-15",
+      "extrait": "amélioration du pilotage et de l'efficience de l'irrigation (par ex : achat collectif de matériels hydroéconomes) […] Pour l'achat collectif de matériels hydroéconomes, il convient de s'engager à réaliser a minima 10 % d'économies d'eau de prélèvement. […] Pilotage irrigation, matériels hydroéconomes Investissements en faveur des économies d'eau 50 %"
+    },
+    {
+      "champ": "logo_url",
+      "url": "https://eau-grandsudouest.fr/themes/custom/adour/favicon.ico",
+      "date": "2026-10-15",
+      "extrait": "Icône du site de l'agence (goutte bleue, PNG 128 x 128), téléchargée avec curl puis déposée sur Cloudinary"
+    }
+  ],
+  "date_maj": "2026-10-15"
+}

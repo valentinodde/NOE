@@ -1,0 +1,80 @@
+{
+  "id": "PREST_LAI_008",
+  "nom": "Plateforme Lait de l'UMR STLO (INRAE, Institut Agro Rennes-Angers)",
+  "type": "organisme_technique",
+  "logo_url": null,
+  "siret": "18007003902033",
+  "description": "La Plateforme Lait est l'installation expérimentale de 1 000 m² adossée à l'UMR 1253 STLO, unité mixte de recherche INRAE et Institut Agro Rennes-Angers implantée 65 rue de Saint-Brieuc à Rennes, qui met en oeuvre à l'échelle pilote les opérations de transformation du lait et de ses coproduits : séparation membranaire de la microfiltration à l'osmose inverse, concentration par évaporation sous vide, séchage par atomisation, traitements thermiques et séparation centrifuge. Sa mission affichée est de mettre ses compétences et ses équipements à disposition des entreprises, des centres techniques et des organismes de recherche ou d'enseignement dans le cadre de projets de recherche, de prestations de services ou de formation, avec un système d'information qui met les données des équipements instrumentés à disposition des utilisateurs en toute confidentialité. Ce n'est pas un prestataire commercial ordinaire : on s'adresse à la responsable de la plateforme pour toute demande de collaboration de recherche, de prestation ou de formation, et ce qu'elle réalise est un essai pilote dans ses locaux de Rennes, en amont d'un investissement, pas un diagnostic ni une installation sur votre site.",
+  "expertises": [
+    "Essais pilotes de procédés laitiers",
+    "Concentration par évaporation sous vide",
+    "Séparation membranaire des lactosérums",
+    "Valorisation des coproduits du lait"
+  ],
+  "categories": [
+    "changer_process_pratiques"
+  ],
+  "secteurs": ["industrie_laitiere"],
+  "departements": [],
+  "mesures": [
+    { "id": "ACT_LAI_005", "roles": ["conseil_etude"] }
+  ],
+  "contacts": [
+    { "type": "site_internet", "value": "https://stlo.rennes.hub.inrae.fr/plateformes/plateforme-lait" },
+    { "type": "mail", "value": "gaelle.tanguy@inrae.fr" },
+    { "type": "tel", "value": "02 23 48 53 29" },
+    { "type": "adresse", "value": "UMR 1253 INRAE Institut Agro STLO, 65 rue de Saint-Brieuc, 35042 Rennes Cedex" }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "nom, type, description, expertises, departements, categories, mesure ACT_LAI_005",
+      "url": "https://stlo.rennes.hub.inrae.fr/plateformes/plateforme-lait",
+      "date": "2026-09-22",
+      "extrait": "C'est une installation unique de 1000m² dédiée au lait et à ses dérivés. Elle permet la conduite d'essais jusqu'à l'échelle pilote, étape indispensable à la validation et au transfert. Elle dispose d'un système d'information qui stocke les données produites par les équipements instrumentés et les met à disposition des utilisateurs en toute confidentialité. La plateforme est adossée à l'unité mixte de recherche Science et Technologie du Lait et de l'Oeuf INRAE / Institut Agro Rennes-Angers (UMR STLO). Missions : mettre ses compétences et ses équipements à disposition des entreprises, des centres techniques, des organismes de recherche ou d'enseignement dans le cadre de projets de recherche, de prestations de services ou de formation. Quatre procédés font l'objet d'études spécifiques au sein de la plateforme : Séparation membranaire, Technologies laitières et fromagères, Concentration par évaporation sous vide, Séchage par atomisation. Quelques exemples de projets menés sur la plateforme : Préparation de concentrés et de poudres ; Valorisation de coproduits du lait (sérums, babeurres, perméats, ...)."
+    },
+    {
+      "champ": "expertises, mesure ACT_LAI_005",
+      "url": "https://stlo.rennes.hub.inrae.fr/plateformes/plateforme-lait/separation-membranaire",
+      "date": "2026-09-22",
+      "extrait": "De la microfiltration à l'osmose inverse. Microfiltration, 0,1 µm : concentration des caséines, obtention de phosphocaséine natif (PPCN), délipidation des lactosérums. Ultrafiltration, 5 - 8 - 10 kDa : concentration totale des protéines du lait, de microfiltrat (0,1 µm) et des lactosérums (protéines sériques incluses)."
+    },
+    {
+      "champ": "expertises, mesure ACT_LAI_005",
+      "url": "https://stlo.rennes.hub.inrae.fr/plateformes/plateforme-lait/concentration-par-evaporation-sous-vide",
+      "date": "2026-09-22",
+      "extrait": "Pilote Évaporateur à flot tombant. Caractéristiques du pilote : flot tombant sans recirculation forcée ; capacité évaporatoire : 27 kg d'eau/heure ; débit : 60-80 kg/heure."
+    },
+    {
+      "champ": "contacts",
+      "url": "https://stlo.rennes.hub.inrae.fr/plateformes/plateforme-lait",
+      "date": "2026-09-22",
+      "extrait": "Nous contacter pour tout renseignement complémentaire ou toute demande de collaboration de recherche, prestation, formation. Gaëlle Tanguy, gaelle.tanguy@inrae.fr, 02 23 48 53 29."
+    },
+    {
+      "champ": "contacts",
+      "url": "https://stlo.rennes.hub.inrae.fr/contact",
+      "date": "2026-09-22",
+      "extrait": "UMR 1253 INRAE - INSTITUT AGRO, STLO Science et Technologie du Lait et de l'Oeuf, 65 rue de Saint-Brieuc, 35042 Rennes Cedex."
+    },
+    {
+      "champ": "nom, description",
+      "url": "https://stlo.rennes.hub.inrae.fr/umr-stlo/presentation",
+      "date": "2026-09-22",
+      "extrait": "L'UMR STLO a pour objectif de produire des connaissances sur les constituants du lait et de l'oeuf, puis sur leur transformation en ingrédients ou produits finis pour l'alimentation humaine. Organisation : 78 permanents dont 35 scientifiques, 4000 m² de laboratoires. Deux plateformes sont au coeur de notre dispositif : la Plateforme Lait, dédiée au lait et à ses multiples transformations ; le CIRM - Bactéries d'Intérêt Alimentaire."
+    },
+    {
+      "champ": "nom, type",
+      "url": "https://annuaire.inrae.fr/structure/1253",
+      "date": "2026-09-22",
+      "extrait": "UMR 1253 STLO | Science et Technologie du Lait et de l'Oeuf, laboratoire. Directeur : Yves Le Loir. INRAE - Rennes - Agrocampus Ouest, 65 rue de Saint-Brieuc, Bâtiment 32, 35042 Rennes Cedex."
+    },
+    {
+      "champ": "siret",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=INRAE&code_postal=35000",
+      "date": "2026-09-22",
+      "extrait": "INSTITUT NATIONAL DE RECHERCHE POUR L'AGRICULTURE L'ALIMENTATION ET L'ENVIRONNEMENT (INRAE), siren 180070039, nature juridique 7389. Établissement correspondant : siret 18007003902033, enseigne INRAE BRETAGNE-NORMANDIE RENNES, 65 RUE DE SAINT-BRIEUC 35000 RENNES, état administratif A."
+    }
+  ],
+  "date_maj": "2026-09-22"
+}

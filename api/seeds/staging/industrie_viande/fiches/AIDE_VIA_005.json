@@ -1,0 +1,92 @@
+{
+  "id": "AIDE_VIA_005",
+  "nom": "Activités industrielles et artisanat : réduction des pollutions (agence de l'eau Adour-Garonne, 12e programme)",
+  "financeur": "Agence de l'eau Adour-Garonne",
+  "logo_url": null,
+  "type": "subvention",
+  "taux": "De 30 à 80 % maximum selon la nature de l'opération. Études : 60 à 80 % selon statut. Traitement des macropolluants et micropolluants (dispositifs Rivage « Ouvrage épuratoire - Gestion des boues d'épuration - Autosurveillance » et « Activité vinicole/distillation ») : 30 % pour le traitement des macropolluants, 40 à 60 % selon le statut pour le traitement des micropolluants et pour les macropolluants rejetés dans une masse d'eau subissant une pression significative des activités économiques ou domestique (et/ou dans une des zones à enjeux « usages » du SDAGE). Aménagements internes (technologies propres) : 40 à 60 % selon statut. Traitement des eaux pluviales, ouvrages de sécurité et bassins de confinement : 40 à 60 % selon statut.",
+  "plafond": null,
+  "description": "Aide de l'agence de l'eau Adour-Garonne aux projets de réduction des pollutions industrielles et artisanales (macro et micropolluants), dans une approche préventive. Les solutions mises en avant sont de réduire ou supprimer les pollutions à la source, traiter les effluents, maîtriser les risques de pollutions accidentelles et les rejets pluviaux. Les opérations accompagnées sont les études, le traitement des macropolluants et micropolluants (ouvrage épuratoire, gestion des boues d'épuration, autosurveillance), les aménagements internes (technologies propres), le traitement des eaux pluviales et les ouvrages de sécurité et bassins de confinement.",
+  "eligibilite": "Personnes publiques ou privées (par exemple entreprise, collectivité, association, syndicat) exerçant une activité économique à caractère industriel, commercial et artisanal ou en lien avec de telles activités, hors secteur agricole et élevage (ou assimilé). Le projet doit être porté par une structure créée depuis plus de 2 ans (sauf continuité d'activité), s'inscrire dans un programme global de dépollution comprenant une réflexion en termes d'économie d'eau à l'échelle de l'établissement, et aboutir à une réduction de la pression du rejet sur la masse d'eau.",
+  "categories": ["agir_rejets_qualite"],
+  "secteurs": ["industrie_viande"],
+  "departements": [],
+  "agences": ["AEAG"],
+  "mesures": ["ACT_VIA_008"],
+  "infos_complementaires": [
+    {
+      "type": "avertissement",
+      "texte": "Ne sont pas éligibles les projets concernant des pollutions nouvelles (par exemple la création d'une entreprise), des travaux de renouvellement à l'identique, des sites et sols pollués, des activités de prestation de service (transport ou traitement d'effluents de tiers) et des études réglementaires."
+    },
+    {
+      "type": "info",
+      "texte": "Le projet doit s'inscrire dans un programme global de dépollution visant à respecter les objectifs auxquels l'établissement est soumis, notamment ceux du SDAGE, et comprenant une réflexion en termes d'économie d'eau à l'échelle de l'établissement. L'atteinte des objectifs est évaluée par des indicateurs définis avec l'agence, par exemple le respect des normes de rejet ou la réduction de pollution en pourcentage."
+    },
+    {
+      "type": "info",
+      "texte": "La demande se dépose sur la plateforme Rivage de l'agence, en sélectionnant la thématique « Lutte contre les pressions des activités économiques hors agriculture (réduction des pollutions, économies d'eau et eaux pluviales) » puis le dispositif correspondant à l'opération. Pour l'agroalimentaire, l'interlocuteur indiqué est Marc Pinel, chargé d'intervention industries, 05 61 36 82 19, marc.pinel@eau-adour-garonne.fr."
+    },
+    {
+      "type": "ressource",
+      "texte": "Fiche thématique de l'agence de l'eau Adour-Garonne (PDF)",
+      "lien": "https://eau-grandsudouest.fr/sites/default/files/2025-02/FICHE-THEMATIQUE_Industries_Pollutions.pdf"
+    },
+    {
+      "type": "ressource",
+      "texte": "Plateforme de dépôt des demandes d'aide Rivage",
+      "lien": "https://rivage.eau-adour-garonne.fr/appli/"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "nom, description",
+      "url": "https://eau-grandsudouest.fr/sites/default/files/2025-02/FICHE-THEMATIQUE_Industries_Pollutions.pdf",
+      "date": "2026-09-24",
+      "extrait": "Activités industrielles et artisanat : réduction des pollutions [...] Les projets de réduction des pollutions industrielles (macro et micropolluants) visent à contribuer au bon état des eaux en privilégiant une approche préventive, dans un contexte de changement climatique. [...] DES SOLUTIONS À ACTIONNER Réduire/supprimer les pollutions à la source Traiter les effluents Maîtriser les risques de pollutions accidentelles et rejets pluviaux"
+    },
+    {
+      "champ": "nom (12e programme)",
+      "url": "https://eau-grandsudouest.fr/sites/default/files/2025-02/FICHE-THEMATIQUE_Industries_Pollutions.pdf",
+      "date": "2026-09-24",
+      "extrait": "4 grandes priorités du 12e programme"
+    },
+    {
+      "champ": "taux, type, description (tableau « Les projets accompagnés », cellules séparées par |)",
+      "url": "https://eau-grandsudouest.fr/sites/default/files/2025-02/FICHE-THEMATIQUE_Industries_Pollutions.pdf",
+      "date": "2026-09-24",
+      "extrait": "NATURE DE L’OPÉRATION | DISPOSITIF RIVAGE CORRESPONDANT | TAUX D’AIDE MAXIMUM. Études | Études | 60 à 80 % selon statut. Traitement des macropolluants et micropolluants | Ouvrage épuratoire - Gestion des boues d’épuration - Autosurveillance Activité vinicole/distillation | 30 % : traitement des macropolluants 40 à 60 % selon le statut : traitement des micropolluants & traitement des macropolluants rejetés dans une masse d’eau subissant une pression significative des activités économiques ou domestique (et/ou dans une des zones à enjeux « usages » du SDAGE). Aménagements internes (technologies propres) | Technologie propre / aménagements internes | 40 à 60 % selon statut. Traitement des eaux pluviales | Travaux de lutte contre le risque de pollution accidentelle ou par temps de pluie | 40 à 60 % selon statut. Ouvrages de sécurité, bassins de confinement | Travaux de lutte contre le risque de pollution accidentelle ou par temps de pluie | 40 à 60 % selon statut. [...] Taux d’aide de 30 à 80 % max"
+    },
+    {
+      "champ": "eligibilite",
+      "url": "https://eau-grandsudouest.fr/sites/default/files/2025-02/FICHE-THEMATIQUE_Industries_Pollutions.pdf",
+      "date": "2026-09-24",
+      "extrait": "Les bénéficiaires sont des personnes publiques ou privées (à titre d’exemple : entreprise, collectivité, association, syndicat) exerçant une activité économique à caractère industriel, commercial et artisanal ou en lien avec de telles activités (hors secteur agricole et élevage (ou assimilé) traité dans la politique de lutte contre les pollutions agricoles). Les projets devront notamment : s’inscrire dans un programme global de dépollution comprenant une réflexion en termes d’économie d’eau à l’échelle de l’établissement [...] être portés par une structure créée depuis plus de 2 ans (sauf s’il y a continuité d’activité) aboutir à une réduction de la pression du rejet sur la masse d’eau"
+    },
+    {
+      "champ": "infos_complementaires (programme global, indicateurs)",
+      "url": "https://eau-grandsudouest.fr/sites/default/files/2025-02/FICHE-THEMATIQUE_Industries_Pollutions.pdf",
+      "date": "2026-09-24",
+      "extrait": "Les projets devront s’inscrire dans un programme global de dépollution visant à respecter les objectifs auxquels est soumis l’établissement, notamment ceux résultant des dispositions du Schéma directeur d’aménagement et de gestion des eaux (SDAGE) dans la zone concernée. [...] Ils pourraient porter par exemple sur : le respect des normes de rejet (flux et concentration) la réduction de pollution en pourcentage…"
+    },
+    {
+      "champ": "infos_complementaires (avertissement, opérations non éligibles)",
+      "url": "https://eau-grandsudouest.fr/sites/default/files/2025-02/FICHE-THEMATIQUE_Industries_Pollutions.pdf",
+      "date": "2026-09-24",
+      "extrait": "OPÉRATIONS NON ÉLIGIBLES Ne sont pas éligibles aux aides de l’Agence les projets concernant : des pollutions nouvelles (exemple : création d’une entreprise) des travaux de renouvellement à l’identique des sites et sols pollués (site orphelin, fermé ou en post-exploitation) des activités de prestation de service (transport et/ou traitement d’effluents de tiers) des études réglementaires"
+    },
+    {
+      "champ": "infos_complementaires (dépôt, contact)",
+      "url": "https://eau-grandsudouest.fr/sites/default/files/2025-02/FICHE-THEMATIQUE_Industries_Pollutions.pdf",
+      "date": "2026-09-24",
+      "extrait": "COMMENT DÉPOSER UNE AIDE ? 1. Sélectionner la thématique « Lutte contre les pressions des activités économiques hors agriculture (réduction des pollutions, économies d’eau et eaux pluviales) ». 2. Sélectionner l’un des dispositifs d’aide associé présenté dans le tableau ci-dessous. Lien vers la plateforme Rivage : rivage.eau-adour-garonne.fr/appli/ [...] Secteurs d’activités : Agro-Alimentaires / Golf / Activités commerciales Marc PINEL - Chargé d’intervention industries Tel direct : 05 61 36 82 19 marc.pinel@eau-adour-garonne.fr"
+    },
+    {
+      "champ": "mesures (ACT_VIA_008)",
+      "url": "https://eau-grandsudouest.fr/sites/default/files/2025-02/FICHE-THEMATIQUE_Industries_Pollutions.pdf",
+      "date": "2026-09-24",
+      "extrait": "Traiter les effluents [...] Traitement des macropolluants et micropolluants | Ouvrage épuratoire - Gestion des boues d’épuration - Autosurveillance | 30 % : traitement des macropolluants"
+    }
+  ],
+  "date_maj": "2026-09-24"
+}

@@ -1,0 +1,106 @@
+{
+  "id": "PREST_FRL_003",
+  "nom": "Mulot Agroalimentaire",
+  "type": "equipementier",
+  "logo_url": "https://www.mulotagroalimentaire.com/wp-content/uploads/2021/06/mulot-Agro.png",
+  "siret": "33244100500029",
+  "description": "Branche agroalimentaire du groupe Mulot (SAS Mulot, La Tremblade), qui conçoit et fabrique dans ses ateliers de Charente-Maritime des machines pour fruits et légumes. Pour le lavage, elle propose des laveuses à tambour immergé pour légumes racines, des laveuses cylindriques à brosses, des laveurs tubulaires à rampe de jets et des tapis élévateurs laveurs en eau, conçus sur cahier des charges par son bureau d'études, avec entretien du matériel assuré sur tout le territoire. Son site ne donne aucune indication de consommation d'eau de ces machines, et certaines machines du catalogue sont des modèles d'autres marques (éplucheuses Robot-Coupe et Kronen, machines sous vide Henkelman).",
+  "expertises": [
+    "Laveuses pour légumes racines",
+    "Tapis élévateurs laveurs en eau",
+    "Lignes de lavage sur mesure",
+    "Entretien du matériel"
+  ],
+  "categories": [
+    "ameliorer_efficacite_hydrique"
+  ],
+  "secteurs": [
+    "industrie_fruits_legumes"
+  ],
+  "departements": [],
+  "mesures": [],
+  "contacts": [
+    {
+      "type": "site_internet",
+      "value": "https://www.mulotagroalimentaire.com/"
+    },
+    {
+      "type": "tel",
+      "value": "05 46 36 08 89"
+    },
+    {
+      "type": "adresse",
+      "value": "ZA des Brassons, 17390 La Tremblade"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "contacts (tel, adresse)",
+      "url": "https://www.mulotagroalimentaire.com/contact/",
+      "date": "2026-09-25",
+      "extrait": "Pour des questions ou des renseignements contactez nous par téléphone au 05 46 36 08 89 ou par mail. Notre adresse ZA des Brassons La Tremblade 17390"
+    },
+    {
+      "champ": "siret, adresse",
+      "url": "https://www.mulot-group.com/mentions-legales/",
+      "date": "2026-09-25",
+      "extrait": "Editeur du site [...] Mulot, ZA des Brassons, 17390 LA TREMBLADE, SIRET : 33244100500029, Industrie manufacturière. Mulot agro : Equipements et accessoires pour l'industrie des fruits et légumes, mulotagroalimentaire.com. Mulot SAS"
+    },
+    {
+      "champ": "siret",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=332441005&departement=17",
+      "date": "2026-09-25",
+      "extrait": "SAS MULOT, siret 33244100500029, siège, ZA BRASSON 17390 LA TREMBLADE, activité 28.30Z, etat_administratif A"
+    },
+    {
+      "champ": "type, description (fabrication en France, bureau d'études, entretien), departements",
+      "url": "https://www.mulotagroalimentaire.com/",
+      "date": "2026-09-25",
+      "extrait": "Toutes les machines sont fabriquées en France, dans nos ateliers situés en Charente-Maritime (17) depuis 1971. [...] Nous fabriquons des lignes de triage, lavage et d'emballage. [...] Les machines sont étudiées et conçues par notre Bureau d'Etude à partir d'un cahier des charges [...] Une équipe de professionnels à votre service pour entretenir votre matériel sur tout le territoire."
+    },
+    {
+      "champ": "description, expertises (laveuse légumes racines)",
+      "url": "https://www.mulotagroalimentaire.com/produit/laveuse-legume-racine/",
+      "date": "2026-09-25",
+      "extrait": "Cette laveuse pour légumes racines nettoie les pommes de terre mais aussi les carottes et autres légumes. Avec son tambour rotatif immergé d'eau, il lave avec efficacité les produits tout en préservant leur qualité. La laveuse lave jusqu'à 4 tonnes de produit à l'heure."
+    },
+    {
+      "champ": "description (laveuse cylindrique à brosses)",
+      "url": "https://www.mulotagroalimentaire.com/produit/laveuse-cylindrique-brosse-fruit-legume/",
+      "date": "2026-09-25",
+      "extrait": "Laveur cylindrique à brosses. Information : lavage et brossage pour les fruits et légumes non fragiles [...] Les déchets décollés sont récupérés par un box ou par un tuyau situés dessous la machine."
+    },
+    {
+      "champ": "description (laveur tubulaire)",
+      "url": "https://www.mulotagroalimentaire.com/produit/laveur-tubulaire-fruit-legume/",
+      "date": "2026-09-25",
+      "extrait": "Avec son tambour rotatif et sa rampe de jets d'eau centrale, ce laveur nettoie les pommes de terre, les navets, les carottes, etc. [...] Le laveur peut être équipé d'une ou deux rampes de lavage"
+    },
+    {
+      "champ": "description, expertises (tapis élévateur laveur en eau)",
+      "url": "https://www.mulotagroalimentaire.com/produit/tapis-elevateur-en-eau-pomme-de-terre/",
+      "date": "2026-09-25",
+      "extrait": "Le tapis élévateur laveur en eau permet de transférer les pommes de terre tout en les nettoyant. Le tapis élévateur comporte une trémie de trempage et d'un convoyeur à chaîne. [...] Le chargeur peut être également équipé de 6 ou 12 rampes de lavage."
+    },
+    {
+      "champ": "departements, secteurs (références dans la filière)",
+      "url": "https://www.mulotagroalimentaire.com/nos-references/",
+      "date": "2026-09-25",
+      "extrait": "Retrouvez toutes nos machines installées en France. [...] Fresh Frites : Essoreuse, Ensacheuse 2 tapis [...] Label'Frite : Tapis élévateur, Hydrocooling [...] Lapree Samuel : Tapis élévateur en eau, Laveuse pommes de terre [...] Gelifruit : Tapis élévateur, Calibreuse vibrante"
+    },
+    {
+      "champ": "description (modèles d'autres marques au catalogue)",
+      "url": "https://www.mulotagroalimentaire.com/eplucher/",
+      "date": "2026-09-25",
+      "extrait": "Machines pour éplucher [...] Éplucheuse Robot-Coupe EP 25 TA [...] Éplucheuse KRONEN PL 40 K"
+    },
+    {
+      "champ": "description (modèles d'autres marques au catalogue)",
+      "url": "https://www.mulotagroalimentaire.com/sous-vide/",
+      "date": "2026-09-25",
+      "extrait": "Machines Sous Vide [...] Machine Sous Vide Henkelman-FALCON 80 [...] Machine Sous Vide Henkelman-Polar 2.95"
+    }
+  ],
+  "date_maj": "2026-09-25"
+}

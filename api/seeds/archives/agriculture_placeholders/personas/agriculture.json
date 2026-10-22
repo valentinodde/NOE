@@ -1,0 +1,87 @@
+[
+  {
+    "id": "cerealier_novice",
+    "nom": "Céréalier irrigant, aucune démarche",
+    "description": "Grandes cultures en aspersion, eau du réseau et d'un forage, 60 000 m³ par an, jamais d'audit, pilote à la météo, pas de stockage, sujet des restrictions non regardé.",
+    "answers": {
+      "agri_q01": "sans_releve",
+      "agri_q01b": ["aep", "souterraine"],
+      "agri_q01c": "60000",
+      "agri_q02": "jamais",
+      "agri_q03": "meteo",
+      "agri_q04": "aspersion_pivot",
+      "agri_q05": "absent",
+      "agri_q06": "aucune",
+      "agri_q07": "non_analyse",
+      "agri_q08": "non_envisage"
+    }
+  },
+  {
+    "id": "maraicher_goutte_a_goutte",
+    "nom": "Maraîcher équipé, en réflexion sur la suite",
+    "description": "Goutte-à-goutte piloté par capteurs, compteur relevé, petit bassin, récupération de pluie informelle, audit ancien, informé des restrictions sans plan.",
+    "answers": {
+      "agri_q01": "releve_manuel",
+      "agri_q01b": ["souterraine", "pluie"],
+      "agri_q01c": "8000",
+      "agri_q02": "ancien",
+      "agri_q03": "capteurs_connectes",
+      "agri_q04": "goutte_a_goutte",
+      "agri_q05": "petite_capacite",
+      "agri_q06": "informelle",
+      "agri_q07": "informe",
+      "agri_q08": "en_reflexion"
+    }
+  },
+  {
+    "id": "eleveur_pluvial",
+    "nom": "Éleveur sans irrigation",
+    "description": "Cultures fourragères pluviales, abreuvement au réseau, pas d'irrigation du tout, pas de compteur, ne se sent pas concerné.",
+    "answers": {
+      "agri_q01": "absent",
+      "agri_q01b": ["aep"],
+      "agri_q01c": "3000",
+      "agri_q02": "jamais",
+      "agri_q03": "a_vue",
+      "agri_q04": "sans_irrigation",
+      "agri_q05": "absent",
+      "agri_q06": "aucune",
+      "agri_q07": "non_analyse",
+      "agri_q08": "non_envisage"
+    }
+  },
+  {
+    "id": "exploitation_avancee",
+    "nom": "Exploitation avancée, tout en place",
+    "description": "Télérelève, audit récent, capteurs connectés, goutte-à-goutte, retenue optimisée avec plan de gestion, récupération structurée, plan d'adaptation formalisé.",
+    "answers": {
+      "agri_q01": "telereleve",
+      "agri_q01b": ["souterraine", "pluie", "surface"],
+      "agri_q01c": "120000",
+      "agri_q02": "recent",
+      "agri_q03": "capteurs_connectes",
+      "agri_q04": "goutte_a_goutte",
+      "agri_q05": "optimise",
+      "agri_q06": "systeme_en_place",
+      "agri_q07": "plan_formalise",
+      "agri_q08": "demarche_structuree"
+    }
+  },
+  {
+    "id": "ne_sait_pas",
+    "nom": "Répond \"je ne sais pas\" à presque tout",
+    "description": "Salarié qui remplit pour l'exploitant : ne connaît ni les volumes ni les équipements, sait seulement qu'il n'y a pas eu d'audit.",
+    "answers": {
+      "agri_q01": "__skip__",
+      "agri_q01b": "__skip__",
+      "agri_q01c": "__skip__",
+      "agri_q02": "jamais",
+      "agri_q03": "__skip__",
+      "agri_q04": "__skip__",
+      "agri_q05": "__skip__",
+      "agri_q06": "__skip__",
+      "agri_q07": "__skip__",
+      "agri_q08": "__skip__"
+    }
+  }
+]

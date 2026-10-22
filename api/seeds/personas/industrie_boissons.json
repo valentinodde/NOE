@@ -1,0 +1,173 @@
+[
+  {
+    "id": "brasserie_novice",
+    "nom": "Brasserie régionale, rien de formalisé",
+    "description": "Brasserie de douze salariés, 8 000 hl par an, eau du réseau uniquement, environ 4 000 m³ par an. Bouteilles pasteurisées dans un tunnel en appoint d'eau continu, cuves nettoyées au tuyau, groupe froid sur une petite tour dont personne ne suit les purges, eau du refroidisseur de moût à l'égout, levures et lavages rejetés ensemble au réseau. Aucun audit, aucune consigne, les restrictions n'ont jamais été regardées.",
+    "answers": {
+      "boi_q01": "compteur_general",
+      "boi_q02": ["reseau"],
+      "boi_q03": "4000",
+      "boi_q04": "jamais",
+      "boi_q05": "manuel_tuyau",
+      "boi_q06": "aucune",
+      "boi_q07": "tunnel_appoint",
+      "boi_q08": "tours_non_suivies",
+      "boi_q09": "rejetee",
+      "boi_q10": "tout_egout",
+      "boi_q11": "non_analyse",
+      "boi_q12": "non"
+    }
+  },
+  {
+    "id": "brasserie_equipee",
+    "nom": "Brasserie industrielle équipée, sans plan",
+    "description": "Brasserie de quarante salariés, 150 000 hl par an, alimentée par un forage et le réseau, 60 000 m³ par an relevés chaque mois mais jamais rapportés à la production. Elle a investi dans une NEP pilotée par conductimètre, un pasteurisateur flash et la récupération de l'eau du moût en cuve. Ses tours aéroréfrigérantes ne sont pas suivies, ses drêches partent chez un éleveur mais les lavages sont rejetés sans prétraitement. Audit de plus de cinq ans, consignes écrites, informée des restrictions sans plan.",
+    "answers": {
+      "boi_q01": "releves_reguliers",
+      "boi_q02": ["forage", "reseau"],
+      "boi_q03": "60000",
+      "boi_q04": "ancien",
+      "boi_q05": "nep_optimisee",
+      "boi_q06": "ecrites",
+      "boi_q07": "boucle_ou_flash",
+      "boi_q08": "tours_non_suivies",
+      "boi_q09": "cuve_eau_chaude",
+      "boi_q10": "coproduits_separes",
+      "boi_q11": "informe",
+      "boi_q12": "non"
+    }
+  },
+  {
+    "id": "eau_de_source",
+    "nom": "Embouteilleur d'eau de source, sans brassage",
+    "description": "Site d'embouteillage d'eau de source de trente salariés, 150 000 m³ prélevés par an dans sa nappe, plus le réseau pour les sanitaires. Ni brassage, ni pasteurisation, ni coproduit : l'eau sort du sol et part en bouteille. Les lignes sont nettoyées par une NEP à durée fixe, les consignes sont orales, le froid se limite à des groupes à air. Relevés réguliers, audit de plus de cinq ans, risques sécheresse évalués, suit les travaux du SAGE sans y siéger.",
+    "answers": {
+      "boi_q01": "releves_reguliers",
+      "boi_q02": ["source_embouteillage", "reseau"],
+      "boi_q03": "150000",
+      "boi_q04": "ancien",
+      "boi_q05": "nep_duree_fixe",
+      "boi_q06": "orales",
+      "boi_q07": "sans_pasteurisation",
+      "boi_q08": "sans_tour",
+      "boi_q09": "sans_brassage",
+      "boi_q10": "peu_charges",
+      "boi_q11": "evalue",
+      "boi_q12": "informe"
+    }
+  },
+  {
+    "id": "brasserie_avancee",
+    "nom": "Brasserie exemplaire",
+    "description": "Grande brasserie qui suit son ratio d'eau par hectolitre par atelier, alimentée par forage, eau de pluie et rinçages réutilisés, 80 000 m³ par an. NEP pilotée, pasteurisation flash, froid adiabatique, eau du moût récupérée, bassin tampon et prétraitement, audit récent, procédure sécheresse écrite, conventions avec les agriculteurs autour de son captage.",
+    "answers": {
+      "boi_q01": "ratio_hl",
+      "boi_q02": ["forage", "pluie", "recyclage"],
+      "boi_q03": "80000",
+      "boi_q04": "recent",
+      "boi_q05": "nep_optimisee",
+      "boi_q06": "suivies",
+      "boi_q07": "boucle_ou_flash",
+      "boi_q08": "sans_tour",
+      "boi_q09": "cuve_eau_chaude",
+      "boi_q10": "pretraitement",
+      "boi_q11": "plan_formalise",
+      "boi_q12": "protection_ressource"
+    }
+  },
+  {
+    "id": "ne_sait_pas",
+    "nom": "Assistante qui répond pour le gérant",
+    "description": "Personne de l'administration d'une microbrasserie qui remplit le questionnaire pour le gérant. Elle sait seulement que l'eau vient du réseau et que la bière n'est pas pasteurisée ; elle ne connaît ni le suivi, ni les volumes, ni les pratiques de nettoyage.",
+    "answers": {
+      "boi_q01": "__skip__",
+      "boi_q02": ["reseau"],
+      "boi_q03": "__skip__",
+      "boi_q04": "__skip__",
+      "boi_q05": "__skip__",
+      "boi_q06": "__skip__",
+      "boi_q07": "sans_pasteurisation",
+      "boi_q08": "__skip__",
+      "boi_q09": "__skip__",
+      "boi_q10": "__skip__",
+      "boi_q11": "__skip__",
+      "boi_q12": "__skip__"
+    }
+  },
+  {
+    "id": "malterie",
+    "nom": "Malterie, gros consommateur sur forage",
+    "description": "Malterie de cinquante salariés, 250 000 m³ par an pompés dans ses puits, dont l'essentiel part à la trempe de l'orge. Ni brassage ni pasteurisation. Relevés réguliers, audit ancien, nettoyage à la moyenne pression avec consignes écrites, tours aéroréfrigérantes sans suivi des purges, radicelles collectées mais eaux de trempe rejetées à la station voisine sans prétraitement. Risques sécheresse évalués après les restrictions de 2022, pas de participation aux instances de bassin.",
+    "answers": {
+      "boi_q01": "releves_reguliers",
+      "boi_q02": ["forage"],
+      "boi_q03": "250000",
+      "boi_q04": "ancien",
+      "boi_q05": "manuel_equipe",
+      "boi_q06": "ecrites",
+      "boi_q07": "sans_pasteurisation",
+      "boi_q08": "tours_non_suivies",
+      "boi_q09": "sans_brassage",
+      "boi_q10": "coproduits_separes",
+      "boi_q11": "evalue",
+      "boi_q12": "non"
+    }
+  },
+  {
+    "id": "limonaderie_reseau",
+    "nom": "Limonaderie tout réseau",
+    "description": "Fabricant de limonades et de sirops de quinze salariés, uniquement sur le réseau public, 5 000 m³ par an lus sur un compteur général. NEP à durée fixe, consignes orales, pasteurisation en tunnel avec un recyclage partiel, refroidissement à l'eau perdue, sirops déclassés et lavages envoyés ensemble à l'égout. Aucun audit, restrictions jamais regardées.",
+    "answers": {
+      "boi_q01": "compteur_general",
+      "boi_q02": ["reseau"],
+      "boi_q03": "5000",
+      "boi_q04": "jamais",
+      "boi_q05": "nep_duree_fixe",
+      "boi_q06": "orales",
+      "boi_q07": "tunnel_partiel",
+      "boi_q08": "eau_perdue",
+      "boi_q09": "sans_brassage",
+      "boi_q10": "tout_egout",
+      "boi_q11": "non_analyse",
+      "boi_q12": "non"
+    }
+  },
+  {
+    "id": "microbrasserie",
+    "nom": "Microbrasserie artisanale",
+    "description": "Brasseur seul avec un salarié, 300 hl par an, 150 m³ d'eau du réseau par an, sans compteur propre. Nettoyage avec une lance moyenne pression, habitudes transmises à l'oral, bière non pasteurisée, petit groupe froid à air. L'eau du refroidisseur de moût part à l'égout, les levures aussi ; les drêches vont à un éleveur voisin. A pensé à un diagnostic sans le faire, suit les arrêtés sécheresse sans analyse.",
+    "answers": {
+      "boi_q01": "aucun_compteur",
+      "boi_q02": ["reseau"],
+      "boi_q03": "150",
+      "boi_q04": "envisage",
+      "boi_q05": "manuel_equipe",
+      "boi_q06": "orales",
+      "boi_q07": "sans_pasteurisation",
+      "boi_q08": "sans_tour",
+      "boi_q09": "rejetee",
+      "boi_q10": "coproduits_separes",
+      "boi_q11": "informe",
+      "boi_q12": "non"
+    }
+  },
+  {
+    "id": "reponses_incoherentes",
+    "nom": "Réponses contradictoires",
+    "description": "Brasserie qui déclare suivre un ratio par hectolitre avec des compteurs par usage mais n'avoir jamais fait de diagnostic, nettoyer au tuyau tout en ayant des consignes suivies avec les relevés, et récupérer l'eau du moût alors qu'elle dit ne pas brasser ailleurs dans ses réponses. Source d'embouteillage cochée par erreur.",
+    "answers": {
+      "boi_q01": "ratio_hl",
+      "boi_q02": ["reseau", "source_embouteillage"],
+      "boi_q03": "2000",
+      "boi_q04": "jamais",
+      "boi_q05": "manuel_tuyau",
+      "boi_q06": "suivies",
+      "boi_q07": "boucle_ou_flash",
+      "boi_q08": "eau_perdue",
+      "boi_q09": "cuve_eau_chaude",
+      "boi_q10": "peu_charges",
+      "boi_q11": "plan_formalise",
+      "boi_q12": "protection_ressource"
+    }
+  }
+]

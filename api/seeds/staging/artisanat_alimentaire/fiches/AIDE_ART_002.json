@@ -1,0 +1,188 @@
+{
+  "id": "AIDE_ART_002",
+  "nom": "IND2, opérations groupées sectorielles (agence de l'eau Rhône Méditerranée Corse, 12e programme)",
+  "financeur": "Agence de l'eau Rhône Méditerranée Corse",
+  "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792065137/Noe%20assets/logos/AIDE_ART_002.png",
+  "type": "subvention",
+  "taux": "Taux maximum pour les travaux : de 40 à 70 % selon la taille de l'entreprise, jusqu'à 70 % pour une petite ou moyenne entreprise aidée au titre du règlement de minimis. Le taux réel est fixé pour chaque opération avec l'agence.",
+  "plafond": "Pas de plafond par entreprise publié. L'AMI 2025 limite l'aide aux investissements à 1 M€ par opération groupée, pour l'ensemble des entreprises qu'elle accompagne, montant qui peut être complété pendant les 3 ans de l'opération selon les crédits disponibles.",
+  "description": "Fiche aide IND2 du 12e programme de l'agence de l'eau Rhône Méditerranée Corse (délibération 2024-59). Quand l'économie d'eau possible est inférieure à 2 000 m3 par an et par site, ce qui devrait être le cas de la plupart des laboratoires artisanaux (estimation, la source ne le dit pas), l'agence n'aide pas l'entreprise seule : elle passe par une opération groupée, portée à l'échelle d'une branche ou d'une filière par une fédération, un syndicat professionnel, une chambre consulaire ou une association. Le porteur anime l'opération, réalise ou suit les diagnostics sur site, conseille les entreprises et les accompagne dans le dépôt de leur demande d'aide. Les entreprises volontaires sont ensuite aidées pour leurs travaux d'économie d'eau : réduction des fuites sur les réseaux, technologies économes (changement de process, recyclage, modernisation des équipements, dispositifs hydro-économes), réutilisation de l'eau sur le site et récupération des eaux pluviales. La fiche couvre aussi la réduction des micropolluants dispersés, mais pas celle des macropolluants (matières en suspension, DCO, DBO5, COT, azote, phosphore, chlorures).",
+  "eligibilite": "Entreprises non agricoles situées sur les bassins Rhône-Méditerranée et de Corse, accompagnées dans une opération groupée sectorielle retenue par l'agence. Un artisan ne dépose pas seul : il faut que son métier et son territoire soient couverts par une opération en cours, portée par sa chambre de métiers, une fédération ou une association.",
+  "categories": [
+    "ameliorer_efficacite_hydrique",
+    "valoriser_reut_eaux_non_conventionnelles"
+  ],
+  "secteurs": [
+    "artisanat_alimentaire"
+  ],
+  "departements": [],
+  "agences": [
+    "AERMC"
+  ],
+  "mesures": [
+    "ACT_ART_003",
+    "ACT_ART_004",
+    "ACT_AGR_006"
+  ],
+  "infos_complementaires": [
+    {
+      "type": "avertissement",
+      "texte": "Les projets déjà engagés sont exclus, et la demande d'aide doit être transmise à l'agence avant l'engagement des travaux, faute de quoi elle est rejetée. Ne commandez rien avant que le porteur de l'opération vous ait accompagné dans le dépôt de votre demande."
+    },
+    {
+      "type": "avertissement",
+      "texte": "Ne sont pas aidés : la pose de compteurs et de vannes de sectorisation, les outils fixes de détection de fuite et les outils de pilotage ou de télégestion installés seuls, le renouvellement à l'identique, la réduction des macropolluants (matières en suspension, DCO, DBO5, COT, azote, phosphore, chlorures), les projets liés à une création ou à un accroissement d'activité, et, pour les activités artisanales, les travaux qui ont reçu un avis négatif du centre de référence du métier. Les graisses relevant de la pollution organique, un séparateur à graisses n'entre pas, selon notre lecture, dans ce dispositif."
+    },
+    {
+      "type": "avertissement",
+      "texte": "Le coût prévisionnel du projet présenté dans la demande d'aide doit dépasser 5 000 € pour les actions des opérations groupées sectorielles. Un petit achat isolé, quelques mousseurs par exemple, n'atteint pas ce seuil : regroupez vos travaux d'économie d'eau dans un même projet."
+    },
+    {
+      "type": "info",
+      "texte": "L'agence peut ne retenir qu'une partie des dépenses d'un projet qui présente un double enjeu, économique et environnemental, ou dont les coûts liés à la protection de l'environnement ne sont pas individualisables. Cela peut concerner le remplacement d'un équipement de froid refroidi à eau perdue, qui sert aussi la production : seule une partie de la dépense serait alors retenue."
+    },
+    {
+      "type": "info",
+      "texte": "Situation au 15 octobre 2026 : l'appel à manifestation d'intérêt de 2025 est clos. Ses 19 lauréats ont été publiés en mars 2026, parmi lesquels la chambre de métiers et de l'artisanat Auvergne-Rhône-Alpes et la CCI Auvergne-Rhône-Alpes (sobriété en eau, multisectoriel), la CCI Bourgogne-Franche-Comté (secteurs dont l'agroalimentaire et le tourisme), un groupement CCI, CMA et AREA en Occitanie (sobriété en eau, agroalimentaire), ces quatre opérations étant limitées à la partie de leur région située sur le bassin Rhône-Méditerranée, et un groupement CCI et CRITT agroalimentaire en Provence-Alpes-Côte d'Azur (sobriété en eau, agroalimentaire). Les demandes d'aide pour les travaux se déposent sur le portail de l'agence jusqu'au 31 décembre 2028. Le règlement annonce d'autres appels courant 2026 ou 2027, en fonction de la dynamique des deux premières vagues. Demandez à votre chambre de métiers si votre métier entre dans son opération."
+    },
+    {
+      "type": "info",
+      "texte": "Au-delà de 2 000 m3 d'économie d'eau par an sur un site, l'agence accompagne l'entreprise de manière individuelle, hors opération groupée."
+    },
+    {
+      "type": "info",
+      "texte": "L'aide est accordée en priorité au titre du règlement de minimis, avec des taux maximum de 70 % des travaux pour une petite ou moyenne entreprise et de 40 % pour une grande. Si votre plafond de minimis est déjà atteint, elle passe par le régime d'aides à la protection de l'environnement, à un taux maximum de 40 à 60 % selon la taille. Le règlement précise qu'en cas de renouvellement le taux est divisé par deux : la phrase figure dans la case du régime exempté, et rien ne dit si elle vaut aussi en de minimis. Faites-le préciser par le porteur de l'opération."
+    },
+    {
+      "type": "ressource",
+      "texte": "Conditions générales d'attribution et de versement des aides du 12e programme (délibération 2024-77)",
+      "lien": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-02/conditions-generales.pdf"
+    },
+    {
+      "type": "ressource",
+      "texte": "Fiche aide IND2, opérations groupées sectorielles (délibération 2024-59)",
+      "lien": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/ind2-operations-sectorielles.pdf"
+    },
+    {
+      "type": "ressource",
+      "texte": "Bilan de l'appel à manifestation d'intérêt sur le site de l'agence",
+      "lien": "https://www.eaurmc.fr/jcms/pro_131706/fr/bilan-de-l-ami-operations-groupees-sectorielles-reduction-des-emissions-dispersees-de-micropolluants-et/ou-realisation-d-economies-d-eau"
+    },
+    {
+      "type": "ressource",
+      "texte": "Liste des lauréats (mars 2026)",
+      "lien": "https://www.eaurmc.fr/upload/docs/application/pdf/2026-03/liste_des_laureats_ami_sectoriel.pdf"
+    },
+    {
+      "type": "ressource",
+      "texte": "Règlement de l'appel à manifestation d'intérêt (modifié le 7 novembre 2025)",
+      "lien": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-06/reglement_ami_operations_sectorielles.pdf"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "nom, description",
+      "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/ind2-operations-sectorielles.pdf",
+      "date": "2026-10-15",
+      "extrait": "Version 1 adoptée par le conseil d'administration du 19 décembre 2024. Délibération 2024-59. IND2 - Opérations groupées sectorielles. TYPE D'ACTIONS : Réductions des émissions dispersées de micropolluants, à l'échelle d'une branche ou d'une filière professionnelle. Économies d'eau, à l'échelle d'une branche ou d'une filière professionnelle."
+    },
+    {
+      "champ": "taux",
+      "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/ind2-operations-sectorielles.pdf",
+      "date": "2026-10-15",
+      "extrait": "Dans le cadre d'appel(s) à projets [...] Travaux visant à réduire les émissions dispersées de micropolluants et/ou les consommations d'eau, à l'échelle d'une branche ou d'une filière professionnelle : 40 à 70%* [...] *Selon la taille de l'entreprise"
+    },
+    {
+      "champ": "taux, infos_complementaires (de minimis, régime exempté, renouvellement)",
+      "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-06/reglement_ami_operations_sectorielles.pdf",
+      "date": "2026-10-15",
+      "extrait": "Les taux d'aide maximum sont les suivants : [...] Elles sont accordées prioritairement au titre du règlement de minimis. Si ce n'est pas possible (plafond des aides de minimis déjà atteint par l'entreprise par exemple), l'aide sera attribuée au titre du régime cadre exempté de notification n°SA.111726 [...] Travaux aidés au titre du règlement de minimis : 40% pour les grandes entreprises, 70% pour les petites et moyennes entreprises. Travaux aidés au titre du régime exempté : 40 % à 60% en fonction de la taille de l'entreprise. En cas de renouvellement, le taux d'aide est divisé par deux."
+    },
+    {
+      "champ": "plafond (1 M€ par opération, complément possible pendant 3 ans)",
+      "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-06/reglement_ami_operations_sectorielles.pdf",
+      "date": "2026-10-15",
+      "extrait": "Chaque opération est accompagnée dans les limites suivantes : un financement de missions d'animation correspondant à 2 ETP par an maximum ; un financement des investissements jusqu'à concurrence d'1 M€ d'aide au total (montant d'aide pouvant être complété au cours des 3 ans de l'opération, sous réserve de disponibilité financière [...])."
+    },
+    {
+      "champ": "description, eligibilite, infos_complementaires (seuil de 2 000 m3, porteurs)",
+      "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-06/reglement_ami_operations_sectorielles.pdf",
+      "date": "2026-10-15",
+      "extrait": "Lorsque [...] l'économie d'eau potentielle est supérieure à 2000 m3/an sur un site donné, l'agence accompagne les maitres d'ouvrage de manière individuelle. Lorsque [...] l'économie d'eau potentielle est inférieure à 2000 m3/an par site, l'agence accompagne les projets sous forme d'opérations groupées [...] en ciblant prioritairement les petites et moyennes entreprises industrielles et artisanales. [...] les fédérations et syndicats de professionnels ; les chambres consulaires ; les associations..."
+    },
+    {
+      "champ": "eligibilite, description (bénéficiaires, territoire, animation)",
+      "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/ind2-operations-sectorielles.pdf",
+      "date": "2026-10-15",
+      "extrait": "BÉNÉFICIAIRES ÉLIGIBLES [...] Pour les travaux : acteurs économiques non agricoles (industries, sociétés, entreprises...). TERRITOIRES ÉLIGIBLES : Tous les territoires des bassins Rhône-Méditerranée et de Corse. [...] Animation par la structure porteuse de l'opération groupée sectorielle et par les partenaires associés. Cela inclut les missions nécessaires pour réaliser ou suivre des études (état des lieux, diagnostics sur site...), pour conseiller les entreprises et les accompagner dans le dépôt de leur demande d'aide."
+    },
+    {
+      "champ": "description, mesures (ACT_ART_003 : dispositifs hydro-économes ; ACT_ART_004 : changement de process, recyclage, modernisation des équipements ; ACT_AGR_006 : récupération des eaux pluviales)",
+      "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/ind2-operations-sectorielles.pdf",
+      "date": "2026-10-15",
+      "extrait": "Travaux d'économies d'eau : Actions de réduction des pertes en eau : réduction des fuites sur les réseaux, gestion de la pression. Mise en œuvre de technologies économes en eau : changement de process, recyclage, régulation, modernisation des réseaux et des équipements, dispositifs de pilotage, télégestion et sectorisation incluant des dispositifs hydro-économes et des compteurs. Mise en œuvre de technologie pour traiter l'eau usée pour une réutilisation, recyclage, réemploi sur le site industriel en lien avec des économies d'eau. Dispositifs de récupération des eaux pluviales."
+    },
+    {
+      "champ": "infos_complementaires (dépenses non éligibles)",
+      "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/ind2-operations-sectorielles.pdf",
+      "date": "2026-10-15",
+      "extrait": "ACTIONS ET DÉPENSES NON ÉLIGIBLES [...] Pose de compteurs et vannes de sectorisation, outils fixes de détection de fuite, outils de pilotage/télégestion seuls. Projets en lien avec des pollutions nouvelles (création ou accroissement d'activité). [...] Renouvellement à l'identique. [...] Pour les activités artisanales, les travaux ayant fait l'objet d'un avis négatif du ou des centres de référence du secteur d'activité concerné."
+    },
+    {
+      "champ": "description, infos_complementaires (macropolluants, projets engagés)",
+      "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-06/reglement_ami_operations_sectorielles.pdf",
+      "date": "2026-10-15",
+      "extrait": "La réduction des macropolluants (MES, DCO, DBO5, COT, azote, phosphore, chlorures...) et la réduction des pollutions de l'air et des sols n'entrent pas dans le champ de l'appel à manifestation d'intérêt. [...] Sont exclus de l'appel à manifestation d'intérêt : les projets déjà engagés ; les projets qui concernent des bâtiments neufs ou en lien avec des activités nouvelles (création ou accroissement d'activité) ; les projets de réduction des rejets de macropolluants ; [...] le renouvellement à l'identique"
+    },
+    {
+      "champ": "infos_complementaires (calendrier, dépôt des demandes de travaux, futurs AMI)",
+      "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-06/reglement_ami_operations_sectorielles.pdf",
+      "date": "2026-10-15",
+      "extrait": "l'appel à manifestation d'intérêt comporte deux vagues de sélection en 2025. De plus, d'autre(s) appel(s) à manifestation d'intérêt seront engagés par l'agence courant 2026 ou 2027 en fonction de la dynamique des deux premières vagues. [...] Date limite de dépôt de la lettre d'intention : 5 septembre 2025 / 5 novembre 2025 [...] Dépôt des demandes d'aides de travaux sur le portail de l'agence : Jusqu'au 31 décembre 2028"
+    },
+    {
+      "champ": "infos_complementaires (statut 2026 : AMI clos, 19 lauréats)",
+      "url": "https://www.eaurmc.fr/jcms/pro_131706/fr/bilan-de-l-ami-operations-groupees-sectorielles-reduction-des-emissions-dispersees-de-micropolluants-et/ou-realisation-d-economies-d-eau",
+      "date": "2026-10-15",
+      "extrait": "Bilan de l'AMI \"Opérations groupées sectorielles [...]\" L'appel à manifestation d'intérêt de l'agence de l'eau était doté d'une enveloppe de 20 M€. [...] 19 lauréats vont pouvoir bénéficier des aides de l'agence de l'eau. [...] 2 opérations en Bourgogne-Franche-Comté, 3 en Auvergne-Rhône-Alpes, 4 en Provence-Alpes-Côte d'Azur, 4 en Occitanie et 6 à une échelle supra-régionale. [...] Pour les entreprises : les travaux liés à la réduction des micropolluants et les travaux liés à la sobriété en eau : jusqu'à 40% pour les grandes entreprises et jusqu'à 70% pour les petites et moyennes entreprises."
+    },
+    {
+      "champ": "infos_complementaires (lauréats CMA, CCI et groupements agroalimentaires)",
+      "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2026-03/liste_des_laureats_ami_sectoriel.pdf",
+      "date": "2026-10-15",
+      "extrait": "mars 2026. Appel à manifestation d'intérêt : opérations groupées sectorielles. Lauréats. [...] Chambre de métiers et de l'artisanat (CMA) AURA, AURA*, Sobriété en eau, Multisectoriel. Chambre de commerce et d'industrie (CCI) AURA, AURA*, Sobriété en eau, Réduction des micropolluants dispersés, Multisectoriel. [...] Chambre de commerce et d'industrie (CCI) BFC, BFC*, Sobriété en eau, Réduction des micropolluants dispersés, Traitement de surface, horlogerie, mécanique industrielle, Agroalimentaire, Tourisme. [...] Réseau des chambres de commerce et d'industrie (CCI) PACA / Centre régional d'innovation et de transfert de technologies agroalimentaires (CRITT agroalimentaire) PACA, PACA, Sobriété en eau, Agroalimentaire. [...] Chambre de commerce et d'industrie (CCI) Occitanie / Chambre de métiers et de l'artisanat (CMA) Occitanie / Association régionale des entreprises alimentaires (AREA) Occitanie, Occitanie*, Sobriété en eau, Agroalimentaire. [...] *limité à la partie de la région située sur le bassin Rhône Méditerranée"
+    },
+    {
+      "champ": "type, infos_complementaires (dépôt avant engagement)",
+      "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-02/conditions-generales.pdf",
+      "date": "2026-10-15",
+      "extrait": "Délibération 2024-77. Conditions générales d'attribution et de versement des aides. [...] Une demande d'aide doit être formellement transmise à l'agence avant l'engagement du projet considéré. Le non-respect de cette disposition entraîne le rejet de la demande d'aide, sauf dans les cas suivants : accord écrit préalable de l'agence pour engager les travaux avant le dépôt formel de la demande ; [...]"
+    },
+    {
+      "champ": "infos_complementaires (plancher de 5 000 €)",
+      "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-02/conditions-generales.pdf",
+      "date": "2026-10-15",
+      "extrait": "Montant minimum du projet. Le coût prévisionnel du projet présenté dans la demande d'aide doit être supérieur à 10 000 €. Dans les cas suivants, le coût prévisionnel minimal est limité à 5 000 € : [...] actions des opérations groupées sectorielles ;"
+    },
+    {
+      "champ": "infos_complementaires (prise en compte partielle, ACT_ART_004)",
+      "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-06/reglement_ami_operations_sectorielles.pdf",
+      "date": "2026-10-15",
+      "extrait": "L'agence se réserve le droit de ne retenir qu'une partie des dépenses de l'opération proposée dans les cas suivants : projet présentant un double enjeu (économique et environnemental, sanitaire et environnemental...) ; projet dont les coûts liés à la protection de l'environnement ne sont pas individualisables."
+    },
+    {
+      "champ": "taux (taux maximum, fixés par opération en phase 2)",
+      "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-06/reglement_ami_operations_sectorielles.pdf",
+      "date": "2026-10-15",
+      "extrait": "À l'issue du jury de sélection débute une phase 2 de rencontre et d'échanges entre le porteur du projet sélectionné et l'agence de l'eau. Cette phase permet d'affiner le projet, de définir précisément les modalités d'aide (actions retenues, taux d'aide et organisation administrative)."
+    },
+    {
+      "champ": "logo_url",
+      "url": "https://www.eaurmc.fr/upload/docs/image/png/2023-10/logo_ae_aout2020_web.png",
+      "date": "2026-10-15",
+      "extrait": "Logo de l'agence de l'eau Rhône Méditerranée Corse, page d'accueil de eaurmc.fr"
+    }
+  ],
+  "date_maj": "2026-10-15"
+}

@@ -1,0 +1,72 @@
+{
+  "id": "PREST_GCU_002",
+  "nom": "Sencrop",
+  "type": "solution_numerique",
+  "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792084174/Noe%20assets/logos/PREST_GCU_002.png",
+  "siret": "81779128800050",
+  "description": "Entreprise française de l'agritech, filiale du groupe Isagri, qui fournit aux agriculteurs des stations météo connectées et l'application qui en restitue les données à la parcelle. Pour l'irrigation, elle propose la sonde capacitive Soilcrop (quatre capteurs de 10 à 60 cm), qui suit l'humidité du sol et peut vous alerter quand elle devient trop faible, et le pyranomètre Solarcrop, qui calcule l'évapotranspiration et le bilan hydrique de la culture à partir des données météo des parcelles. L'application s'utilise par abonnement, avec ou sans achat de station, et la coopérative agricole du Sud-Ouest Lur Berri l'a retenue en 2025 pour ses agriculteurs.",
+  "expertises": [
+    "Stations météo connectées",
+    "Sonde d'humidité du sol",
+    "Bilan hydrique à la parcelle",
+    "Alerte d'humidité du sol"
+  ],
+  "categories": [
+    "suivre_comprendre_maitriser"
+  ],
+  "secteurs": ["grandes_cultures"],
+  "departements": [],
+  "mesures": [
+    { "id": "ACT_GCU_001", "roles": ["materiel"] }
+  ],
+  "contacts": [
+    { "type": "site_internet", "value": "https://www.sencrop.com/fr" },
+    { "type": "adresse", "value": "Avenue des Censives, 60000 Tillé" }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Sencrop&departement=60",
+      "date": "2026-10-15",
+      "extrait": "SENCROP, siret 81779128800050, siège, AVENUE DES CENSIVES 60000 TILLE, etat_administratif A"
+    },
+    {
+      "champ": "description, departements, secteurs, mesures",
+      "url": "https://www.lurberri.fr/wp-content/uploads/2025/05/communique-de-presse-lur-berri-sencrop-20-mai-2025.pdf",
+      "date": "2026-10-15",
+      "extrait": "SOLARCROP : un capteur qui mesure le rayonnement solaire et permet [...] de calculer en temps réel l'évapotranspiration et de générer de manière automatique le bilan hydrique de la culture. SOILCROP : une sonde de sol capacitive [...] grâce à ses 4 capteurs à des profondeurs allant de 10 à 60 cm, permettant ainsi de déclencher les irrigations au bon moment. [...] Lur Berri est une coopérative agricole rayonnant sur le quart Sud-Ouest de la France. [...] Sencrop, nouvelle filiale d'ISAGRI au sein de Groupe ISAGRI [...] plus de 40 000 stations météo actives et une communauté de 30 000 agriculteurs et 600 groupements d'utilisateurs dans 35 pays"
+    },
+    {
+      "champ": "description, expertises, mesures",
+      "url": "https://faq.sencrop.com/fr/articles/9271339-soilcrop-comment-calibrer-mes-seuils",
+      "date": "2026-10-15",
+      "extrait": "Pour contrôler l'irrigation, les données des 4 capteurs de votre sonde Soilcrop sont moyennées sur une profondeur spécifique en fonction de l'exploration racinaire. Si vous activez l'alerte, vous serez averti lorsque le capteur détecte que le niveau d'humidité est trop faible pour que la plante soit dans sa zone de confort hydrique"
+    },
+    {
+      "champ": "description, expertises, mesures",
+      "url": "https://faq.sencrop.com/fr/articles/6135860-comment-acceder-a-l-irrigation",
+      "date": "2026-10-15",
+      "extrait": "Pour vous aider à mieux piloter votre irrigation et à observer l'état de réserve en eau de vos cultures, vous pouvez accéder à la section Irrigation de votre application. Vous devez pour cela disposer d'une station Solarcrop, le pyranomètre créé par Sencrop."
+    },
+    {
+      "champ": "description",
+      "url": "https://faq.sencrop.com/fr/articles/8116967-est-il-possible-d-utiliser-sencrop-sans-acheter-de-station",
+      "date": "2026-10-15",
+      "extrait": "Vous pouvez tout à fait utiliser l'application Sencrop sans acheter votre propre station. [...] Nous proposons trois types de plans adaptés à vos besoins en matière de météo ou d'agriculture. Vous pouvez vous abonner via l'application ou via le bouton ci-dessous."
+    },
+    {
+      "champ": "description, expertises",
+      "url": "https://faq.sencrop.com/fr/articles/3206623-je-n-ai-pas-de-station-comment-en-acheter-une",
+      "date": "2026-10-15",
+      "extrait": "Nous proposons une gamme de 4 stations météorologiques professionnelles connectées."
+    },
+    {
+      "champ": "logo_url",
+      "url": "https://www.sencrop.com/_next/static/media/sencrop-icon.247f7bba.png",
+      "date": "2026-10-15",
+      "extrait": "Icône du site (favicon 192 x 192), symbole vert de Sencrop"
+    }
+  ],
+  "date_maj": "2026-10-15"
+}

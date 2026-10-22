@@ -1,0 +1,106 @@
+{
+  "id": "PREST_GCU_006",
+  "nom": "France Pivots",
+  "type": "equipementier",
+  "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792084192/Noe%20assets/logos/PREST_GCU_006.png",
+  "siret": "39506690500013",
+  "description": "Fabricant de pivots d'irrigation créé en 1992 à Sabres (Landes), racheté en octobre 2025 par le groupe Irrifrance. Il conçoit et fabrique dans son usine de Sabres des pivots fonctionnant en basse pression, les installe avec la station de pompage et l'armoire électrique, puis en assure l'entretien et le dépannage pendant la saison d'irrigation (engagement d'intervention sous 24 heures, tubes de réparation fabriqués pour toutes les marques de pivot). Il intervient dans toute la France, en direct par téléphone ou par le formulaire de contact du site.",
+  "expertises": [
+    "Pivots d'irrigation basse pression",
+    "Stations de pompage",
+    "Dépannage en saison d'irrigation",
+    "Tubes de réparation multimarque"
+  ],
+  "categories": [
+    "ameliorer_efficacite_hydrique"
+  ],
+  "secteurs": [
+    "grandes_cultures"
+  ],
+  "departements": [],
+  "mesures": [
+    {
+      "id": "ACT_GCU_003",
+      "roles": [
+        "materiel",
+        "travaux"
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "type": "site_internet",
+      "value": "https://france-pivots.com/"
+    },
+    {
+      "type": "tel",
+      "value": "05 58 07 50 82"
+    },
+    {
+      "type": "mail",
+      "value": "contact@france-pivots.com"
+    },
+    {
+      "type": "adresse",
+      "value": "310 route de Mont-de-Marsan, 40630 Sabres"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=France%20Pivots&departement=40",
+      "date": "2026-10-15",
+      "extrait": "FRANCE PIVOTS, siret 39506690500013, siège, ROUTE DE MONT DE MARSAN 40630 SABRES, activité 01.61Z, état A"
+    },
+    {
+      "champ": "contacts",
+      "url": "https://france-pivots.com/contact/",
+      "date": "2026-10-15",
+      "extrait": "310, Route de Mont de Marsan, 40630 Sabres. 05 58 07 50 82. contact@france-pivots.com"
+    },
+    {
+      "champ": "type, description, departements",
+      "url": "https://france-pivots.com/a-propos/entreprise/",
+      "date": "2026-10-15",
+      "extrait": "Depuis 1992, date de création de l'entreprise, nous intervenons sur l'ensemble du territoire français. Notre matériel est mis au point et fabriqué à Sabres, dans notre usine. Nos équipes assurent la conception, la fabrication, l'installation et l'entretien du matériel."
+    },
+    {
+      "champ": "description, expertises, mesures (ACT_GCU_003)",
+      "url": "https://france-pivots.com/pivots-irrigation/",
+      "date": "2026-10-15",
+      "extrait": "cette installation consomme à la fois peu d'énergie (grâce à l'utilisation de basse pression) et est économe en eau (environ 20% de moins qu'un enrouleur)"
+    },
+    {
+      "champ": "description, expertises",
+      "url": "https://france-pivots.com/",
+      "date": "2026-10-15",
+      "extrait": "France Pivots réalise sur-mesure la fabrication et l'installation de tous types de pivots d'irrigation agricole et de stations de pompage"
+    },
+    {
+      "champ": "description, expertises",
+      "url": "https://france-pivots.com/services/depannage/",
+      "date": "2026-10-15",
+      "extrait": "Nous nous engageons à dépanner nos clients en moins de 24 heures sur le matériel suivant : Pivots de la marque France-Pivots, Armoires électriques, Pompes de toutes marques. 3 électriciens sont à votre disposition pendant la période d'irrigation."
+    },
+    {
+      "champ": "expertises, secteurs",
+      "url": "https://france-pivots.com/services/tubes-pivots/",
+      "date": "2026-10-15",
+      "extrait": "France-Pivots fait du multimarque et est capable de remplacer n'importe quelle marque pivots. Exemples : Pour le maïs, le sol est complètement plat et ne présente pas spécialement de risque"
+    },
+    {
+      "champ": "description (rachat par Irrifrance)",
+      "url": "https://www.unigrains.fr/en/news/irrifrance-groupe-finalise-lacquisition-de-france-pivots-avec-le-soutien-dunigrains",
+      "date": "2026-10-15",
+      "extrait": "Paris, October 8th, 2025. IRRIFRANCE Groupe [...] has acquired France Pivots, a manufacturer and installer of agricultural pivot systems, from Groupe Chagneau."
+    },
+    {
+      "champ": "logo_url",
+      "url": "https://france-pivots.com/wp-content/uploads/fbrfg/apple-touch-icon.png?v=zXb48Rvoa5",
+      "date": "2026-10-15",
+      "extrait": "apple-touch-icon 60 x 60 du site france-pivots.com (goutte et épi)"
+    }
+  ],
+  "date_maj": "2026-10-15"
+}

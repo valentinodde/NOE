@@ -1,0 +1,74 @@
+{
+  "id": "PREST_GCU_016",
+  "nom": "Arbre et Paysage 32",
+  "type": "association",
+  "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792084292/Noe%20assets/logos/PREST_GCU_016.png",
+  "siret": "39860589900044",
+  "description": "Association gersoise de conseil et de formation dédiée à l'arbre, à la haie champêtre et à l'agroforesterie, créée en 1990 à l'initiative d'agriculteurs. Pour une plantation de haie, son conseiller technique vient sur la parcelle choisir l'emplacement, le type de haie (jusqu'au grand brise-vent) et les essences, fournit des plants d'origine locale et le paillage biocompostable, aide à le dérouler à la dérouleuse mécanique et revient l'année suivante. C'est l'agriculteur qui prépare le sol et plante : il adhère pour 90 euros sur trois ans, et le coût de base de 8,70 euros HT par mètre linéaire est abaissé par les financeurs du programme régional de plantation.",
+  "expertises": [
+    "Visite-conseil plantation de haies",
+    "Fourniture de plants locaux",
+    "Pose de paillage biocompostable",
+    "Formation agroforesterie en grandes cultures"
+  ],
+  "categories": [
+    "agir_grand_cycle"
+  ],
+  "secteurs": ["grandes_cultures"],
+  "departements": ["32"],
+  "mesures": [
+    { "id": "ACT_GCU_010", "roles": ["conseil_etude", "materiel", "formation"] }
+  ],
+  "contacts": [
+    { "type": "site_internet", "value": "https://ap32.fr/" },
+    { "type": "tel", "value": "05 62 60 12 69" },
+    { "type": "mail", "value": "contact@ap32.fr" },
+    { "type": "adresse", "value": "771 route de Pessan, 32000 Auch" }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Arbre%20et%20Paysage%2032&departement=32",
+      "date": "2026-10-15",
+      "extrait": "ASSOCIATION ARBRE ET PAYSAGE 32, siret 39860589900044, siège, 771 ROUTE DE PESSAN 32000 AUCH, nature juridique 9220, état administratif A"
+    },
+    {
+      "champ": "contacts",
+      "url": "https://ap32.fr/contact/",
+      "date": "2026-10-15",
+      "extrait": "Par téléphone 05 62 60 12 69 [...] 771 route de Pessan 32000 Auch"
+    },
+    {
+      "champ": "contacts, departements, description",
+      "url": "https://ap32.fr/wp-content/uploads/2026/07/2026.27-DOC-PLANTEUR-VF-ok.pdf",
+      "date": "2026-10-15",
+      "extrait": "TARIFS - PROJETS DE HAIES RÉALISÉS DANS LE GERS [...] Créée en 1990 à l'initiative d'agriculteurs, l'association a permis la plantation de plus d'un million d'arbres et arbustes champêtres dans le département du Gers [...] tél. 05 62 60 12 69 contact@ap32.fr [...] haie basse, alignement sur haie basse, haie moyenne, haie ondulée, grand brise-vent"
+    },
+    {
+      "champ": "description, expertises, mesures, departements",
+      "url": "https://ap32.fr/plantation/",
+      "date": "2026-10-15",
+      "extrait": "Notre accompagnement à la plantation commence avec une 1ère rencontre avec le conseiller technique de votre secteur, sur le site à aménager [...] Le forfait comprend : une visite-conseil personnalisée (sous réserve de versement de 3 ans d'adhésion), la fourniture des plants d'origine locale et du paillage biodégradable, l'aide au déroulage du film de paillage [...] Restent à votre charge : les travaux de préparation du sol [...] les travaux de plantation, l'entretien régulier"
+    },
+    {
+      "champ": "description, mesures",
+      "url": "https://ap32.fr/plantation/",
+      "date": "2026-10-15",
+      "extrait": "Votre conseiller technique vient vous aider à le poser avec une dérouleuse mécanique [...] C'est vous qui plantez [...] une visite-conseil l'année consécutive à la plantation et des sessions collectives de formation à la taille et à l'entretien de la haie les 2 années suivantes [...] pour la somme de 90 € (3 x 30 € / an) [...] les participations financières de la Région Occitanie, du Département du Gers, de l'Agence de l'eau Adour Garonne [...] permettent d'abaisser ce coût, initialement fixé à 8,70€ HT par mètre linéaire"
+    },
+    {
+      "champ": "description, expertises, mesures",
+      "url": "https://ap32.fr/",
+      "date": "2026-10-15",
+      "extrait": "Association de conseil et de formation dédiée à l'arbre, à la haie champêtre, et à l'agroforesterie [...] « L'arbre dans mon exploitation [...] L'agroforesterie en grandes cultures » Face aux sécheresses, tempêtes et coulées de boue de plus en plus fréquentes, l'arbre peut devenir un allié pour sécuriser et pérenniser les productions [...] La formation s'adresse aux agricultrices, agriculteurs et porteurs de projets, elle peut être financée à 100% par Vivea."
+    },
+    {
+      "champ": "logo_url",
+      "url": "https://ap32.fr/wp-content/uploads/2023/02/cropped-Logo-AP32-300x300.png",
+      "date": "2026-10-15",
+      "extrait": "apple-touch-icon du site ap32.fr (logo carré en couleur, arbres et champ dans un cercle, nom de l'association dessous)"
+    }
+  ],
+  "date_maj": "2026-10-15"
+}

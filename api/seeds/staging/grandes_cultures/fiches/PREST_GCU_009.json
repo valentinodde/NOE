@@ -1,0 +1,70 @@
+{
+  "id": "PREST_GCU_009",
+  "nom": "Lucile Pérès, Conseil Agricole Indépendant",
+  "type": "bureau_etudes",
+  "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792084155/Noe%20assets/logos/PREST_GCU_009.png",
+  "siret": "89092656100014",
+  "description": "Conseillère agricole indépendante installée à Vic-Fezensac (Gers), qui ne vend que du conseil, sans vente d'intrants, en agriculture conventionnelle comme biologique. Son suivi annuel couvre la stratégie d'exploitation (choix de l'assolement et des couverts végétaux), des tours de parcelles avec analyse de sol, un accompagnement sur la plantation et l'entretien de haies, ainsi que le conseil stratégique phytosanitaire et la certification HVE. Au moins quatre visites par an sur l'exploitation et une permanence hebdomadaire à Vic-Fezensac, tarif sur devis selon la taille de l'exploitation.",
+  "expertises": [
+    "Choix de l'assolement",
+    "Choix des couverts végétaux",
+    "Analyse de sol",
+    "Plantation de haies"
+  ],
+  "categories": [
+    "changer_process_pratiques",
+    "agir_grand_cycle"
+  ],
+  "secteurs": ["grandes_cultures"],
+  "departements": ["09", "11", "12", "30", "31", "32", "34", "46", "48", "65", "66", "81", "82"],
+  "mesures": [
+    { "id": "ACT_GCU_005", "roles": ["conseil_etude"] },
+    { "id": "ACT_GCU_007", "roles": ["conseil_etude"] },
+    { "id": "ACT_GCU_010", "roles": ["conseil_etude"] }
+  ],
+  "contacts": [
+    { "type": "site_internet", "value": "https://www.lucileperes.fr/" },
+    { "type": "tel", "value": "06 77 89 60 18" },
+    { "type": "mail", "value": "lucile.peres.cai@gmail.com" }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "nom, contacts, description",
+      "url": "https://www.lucileperes.fr/",
+      "date": "2026-10-15",
+      "extrait": "Lucile Pérès - Conseil Agricole Indépendant. 06 77 89 60 18. lucile.peres.cai@gmail.com. Légalement, la séparation des activités de conseil et de vente me libère de tout conflit d'intérêt. Je ne vends que du conseil agricole. Je maîtrise les techniques de l'agriculture conventionnelle et biologique."
+    },
+    {
+      "champ": "expertises, mesures, description, departements",
+      "url": "https://www.lucileperes.fr/prestations-lucile-peres",
+      "date": "2026-10-15",
+      "extrait": "je mets mes connaissances au service des agriculteurs d'Occitanie de manière indépendante. La définition de la stratégie d'exploitation comprend le choix de l'assolement, l'optimisation des aides PAC et règlementation nitrates, ainsi que le choix des couverts végétaux. Ces tours servent à réaliser un suivi technique des cultures, un analyse de sol et un conseil spécifique à la culture. L'accompagnement innovant comprend le calcul et la vente des crédits carbone, la valorisation, l'entretien, la plantation de linéaires de haies, etc."
+    },
+    {
+      "champ": "description",
+      "url": "https://www.lucileperes.fr/prestations-lucile-peres",
+      "date": "2026-10-15",
+      "extrait": "Quatre visites par an minimum sur l'exploitation. Permanence une demi-journée par semaine à Vic-Fezensac. Conseil stratégique phytosanitaire (CSP), Accompagnement HVE, Accompagnement du Label Haies. le rendu et la tarification de la prestation pourront donc différer d'un agriculteur à un autre. Pour que nous réalisions un devis ensemble"
+    },
+    {
+      "champ": "mesures",
+      "url": "https://www.lucileperes.fr/demarche",
+      "date": "2026-10-15",
+      "extrait": "La réponse aux enjeux agronomiques, économiques, écologiques et règlementaires passera obligatoirement par la mise en place d'un système stockeur de carbone et donc de matière organique. Ainsi l'eau et les nutriments seront retenus"
+    },
+    {
+      "champ": "siret",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Lucile%20Peres&departement=32",
+      "date": "2026-10-15",
+      "extrait": "LUCILE PERES, siret 89092656100014, siège, 32190 VIC-FEZENSAC, activité 70.22Z, etat_administratif A"
+    },
+    {
+      "champ": "logo_url",
+      "url": "https://cdn.prod.website-files.com/5f9283adfd7c6d1df57ec6aa/5f9a96d14329ee46d1fa8f88_webclip.png",
+      "date": "2026-10-15",
+      "extrait": "apple-touch-icon du site www.lucileperes.fr, 256 x 256"
+    }
+  ],
+  "date_maj": "2026-10-15"
+}

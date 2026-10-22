@@ -1,0 +1,566 @@
+[
+  {
+    "id": "AIDE_BOI_001",
+    "nom": "Parcours de transition écologique des brasseries artisanales (CMA Grand Est et Région Grand Est)",
+    "financeur": "Chambre de Métiers et de l'Artisanat Grand Est et Région Grand Est (FEADER pour les projets de plus de 100 000 € et pour les projets de plus de 50 000 € non cohérents avec le diagnostic)",
+    "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792070076/Noe%20assets/logos/AIDE_BOI_001.png",
+    "type": "subvention",
+    "taux": "Diagnostic multiflux financé intégralement. Investissement : jusqu'à 40 % pour un projet de moins de 100 000 € de dépenses éligibles, 30 % au-delà (40 % si la bière est en agriculture biologique)",
+    "plafond": "40 000 € d'aide pour un projet de 5 000 à 100 000 € HT de dépenses éligibles, 700 000 € d'aide au-delà de 100 000 € HT",
+    "description": "Parcours d'accompagnement ouvert par appel à manifestation d'intérêt aux brasseries artisanales du Grand Est. La CMA Grand Est réalise un diagnostic multiflux (eau, énergie, déchets, matières premières et consommables) : entretien téléphonique, visite du process, collecte des factures et relevés, comparaison avec des brasseries similaires et préconisations hiérarchisées à court, moyen et long terme. Les investissements en matériels et équipements cohérents avec ce diagnostic peuvent ensuite recevoir une subvention de la Région. Côté eau, les équipements éligibles cités sont la mesure et le suivi des consommations, les cuves de refroidissement, le nettoyage en circuit fermé ou optimisé, les échangeurs à plaques et la récupération des eaux pluviales, ainsi que les équipements de froid et les équipements de valorisation et de transformation des drêches et autres coproduits.",
+    "eligibilite": "Entreprises artisanales immatriculées dans le Grand Est ayant une activité de production de bière (code d'activité « 11.05 ZZ » dans le règlement, c'est-à-dire la fabrication de bière, 11.05Z de la NAF), en société ou entreprise individuelle hors microentreprise, de moins de 20 salariés, avec au moins un exercice clos de 12 mois, produisant 150 à 10 000 hectolitres par an selon le règlement et n'appartenant pas à un groupe. Elles doivent être en situation régulière au regard des obligations fiscales, sociales et environnementales, ne pas être en difficulté au sens de l'Union européenne, pouvoir fournir 12 mois de données de consommation et avoir un projet d'amélioration sur l'un des quatre flux d'ici fin 2027.",
+    "categories": [
+      "suivre_comprendre_maitriser",
+      "changer_process_pratiques",
+      "ameliorer_efficacite_hydrique",
+      "valoriser_reut_eaux_non_conventionnelles",
+      "agir_rejets_qualite"
+    ],
+    "secteurs": [
+      "industrie_boissons"
+    ],
+    "departements": [
+      "08",
+      "10",
+      "51",
+      "52",
+      "54",
+      "55",
+      "57",
+      "67",
+      "68",
+      "88"
+    ],
+    "agences": [],
+    "mesures": [
+      "ACT_AGR_002",
+      "ACT_AGR_001",
+      "ACT_BOI_001",
+      "ACT_BOI_003",
+      "ACT_BOI_005",
+      "ACT_BOI_006",
+      "ACT_AGR_006",
+      "ACT_BOI_007"
+    ],
+    "infos_complementaires": [
+      {
+        "type": "avertissement",
+        "texte": "Seuls les investissements cohérents avec les préconisations du diagnostic multiflux bénéficient des conditions du parcours. Le renouvellement de matériel, le petit matériel à main non amortissable et les équipements de vente directe (bar, point de vente) ne sont pas éligibles, pas plus que le clos, le couvert, la dalle ou la construction de bâtiment."
+      },
+      {
+        "type": "avertissement",
+        "texte": "Un dossier de demande d'aide est à déposer auprès de la Région. À sa réception, l'autorisation d'engager le projet est donnée, mais elle ne vaut pas accord de l'aide."
+      },
+      {
+        "type": "avertissement",
+        "texte": "Volume de production : le règlement et la plaquette fixent un minimum de 150 hectolitres par an, alors que la page de présentation de la CMA annonce 200 hectolitres. Référez-vous au règlement (cahier des charges) et faites confirmer votre éligibilité par la CMA si vous produisez entre 150 et 200 hectolitres."
+      },
+      {
+        "type": "avertissement",
+        "texte": "Calendrier à vérifier : à la date du 15 octobre 2026, la dernière session annoncée ferme le 30 octobre 2026 et aucune session 2027 n'est publiée. Vérifiez sur la page de la CMA qu'un nouvel appel est ouvert avant de candidater."
+      },
+      {
+        "type": "info",
+        "texte": "Le cahier des charges prévoit aussi une aide pour un projet de plus de 50 000 € HT qui n'est pas cohérent avec le diagnostic : 20 % (30 % si la bière est en agriculture biologique), plafonnée à 80 000 €. Les taux sont des maximums et peuvent être réduits pour respecter les limites réglementaires."
+      },
+      {
+        "type": "info",
+        "texte": "Les matériels rétrofités ou d'occasion et les investissements en crédit-bail sont éligibles. Aucun investissement n'est obligatoire à l'issue du diagnostic."
+      },
+      {
+        "type": "info",
+        "texte": "Démarche : candidature par formulaire en ligne, vérification de l'éligibilité, puis prise de contact par la CMA Grand Est pour programmer l'entretien téléphonique. La brasserie autorise la transmission du rapport de diagnostic à la Région. En 2026, trois sessions de candidature : du 2 au 28 février, du 4 au 29 mai et du 5 au 30 octobre (annonce des sélectionnés le 6 novembre 2026). Contact indiqué par la CMA : conseillère environnement, mhoubre@cma-grandest.fr, 03 29 69 55 82."
+      },
+      {
+        "type": "info",
+        "texte": "Échéance du projet : le règlement demande un projet d'amélioration sur l'un des quatre flux d'ici fin 2027, alors que la page de présentation et la plaquette parlent de projets d'investissement à retombée environnementale dès 2027. Le règlement fait foi."
+      },
+      {
+        "type": "info",
+        "texte": "Coproduits et rejets : seuls les équipements de valorisation et de transformation des drêches et autres coproduits figurent dans les dépenses éligibles. Le prétraitement des eaux de lavage (bassin tampon, traitement avant rejet) n'est pas cité dans les sources du dispositif."
+      },
+      {
+        "type": "ressource",
+        "texte": "Page du dispositif sur le site de la CMA Grand Est",
+        "lien": "https://www.cma-alsace-moselle-grandest.fr/accompagnements/operation-brasseries-le-parcours-dedie-grandest"
+      },
+      {
+        "type": "ressource",
+        "texte": "Cahier des charges de l'appel à manifestation d'intérêt",
+        "lien": "https://www.cma-alsace-moselle-grandest.fr/sites/default/files/2026-02/AMI%20Brasseries_Cahier%20des%20charges_Version%20finale_20%2011%202025.pdf",
+        "lien_label": "Télécharger le cahier des charges"
+      },
+      {
+        "type": "ressource",
+        "texte": "Formulaire de candidature en ligne",
+        "lien": "https://forms.office.com/pages/responsepage.aspx?id=1PPhwaGPckaSQoPF1ezCETa41xJmathGvW-NNGtbrstUQUJYMzdPV0JURTFPWkRMUlA2VlZZTjEwVC4u&origin=lprLink&route=shorturl",
+        "lien_label": "Déposer une candidature"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "description, taux",
+        "url": "https://www.cma-alsace-moselle-grandest.fr/sites/default/files/2026-02/AMI%20Brasseries_Cahier%20des%20charges_Version%20finale_20%2011%202025.pdf",
+        "date": "2026-10-15",
+        "extrait": "Le diagnostic multi-flux réalisé par la CMA est intégralement financé dans le cadre de son Programme Régional de Développement Durable, soutenu par Climaxion, le FEDER, la DREAL et l'AERM."
+      },
+      {
+        "champ": "taux, plafond, financeur",
+        "url": "https://www.cma-alsace-moselle-grandest.fr/sites/default/files/2026-02/AMI%20Brasseries_Cahier%20des%20charges_Version%20finale_20%2011%202025.pdf",
+        "date": "2026-10-15",
+        "extrait": "Projet inférieur à 100 000 € de dépenses éligibles : Taux jusqu'à 40% maximum, Plafond de l'aide 40 000 €, Minimum de dépense éligible 5 000 € HT, Aide Région. Projet supérieur à 100 000 € : Taux 30% (40% si la bière est AB), Plafond de l'aide 700 000 €, Aide FEADER + Région"
+      },
+      {
+        "champ": "eligibilite, departements",
+        "url": "https://www.cma-alsace-moselle-grandest.fr/sites/default/files/2026-02/AMI%20Brasseries_Cahier%20des%20charges_Version%20finale_20%2011%202025.pdf",
+        "date": "2026-10-15",
+        "extrait": "entreprises artisanales immatriculées dans le Grand Est ayant une activité de production de bière (code d'activité 11.05 ZZ) [...] effectif inférieur à 20 salariés [...] Produire 150 à 10 000 hectolitres par an [...] Ne pas appartenir à un groupe."
+      },
+      {
+        "champ": "departements",
+        "url": "https://www.insee.fr/fr/metadonnees/geographie/region/44-grand-est",
+        "date": "2026-10-15",
+        "extrait": "Région Grand Est : Ardennes (08), Aube (10), Marne (51), Haute-Marne (52), Meurthe-et-Moselle (54), Meuse (55), Moselle (57), Bas-Rhin (67), Haut-Rhin (68), Vosges (88)"
+      },
+      {
+        "champ": "eligibilite, infos_complementaires",
+        "url": "https://www.cma-alsace-moselle-grandest.fr/sites/default/files/2026-02/Flyer%20Op%C3%A9ration%20Brasseries%20-%20F%20-%202026.pdf",
+        "date": "2026-10-15",
+        "extrait": "Être une société de moins de 20 salariés avec au minimum un exercice fiscal clos [...] Avoir des projets d'investissement à retombée environnementale dès 2027 [...] Produire entre 150 et 10000 hl par an"
+      },
+      {
+        "champ": "mesures, description",
+        "url": "https://www.cma-alsace-moselle-grandest.fr/sites/default/files/2026-02/AMI%20Brasseries_Cahier%20des%20charges_Version%20finale_20%2011%202025.pdf",
+        "date": "2026-10-15",
+        "extrait": "Eau : Mesure et de suivi de la consommation d'eau ; Equipements de gestion de l'eau (cuves de refroidissement, système de nettoyage en circuit fermé, système de nettoyage optimisé ; Echangeurs à plaques ; Eaux pluviales : récupération, infiltration [...] Equipements de valorisation et de transformation des drêches et autres coproduits [...] Equipement de froid"
+      },
+      {
+        "champ": "mesures",
+        "url": "https://www.cma-alsace-moselle-grandest.fr/sites/default/files/2026-02/AMI%20Brasseries_Cahier%20des%20charges_Version%20finale_20%2011%202025.pdf",
+        "date": "2026-10-15",
+        "extrait": "La réalisation d'un état des lieux des différents flux (eau, énergie, déchets, matières premières et consommables) [...] La comparaison des performances de la brasserie avec les moyennes de brasseries similaires [...] la tenue d'un tableau de bord"
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.cma-alsace-moselle-grandest.fr/sites/default/files/2026-02/AMI%20Brasseries_Cahier%20des%20charges_Version%20finale_20%2011%202025.pdf",
+        "date": "2026-10-15",
+        "extrait": "Un dossier de demande d'aide devra être déposé. A réception, l'autorisation d'engagement du projet sera donnée mais ne vaudra pas accord de l'aide. [...] Les investissements de renouvellement de matériel [...] non éligibles. [...] 3ème session : 5 au 30 octobre 2026 - Annonce des sélectionnés : 6 novembre 2026"
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.cma-alsace-moselle-grandest.fr/sites/default/files/2026-02/AMI%20Brasseries_Cahier%20des%20charges_Version%20finale_20%2011%202025.pdf",
+        "date": "2026-10-15",
+        "extrait": "Le projet n'est pas cohérent avec les préconisations du diagnostic multi-flux. Projet supérieur à 50 000 € de dépenses éligibles. Taux : 20% (30% si la bière est AB). Plafond de l'aide : 80 000 €"
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.cma-alsace-moselle-grandest.fr/accompagnements/operation-brasseries-le-parcours-dedie-grandest",
+        "date": "2026-10-15",
+        "extrait": "Déposez votre candidature en ligne. Ou contactez notre conseillère environnement : Manon Houbre, mhoubre@cma-grandest.fr, 03 29 69 55 82"
+      },
+      {
+        "champ": "logo_url",
+        "url": "https://www.cma-alsace-moselle-grandest.fr/sites/default/files/53qUhEZw_400x400_0.jpg",
+        "date": "2026-10-15",
+        "extrait": "Icône du site de la CMA Alsace-Moselle Grand Est (link rel=icon), 400 x 400 px"
+      },
+      {
+        "champ": "financeur",
+        "url": "https://www.cma-alsace-moselle-grandest.fr/sites/default/files/2026-02/AMI%20Brasseries_Cahier%20des%20charges_Version%20finale_20%2011%202025.pdf",
+        "date": "2026-10-15",
+        "extrait": "Le projet n'est pas cohérent avec les préconisations du diagnostic multi-flux. Projet supérieur à 50 000 € de dépenses éligibles [...] Aide : FEADER + Région"
+      },
+      {
+        "champ": "eligibilite",
+        "url": "https://www.cma-alsace-moselle-grandest.fr/sites/default/files/2026-02/AMI%20Brasseries_Cahier%20des%20charges_Version%20finale_20%2011%202025.pdf",
+        "date": "2026-10-15",
+        "extrait": "Être en situation régulière au regard des obligations fiscales, sociales et environnementales. Ne pas être en difficulté au sens de l'Union Européenne. Ne pas appartenir à un groupe. [...] Avoir le projet d'améliorer les performances de l'entreprise sur l'un des 4 flux d'ici fin 2027."
+      },
+      {
+        "champ": "eligibilite",
+        "url": "https://www.insee.fr/fr/metadonnees/nafr2/sousClasse/11.05Z",
+        "date": "2026-10-15",
+        "extrait": "Sous-classe 11.05Z : Fabrication de bière"
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.cma-alsace-moselle-grandest.fr/accompagnements/operation-brasseries-le-parcours-dedie-grandest",
+        "date": "2026-10-15",
+        "extrait": "Avoir des projets d'investissement à retombée environnementale dès 2027. Produire entre 200 et 10000 hl par an"
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.cma-alsace-moselle-grandest.fr/sites/default/files/2026-02/AMI%20Brasseries_Cahier%20des%20charges_Version%20finale_20%2011%202025.pdf",
+        "date": "2026-10-15",
+        "extrait": "Dépôt des candidatures : 3 sessions de candidature pour l'année 2026 [...] 3ème session : 5 au 30 octobre 2026"
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "AIDE_BOI_002",
+    "nom": "Booster transition écologique (programme régional Booster TPE, CCI Hauts-de-France)",
+    "financeur": "Région Hauts-de-France et FEDER, accompagnement réalisé par les CCI Hauts-de-France",
+    "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792070093/Noe%20assets/logos/AIDE_BOI_002.png",
+    "type": "accompagnement",
+    "taux": "100 % pris en charge pour les entreprises n'ayant pas bénéficié d'un accompagnement Booster en 2025. Reste à charge de 150 € HT (180 € TTC) pour celles qui en ont bénéficié gratuitement en 2025",
+    "plafond": "Accompagnement d'une valeur de 1 200 € HT",
+    "description": "Accompagnement des TPE par un conseiller de la CCI, en deux étapes. D'abord un diagnostic approfondi d'une demi-journée qui évalue les priorités d'actions de l'entreprise pour réduire sa consommation énergétique, sa consommation d'eau, ses déchets et son empreinte carbone. Ensuite un forfait de 2 jours pour établir un plan d'actions adapté aux problématiques prioritaires et accompagner sa mise en œuvre (mesures techniques, organisationnelles, comportementales). Sont remis le diagnostic, les préconisations, le plan d'actions et son bilan, avec une mise en relation avec des partenaires et prestataires.",
+    "eligibilite": "Entreprises des Hauts-de-France de plus de 3 ans, de 20 salariés au plus et dont le chiffre d'affaires ne dépasse pas 2 M€, sous réserve d'éligibilité du secteur d'activité (à vérifier auprès de la CCI).",
+    "categories": [
+      "suivre_comprendre_maitriser"
+    ],
+    "secteurs": [
+      "industrie_boissons"
+    ],
+    "departements": [
+      "02",
+      "59",
+      "60",
+      "62",
+      "80"
+    ],
+    "agences": [],
+    "mesures": [
+      "ACT_AGR_002"
+    ],
+    "infos_complementaires": [
+      {
+        "type": "info",
+        "texte": "Tarif lu le 15 octobre 2026 : la prise en charge à 100 % vaut jusqu'au 31/12/2026 pour les entreprises n'ayant pas déjà bénéficié d'un accompagnement Booster en 2025."
+      },
+      {
+        "type": "avertissement",
+        "texte": "Le diagnostic couvre l'eau parmi d'autres thèmes (énergie, déchets, carbone) et dure une demi-journée : il donne des priorités, pas un audit détaillé des consommations d'eau atelier par atelier."
+      },
+      {
+        "type": "info",
+        "texte": "La demande se fait auprès de la CCI de votre territoire (Aisne, Amiens-Picardie, Artois, Grand Hainaut, Grand Lille, Littoral Hauts-de-France, Oise), dont les contacts figurent sur la page du dispositif."
+      },
+      {
+        "type": "ressource",
+        "texte": "Page du dispositif sur le site de la CCI Hauts-de-France",
+        "lien": "https://hautsdefrance.cci.fr/solutions/booster-transition-ecologique/"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "taux, plafond, financeur",
+        "url": "https://hautsdefrance.cci.fr/solutions/booster-transition-ecologique/",
+        "date": "2026-10-15",
+        "extrait": "Accompagnement d'une valeur de 1 200 € HT pris en charge par la Région Hauts-de-France et le FEDER. Tarif 100% pris en charge. Jusqu'au 31/12/2026 pour les entreprises n'ayant pas déjà bénéficié d'un accompagnement Booster en 2025. 150 €HT, soit 180 €TTC seulement. Pour les entreprises ayant bénéficié de la gratuité d'un accompagnement Booster en 2025"
+      },
+      {
+        "champ": "description, mesures, categories",
+        "url": "https://hautsdefrance.cci.fr/solutions/booster-transition-ecologique/",
+        "date": "2026-10-15",
+        "extrait": "Un diagnostic approfondi d'une demi-journée pour évaluer les priorités d'actions de votre entreprise en matière de réduction de sa consommation énergétique, de sa consommation d'eau, de ses déchets et de son empreinte carbone. 2. Un forfait de 2 jours pour : Établir et mettre en œuvre un plan d'actions adapté aux problématiques prioritaires de votre entreprise"
+      },
+      {
+        "champ": "eligibilite",
+        "url": "https://hautsdefrance.cci.fr/solutions/booster-transition-ecologique/",
+        "date": "2026-10-15",
+        "extrait": "Entreprise de plus de 3 ans et de 20 salariés maximum, ayant un chiffre d'affaires ≤ 2 M€. Sous réserve d'éligibilité du secteur d'activité (nous consulter)"
+      },
+      {
+        "champ": "departements, infos_complementaires",
+        "url": "https://hautsdefrance.cci.fr/solutions/booster-transition-ecologique/",
+        "date": "2026-10-15",
+        "extrait": "Programme régional Booster TPE. Contacts : Aisne, Amiens-Picardie, Artois, Grand Hainaut, Grand Lille, Littoral Hauts-de-France, Oise"
+      },
+      {
+        "champ": "logo_url",
+        "url": "https://www.hautsdefrance.fr/app/uploads/2016/09/logo-HDF-300x300.png",
+        "date": "2026-10-15",
+        "extrait": "apple-touch-icon du site www.hautsdefrance.fr (Région Hauts-de-France)"
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "AIDE_BOI_004",
+    "nom": "Aide à la valorisation et à l'utilisation des eaux non conventionnelles (agence de l'eau Artois-Picardie, 12e programme)",
+    "financeur": "Agence de l'eau Artois-Picardie",
+    "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792070201/Noe%20assets/logos/AIDE_BOI_004.png",
+    "type": "subvention",
+    "taux": "Études : subvention de 50 % au plus. Travaux : subvention de 30 % au plus, complétée d'une avance remboursable de 35 %.",
+    "plafond": "Travaux : dans la limite de la réglementation européenne relative aux aides d'État. La délibération ne fixe pas de plafond chiffré.",
+    "description": "Volet « valorisation et utilisation des eaux non conventionnelles » (partie 2, section 3) de la délibération 26-A-006 sur la gestion quantitative de la ressource en eau, 12e programme d'intervention 2025-2030 de l'agence de l'eau Artois-Picardie. L'agence finance les projets qui remplacent un prélèvement en nappe, en rivière ou sur le réseau d'eau potable par une ressource alternative : eaux pluviales de toitures ou ayant ruisselé sur des surfaces, eaux usées traitées issues des stations d'épuration domestiques et industrielles, eaux d'exhaure, eaux de drainage agricole, eaux de process industriels, eaux grises. Côté études, elle finance les études de potentiel ou d'opportunité, les études de faisabilité technique et économique préalables aux travaux (y compris le modèle économique d'exploitation) et les études d'impact sur les milieux naturels. Côté travaux, elle finance les traitements complémentaires qui rendent l'eau conforme aux exigences réglementaires, le pompage et les canalisations de transfert vers le stockage, le stockage lui-même, l'amenée jusqu'au point de répartition principal, et les frais annexes (terrains, maîtrise d'œuvre, assistance à maîtrise d'ouvrage, dossiers réglementaires, contrôles, assurances).",
+    "eligibilite": "Collectivités territoriales et leurs groupements, ainsi qu'acteurs économiques agricoles ou non agricoles, pour un projet qui utilise une ressource alternative aux prélèvements dans les nappes, les milieux superficiels ou le réseau d'eau potable. Les travaux ne sont aidés que si le projet économise de l'eau potable ou réduit les prélèvements, s'appuie sur une étude d'absence d'impact et une analyse coûts bénéfices, s'accompagne d'un plan d'économie d'eau et porte sur des usages autorisés ou déclarés.",
+    "categories": [
+      "valoriser_reut_eaux_non_conventionnelles"
+    ],
+    "secteurs": [
+      "industrie_boissons"
+    ],
+    "departements": [],
+    "agences": [
+      "AEAP"
+    ],
+    "mesures": [
+      "ACT_AGR_006"
+    ],
+    "infos_complementaires": [
+      {
+        "type": "avertissement",
+        "texte": "L'aide aux travaux est soumise à cinq conditions : une étude qui démontre l'absence d'impact sur les sols et les milieux naturels, en particulier les cours d'eau et les zones humides, une économie d'eau potable ou une baisse des prélèvements en nappe ou en rivière, une analyse « coûts bénéfices » qui justifie cette ressource face aux autres solutions, un plan d'économie d'eau associé au projet, et des usages réglementairement autorisés ou déclarés. Prévoyez l'étude et le plan d'économie d'eau avant de chiffrer les travaux."
+      },
+      {
+        "type": "avertissement",
+        "texte": "Les dépenses de distribution de l'eau réutilisée sur la parcelle de l'utilisateur final ne sont pas éligibles. L'aide s'arrête au point de répartition principal."
+      },
+      {
+        "type": "info",
+        "texte": "La délibération 26-A-006 renvoie les économies d'eau des entreprises non agricoles (évolution des procédés, mise en circuit fermé, recyclage interne) vers la délibération 25-A-036 sur la lutte contre la pollution des activités économiques hors agricoles, qui subventionne les travaux à 40 %. Ce texte cite lui aussi la réutilisation d'eau de process, le recyclage des eaux pluviales ou des eaux usées traitées et les ouvrages nécessaires à l'utilisation d'eaux non conventionnelles. Pour un site industriel, demandez à l'agence laquelle des deux délibérations s'applique à votre projet avant de monter le dossier.",
+        "lien": "https://www.eau-artois-picardie.fr/sites/default/files/013_25-a-036_lutte_poll_act_hors_agri.pdf",
+        "lien_label": "Délibération 25-A-036"
+      },
+      {
+        "type": "info",
+        "texte": "L'aide est accordée dans la limite des dotations disponibles. Les projets situés dans les zones en tension quantitative identifiées par le SDAGE sont en priorité 1, les autres projets de valorisation des eaux non conventionnelles en priorité 2. L'agence privilégie d'abord la réduction des consommations, puis l'utilisation des eaux non conventionnelles."
+      },
+      {
+        "type": "info",
+        "texte": "Un projet qui réunit plusieurs acteurs ou plusieurs usages, par exemple une brasserie qui reçoit les eaux traitées d'une station voisine, doit faire l'objet d'une convention ou d'un contrat entre partenaires qui fixe la gouvernance et le modèle économique."
+      },
+      {
+        "type": "info",
+        "texte": "La délibération 26-A-006, publiée le 13 mars 2026 sur le site de l'agence, abroge et remplace la délibération 25-A-048 du 28 novembre 2025. L'aide est décidée par le conseil d'administration de l'agence, sauf délégation, et fait l'objet d'un acte d'attribution."
+      },
+      {
+        "type": "ressource",
+        "texte": "Délibération 26-A-006, gestion quantitative de la ressource en eau (partie 2, section 3, eaux non conventionnelles)",
+        "lien": "https://www.eau-artois-picardie.fr/sites/default/files/009_25-a-006_gestion_ressource_en_eau_web.pdf"
+      },
+      {
+        "type": "ressource",
+        "texte": "Délibérations du 12e programme d'intervention de l'agence de l'eau Artois-Picardie, classées par domaine d'intervention",
+        "lien": "https://www.eau-artois-picardie.fr/les-deliberations-par-domaine-dintervention-12eme-programme-dintervention"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "nom, financeur, description (numéro de délibération, programme)",
+        "url": "https://www.eau-artois-picardie.fr/sites/default/files/009_25-a-006_gestion_ressource_en_eau_web.pdf",
+        "date": "2026-10-15",
+        "extrait": "12e PROGRAMME D'INTERVENTION 2025-2030. DELIBERATION N° 26-A-006. GESTION QUANTITATIVE DE LA RESSOURCE EN EAU (pages 1 à 3, document scanné sans couche texte, lu en image ; le nom du fichier porte 25-a-006, le document porte 26-A-006)"
+      },
+      {
+        "champ": "infos_complementaires (abrogation, publication, modalités d'attribution)",
+        "url": "https://www.eau-artois-picardie.fr/sites/default/files/009_25-a-006_gestion_ressource_en_eau_web.pdf",
+        "date": "2026-10-15",
+        "extrait": "Vu le rapport de la Directrice Générale présenté au Conseil d'Administration du 13 mars 2026. La délibération n°25-A-048 du Conseil d'Administration du 28 novembre 2025 est abrogée et remplacée comme suit (page 3). La participation financière est décidée par le Conseil d'Administration, hormis les cas de délégation de compétence [...] et fait l'objet d'un acte [...]. Tampon : Publié le 13 mars 2026 sur le site internet de l'Agence (page 13)"
+      },
+      {
+        "champ": "eligibilite, description (eaux non conventionnelles)",
+        "url": "https://www.eau-artois-picardie.fr/sites/default/files/009_25-a-006_gestion_ressource_en_eau_web.pdf",
+        "date": "2026-10-15",
+        "extrait": "3. La valorisation et l'utilisation des eaux non conventionnelles. L'Agence de l'Eau peut apporter une participation financière aux collectivités territoriales ou leurs groupements, ainsi qu'aux acteurs économiques agricoles ou non agricoles, pour la réalisation de projets visant à l'utilisation d'une ressource alternative aux prélèvements dans les nappes d'eau souterraines, les milieux superficiels ou le réseau d'eau potable. Cette ressource alternative est constituée d'eaux non conventionnelles, par exemple : Les eaux pluviales de toitures ; Les eaux pluviales ayant ruisselé sur des surfaces ; Les eaux usées traitées issues des ouvrages d'épuration domestiques et industriels ; Les eaux d'exhaure de carrières ou de mines ; Les eaux de drainage agricole ; Les eaux de process industriels ; Les eaux grises. (page 10)"
+      },
+      {
+        "champ": "description (actions éligibles), mesures (ACT_AGR_006)",
+        "url": "https://www.eau-artois-picardie.fr/sites/default/files/009_25-a-006_gestion_ressource_en_eau_web.pdf",
+        "date": "2026-10-15",
+        "extrait": "3.1. Actions éligibles. Pour les études : Les études de potentiel ou d'opportunité [...] ; Les études de faisabilité technique et économique préalables aux travaux [...] ainsi que les aspects liés au modèle économique d'exploitation des eaux non conventionnelles ; Les études d'impact des projets sur les milieux naturels [...]. Pour les travaux : Les traitements complémentaires permettant d'utiliser les eaux non conventionnelles en conformité avec les exigences réglementaires ; Les systèmes de pompage et les canalisations de transfert vers le point de stockage ; Le dispositif de stockage de l'eau ; Les travaux d'amenée vers le point de répartition principal pour l'utilisation des eaux non conventionnelles par les usagers ; Les frais annexes liés à la réalisation des travaux (acquisitions des terrains, honoraires de maîtrise d'œuvre, assistance à maîtrise d'ouvrage, dossiers réglementaires, frais de contrôle et de sécurité, frais de publicité et d'assurances...). (page 10)"
+      },
+      {
+        "champ": "eligibilite, infos_complementaires (conditions des travaux, distribution non éligible)",
+        "url": "https://www.eau-artois-picardie.fr/sites/default/files/009_25-a-006_gestion_ressource_en_eau_web.pdf",
+        "date": "2026-10-15",
+        "extrait": "La participation financière de l'Agence de l'Eau pour les travaux est attribuée sous réserve que les projets respectent les critères suivants : Les projets doivent faire l'objet d'une étude démontrant l'absence d'impact du projet sur les sols et les milieux naturels, en particulier les cours d'eau et les zones humides ; Les projets doivent permettre d'économiser l'eau potable et/ou de réduire les prélèvements dans les ressources souterraines et superficielles ; Les projets doivent faire l'objet d'une analyse « coûts bénéfices » [...] (page 10) ; Les projets doivent être associés à un plan d'économie d'eau [...] ; Les projets doivent concerner des ressources et des usages encadrés par la législation et la réglementation, et être réglementairement autorisés ou déclarés. Les dépenses liées à la distribution de l'eau réutilisée sur la parcelle de l'utilisateur final ne sont pas éligibles à une participation financière de l'Agence de l'Eau. (page 11)"
+      },
+      {
+        "champ": "type, taux, plafond",
+        "url": "https://www.eau-artois-picardie.fr/sites/default/files/009_25-a-006_gestion_ressource_en_eau_web.pdf",
+        "date": "2026-10-15",
+        "extrait": "3.2. Taux d'intervention et assiette. Etudes : Subvention de 50%. Travaux : Subvention de 30% + Avance remboursable de 35%. Plafond éventuel : Dans la limite de la réglementation européenne relative aux aides d'Etat. (page 11)"
+      },
+      {
+        "champ": "infos_complementaires (projets à plusieurs acteurs)",
+        "url": "https://www.eau-artois-picardie.fr/sites/default/files/009_25-a-006_gestion_ressource_en_eau_web.pdf",
+        "date": "2026-10-15",
+        "extrait": "3.3. Conditions particulières. Les projets réunissant plusieurs acteurs et/ou usages doivent faire l'objet d'un conventionnement ou d'un contrat entre les différents partenaires pour définir la gouvernance et le modèle économique. (page 11)"
+      },
+      {
+        "champ": "infos_complementaires (renvoi des économies d'eau des entreprises vers 25-A-036)",
+        "url": "https://www.eau-artois-picardie.fr/sites/default/files/009_25-a-006_gestion_ressource_en_eau_web.pdf",
+        "date": "2026-10-15",
+        "extrait": "Les opérations visant les économies d'eau dans les entreprises non agricoles (évolution des procédés de fabrication, mise en circuit fermé, recyclage interne) sont reprises dans la délibération d'intervention relative à la lutte contre les pollutions des activités économiques hors agricole. (page 5)"
+      },
+      {
+        "champ": "infos_complementaires (priorités, logique de l'agence)",
+        "url": "https://www.eau-artois-picardie.fr/sites/default/files/009_25-a-006_gestion_ressource_en_eau_web.pdf",
+        "date": "2026-10-15",
+        "extrait": "Pour atteindre les objectifs globaux de sobriété et d'économies d'eau, l'Agence de l'Eau privilégie une logique de réduction des consommations, puis d'utilisation des eaux non conventionnelles (page 4). 5. Critères de priorité. La participation financière de l'Agence est apportée dans la limite des dotations disponibles [...] Priorité 1 : [...] Valorisation et utilisation des eaux non conventionnelles dans les zones en tension quantitative identifiées par le SDAGE. Priorité 2 : [...] Autres projets de valorisation et d'utilisation des eaux non conventionnelles (page 12)"
+      },
+      {
+        "champ": "infos_complementaires (chevauchement avec la délibération 25-A-036)",
+        "url": "https://www.eau-artois-picardie.fr/sites/default/files/013_25-a-036_lutte_poll_act_hors_agri.pdf",
+        "date": "2026-10-15",
+        "extrait": "4- Economies d'eau. 4-1. Actions éligibles. [...] Pour les travaux : Les travaux d'économie d'eau (changement de procédés, réutilisation d'eau de process, recyclage des eaux pluviales ou des eaux usées traitées...) ; Les ouvrages (réseaux, stockage, traitement) nécessaires à l'utilisation d'eaux non conventionnelles. (page 8) 4-2. Taux d'intervention et assiette. [...] Travaux : Subvention de 40%. (page 9, document scanné lu en image)"
+      },
+      {
+        "champ": "infos_complementaires (ressource, page des délibérations)",
+        "url": "https://www.eau-artois-picardie.fr/les-deliberations-par-domaine-dintervention-12eme-programme-dintervention",
+        "date": "2026-10-15",
+        "extrait": "Lien « 26-A-006 » vers le fichier 009_25-a-006_gestion_ressource_en_eau_web.pdf"
+      },
+      {
+        "champ": "logo_url",
+        "url": "https://www.eau-artois-picardie.fr/favicons/apple-touch-icon-180x180.png",
+        "date": "2026-10-15",
+        "extrait": "apple-touch-icon 180x180 déclaré dans l'en-tête de la page d'accueil www.eau-artois-picardie.fr"
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "AIDE_BOI_005",
+    "nom": "Appel à manifestation d'intérêt 2026 pour protéger durablement les captages d'eau potable dans les CARE (agence de l'eau Artois-Picardie)",
+    "financeur": "Agence de l'eau Artois-Picardie",
+    "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792070232/Noe%20assets/logos/AIDE_BOI_005.png",
+    "type": "accompagnement",
+    "taux": null,
+    "plafond": null,
+    "description": "Appel à manifestation d'intérêt qui vise à faire émerger des projets et des partenaires pour le volet agricole des contrats d'actions pour la ressource en eau (CARE). Ces contrats sont portés par les collectivités responsables de captages d'eau potable prioritaires, à l'échelle de leur aire d'alimentation, pour réduire les pressions liées aux nitrates et aux produits phytopharmaceutiques. Les projets attendus portent sur l'évolution des systèmes agricoles, la structuration de filières à bas niveau d'intrants, la diversification des productions, l'accompagnement collectif des agriculteurs, l'innovation territoriale et la valorisation économique de pratiques favorables à la ressource. L'appel ne vaut que sur les territoires des CARE du bassin Artois-Picardie, pas sur tout le bassin. Les candidatures sont examinées et les projets désignés conjointement par les collectivités porteuses et l'agence. L'appel met en relation et oriente : les projets retenus peuvent ensuite, le cas échéant, être financés par l'agence selon son 12e programme d'intervention.",
+    "eligibilite": "Coopératives agricoles, associations, entreprises, organismes de conseil ou de formation, et plus largement tout porteur de projet en capacité de contribuer aux objectifs d'un CARE du bassin Artois-Picardie. Les projets restent portés et mis en œuvre sous la responsabilité de leurs porteurs.",
+    "categories": [
+      "agir_grand_cycle"
+    ],
+    "secteurs": [
+      "industrie_boissons"
+    ],
+    "departements": [],
+    "agences": [
+      "AEAP"
+    ],
+    "mesures": [
+      "ACT_AGR_010",
+      "ACT_BOI_008"
+    ],
+    "infos_complementaires": [
+      {
+        "type": "avertissement",
+        "texte": "Être retenu dans l'appel ne vaut pas accord de financement : une demande de participation financière doit ensuite être déposée à l'agence sur sa plateforme RIVAGE, avec un budget détaillé, un mémo du projet et les formulaires demandés. La page ne publie aucun taux ni montant."
+      },
+      {
+        "type": "info",
+        "texte": "L'appel lui-même ne verse aucune aide : il sert à identifier des partenaires et des projets. Un financement éventuel passe par une demande de participation financière séparée, déposée à l'agence et instruite selon les règles de son 12e programme d'intervention. La forme et le taux de cette aide ne sont pas précisés par l'appel."
+      },
+      {
+        "type": "avertissement",
+        "texte": "L'appel porte sur le volet agricole des CARE et sur la qualité de l'eau (nitrates, produits phytopharmaceutiques), pas sur les économies d'eau d'un site industriel. Pour la protection de l'impluvium d'une source, il ne concerne qu'un site dont l'aire d'alimentation recoupe le territoire d'un CARE."
+      },
+      {
+        "type": "info",
+        "texte": "Calendrier lu le 15 octobre 2026 : candidatures ouvertes jusqu'au 2 novembre 2026. Le dossier (présentation de la structure, compréhension des enjeux du territoire, méthodologie, moyens et partenariats, budget prévisionnel) se transmet par voie numérique à l'agence et à la ou aux collectivités porteuses du CARE concerné. Les candidatures sont examinées conjointement par les collectivités et l'agence."
+      },
+      {
+        "type": "info",
+        "texte": "Territoires annexés à la note de cadrage 2026 : CARE Nord Audomarois, Caix 1 et 3, Abbeville, Vendeuil-Caply, Vieux-Reng, Victorine Autier (Amiens Métropole) et Harly. La page de l'appel publie des fiches descriptives des besoins de partenariat pour Victorine Autier, Nord Audomarois, Vieux-Reng, Caix et Harly. Dans l'annexe de la note, les besoins d'Abbeville, de Vendeuil-Caply et de Vieux-Reng sont encore indiqués « à venir ». Un même projet, par exemple une filière, peut répondre à plusieurs CARE."
+      },
+      {
+        "type": "ressource",
+        "texte": "Page de l'appel à manifestation d'intérêt sur le site de l'agence",
+        "lien": "https://www.eau-artois-picardie.fr/appel-manifestation-dinteret-2026-faire-emerger-des-projets-innovants-pour-proteger-durablement-les"
+      },
+      {
+        "type": "ressource",
+        "texte": "Note de cadrage de l'appel, avec la liste des CARE et des actions à la recherche de partenaires",
+        "lien": "https://www.eau-artois-picardie.fr/sites/default/files/ami_2026_acc_care_2_avec_annexe_2.pdf",
+        "lien_label": "Note de cadrage (PDF)"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "description, categories",
+        "url": "https://www.eau-artois-picardie.fr/appel-manifestation-dinteret-2026-faire-emerger-des-projets-innovants-pour-proteger-durablement-les",
+        "date": "2026-10-15",
+        "extrait": "visant à favoriser l’émergence de projets et de partenariats [...] Les CARE accompagnent les collectivités responsables de captages prioritaires dans la mise en œuvre d’actions"
+      },
+      {
+        "champ": "description, mesures",
+        "url": "https://www.eau-artois-picardie.fr/sites/default/files/ami_2026_acc_care_2_avec_annexe_2.pdf",
+        "date": "2026-10-15",
+        "extrait": "réduire durablement les pressions exercées sur la ressource en eau, en particulier celles liées aux nitrates et aux produits phytopharmaceutiques [...] D’évolution des systèmes agricoles ; De structuration de filières à bas niveau d’intrants ; De diversification des productions ; D’accompagnement collectif des agriculteurs ; D’innovation territoriale"
+      },
+      {
+        "champ": "mesures",
+        "url": "https://www.eau-artois-picardie.fr/sites/default/files/ami_2026_acc_care_2_avec_annexe_2.pdf",
+        "date": "2026-10-15",
+        "extrait": "Le présent AMI vise à accompagner les collectivités souhaitant mobiliser des partenaires, porteurs de projet, pour l’élaboration et / ou la mise en œuvre d’actions contribuant à l’atteinte des objectifs du volet agricole de leur CARE."
+      },
+      {
+        "champ": "eligibilite",
+        "url": "https://www.eau-artois-picardie.fr/appel-manifestation-dinteret-2026-faire-emerger-des-projets-innovants-pour-proteger-durablement-les",
+        "date": "2026-10-15",
+        "extrait": "Cet appel s’adresse notamment aux coopératives agricoles, associations, entreprises, organismes de conseil ou de formation"
+      },
+      {
+        "champ": "eligibilite",
+        "url": "https://www.eau-artois-picardie.fr/sites/default/files/ami_2026_acc_care_2_avec_annexe_2.pdf",
+        "date": "2026-10-15",
+        "extrait": "Les projets proposés dans le cadre du présent AMI demeurent portés et mis en œuvre sous la responsabilité de leurs porteurs respectifs."
+      },
+      {
+        "champ": "type, taux, plafond, description",
+        "url": "https://www.eau-artois-picardie.fr/appel-manifestation-dinteret-2026-faire-emerger-des-projets-innovants-pour-proteger-durablement-les",
+        "date": "2026-10-15",
+        "extrait": "Les projets retenus pourront ensuite bénéficier, le cas échéant, d’un accompagnement financier"
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.eau-artois-picardie.fr/sites/default/files/ami_2026_acc_care_2_avec_annexe_2.pdf",
+        "date": "2026-10-15",
+        "extrait": "La désignation d’un projet dans le cadre de l’AMI ne valant pas accord de financement, une demande de financement (DPF) devra être déposée à l’Agence de l’eau via la plateforme dédiée (RIVAGE)"
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.eau-artois-picardie.fr/appel-manifestation-dinteret-2026-faire-emerger-des-projets-innovants-pour-proteger-durablement-les",
+        "date": "2026-10-15",
+        "extrait": "Les candidatures sont ouvertes jusqu’au 2 novembre 2026. [...] Les dossiers devront être transmis par voie dématérialisés à la ou aux collectivités porteuses du CARE concerné [...] Les candidatures seront examinées conjointement par les collectivités concernées et l’Agence de l’eau."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.eau-artois-picardie.fr/sites/default/files/ami_2026_acc_care_2_avec_annexe_2.pdf",
+        "date": "2026-10-15",
+        "extrait": "Une présentation de la structure, Leur compréhension des enjeux du territoire, La méthodologie proposée, Les moyens mobilisés et les partenariats envisagés éventuellement, Le budget prévisionnel. [...] Les candidats pourront proposer des projets qui s’inscrivent dans plusieurs CARE [...] comme les projets filières."
+      },
+      {
+        "champ": "agences, infos_complementaires",
+        "url": "https://www.eau-artois-picardie.fr/sites/default/files/ami_2026_acc_care_2_avec_annexe_2.pdf",
+        "date": "2026-10-15",
+        "extrait": "Annexe : CARE Nord Audomarois, CARE Caix 1 et 3, CARE du captage d’Abbeville, CARE de Vendeuil Caply, CARE Vieux Reng, CARE de Victorine Autier, CARE de Harly"
+      },
+      {
+        "champ": "logo_url",
+        "url": "https://www.eau-artois-picardie.fr/favicons/apple-touch-icon-180x180.png",
+        "date": "2026-10-15",
+        "extrait": "apple-touch-icon 180 x 180 du site www.eau-artois-picardie.fr (agence de l'eau Artois-Picardie)"
+      },
+      {
+        "champ": "financeur, type, description, infos_complementaires",
+        "url": "https://www.eau-artois-picardie.fr/sites/default/files/ami_2026_acc_care_2_avec_annexe_2.pdf",
+        "date": "2026-10-15",
+        "extrait": "L’Agence de l’eau s’engagera à : [...] Assurer, selon les règles de son 12ème programme d’intervention, l’instruction des demandes de participations financières présentés par les partenaires [...] Les projets identifiés comme pouvant contribuer aux objectifs du CARE sont désignés conjointement par la collectivité et l’Agence."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.eau-artois-picardie.fr/appel-manifestation-dinteret-2026-faire-emerger-des-projets-innovants-pour-proteger-durablement-les",
+        "date": "2026-10-15",
+        "extrait": "Documents : Fiche descriptive besoin AMI Victorine Autier ; Fiche descriptive besoin AMI AAC Nord Audomarois ; Fiche descriptive AMI AAC Vieux Reng ; Fiche descriptive AMI CARE Caix ; Fiche descriptive AMI CARE Harly"
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.eau-artois-picardie.fr/sites/default/files/ami_2026_acc_care_2_avec_annexe_2.pdf",
+        "date": "2026-10-15",
+        "extrait": "CARE du captage d’Abbeville : A venir ; CARE de Vendeuil Caply : A venir ; CARE Vieux Reng : A venir"
+      }
+    ],
+    "date_maj": "2026-10-15"
+  }
+]

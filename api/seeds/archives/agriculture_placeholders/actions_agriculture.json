@@ -1,0 +1,317 @@
+[
+  {
+    "id": "ACT_AGR_001",
+    "titre": "Installer un compteur divisionnaire par usage",
+    "titre_court": "Compteur par usage",
+    "description": "Poser des compteurs distincts sur les grands usages du site plutôt qu'un seul compteur général en entrée. Vous savez alors quel poste consomme quoi, vous repérez les dérives dès qu'elles apparaissent et vous détectez les fuites sans attendre la facture.",
+    "categorie": "suivre_comprendre_maitriser",
+    "secteurs": [],
+    "effort": {
+      "capex": "faible",
+      "opex": "faible",
+      "humain": "faible"
+    },
+    "impact_eau": 2,
+    "facilite": 3,
+    "horizon": "immediat",
+    "image": "https://res.cloudinary.com/dc1felxem/image/upload/v1780159376/Noe%20assets/Article_PART_Habitation_compteur-deau_xfd1fs.jpg",
+    "infos_complementaires": [
+      {
+        "type": "ressource",
+        "texte": "Guide comptage ADEME",
+        "lien": "https://librairie.ademe.fr"
+      }
+    ],
+    "statut": "publie",
+    "sources": [],
+    "date_maj": "2026-09-22"
+  },
+  {
+    "id": "ACT_AGR_002",
+    "titre": "Réaliser un audit eau complet de votre site",
+    "titre_court": "Audit eau",
+    "description": "Faire réaliser par un intervenant extérieur un diagnostic des usages, des volumes et des pertes, atelier par atelier. Vous en ressortez avec un plan d'action chiffré et hiérarchisé, souvent exigé pour accéder aux aides des agences de l'eau.",
+    "categorie": "suivre_comprendre_maitriser",
+    "secteurs": [],
+    "effort": {
+      "capex": "faible",
+      "opex": "faible",
+      "humain": "moyen"
+    },
+    "impact_eau": 2,
+    "facilite": 3,
+    "horizon": "immediat",
+    "image": "https://res.cloudinary.com/dc1felxem/image/upload/v1780159467/Noe%20assets/Design-sans-titre-4_yutby6.jpg",
+    "infos_complementaires": [
+      {
+        "type": "ressource",
+        "texte": "Chambre d'agriculture : diagnostics eau (exploitations agricoles)",
+        "lien": "https://chambres-agriculture.fr"
+      },
+      {
+        "type": "ressource",
+        "texte": "Aide FranceAgriMer (exploitations agricoles)",
+        "lien": "https://franceagrimer.fr"
+      }
+    ],
+    "statut": "publie",
+    "sources": [],
+    "date_maj": "2026-09-22"
+  },
+  {
+    "id": "ACT_AGR_003",
+    "titre": "Mettre en place un outil de pilotage de l'irrigation",
+    "titre_court": "Pilotage de l'irrigation",
+    "description": "Adopter un outil d'aide à la décision basé sur des données météo locales, l'ETP et des capteurs sol pour irriguer uniquement quand nécessaire et en quantité juste.",
+    "categorie": "ameliorer_efficacite_hydrique",
+    "secteurs": [
+      "agriculture"
+    ],
+    "effort": {
+      "capex": "moyen",
+      "opex": "faible",
+      "humain": "moyen"
+    },
+    "impact_eau": 3,
+    "facilite": 2,
+    "horizon": "court_terme",
+    "image": "https://res.cloudinary.com/dc1felxem/image/upload/v1780159763/Noe%20assets/unnamed_o41fit.jpg",
+    "infos_complementaires": [
+      {
+        "type": "ressource",
+        "texte": "Irri'Décision : ARVALIS",
+        "lien": "https://www.arvalis.fr"
+      },
+      {
+        "type": "ressource",
+        "texte": "Subvention équipement numérique : FranceAgriMer",
+        "lien": "https://franceagrimer.fr"
+      }
+    ],
+    "statut": "publie",
+    "sources": [],
+    "date_maj": "2026-09-22"
+  },
+  {
+    "id": "ACT_AGR_004",
+    "titre": "Convertir vers un système d'irrigation localisée (goutte-à-goutte)",
+    "titre_court": "Irrigation localisée",
+    "description": "Remplacer les systèmes d'aspersion ou gravitaires par du goutte-à-goutte ou de la micro-irrigation pour réduire les pertes par évaporation et améliorer l'efficience de l'eau appliquée.",
+    "categorie": "ameliorer_efficacite_hydrique",
+    "secteurs": [
+      "agriculture"
+    ],
+    "effort": {
+      "capex": "important",
+      "opex": "faible",
+      "humain": "moyen"
+    },
+    "impact_eau": 3,
+    "facilite": 2,
+    "horizon": "moyen_terme",
+    "image": "https://res.cloudinary.com/dc1felxem/image/upload/v1780159765/Noe%20assets/riego-subterraneo_3-1200x675_kcucir.jpg",
+    "infos_complementaires": [
+      {
+        "type": "ressource",
+        "texte": "Plan de compétitivité agroécologique : PCAE",
+        "lien": "https://agriculture.gouv.fr"
+      },
+      {
+        "type": "ressource",
+        "texte": "Guide technique irrigation localisée : INRAE",
+        "lien": "https://inrae.fr"
+      }
+    ],
+    "statut": "publie",
+    "sources": [],
+    "date_maj": "2026-09-22"
+  },
+  {
+    "id": "ACT_AGR_005",
+    "titre": "Construire ou agrandir une retenue collinaire ou un bassin de stockage",
+    "titre_court": "Retenue de stockage",
+    "description": "Stocker l'eau en période excédentaire (hiver, pluies) pour disposer d'une réserve en période de restriction. Réduire la dépendance aux prélèvements en période d'étiage.",
+    "categorie": "valoriser_reut_eaux_non_conventionnelles",
+    "secteurs": [
+      "agriculture"
+    ],
+    "effort": {
+      "capex": "important",
+      "opex": "faible",
+      "humain": "faible"
+    },
+    "impact_eau": 3,
+    "facilite": 1,
+    "horizon": "moyen_terme",
+    "image": "https://res.cloudinary.com/dc1felxem/image/upload/v1780159765/Noe%20assets/Retenue_uhwlbi.png",
+    "infos_complementaires": [
+      {
+        "type": "avertissement",
+        "texte": "La création d'une retenue relève de la loi sur l'eau : déclaration ou autorisation préfectorale selon le volume, et compatibilité avec le SDAGE à démontrer."
+      },
+      {
+        "type": "ressource",
+        "texte": "Financement retenues : Agences de l'eau",
+        "lien": "https://eaufrance.fr"
+      },
+      {
+        "type": "ressource",
+        "texte": "Guide technique retenues collinaires : CACG",
+        "lien": "https://cacg.fr"
+      }
+    ],
+    "statut": "publie",
+    "sources": [],
+    "date_maj": "2026-09-22"
+  },
+  {
+    "id": "ACT_AGR_006",
+    "titre": "Mettre en place un système de récupération des eaux pluviales",
+    "titre_court": "Récupération d'eau de pluie",
+    "description": "Récupérer les eaux de toiture dans une cuve pour les usages qui n'exigent pas d'eau potable : arrosage, chasses d'eau, nettoyage des sols et des extérieurs, et en exploitation agricole abreuvement ou irrigation d'appoint. Vous réduisez la part d'eau du réseau ou du forage et gardez une réserve utilisable pendant les restrictions.",
+    "categorie": "valoriser_reut_eaux_non_conventionnelles",
+    "secteurs": [],
+    "effort": {
+      "capex": "moyen",
+      "opex": "faible",
+      "humain": "faible"
+    },
+    "impact_eau": 2,
+    "facilite": 2,
+    "horizon": "court_terme",
+    "image": "https://res.cloudinary.com/dc1felxem/image/upload/v1780159765/Noe%20assets/stockage_effluents_agricoles_260m3__piquage_dn150mm-80mm_i0kqjd.jpg",
+    "infos_complementaires": [
+      {
+        "type": "ressource",
+        "texte": "Aide équipement : Région / ADEME",
+        "lien": "https://ademe.fr"
+      },
+      {
+        "type": "avertissement",
+        "texte": "Depuis le 1er septembre 2024, l'usage de l'eau de pluie dans un bâtiment (chasses, lavage des sols et du linge) relève d'une déclaration au préfet, certains usages en étant dispensés.",
+        "lien": "https://bonnespratiques-eau.fr/2024/07/18/textes-du-12-juillet-2024-relatifs-utilisations-deaux-impropres-a-la-consommation-humaine/",
+        "lien_label": "Services de l'État, bassin Adour-Garonne"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "infos_complementaires",
+        "url": "https://bonnespratiques-eau.fr/2024/07/18/textes-du-12-juillet-2024-relatifs-utilisations-deaux-impropres-a-la-consommation-humaine/",
+        "extrait": "Eaux brutes, dont l'eau de pluie : lavage des sols et du linge, chasses d'eau, arrosage, sur déclaration."
+      }
+    ],
+    "date_maj": "2026-09-24"
+  },
+  {
+    "id": "ACT_AGR_007",
+    "titre": "Diversifier les sources d'approvisionnement en eau",
+    "titre_court": "Diversification des sources",
+    "description": "Réduire la dépendance au réseau AEP en développant des sources alternatives (eau de pluie, eau souterraine, eau de surface) afin de sécuriser l'approvisionnement et réduire les coûts.",
+    "categorie": "valoriser_reut_eaux_non_conventionnelles",
+    "secteurs": [
+      "agriculture"
+    ],
+    "effort": {
+      "capex": "moyen",
+      "opex": "faible",
+      "humain": "moyen"
+    },
+    "impact_eau": 2,
+    "facilite": 2,
+    "horizon": "court_terme",
+    "image": "https://res.cloudinary.com/dc1felxem/image/upload/v1780159765/Noe%20assets/27744_une_zrvqam.jpg",
+    "infos_complementaires": [],
+    "statut": "publie",
+    "sources": [],
+    "date_maj": "2026-09-22"
+  },
+  {
+    "id": "ACT_AGR_008",
+    "titre": "Engager une démarche d'adaptation des cultures aux stress hydriques",
+    "titre_court": "Adaptation des cultures",
+    "description": "Évaluer et faire évoluer le mix cultural vers des espèces ou variétés plus résilientes au manque d'eau. Intégrer les projections climatiques locales dans les décisions agronomiques.",
+    "categorie": "changer_process_pratiques",
+    "secteurs": [
+      "agriculture"
+    ],
+    "effort": {
+      "capex": "faible",
+      "opex": "moyen",
+      "humain": "important"
+    },
+    "impact_eau": 3,
+    "facilite": 1,
+    "horizon": "moyen_terme",
+    "image": "https://res.cloudinary.com/dc1felxem/image/upload/v1780159764/Noe%20assets/panorama_vu124f.webp",
+    "infos_complementaires": [
+      {
+        "type": "ressource",
+        "texte": "Diagnostic Agro-Adapt : Chambres d'agriculture",
+        "lien": "https://chambres-agriculture.fr"
+      },
+      {
+        "type": "ressource",
+        "texte": "Variétés résistantes à la sécheresse : GEVES",
+        "lien": "https://geves.fr"
+      }
+    ],
+    "statut": "publie",
+    "sources": [],
+    "date_maj": "2026-09-22"
+  },
+  {
+    "id": "ACT_AGR_009",
+    "titre": "Formaliser un plan de gestion de l'eau et anticiper les restrictions",
+    "titre_court": "Plan de gestion de l'eau",
+    "description": "Élaborer un document interne qui cartographie les usages, les sources et les risques réglementaires (arrêtés sécheresse, zones de répartition des eaux), et qui définit pour chaque niveau d'alerte les actions de réduction à déclencher. Vous décidez à froid ce que vous réduirez, au lieu d'improviser le jour de la restriction.",
+    "categorie": "sensibiliser_former",
+    "secteurs": [],
+    "effort": {
+      "capex": "faible",
+      "opex": "faible",
+      "humain": "moyen"
+    },
+    "impact_eau": 1,
+    "facilite": 2,
+    "horizon": "court_terme",
+    "image": "https://picsum.photos/seed/planning-document-team/600/200",
+    "infos_complementaires": [
+      {
+        "type": "ressource",
+        "texte": "Outil ZRE : Agences de l'eau",
+        "lien": "https://eaufrance.fr"
+      }
+    ],
+    "statut": "publie",
+    "sources": [],
+    "date_maj": "2026-09-22"
+  },
+  {
+    "id": "ACT_AGR_010",
+    "titre": "Participer à une démarche collective de gestion de l'eau",
+    "titre_court": "Démarche collective",
+    "description": "S'engager dans une démarche territoriale de partage de la ressource : projet de territoire pour la gestion de l'eau (PTGE), contrat de nappe, commission locale de l'eau d'un SAGE, association syndicale. Vous pesez sur les arbitrages locaux au lieu de les subir.",
+    "categorie": "agir_grand_cycle",
+    "secteurs": [],
+    "effort": {
+      "capex": "faible",
+      "opex": "faible",
+      "humain": "moyen"
+    },
+    "impact_eau": 2,
+    "facilite": 2,
+    "horizon": "court_terme",
+    "image": "https://res.cloudinary.com/dc1felxem/image/upload/v1780159764/Noe%20assets/Concertation_1-scaled_vvhbu7.webp",
+    "infos_complementaires": [
+      {
+        "type": "ressource",
+        "texte": "PTGE : Ministère de la transition écologique",
+        "lien": "https://ecologie.gouv.fr"
+      }
+    ],
+    "statut": "publie",
+    "sources": [],
+    "date_maj": "2026-09-22"
+  }
+]

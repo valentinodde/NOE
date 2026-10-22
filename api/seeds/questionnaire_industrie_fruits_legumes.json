@@ -1,0 +1,840 @@
+{
+  "sector_id": "industrie_fruits_legumes",
+  "sector_label": "Transformation de fruits et légumes",
+  "naf_codes": [
+    "10.31Z",
+    "10.32Z",
+    "10.39A",
+    "10.39B"
+  ],
+  "themes": [
+    {
+      "id": "connaissance",
+      "label": "Connaissance & mesure"
+    },
+    {
+      "id": "pratiques",
+      "label": "Lavage & traitements thermiques"
+    },
+    {
+      "id": "reut",
+      "label": "Réutilisation & rejets"
+    },
+    {
+      "id": "gouvernance",
+      "label": "Gouvernance & anticipation"
+    }
+  ],
+  "questions": [
+    {
+      "id": "frl_q01",
+      "theme": "connaissance",
+      "order": 1,
+      "type": "single_choice",
+      "text": "Comment suivez-vous aujourd'hui la consommation d'eau de votre site ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "aucun_compteur",
+          "text": "Pas de compteur, je m'en remets à la facture",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "comptage"
+          ]
+        },
+        {
+          "id": "compteur_general",
+          "text": "Un compteur général, relevé de temps en temps",
+          "maturity_score": 1,
+          "concern_score": 1,
+          "topics": [
+            "comptage"
+          ]
+        },
+        {
+          "id": "par_ligne",
+          "text": "Des compteurs par ligne ou par usage, relevés régulièrement",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        },
+        {
+          "id": "ratio_tonne",
+          "text": "Des compteurs par ligne et un ratio en m³ par tonne traitée",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "frl_q02",
+      "theme": "connaissance",
+      "order": 2,
+      "type": "multi_choice",
+      "class": "source_eau",
+      "text": "D'où provient l'eau que vous utilisez sur le site ? (plusieurs réponses possibles)",
+      "condition": null,
+      "options": [
+        {
+          "id": "aep",
+          "text": "Réseau public d'eau potable",
+          "maturity_score": 0,
+          "concern_score": 1,
+          "topics": []
+        },
+        {
+          "id": "forage",
+          "text": "Forage ou captage d'eau souterraine",
+          "maturity_score": 0,
+          "concern_score": 1,
+          "topics": []
+        },
+        {
+          "id": "surface",
+          "text": "Captage en rivière ou en canal",
+          "maturity_score": 0,
+          "concern_score": 1,
+          "topics": []
+        },
+        {
+          "id": "pluie",
+          "text": "Eau de pluie récupérée",
+          "maturity_score": 1,
+          "concern_score": 2,
+          "topics": []
+        },
+        {
+          "id": "recyclage_process",
+          "text": "Eaux de lavage ou de rinçage recyclées",
+          "maturity_score": 2,
+          "concern_score": 3,
+          "topics": []
+        },
+        {
+          "id": "eau_vegetation",
+          "text": "Condensats de concentration ou de séchage",
+          "maturity_score": 2,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "frl_q03",
+      "theme": "connaissance",
+      "order": 3,
+      "type": "numeric",
+      "text": "Quelle est votre consommation d'eau annuelle, tous usages confondus ?",
+      "condition": null,
+      "input": {
+        "unit": "m³/an",
+        "placeholder": "ex. 40000",
+        "min": 0,
+        "max": 10000000,
+        "integer_only": true
+      },
+      "scoring": {
+        "if_filled": {
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        }
+      }
+    },
+    {
+      "id": "frl_q04",
+      "theme": "connaissance",
+      "order": 4,
+      "type": "single_choice",
+      "text": "Avez-vous réalisé un audit eau ou un diagnostic de vos consommations ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "jamais",
+          "text": "Non, jamais",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "audit"
+          ]
+        },
+        {
+          "id": "envisage",
+          "text": "On y a réfléchi, sans le faire",
+          "maturity_score": 0,
+          "concern_score": 2,
+          "topics": [
+            "audit"
+          ]
+        },
+        {
+          "id": "ancien",
+          "text": "Oui, il y a plus de cinq ans",
+          "maturity_score": 1,
+          "concern_score": 2,
+          "topics": [
+            "audit"
+          ]
+        },
+        {
+          "id": "recent",
+          "text": "Oui, il y a moins de trois ans",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "frl_q05",
+      "theme": "pratiques",
+      "order": 5,
+      "type": "single_choice",
+      "text": "Comment la matière première est-elle débarrassée de sa terre et lavée à réception ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "lavage_direct",
+          "text": "Directement à l'eau, laveuses à débit constant",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "lavage"
+          ]
+        },
+        {
+          "id": "prenettoyage_partiel",
+          "text": "Terre en partie retirée à sec, débits non régulés",
+          "maturity_score": 1,
+          "concern_score": 1,
+          "topics": [
+            "lavage"
+          ]
+        },
+        {
+          "id": "lavage_regule",
+          "text": "Terre retirée à sec, débits réglés sur le passage du produit",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        },
+        {
+          "id": "sans_lavage_brut",
+          "text": "Pas de produits terreux (concentrés, fruits secs, produits prélavés)",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "frl_q06",
+      "theme": "pratiques",
+      "order": 6,
+      "type": "single_choice",
+      "text": "Que devient l'eau de vos lignes d'épluchage et de blanchiment ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "rejetee",
+          "text": "Elle part directement aux effluents",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "epluchage"
+          ]
+        },
+        {
+          "id": "decantee_partiel",
+          "text": "Elle est en partie décantée ou recyclée",
+          "maturity_score": 1,
+          "concern_score": 1,
+          "topics": [
+            "epluchage"
+          ]
+        },
+        {
+          "id": "optimisee",
+          "text": "Épluchage vapeur ou à sec, eau des blancheurs recyclée",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        },
+        {
+          "id": "sans_objet",
+          "text": "Pas d'épluchage ni de blanchiment sur le site",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "frl_q07",
+      "theme": "pratiques",
+      "order": 7,
+      "type": "single_choice",
+      "text": "Comment refroidissez-vous vos produits après cuisson, appertisation ou pasteurisation ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "eau_perdue",
+          "text": "À l'eau perdue, rejetée après un passage",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "refroidissement"
+          ]
+        },
+        {
+          "id": "reutilisee_partiel",
+          "text": "Eau refroidie puis réutilisée pour d'autres usages",
+          "maturity_score": 1,
+          "concern_score": 1,
+          "topics": [
+            "refroidissement"
+          ]
+        },
+        {
+          "id": "circuit_ferme",
+          "text": "Circuit fermé avec échangeur ou tour",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        },
+        {
+          "id": "sans_objet",
+          "text": "Pas de traitement thermique à refroidir",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "frl_q08",
+      "theme": "pratiques",
+      "order": 8,
+      "type": "single_choice",
+      "text": "Vos équipes, saisonniers compris, ont-elles des consignes d'économie d'eau ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "aucune",
+          "text": "Non, aucune consigne",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "formation"
+          ]
+        },
+        {
+          "id": "orales",
+          "text": "Des consignes orales, au cas par cas",
+          "maturity_score": 1,
+          "concern_score": 1,
+          "topics": [
+            "formation"
+          ]
+        },
+        {
+          "id": "ecrites",
+          "text": "Des consignes écrites, rappelées en début de campagne",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        },
+        {
+          "id": "formation_suivi",
+          "text": "Une formation à chaque campagne, avec suivi des compteurs",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "frl_q09",
+      "theme": "reut",
+      "order": 9,
+      "type": "single_choice",
+      "text": "Réutilisez-vous l'eau de vos derniers rinçages pour les lavages en amont ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "aucun",
+          "text": "Non",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "reutilisation"
+          ]
+        },
+        {
+          "id": "envisage",
+          "text": "On y a réfléchi, sans le faire",
+          "maturity_score": 0,
+          "concern_score": 2,
+          "topics": [
+            "reutilisation"
+          ]
+        },
+        {
+          "id": "partiel",
+          "text": "Oui, sur une ligne ou un poste",
+          "maturity_score": 1,
+          "concern_score": 2,
+          "topics": []
+        },
+        {
+          "id": "cascade",
+          "text": "Oui, en cascade sur toutes les lignes, déclarée au préfet",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "frl_q10",
+      "theme": "reut",
+      "order": 10,
+      "type": "single_choice",
+      "text": "Votre site concentre-t-il ou sèche-t-il des produits, et que deviennent les condensats ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "non_equipe",
+          "text": "Ni évaporateur ni séchoir sur le site",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        },
+        {
+          "id": "condensats_perdus",
+          "text": "Oui, les condensats partent aux effluents",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "eau_vegetation"
+          ]
+        },
+        {
+          "id": "valorise_partiel",
+          "text": "Oui, ils servent à quelques usages sans contact",
+          "maturity_score": 1,
+          "concern_score": 2,
+          "topics": [
+            "eau_vegetation"
+          ]
+        },
+        {
+          "id": "valorise_declare",
+          "text": "Oui, réutilisés et déclarés au préfet",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "frl_q11",
+      "theme": "reut",
+      "order": 11,
+      "type": "single_choice",
+      "text": "Comment gérez-vous vos eaux usées et vos déchets de préparation (terre, épluchures, pulpes) ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "sans_separation",
+          "text": "Tout part ensemble, sans prétraitement",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "effluents"
+          ]
+        },
+        {
+          "id": "pretraitement_simple",
+          "text": "Dégrillage ou décantation, déchets en partie mêlés aux eaux",
+          "maturity_score": 1,
+          "concern_score": 1,
+          "topics": [
+            "effluents"
+          ]
+        },
+        {
+          "id": "separe_convention",
+          "text": "Déchets collectés à part, rejets encadrés par une convention",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        },
+        {
+          "id": "station_campagne",
+          "text": "Déchets valorisés, traitement dimensionné pour la campagne",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "frl_q12",
+      "theme": "gouvernance",
+      "order": 12,
+      "type": "single_choice",
+      "text": "Avez-vous analysé votre exposition aux restrictions d'eau pendant votre campagne ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "non_analyse",
+          "text": "Non, ce n'est pas un sujet que j'ai regardé",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "anticipation"
+          ]
+        },
+        {
+          "id": "informe",
+          "text": "Je suis informé, sans analyse formelle",
+          "maturity_score": 1,
+          "concern_score": 2,
+          "topics": [
+            "anticipation"
+          ]
+        },
+        {
+          "id": "evalue",
+          "text": "Oui, je sais ce qui s'arrêterait et dans quel ordre",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        },
+        {
+          "id": "plan_formalise",
+          "text": "Oui, un plan écrit dit quoi réduire à chaque niveau",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    }
+  ],
+  "topics_labels": {
+    "comptage": "Comptage et suivi des volumes",
+    "audit": "Audit eau",
+    "lavage": "Lavage de la matière première",
+    "epluchage": "Épluchage et blanchiment",
+    "refroidissement": "Refroidissement après traitement thermique",
+    "formation": "Consignes et formation des équipes",
+    "reutilisation": "Recyclage des eaux de rinçage",
+    "eau_vegetation": "Eau de végétation (condensats)",
+    "effluents": "Effluents et coproduits",
+    "anticipation": "Anticipation des restrictions"
+  },
+  "action_plan_config": {
+    "always_include": [],
+    "never_include": [],
+    "filters": [
+      {
+        "id": "f_pas_de_compteur_par_usage",
+        "description": "Pas de compteur ou compteur général seul : recommander le comptage par usage",
+        "type": "answer",
+        "questionId": "frl_q01",
+        "operator": "in",
+        "value": [
+          "aucun_compteur",
+          "compteur_general"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_AGR_001"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_pas_de_ratio",
+        "description": "Compteurs par ligne déjà relevés mais aucun indicateur rapporté à la tonne : recommander le ratio eau par tonne",
+        "type": "answer",
+        "questionId": "frl_q01",
+        "operator": "in",
+        "value": [
+          "par_ligne"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_FRL_002"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_pluie_deja_recuperee",
+        "description": "Eau de pluie déjà récupérée : retirer la mesure de récupération des eaux pluviales",
+        "type": "class",
+        "class": "source_eau",
+        "operator": "includes",
+        "value": "pluie",
+        "effect": "remove",
+        "measures": [
+          "ACT_AGR_006"
+        ],
+        "priority": 2
+      },
+      {
+        "id": "f_conso_icpe",
+        "description": "Consommation annuelle d'au moins 10 000 m3, seuil de l'arrêté sécheresse ICPE du 30 juin 2023 : un plan de gestion écrit devient nécessaire",
+        "type": "numeric",
+        "questionId": "frl_q03",
+        "operator": "gte",
+        "value": 10000,
+        "effect": "add",
+        "measures": [
+          "ACT_AGR_009"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_petit_volume",
+        "description": "Moins de 2 000 m3 par an (choix de conception : l'eau sert surtout aux locaux et aux sanitaires, sans lien avec le tonnage) : retirer le comptage par usage, le ratio par tonne et la cuve d'eau de pluie, disproportionnés à ce volume",
+        "type": "numeric",
+        "questionId": "frl_q03",
+        "operator": "lt",
+        "value": 2000,
+        "effect": "remove",
+        "measures": [
+          "ACT_AGR_001",
+          "ACT_FRL_002",
+          "ACT_AGR_006"
+        ],
+        "priority": 2
+      },
+      {
+        "id": "f_gros_preleveur",
+        "description": "Consommation annuelle d'au moins 100 000 m3 (choix de conception : le prélèvement pèse dans l'équilibre local) : proposer la démarche collective de territoire",
+        "type": "numeric",
+        "questionId": "frl_q03",
+        "operator": "gte",
+        "value": 100000,
+        "effect": "add",
+        "measures": [
+          "ACT_AGR_010"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_pas_audit",
+        "description": "Pas d'audit, audit seulement envisagé ou de plus de cinq ans : recommander le diagnostic",
+        "type": "answer",
+        "questionId": "frl_q04",
+        "operator": "in",
+        "value": [
+          "jamais",
+          "envisage",
+          "ancien"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_AGR_002"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_audit_inconnu",
+        "description": "Personne ne sait si un audit a été fait : recommander le diagnostic",
+        "type": "answer",
+        "questionId": "frl_q04",
+        "operator": "not_answered",
+        "effect": "add",
+        "measures": [
+          "ACT_AGR_002"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_lavage_perfectible",
+        "description": "Lavage direct ou terre retirée à sec en partie seulement : recommander le lavage d'entrée économe",
+        "type": "answer",
+        "questionId": "frl_q05",
+        "operator": "in",
+        "value": [
+          "lavage_direct",
+          "prenettoyage_partiel"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_FRL_003"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_sans_matiere_terreuse",
+        "description": "Aucun produit terreux à laver : retirer le lavage d'entrée et la cascade des eaux de lavage",
+        "type": "answer",
+        "questionId": "frl_q05",
+        "operator": "eq",
+        "value": "sans_lavage_brut",
+        "effect": "remove",
+        "measures": [
+          "ACT_FRL_003",
+          "ACT_FRL_006"
+        ],
+        "priority": 2
+      },
+      {
+        "id": "f_epluchage_perfectible",
+        "description": "Eau d'épluchage ou de blanchiment rejetée ou peu recyclée : recommander l'optimisation de ces lignes",
+        "type": "answer",
+        "questionId": "frl_q06",
+        "operator": "in",
+        "value": [
+          "rejetee",
+          "decantee_partiel"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_FRL_005"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_refroidissement_ouvert",
+        "description": "Refroidissement à l'eau perdue ou réutilisée en partie : recommander la boucle fermée",
+        "type": "answer",
+        "questionId": "frl_q07",
+        "operator": "in",
+        "value": [
+          "eau_perdue",
+          "reutilisee_partiel"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_FRL_004"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_pas_de_consignes",
+        "description": "Aucune consigne ou consignes orales seulement : recommander la formation des équipes de campagne",
+        "type": "answer",
+        "questionId": "frl_q08",
+        "operator": "in",
+        "value": [
+          "aucune",
+          "orales"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_FRL_001"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_pas_de_cascade",
+        "description": "Derniers rinçages non réutilisés partout : recommander le recyclage en cascade",
+        "type": "answer",
+        "questionId": "frl_q09",
+        "operator": "in",
+        "value": [
+          "aucun",
+          "envisage",
+          "partiel"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_FRL_006"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_pluie_sans_process",
+        "description": "Aucun produit terreux lavé : l'eau sert surtout au nettoyage des locaux et aux sanitaires, usages sans contact où l'eau de pluie a sa place",
+        "type": "answer",
+        "questionId": "frl_q05",
+        "operator": "eq",
+        "value": "sans_lavage_brut",
+        "effect": "add",
+        "measures": [
+          "ACT_AGR_006"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_condensats_perdus",
+        "description": "Condensats perdus ou valorisés sans déclaration : recommander la valorisation de l'eau de végétation",
+        "type": "answer",
+        "questionId": "frl_q10",
+        "operator": "in",
+        "value": [
+          "condensats_perdus",
+          "valorise_partiel"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_FRL_007"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_effluents_non_separes",
+        "description": "Eaux et déchets partent ensemble sans aucun prétraitement : recommander la séparation et le traitement calé sur la campagne",
+        "type": "answer",
+        "questionId": "frl_q11",
+        "operator": "in",
+        "value": [
+          "sans_separation"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_FRL_008"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_restrictions_non_analysees",
+        "description": "Exposition aux restrictions non analysée : recommander le plan de gestion de l'eau",
+        "type": "answer",
+        "questionId": "frl_q12",
+        "operator": "in",
+        "value": [
+          "non_analyse",
+          "informe"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_AGR_009"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_plan_deja_ecrit",
+        "description": "Plan écrit par niveau d'alerte déjà en place : retirer le plan de gestion",
+        "type": "answer",
+        "questionId": "frl_q12",
+        "operator": "eq",
+        "value": "plan_formalise",
+        "effect": "remove",
+        "measures": [
+          "ACT_AGR_009"
+        ],
+        "priority": 2
+      },
+      {
+        "id": "f_restrictions_planifiees",
+        "description": "Plan écrit par niveau d'alerte déjà en place : l'étape suivante est la démarche collective de territoire",
+        "type": "answer",
+        "questionId": "frl_q12",
+        "operator": "eq",
+        "value": "plan_formalise",
+        "effect": "add",
+        "measures": [
+          "ACT_AGR_010"
+        ],
+        "priority": 1
+      }
+    ]
+  }
+}

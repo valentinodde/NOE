@@ -1,0 +1,93 @@
+{
+  "id": "PREST_GCU_014",
+  "nom": "MyTree",
+  "type": "bureau_etudes",
+  "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792084331/Noe%20assets/logos/PREST_GCU_014.png",
+  "siret": "79455488100035",
+  "description": "Société parisienne qui développe depuis 2013 des projets de plantation d'arbres et de haies chez les agriculteurs, dont des haies contre les vents dominants et l'érosion sur des parcelles de grandes cultures. Après une visite de l'exploitation, son ingénieur en agroforesterie établit le diagnostic et le plan de plantation, puis MyTree commande et livre les plants et les protections, encadre le chantier de plantation et suit les plantations pendant trois ans (regarnis, conseils de taille). Des entreprises parrainent ces plantations, mais le site n'indique pas ce qui reste à la charge de l'agriculteur. On soumet son projet en ligne ou par téléphone.",
+  "expertises": [
+    "Conception de haies brise-vent",
+    "Plan de plantation agroforestier",
+    "Fourniture de plants et protections",
+    "Suivi des plantations sur 3 ans"
+  ],
+  "categories": [
+    "agir_grand_cycle"
+  ],
+  "secteurs": ["grandes_cultures"],
+  "departements": [],
+  "mesures": [
+    { "id": "ACT_GCU_010", "roles": ["conseil_etude", "materiel"] }
+  ],
+  "contacts": [
+    { "type": "site_internet", "value": "https://my-tree.com/fr/agriculteurs" },
+    { "type": "tel", "value": "01 40 35 88 39" },
+    { "type": "mail", "value": "contact@my-tree.com" },
+    { "type": "adresse", "value": "1 rue de Navarre, 75005 Paris" },
+    { "type": "linkedin", "value": "https://fr.linkedin.com/company/my-tree" }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=MY%20TREE&departement=75",
+      "date": "2026-10-15",
+      "extrait": "MY-TREE (MY TREE), siren 794554881, siret 79455488100035, siège, 1 RUE DE NAVARRE 75005 PARIS, activité 74.90B, état administratif A"
+    },
+    {
+      "champ": "contacts, siret",
+      "url": "https://my-tree.com/fr/mentions-legales",
+      "date": "2026-10-15",
+      "extrait": "Siège social : 1, rue de Navarre, 75005 Paris, France. Numéro d'immatriculation : 794 554 881 RCS Paris. Numéro de téléphone : 01 40 35 88 39. Adresse e-mail : contact@my-tree.com"
+    },
+    {
+      "champ": "description, expertises, mesures, type",
+      "url": "https://my-tree.com/fr/agriculteurs",
+      "date": "2026-10-15",
+      "extrait": "MyTree vous accompagne dans votre projet d'agroforesterie ou de plantation de haies. [...] ÉTUDE DE FAISABILITÉ DU PROJET : Diagnostic et co-construction du plan de plantation détaillé [...] Préparation et suivi des commandes de plants et de fournitures, organisation des livraisons. [...] Encadrement des travaux de plantation et coordination des plantations. [...] Fourniture des plants, des protections et livraison. Suivi des plantations sur 3 ans (regarnis, conseils de taille)"
+    },
+    {
+      "champ": "contacts",
+      "url": "https://my-tree.com/fr/agriculteurs",
+      "date": "2026-10-15",
+      "extrait": "Vous avez un projet de plantation et souhaitez être accompagné ? Soumettre un projet. Nous contacter. Prendre RDV. 01 40 35 88 39 (lien LinkedIn du pied de page : fr.linkedin.com/company/my-tree)"
+    },
+    {
+      "champ": "description, mesures",
+      "url": "https://my-tree.com/fr/grandes-cultures",
+      "date": "2026-10-15",
+      "extrait": "Les vents puissants, surtout durant l'été, provoquent une forte déshydratation des cultures [...] La solution naturelle contre cette perte de rendement est l'implantation d'arbres perpendiculaires aux vents [...] les arbres génèrent un effet \"brise-vent\" [...] MyTree accompagne les cultivateurs dans la mise en place de projets agroforestiers"
+    },
+    {
+      "champ": "description, mesures",
+      "url": "https://my-tree.com/fr/projets/262",
+      "date": "2026-10-15",
+      "extrait": "Limiter l'érosion des sols de parcelles en grandes cultures. Type de production : Grandes Cultures. Un agriculteur de l'Aisne, exploitant des céréales, oléagineux et protéagineux [...] la plantation de 2 km de haies simples sur deux parcelles. L'objectif principal est de protéger ses cultures contre les vents dominants et de limiter l'érosion"
+    },
+    {
+      "champ": "description, type",
+      "url": "https://my-tree.com/fr/qui-sommes-nous",
+      "date": "2026-10-15",
+      "extrait": "Depuis 2013, MyTree développe des projets de plantation d'arbres auprès d'agriculteurs [...] Nous accompagnons les agriculteurs dans la conception, la réalisation et le suivi de projets de plantation d'arbres au sein de leurs parcelles agricoles."
+    },
+    {
+      "champ": "description",
+      "url": "https://my-tree.com/fr/contribution-positive",
+      "date": "2026-10-15",
+      "extrait": "Votre entreprise [...] MyTree vous propose de parrainer la plantation d'arbres dans des exploitations agricoles. [...] Aucun intermédiaire : En tant qu'opérateur, nous développons nous-même nos projets, de l'analyse terrain à la gestion post-plantation"
+    },
+    {
+      "champ": "departements",
+      "url": "https://my-tree.com/fr/plantations-ethiques",
+      "date": "2026-10-15",
+      "extrait": "Proximité : Des actions partout en France, au plus près de chez vous. Tous nos projets sont situés en France."
+    },
+    {
+      "champ": "logo_url",
+      "url": "https://my-tree.com/assets/img/favicon.png",
+      "date": "2026-10-15",
+      "extrait": "favicon du site my-tree.com (symbole feuille en coeur vert, 30 x 30 px)"
+    }
+  ],
+  "date_maj": "2026-10-15"
+}

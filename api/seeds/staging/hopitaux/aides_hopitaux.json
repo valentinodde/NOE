@@ -1,0 +1,506 @@
+[
+  {
+    "id": "AIDE_HOP_001",
+    "nom": "IND2, opérations groupées sectorielles « Établissements de santé et médico-sociaux » (agence de l'eau Rhône Méditerranée Corse, 12e programme)",
+    "financeur": "Agence de l'eau Rhône Méditerranée Corse",
+    "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792070145/Noe%20assets/logos/AIDE_HOP_001.png",
+    "type": "subvention",
+    "taux": "Taux maximum des travaux : 70 % pour une petite ou moyenne entreprise et 40 % pour une grande entreprise au titre du règlement de minimis, 40 à 60 % selon la taille au titre du régime exempté. Le taux réel est fixé pour chaque opération avec l'agence. Le taux applicable à un hôpital public est à confirmer auprès du porteur de l'opération.",
+    "plafond": "Pas de plafond par établissement publié. L'aide aux investissements est limitée à 1 M€ par opération groupée, pour l'ensemble des établissements accompagnés. Ce montant peut être complété pendant les 3 ans de l'opération si la première enveloppe de 1 M€ est engagée, sous réserve des crédits disponibles.",
+    "description": "Quand l'économie d'eau possible sur un site est inférieure à 2 000 m3 par an, ou quand ses rejets de micropolluants sont dispersés, l'agence de l'eau Rhône Méditerranée Corse n'aide pas l'établissement seul : elle passe par une opération groupée, portée à l'échelle d'une filière. Pour les établissements de santé et médico-sociaux, quatre opérations figurent dans la liste des lauréats publiée en mars 2026, sur la sobriété en eau et la réduction des micropolluants dispersés. Le porteur de l'opération réalise ou suit les diagnostics sur site, conseille les établissements et les accompagne dans le dépôt de leur demande d'aide. Les établissements volontaires sont ensuite aidés pour leurs travaux : réduction des fuites et gestion de la pression, technologies économes en eau (changement de process, recyclage, modernisation des réseaux et des équipements, dispositifs hydro-économes), traitement de l'eau pour une réutilisation sur le site, récupération des eaux pluviales, et réduction à la source ou épuration des micropolluants.",
+    "eligibilite": "Pour les travaux, la fiche IND2 vise les acteurs économiques non agricoles des bassins Rhône-Méditerranée et de Corse, et le dossier passe par une opération groupée retenue. Le secteur « Établissements de santé et médico-sociaux » en compte quatre, en Provence-Alpes-Côte d'Azur, en Auvergne-Rhône-Alpes, en Occitanie et en Bourgogne-Franche-Comté (pour ces trois dernières, partie de la région située sur le bassin Rhône-Méditerranée). La place d'un hôpital public et celle d'une clinique privée dans ces opérations sont à confirmer auprès du porteur.",
+    "categories": [
+      "suivre_comprendre_maitriser",
+      "ameliorer_efficacite_hydrique",
+      "valoriser_reut_eaux_non_conventionnelles",
+      "agir_rejets_qualite"
+    ],
+    "secteurs": [
+      "hopitaux"
+    ],
+    "departements": [
+      "04",
+      "05",
+      "06",
+      "13",
+      "83",
+      "84",
+      "01",
+      "03",
+      "07",
+      "15",
+      "26",
+      "38",
+      "42",
+      "43",
+      "63",
+      "69",
+      "73",
+      "74",
+      "09",
+      "11",
+      "12",
+      "30",
+      "31",
+      "32",
+      "34",
+      "46",
+      "48",
+      "65",
+      "66",
+      "81",
+      "82",
+      "21",
+      "25",
+      "39",
+      "58",
+      "70",
+      "71",
+      "89",
+      "90"
+    ],
+    "agences": [
+      "AERMC"
+    ],
+    "mesures": [
+      "ACT_AGR_002",
+      "ACT_HOP_002",
+      "ACT_HOP_003",
+      "ACT_HOP_004",
+      "ACT_HOP_005",
+      "ACT_AGR_006",
+      "ACT_HOP_006",
+      "ACT_HOP_007"
+    ],
+    "infos_complementaires": [
+      {
+        "type": "avertissement",
+        "texte": "Les projets déjà engagés sont exclus, et la demande d'aide doit être transmise à l'agence avant l'engagement des travaux. Les exceptions sont un accord écrit préalable de l'agence et les actions préalables nécessaires à la préparation du dossier ou à la définition des travaux. Ne signez aucun devis de travaux avant que le porteur de l'opération vous ait accompagné dans le dépôt de votre demande."
+      },
+      {
+        "type": "avertissement",
+        "texte": "Ne sont pas aidés : les projets qui concernent des bâtiments neufs ou une création ou un accroissement d'activité, le renouvellement à l'identique, la pose de compteurs et de vannes de sectorisation, les outils fixes de détection de fuite et les outils de pilotage ou de télégestion installés seuls, les campagnes d'analyses seules, la réduction de la pollution domestique, le traitement des eaux pluviales des zones de stationnement et des voies de circulation, et les travaux déjà aidés au cours des dix dernières années. Un compteur divisionnaire n'est donc pas financé s'il n'accompagne pas des travaux d'économie d'eau."
+      },
+      {
+        "type": "avertissement",
+        "texte": "Pour les micropolluants, seuls les travaux sont aidés : technologie propre qui réduit les rejets à la source, dispositif d'épuration ou autre investissement qui réduit les rejets. Les changements de pratiques (ne plus jeter de médicament à l'évier, régler les centrales de dilution, changer de molécule) ne sont pas des dépenses aidées en eux-mêmes, et une campagne d'analyses des effluents n'est aidée que si elle s'intègre à une étude plus globale."
+      },
+      {
+        "type": "avertissement",
+        "texte": "Le coût prévisionnel du projet présenté dans la demande d'aide doit dépasser 5 000 € pour les actions des opérations groupées sectorielles. Regroupez vos travaux dans un même projet."
+      },
+      {
+        "type": "info",
+        "texte": "L'aide est accordée en priorité au titre du règlement de minimis (70 % maximum pour une petite ou moyenne entreprise, 40 % pour une grande). Si ce n'est pas possible, par exemple parce que le plafond de minimis est atteint, elle passe par le régime d'aides à la protection de l'environnement, à un taux de 40 à 60 % selon la taille. Le règlement ajoute qu'en cas de renouvellement le taux est divisé par deux, phrase placée dans la case du régime exempté. Faites préciser par le porteur le taux qui s'applique à votre établissement."
+      },
+      {
+        "type": "info",
+        "texte": "L'agence peut ne retenir qu'une partie des dépenses d'un projet à double enjeu, sanitaire et environnemental ou économique et environnemental, ou dont les coûts liés à la protection de l'environnement ne sont pas individualisables. Si votre projet porte sur un équipement qui sert aussi le soin, un osmoseur de dialyse ou un équipement de stérilisation par exemple, vérifiez avec le porteur de l'opération quelle part de la dépense serait retenue."
+      },
+      {
+        "type": "info",
+        "texte": "Situation au 15 octobre 2026 : l'appel à manifestation d'intérêt de 2025 est clos. Ses lauréats ont été publiés en mars 2026. Pour les établissements de santé et médico-sociaux, les porteurs sont l'ARS Provence-Alpes-Côte d'Azur, l'ARS Auvergne-Rhône-Alpes, Envirobat Occitanie et Pôle énergie Bourgogne-Franche-Comté. Les demandes d'aide pour les travaux se déposent sur le portail de l'agence jusqu'au 31 décembre 2028. Le règlement annonce d'autres appels courant 2026 ou 2027, selon la dynamique des deux premières vagues."
+      },
+      {
+        "type": "info",
+        "texte": "En Provence-Alpes-Côte d'Azur, EnvirobatBDM indique avoir été retenu dans le cadre de cet appel pour accompagner les établissements de santé de la région Sud, projet cofinancé par l'ARS PACA et la Région Sud. En Occitanie, Envirobat Occitanie accompagne les établissements situés sur le bassin Rhône-Méditerranée, avec un cofinancement de l'ARS Occitanie. Les deux structures prévoient des diagnostics dans les établissements et un appui au dépôt des demandes d'aide auprès de l'agence."
+      },
+      {
+        "type": "info",
+        "texte": "Au-delà de 2 000 m3 d'économie d'eau par an sur un site, l'agence accompagne l'établissement de manière individuelle, hors opération groupée."
+      },
+      {
+        "type": "ressource",
+        "texte": "Bilan de l'appel à manifestation d'intérêt sur le site de l'agence",
+        "lien": "https://www.eaurmc.fr/jcms/pro_131706/fr/ami-operations-groupees-sectorielles-reduction-des-emissions-dispersees-de-micropolluants-et/ou-realisation-d-economies-d-eau"
+      },
+      {
+        "type": "ressource",
+        "texte": "Liste des lauréats (mars 2026)",
+        "lien": "https://www.eaurmc.fr/upload/docs/application/pdf/2026-03/liste_des_laureats_ami_sectoriel.pdf"
+      },
+      {
+        "type": "ressource",
+        "texte": "Fiche aide IND2, opérations groupées sectorielles (délibération 2024-59)",
+        "lien": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/ind2-operations-sectorielles.pdf"
+      },
+      {
+        "type": "ressource",
+        "texte": "Règlement de l'appel à manifestation d'intérêt (modifié le 7 novembre 2025)",
+        "lien": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-06/reglement_ami_operations_sectorielles.pdf"
+      },
+      {
+        "type": "ressource",
+        "texte": "Conditions générales d'attribution et de versement des aides du 12e programme (délibération 2024-77)",
+        "lien": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-02/conditions-generales.pdf"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "nom, type, description (objectifs et types d'actions)",
+        "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/ind2-operations-sectorielles.pdf",
+        "date": "2026-10-15",
+        "extrait": "Version 1 adoptée par le conseil d'administration du 19 décembre 2024. Délibération 2024-59. IND2 - Opérations groupées sectorielles. TYPE D'ACTIONS : Réductions des émissions dispersées de micropolluants, à l'échelle d'une branche ou d'une filière professionnelle. Économies d'eau, à l'échelle d'une branche ou d'une filière professionnelle."
+      },
+      {
+        "champ": "taux (40 à 70 % selon la taille)",
+        "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/ind2-operations-sectorielles.pdf",
+        "date": "2026-10-15",
+        "extrait": "TAUX MAXIMUM [...] Travaux visant à réduire les émissions dispersées de micropolluants et/ou les consommations d'eau, à l'échelle d'une branche ou d'une filière professionnelle : 40 à 70%* [...] *Selon la taille de l'entreprise"
+      },
+      {
+        "champ": "taux, infos_complementaires (de minimis, régime exempté, renouvellement)",
+        "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-06/reglement_ami_operations_sectorielles.pdf",
+        "date": "2026-10-15",
+        "extrait": "Elles sont accordées prioritairement au titre du règlement de minimis. Si ce n'est pas possible (plafond des aides de minimis déjà atteint par l'entreprise par exemple), l'aide sera attribuée au titre du régime cadre exempté de notification n°SA.111726 [...] Travaux aidés au titre du règlement de minimis : 40% pour les grandes entreprises, 70% pour les petites et moyennes entreprises. Travaux aidés au titre du régime exempté : 40 % à 60% en fonction de la taille de l'entreprise. En cas de renouvellement, le taux d'aide est divisé par deux."
+      },
+      {
+        "champ": "taux (fixé par opération)",
+        "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-06/reglement_ami_operations_sectorielles.pdf",
+        "date": "2026-10-15",
+        "extrait": "À l'issue du jury de sélection débute une phase 2 de rencontre et d'échanges entre le porteur du projet sélectionné et l'agence de l'eau. Cette phase permet d'affiner le projet, de définir précisément les modalités d'aide (actions retenues, taux d'aide et organisation administrative)."
+      },
+      {
+        "champ": "plafond (1 M€ par opération, complément si la première enveloppe est engagée)",
+        "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-06/reglement_ami_operations_sectorielles.pdf",
+        "date": "2026-10-15",
+        "extrait": "Chaque opération est accompagnée dans les limites suivantes : un financement de missions d'animation correspondant à 2 ETP par an maximum ; un financement des investissements jusqu'à concurrence d'1 M€ d'aide au total (montant d'aide pouvant être complété au cours des 3 ans de l'opération, sous réserve de disponibilité financière de l'appel à manifestation d'intérêt, si la première enveloppe d'1M€ est engagée)."
+      },
+      {
+        "champ": "description, infos_complementaires (seuil de 2 000 m3, voie individuelle)",
+        "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-06/reglement_ami_operations_sectorielles.pdf",
+        "date": "2026-10-15",
+        "extrait": "Lorsque les rejets de micropolluants sont significatifs en un point donné ou lorsque l'économie d'eau potentielle est supérieure à 2000 m3/an sur un site donné, l'agence accompagne les maitres d'ouvrage de manière individuelle. Lorsque les rejets de micropolluants sont dispersés ou lorsque l'économie d'eau potentielle est inférieure à 2000 m3/an par site, l'agence accompagne les projets sous forme d'opérations groupées"
+      },
+      {
+        "champ": "eligibilite, description (bénéficiaires des travaux, territoire, rôle du porteur), mesures (ACT_AGR_002 : diagnostics sur site)",
+        "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/ind2-operations-sectorielles.pdf",
+        "date": "2026-10-15",
+        "extrait": "BÉNÉFICIAIRES ÉLIGIBLES [...] Pour les travaux : acteurs économiques non agricoles (industries, sociétés, entreprises...). TERRITOIRES ÉLIGIBLES : Tous les territoires des bassins Rhône-Méditerranée et de Corse. [...] Animation par la structure porteuse de l'opération groupée sectorielle et par les partenaires associés. Cela inclut les missions nécessaires pour réaliser ou suivre des études (état des lieux, diagnostics sur site...), pour conseiller les entreprises et les accompagner dans le dépôt de leur demande d'aide."
+      },
+      {
+        "champ": "description, mesures (ACT_HOP_002 : fuites et pression ; ACT_HOP_003 : dispositifs hydro-économes ; ACT_HOP_004 et ACT_HOP_005 : changement de process, recyclage, modernisation des équipements ; ACT_HOP_006 : réutilisation sur le site ; ACT_AGR_006 : eaux pluviales ; ACT_HOP_007 : réduction à la source et épuration des micropolluants)",
+        "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/ind2-operations-sectorielles.pdf",
+        "date": "2026-10-15",
+        "extrait": "Travaux de réduction des pollutions par les micropolluants, notamment : Réduction à la source (mise en place de technologie propre) ; Mise en place de dispositifs d'épuration ; [...] Toute autre mesure permettant de réduire les rejets. Travaux d'économies d'eau : Actions de réduction des pertes en eau : réduction des fuites sur les réseaux, gestion de la pression. Mise en œuvre de technologies économes en eau : changement de process, recyclage, régulation, modernisation des réseaux et des équipements, dispositifs de pilotage, télégestion et sectorisation incluant des dispositifs hydro-économes et des compteurs. Mise en œuvre de technologie pour traiter l'eau usée pour une réutilisation, recyclage, réemploi sur le site industriel en lien avec des économies d'eau. Dispositifs de récupération des eaux pluviales."
+      },
+      {
+        "champ": "infos_complementaires (dépenses non éligibles, travaux seuls aidés pour les micropolluants)",
+        "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/ind2-operations-sectorielles.pdf",
+        "date": "2026-10-15",
+        "extrait": "ACTIONS ET DÉPENSES NON ÉLIGIBLES : Campagnes d'analyses seules (non intégrées à une étude plus globale). [...] Pose de compteurs et vannes de sectorisation, outils fixes de détection de fuite, outils de pilotage/télégestion seuls. Projets en lien avec des pollutions nouvelles (création ou accroissement d'activité). [...] Projets visant à réduire la pollution domestique des entreprises. Renouvellement à l'identique. Traitement des eaux pluviales issues des zones de stationnement et voies de circulation. [...] Travaux de réduction des pollutions par les micropolluants, notamment : Réduction à la source (mise en place de technologie propre) ; Mise en place de dispositifs d'épuration ; [...] Toute autre mesure permettant de réduire les rejets."
+      },
+      {
+        "champ": "infos_complementaires (projets engagés, bâtiments neufs, prise en compte partielle)",
+        "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-06/reglement_ami_operations_sectorielles.pdf",
+        "date": "2026-10-15",
+        "extrait": "Sont exclus de l'appel à manifestation d'intérêt : les projets déjà engagés ; les projets qui concernent des bâtiments neufs ou en lien avec des activités nouvelles (création ou accroissement d'activité) ; [...] le renouvellement à l'identique [...] L'agence se réserve le droit de ne retenir qu'une partie des dépenses de l'opération proposée dans les cas suivants : projet présentant un double enjeu (économique et environnemental, sanitaire et environnemental...) ; projet dont les coûts liés à la protection de l'environnement ne sont pas individualisables."
+      },
+      {
+        "champ": "infos_complementaires (calendrier, dépôt des demandes de travaux, futurs appels)",
+        "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-06/reglement_ami_operations_sectorielles.pdf",
+        "date": "2026-10-15",
+        "extrait": "l'appel à manifestation d'intérêt comporte deux vagues de sélection en 2025. De plus, d'autre(s) appel(s) à manifestation d'intérêt seront engagés par l'agence courant 2026 ou 2027 en fonction de la dynamique des deux premières vagues. [...] Dépôt des demandes d'aides de travaux sur le portail de l'agence : Jusqu'au 31 décembre 2028"
+      },
+      {
+        "champ": "infos_complementaires (dépôt avant engagement et exceptions, plancher de 5 000 €, travaux aidés depuis dix ans), eligibilite (activités de soins)",
+        "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-02/conditions-generales.pdf",
+        "date": "2026-10-15",
+        "extrait": "Une demande d'aide doit être formellement transmise à l'agence avant l'engagement du projet considéré. Le non-respect de cette disposition entraîne le rejet de la demande d'aide, sauf dans les cas suivants : accord écrit préalable de l'agence pour engager les travaux avant le dépôt formel de la demande ; [...] actions préalables, nécessaires à la préparation du dossier de demande d'aide, ou à la définition des travaux pour les aides relatives à des travaux [...] Le coût prévisionnel minimal est limité à 5 000 € : [...] actions des opérations groupées sectorielles [...] les dépenses pour des travaux ayant déjà bénéficiés d'une aide au cours des dix dernières années ne sont pas éligibles. [...] pour les activités économiques (agricoles, piscicoles et aquacoles, industrielles, touristiques, de soins, d'hydroélectricité...) remplissant l'ensemble des critères d'aides d'Etat [...] les aides de l'agence s'adossent aux règlements et régimes cadre en vigueur"
+      },
+      {
+        "champ": "infos_complementaires (AMI clos, lauréats)",
+        "url": "https://www.eaurmc.fr/jcms/pro_131706/fr/ami-operations-groupees-sectorielles-reduction-des-emissions-dispersees-de-micropolluants-et/ou-realisation-d-economies-d-eau",
+        "date": "2026-10-15",
+        "extrait": "Bilan de l'AMI \"Opérations groupées sectorielles [...]\" [...] 19 lauréats vont pouvoir bénéficier des aides de l'agence de l'eau. [...] Secteurs d'activité : santé, mécanique, bâtiment, [...] Pour les entreprises : les travaux liés à la réduction des micropolluants et les travaux liés à la sobriété en eau : jusqu'à 40% pour les grandes entreprises et jusqu'à 70% pour les petites et moyennes entreprises."
+      },
+      {
+        "champ": "departements, eligibilite, description, infos_complementaires (quatre porteurs santé, limite au bassin Rhône-Méditerranée)",
+        "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2026-03/liste_des_laureats_ami_sectoriel.pdf",
+        "date": "2026-10-15",
+        "extrait": "mars 2026. Appel à manifestation d'intérêt : opérations groupées sectorielles. Lauréats. [...] Pôle énergie BFC, BFC*, Sobriété en eau, Réduction des micropolluants dispersés, Établissements de santé et médico-sociaux [...] Agence régionale de santé (ARS) AURA, AURA*, Sobriété en eau, Réduction des micropolluants dispersés, Établissements de santé et médico-sociaux [...] Agence régionale de santé (ARS) PACA, PACA, Sobriété en eau, Réduction des micropolluants dispersés, Établissements de santé et médico-sociaux [...] Envirobat Occitanie, Occitanie*, Sobriété en eau, Réduction des micropolluants dispersés, Établissements de santé et médico-sociaux [...] *limité à la partie de la région située sur le bassin Rhône Méditerranée"
+      },
+      {
+        "champ": "infos_complementaires (EnvirobatBDM en Provence-Alpes-Côte d'Azur)",
+        "url": "https://envirobatbdm.eu/sites/default/files/2026-05/2026_EvBDM_Conseiller-CTEES_V2.pdf",
+        "date": "2026-10-15",
+        "extrait": "Dans le cadre de l'Appel à Manifestation d'Intérêt de l'Agence de l'Eau Rhône Méditerranée Corse, EnvirobatBDM a été retenu pour mobiliser, informer et accompagner les établissements de santé de la région Sud [...] Le projet est co-financé par l'ARS PACA et la région Sud [...] Réaliser des diagnostics et accompagnements individuels dans les établissements sanitaires et médico-sociaux de la région PACA. Identifier les établissements les plus matures et les accompagner dans le dépôt de demandes d'aide aux travaux auprès de l'Agence de l'eau RMC."
+      },
+      {
+        "champ": "infos_complementaires (Envirobat Occitanie)",
+        "url": "https://www.envirobat-oc.fr/sites/default/files/2026-03/offre-d-emploi_charge-e-de-mission-eausante.pdf",
+        "date": "2026-10-15",
+        "extrait": "Le poste est à pourvoir dans le cadre d'un Appel à manifestation d'intérêt de l'agence de l'eau Rhône Méditerranée Corse (AG RMC), pour lequel Envirobat Occitanie a été retenu pour mobiliser, informer, accompagner les établissements de santé et médico-sociaux d'Occitanie situés sur le bassin versant Rhône Méditerranée Corse à réaliser des actions et des travaux de réduction de leurs consommations d'eau et de micropolluants dispersés [...] Il est co-financé par l'ARS Occitanie [...] Réaliser des accompagnement individuels/ diagnostics scorés auprès des établissements [...] Accompagner administrativement les établissements dans le dépôt des demandes d'aide et des demandes de solde auprès de l'AG RMC"
+      },
+      {
+        "champ": "logo_url",
+        "url": "https://www.eaurmc.fr/upload/docs/image/png/2023-10/logo_ae_aout2020_web.png",
+        "date": "2026-10-15",
+        "extrait": "Logo de l'agence de l'eau Rhône Méditerranée Corse, en-tête du site eaurmc.fr"
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "AIDE_HOP_002",
+    "nom": "PLUV, gestion intégrée des eaux pluviales en zone urbaine (agence de l'eau Rhône Méditerranée Corse, 12e programme)",
+    "financeur": "Agence de l'eau Rhône Méditerranée Corse",
+    "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792070119/Noe%20assets/logos/AIDE_HOP_002.png",
+    "type": "subvention",
+    "taux": "Acteur économique (la fiche cite les établissements de soins) : 40 % au maximum, majoré de 10 % pour une moyenne entreprise et de 20 % pour une petite. Autres acteurs : 50 %. Collectivités et établissements publics : 50 %, 70 % en zonage de solidarité.",
+    "plafond": "Assiette plafonnée à 50 € HT par m² de surface déconnectée du réseau.",
+    "description": "Fiche aide PLUV du 12e programme de l'agence de l'eau Rhône Méditerranée Corse (version 2, délibération 2025-43 du 10 décembre 2025). L'agence finance les études avant-projet et les travaux qui déconnectent les eaux de pluie courantes du réseau d'assainissement pour les infiltrer ou les récupérer : ouvrages d'infiltration, désimperméabilisation des sols associée, végétalisation, revêtements perméables, reprofilage des pentes vers l'espace infiltrant, toitures végétalisées stockantes. Une cuve de récupération pour réutiliser l'eau de pluie peut entrer dans le projet, à condition d'être reliée par une surverse à un ouvrage d'infiltration.",
+    "eligibilite": "Acteurs économiques non agricoles (la fiche cite les établissements de soins), établissements publics, associations et collectivités des bassins Rhône-Méditerranée et de Corse, pour un site existant. La déconnexion d'un réseau unitaire est éligible partout. Celle d'un réseau séparatif pluvial l'est si le projet déconnecte plus de 2 000 m², ou, pour une collectivité ou un établissement public, en zonage de solidarité, au PAOT ou dans un contrat eau et climat.",
+    "categories": [
+      "valoriser_reut_eaux_non_conventionnelles"
+    ],
+    "secteurs": [
+      "hopitaux"
+    ],
+    "departements": [],
+    "agences": [
+      "AERMC"
+    ],
+    "mesures": [
+      "ACT_AGR_006"
+    ],
+    "infos_complementaires": [
+      {
+        "type": "avertissement",
+        "texte": "La demande d'aide doit être transmise à l'agence avant l'engagement du projet, faute de quoi elle est rejetée, sauf accord écrit préalable de l'agence. Les études nécessaires à la préparation du dossier ou à la définition des travaux peuvent précéder la demande. Ne signez aucun devis de travaux avant le dépôt."
+      },
+      {
+        "type": "avertissement",
+        "texte": "Une cuve de récupération seule n'est pas aidée : un ouvrage de stockage pour réutiliser l'eau de pluie n'est éligible que s'il est prévu une surverse vers un ouvrage d'infiltration, et selon la pertinence du projet pour la gestion quantitative de la ressource. L'arrosage par eau de pluie n'est aidé que pour les espaces verts créés dans le projet, et un arrosage par eau potable ou eau brute ne l'est jamais."
+      },
+      {
+        "type": "avertissement",
+        "texte": "Si vos eaux pluviales partent dans un réseau séparatif pluvial, et non dans un réseau unitaire, le projet n'est éligible pour un acteur économique que s'il déconnecte plus de 2 000 m² de surface imperméable. Ne sont pas aidés : les projets d'urbanisation nouvelle, la pose ou la réfection d'un revêtement imperméable, même pour reprofiler les pentes vers l'ouvrage d'infiltration, et les ouvrages utilisant des pneus."
+      },
+      {
+        "type": "avertissement",
+        "texte": "Le coût prévisionnel du projet doit dépasser 10 000 €. Les dépenses liées à un accroissement de l'activité et les travaux déjà aidés au cours des dix dernières années ne sont pas éligibles."
+      },
+      {
+        "type": "info",
+        "texte": "La fiche range les établissements de soins parmi les acteurs économiques (taux de base de 40 %) et cite par ailleurs les établissements publics (taux de 50 %, 70 % en zonage de solidarité) avec des exemples tirés de l'enseignement. Pour un hôpital public, faites confirmer par l'agence la catégorie retenue avant de bâtir votre plan de financement. Pour les activités économiques, l'aide est accordée dans le respect de l'encadrement européen des aides d'État."
+      },
+      {
+        "type": "info",
+        "texte": "L'agence demande des ouvrages réalisés dans les règles de l'art (fascicule 70-II), incite à suivre la charte qualité eaux pluviales de l'ASTEE et invite à privilégier les solutions fondées sur la nature et les ouvrages surfaciques. L'aide est soldée sur présentation du procès-verbal de réception des ouvrages."
+      },
+      {
+        "type": "ressource",
+        "texte": "Fiche aide PLUV, gestion intégrée des eaux pluviales en zone urbaine (version 2, délibération 2025-43)",
+        "lien": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/pluv-gestion-pluvial.pdf"
+      },
+      {
+        "type": "ressource",
+        "texte": "Conditions générales d'attribution et de versement des aides du 12e programme (délibération 2024-77)",
+        "lien": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-02/conditions-generales.pdf"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "taux",
+        "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/pluv-gestion-pluvial.pdf",
+        "date": "2026-10-15",
+        "extrait": "Acteurs économiques : déconnexion des réseaux et infiltration des eaux pluviales [...] 40%* [...] Autres acteurs [...] 50% [...] * Majoration en fonction de la taille de l'entreprise : +10% pour les moyennes entreprises, +20% pour les petites entreprises."
+      },
+      {
+        "champ": "taux",
+        "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/pluv-gestion-pluvial.pdf",
+        "date": "2026-10-15",
+        "extrait": "Collectivités et établissements publics : déconnexion d'un réseau unitaire et infiltration des eaux pluviales > En zonage de solidarité 70% > Hors zonage de solidarité 50%"
+      },
+      {
+        "champ": "plafond",
+        "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/pluv-gestion-pluvial.pdf",
+        "date": "2026-10-15",
+        "extrait": "L'assiette de l'aide est calculée à partir des dépenses éligibles, auxquelles est appliqué un coût plafond de 50 € HT/m² de surface déconnectée du réseau."
+      },
+      {
+        "champ": "eligibilite",
+        "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/pluv-gestion-pluvial.pdf",
+        "date": "2026-10-15",
+        "extrait": "BÉNÉFICIAIRES ÉLIGIBLES [...] Etablissements publics (écoles, collèges, lycées, universités…) ; Acteurs économiques non agricoles (industries, commerces, bailleurs sociaux, établissements de soins…) ; Associations"
+      },
+      {
+        "champ": "eligibilite, agences",
+        "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/pluv-gestion-pluvial.pdf",
+        "date": "2026-10-15",
+        "extrait": "Pour les actions de déconnexion d'un réseau unitaire : Tous les territoires des bassins Rhône-Méditerranée et de Corse. Pour les actions de déconnexion d'un réseau séparatif : Territoires du zonage de solidarité du programme ; Tous les territoires [...] pour les actions inscrites au PAOT ou dans un contrat Eau et Climat ou pour des projets déconnectant une surface > 2 000 m²."
+      },
+      {
+        "champ": "description, mesures",
+        "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/pluv-gestion-pluvial.pdf",
+        "date": "2026-10-15",
+        "extrait": "Etudes avant-projet et travaux contribuant à l'objectif de déconnexion des pluies courantes pour infiltration ou récupération des eaux pluviales [...] Création d'ouvrages de stockage pour la réutilisation des eaux pluviales, s'il est prévu une surverse vers un ouvrage d'infiltration"
+      },
+      {
+        "champ": "description",
+        "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/pluv-gestion-pluvial.pdf",
+        "date": "2026-10-15",
+        "extrait": "Version 2 adoptée par le conseil d'administration du 10 décembre 2025 - Délibération 2025-43"
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/pluv-gestion-pluvial.pdf",
+        "date": "2026-10-15",
+        "extrait": "Systèmes d'arrosage des espaces verts créés dans le projet par de l'eau de pluie récupérée [...] ACTIONS ET DÉPENSES NON ÉLIGIBLES : Projets concernant de l'urbanisation nouvelle. Pose ou réfection d'un revêtement imperméable [...] Ouvrages de stockage ou d'infiltration utilisant des pneus (PUNR). Systèmes d'arrosage par eau potable ou eau brute."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/pluv-gestion-pluvial.pdf",
+        "date": "2026-10-15",
+        "extrait": "Conditions spécifiques pour les autres activités : Les aides aux projets de déconnexion de réseaux séparatifs sont éligibles s'ils permettent de déconnecter une surface > 2000 m2. Les aides aux projets portés par des activités économiques sont accordées dans le respect de l'encadrement européen des aides d'Etat."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/pluv-gestion-pluvial.pdf",
+        "date": "2026-10-15",
+        "extrait": "réalisés dans les règles de l'art [...] (application du fascicule 70-II). L'agence incite également à l'utilisation de la charte qualité eaux pluviales de l'ASTEE. Les maîtres d'ouvrage sont invités à privilégier les solutions fondées sur la nature (SFN) et les ouvrages surfaciques [...] Vérification du procès-verbal de réception des ouvrages."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-02/conditions-generales.pdf",
+        "date": "2026-10-15",
+        "extrait": "Une demande d'aide doit être formellement transmise à l'agence avant l'engagement du projet considéré. Le non-respect de cette disposition entraîne le rejet de la demande d'aide, sauf [...] accord écrit préalable de l'agence [...] actions préalables, nécessaires à la préparation du dossier de demande d'aide, ou à la définition des travaux"
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-02/conditions-generales.pdf",
+        "date": "2026-10-15",
+        "extrait": "Le coût prévisionnel du projet présenté dans la demande d'aide doit être supérieur à 10 000 €. [...] les dépenses résultant d'un accroissement de l'activité économique [...] ne sont pas éligibles ; [...] les dépenses pour des travaux ayant déjà bénéficiés d'une aide au cours des dix dernières années ne sont pas éligibles."
+      },
+      {
+        "champ": "taux, eligibilite",
+        "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/recueil-fiches.pdf",
+        "date": "2026-10-15",
+        "extrait": "PLUV - Gestion intégrée des eaux pluviales en zone urbaine [...] Version 2 adoptée par le conseil d'administration du 10 décembre 2025 [...] Acteurs économiques non agricoles (industries, commerces, bailleurs sociaux, établissements de soins…)"
+      },
+      {
+        "champ": "logo_url",
+        "url": "https://www.eaurmc.fr/upload/docs/image/png/2023-10/logo_ae_aout2020_web.png",
+        "date": "2026-10-15",
+        "extrait": "Logo de l'agence de l'eau Rhône Méditerranée Corse, pris sur la page d'accueil de eaurmc.fr"
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "AIDE_HOP_003",
+    "nom": "Gestion et préservation de la ressource en eau (Région Sud)",
+    "financeur": "Région Provence-Alpes-Côte d'Azur (Région Sud)",
+    "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792070061/Noe%20assets/logos/AIDE_HOP_003.png",
+    "type": "subvention",
+    "taux": "Taux maximal de 30 %",
+    "plafond": null,
+    "description": "Subvention de la Région Sud aux actions de gestion durable et raisonnée de la ressource en eau, dont l'accompagnement des territoires vers la sobriété des prélèvements et des consommations. Parmi les actions soutenues figurent les audits de bâtiments publics pour définir des mesures de bonne gestion des consommations d'eau, et l'achat et l'installation de petits équipements hydro-économes dans les bâtiments publics. Le dispositif finance aussi des réseaux de suivi, des études de ressource et de pollution et des actions de valorisation et de sensibilisation sur leurs résultats.",
+    "eligibilite": "Structures publiques gestionnaires de milieu aquatique, collectivités et leurs groupements, départements, autres établissements publics, associations et organismes de recherche.",
+    "categories": [
+      "suivre_comprendre_maitriser",
+      "ameliorer_efficacite_hydrique"
+    ],
+    "secteurs": [
+      "hopitaux"
+    ],
+    "departements": [
+      "04",
+      "05",
+      "06",
+      "13",
+      "83",
+      "84"
+    ],
+    "agences": [],
+    "mesures": [
+      "ACT_AGR_002",
+      "ACT_HOP_003"
+    ],
+    "infos_complementaires": [
+      {
+        "type": "avertissement",
+        "texte": "La page de la Région ne cite ni les hôpitaux ni les cliniques. L'audit comme l'achat d'équipements hydro-économes ne sont éligibles que dans des bâtiments publics : un établissement privé, même associatif, n'est pas couvert par ces deux dépenses sur la foi de la page. Pour un établissement public, l'éligibilité est aussi à confirmer auprès de la Région avant de monter le dossier."
+      },
+      {
+        "type": "avertissement",
+        "texte": "La page parle de « petits équipements hydro-économes » sans en donner la liste : ni les brise-jets, ni les commandes au genou, au pied ou au coude, ni les chasses à double commande n'y sont nommés. Faites confirmer par la Région que les équipements retenus avec votre équipe d'hygiène entrent dans cette catégorie."
+      },
+      {
+        "type": "info",
+        "texte": "Les actions réalisées en régie ne sont pas éligibles, sauf pour les bénéficiaires autres que les collectivités territoriales et leurs groupements, dans la limite d'un plafond de dépenses de 400 € par jour."
+      },
+      {
+        "type": "info",
+        "texte": "La demande se fait en ligne depuis la page du dispositif (bouton « Je fais ma demande »), et son suivi sur la plateforme d'aides en ligne de la Région. Les conditions détaillées relèvent du cadre d'intervention régional « Gestion de la ressource en eau »."
+      },
+      {
+        "type": "ressource",
+        "texte": "Page du dispositif sur le site de la Région Sud",
+        "lien": "https://www.maregionsud.fr/vos-aides/detail/gestion-et-preservation-de-la-ressource-en-eau",
+        "lien_label": "Voir le dispositif"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "taux",
+        "url": "https://www.maregionsud.fr/vos-aides/detail/gestion-et-preservation-de-la-ressource-en-eau",
+        "date": "2026-10-15",
+        "extrait": "Quelle est la nature de l'aide ? Subvention à un taux maximal de 30%. (page mise à jour le 22 janvier 2026)"
+      },
+      {
+        "champ": "eligibilite",
+        "url": "https://www.maregionsud.fr/vos-aides/detail/gestion-et-preservation-de-la-ressource-en-eau",
+        "date": "2026-10-15",
+        "extrait": "Pour qui ? Structures publiques gestionnaires de milieu aquatique ; collectivités et leurs groupements ; départements ; autres établissements publics ; associations ; organismes de recherche."
+      },
+      {
+        "champ": "description",
+        "url": "https://www.maregionsud.fr/vos-aides/detail/gestion-et-preservation-de-la-ressource-en-eau",
+        "date": "2026-10-15",
+        "extrait": "Il s'agit d'accompagner la mise en œuvre d'actions en faveur de la gestion durable et raisonnée des ressources en eau à l'échelle des bassins versants [...] en accompagnant les territoires vers une sobriété de prélèvements et de consommations d'eau"
+      },
+      {
+        "champ": "mesures (ACT_AGR_002), categories",
+        "url": "https://www.maregionsud.fr/vos-aides/detail/gestion-et-preservation-de-la-ressource-en-eau",
+        "date": "2026-10-15",
+        "extrait": "audits de bâtiments publics pour la définition de mesures de bonne gestion des consommations d'eau"
+      },
+      {
+        "champ": "mesures (ACT_HOP_003), categories",
+        "url": "https://www.maregionsud.fr/vos-aides/detail/gestion-et-preservation-de-la-ressource-en-eau",
+        "date": "2026-10-15",
+        "extrait": "achat et installation de petits équipements hydro-économes dans les bâtiments publics"
+      },
+      {
+        "champ": "infos_complementaires (régie, démarche)",
+        "url": "https://www.maregionsud.fr/vos-aides/detail/gestion-et-preservation-de-la-ressource-en-eau",
+        "date": "2026-10-15",
+        "extrait": "Les actions réalisées en régie ne sont pas éligibles, sauf pour les bénéficiaires autres que les collectivités territoriales et leurs groupements, et dans la limite d'un montant plafond de dépenses de 400 €/jour. Pour les conditions d'éligibilité, se référer aux dispositifs."
+      },
+      {
+        "champ": "departements (Provence-Alpes-Côte d'Azur, région 93)",
+        "url": "https://geo.api.gouv.fr/regions/93/departements",
+        "date": "2026-10-15",
+        "extrait": "Alpes-de-Haute-Provence 04, Hautes-Alpes 05, Alpes-Maritimes 06, Bouches-du-Rhône 13, Var 83, Vaucluse 84 (codeRegion 93)"
+      },
+      {
+        "champ": "logo_url",
+        "url": "https://www.maregionsud.fr/typo3conf/ext/e_magineurs/region_sud/Resources/Public/Images/Logo.svg",
+        "date": "2026-10-15",
+        "extrait": "Logo de l'en-tête du site maregionsud.fr (le favicon du site ne fait que 16 px, pas d'icône carrée haute définition)"
+      },
+      {
+        "champ": "infos_complementaires (cadre d'intervention non consultable)",
+        "url": "https://aides-territoires.beta.gouv.fr/aides/gestion-et-preservation-de-la-ressource-en-eau-1/",
+        "date": "2026-10-15",
+        "extrait": "Les actions éligibles aux aides de la Région s'inscrivent dans le cadre d'intervention « Gestion de la ressource en eau » [...] Pour les conditions d'éligibilité, se référer aux dispositifs. (aucun lien vers le cadre d'intervention ; le PDF du cadre sur maregionsud.fr renvoie une erreur 404 le 2026-10-15)"
+      }
+    ],
+    "date_maj": "2026-10-15"
+  }
+]

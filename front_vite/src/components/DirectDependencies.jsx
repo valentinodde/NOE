@@ -1,4 +1,4 @@
-/* No border-b separators — rows use gap + background shifts per the No-Line rule */
+/* No border-b separators: rows use gap + background shifts per the No-Line rule */
 function DependencyRow({ label, value }) {
   const isTrue = value === 1 || value === true;
 

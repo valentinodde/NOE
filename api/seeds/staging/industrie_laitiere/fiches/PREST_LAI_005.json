@@ -1,0 +1,71 @@
+{
+  "id": "PREST_LAI_005",
+  "nom": "ADEME - Agence de la transition écologique",
+  "type": "agence_publique",
+  "logo_url": null,
+  "siret": "38529030900454",
+  "description": "Établissement public de l'État chargé de la transition écologique et énergétique, avec un siège à Angers et une trentaine d'établissements ouverts en région. Les recherches menées sur le catalogue de ses aides recensé par Aides-territoires, sur le portail d'État Mission Transition écologique et sur sa librairie n'ont pas permis de trouver de dispositif ADEME couvrant l'eau pour une entreprise privée : l'appel à projets Innov Eau réserve ses bénéficiaires aux collectivités et aux entreprises publiques locales, et les aides aux économies d'eau dans l'industrie sont portées par les agences de l'eau. La seule prestation ADEME touchant l'eau identifiée est le diagnostic multiflux Diag Eco-Flux, dont la source écarte un rôle opérationnel de l'agence : Bpifrance en est l'opérateur et verse la subvention de 50 pour cent, l'ADEME n'ayant coécrit que la méthodologie.",
+  "expertises": [
+    "Méthodologie Diag Eco-Flux",
+    "Publications et retours d'expérience"
+  ],
+  "categories": [
+    "suivre_comprendre_maitriser"
+  ],
+  "secteurs": [
+    "industrie_laitiere"
+  ],
+  "departements": [],
+  "mesures": [],
+  "contacts": [
+    { "type": "site_internet", "value": "https://www.ademe.fr/" },
+    { "type": "tel", "value": "02 41 20 41 20" },
+    { "type": "adresse", "value": "20 avenue du Grésillé, BP 90406, 49004 Angers Cedex 01" }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, type, departements",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=ADEME",
+      "date": "2026-09-22",
+      "extrait": "AGENCE DE L ENVIRONNEMENT ET DE LA MAITRISE DE L ENERGIE (ADEME), siren 385290309, siret 38529030900454, 20 AVENUE DU GRESILLE 49000 ANGERS, nature_juridique 4110, activite_principale 84.13Z, nombre_etablissements_ouverts 30"
+    },
+    {
+      "champ": "nom, contacts",
+      "url": "https://lannuaire.service-public.gouv.fr/gouvernement/98505403-46c6-4d6c-9766-6c58bce9a221",
+      "date": "2026-09-22",
+      "extrait": "ADEME - Agence de la transition écologique. 20, avenue du Grésillé, BP 90406, 49004 Angers Cedex 01. Téléphone : 02 41 20 41 20. Site internet : https://www.ademe.fr/"
+    },
+    {
+      "champ": "description, expertises, categories, mesures",
+      "url": "https://mission-transition-ecologique.beta.gouv.fr/aides-entreprise/diag-eco-flux",
+      "date": "2026-09-22",
+      "extrait": "Vous êtes accompagné par un expert référencé par Bpifrance, selon une méthodologie élaborée avec l'ADEME. Diagnostic des flux d'énergie, d'eau, de matières premières et de déchets. Opérateur affiché Bpifrance, subvention de 50 % versée par Bpifrance, reste à charge 3 000 € HT par site, sites de 20 à 250 salariés. L'ADEME n'est citée que pour la méthodologie, ni comme opérateur ni comme financeur."
+    },
+    {
+      "champ": "description, mesures",
+      "url": "https://aides-territoires.beta.gouv.fr/aides/c2c4-innov-eau/",
+      "date": "2026-09-22",
+      "extrait": "Innov Eau, porteur ADEME. Bénéficiaires : Commune, Intercommunalité / Pays, Département, Etablissement public dont services de l'Etat, Entreprise publique locale (Sem, Spl, SemOp). Les entreprises privées ne figurent pas parmi les bénéficiaires."
+    },
+    {
+      "champ": "description",
+      "url": "https://aides-territoires.beta.gouv.fr/partenaires/22-ademe/",
+      "date": "2026-09-22",
+      "extrait": "Page du partenaire ADEME sur Aides-territoires, 122 aides listées. Titres visibles en tête de liste : Intégrer le rafraîchissement urbain ; Réaliser des économies d'énergie sur l'éclairage public ; Accélérer la rénovation énergétique des bâtiments publics ; Accompagner les maîtrises d'ouvrage publiques ; Conseil en énergie partagée (CEP)."
+    },
+    {
+      "champ": "description",
+      "url": "https://mission-transition-ecologique.beta.gouv.fr/aides-entreprise/economies-recyclage-eau-activites-industrielles-artisanat",
+      "date": "2026-09-22",
+      "extrait": "Économiser et recycler l'eau dans l'industrie et l'artisanat : opérateur Agence de l'eau, 30 à 80 % de l'étude ou de l'investissement selon projet (mise en circuit fermé, recyclage, économies d'eau)."
+    },
+    {
+      "champ": "expertises",
+      "url": "https://librairie.ademe.fr/",
+      "date": "2026-09-22",
+      "extrait": "Rubriques de la librairie ADEME : Guides grand public, Retours d'expérience (Les acteurs témoignent de leurs expériences et partagent leur savoir-faire), Magazines, Études."
+    }
+  ],
+  "date_maj": "2026-09-22"
+}

@@ -1,0 +1,101 @@
+{
+  "id": "PREST_HOT_011",
+  "nom": "Ocene (Ocène Industrie)",
+  "type": "installateur",
+  "logo_url": "https://www.ocene-industrie.fr/images/logo/logo-ocene.svg",
+  "siret": "31312579100027",
+  "description": "Société bretonne de traitement de l'eau, d'hygiène et d'environnement, créée en 1976 et filiale du groupe Keralia. Elle a conçu EKOSWIM, un système qui collecte l'eau de lavage des filtres de piscine, la traite par filtration ou ultrafiltration et la stocke pour la réutiliser dans les sanitaires, l'arrosage des espaces verts ou le bac tampon du parc aquatique, avec suivi des économies et un pilotage à distance que la page marque d'un astérisque sans en préciser la portée ; son offre cible les campings et l'hôtellerie de plein air, et ni le lieu de fabrication d'EKOSWIM ni sa pose par Ocene ne sont publiés. Pour ses clients industriels, le site présente aussi un bureau d'études, le montage sur site, la mise en service et des contrats de maintenance, avec des techniciens qui interviennent en France et à l'étranger ; l'accès se fait sur demande de devis.",
+  "expertises": [
+    "Recyclage eau de lavage des filtres",
+    "Traitement par ultrafiltration",
+    "Réutilisation pour sanitaires et arrosage"
+  ],
+  "categories": [
+    "ameliorer_efficacite_hydrique",
+    "valoriser_reut_eaux_non_conventionnelles"
+  ],
+  "secteurs": [
+    "hotellerie"
+  ],
+  "departements": [],
+  "mesures": [
+    {
+      "id": "ACT_HOT_005",
+      "roles": [
+        "materiel"
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "type": "site_internet",
+      "value": "https://www.ocene-industrie.fr/"
+    },
+    {
+      "type": "tel",
+      "value": "02 99 98 55 03"
+    },
+    {
+      "type": "adresse",
+      "value": "2 avenue de Monthorin, CS 92002, 35420 Louvigné-du-Désert"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=OCENE&departement=35",
+      "date": "2026-09-24",
+      "extrait": "OCENE, siren 313125791, siret 31312579100027, siège, AVENUE DE MONTHORIN 35420 LOUVIGNE-DU-DESERT, activité 46.69B, état administratif A"
+    },
+    {
+      "champ": "siret",
+      "url": "https://www.ocene-industrie.fr/mentions-legales/",
+      "date": "2026-09-24",
+      "extrait": "OCENE - 2 avenue de Monthorin - 35420 Louvigné-du-Désert - Tél. : 02 99 98 55 03 SAS au capital de 3 000 000 € - SIRET 31312579100027"
+    },
+    {
+      "champ": "contacts, description (demande de devis)",
+      "url": "https://www.ocene-industrie.fr/contact/",
+      "date": "2026-09-24",
+      "extrait": "Siège social 2 Avenue de Monthorin - CS 92002 - 35420 Louvigné-du-Désert [...] Tél. + 33 (0)2 99 98 55 03 [...] Objet Demande de contact Information Équipement Demande de Devis Contact Services"
+    },
+    {
+      "champ": "description (création, groupe)",
+      "url": "https://www.ocene-industrie.fr/qui-sommes-nous/",
+      "date": "2026-09-24",
+      "extrait": "Depuis sa création en 1976, OCENE [...] Au fil de son histoire, OCENE a intégré différents métiers : le traitement de l'eau, l'hygiène, l'environnement. [...] Implanté historiquement en Bretagne [...] croissance en France et à l'Export. [...] Président du groupe KERALIA"
+    },
+    {
+      "champ": "description, expertises, mesures (ACT_HOT_005 materiel), type (conçu par OCENE)",
+      "url": "https://www.ocene-industrie.fr/metiers/traitement-de-l-eau/eau-recyclee-reuse-recyclage-industrie/146-ekoswim-recyclage-des-eaux-de-lavage-des-filtres-de-piscine.html",
+      "date": "2026-09-24",
+      "extrait": "EKOSWIM® est le système de recyclage des eaux de lavage des filtres de piscine développé et conçu par OCENE. [...] Une fois traitée, elle peut être réutilisée pour l'arrosage des espaces verts, les sanitaires, ou être renvoyée vers le bac tampon afin d'alimenter votre parc aquatique. [...] Pilotage à distance* avec suivi des économies [...] Module filtration / Module ultrafiltration [...] en fonction des besoins de votre camping. [...] *Le volume d'eau mentionné a été calculé sur la base de trois cycles de nettoyage pendant la période estivale d'une piscine de 2 000 m²."
+    },
+    {
+      "champ": "description (hôtellerie de plein air), categories",
+      "url": "https://www.ocene-industrie.fr/metiers/traitement-de-l-eau/eau-recyclee-reuse-recyclage-industrie/reuse-eaux-de-filtration-piscine/",
+      "date": "2026-09-24",
+      "extrait": "les hôtelleries de plein air se tourne de plus en plus vers la réutilisation des eaux (REUT ou REUSE). OCENE a développé une solution économique et écologique de traitement d'eau : EKOSWIM®. Elle a pour but de recycler l'eau de lavage des filtres de piscine et de la réutiliser [...] tels que les sanitaires, l'arrosage, les piscines, bassins..."
+    },
+    {
+      "champ": "description (hôtellerie de plein air)",
+      "url": "https://www.ocene-industrie.fr/activites/hotellerie-de-plein-air/",
+      "date": "2026-09-24",
+      "extrait": "pour limiter la surconsommation d'eau, l'une des solutions est la réutilisation des eaux de lavage des filtres de piscine (REUT). Plutôt que de rejeter ces eaux dans les égouts, ce système permet de collecter les eaux usées, de les traiter et les réutiliser pour l'arrosage des espaces verts ou encore l'alimentation des WC."
+    },
+    {
+      "champ": "type, description (services), departements",
+      "url": "https://www.ocene-industrie.fr/services/",
+      "date": "2026-09-24",
+      "extrait": "Nos services pour l'industrie [...] ÉTUDE ET CONCEPTION Nos chargés d'affaires et ingénieurs du Bureau d'études [...] interviennent à toutes les étapes de votre projet : Fabrication, Contrôle et essai, Montage sur site, Mise en service et Formation. [...] nos équipes interviennent sur site, en France et à l'étranger [...] CONTRATS DE MAINTENANCE"
+    },
+    {
+      "champ": "logo_url",
+      "url": "https://www.ocene-industrie.fr/contact/",
+      "date": "2026-09-24",
+      "extrait": "<img src=\"/images/logo/logo-ocene.svg\" alt=\"Ocène\"/>"
+    }
+  ],
+  "date_maj": "2026-09-24"
+}

@@ -1,0 +1,753 @@
+{
+  "sector_id": "artisanat_alimentaire",
+  "sector_label": "Artisanat alimentaire",
+  "naf_codes": [
+    "10.13B",
+    "10.71C",
+    "10.71D"
+  ],
+  "themes": [
+    {
+      "id": "connaissance",
+      "label": "Connaissance & mesure"
+    },
+    {
+      "id": "laboratoire",
+      "label": "Laboratoire & nettoyage"
+    },
+    {
+      "id": "rejets",
+      "label": "Eaux usées"
+    },
+    {
+      "id": "exterieurs",
+      "label": "Usages extérieurs"
+    },
+    {
+      "id": "gouvernance",
+      "label": "Gouvernance & anticipation"
+    }
+  ],
+  "questions": [
+    {
+      "id": "art_q01",
+      "theme": "connaissance",
+      "order": 1,
+      "type": "single_choice",
+      "text": "Comment suivez-vous aujourd'hui la consommation d'eau de votre entreprise ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "facture",
+          "text": "Je m'en remets à la facture du service d'eau",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "comptage"
+          ]
+        },
+        {
+          "id": "releve_occasionnel",
+          "text": "Je relève le compteur de temps en temps",
+          "maturity_score": 1,
+          "concern_score": 1,
+          "topics": [
+            "comptage"
+          ]
+        },
+        {
+          "id": "releve_hebdo",
+          "text": "Je relève le compteur chaque semaine et je compare",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        },
+        {
+          "id": "releve_et_fuites",
+          "text": "Relevé chaque semaine et contrôle des fuites le soir et le matin",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "art_q02",
+      "theme": "connaissance",
+      "order": 2,
+      "type": "single_choice",
+      "text": "Votre compteur d'eau dessert-il aussi votre logement ou un autre local ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "compteur_partage",
+          "text": "Oui, un seul compteur pour l'entreprise et le logement",
+          "maturity_score": 1,
+          "concern_score": 1,
+          "topics": [
+            "comptage"
+          ]
+        },
+        {
+          "id": "compteur_propre",
+          "text": "Non, il ne dessert que l'entreprise",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        },
+        {
+          "id": "sous_compteur_labo",
+          "text": "Oui, mais le laboratoire a son propre sous-compteur",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "art_q03",
+      "theme": "connaissance",
+      "order": 3,
+      "type": "single_choice",
+      "text": "Avez-vous fait réaliser un diagnostic eau de votre laboratoire, par exemple par votre chambre de métiers ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "jamais",
+          "text": "Non, jamais",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "audit"
+          ]
+        },
+        {
+          "id": "envisage",
+          "text": "Non, mais nous l'envisageons",
+          "maturity_score": 0,
+          "concern_score": 2,
+          "topics": [
+            "audit"
+          ]
+        },
+        {
+          "id": "ancien",
+          "text": "Oui, il y a plus de cinq ans",
+          "maturity_score": 1,
+          "concern_score": 1,
+          "topics": [
+            "audit"
+          ]
+        },
+        {
+          "id": "recent",
+          "text": "Oui, depuis moins de cinq ans, et nous avons suivi ses conseils",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "art_q04",
+      "theme": "laboratoire",
+      "order": 4,
+      "type": "single_choice",
+      "text": "Avant de laver sols, plans de travail et ustensiles, que retirez-vous à sec ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "jet_direct",
+          "text": "Rien : nous lavons directement au jet ou à grande eau",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "nettoyage"
+          ]
+        },
+        {
+          "id": "parfois",
+          "text": "Nous raclons ou aspirons quand nous y pensons",
+          "maturity_score": 1,
+          "concern_score": 1,
+          "topics": [
+            "nettoyage"
+          ]
+        },
+        {
+          "id": "systematique",
+          "text": "Graisses raclées, farine aspirée et siphons vidés à chaque fois",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        },
+        {
+          "id": "systematique_consigne",
+          "text": "Systématique, avec une consigne affichée et suivie par tous",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "art_q05",
+      "theme": "laboratoire",
+      "order": 5,
+      "type": "single_choice",
+      "text": "Comment l'équipe lave-t-elle bacs, moules et ustensiles à la plonge ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "eau_courante",
+          "text": "Sous l'eau courante, robinet ouvert pendant le lavage",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "gestes"
+          ]
+        },
+        {
+          "id": "variable",
+          "text": "Chacun fait à sa façon, rien n'a été expliqué",
+          "maturity_score": 1,
+          "concern_score": 1,
+          "topics": [
+            "gestes"
+          ]
+        },
+        {
+          "id": "bac",
+          "text": "Dans un bac rempli, les gestes sont montrés aux nouveaux",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        },
+        {
+          "id": "bac_forme",
+          "text": "Au bac ou au lave-batterie, gestes montrés à tous et rappelés",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "art_q06",
+      "theme": "laboratoire",
+      "order": 6,
+      "type": "single_choice",
+      "text": "Vos robinets et votre plonge sont-ils équipés pour limiter le débit d'eau ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "aucun",
+          "text": "Non, robinetterie d'origine",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "equipements"
+          ]
+        },
+        {
+          "id": "partiel",
+          "text": "Quelques mousseurs, pas de douchette à gâchette à la plonge",
+          "maturity_score": 1,
+          "concern_score": 2,
+          "topics": [
+            "equipements"
+          ]
+        },
+        {
+          "id": "complet",
+          "text": "Mousseurs partout et douchette de prélavage à gâchette",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        },
+        {
+          "id": "complet_controle",
+          "text": "Tout est équipé et les débits sont vérifiés chaque année",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "art_q07",
+      "theme": "laboratoire",
+      "order": 7,
+      "type": "single_choice",
+      "text": "Vos équipements de froid ou votre refroidisseur d'eau sont-ils refroidis par de l'eau rejetée à l'égout ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "eau_perdue",
+          "text": "Oui, au moins un équipement fonctionne à eau perdue",
+          "maturity_score": 0,
+          "concern_score": 1,
+          "topics": [
+            "froid"
+          ]
+        },
+        {
+          "id": "jamais_verifie",
+          "text": "Nous ne l'avons jamais vérifié",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "froid"
+          ]
+        },
+        {
+          "id": "sans_eau_perdue",
+          "text": "Non, vérifié : tout est refroidi par air ou en boucle fermée",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "art_q08",
+      "theme": "rejets",
+      "order": 8,
+      "type": "single_choice",
+      "text": "Les eaux de votre laboratoire passent-elles par un séparateur à graisses ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "aucun",
+          "text": "Non, pas de séparateur à graisses",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "rejets"
+          ]
+        },
+        {
+          "id": "sans_entretien",
+          "text": "Oui, vidé quand il déborde ou sent mauvais",
+          "maturity_score": 1,
+          "concern_score": 1,
+          "topics": [
+            "rejets"
+          ]
+        },
+        {
+          "id": "non_exige",
+          "text": "Non, le service d'assainissement ne l'exige pas pour notre activité",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        },
+        {
+          "id": "contrat",
+          "text": "Oui, avec un contrat de vidange régulier",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        },
+        {
+          "id": "contrat_suivi",
+          "text": "Oui, contrat de vidange et planning d'entretien tenu à jour",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "art_q09",
+      "theme": "rejets",
+      "order": 9,
+      "type": "single_choice",
+      "text": "Avez-vous fait le point avec le service d'assainissement sur le rejet de vos eaux usées ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "jamais",
+          "text": "Non, je ne sais pas ce que le règlement demande",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "rejets"
+          ]
+        },
+        {
+          "id": "renseigne",
+          "text": "Je me suis renseigné, la démarche reste à faire",
+          "maturity_score": 1,
+          "concern_score": 2,
+          "topics": [
+            "rejets"
+          ]
+        },
+        {
+          "id": "pas_exige",
+          "text": "Oui, le service m'a confirmé qu'aucune autorisation n'est exigée",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        },
+        {
+          "id": "autorisation",
+          "text": "Oui, autorisation ou convention de déversement obtenue",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "art_q10",
+      "theme": "exterieurs",
+      "order": 10,
+      "type": "single_choice",
+      "text": "Lavez-vous un véhicule de livraison ou une cour, un quai, une devanture ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "reseau",
+          "text": "Oui, à l'eau du réseau",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "exterieurs"
+          ]
+        },
+        {
+          "id": "station",
+          "text": "Oui, mais le véhicule passe en station de lavage",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        },
+        {
+          "id": "eau_pluie",
+          "text": "Oui, avec de l'eau de pluie récupérée",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        },
+        {
+          "id": "non_concerne",
+          "text": "Non, ni véhicule ni surface extérieure à laver",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "art_q11",
+      "theme": "gouvernance",
+      "order": 11,
+      "type": "single_choice",
+      "text": "Savez-vous comment vous continueriez à produire en cas de coupure d'eau ou de restrictions ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "jamais_pense",
+          "text": "Nous n'y avons jamais pensé",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "anticipation"
+          ]
+        },
+        {
+          "id": "informe",
+          "text": "Nous suivons les alertes de la commune, sans rien avoir prévu",
+          "maturity_score": 1,
+          "concern_score": 2,
+          "topics": [
+            "anticipation"
+          ]
+        },
+        {
+          "id": "consignes",
+          "text": "Nous savons ce que nous arrêterions et qui prévenir",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        },
+        {
+          "id": "plan_ecrit",
+          "text": "Un plan écrit, connu de l'équipe, avec le contact du service d'eau",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "art_q12",
+      "theme": "gouvernance",
+      "order": 12,
+      "type": "single_choice",
+      "text": "Participez-vous à une démarche collective sur l'eau, comme les éco-défis de votre chambre de métiers ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "non",
+          "text": "Non",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": []
+        },
+        {
+          "id": "informe",
+          "text": "Nous en connaissons une, sans y participer",
+          "maturity_score": 1,
+          "concern_score": 2,
+          "topics": [
+            "collectif"
+          ]
+        },
+        {
+          "id": "participe",
+          "text": "Oui, nous y participons",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        },
+        {
+          "id": "moteur",
+          "text": "Oui, nous y tenons un rôle actif (témoignage, animation)",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    }
+  ],
+  "topics_labels": {
+    "comptage": "Comptage et suivi des volumes",
+    "audit": "Audit eau",
+    "nettoyage": "Nettoyage à sec",
+    "gestes": "Gestes économes",
+    "equipements": "Équipements économes",
+    "froid": "Froid à eau perdue",
+    "rejets": "Rejets et assainissement",
+    "exterieurs": "Usages extérieurs",
+    "anticipation": "Anticipation des coupures et restrictions",
+    "collectif": "Démarche collective"
+  },
+  "action_plan_config": {
+    "always_include": [],
+    "never_include": [],
+    "filters": [
+      {
+        "id": "f_suivi_facture",
+        "description": "Consommation suivie à la facture ou par relevés occasionnels : relever chaque semaine et traquer les fuites",
+        "type": "answer",
+        "questionId": "art_q01",
+        "operator": "in",
+        "value": [
+          "facture",
+          "releve_occasionnel"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_ART_002"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_compteur_partage",
+        "description": "Compteur commun à l'entreprise et au logement : poser un sous-compteur sur le laboratoire pour suivre la production seule",
+        "type": "answer",
+        "questionId": "art_q02",
+        "operator": "eq",
+        "value": "compteur_partage",
+        "effect": "add",
+        "measures": [
+          "ACT_AGR_001"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_pas_audit",
+        "description": "Pas de diagnostic, diagnostic seulement envisagé ou de plus de cinq ans : recommander le diagnostic",
+        "type": "answer",
+        "questionId": "art_q03",
+        "operator": "in",
+        "value": [
+          "jamais",
+          "envisage",
+          "ancien"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_AGR_002"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_audit_inconnu",
+        "description": "Question du diagnostic laissée sans réponse : ne pas savoir est le motif même de le recommander",
+        "type": "answer",
+        "questionId": "art_q03",
+        "operator": "not_answered",
+        "effect": "add",
+        "measures": [
+          "ACT_AGR_002"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_lavage_direct",
+        "description": "Lavage direct à l'eau, ou raclage et aspiration occasionnels : nettoyer à sec avant tout lavage",
+        "type": "answer",
+        "questionId": "art_q04",
+        "operator": "in",
+        "value": [
+          "jet_direct",
+          "parfois"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_ART_005"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_plonge_eau_courante",
+        "description": "Plonge sous l'eau courante ou gestes jamais expliqués : former l'équipe aux gestes économes",
+        "type": "answer",
+        "questionId": "art_q05",
+        "operator": "in",
+        "value": [
+          "eau_courante",
+          "variable"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_ART_001"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_points_eau_non_equipes",
+        "description": "Robinetterie d'origine ou équipement partiel : poser mousseurs et douchette à gâchette",
+        "type": "answer",
+        "questionId": "art_q06",
+        "operator": "in",
+        "value": [
+          "aucun",
+          "partiel"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_ART_003"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_froid_eau_perdue",
+        "description": "Équipement de froid à eau perdue, ou jamais vérifié : faire vérifier par le frigoriste et remplacer",
+        "type": "answer",
+        "questionId": "art_q07",
+        "operator": "in",
+        "value": [
+          "eau_perdue",
+          "jamais_verifie"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_ART_004"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_sans_separateur",
+        "description": "Pas de séparateur, ou séparateur vidé seulement quand il déborde : installer un séparateur adapté et organiser son entretien",
+        "type": "answer",
+        "questionId": "art_q08",
+        "operator": "in",
+        "value": [
+          "aucun",
+          "sans_entretien"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_ART_006"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_rejet_non_declare",
+        "description": "Statut du rejet inconnu ou démarche non faite : se renseigner et obtenir l'autorisation si elle est exigée",
+        "type": "answer",
+        "questionId": "art_q09",
+        "operator": "in",
+        "value": [
+          "jamais",
+          "renseigne"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_ART_007"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_reglement_inconnu",
+        "description": "Règlement d'assainissement jamais consulté : savoir d'abord si un séparateur est exigé, retirer le séparateur au profit de la démarche auprès du service",
+        "type": "answer",
+        "questionId": "art_q09",
+        "operator": "eq",
+        "value": "jamais",
+        "effect": "remove",
+        "measures": [
+          "ACT_ART_006"
+        ],
+        "priority": 2
+      },
+      {
+        "id": "f_exterieurs_reseau",
+        "description": "Véhicule ou surfaces extérieures lavés à l'eau du réseau : récupérer l'eau de pluie pour ces usages",
+        "type": "answer",
+        "questionId": "art_q10",
+        "operator": "eq",
+        "value": "reseau",
+        "effect": "add",
+        "measures": [
+          "ACT_AGR_006"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_anticipation",
+        "description": "Coupure d'eau ou restrictions jamais envisagées, ou seulement suivies : préparer un plan de gestion de l'eau",
+        "type": "answer",
+        "questionId": "art_q11",
+        "operator": "in",
+        "value": [
+          "jamais_pense",
+          "informe"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_AGR_009"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_demarche_connue",
+        "description": "Démarche collective connue sans y participer : la rejoindre",
+        "type": "answer",
+        "questionId": "art_q12",
+        "operator": "eq",
+        "value": "informe",
+        "effect": "add",
+        "measures": [
+          "ACT_AGR_010"
+        ],
+        "priority": 1
+      }
+    ]
+  }
+}

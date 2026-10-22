@@ -1,0 +1,148 @@
+{
+  "id": "AIDE_HOP_002",
+  "nom": "PLUV, gestion intégrée des eaux pluviales en zone urbaine (agence de l'eau Rhône Méditerranée Corse, 12e programme)",
+  "financeur": "Agence de l'eau Rhône Méditerranée Corse",
+  "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792070119/Noe%20assets/logos/AIDE_HOP_002.png",
+  "type": "subvention",
+  "taux": "Acteur économique (la fiche cite les établissements de soins) : 40 % au maximum, majoré de 10 % pour une moyenne entreprise et de 20 % pour une petite. Autres acteurs : 50 %. Collectivités et établissements publics : 50 %, 70 % en zonage de solidarité.",
+  "plafond": "Assiette plafonnée à 50 € HT par m² de surface déconnectée du réseau.",
+  "description": "Fiche aide PLUV du 12e programme de l'agence de l'eau Rhône Méditerranée Corse (version 2, délibération 2025-43 du 10 décembre 2025). L'agence finance les études avant-projet et les travaux qui déconnectent les eaux de pluie courantes du réseau d'assainissement pour les infiltrer ou les récupérer : ouvrages d'infiltration, désimperméabilisation des sols associée, végétalisation, revêtements perméables, reprofilage des pentes vers l'espace infiltrant, toitures végétalisées stockantes. Une cuve de récupération pour réutiliser l'eau de pluie peut entrer dans le projet, à condition d'être reliée par une surverse à un ouvrage d'infiltration.",
+  "eligibilite": "Acteurs économiques non agricoles (la fiche cite les établissements de soins), établissements publics, associations et collectivités des bassins Rhône-Méditerranée et de Corse, pour un site existant. La déconnexion d'un réseau unitaire est éligible partout. Celle d'un réseau séparatif pluvial l'est si le projet déconnecte plus de 2 000 m², ou, pour une collectivité ou un établissement public, en zonage de solidarité, au PAOT ou dans un contrat eau et climat.",
+  "categories": [
+    "valoriser_reut_eaux_non_conventionnelles"
+  ],
+  "secteurs": [
+    "hopitaux"
+  ],
+  "departements": [],
+  "agences": [
+    "AERMC"
+  ],
+  "mesures": [
+    "ACT_AGR_006"
+  ],
+  "infos_complementaires": [
+    {
+      "type": "avertissement",
+      "texte": "La demande d'aide doit être transmise à l'agence avant l'engagement du projet, faute de quoi elle est rejetée, sauf accord écrit préalable de l'agence. Les études nécessaires à la préparation du dossier ou à la définition des travaux peuvent précéder la demande. Ne signez aucun devis de travaux avant le dépôt."
+    },
+    {
+      "type": "avertissement",
+      "texte": "Une cuve de récupération seule n'est pas aidée : un ouvrage de stockage pour réutiliser l'eau de pluie n'est éligible que s'il est prévu une surverse vers un ouvrage d'infiltration, et selon la pertinence du projet pour la gestion quantitative de la ressource. L'arrosage par eau de pluie n'est aidé que pour les espaces verts créés dans le projet, et un arrosage par eau potable ou eau brute ne l'est jamais."
+    },
+    {
+      "type": "avertissement",
+      "texte": "Si vos eaux pluviales partent dans un réseau séparatif pluvial, et non dans un réseau unitaire, le projet n'est éligible pour un acteur économique que s'il déconnecte plus de 2 000 m² de surface imperméable. Ne sont pas aidés : les projets d'urbanisation nouvelle, la pose ou la réfection d'un revêtement imperméable, même pour reprofiler les pentes vers l'ouvrage d'infiltration, et les ouvrages utilisant des pneus."
+    },
+    {
+      "type": "avertissement",
+      "texte": "Le coût prévisionnel du projet doit dépasser 10 000 €. Les dépenses liées à un accroissement de l'activité et les travaux déjà aidés au cours des dix dernières années ne sont pas éligibles."
+    },
+    {
+      "type": "info",
+      "texte": "La fiche range les établissements de soins parmi les acteurs économiques (taux de base de 40 %) et cite par ailleurs les établissements publics (taux de 50 %, 70 % en zonage de solidarité) avec des exemples tirés de l'enseignement. Pour un hôpital public, faites confirmer par l'agence la catégorie retenue avant de bâtir votre plan de financement. Pour les activités économiques, l'aide est accordée dans le respect de l'encadrement européen des aides d'État."
+    },
+    {
+      "type": "info",
+      "texte": "L'agence demande des ouvrages réalisés dans les règles de l'art (fascicule 70-II), incite à suivre la charte qualité eaux pluviales de l'ASTEE et invite à privilégier les solutions fondées sur la nature et les ouvrages surfaciques. L'aide est soldée sur présentation du procès-verbal de réception des ouvrages."
+    },
+    {
+      "type": "ressource",
+      "texte": "Fiche aide PLUV, gestion intégrée des eaux pluviales en zone urbaine (version 2, délibération 2025-43)",
+      "lien": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/pluv-gestion-pluvial.pdf"
+    },
+    {
+      "type": "ressource",
+      "texte": "Conditions générales d'attribution et de versement des aides du 12e programme (délibération 2024-77)",
+      "lien": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-02/conditions-generales.pdf"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "taux",
+      "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/pluv-gestion-pluvial.pdf",
+      "date": "2026-10-15",
+      "extrait": "Acteurs économiques : déconnexion des réseaux et infiltration des eaux pluviales [...] 40%* [...] Autres acteurs [...] 50% [...] * Majoration en fonction de la taille de l'entreprise : +10% pour les moyennes entreprises, +20% pour les petites entreprises."
+    },
+    {
+      "champ": "taux",
+      "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/pluv-gestion-pluvial.pdf",
+      "date": "2026-10-15",
+      "extrait": "Collectivités et établissements publics : déconnexion d'un réseau unitaire et infiltration des eaux pluviales > En zonage de solidarité 70% > Hors zonage de solidarité 50%"
+    },
+    {
+      "champ": "plafond",
+      "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/pluv-gestion-pluvial.pdf",
+      "date": "2026-10-15",
+      "extrait": "L'assiette de l'aide est calculée à partir des dépenses éligibles, auxquelles est appliqué un coût plafond de 50 € HT/m² de surface déconnectée du réseau."
+    },
+    {
+      "champ": "eligibilite",
+      "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/pluv-gestion-pluvial.pdf",
+      "date": "2026-10-15",
+      "extrait": "BÉNÉFICIAIRES ÉLIGIBLES [...] Etablissements publics (écoles, collèges, lycées, universités…) ; Acteurs économiques non agricoles (industries, commerces, bailleurs sociaux, établissements de soins…) ; Associations"
+    },
+    {
+      "champ": "eligibilite, agences",
+      "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/pluv-gestion-pluvial.pdf",
+      "date": "2026-10-15",
+      "extrait": "Pour les actions de déconnexion d'un réseau unitaire : Tous les territoires des bassins Rhône-Méditerranée et de Corse. Pour les actions de déconnexion d'un réseau séparatif : Territoires du zonage de solidarité du programme ; Tous les territoires [...] pour les actions inscrites au PAOT ou dans un contrat Eau et Climat ou pour des projets déconnectant une surface > 2 000 m²."
+    },
+    {
+      "champ": "description, mesures",
+      "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/pluv-gestion-pluvial.pdf",
+      "date": "2026-10-15",
+      "extrait": "Etudes avant-projet et travaux contribuant à l'objectif de déconnexion des pluies courantes pour infiltration ou récupération des eaux pluviales [...] Création d'ouvrages de stockage pour la réutilisation des eaux pluviales, s'il est prévu une surverse vers un ouvrage d'infiltration"
+    },
+    {
+      "champ": "description",
+      "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/pluv-gestion-pluvial.pdf",
+      "date": "2026-10-15",
+      "extrait": "Version 2 adoptée par le conseil d'administration du 10 décembre 2025 - Délibération 2025-43"
+    },
+    {
+      "champ": "infos_complementaires",
+      "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/pluv-gestion-pluvial.pdf",
+      "date": "2026-10-15",
+      "extrait": "Systèmes d'arrosage des espaces verts créés dans le projet par de l'eau de pluie récupérée [...] ACTIONS ET DÉPENSES NON ÉLIGIBLES : Projets concernant de l'urbanisation nouvelle. Pose ou réfection d'un revêtement imperméable [...] Ouvrages de stockage ou d'infiltration utilisant des pneus (PUNR). Systèmes d'arrosage par eau potable ou eau brute."
+    },
+    {
+      "champ": "infos_complementaires",
+      "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/pluv-gestion-pluvial.pdf",
+      "date": "2026-10-15",
+      "extrait": "Conditions spécifiques pour les autres activités : Les aides aux projets de déconnexion de réseaux séparatifs sont éligibles s'ils permettent de déconnecter une surface > 2000 m2. Les aides aux projets portés par des activités économiques sont accordées dans le respect de l'encadrement européen des aides d'Etat."
+    },
+    {
+      "champ": "infos_complementaires",
+      "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/pluv-gestion-pluvial.pdf",
+      "date": "2026-10-15",
+      "extrait": "réalisés dans les règles de l'art [...] (application du fascicule 70-II). L'agence incite également à l'utilisation de la charte qualité eaux pluviales de l'ASTEE. Les maîtres d'ouvrage sont invités à privilégier les solutions fondées sur la nature (SFN) et les ouvrages surfaciques [...] Vérification du procès-verbal de réception des ouvrages."
+    },
+    {
+      "champ": "infos_complementaires",
+      "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-02/conditions-generales.pdf",
+      "date": "2026-10-15",
+      "extrait": "Une demande d'aide doit être formellement transmise à l'agence avant l'engagement du projet considéré. Le non-respect de cette disposition entraîne le rejet de la demande d'aide, sauf [...] accord écrit préalable de l'agence [...] actions préalables, nécessaires à la préparation du dossier de demande d'aide, ou à la définition des travaux"
+    },
+    {
+      "champ": "infos_complementaires",
+      "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-02/conditions-generales.pdf",
+      "date": "2026-10-15",
+      "extrait": "Le coût prévisionnel du projet présenté dans la demande d'aide doit être supérieur à 10 000 €. [...] les dépenses résultant d'un accroissement de l'activité économique [...] ne sont pas éligibles ; [...] les dépenses pour des travaux ayant déjà bénéficiés d'une aide au cours des dix dernières années ne sont pas éligibles."
+    },
+    {
+      "champ": "taux, eligibilite",
+      "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/recueil-fiches.pdf",
+      "date": "2026-10-15",
+      "extrait": "PLUV - Gestion intégrée des eaux pluviales en zone urbaine [...] Version 2 adoptée par le conseil d'administration du 10 décembre 2025 [...] Acteurs économiques non agricoles (industries, commerces, bailleurs sociaux, établissements de soins…)"
+    },
+    {
+      "champ": "logo_url",
+      "url": "https://www.eaurmc.fr/upload/docs/image/png/2023-10/logo_ae_aout2020_web.png",
+      "date": "2026-10-15",
+      "extrait": "Logo de l'agence de l'eau Rhône Méditerranée Corse, pris sur la page d'accueil de eaurmc.fr"
+    }
+  ],
+  "date_maj": "2026-10-15"
+}

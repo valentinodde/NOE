@@ -1,0 +1,201 @@
+{
+  "id": "AIDE_GCU_010",
+  "nom": "Fonds hydraulique agricole, volet investissements matériels (État, appel à projets régional Occitanie)",
+  "financeur": "État (ministère de l'Agriculture), appel à projets piloté par la DRAAF Occitanie",
+  "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792084998/Noe%20assets/logos/AIDE_GCU_010.png",
+  "type": "subvention",
+  "taux": "Jusqu'à 80 % des coûts éligibles HT pour un investissement collectif (maîtrise d'ouvrage collective, infrastructure desservant plusieurs exploitations) et jusqu'à 65 % pour un investissement individuel. Taux maximums, que le ministère peut réduire pour l'équilibre entre territoires.",
+  "plafond": "Pas de plafond d'aide indiqué dans l'appel à projets 2026. Plancher : assiette éligible d'au moins 120 000 € HT pour un exploitant individuel, 180 000 € pour un GAEC de 2 associés, 240 000 € pour un GAEC de 3 associés et plus. Foncier limité à 10 % du coût éligible, sécurisation à 5 % et dépenses immatérielles (maîtrise d'œuvre, assistance à maîtrise d'ouvrage) à 20 % des investissements matériels.",
+  "description": "Subvention de l'État, issue de la mesure 21 du Plan eau, pour les infrastructures hydrauliques dédiées à l'irrigation, de l'accès à l'eau jusqu'à l'entrée de la parcelle, borne comprise : rénovation et modernisation d'ouvrages de prélèvement, de stockage, de transport et de distribution d'eau brute, nouvelles retenues agricoles, stockage lié à la réutilisation d'eaux usées traitées, réalimentation et stockage en nappe, création ou modernisation de réseaux d'irrigation. Les compteurs et la télérelève de l'infrastructure sont éligibles, pas le matériel d'arrosage à la parcelle. Le dispositif est ouvert aux exploitations individuelles comme aux structures collectives, avec un taux plus élevé pour les projets collectifs. En Occitanie, la DRAAF lance un appel à projets régional par an.",
+  "eligibilite": "En Occitanie, pour un projet exclusivement agricole : exploitations agricoles (y compris individuelles), structures collectives d'agriculteurs, CUMA, organismes uniques d'irrigation, associations syndicales (ASL, ASA, ASCO), sociétés d'économie mixte, établissements publics et collectivités. Un projet servant aussi d'autres usages économiques (eau potable, industrie, tourisme) est réservé aux ASA, ASCO et à leurs unions. Il faut une étude préalable, toutes les autorisations administratives, la compatibilité avec le SDAGE et le SAGE, et un comptage de l'eau au niveau de l'investissement.",
+  "categories": [
+    "valoriser_reut_eaux_non_conventionnelles"
+  ],
+  "secteurs": [
+    "grandes_cultures"
+  ],
+  "departements": [
+    "09",
+    "11",
+    "12",
+    "30",
+    "31",
+    "32",
+    "34",
+    "46",
+    "48",
+    "65",
+    "66",
+    "81",
+    "82"
+  ],
+  "agences": [],
+  "mesures": [
+    "ACT_GCU_008"
+  ],
+  "infos_complementaires": [
+    {
+      "type": "info",
+      "texte": "État au 15 octobre 2026 : la session 2026 du volet investissements matériels, troisième appel à projets régional, a été ouverte du 18 mai au 30 juin 2026 à 23h59 et est close. Un volet maturation, nouveau en 2026, qui finance les études préalables au montage des projets d'infrastructures hydrauliques, a été ouvert du 15 juillet au 7 septembre 2026 et est clos aussi. Aucune session 2027 n'est annoncée sur le site de la DRAAF à cette date."
+    },
+    {
+      "type": "avertissement",
+      "texte": "Aucun commencement d'exécution (bon de commande signé, devis approuvé, marché notifié, début de travaux) ne doit intervenir avant la date de réception de la demande par la DRAAF : le projet deviendrait inéligible."
+    },
+    {
+      "type": "avertissement",
+      "texte": "Les systèmes d'arrosage à la parcelle (aspersion, goutte-à-goutte), les sondes, tensiomètres et logiciels de pilotage sont exclus, de même que le matériel d'occasion, la mise aux normes réglementaire, le compteur imposé par la loi sur l'eau et le curage des sédiments."
+    },
+    {
+      "type": "avertissement",
+      "texte": "Dans un territoire en déséquilibre quantitatif (zone de répartition des eaux, masse d'eau en état moins que bon pour la quantité), une retenue n'est éligible que si elle s'inscrit dans un SAGE, un PTGE ou un PGRE, achevé ou en cours d'élaboration. Moderniser une installation existante suppose de démontrer une économie d'eau potentielle d'au moins 5 % ou 25 % selon le cas, et d'en réaliser au moins la moitié. Une extension de la surface irriguée est inéligible si la masse d'eau est en état moins que bon pour la quantité."
+    },
+    {
+      "type": "info",
+      "texte": "Sélection par la DRAAF Occitanie selon des critères de priorité : dimension collective, inscription dans un PTGE, un PGRE ou un SAGE, pratiques agroécologiques (AB, MAEC, HVE, GIEE...), démarches de filière, substitution ou baisse des prélèvements dans le milieu. Le comité de sélection associe la Région et les agences de l'eau Adour-Garonne et Rhône-Méditerranée-Corse. Dépôt uniquement en ligne, ni courriel ni courrier. Un projet éligible mais non retenu une année a pu être redéposé de façon simplifiée l'année suivante."
+    },
+    {
+      "type": "info",
+      "texte": "Chaque dépense se justifie par un devis jusqu'à 10 000 € HT, deux entre 10 000 et 100 000 €, trois au-delà. Les investissements aidés ne peuvent pas être revendus pendant 3 ans, et les volumes prélevés se conservent 10 ans après le paiement final. Contact : service Eau de la DRAAF Occitanie, eau.draaf-occitanie@agriculture.gouv.fr."
+    },
+    {
+      "type": "ressource",
+      "texte": "Page de l'appel à projets 2026, volet investissements matériels (cahier des charges, annexes, webinaire)",
+      "lien": "https://draaf.occitanie.agriculture.gouv.fr/ouverture-de-l-appel-a-projets-fonds-hydraulique-agricole-en-occitanie-pour-a9646.html"
+    },
+    {
+      "type": "ressource",
+      "texte": "Cahier des charges de l'appel à projets 2026 (PDF)",
+      "lien": "https://draaf.occitanie.agriculture.gouv.fr/IMG/pdf/aap_regional_investissement_2026_v_occitanie.pdf"
+    },
+    {
+      "type": "ressource",
+      "texte": "Rubrique Investissements hydrauliques agricoles de la DRAAF Occitanie, où paraissent les appels à projets",
+      "lien": "https://draaf.occitanie.agriculture.gouv.fr/investissements-hydrauliques-agricoles-r1724.html"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "nom, financeur, description (Plan eau, mesure 21)",
+      "url": "https://draaf.occitanie.agriculture.gouv.fr/IMG/pdf/aap_regional_investissement_2026_v_occitanie.pdf",
+      "date": "2026-10-15",
+      "extrait": "la mesure n°21 du plan eau prévoit dès 2024, l'abondement d'un fonds d'investissement d'hydraulique agricole [...] la DRAAF de la région Occitanie lance un appel à projets intitulé « Fonds hydraulique agricole 2026 [...] Volet Investissement [...] » sur la base de crédits alloués par le Ministère de l'agriculture"
+    },
+    {
+      "champ": "description (types de projets)",
+      "url": "https://draaf.occitanie.agriculture.gouv.fr/IMG/pdf/aap_regional_investissement_2026_v_occitanie.pdf",
+      "date": "2026-10-15",
+      "extrait": "2.2 : réhabilitation et modernisation d'ouvrages de prélèvement, de stockage, de transport et de distribution d'eau brute [...] Projets de nouvelles retenues agricoles ; Projets de stockage des eaux dans le cadre de projets de réutilisation d'eaux usées traitées [...] Projets de réalimentation et de stockage en nappes phréatiques ; Projets de modernisation, de réhabilitation, de création et d'extension de réseaux d'irrigation"
+    },
+    {
+      "champ": "description (périmètre jusqu'à la borne, compteurs), infos_complementaires (exclusions)",
+      "url": "https://draaf.occitanie.agriculture.gouv.fr/IMG/pdf/aap_regional_investissement_2026_v_occitanie.pdf",
+      "date": "2026-10-15",
+      "extrait": "Les coûts liés à l'achat de compteurs, bornes connectées et systèmes de télérelève, dès lors que sont exclus les coûts de mise en conformité réglementaire [...] Les investissements matériels interviennent de l'accès à l'eau jusqu'à l'entrée de la parcelle, borne comprise. [...] Sont exclues [...] les systèmes d'arrosage à la parcelle [...] (systèmes d'aspersion, de goutte-à-goutte...), les équipements [...] (sondes, tensiomètres...) et les solutions informatiques afférentes"
+    },
+    {
+      "champ": "eligibilite",
+      "url": "https://draaf.occitanie.agriculture.gouv.fr/IMG/pdf/aap_regional_investissement_2026_v_occitanie.pdf",
+      "date": "2026-10-15",
+      "extrait": "2.4 : Pour les projets exclusivement agricoles : Les exploitations agricoles ; Les structures collectives de regroupement d'agriculteurs ; Les coopératives d'utilisation de matériel agricole ; Les organismes uniques d'irrigation [...] ASL, ASA, ASCO ; Les sociétés anonymes d'économie mixte ; Les établissements publics ; Les collectivités territoriales. Pour les projets [...] pouvant servir à d'autres usages économiques : ASA, ASCO, les unions d'ASA ou d'ASCO."
+    },
+    {
+      "champ": "eligibilite (conditions communes)",
+      "url": "https://draaf.occitanie.agriculture.gouv.fr/IMG/pdf/aap_regional_investissement_2026_v_occitanie.pdf",
+      "date": "2026-10-15",
+      "extrait": "a.1. Le demandeur doit justifier de la réalisation d'une étude préalable [...] a.2. Tout projet doit avoir obtenu l'ensemble des autorisations administratives nécessaires au projet au plus tard le 02/09/2026. a.3. [...] compatible avec les objectifs du SDAGE [...] et du SAGE [...] a.5. Un système de mesure de la consommation d'eau au niveau de l'investissement est disponible ou sera mis en place"
+    },
+    {
+      "champ": "taux",
+      "url": "https://draaf.occitanie.agriculture.gouv.fr/IMG/pdf/aap_regional_investissement_2026_v_occitanie.pdf",
+      "date": "2026-10-15",
+      "extrait": "3.4 : Le taux maximum d'aide est de : 80 % des coûts éligibles HT pour les investissements collectifs (équipements réalisés sous maitrise d'ouvrage collective - infrastructures concernant plusieurs exploitations agricoles) ; 65 % des coûts éligibles HT pour investissements individuels [...] 3.5 : Le MAASA se réserve la possibilité de diminuer les taux"
+    },
+    {
+      "champ": "plafond",
+      "url": "https://draaf.occitanie.agriculture.gouv.fr/IMG/pdf/aap_regional_investissement_2026_v_occitanie.pdf",
+      "date": "2026-10-15",
+      "extrait": "2.7 : coût total éligible minimum [...] de 120 000 euros hors taxe (HT). Exploitant individuel 120 000 €, GAEC 2 associés 180 000 €, GAEC 3 associés et plus 240 000 €. 2.5 : acquisitions foncières [...] plafonnées à 10 % [...] sécurisation [...] plafonnées à 5 % [...] investissements immatériels [...] plafonnées à 20 % du coût total des investissements matériels éligibles"
+    },
+    {
+      "champ": "mesures (ACT_GCU_008), infos_complementaires (territoire en déséquilibre, économies d'eau)",
+      "url": "https://draaf.occitanie.agriculture.gouv.fr/IMG/pdf/aap_regional_investissement_2026_v_occitanie.pdf",
+      "date": "2026-10-15",
+      "extrait": "f) Un investissement dans la création, la modernisation ou l'expansion d'une retenue dans un territoire en déséquilibre quantitatif (ZRE, zonage issu du SDAGE, masse d'eau en état moins que bon pour des raisons liées à la quantité d'eau) est éligible si cette retenue s'inscrit dans une démarche de SAGE, ou de PTGE en cours d'élaboration ou achevé, ou de PGRE [...] b.1 : économie d'eau potentielle d'au moins 5 % [...] d'au moins 25 % [...] réduction effective [...] d'au moins 50 % des économies potentielles"
+    },
+    {
+      "champ": "infos_complementaires (extension de surface irriguée)",
+      "url": "https://draaf.occitanie.agriculture.gouv.fr/IMG/pdf/annexe_1_logigramme_eligibilite_projet-2.pdf",
+      "date": "2026-10-15",
+      "extrait": "Augmentation de la surface irriguée ou Augmentation de la pression de prélèvement [...] Le projet a une incidence sur une masse d'eau en état moins que bon pour des raisons quantitatives [...] Le projet n'est pas éligible (point c.1)"
+    },
+    {
+      "champ": "infos_complementaires (commencement d'exécution)",
+      "url": "https://draaf.occitanie.agriculture.gouv.fr/IMG/pdf/aap_regional_investissement_2026_v_occitanie.pdf",
+      "date": "2026-10-15",
+      "extrait": "3.2 : Aucun commencement d'exécution du projet (signature de bon de commande, approbation de devis, notification d'un marché public, commencement de travaux, etc.) ne peut être opéré avant la date de réception de la demande de subvention."
+    },
+    {
+      "champ": "infos_complementaires (exclusions de dépenses)",
+      "url": "https://draaf.occitanie.agriculture.gouv.fr/IMG/pdf/aap_regional_investissement_2026_v_occitanie.pdf",
+      "date": "2026-10-15",
+      "extrait": "Sont exclues les dépenses suivantes : [...] Le matériel d'occasion ; [...] Les investissements de mise aux normes ou de mise en conformité réglementaire [...] Les dépenses portant sur l'extraction de sédiments accumulés."
+    },
+    {
+      "champ": "infos_complementaires (session 2026 close, troisième appel)",
+      "url": "https://draaf.occitanie.agriculture.gouv.fr/ouverture-de-l-appel-a-projets-fonds-hydraulique-agricole-en-occitanie-pour-a9646.html",
+      "date": "2026-10-15",
+      "extrait": "Publié le 18/05/2026 | Mis à jour le 30/06/2026. [...] l'ouverture d'un 3ème appel à projets régional « Aide aux investissements portant sur des infrastructures hydrauliques agricoles d'irrigation » pour 2026. [...] Le dépôt des dossiers est ouvert en Occitanie du 18 mai 2026 au 30 juin 2026 (fermeture à 23h59). Aucun dossier déposé via la messagerie électronique ou par courrier ne sera accepté."
+    },
+    {
+      "champ": "infos_complementaires (volet maturation 2026)",
+      "url": "https://draaf.occitanie.agriculture.gouv.fr/ouverture-du-volet-maturation-de-projets-d-investissements-materiels-portant-a10071.html",
+      "date": "2026-10-15",
+      "extrait": "L'objectif de ce volet \"maturation\" est de financer les études préalables nécessaires au montage des projets d'infrastructures hydrauliques. [...] Le dépôt des dossiers est ouvert en Occitanie du 15 juillet 2026 au 7 septembre 2026 (fermeture à 23h59)."
+    },
+    {
+      "champ": "infos_complementaires (aucune session 2027 annoncée)",
+      "url": "https://draaf.occitanie.agriculture.gouv.fr/investissements-hydrauliques-agricoles-r1724.html",
+      "date": "2026-10-15",
+      "extrait": "Rubrique Investissements hydrauliques agricoles : deux articles seulement, « Ouverture du volet maturation [...] » (10 juillet 2026) et « Ouverture de l'appel à projets Fonds hydraulique agricole en Occitanie pour 2026 - Volet investissements matériels » (18 mai 2026)."
+    },
+    {
+      "champ": "infos_complementaires (critères de priorité, comité de sélection)",
+      "url": "https://draaf.occitanie.agriculture.gouv.fr/IMG/pdf/aap_regional_investissement_2026_v_occitanie.pdf",
+      "date": "2026-10-15",
+      "extrait": "3.5 : Dimension collective du projet [...] Intégration dans une approche territoriale globale et co-concertée de la ressource en eau (PTGE, PGRE, SAGE) [...] Accompagnement des transitions agroécologiques [...] Objectifs de l'infrastructure : bonification pour les projets de substitution ou diminution de prélèvement dans le milieu. [...] comité de sélection [...] (Conseil régional, Agence de l'Eau Rhône-Méditerranée-Corse, Agence de l'Eau Adour-Garonne)"
+    },
+    {
+      "champ": "infos_complementaires (redépôt simplifié)",
+      "url": "https://draaf.occitanie.agriculture.gouv.fr/IMG/pdf/aap_regional_investissement_2026_v_occitanie.pdf",
+      "date": "2026-10-15",
+      "extrait": "Les projets éligibles et non retenus à l'appel à projets du fonds hydraulique agricole 2025 peuvent faire l'objet d'un nouveau dépôt simplifié dans le cadre du présent appel à projets."
+    },
+    {
+      "champ": "description (appel annuel depuis 2024)",
+      "url": "https://draaf.occitanie.agriculture.gouv.fr/IMG/pdf/fha_2026_webinaire_occitanie_2juin2026_investissements_materiels.pdf",
+      "date": "2026-10-15",
+      "extrait": "Projet déjà déposé les années passées : pas de prise en compte des pièces de 2024. Pièces de 2025 : le dépôt peut être mis à jour selon la situation 2026"
+    },
+    {
+      "champ": "infos_complementaires (devis, revente, conservation, contact)",
+      "url": "https://draaf.occitanie.agriculture.gouv.fr/IMG/pdf/aap_regional_investissement_2026_v_occitanie.pdf",
+      "date": "2026-10-15",
+      "extrait": "2.8 : inférieures à 10 000 € HT : un seul devis [...] entre 10 000 € HT et 100 000 € HT : deux devis [...] supérieures à 100 000 € HT : trois devis. IV : ne pas revendre les investissements subventionnés pendant une durée de 3 ans [...] conserver [...] le volume annuel prélevé pendant 10 ans à compter du paiement final. Page 1 : eau.draaf-occitanie@agriculture.gouv.fr"
+    },
+    {
+      "champ": "departements",
+      "url": "https://draaf.occitanie.agriculture.gouv.fr/IMG/pdf/aap_regional_investissement_2026_v_occitanie.pdf",
+      "date": "2026-10-15",
+      "extrait": "2.3. Portée géographique : Le présent dispositif s'applique à des projets d'investissement dans la région Occitanie."
+    },
+    {
+      "champ": "logo_url",
+      "url": "https://draaf.occitanie.agriculture.gouv.fr/plugins-dist/agrispip_dsfr/dsfr/dist/favicon/apple-touch-icon.png",
+      "date": "2026-10-15",
+      "extrait": "Icône apple-touch-icon (180 x 180) du site de la DRAAF Occitanie, https://draaf.occitanie.agriculture.gouv.fr/"
+    }
+  ],
+  "date_maj": "2026-10-15"
+}

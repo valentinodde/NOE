@@ -1,0 +1,73 @@
+{
+  "id": "PREST_FRL_007",
+  "nom": "Lagarde Autoclaves",
+  "type": "equipementier",
+  "logo_url": null,
+  "siret": "32837600900036",
+  "description": "Fabricant d'autoclaves de stérilisation fondé en 1921 à Montélimar et établi à Malataverne (Drôme), qui conçoit des autoclaves à procédé vapeur et air, statiques ou rotatifs, pour l'industrie agroalimentaire, fruits et légumes compris. Son option Green Cooling refroidit les produits sans ajout d'eau de process : l'eau de refroidissement provient des condensats de la vapeur et circule refroidie par un échangeur à plaques ou par de l'eau douce ; le fabricant annonce jusqu'à 60 % d'eau économisée, sans surcoût sur le prix de la machine, et un temps de cycle qui peut s'allonger de 10 à 15 %. L'économie porte sur l'eau de process en contact avec les produits, pas sur l'eau de la tour de refroidissement ; l'équipement s'achète sur devis auprès de l'équipe commerciale.",
+  "expertises": [
+    "Autoclaves vapeur et air",
+    "Autoclaves statiques et rotatifs",
+    "Refroidissement par les condensats"
+  ],
+  "categories": [
+    "ameliorer_efficacite_hydrique"
+  ],
+  "secteurs": ["industrie_fruits_legumes"],
+  "departements": [],
+  "mesures": [
+    { "id": "ACT_FRL_004", "roles": ["materiel"] }
+  ],
+  "contacts": [
+    { "type": "site_internet", "value": "https://www.lagarde-autoclaves.com" },
+    { "type": "tel", "value": "04 75 90 58 58" },
+    { "type": "mail", "value": "sales@lagarde-autoclaves.com" },
+    { "type": "adresse", "value": "285 impasse Nicolas Appert, 26780 Malataverne" }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse, type",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Lagarde&departement=26",
+      "date": "2026-09-25",
+      "extrait": "LAGARDE, siret 32837600900036, siège, ZI MONTCHAMP 285 IMPASSE NICOLAS APPERT 26780 MALATAVERNE, activité 28.29B, état administratif A, 1 établissement ouvert"
+    },
+    {
+      "champ": "contacts",
+      "url": "https://www.lagarde-autoclaves.com/contact/",
+      "date": "2026-09-25",
+      "extrait": "285 impasse Nicolas Appert 26780 Malataverne, FRANCE. +33 (0) 475 90 58 58. sales@lagarde-autoclaves.com"
+    },
+    {
+      "champ": "type, description, departements",
+      "url": "https://www.lagarde-autoclaves.com/la-societe-lagarde/",
+      "date": "2026-09-25",
+      "extrait": "La société Lagarde Autoclaves a été fondée en 1921 à Montélimar (France). Spécialisée dans la production d'équipements industriels, d'abord dans la région, puis rapidement à l'export à travers le monde. Nous sommes un fabricant d'autoclaves reconnu"
+    },
+    {
+      "champ": "secteurs, type, description",
+      "url": "https://www.lagarde-autoclaves.com/industrie-agroalimentaire/",
+      "date": "2026-09-25",
+      "extrait": "et tous vos produits : Poissons et fruits de mer, Fruits et légumes, Lait et produits laitiers [...] chaque machine produite dans notre usine est conforme aux normes mondiales les plus exigeantes"
+    },
+    {
+      "champ": "description, expertises, mesures (ACT_FRL_004)",
+      "url": "https://www.lagarde-autoclaves.com/technologie/",
+      "date": "2026-09-25",
+      "extrait": "Etape de refroidissement : Le refroidissement est réalisé par la circulation d'eau refroidie par de l'eau douce ou par un échangeur de chaleur à plaques. L'eau provient des condensats de vapeur. [...] Statique ou Rotatif, De Ø900 mm à Ø2000 mm"
+    },
+    {
+      "champ": "description, expertises, mesures (ACT_FRL_004)",
+      "url": "https://www.lagarde-autoclaves.com/innovations-et-industrie-4-0/",
+      "date": "2026-09-25",
+      "extrait": "GREEN COOLING, REFROIDISSEMENT SANS AJOUT D'EAU. JUSQU'À 60% D'EAU ÉCONOMISÉE. Parce que vous n'avez pas besoin d'ajouter de l'eau de process* pour le refroidissement. [...] Récupération des condensats. Aucun coût additionnel sur le prix de la machine. *Eau de process : il s'agit de l'eau utilisée sur vos produits, et non de l'eau utilisée pour votre tour de refroidissement. Ce dispositif peut allonger votre temps de cycle de 10 à 15 %."
+    },
+    {
+      "champ": "description",
+      "url": "https://www.lagarde-autoclaves.com/innovation-lagarde-green-cooling/",
+      "date": "2026-09-25",
+      "extrait": "Le refroidissement sans ajout d'eau : améliorez fortement votre empreinte écologique. JUSQU'À 60% D'EAU ÉCONOMISÉE. Zéro consommation. Zéro coût. Technologie gratuite"
+    }
+  ],
+  "date_maj": "2026-09-25"
+}

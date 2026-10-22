@@ -1,0 +1,99 @@
+{
+  "id": "PREST_HOP_009",
+  "nom": "Fresenius Medical Care France",
+  "type": "installateur",
+  "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792070110/Noe%20assets/logos/PREST_HOP_009.png",
+  "siret": "65202528900099",
+  "description": "Filiale française du groupe allemand Fresenius Medical Care, fournisseur de produits de dialyse. Son site de production de L'Arbresle fabrique des dialyseurs et des concentrés, aucune page consultée ne situe la fabrication de ses systèmes de traitement d'eau, d'où le type installateur retenu pour cette activité de fourniture et de pose. Elle est l'un des deux titulaires, avec Vantive SAS, du marché UniHA 2024-2028 des centrales de traitement d'eau d'hémodialyse, qui couvre la fourniture (composants de boucle, osmoseurs, tuyauterie), l'installation, la mise en service, la qualification, la maintenance et la formation, et annonce des économies d'eau avec certains osmoseurs adaptant le débit à la demande. Les établissements publics adhérents d'UniHA y accèdent par la centrale d'achat, en offre complète ou à la carte.",
+  "expertises": [
+    "Centrale de traitement d'eau de dialyse",
+    "Installation et mise en service",
+    "Maintenance et qualification d'installation"
+  ],
+  "categories": [
+    "ameliorer_efficacite_hydrique"
+  ],
+  "secteurs": [
+    "hopitaux"
+  ],
+  "departements": [],
+  "mesures": [
+    {
+      "id": "ACT_HOP_004",
+      "roles": [
+        "materiel",
+        "travaux"
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "type": "site_internet",
+      "value": "https://freseniusmedicalcare.com/fr-fr/"
+    },
+    {
+      "type": "tel",
+      "value": "01 49 84 78 00"
+    },
+    {
+      "type": "mail",
+      "value": "info.france@freseniusmedicalcare.com"
+    },
+    {
+      "type": "adresse",
+      "value": "Parc Médicis, 47 avenue des Pépinières, 94832 Fresnes Cedex"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Fresenius%20Medical%20Care%20France&departement=94",
+      "date": "2026-10-15",
+      "extrait": "FRESENIUS MEDICAL CARE FRANCE, siret 65202528900099, siège, 47 AVENUE DES PEPINIERES 94260 FRESNES, etat_administratif A"
+    },
+    {
+      "champ": "contacts",
+      "url": "https://freseniusmedicalcare.com/fr-fr/contact/",
+      "date": "2026-10-15",
+      "extrait": "Parc Médicis, 47 avenue des Pépinières, 94832 Fresnes Cedex. Tél. : +33 (0)1 49 84 78 00"
+    },
+    {
+      "champ": "description (groupe), contacts (mail)",
+      "url": "https://freseniusmedicalcare.com/fr-fr/mentions-legales/",
+      "date": "2026-10-15",
+      "extrait": "Publié par : Fresenius Medical Care AG & Co. KGaA, Représenté par son partenaire général Fresenius Medical Care Management AG, Hof an der Saale [...] Immatriculée au Registre du Commerce et des Sociétés de Créteil, sous le numéro B 652 025 289. Email : info.france@freseniusmedicalcare.com (lien mailto identique)"
+    },
+    {
+      "champ": "description (activité)",
+      "url": "https://freseniusmedicalcare.com/fr-fr/a-propos-de-nous/fresenius-medical-care-en-france/",
+      "date": "2026-10-15",
+      "extrait": "le principal fournisseur de produits de dialyse, comme les générateurs de dialyse ou les dialyseurs"
+    },
+    {
+      "champ": "description (site de L'Arbresle, type)",
+      "url": "https://freseniusmedicalcare.com/fr-fr/a-propos-de-nous/smad-production-site/",
+      "date": "2026-10-15",
+      "extrait": "Productions du site : concentrés secs bi_b_ag 4008 et 5008, concentré acide Granudial, plus de 30 millions de dialyseurs fabriqués tous les ans, fibres en polysulfone, composants plastiques ; aucun système de traitement d'eau cité"
+    },
+    {
+      "champ": "description, expertises, mesures, categories",
+      "url": "https://www.uniha.org/marche/traitement-deau-dialyse-m-2937",
+      "date": "2026-10-15",
+      "extrait": "Centrale de traitement d'eau pour service d'hémodialyse et d'hémodiafiltration : fourniture, installation, mise en service et maintenance [...] composants de la boucle, osmoseurs, tuyauterie ainsi que les prestations de qualifications, la maintenance, la formation, les travaux et les prestations de bureau d'étude [...] Economie sur les consommations en eau avec certains osmoseurs adaptant le débit à la demande [...] Les fournisseurs titulaires des lots FRESENIUS MEDICAL CARE FRANCE VANTIVE SAS. Début de marché 24 janvier 2024, Fin de marché 23 janvier 2028 [...] Osmoseurs très efficients permettant des rejets et une perte en eau minimum. Offre complète ou à la carte. Moyens d'accès : Centrale d'achats"
+    },
+    {
+      "champ": "departements, description (accès UniHA)",
+      "url": "https://www.uniha.org/qui-sommes-nous/uniha-union-hopitaux-achats",
+      "date": "2026-10-15",
+      "extrait": "UniHA est le groupement national de référence pour la mutualisation des achats des hôpitaux publics."
+    },
+    {
+      "champ": "logo_url",
+      "url": "https://freseniusmedicalcare.com/content/experience-fragments/fresenius-medical-care/fr/fr/site/header/master/_jcr_content/root/freseniuscontainer_c/image.coreimg.svg/1744275039691/fmc-logo.svg",
+      "date": "2026-10-15",
+      "extrait": "Logo du bandeau du site freseniusmedicalcare.com/fr-fr (l'icône carrée du site n'existe qu'en 16 px)"
+    }
+  ],
+  "date_maj": "2026-10-15"
+}

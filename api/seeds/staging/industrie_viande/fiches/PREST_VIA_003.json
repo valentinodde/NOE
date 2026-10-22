@@ -1,0 +1,75 @@
+{
+  "id": "PREST_VIA_003",
+  "nom": "Facomia",
+  "type": "equipementier",
+  "logo_url": null,
+  "siret": "30227989800035",
+  "description": "Constructeur de machines pour abattoir créé en 1975 et repris en 2023 par le Groupe Bobet, installé à Sainte-Blandine (38), qui conçoit et fabrique en France des équipements de chaînes d'abattage bovins, ovins et porcins (box d'assommage, arracheurs de cuir, rotocuve, épileuse) ainsi que du matériel d'hygiène. Côté eau et rejets, son catalogue comprend un lavabo inox avec option stérilisateur à couteaux à aspersion ou à résistance, avec mise en route par Presto et arrêt automatique, et un tapis de saignée porcs dont la tôle inclinée récupère le sang en vue de le traiter. Les demandes d'information ou de devis passent par le formulaire de contact, le téléphone ou le courriel.",
+  "expertises": [
+    "Chaînes d'abattage bovins, ovins, porcins",
+    "Stérilisateurs à couteaux",
+    "Tapis de saignée porcs"
+  ],
+  "categories": [
+    "ameliorer_efficacite_hydrique",
+    "agir_rejets_qualite"
+  ],
+  "secteurs": ["industrie_viande"],
+  "departements": [],
+  "mesures": [
+    { "id": "ACT_VIA_003", "roles": ["materiel"] },
+    { "id": "ACT_VIA_007", "roles": ["materiel"] }
+  ],
+  "contacts": [
+    { "type": "site_internet", "value": "https://www.facomia.com/fr" },
+    { "type": "tel", "value": "04 74 18 65 35" },
+    { "type": "mail", "value": "contact@facomia.com" },
+    { "type": "adresse", "value": "ZA de Bel Air, 85 rue des savoir-faire, 38110 Sainte-Blandine" }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Facomia&departement=38",
+      "date": "2026-09-24",
+      "extrait": "SOCIETE POUR LA FABRICATION ET LA COMMERCIALISATION DE MATERIELS DE L'INDUSTRIE ALIMENTAIRE FACOMIA (FACOMIA), siret 30227989800035, siège, ZONE D ACTIVITE DE BEL AIR 38110 SAINTE-BLANDINE, activité 28.93Z, état administratif A"
+    },
+    {
+      "champ": "contacts, description (accès)",
+      "url": "https://www.facomia.com/fr/contactez-nous",
+      "date": "2026-09-24",
+      "extrait": "Contactez FACOMIA pour toute demande d'informations ou de devis. FACOMIA SARL, ZA de BEL AIR, 85 rue des savoir-faire, 38110 SAINTE BLANDINE, 04 74 18 65 35, contact@facomia.com"
+    },
+    {
+      "champ": "type, description",
+      "url": "https://www.facomia.com/fr/presentation",
+      "date": "2026-09-24",
+      "extrait": "FACOMIA est créé en 1975 par M. Maurice GUILLAUD [...] En novembre 2023, M. GUILLAUD vend sa structure au Groupe BOBET [...] FACOMIA est l'un des pionniers dans la conception et la fabrication de matériels et de machines pour le secteur de l'Agro-Alimentaire (les abattoirs, ateliers de découpes, salaisons et boucheries, etc…) [...] Machines fabriquées & assemblées en France"
+    },
+    {
+      "champ": "departements",
+      "url": "https://www.facomia.com/fr/presentation",
+      "date": "2026-09-24",
+      "extrait": "FACOMIA, depuis sa création, a équipé beaucoup d'abattoirs dans le Grand Est de la France de par sa position géographique. Néanmoins, FACOMIA est intervenu suites à des demandes de Clients partout en France mais aussi à l'étranger."
+    },
+    {
+      "champ": "expertises, description",
+      "url": "https://www.facomia.com/fr/presentation",
+      "date": "2026-09-24",
+      "extrait": "Bovins: Stabulation, Box d'assommage et traditionnel, Plateformes, Arracheur de cuir... Ovins: Restrainer, Box de contention et de sacrifaction, Arracheur de peau... Porcins: Box porc, Rotocuve, Epileuse, Flagelleuse..."
+    },
+    {
+      "champ": "expertises, description, mesures (ACT_VIA_003)",
+      "url": "https://www.facomia.com/fr/produit/accessoires-hygiene/hygiene/lavabo-et-sterilisateur-a-couteaux",
+      "date": "2026-09-24",
+      "extrait": "Lavabo conçu tout en Inox avec option stérilisateur à couteau avec grille en polyéthylène blanc de forme carrée ou ronde, à aspersion ou à résistance. Mise en route par Presto et arrêt automatique."
+    },
+    {
+      "champ": "expertises, description, mesures (ACT_VIA_007)",
+      "url": "https://www.facomia.com/fr/produit/les-chaines/chaine-porcins/tapis-de-saignee-porcs",
+      "date": "2026-09-24",
+      "extrait": "Fabrication française. Tapis de saignée Porcs. Le tapis est implanté après le box porcs pour saigner l'animal. Une tôle inclinée est fixée sous le tapis pour la récupération du sang en vue de le traiter."
+    }
+  ],
+  "date_maj": "2026-09-24"
+}

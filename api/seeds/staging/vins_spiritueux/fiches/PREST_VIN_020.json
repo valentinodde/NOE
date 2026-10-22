@@ -1,0 +1,49 @@
+{
+  "id": "PREST_VIN_020",
+  "nom": "Chambre d'agriculture de la Charente",
+  "type": "chambre_consulaire",
+  "logo_url": null,
+  "siret": "18160001600024",
+  "description": "Établissement public consulaire au service des exploitants de la Charente. Pour les viticulteurs, il réalise le plan d'épandage des effluents viti-vinicoles : rendez-vous sur l'exploitation pour recueillir volumes d'effluents, parcellaire et assolement, prélèvements de sol ou de vinasses si nécessaire, puis remise du plan avec les cartes des îlots épandables. Prestation d'environ un mois, sur devis.",
+  "expertises": [
+    "Plan d'épandage des effluents vinicoles",
+    "Prélèvements de sol et de vinasses",
+    "Réglementation de l'épandage"
+  ],
+  "categories": [
+    "agir_rejets_qualite"
+  ],
+  "secteurs": ["vins_spiritueux"],
+  "departements": ["16"],
+  "mesures": [
+    { "id": "ACT_VIN_006", "roles": ["conseil_etude"] },
+    { "id": "ACT_VIN_007", "roles": ["conseil_etude"] }
+  ],
+  "contacts": [
+    { "type": "site_internet", "value": "https://charente.chambres-agriculture.fr/" },
+    { "type": "tel", "value": "05 45 24 49 49" },
+    { "type": "adresse", "value": "ZE Ma campagne, 66 impasse Niépce, 16016 Angoulême Cedex" }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "description, expertises, mesures, categories",
+      "url": "https://charente.chambres-agriculture.fr/etre-accompagne-1/nos-prestations/detail-de-la-prestation/plan-depandage-des-effluents-vinicoles",
+      "date": "2026-09-28",
+      "extrait": "Être aux normes vis-à-vis des contraintes d'épandages des effluents viti-vinicoles [...] Rendez-vous préalable pour recueillir les informations nécessaires à la réalisation du plan (volume d'effluents, parcellaire, assolement, prélèvement de sol et/ou vinasses si nécessaire) [...] Durée : un mois. Tarif : Sur devis"
+    },
+    {
+      "champ": "contacts, departements",
+      "url": "https://charente.chambres-agriculture.fr/etre-accompagne-1/nos-prestations/detail-de-la-prestation/plan-depandage-des-effluents-vinicoles",
+      "date": "2026-09-28",
+      "extrait": "Chambre d'agriculture de la Charente. ZE Ma campagne - 66 impasse Niépce 16016 Angoulême Cedex. Tél. 05 45 24 49 49"
+    },
+    {
+      "champ": "siret",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=181600016",
+      "date": "2026-09-28",
+      "extrait": "CHAMBRE DEPARTEMENTALE D'AGRICULTURE, siret 18160001600024, siège, MA CAMPAGNE ALLEE DES CHAUMES DE CRAGE 16000 ANGOULEME, nature juridique 7381, etat_administratif A"
+    }
+  ],
+  "date_maj": "2026-09-28"
+}

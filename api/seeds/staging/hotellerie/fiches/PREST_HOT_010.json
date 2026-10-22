@@ -1,0 +1,62 @@
+{
+  "id": "PREST_HOT_010",
+  "nom": "Syclope Electronique",
+  "type": "equipementier",
+  "logo_url": null,
+  "siret": "38361200900035",
+  "description": "PME d'une trentaine de salariés installée à Sauvagnon, près de Pau, qui fabrique dans son usine des équipements d'analyse et de régulation pour le traitement de l'eau, avec une gamme dédiée aux piscines d'hôtels, de campings et aux spas. Pour ces bassins, elle fournit la régulation automatique du chlore et du pH, des pompes doseuses, la production de chlore par électrolyse de sel, la supervision à distance et l'unité d'ultrafiltration UFPOOL, fabriquée en France, qui recycle l'eau de lavage des filtres pour un nouveau lavage ou pour la réinjecter dans le bassin. Son bureau d'études réalise des études de faisabilité et de besoins et élabore des cahiers des charges, et son service après-vente répare le matériel ; la pose n'est pas décrite sur son site. Ses technico-commerciaux couvrent la France par grandes zones.",
+  "expertises": [
+    "Régulation chlore et pH",
+    "Pompes doseuses",
+    "Électrolyse de sel",
+    "Recyclage eaux de lavage filtres"
+  ],
+  "categories": [
+    "ameliorer_efficacite_hydrique"
+  ],
+  "secteurs": ["hotellerie"],
+  "departements": [],
+  "mesures": [
+    { "id": "ACT_HOT_005", "roles": ["materiel"] }
+  ],
+  "contacts": [
+    { "type": "site_internet", "value": "https://www.syclope.fr/" },
+    { "type": "tel", "value": "05 59 33 70 36" },
+    { "type": "mail", "value": "syclope@syclope.fr" },
+    { "type": "adresse", "value": "Rue du Bruscos, 64230 Sauvagnon" }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Syclope%20Electronique&departement=64",
+      "date": "2026-09-24",
+      "extrait": "SYCLOPE ELECTRONIQUE, siret 38361200900035, siège, AEROPOLE PAU PYRENEES RUE DU BRUSCOS 64230 SAUVAGNON, activité 26.51B, état administratif A"
+    },
+    {
+      "champ": "contacts, departements",
+      "url": "https://www.syclope.fr/contact-coordonnees/",
+      "date": "2026-09-24",
+      "extrait": "Rue du Bruscos, 64230 Sauvagnon [...] France. +33 (0)5 59 33 70 36. syclope@syclope.fr. Zones des commerciaux : SUD-OUEST, NORD-IDF, NORD-OUEST, NORD-EST, SUD-EST"
+    },
+    {
+      "champ": "type, description",
+      "url": "https://www.syclope.fr/societe/",
+      "date": "2026-09-24",
+      "extrait": "SYCLOPE Electronique est une PME d'une trentaine de salariés basée près de Pau. Fabricant français, nous produisons dans notre usine des équipements d'analyses et régulations pour le traitement de l'eau. [...] Soutien technique et commercial dans vos réponses aux appels d'offres, Etudes de faisabilité et de besoins, Élaboration cahier des charges [...] l'objectif premier de notre SAV est de réparer"
+    },
+    {
+      "champ": "description, expertises, secteurs, mesures (ACT_HOT_005 materiel)",
+      "url": "https://www.syclope.fr/secteurs-dactivites/eaux-de-loisirs/hotels-campings-spas/",
+      "date": "2026-09-24",
+      "extrait": "SYCLOPE propose des solutions de traitement d'eau adaptées aussi bien aux piscines d'hôtels et de campings [...] Pompes doseuses électromagnétiques, à moteur, péristaltiques [...] Production de chlore liquide sur site par électrolyse de sel [...] analyser et contrôler le chlore et le pH [...] suivi en temps réel et à distance"
+    },
+    {
+      "champ": "description, expertises, mesures (ACT_HOT_005 materiel)",
+      "url": "https://www.syclope.fr/produit/unite-ultrafiltration/",
+      "date": "2026-09-24",
+      "extrait": "Les unités d'ultrafiltration UFPOOL, fabriquées en France [...] recyclage de l'eau de lavage des filtres des piscines [...] Réutilisation de l'eau recyclée lors de nouvelles phases de lavage des filtres ou à réinjecter dans l'eau des bassins"
+    }
+  ],
+  "date_maj": "2026-09-24"
+}

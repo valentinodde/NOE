@@ -1,0 +1,97 @@
+{
+  "id": "PREST_ART_001",
+  "nom": "Chambre de métiers et de l'artisanat de région Auvergne-Rhône-Alpes",
+  "type": "chambre_consulaire",
+  "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792065020/Noe%20assets/logos/PREST_ART_001.png",
+  "siret": "13002795600015",
+  "description": "Établissement public consulaire des artisans, présent dans chaque département de la région Auvergne-Rhône-Alpes. Un conseiller de la CMA réalise sur place un diagnostic eau de 4 heures au plus : consommation par poste (production, nettoyage, sanitaires), équipements, pratiques quotidiennes et fuites, puis remet un plan d'actions visant au moins 20 % d'économies, avec un suivi téléphonique à un an. Le diagnostic est gratuit (0 € TTC), pris en charge par la CMA et l'agence de l'eau, et se réserve sur le catalogue en ligne ou auprès d'un conseiller.",
+  "expertises": [
+    "Diagnostic eau sur site",
+    "Plan d'actions d'économies d'eau",
+    "Guide des bonnes pratiques métiers de bouche",
+    "Suivi à un an"
+  ],
+  "categories": [
+    "suivre_comprendre_maitriser",
+    "ameliorer_efficacite_hydrique"
+  ],
+  "secteurs": [
+    "artisanat_alimentaire"
+  ],
+  "departements": [
+    "01",
+    "03",
+    "07",
+    "15",
+    "26",
+    "38",
+    "42",
+    "43",
+    "63",
+    "69",
+    "73",
+    "74"
+  ],
+  "mesures": [
+    {
+      "id": "ACT_AGR_002",
+      "roles": [
+        "conseil_etude"
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "type": "site_internet",
+      "value": "https://www.cma-auvergnerhonealpes.fr/"
+    },
+    {
+      "type": "tel",
+      "value": "3006"
+    },
+    {
+      "type": "adresse",
+      "value": "10 rue Paul Montrochet, 69002 Lyon"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Chambre%20de%20m%C3%A9tiers%20et%20de%20l%27artisanat%20de%20r%C3%A9gion%20Auvergne-Rh%C3%B4ne-Alpes&departement=69",
+      "date": "2026-10-15",
+      "extrait": "CHAMBRE DE METIERS ET DE L'ARTISANAT DE REGION AUVERGNE-RHONE-ALPES (CMAR), siret 13002795600015, siège, 10 RUE PAUL MONTROCHET 69002 LYON, état A"
+    },
+    {
+      "champ": "description, expertises, mesures (ACT_AGR_002)",
+      "url": "https://www.cma-auvergnerhonealpes.fr/catalogue/realiser-le-bilan-de-vos-consommations-deau/",
+      "date": "2026-10-15",
+      "extrait": "Diagnostic, 4 heures, Individuel, 0€ TTC. Réalisation d'un diagnostic pour évaluer votre consommation par poste. Etablissement d'un plan d'action avec des solutions visant à réduire d'au moins 20% vos consommations. Le diagnostic fait l'objet d'un suivi à 1 an"
+    },
+    {
+      "champ": "description",
+      "url": "https://www.cma-auvergnerhonealpes.fr/actualites/reduisez-vos-factures-deau-avec-la-cma/",
+      "date": "2026-10-15",
+      "extrait": "la CMA Auvergne-Rhône-Alpes et l'Agence de l'eau Rhône Méditerranée Corse [...] vous accompagnent, artisans, pour optimiser votre consommation et anticiper les futures restrictions. [...] Salons de coiffure, métiers de bouche, brasseries [...] le diagnostic est pris en charge par votre CMA et votre agence de l'eau."
+    },
+    {
+      "champ": "description, expertises, categories",
+      "url": "https://www.cma-auvergnerhonealpes.fr/actualites/metiers-de-bouche-comment-reduire-vos-factures-deau/",
+      "date": "2026-10-15",
+      "extrait": "Restaurant, boulangerie, boucherie [...] Un conseiller CMA se déplace dans votre établissement [...] Il analyse : Vos postes de consommation (production, nettoyage, sanitaires…) Vos équipements [...] douchette à faible débit [...] un guide dédié aux métiers de bouche"
+    },
+    {
+      "champ": "departements, contacts (tel)",
+      "url": "https://www.cma-auvergnerhonealpes.fr/nous-contacter/",
+      "date": "2026-10-15",
+      "extrait": "Appeler le 3006. La CMA est présente dans chaque département en Auvergne-Rhône-Alpes."
+    },
+    {
+      "champ": "logo_url",
+      "url": "https://www-img.cma-auvergnerhonealpes.fr/gravity:sm/rs:auto:180:180/app/uploads/2024/06/cropped-favicon.png",
+      "date": "2026-10-15",
+      "extrait": "apple-touch-icon du site cma-auvergnerhonealpes.fr, 180 x 180"
+    }
+  ],
+  "date_maj": "2026-10-15"
+}

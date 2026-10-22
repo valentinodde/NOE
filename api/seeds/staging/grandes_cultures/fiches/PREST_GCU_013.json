@@ -1,0 +1,68 @@
+{
+  "id": "PREST_GCU_013",
+  "nom": "Ver de Terre Production",
+  "type": "organisme_formation",
+  "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792084174/Noe%20assets/logos/PREST_GCU_013.png",
+  "siret": "82497837300028",
+  "description": "Organisme de formation spécialisé dans l'agroécologie des sols vivants, qui propose des formations en présentiel, en classe virtuelle et en ligne. Pour les grandes cultures, son parcours en ligne de 14h30 accompagne la transition vers l'agriculture de conservation des sols : premier semis direct, choix, semis et destruction des couverts végétaux, diagnostic de la santé des sols et lecture des analyses (dont la matière organique). Formation accessible à distance, 522 euros TTC finançables à 100 % par VIVEA pour les exploitants, ou prise en charge par l'OPCO OCAPIAT pour les salariés agricoles.",
+  "expertises": [
+    "Transition vers l'agriculture de conservation",
+    "Couverts végétaux en grandes cultures",
+    "Réussir son premier semis direct",
+    "Diagnostic de la santé des sols"
+  ],
+  "categories": [
+    "changer_process_pratiques"
+  ],
+  "secteurs": ["grandes_cultures"],
+  "departements": [],
+  "mesures": [
+    { "id": "ACT_GCU_007", "roles": ["formation"] }
+  ],
+  "contacts": [
+    { "type": "site_internet", "value": "https://www.verdeterreprod.fr/" },
+    { "type": "tel", "value": "06 10 55 07 39" },
+    { "type": "mail", "value": "nadine.perrotot@verdeterreprod.fr" },
+    { "type": "adresse", "value": "14 lieu-dit le Renoulet, 27240 Mesnils-sur-Iton" }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Ver%20de%20Terre%20Production&departement=27",
+      "date": "2026-10-15",
+      "extrait": "VER DE TERRE PRODUCTION, siret 82497837300028, siège, 14 LIEU DIT LE RENOULET 27240 MESNILS-SUR-ITON, activité 85.59A, état administratif A"
+    },
+    {
+      "champ": "description, type, departements",
+      "url": "https://www.verdeterreprod.fr/",
+      "date": "2026-10-15",
+      "extrait": "Que ce soit en présentiel, en classe virtuelle ou par cours en ligne, profitez de l'expertise de nos experts. Toutes nos formations sont finançables VIVEA."
+    },
+    {
+      "champ": "description, expertises, mesures, departements",
+      "url": "https://www.verdeterreprod.fr/formations-en-ligne/reussir-sa-transition-vers-lacs-les-lecons-du-terrain/",
+      "date": "2026-10-15",
+      "extrait": "Cette formation de 14h30 est conçue pour accompagner les agriculteurs en grandes cultures dans la transition vers l'Agriculture de Conservation des Sols (ACS). [...] les clés pour réussir son premier semis direct [...] la maîtrise des couverts végétaux, explorant leurs rôles agronomiques, le choix des espèces, les techniques de semis et de destruction [...] la texture, la matière organique, le pH, la CEC [...] 4 cours en ligne (Accès 24h/24 et 7j/7)"
+    },
+    {
+      "champ": "description",
+      "url": "https://www.verdeterreprod.fr/formations-en-ligne/reussir-sa-transition-vers-lacs-les-lecons-du-terrain/",
+      "date": "2026-10-15",
+      "extrait": "VIVEA 100% finançable Tarif : 522€ TTC [...] OCAPIAT - OPCO Tarif : 522€ TTC [...] Salariés agricoles"
+    },
+    {
+      "champ": "contacts",
+      "url": "https://www.verdeterreprod.fr/formations-en-ligne/reussir-sa-transition-vers-lacs-les-lecons-du-terrain/",
+      "date": "2026-10-15",
+      "extrait": "Une question ? Contactez Nadine au 06 10 55 07 39 ou à nadine.perrotot@verdeterreprod.fr"
+    },
+    {
+      "champ": "logo_url",
+      "url": "https://www.verdeterreprod.fr/wp-content/uploads/2022/11/favicon.png",
+      "date": "2026-10-15",
+      "extrait": "apple-touch-icon du site verdeterreprod.fr (symbole du ver de terre, 141 x 151 px)"
+    }
+  ],
+  "date_maj": "2026-10-15"
+}

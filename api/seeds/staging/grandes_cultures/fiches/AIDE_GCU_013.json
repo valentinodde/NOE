@@ -1,0 +1,123 @@
+{
+  "id": "AIDE_GCU_013",
+  "nom": "Garantie FOSTER Région Occitanie, garantie gratuite d'emprunt bancaire (volet agricole)",
+  "financeur": "Région Occitanie, avec des fonds européens (FEDER et FEADER) gérés par le Fonds européen d'investissement",
+  "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792085047/Noe%20assets/logos/AIDE_GCU_013.png",
+  "type": "pret",
+  "taux": "Garantie de 80 % du prêt bancaire, gratuite pour l'emprunteur, sans exigence de sûreté réelle ou personnelle",
+  "plafond": "Pour les TPE-PME, prêt de 1 406 250 € au plus pour une garantie sur 10 ans et de 2 812 500 € sur 5 ans (plafond « de minimis », selon les aides publiques déjà perçues). La fiche de la Région ne donne pas de plafond propre aux exploitations agricoles",
+  "description": "Garantie gratuite que la Région Occitanie apporte sur un prêt bancaire, pour faciliter le financement des investissements corporels et incorporels et du besoin en fonds de roulement des TPE-PME et des exploitations agricoles et forestières, notamment pour les projets risqués ou les installations sans historique de crédit. Elle couvre 80 % du prêt, pour une durée de 12 à 120 mois, sans caution ni sûreté réelle demandée. Ce n'est pas une subvention : elle aide à obtenir le prêt qui financera, par exemple, des investissements productifs en filière végétale.",
+  "eligibilite": "Exploitations et entreprises agricoles ou forestières exerçant leur activité en Occitanie, en création, développement ou transmission non familiale, dont le financement bancaire nécessite une garantie renforcée. Le projet agricole doit relever de la résilience de l'exploitation, de la diversification, de l'installation ou des investissements des entreprises valorisant les produits agricoles et forestiers, et le prêt être accordé par l'une des banques partenaires.",
+  "categories": [
+    "ameliorer_efficacite_hydrique",
+    "valoriser_reut_eaux_non_conventionnelles"
+  ],
+  "secteurs": [
+    "grandes_cultures"
+  ],
+  "departements": [
+    "09",
+    "11",
+    "12",
+    "30",
+    "31",
+    "32",
+    "34",
+    "46",
+    "48",
+    "65",
+    "66",
+    "81",
+    "82"
+  ],
+  "agences": [],
+  "mesures": [
+    "ACT_GCU_003",
+    "ACT_GCU_004",
+    "ACT_GCU_008"
+  ],
+  "infos_complementaires": [
+    {
+      "type": "avertissement",
+      "texte": "La garantie ne se demande pas à la Région : elle n'existe que sur un prêt accordé par l'une des banques partenaires, sous réserve que la banque accepte le dossier. Les conditions d'éligibilité des demandeurs et des dépenses agricoles sont fixées par le Plan stratégique national de la PAC : faites confirmer par votre banque que votre investissement d'irrigation entre dans le champ avant de bâtir votre plan de financement."
+    },
+    {
+      "type": "info",
+      "texte": "Côté agricole, la Région cite comme usages l'installation des jeunes et nouveaux agriculteurs (investissements et besoin en fonds de roulement), les investissements productifs dans les filières élevage et végétale, la diversification (transformation, stockage, commercialisation, agrotourisme) et le besoin en fonds de roulement des exploitations touchées par un aléa climatique ou sanitaire."
+    },
+    {
+      "type": "info",
+      "texte": "Banques partenaires (liste mise à jour en juin 2026) : Crédit Agricole (caisses Pyrénées Gascogne, Sud Méditerranée, Languedoc, Toulouse 31 et Nord Midi-Pyrénées), Banque Populaire du Sud et Banque Populaire Occitane, Caisses d'Épargne Languedoc-Roussillon et Midi-Pyrénées, Crédit Coopératif. Pour une question sur le dispositif lui-même, la Région répond à fonds.occitanie@laregion.fr.",
+      "lien": "https://www.laregion.fr/IMG/pdf/3/c/a/coordonne_es_garantie_foster_maj062026.pdf",
+      "lien_label": "Liste des banques et de leurs contacts"
+    },
+    {
+      "type": "ressource",
+      "texte": "Page FOSTER Région Occitanie sur le site de la Région",
+      "lien": "https://www.laregion.fr/foster"
+    },
+    {
+      "type": "ressource",
+      "texte": "Fiche synthétique de la garantie FOSTER, mise à jour en juin 2026 (PDF)",
+      "lien": "https://api.hubentreprendre.laregion.fr/fichiers-dispositifs/6a3b0012-cfd2-486b-8979-7a18040e79a1"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "nom, type, taux, description (objet, investissements corporels et incorporels, durée)",
+      "url": "https://api.hubentreprendre.laregion.fr/fichiers-dispositifs/6a3b0012-cfd2-486b-8979-7a18040e79a1",
+      "date": "2026-10-15",
+      "extrait": "Fiche outil Garantie FOSTER Région Occitanie MAJ062026.pdf : Faciliter l'accès au crédit pour le financement des investissements corporels et incorporels ainsi que les besoins en fonds de roulement. [...] Objet : garantie d'emprunt bancaire, gratuite pour l'entrepreneur o Taux de couverture en garantie : 80% du prêt, sans exigence de sûreté réelle ou personnelle [...] Durée de l'engagement de garantie : la durée de la garantie est comprise entre 12 mois et 120 mois"
+    },
+    {
+      "champ": "plafond",
+      "url": "https://api.hubentreprendre.laregion.fr/fichiers-dispositifs/6a3b0012-cfd2-486b-8979-7a18040e79a1",
+      "date": "2026-10-15",
+      "extrait": "Plafonds : lié au plafond « de minimis » pour les TPE-PME, sur une durée maximale de garantie de 10 ans, le montant max du prêt ne pourra pas excéder EUR 1 406 250 (en fonction des aides publiques déjà perçues et en cours de perception par l'entreprise) ; sur 5 ans, le plafond s'élève à EUR 2 812 500"
+    },
+    {
+      "champ": "eligibilite, description (projets risqués, installations sans historique)",
+      "url": "https://api.hubentreprendre.laregion.fr/fichiers-dispositifs/6a3b0012-cfd2-486b-8979-7a18040e79a1",
+      "date": "2026-10-15",
+      "extrait": "Les TPE-PME et entreprises agricoles/forestières, exerçant leur activité en région Occitanie, en création, développement ou en transmission (non familiale), pour lesquelles un financement bancaire peut nécessiter une couverture en garantie renforcée. [...] Pour l'agriculture et la forêt : renforcement de la résilience des exploitations agricoles/forestières, diversification, installation agricole et investissements des entreprises valorisant les produits agricoles et forestiers ✓ prêts octroyés par l'un des établissements bancaires listés ci-dessous, sous réserve d'acceptation du dossier par la banque"
+    },
+    {
+      "champ": "financeur (fonds européens FEDER et FEADER, FEI), infos_complementaires (contact)",
+      "url": "https://www.laregion.fr/foster",
+      "date": "2026-10-15",
+      "extrait": "FOSTER Région Occitanie mobilise des fonds Région et des fonds européens. [...] Les outils ont été construits avec le Fonds Européen d'Investissement (FEI), gestionnaire de ces fonds pour le compte de la Région. [...] la Région la plus volontariste en matière de mobilisation des fonds européens (FEDER et FEADER) sur cette thématique. [...] contactez-nous : fonds.occitanie@laregion.fr"
+    },
+    {
+      "champ": "mesures (ACT_GCU_003, ACT_GCU_004, ACT_GCU_008), infos_complementaires (usages agricoles, PSN, banque)",
+      "url": "https://www.laregion.fr/foster",
+      "date": "2026-10-15",
+      "extrait": "Je suis accompagné pour financer mes investissements matériels, immatériels, besoin en fonds de roulement [...] 3. Stimuler les investissements productifs et de diversification des Agriculteurs : Encourager les investissements productifs des Agriculteurs dans les filières élevage et végétal. [...] 4. Favoriser la résilience des exploitations [...] Garantir le Besoin Fonds de Roulement pour les Agriculteurs [...] ayant été impactés par un aléa climatique ou sanitaire. [...] Les conditions d'éligibilité des demandeurs et des dépenses au titre de la garantie sont précisées dans chaque Plan Stratégique National (PSN). [...] Pour bénéficier des outils FOSTER Région Occitanie, adressez-vous directement à votre banque ou organisme financier"
+    },
+    {
+      "champ": "infos_complementaires (banques partenaires, mise à jour juin 2026), departements (couverture des banques)",
+      "url": "https://www.laregion.fr/IMG/pdf/3/c/a/coordonne_es_garantie_foster_maj062026.pdf",
+      "date": "2026-10-15",
+      "extrait": "BANQUE POPULAIRE DU SUD (Départements 11/30/34/48/66) Clientèle Agriculteur/Viticulteur [...] BANQUE POPULAIRE OCCITANE (Départements 12/31/32/46/65/81/82) [...] CAISSE D'EPARGNE LANGUEDOC-ROUSSILLON [...] CAISSE D'EPARGNE MIDI-PYRENEES [...] CREDIT COOPERATIF [...] CREDIT AGRICOLE Toute clientèle Caisse Pyrénées Gascogne (départements 32/65) [...] Caisse Sud Méditerranée (départements 09/66) [...] Caisse Languedoc (départements 11/30/34/48) [...] Caisse Toulouse (département 31) [...] Caisse Nord Midi-Pyrénées (départements 12/46/81/82)"
+    },
+    {
+      "champ": "statut du dispositif en 2026 (permanent, actif, exploitants agricoles)",
+      "url": "https://api.hubentreprendre.laregion.fr/dispositifs/slug/garantie-foster-region-occitanie",
+      "date": "2026-10-15",
+      "extrait": "\"name\":\"Garantie FOSTER Région Occitanie\" [...] \"recipients\": ME (Moyenne Entreprise), PE (Petite Entreprise), Exploitants et entreprises agricoles [...] \"plantype\": \"Permanent\" [...] \"active\":true [...] \"originalname\":\"Fiche outil Garantie FOSTER Région Occitanie MAJ062026.pdf\""
+    },
+    {
+      "champ": "departements",
+      "url": "https://www.laregion.fr/Profil-geographique-et-administratif-du-territoire",
+      "date": "2026-10-15",
+      "extrait": "Ces derniers sont au nombre de 13 : Ariège, Aude, Aveyron, Gard, Haute-Garonne, Gers, Hérault, Lot, Lozère, Hautes-Pyrénées, Pyrénées-Orientales, Tarn et Tarn-et-Garonne (par ordre alphabétique)."
+    },
+    {
+      "champ": "logo_url",
+      "url": "https://www.laregion.fr/plugins/occitanie/squelettes-occitanie/squelettes/apple-icon-180x180.png",
+      "date": "2026-10-15",
+      "extrait": "apple-touch-icon du site de la Région Occitanie (laregion.fr), 180 x 180 px"
+    }
+  ],
+  "date_maj": "2026-10-15"
+}

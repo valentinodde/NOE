@@ -1,0 +1,490 @@
+[
+  {
+    "id": "ACT_VIA_001",
+    "titre": "Former les équipes au nettoyage économe en eau des salles",
+    "titre_court": "Nettoyage économe",
+    "description": "Racler et ramasser à sec les déchets avant tout lavage, équiper les lances de pistolets à gâchette et écrire les consignes de nettoyage salle par salle. Vous agissez sur le premier poste d'eau du site et vous allégez du même coup la charge envoyée au prétraitement.",
+    "categorie": "sensibiliser_former",
+    "secteurs": [
+      "industrie_viande"
+    ],
+    "effort": {
+      "capex": "faible",
+      "opex": "faible",
+      "humain": "moyen"
+    },
+    "impact_eau": 2,
+    "facilite": 3,
+    "horizon": "immediat",
+    "image": null,
+    "infos_complementaires": [
+      {
+        "type": "info",
+        "texte": "Le nettoyage et la désinfection représentent environ 43 % de l'eau utilisée en industrie alimentaire, et jusqu'à 80 à 85 % dans certaines entreprises.",
+        "lien": "https://ariaaura.fr/des-solutions-pour-reduire-les-tensions-sur-leau-dans-lagroalimentaire/",
+        "lien_label": "ARIA Auvergne-Rhône-Alpes"
+      },
+      {
+        "type": "avertissement",
+        "texte": "Pour un atelier en enregistrement au titre de la rubrique ICPE 2221, le nettoyage à sec des sols par raclage avant lavage n'est pas une option : l'arrêté du 23 mars 2012 l'impose.",
+        "lien": "https://aida.ineris.fr/reglementation/arrete-230312-relatif-prescriptions-generales-applicables-installations-relevant",
+        "lien_label": "Arrêté du 23 mars 2012, AIDA"
+      },
+      {
+        "type": "avertissement",
+        "texte": "Dès le niveau de vigilance sécheresse, l'arrêté du 30 juin 2023 demande aux installations classées de sensibiliser leur personnel selon une procédure écrite affichée sur le site.",
+        "lien": "https://aida.ineris.fr/reglementation/arrete-300623-relatif-mesures-restriction-periode-secheresse-portant-prelevement",
+        "lien_label": "Arrêté du 30 juin 2023, AIDA"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "description",
+        "url": "https://ariaaura.fr/des-solutions-pour-reduire-les-tensions-sur-leau-dans-lagroalimentaire/",
+        "date": "2024-01-01",
+        "extrait": "Les opérations de nettoyage et de désinfection représentent environ 43 % de l'eau utilisée en industries alimentaires, contre 33 % pour le process."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://aida.ineris.fr/reglementation/arrete-230312-relatif-prescriptions-generales-applicables-installations-relevant",
+        "date": "2012-03-23",
+        "extrait": "Les sols sont nettoyés à sec par raclage avant lavage."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://aida.ineris.fr/reglementation/arrete-300623-relatif-mesures-restriction-periode-secheresse-portant-prelevement",
+        "date": "2023-06-30",
+        "extrait": "Au niveau de vigilance, sensibilisation du personnel selon une procédure écrite affichée sur site."
+      }
+    ],
+    "date_maj": "2026-09-24"
+  },
+  {
+    "id": "ACT_VIA_002",
+    "titre": "Suivre le ratio d'eau par kilo de carcasse ou de produit fini",
+    "titre_court": "Ratio eau par kilo",
+    "description": "Rapporter chaque mois les volumes d'eau aux kilos de carcasse ou de produit fini, atelier par atelier (échaudage, boyauderie, cuisson, glace, lavage des bacs). Vous distinguez une dérive de pratique d'un changement de production, et vous tenez la preuve chiffrée qu'attend l'inspection.",
+    "categorie": "suivre_comprendre_maitriser",
+    "secteurs": [
+      "industrie_viande"
+    ],
+    "effort": {
+      "capex": "faible",
+      "opex": "faible",
+      "humain": "moyen"
+    },
+    "impact_eau": 1,
+    "facilite": 3,
+    "horizon": "immediat",
+    "image": null,
+    "infos_complementaires": [
+      {
+        "type": "info",
+        "texte": "Repères : 355 litres par porc de 90 kg de carcasse, soit environ 3,9 litres par kilo, mesurés dans huit abattoirs-découpes de porcs. La réglementation des abattoirs plafonne la consommation à 6 litres par kilo de carcasse, 10 litres pour la volaille réfrigérée par immersion.",
+        "lien": "https://ifip.asso.fr/documentations/32763-consommation-deau-et-denergie-en-abattoir-decoupe-de-porcs-caracterisation-des-situations-actuelles-dans-8-outils/",
+        "lien_label": "IFIP, 2010"
+      },
+      {
+        "type": "retour_experience",
+        "texte": "Un fabricant de charcuterie de 18 000 tonnes par an est passé de 13 à 10 litres d'eau par kilo de produit fini, compteurs à relève automatique compris, et économise 24 000 m3 par an.",
+        "lien": "https://www.eau-loire-bretagne.fr/sites/aides-redevances/home/retours-dexperiences/bahier--des-actions-deconomie-deau-1.html",
+        "lien_label": "Agence de l'eau Loire-Bretagne"
+      },
+      {
+        "type": "avertissement",
+        "texte": "Sans historique de relevés, impossible de démontrer la réduction d'au moins 20 % du prélèvement depuis le 1er janvier 2018 qui exclut une installation classée des restrictions sécheresse.",
+        "lien": "https://aida.ineris.fr/reglementation/arrete-300623-relatif-mesures-restriction-periode-secheresse-portant-prelevement",
+        "lien_label": "Arrêté du 30 juin 2023, AIDA"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "infos_complementaires",
+        "url": "https://ifip.asso.fr/documentations/32763-consommation-deau-et-denergie-en-abattoir-decoupe-de-porcs-caracterisation-des-situations-actuelles-dans-8-outils/",
+        "date": "2010-01-01",
+        "extrait": "355 litres d'eau par porc de 90 kg de carcasse, huit outils d'abattage-découpe."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://aida.ineris.fr/reglementation/arrete-300404-relatif-prescriptions-generales-applicables-installations-classees",
+        "date": "2004-04-30",
+        "extrait": "Consommation plafonnée à 6 litres par kilogramme de carcasse, 10 litres en cas de réfrigération par immersion ; totalisateur sur les prélèvements."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.eau-loire-bretagne.fr/sites/aides-redevances/home/retours-dexperiences/bahier--des-actions-deconomie-deau-1.html",
+        "date": "2023-01-01",
+        "extrait": "De 13 à 10 litres d'eau par kilogramme de produit fini, 24 000 m3 économisés par an."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://aida.ineris.fr/reglementation/arrete-300623-relatif-mesures-restriction-periode-secheresse-portant-prelevement",
+        "date": "2023-06-30",
+        "extrait": "Exploitants des établissements ayant réduit leur prélèvement d'eau d'au moins 20 % depuis le 1er janvier 2018."
+      }
+    ],
+    "date_maj": "2026-09-24"
+  },
+  {
+    "id": "ACT_VIA_003",
+    "titre": "Remplacer les stérilisateurs à couteaux à débordement d'eau chaude",
+    "titre_court": "Stérilisateurs à couteaux",
+    "description": "Remplacer les bacs à 82 °C alimentés en continu par une immersion à plus basse température ou par une aspersion, selon un protocole reconnu par l'administration sanitaire. Vous supprimez un débordement permanent d'eau chaude sur chaque poste de travail des salles d'abattage et de découpe.",
+    "categorie": "ameliorer_efficacite_hydrique",
+    "secteurs": [
+      "industrie_viande"
+    ],
+    "effort": {
+      "capex": "moyen",
+      "opex": "faible",
+      "humain": "moyen"
+    },
+    "impact_eau": 2,
+    "facilite": 2,
+    "horizon": "court_terme",
+    "image": null,
+    "infos_complementaires": [
+      {
+        "type": "info",
+        "texte": "Les alternatives validées : immersion à 75 °C pendant 15 secondes ou à 70 °C pendant 30 secondes, ou aspersion entre 65 et 75 °C, d'efficacité équivalente au bac à 82 °C selon un protocole agréé par la DGAL.",
+        "lien": "https://ifip.asso.fr/actualites/nettoyage-et-desinfection-des-couteaux-quelles-methodes-alternatives/",
+        "lien_label": "IFIP, Idele et ADIV"
+      },
+      {
+        "type": "avertissement",
+        "texte": "Le changement de méthode de désinfection des couteaux entre dans le plan de maîtrise sanitaire : il se valide et se documente avant de passer en routine, et l'ADIV rappelle que ces alternatives demandent d'être maîtrisées.",
+        "lien": "https://www.adiv.fr/desinfection-couteaux-alternatives-a-maitriser/",
+        "lien_label": "ADIV"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "description",
+        "url": "https://www.adiv.fr/desinfection-couteaux-alternatives-a-maitriser/",
+        "date": "2016-01-01",
+        "extrait": "L'immersion dans l'eau à 82 °C entraîne des dépenses d'eau et d'énergie élevées du fait des lavabos à débordement."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://ifip.asso.fr/actualites/nettoyage-et-desinfection-des-couteaux-quelles-methodes-alternatives/",
+        "date": "2013-01-01",
+        "extrait": "Immersion à 75 °C pendant 15 s ou 70 °C pendant 30 s, aspersion de 65 à 75 °C ; l'aspersion rend possible une réduction des consommations d'eau."
+      }
+    ],
+    "date_maj": "2026-09-24"
+  },
+  {
+    "id": "ACT_VIA_004",
+    "titre": "Fermer les circuits de refroidissement et remplacer les tours ouvertes",
+    "titre_court": "Circuits de froid fermés",
+    "description": "Passer le refroidissement des produits cuits et des machines en boucle fermée avec échangeur, et remplacer les tours aéroréfrigérantes par des condenseurs secs ou adiabatiques. Vous supprimez l'essentiel de l'eau de ce poste, et avec les tours l'obligation de surveillance des légionelles.",
+    "categorie": "ameliorer_efficacite_hydrique",
+    "secteurs": [
+      "industrie_viande"
+    ],
+    "effort": {
+      "capex": "important",
+      "opex": "faible",
+      "humain": "moyen"
+    },
+    "impact_eau": 3,
+    "facilite": 1,
+    "horizon": "moyen_terme",
+    "image": null,
+    "infos_complementaires": [
+      {
+        "type": "retour_experience",
+        "texte": "Chez un fabricant de charcuterie breton, le remplacement des tours aéroréfrigérantes par des condenseurs adiabatiques a réduit de 90 % l'eau consommée par ce poste.",
+        "lien": "https://www.eau-loire-bretagne.fr/sites/aides-redevances/home/retours-dexperiences/bahier--des-actions-deconomie-deau-1.html",
+        "lien_label": "Agence de l'eau Loire-Bretagne"
+      },
+      {
+        "type": "avertissement",
+        "texte": "Pour un atelier en enregistrement au titre de la rubrique ICPE 2221, la réfrigération en circuit ouvert est interdite. Un refroidissement à l'eau perdue y est une non-conformité, pas un simple gisement d'économie.",
+        "lien": "https://aida.ineris.fr/reglementation/arrete-230312-relatif-prescriptions-generales-applicables-installations-relevant",
+        "lien_label": "Arrêté du 23 mars 2012, AIDA"
+      },
+      {
+        "type": "info",
+        "texte": "Une tour aéroréfrigérante relève de la rubrique ICPE 2921 et impose de maintenir les légionelles sous 1 000 unités formant colonie par litre, avec analyses périodiques et plan d'entretien.",
+        "lien": "https://aida.ineris.fr/inspection-icpe/air/prevention-legionnellose/tours-aerorefrigerantes",
+        "lien_label": "Tours aéroréfrigérantes, AIDA"
+      },
+      {
+        "type": "avertissement",
+        "texte": "Un condenseur sec perd en rendement quand la température extérieure monte, c'est-à-dire au moment où la ressource est tendue. Il se dimensionne sur les pics d'été."
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.eau-loire-bretagne.fr/sites/aides-redevances/home/retours-dexperiences/bahier--des-actions-deconomie-deau-1.html",
+        "date": "2023-01-01",
+        "extrait": "Remplacement des tours aéroréfrigérantes par des condenseurs adiabatiques : 90 % d'eau en moins sur ce poste."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://aida.ineris.fr/reglementation/arrete-230312-relatif-prescriptions-generales-applicables-installations-relevant",
+        "date": "2012-03-23",
+        "extrait": "La réfrigération en circuit ouvert est interdite."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://aida.ineris.fr/inspection-icpe/air/prevention-legionnellose/tours-aerorefrigerantes",
+        "extrait": "Concentration en légionelles pneumophila maintenue sous 1 000 UFC/L, analyses périodiques, plan d'entretien."
+      },
+      {
+        "champ": "description",
+        "url": "https://www.lesagencesdeleau.fr/ressources/comment-une-grande-usine-agro-alimentaire-peut-elle-economiser-leau",
+        "date": "2023-01-01",
+        "extrait": "25 % d'eau en moins en six ans, avec la suppression des tours aéroréfrigérantes."
+      }
+    ],
+    "date_maj": "2026-09-24"
+  },
+  {
+    "id": "ACT_VIA_005",
+    "titre": "Supprimer le transport hydraulique des déchets, viscères et parures",
+    "titre_court": "Transport à sec des déchets",
+    "description": "Remplacer les goulottes et caniveaux où l'eau entraîne viscères, peaux, graisses et parures par des convoyeurs, de l'aspiration ou du raclage vers des bacs. Vous économisez l'eau de transport et vous évitez que la matière organique ne se dissolve dans les effluents avant d'arriver à la grille.",
+    "categorie": "changer_process_pratiques",
+    "secteurs": [
+      "industrie_viande"
+    ],
+    "effort": {
+      "capex": "moyen",
+      "opex": "faible",
+      "humain": "moyen"
+    },
+    "impact_eau": 2,
+    "facilite": 2,
+    "horizon": "court_terme",
+    "image": null,
+    "infos_complementaires": [
+      {
+        "type": "info",
+        "texte": "Pour la transformation du poisson, l'évidage et le dégraissage par aspiration et le transport à sec des viscères, peaux et filets figurent parmi les meilleures techniques disponibles de l'agroalimentaire.",
+        "lien": "https://aida.ineris.fr/reglementation/arrete-270220-relatif-meilleures-techniques-disponibles-mtd-applicables-a-certaines",
+        "lien_label": "Arrêté du 27 février 2020, AIDA"
+      },
+      {
+        "type": "info",
+        "texte": "Les grands abattoirs (rubrique 3641) sont soumis aux meilleures techniques disponibles de 2023, qui comprennent le nettoyage à sec, à partir de décembre 2027 pour les sites existants.",
+        "lien": "https://aida.ineris.fr/reglementation/arrete-310325-relatif-prescriptions-generales-applicables-installations-relevant",
+        "lien_label": "Arrêté du 31 mars 2025, AIDA"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "infos_complementaires",
+        "url": "https://aida.ineris.fr/reglementation/arrete-270220-relatif-meilleures-techniques-disponibles-mtd-applicables-a-certaines",
+        "date": "2020-02-27",
+        "extrait": "Poisson : évidage et dégraissage par aspiration, transport à sec des viscères, peaux et filets."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://aida.ineris.fr/reglementation/arrete-310325-relatif-prescriptions-generales-applicables-installations-relevant",
+        "date": "2025-03-31",
+        "extrait": "Transposition des conclusions MTD de 2023 pour les abattoirs de la rubrique 3641, applicables aux installations existantes à partir de décembre 2027."
+      }
+    ],
+    "date_maj": "2026-09-24"
+  },
+  {
+    "id": "ACT_VIA_006",
+    "titre": "Réutiliser les eaux de rinçage et de refroidissement sans contact",
+    "titre_court": "Réutilisation des rinçages",
+    "description": "Récupérer les derniers rinçages et les eaux de refroidissement pour le prélavage, le lavage des bacs en machine à recyclage, des quais, des camions et des cages. Vous substituez une eau déjà payée à l'eau du réseau sur des usages qui n'exigent pas d'eau potable.",
+    "categorie": "valoriser_reut_eaux_non_conventionnelles",
+    "secteurs": [
+      "industrie_viande"
+    ],
+    "effort": {
+      "capex": "moyen",
+      "opex": "faible",
+      "humain": "moyen"
+    },
+    "impact_eau": 3,
+    "facilite": 2,
+    "horizon": "court_terme",
+    "image": null,
+    "infos_complementaires": [
+      {
+        "type": "retour_experience",
+        "texte": "Une laveuse de bacs automatique où l'eau de rinçage d'un bac sert au prélavage du suivant a permis à un fabricant de charcuterie d'économiser 90 % de l'eau de ce poste.",
+        "lien": "https://www.eau-loire-bretagne.fr/sites/aides-redevances/home/retours-dexperiences/bahier--des-actions-deconomie-deau-1.html",
+        "lien_label": "Agence de l'eau Loire-Bretagne"
+      },
+      {
+        "type": "avertissement",
+        "texte": "Depuis le décret n° 2024-33, la réutilisation d'eaux de processus dans une entreprise alimentaire relève d'une déclaration au préfet et s'intègre au plan de maîtrise sanitaire, avec des exigences qui dépendent du contact avec les denrées.",
+        "lien": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000049908820",
+        "lien_label": "Arrêté du 8 juillet 2024"
+      },
+      {
+        "type": "info",
+        "texte": "Le décret n° 2025-239 ouvre aux installations classées l'usage d'eaux impropres à la consommation pour le lavage des sols intérieurs et des surfaces extérieures. Le lavage des véhicules n'y est pas cité explicitement.",
+        "lien": "https://aida.ineris.fr/reglementation/decret-ndeg-2025-239-140325-relatif-a-lutilisation-deaux-impropres-a-consommation",
+        "lien_label": "Décret n° 2025-239, AIDA"
+      },
+      {
+        "type": "info",
+        "texte": "En Bretagne, les entreprises agroalimentaires qui recyclent leur eau économisent en moyenne 60 000 m3 par an.",
+        "lien": "https://www.bretagne-economique.com/actualites/en-bretagne-les-industries-agro-ont-baisse-de-15-leur-consommation-deau/",
+        "lien_label": "CCI Bretagne"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.eau-loire-bretagne.fr/sites/aides-redevances/home/retours-dexperiences/bahier--des-actions-deconomie-deau-1.html",
+        "date": "2023-01-01",
+        "extrait": "Laveuse de bacs à recyclage des rinçages : 90 % d'économie sur ce poste."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000049010414",
+        "date": "2024-01-24",
+        "extrait": "Décret n° 2024-33 : eaux de processus recyclées sous déclaration, eaux usées traitées sous autorisation préfectorale."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000049908820",
+        "date": "2024-07-08",
+        "extrait": "Exigences selon l'usage (contact direct, indirect, sans contact), intégration au plan de maîtrise sanitaire."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://aida.ineris.fr/reglementation/decret-ndeg-2025-239-140325-relatif-a-lutilisation-deaux-impropres-a-consommation",
+        "date": "2025-03-14",
+        "extrait": "Eaux impropres à la consommation admises pour le lavage des sols intérieurs et des surfaces extérieures des ICPE."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.bretagne-economique.com/actualites/en-bretagne-les-industries-agro-ont-baisse-de-15-leur-consommation-deau/",
+        "date": "2025-01-01",
+        "extrait": "Les entreprises qui recyclent économisent en moyenne 60 000 m3 par an."
+      }
+    ],
+    "date_maj": "2026-09-24"
+  },
+  {
+    "id": "ACT_VIA_007",
+    "titre": "Collecter à part le sang, les saumures et les jus de cuisson",
+    "titre_court": "Sang et saumures à part",
+    "description": "Installer gouttière et cuve de saignée, récupérer les saumures usées et les jus de cuisson dans des bacs dédiés plutôt que de les laisser partir à l'égout. Vous retirez des effluents leur part la plus chargée, ce qui allège le traitement et la redevance pollution.",
+    "categorie": "agir_rejets_qualite",
+    "secteurs": [
+      "industrie_viande"
+    ],
+    "effort": {
+      "capex": "moyen",
+      "opex": "faible",
+      "humain": "moyen"
+    },
+    "impact_eau": 2,
+    "facilite": 2,
+    "horizon": "court_terme",
+    "image": null,
+    "infos_complementaires": [
+      {
+        "type": "avertissement",
+        "texte": "En abattoir, la collecte séparée du sang est une obligation dès le régime de déclaration de la rubrique ICPE 2210, pas seulement une bonne pratique.",
+        "lien": "https://aida.ineris.fr/reglementation/arrete-300404-relatif-prescriptions-generales-applicables-installations-classees",
+        "lien_label": "Arrêté du 30 avril 2004, AIDA"
+      },
+      {
+        "type": "info",
+        "texte": "La redevance pour pollution d'origine non domestique est assise sur les flux rejetés, diminués de la pollution éliminée. Chaque litre de sang ou de saumure détourné de l'égout se lit deux fois : moins de charge à traiter, moins de redevance.",
+        "lien": "https://www.eau-seine-normandie.fr/les-redevances/redevance-pollution-de-l-eau-d-origine-non-domestique",
+        "lien_label": "Agence de l'eau Seine-Normandie"
+      },
+      {
+        "type": "retour_experience",
+        "texte": "Un valorisateur de coproduits de la mer du Portel a été aidé par l'agence de l'eau pour réduire sa pollution à la source et sa consommation d'eau de 54 000 m3 par an.",
+        "lien": "https://www.eau-artois-picardie.fr/mi-annee-2023-lagence-de-leau-deja-investi-398-millions-deuros-pour-ameliorer-la-qualite-de-leau-et",
+        "lien_label": "Agence de l'eau Artois-Picardie"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "infos_complementaires",
+        "url": "https://aida.ineris.fr/reglementation/arrete-300404-relatif-prescriptions-generales-applicables-installations-classees",
+        "date": "2004-04-30",
+        "extrait": "Collecte séparée du sang."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074220/LEGISCTA000006195228/",
+        "extrait": "Code de l'environnement, articles L213-10-1 à L213-10-3, redevances pour pollution de l'eau."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.eau-artois-picardie.fr/mi-annee-2023-lagence-de-leau-deja-investi-398-millions-deuros-pour-ameliorer-la-qualite-de-leau-et",
+        "date": "2023-07-01",
+        "extrait": "Réduction de la pollution à la source et de la consommation d'eau de 54 000 m3 par an."
+      }
+    ],
+    "date_maj": "2026-09-24"
+  },
+  {
+    "id": "ACT_VIA_008",
+    "titre": "Fiabiliser le prétraitement des effluents et la convention de rejet",
+    "titre_court": "Prétraitement des effluents",
+    "description": "Mettre à niveau dégrillage, tamisage, dégraissage et bassin tampon, suivre ses rejets et tenir à jour la convention de déversement avec la collectivité. Vous sécurisez le droit de rejeter, qui conditionne la production autant que l'eau prélevée, et vous évitez les pénalités.",
+    "categorie": "agir_rejets_qualite",
+    "secteurs": [
+      "industrie_viande"
+    ],
+    "effort": {
+      "capex": "important",
+      "opex": "moyen",
+      "humain": "moyen"
+    },
+    "impact_eau": 2,
+    "facilite": 1,
+    "horizon": "moyen_terme",
+    "image": null,
+    "infos_complementaires": [
+      {
+        "type": "info",
+        "texte": "Repères pour un abattoir déclaré raccordé au réseau collectif : 600 mg/l de matières en suspension, 2 000 mg/l de DCO (demande chimique en oxygène) et 800 mg/l de DBO5, avec un prétraitement par dégrillage à 6 mm au plus.",
+        "lien": "https://aida.ineris.fr/reglementation/arrete-300404-relatif-prescriptions-generales-applicables-installations-classees",
+        "lien_label": "Arrêté du 30 avril 2004, AIDA"
+      },
+      {
+        "type": "info",
+        "texte": "En enregistrement au titre de la rubrique 2221, le débit d'effluents est plafonné à 6 m3 par tonne de produit entrant, 10 m3 avec refroidissement évaporatif.",
+        "lien": "https://aida.ineris.fr/reglementation/arrete-230312-relatif-prescriptions-generales-applicables-installations-relevant",
+        "lien_label": "Arrêté du 23 mars 2012, AIDA"
+      },
+      {
+        "type": "avertissement",
+        "texte": "Un site raccordé au réseau collectif est tenu par une autorisation de déversement et une convention de rejet qui plafonnent débit et charge. Une hausse de production sans avenant met le site en infraction."
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "infos_complementaires",
+        "url": "https://aida.ineris.fr/reglementation/arrete-300404-relatif-prescriptions-generales-applicables-installations-classees",
+        "date": "2004-04-30",
+        "extrait": "Rejet au réseau : MES 600 mg/l, DCO 2 000 mg/l, DBO5 800 mg/l ; prétraitement avec dégrillage à 6 mm au plus."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://aida.ineris.fr/reglementation/arrete-230312-relatif-prescriptions-generales-applicables-installations-relevant",
+        "date": "2012-03-23",
+        "extrait": "Débit spécifique d'effluents plafonné à 6 m3 par tonne de produit entrant, 10 avec refroidissement évaporatif."
+      }
+    ],
+    "date_maj": "2026-09-24"
+  }
+]

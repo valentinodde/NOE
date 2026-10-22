@@ -1,0 +1,65 @@
+{
+  "id": "PREST_VIA_010",
+  "nom": "Ecofilae",
+  "type": "bureau_etudes",
+  "logo_url": null,
+  "siret": "80193537000032",
+  "description": "Bureau d'études basé à Montpellier, spécialisé depuis 2009 dans la réutilisation des eaux usées traitées et des eaux non conventionnelles, avec des antennes dans les Landes et à Nantes. Pour les sites industriels, il réalise des audits hydriques, des plans de sobriété hydrique, des études d'opportunité et de faisabilité de réutilisation de l'eau et les dossiers réglementaires associés ; il a notamment étudié en 2023-2024 la réutilisation des eaux résiduaires de l'abattoir-conserverie Maison Lafitte (Landes) pour l'irrigation agricole. Le contact se prend par formulaire, téléphone ou courriel ; les tarifs ne sont pas publiés.",
+  "expertises": [
+    "Audit hydrique de site",
+    "Plan de sobriété hydrique",
+    "Étude de réutilisation des eaux",
+    "Dossiers réglementaires de réutilisation"
+  ],
+  "categories": [
+    "valoriser_reut_eaux_non_conventionnelles",
+    "suivre_comprendre_maitriser"
+  ],
+  "secteurs": ["industrie_viande"],
+  "departements": [],
+  "mesures": [
+    { "id": "ACT_VIA_006", "roles": ["conseil_etude"] },
+    { "id": "ACT_AGR_002", "roles": ["conseil_etude"] }
+  ],
+  "contacts": [
+    { "type": "site_internet", "value": "https://www.ecofilae.fr/" },
+    { "type": "tel", "value": "07 62 47 48 70" },
+    { "type": "mail", "value": "contact@ecofilae.fr" },
+    { "type": "adresse", "value": "650 rue Louis Lépine, 34000 Montpellier" },
+    { "type": "linkedin", "value": "https://fr.linkedin.com/company/ecofilae" }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Ecofilae&departement=34",
+      "date": "2026-09-24",
+      "extrait": "ECOFILAE, siret 80193537000032, siège, 650 RUE LOUIS LEPINE 34000 MONTPELLIER, activité 72.20Z, état administratif A"
+    },
+    {
+      "champ": "contacts",
+      "url": "https://www.ecofilae.fr/contact",
+      "date": "2026-09-24",
+      "extrait": "07 62 47 48 70. contact@ecofilae.fr. Ecofilae - Siège social, 650 rue Louis Lépine, 34000 Montpellier. Antenne Région Sud-Ouest, GIP Agrolandes, 1003 All. Jean d'Arcet, 40280 Haut-Mauco. Antenne Région Ouest, 2 Rue Crucy, CS 60515, 44005 Nantes Cedex 1"
+    },
+    {
+      "champ": "type, description, departements, contacts (linkedin)",
+      "url": "https://www.ecofilae.fr/",
+      "date": "2026-09-24",
+      "extrait": "Ecofilae propose un accompagnement sur-mesure des entreprises et des territoires afin de déterminer les meilleures solutions pour recycler l'eau [...] pour des usages raisonnés de la réutilisation des eaux usées en France. depuis 2009 pionniers de la réutilisation des eaux usées traitées. 269 projets & territoires étudiés"
+    },
+    {
+      "champ": "expertises, mesures (ACT_AGR_002, ACT_VIA_006)",
+      "url": "https://www.ecofilae.fr/secteurs/industries",
+      "date": "2026-09-24",
+      "extrait": "Audits hydriques (visite terrain et bilan des flux d'eau) ; Plan de sobriété hydrique (diagnostic des consommation, comparaison des process avec les meilleur techniques disponibles (MTD), action RRR (Réductions, Recyclage, Réutilisation)) [...] Rédaction de dossiers réglementaires [...] Étude d'opportunités de réutilisation d'eau ; Étude de faisabilité d'un scénario. [...] En réinjectant l'eau recyclée après son traitement initial dans les cycles de production, de refroidissement ou de lavage, les sites industriels et usines peuvent réduire leur consommation d'eau"
+    },
+    {
+      "champ": "description, mesures (ACT_VIA_006)",
+      "url": "https://www.ecofilae.fr/projets-realises/reutilisation-des-eaux-usees-dun-site-dabattoir-conserverie-pour-maison-lafitte",
+      "date": "2026-09-24",
+      "extrait": "Maison Lafitte : réutilisation des eaux usées d'un site d'abattoir-conserverie. [...] Localisation Montaut (40). Type d'eaux Eaux résiduaires industrielles. Usage Irrigation agricole. Date Avril 2023 - Avril 2024. Ecofilae a accompagné MAISON LAFITTE depuis l'étude d'opportunité jusqu'à la faisabilité, notamment sur les volets de cadrage réglementaire, d'aide à la décision"
+    }
+  ],
+  "date_maj": "2026-09-24"
+}

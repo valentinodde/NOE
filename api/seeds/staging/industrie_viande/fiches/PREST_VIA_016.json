@@ -1,0 +1,87 @@
+{
+  "id": "PREST_VIA_016",
+  "nom": "ADIV, institut technique agro-industriel des industries carnées",
+  "type": "organisme_technique",
+  "logo_url": null,
+  "siret": "31126177000078",
+  "description": "Institut technique agro-industriel (ITAI) basé à Clermont-Ferrand, qui réalise des prestations de R&D, d'audit, de conseil et de formation pour les abattoirs, ateliers de découpe et entreprises de transformation des viandes sur tout le territoire national. Son activité Procédés & Environnement accompagne les abattoirs de plus de 50 tonnes de carcasses par jour dans le réexamen des meilleures techniques disponibles (MTD) exigé pour leur autorisation ICPE : analyse et évaluation des techniques en place, puis plan d'action portant notamment sur le traitement des eaux usées, les coproduits animaux et l'énergie. Prestations sur demande auprès de l'institut ; une formation sur les MTD en abattoir est aussi proposée, en présentiel sur une journée de 7 heures, à 800 euros HT par inscription.",
+  "expertises": [
+    "Audit MTD en abattoir",
+    "Dossier de réexamen ICPE",
+    "Plan d'action eaux usées",
+    "Valorisation des coproduits"
+  ],
+  "categories": [
+    "agir_rejets_qualite"
+  ],
+  "secteurs": [
+    "industrie_viande"
+  ],
+  "departements": [],
+  "mesures": [
+    {
+      "id": "ACT_VIA_008",
+      "roles": [
+        "conseil_etude"
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "type": "site_internet",
+      "value": "https://www.adiv.fr"
+    },
+    {
+      "type": "tel",
+      "value": "04 73 98 53 80"
+    },
+    {
+      "type": "mail",
+      "value": "adiv@adiv.fr"
+    },
+    {
+      "type": "adresse",
+      "value": "10 rue Jacqueline Auriol, 63100 Clermont-Ferrand"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=ADIV&departement=63",
+      "date": "2026-09-24",
+      "extrait": "ASS DEVELOPP INSTITUT VIANDE (ADIV), siret 31126177000078, siège, ZAC PARC IND DES GRAVANCHES 10 RUE JACQUELINE AURIOL 63100 CLERMONT-FERRAND, activité 72.19Z, état administratif A"
+    },
+    {
+      "champ": "contacts",
+      "url": "https://www.adiv.fr/contact/",
+      "date": "2026-09-24",
+      "extrait": "ADIV, 10 rue Jacqueline Auriol, 63100 Clermont-Ferrand, 04 73 98 53 80, adiv@adiv.fr"
+    },
+    {
+      "champ": "nom, type, description, departements",
+      "url": "https://www.adiv.fr/presentation/",
+      "date": "2026-09-24",
+      "extrait": "l'ADIV est aujourd'hui le leader français en prestations de R&D, Audit, Conseil, Expertise et Formation auprès des industries carnées. Ses équipes mettent chaque jour leur expertise métier multi-espèces au service des outils d'abattage, de découpe et de transformation des viandes sur tout le territoire national. L'ADIV bénéficie de la qualification d'ITAI (Institut Technique Agro Industriel)"
+    },
+    {
+      "champ": "expertises, description",
+      "url": "https://www.adiv.fr/nos-prestations/procedesetenvironnement/",
+      "date": "2026-09-24",
+      "extrait": "Procédés & Environnement. Que pouvons-nous faire pour vous ? Accompagner les entreprises dans le réexamen des MEILLEURES TECHNIQUES DISPONIBLES (MTD). Optimiser les PERFORMANCES ENVIRONNEMENTALES. Valorisation des CO-PRODUITS. Accompagner la mise en CONFORMITÉ RÉGLEMENTAIRE (ICPE, PMS, HACCP)"
+    },
+    {
+      "champ": "description, expertises, mesures (ACT_VIA_008)",
+      "url": "https://www.adiv.fr/environnement/",
+      "date": "2026-09-24",
+      "extrait": "les abattoirs ayant une capacité de production supérieure à 50 tonnes de carcasses par jour doivent adopter les Meilleures Techniques Disponibles (MTD) pour renouveler leurs agréments. [...] L'ADIV accompagne ces outils d'abattage dans la réalisation de ces dossiers avec notamment l'analyse et l'évaluation des techniques mises en place et la réalisation d'un plan d'action, qu'il s'agisse par exemple du traitement des co-produits animaux, eaux usées ou de la consommation d'énergie électrique."
+    },
+    {
+      "champ": "description (formation MTD, tarif)",
+      "url": "https://adiv-formation.catalogueformpro.com/10/environnement/2155531/integrer-les-meilleures-techniques-disponibles-mtd-pour-optimiser-les-process-en-abattoir",
+      "date": "2026-09-24",
+      "extrait": "Intégrer les meilleures techniques disponibles (MTD) pour optimiser les process en abattoir. Présentiel, 7 heures (1 jour), 800,00 € HT. Analyser et évaluer les pratiques existantes par rapport aux MTD."
+    }
+  ],
+  "date_maj": "2026-09-24"
+}

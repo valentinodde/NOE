@@ -1,0 +1,78 @@
+{
+  "id": "PREST_FRL_005",
+  "nom": "TOMRA Food",
+  "type": "equipementier",
+  "logo_url": null,
+  "siret": "94202692300014",
+  "description": "Division alimentaire du groupe norvégien TOMRA, qui conçoit et fabrique ses machines sur des sites dont aucune source ne situe un en France, et dont les entités françaises, installées à Salon-de-Provence (Bouches-du-Rhône), sont commerciales. Elle fournit des éplucheurs à vapeur (Orbit, Odyssey, Eco) pour les pommes de terre et les légumes racines comme la carotte, la betterave ou le céleri-rave, associés à un séparateur de pelures à sec qui supprime la consommation d'eau à cette étape. En France, une équipe d'ingénieurs commerciaux et de techniciens suit les industriels de l'agroalimentaire, avec visites sur site, maintenance et formation des utilisateurs.",
+  "expertises": [
+    "Éplucheurs à vapeur",
+    "Séparation à sec des pelures",
+    "Lignes d'épluchage complètes"
+  ],
+  "categories": [
+    "changer_process_pratiques"
+  ],
+  "secteurs": [
+    "industrie_fruits_legumes"
+  ],
+  "departements": [],
+  "mesures": [
+    {
+      "id": "ACT_FRL_005",
+      "roles": [
+        "materiel"
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "type": "site_internet",
+      "value": "https://www.tomra.com/food"
+    },
+    {
+      "type": "adresse",
+      "value": "181 boulevard de la République, 13300 Salon-de-Provence"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "description, expertises, mesures (ACT_FRL_005 materiel), secteurs",
+      "url": "https://www.agence-c3m.paris/communique/une-gamme-deplucheurs-vapeur-tomra-pour-reduire-les-dechets-alimentaires-sur-les-lignes-de-traitement-des-legumes/",
+      "date": "2026-09-25",
+      "extrait": "carottes, betteraves, mais aussi courges musquées, choux-raves, panais, citrouilles et céleris-raves. [...] Avec la séparation à sec, la consommation d'eau à ce stade du processus est éliminée. [...] L'éplucheuse à vapeur Orbit est un best seller chez les transformateurs de légumes"
+    },
+    {
+      "champ": "description, expertises, mesures (ACT_FRL_005 materiel)",
+      "url": "https://www.tomra.com/food/machines/peeling-line",
+      "date": "2026-09-25",
+      "extrait": "TOMRA's Dry Peel Separator (DPS) is equipped with the largest capacity in the market and delivers outstanding peel removal with greatly reduced flesh loss. [...] Our partners need versatility, so our solutions are just as efficient with apples, carrots, peppers, peaches, pears, and sweet potatoes. [...] Additional water reclaim and filter unit to capture waste water."
+    },
+    {
+      "champ": "type (fabricant), description (groupe norvégien, division TOMRA Food)",
+      "url": "https://www.tomra.com/about-tomra/business-divisions",
+      "date": "2026-09-25",
+      "extrait": "TOMRA Food designs and manufactures sensor-based sorting machines and integrated post-harvest solutions [...] solutions include advanced grading, sorting, peeling and analytical technology [...] TOMRA Systems ASA Drengsrudhagen 2 1385 Asker, Norway"
+    },
+    {
+      "champ": "description (fabrication hors de France)",
+      "url": "https://www.tomra.com/fr-fr/sorting/food/peeling-equipment",
+      "date": "2026-09-25",
+      "extrait": "TOMRA Food exploite des centres d'excellence, des bureaux régionaux et des sites de fabrication aux États-Unis, en Europe, en Amérique du Sud, en Asie, en Afrique et en Australasie."
+    },
+    {
+      "champ": "siret, contacts (adresse), description (entités françaises commerciales à Salon-de-Provence)",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=TOMRA%20FOOD&departement=13",
+      "date": "2026-09-25",
+      "extrait": "TOMRA FOOD (FRANCE) SARL, siret 94202692300014, siège, 181 BOULEVARD DE LA REPUBLIQUE 13300 SALON-DE-PROVENCE, activité 46.62Z (commerce de gros), état administratif A, date de création 2025-03-11, gérants dont Florent Vidal"
+    },
+    {
+      "champ": "departements (équipe France), description (service client en France)",
+      "url": "https://www.agence-c3m.paris/communique/nomination-chez-tomra-food-en-france-le-service-client-de-tomra-food-se-renforce-en-france-avec-larrivee-de-florent-vidal-a-sa-tete/",
+      "date": "2026-09-25",
+      "extrait": "TOMRA FOOD est aujourd'hui forte en France d'une équipe d'une demi-douzaine d'ingénieurs commerciaux et de techniciens dédiés [...] aux marques de l'industrie agroalimentaire, conditionneurs et industriels (« TOMRA Processed Food ») [...] Deux postes de techniciens Support sont à pourvoir en régions pour gérer les visites périodiques des clients sur site, et la réalisation des missions d'entretien-maintenance, de formation des utilisateurs"
+    }
+  ],
+  "date_maj": "2026-09-25"
+}

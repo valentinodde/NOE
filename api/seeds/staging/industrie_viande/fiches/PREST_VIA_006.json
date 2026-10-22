@@ -1,0 +1,67 @@
+{
+  "id": "PREST_VIA_006",
+  "nom": "CM2A (Constructions Mécaniques et d'Automatismes d'Armor)",
+  "type": "equipementier",
+  "logo_url": null,
+  "siret": "48760026400021",
+  "description": "Constructeur installé à Rostrenen (Côtes-d'Armor) qui conçoit et fabrique des équipements et process automatisés pour l'industrie agroalimentaire, d'abord pour la manutention des volailles de l'élevage à l'abattoir. Pour les abattoirs, sa gamme de transport et de stockage des coproduits d'abattage comprend pompe à vide, réceptacles, tuyauterie, filtration, stockage et presse à plumes, à côté d'équipements de filtration (filtres statiques et rotatifs, séparation mécanique, collecte des déchets) et de lavage. Contact par téléphone ou par formulaire sur son site.",
+  "expertises": [
+    "Transport des coproduits d'abattage",
+    "Presse à plumes",
+    "Filtration et séparation mécanique",
+    "Manutention des volailles vivantes"
+  ],
+  "categories": [
+    "changer_process_pratiques"
+  ],
+  "secteurs": ["industrie_viande"],
+  "departements": [],
+  "mesures": [
+    { "id": "ACT_VIA_005", "roles": ["materiel"] }
+  ],
+  "contacts": [
+    { "type": "site_internet", "value": "https://www.cm2a.fr/" },
+    { "type": "tel", "value": "+33 2 96 29 03 12" },
+    { "type": "adresse", "value": "Z.A. La Garenne, 22110 Rostrenen" }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=CM2A&departement=22",
+      "date": "2026-09-24",
+      "extrait": "CM2A (CONSTRUCTIONS MECANIQUES ET D'AUTOMATISMES D'ARMOR), siret 48760026400021, siège, ZA LA GARENNE 22110 ROSTRENEN, activité 28.99B, état administratif A, 1 établissement ouvert"
+    },
+    {
+      "champ": "type, description, expertises (manutention des volailles), contacts (adresse, tel)",
+      "url": "https://www.cm2a.fr/",
+      "date": "2026-09-24",
+      "extrait": "Leader dans le domaine de la manutention des volailles, CM2A conçoit et fabrique également tout équipement et process automatisés pour l'industrie agro-alimentaire. [...] ZA La Garenne 22110 Rostrenen France Tél : + 33 02 96 29 03 12"
+    },
+    {
+      "champ": "type (fabrication)",
+      "url": "https://www.cm2a.fr/amelioration-de-lensemble-du-systeme-dinformation.html",
+      "date": "2026-09-24",
+      "extrait": "l'entreprise a relié informatiquement ses deux sites (production et assemblage). [...] L'objectif est d'établir un lien direct entre la conception des process, les approvisionnements et la fabrication."
+    },
+    {
+      "champ": "expertises (transport des coproduits, presse à plumes, filtration), description, mesures (ACT_VIA_005 materiel)",
+      "url": "https://www.cm2a.fr/process-agro/transport-et-stockage-co-produit-abattage.html",
+      "date": "2026-09-24",
+      "extrait": "Transport et stockage co-produit d'abattage • Pompe à vide • Réceptacle • Filtration • Tuyauterie • Stockage • Presse à plume • Automation [...] Filtration • Filtre statique • Filtre rotatif • Séparation mécanique • Collecte déchets • Eviscération volailles [Note du rédacteur : la page ne parle pas d'eau ; le rattachement à ACT_VIA_005 est une déduction, aucune page CM2A trouvée ne présente ce transport comme une alternative au transport par l'eau.]"
+    },
+    {
+      "champ": "expertises (manutention des volailles vivantes)",
+      "url": "https://www.cm2a.fr/transfert-de-volailles.html",
+      "date": "2026-09-24",
+      "extrait": "Le quai automatique de réception des volailles vivantes. Le tunnel d'étourdissement et de narcose irréversible des volailles"
+    },
+    {
+      "champ": "contacts (adresse, tel), description (formulaire), departements",
+      "url": "https://www.cm2a.fr/contactez-nous.html",
+      "date": "2026-09-24",
+      "extrait": "France Rostrenen - CM2A [...] Z.A. La Garenne 22110 ROSTRENEN Tél : (+33) 02 96 29 03 12 [...] Brasil Esteio - Libracom [...] China Shangai [...] México [...] Polska Warsaw [...] Kiev [...] Envoyer un E-mail à l'aide de ce formulaire"
+    }
+  ],
+  "date_maj": "2026-09-24"
+}

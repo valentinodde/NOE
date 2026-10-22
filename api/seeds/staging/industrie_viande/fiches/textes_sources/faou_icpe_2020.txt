@@ -1,0 +1,342 @@
+Extraction texte (pdfplumber) du PDF https://www.finistere.gouv.fr/content/download/40602/293816/file/3.%20AICPE%20-%20Le%20Faou%20-%202020.07.06.pdf , pages citées et voisines, téléchargé le 2026-09-24 par l orchestrateur.
+
+===== page 1 =====
+DOSSIER DE DEMANDE
+D’AUTORISATION
+ENVIRONNEMENTALE UNIQUE
+COMMUNAUTÉ DE
+COMMUNES PRESQU’ÎLE DE
+CROZON AULNE MARITIME
+Le Faou(29)
+Construction d’un abattoir public
+1 Rue Jacques Brel - BP 30382
+44819 SAINT HERBLAIN Cedex
+Tél. : 02 51 80 96 94
+environn ement@essor.group Saint-Herblain, le 6 juillet 2020
+www.essor.group
+
+===== page 2 =====
+[page sans texte extractible]
+
+===== page 24 =====
+17.01.004 – Abattoir du Faou
+Dossier de demande d’autorisation environnementale unique
+Le périmètre géographique de la Communauté de communes Presqu’Île de Crozon Aulne
+Maritime est indiqué sur la figure suivante :
+Figure 1 - Territoire de la Communauté de communes Presqu’Île de Crozon Aulne Maritime
+Le demandeur s’est appuyé sur l’expertise présent au sein des différents services de la
+Communauté de communes qui comprend notamment un service Environnement, un service
+Déchets, un service Eau potable avec un ingénieur assainissement et deux responsables
+qualité sécurité environnement ; ainsi que par le Président du Syndicat d’Abattage actuel.
+Il a été accompagné par le bureau d’études ESSOR ACE dans la rédaction de ce dossier,
+bureau d’études en environnement de 12 ans d’expérience :
+ESSOR ACE
+1 rue Jacques Brel - 44819 SAINT HERBLAIN
+Mme Morgane Gaudefroy - Chargée d’études en environnement -
+morgane.gaudefroy@essor.group
+L’organigramme de la collectivité est donné en Annexe 2.
+Les statuts de la collectivité sont donnés en Annexe 3.
+MG/EACE Page 24 | 319
+
+===== page 70 =====
+17.01.004 – Abattoir du Faou
+Dossier de demande d’autorisation environnementale unique
+3.2.3 LOCAUX ADMINISTRATIFS ET SOCIAUX
+Il est prévu un bloc central administration / locaux sociaux. Il possède deux entrées distinctes :
+une pour les bureaux administratifs, une pour l’accès du personnel de production.
+Il est prévu :
+-
+Un sas d’entrée,
+-
+Une zone accueil desservant un bureau du responsable
+-
+Une zone DDCSPP : bureau avec accès extérieur indépendant ; vestiaire hommes (1
+douche) ; vestiaire femmes (1 douche),
+-
+Une zone pour le personnel de production :
+o
+Sas d’entrée en tenue de ville avec stockage linge propre et linge sale,
+o
+Vestiaire hommes zone « souillée » abattage (lavabo, douche),
+o
+Vestiaire hommes zone « propre » (lavabo, douche),
+o
+Vestiaire femmes (lavabo, douche),
+o
+Local pause,
+o
+Sas hygiène sortie opposée en tenue de travail côté abattoir, équipé de
+‐ ‐
+l’ensemble de matériels d’hygiène tels que lave bottes à passage obligé, lave
+‐
+mains à commande non manuelle, lave tabliers, patères à tablier.
+-
+Des sanitaires, notamment accessibles aux personnes à mobilité réduite,
+‐
+De plus, le sas couloir de circulation du personnel permet aussi bien de desservir d’une part
+les zones « souillées » de premier travail d’abattage, et les zones « propres » d’extrémité des
+chaînes d’habillage puis du bloc frigo d’autre part. Ce couloir permet également de visualiser
+d’une part l’ensemble du hall d’abattage/habillage, et d’autre part le bloc frigo sans entrer
+‐
+dans ceux ci.
+Les plafonds de ce bloc seront en dalles acoustiques avec isolant pour les bureaux, en dalles
+lavables avec isolant pour les locaux sociaux.
+Le traitement de sol est constitué de carrelage sur l’ensemble des locaux
+administrations/locaux sociaux.
+MG/EACE Page 70 | 319
+
+===== page 71 =====
+17.01.004 – Abattoir du Faou
+Dossier de demande d’autorisation environnementale unique
+3.2.4 ZONES EXTERIEURES
+Il est prévu :
+-
+L’aire de lavage pour 1 bétaillère équipée d’une lance de lavage MP, implantée dans la
+cour dite souillée,
+-
+La fumière couverte permettant le stockage équivalent à 6 mois, située entre les
+stabulations et la station de prétraitement des eaux usées,
+-
+La fosse à lisier de capacité de stockage 6 mois près de la fumière,
+-
+L’aire de lavage des camions frigorifiques,
+-
+Le prétraitement des eaux usées : ce point est spécifiquement détaillé ci-après,
+-
+Un parking véhicules légers.
+Le reste du site est composé d’espaces verts (55% du site).
+Des bassins sont présents : réserve eau incendie, bassin tampon des EU avant rejet au réseau,
+bassin de temporisation des EP et bassin de rétention des eaux d’extinction d’incendie
+(mutualisés).
+MG/EACE Page 71 | 319
+
+===== page 72 =====
+17.01.004 – Abattoir du Faou
+Dossier de demande d’autorisation environnementale unique
+3.2.5 PRINCIPAUX RESEAUX DESSERVANT LE SITE
+Un plan spécifique aux réseaux est fourni en Annexe 7.
+3.2.5.1 RESEAU DE DISTRIBUTION D’EAU POTABLE
+Le réseau d’Alimentation en Eau Potable est présent à proximité du site.
+Les usages de l’eau sont :
+-
+Sanitaires,
+-
+Lavage du site,
+-
+Eau dans le process.
+L’alimentation en eau de l’usine se fera par le réseau d’Adduction en Eau Potable de la
+commune.
+Les réseaux eaux pluviales, eaux vannes et eaux usées sont de type séparatif.
+3.2.5.2 RESEAU D’EVACUATION DES EAUX PLUVIALES
+Un système de temporisation pour les pluies décennales est mis en place. Il s’agit d’un bassin
+de récupération des eaux pluviales. Il sera mutualisé avec la rétention des eaux d’incendie. Il
+est étanche et équipé d’une vanne de barrage.
+Les eaux pluviales de toiture sont envoyées directement dans ce bassin.
+Les eaux pluviales de voiries sont prétraitées par un séparateur hydrocarbures avec
+débourbeur avant de rejoindre le bassin.
+Ainsi l’ensemble des eaux pluviales sont dirigées vers le bassin de temporisation. En sortie de
+bassin, ces eaux sont régulées à hauteur de 6,7 L/s. Le rejet est réalisé dans le milieu naturel,
+dans la rivière du Faou. Les coordonnées point de rejet suivant système Lambert CC48 sont
+les suivantes : X = 1168357,02 / Y = 7258367,65.
+En cas de pluie exceptionnelle, une canalisation est mise en œuvre afin de diriger la surverse
+dans la rivière.
+3.2.5.3 RESEAU D’EVACUATION DES EAUX USEES
+Les eaux usées du site sont composées des eaux à usage sanitaire (douches, lavabos, WC,
+urinoirs), et des eaux provenant du process, des eaux liées au nettoyage et au lavage des
+installations extérieures et intérieures.
+Les eaux usées du site sont prétraitées au niveau de la station interne, ce qui permet de
+respecter les exigences de rejet en réseau d’assainissement public.
+MG/EACE Page 72 | 319
+
+===== page 122 =====
+17.01.004 – Abattoir du Faou
+Dossier de demande d’autorisation environnementale unique
+La station d’épuration du Faou n’a pas atteint à l’heure actuelle sa capacité maximum de
+traitement.
+Le rapport annuel 2017 de la STEP est fourni en Annexe 19.
+Durant l’année 2017, quatre analyses de l’eau rejetée par l’abattoir actuel ont été réalisées afin
+de vérifier la conformité du rejet. Sur l’ensemble des paramètres analysés, le rejet de l’abattoir
+a été jugé conforme à la convention en vigueur.
+Le tableau ci-dessous liste les seuils imposés par le gestionnaire de la STEP sur le rejet de
+l’abattoir actuel et futur, et indique la part vis-à-vis de la capacité globale de traitement de
+la STEP :
+Rejets autorisés de Capacité Rapport entre le rejet de l’abattoir
+l’abattoir de et la capacité de la STEP
+Abattoir Futur traitement
+Abattoir actuel Futur abattoir
+actuel abattoir de la STEP
+DEBITS
+Débit
+35 m3/j 55 m3/j 1 361 m3/j 2,6% 4%
+journalier
+Débit
+horaire de 10 m3/h 10 m3/h 89 m3/h 11% 11%
+pointe
+FLUX JOURNALIERS
+DBO5 55 kg/j 55 kg/j 318 kg/j 17% 17%
+DCO 110 kg/j 110 kg/j 636 kg/j 17% 17%
+MES 55 kg/j 55 kg/j 405 kg/j 14% 14%
+Azote
+4 kg/j 8 kg/j 63 kg/j 6% 13%
+globale
+Phosphore
+2 kg/j 4 kg/j 16 kg/j 13% 25%
+total
+Tableau 18 - Qualité des rejets de l'abattoir et de la STEP communale
+Aujourd’hui, les caractéristiques de raccord à l’installation sont les suivantes :
+-
+1 750 habitants, soit 105 kg de DBO5/j,
+-
+L’entreprise Arnal, pouvant rejeter jusqu’à 50 kg de DBO5/j,
+-
+L’abattoir intercommunal actuel, pouvant rejeter jusqu’à 55 kg de DBO5/j.
+Ainsi le flux de pollution organique à traiter global est de 210 kg de DBO5/j, soit 66% de la
+capacité organique nominale.
+Par ailleurs, la politique d’habitat de la Communauté de communes Presqu’Île de Crozon –
+Aulne Maritime est notamment de répondre aux besoins en logements des habitants actuels
+et à venir. Ainsi il est fixé un objectif de production de 170 logements par an, soit 3 400
+MG/EACE Page 122 | 319
+
+===== page 123 =====
+17.01.004 – Abattoir du Faou
+Dossier de demande d’autorisation environnementale unique
+logements sur la période du PLUI-H. Le tableau ci-dessous indique la répartition de la
+programmation de ces logements par commune.
+Nombre de
+Objectifs de
+Typologie des logements à
+Commune production sur la
+communes produire chaque
+durée du PLUiH
+année
+Crozon Pôle structurant 1 184 59
+Pont de Buis Les
+Pôle intermédiaire 565 28
+Quimerch
+Le Faou Pôle intermédiaire 285 14
+Camaret sur Mer Espace maritime majeur 363 18
+Argol Commune de proximité 148 7
+Landévennec Commune de proximité 47 3
+Lanvéoc Commune de proximité 196 10
+Roscanvel Commune de proximité 108 6
+Rosnoën Commune de proximité 142 7
+Telgruc sur Mer Commune de proximité 362 18
+CCPCAM 3 400 170
+Tableau 19 - Programmation de logements par commune
+Selon les projections d’évolution de la population présentées ci-dessus, il est estimé à l’horizon
+20 ans une population supplémentaire raccordée à l’installation de traitement de
+620 habitants, soit 37 kg de DBO5/j.
+Concernant les installations industrielles déjà raccordées, il n’est prévu aucune évolution sur
+la charge organique. En effet, la convention de rejet du nouvel abattoir impose la même
+qualité de rejet organique. Seuls les flux de l’azote globale et du phosphore global pourront
+être supérieurs aux flux autorisés actuels.
+Ainsi le flux de pollution organique à traiter à horizon 20 ans est estimé à 247 kg de DBO5/j,
+soit 77% de la capacité nominale. Cette marge de traitement permettra un développement
+raisonne de l’activité économique.
+L’avis du Service de l’eau potable et de l’assainissement relatif à l’évolution de la charge
+polluante à traiter est fourni en Annexe 19.
+La convention de rejet sera mise à jour lors du démarrage de la future exploitation, avec les
+évolutions listées ci-dessus : débit journalier, flux journaliers d’azote et de phosphore.
+Le site de l’abattoir disposera d’une station de prétraitement afin de respecter la qualité des
+rejets acceptée par la STEP.
+MG/EACE Page 123 | 319
+
+===== page 124 =====
+17.01.004 – Abattoir du Faou
+Dossier de demande d’autorisation environnementale unique
+Un bureau d’études spécifique a été missionné afin de s’assurer de l’abattement de la pollution
+par la station de prétraitement. Le détail du fonctionnement de la station de prétraitement est
+donné au paragraphe 4.3.2.4 du présent document.
+MG/EACE Page 124 | 319
+
+===== page 158 =====
+17.01.004 – Abattoir du Faou
+Dossier de demande d’autorisation environnementale unique
+4.3.2 IMPACT SUR L’EAU
+4.3.2.1 ORIGINE DE L’EAU POTABLE
+L’eau sera distribuée par le réseau d’adduction en eau potable de la commune. Sa qualité est
+régulièrement vérifiée par le service santé – environnement de l’ARS.
+L’eau distribuée sur la commune du Faou provient de l’usine de Coatigrac’h à Châteaulin.
+Une distance de 13 km à vol d’oiseaux sépare le projet de l’usine d’eau potable.
+La prise d’eau de Coatigrac'h est autorisée par Arrêté préfectoral n°2013078-0001 du 19 mars
+2013, transmis en Annexe 26. La commune du Faou n’est pas située dans les périmètres de
+protection de la prise d’eau.
+→
+Le projet n’aura pas d’impact sur la qualité de l’eau potable.
+4.3.2.2 USAGE DE L’EAU POTABLE
+L’eau potable utilisée sur le site est destinée aux usages suivants :
+➢
+Usage alimentaire
+Une salle de repos et de repas est présente au sein du site. Les employés peuvent y prendre
+leur repas.
+Des sanitaires (comprenant douches, lavabos, WC et urinoirs) seront présents dans les locaux
+sociaux. La répartition est donnée dans le paragraphe 5 relatif à la notice Hygiène et Sécurité.
+Il est compté une consommation d’eau de 75 L/personne/poste pendant une durée de 8h
+pour le personnel.
+Les ratios utilisés sont ceux définis dans la circulaire n°97-49 du 22 mai 1997 (0,5 éq-hab), ce
+qui donne pour 20 personnes présentes au sein de l’usine, une consommation théorique de
+l’ordre de 1,5 m3/jour.
+➢
+Usage process
+Au niveau du process, l’eau est utilisée au niveau du 5ème quartier. L’estimation de
+consommation est de 3,5 m3 d’eau consommée pour 1 tonne de carcasse. Cette estimation
+est basée sur la consommation de l’outil actuel pour l’année 2016. Ce ratio est majorant
+puisque le futur outil utilisera des machines moins consommatrices d’eau.
+L’arrêté ministériel relatif à la rubrique ICPE d’abattage impose une consommation maximale
+de 6 m3 d’eau pour une tonne de carcasse abattue. Cette prescription sera donc bien
+respectée.
+MG/EACE Page 158 | 319
+
+===== page 159 =====
+17.01.004 – Abattoir du Faou
+Dossier de demande d’autorisation environnementale unique
+Selon nos ratios d’estimations, les consommations seront les suivantes :
+Jour moyen (m3/j)
+Echaudeuse pieds/pattes et museaux 11,5
+Blanchisseuse des panses 5,7
+Raffineuse des panses 4,3
+Machine premiers rouleaux à vider les menus 7,3
+Tube vide-boyaux 5,7
+Prétraitement des eaux usées 8,2
+Condenseurs évaporatifs 20,5
+Lisier + jus de fumière 8,2
+Conditionnements 0
+Total 71,4
+Tableau 25 - Estimation des consommations d'eau par poste du process
+Pour l’abattoir du Faou, il est estimé une consommation d’eau pour la partie process à 3,5 m3
+pour une tonne de carcasse abattue. Cette réduction de consommation est réalisée grâce à
+la mise en place de machines neuves dans le hall d’abattage. L’abattoir respectera donc bien
+la consommation maximale imposée.
+Pour information en 2016, il a été consommé 10 955 m3 d’eau pour une production de 3 130
+tonnes de carcasses abattues. En 2019, il a été consommé 8 437 m3 pour une production de
+3 738 tonnes, soit un ratio de 2,3 m3 d’eau/tonne de carcasse abattue.
+➢
+Usage lavage
+Les locaux et le matériel sont lavés quotidiennement en fin d’activité, avec utilisation des
+détergents.
+Afin de limiter la consommation d’eau pour le lavage, il est procédé au raclage des sols avec
+un enlèvement séparé des déchets. Cela permet aussi de limiter la charge de pollution des
+eaux usées.
+Il est prévu au sein de l’installation la mise en place d’une centrale de lavage 25 bars avec un
+débit de 4 m3/h. La durée du lavage sera de 3 heures environ par jour.
+Il est précisé que dans un abattoir, l’eau utilisée est obligatoirement de l’eau potable, quel que
+soit l’usage. Une étude de récupération de l’eau pluviale avait été initiée pour le nettoyage des
+bétaillères. Mais ce système est non applicable à l’activité du site pour des questions d’ordre
+sanitaire.
+MG/EACE Page 159 | 319
+
+===== page 160 =====
+17.01.004 – Abattoir du Faou
+Dossier de demande d’autorisation environnementale unique
+➢
+Bilan
+Ainsi selon les différents usages de l’eau du futur projet, on peut estimer la consommation
+d’eau à 84,9 m3/j, soit annuellement 21 225 m3 d’eau.
+Il sera mis en œuvre un compteur sur l’eau froide et un compteur sur l’eau chaude. Ainsi, un
+suivi sera réalisé de prévenir toute fuite ou tout surconsommation.
+→
+L’impact sur la consommation d’eau potable est maitrisé avec notamment la mise en place
+de machines neuves dans le hall d’abattage qui consommeront moins d’eau que l’usine
+actuelle.
+MG/EACE Page 160 | 319
+

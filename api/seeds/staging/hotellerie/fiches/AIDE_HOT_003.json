@@ -1,0 +1,119 @@
+{
+  "id": "AIDE_HOT_003",
+  "nom": "Pays de la Loire AGIR Tourisme (Région Pays de la Loire)",
+  "financeur": "Région Pays de la Loire",
+  "logo_url": null,
+  "type": "pret",
+  "taux": "Prêt à 2,4 % TEG sur 24 à 120 mois. Pour un projet de nature à réduire de manière substantielle les consommations en eau, prêt à 1,2 % TEG possible, et subvention possible liée à un prêt régional. Le niveau des taux peut faire l'objet d'une révision.",
+  "plafond": "Prêt à partir de 5 000 €, limité au montant des prêts bancaires obtenus. Hôtels de Nantes, Angers et Le Mans : prêt de 100 000 € au maximum. Plancher de dépenses éligibles : 30 000 € pour l'hôtellerie.",
+  "description": "Soutien régional « sur-mesure » aux projets touristiques de création, d'extension ou de modernisation engagés dans une démarche concrète de transition écologique, prioritairement sous forme de prêts. Un projet par essence « transition écologique », comme des équipements d'économies d'eau et d'énergie, bénéficie d'un soutien optimisé. Un projet de nature à réduire de manière substantielle les consommations en eau peut bénéficier d'un prêt à 1,2 % TEG et d'une subvention liée, après instruction : l'aide n'est jamais attribuée automatiquement.",
+  "eligibilite": "Hôtels et résidences hôtelières des Pays de la Loire classés 2 étoiles minimum (normes 2022, au plus tard 12 mois après la fin des travaux), de 6 chambres au minimum, portés par une TPE, une PME ou une ETI inscrite au RCS, propriétaire du fonds de commerce de l'établissement et organisée sous forme sociétaire « dans un délai minimal de 2 ans » (forme associative possible à défaut). L'hôtellerie « économique » 0 ou 1 étoile n'est pas éligible.",
+  "categories": ["ameliorer_efficacite_hydrique"],
+  "secteurs": ["hotellerie"],
+  "departements": ["44", "49", "53", "72", "85"],
+  "agences": [],
+  "mesures": ["ACT_HOT_001"],
+  "infos_complementaires": [
+    {
+      "type": "avertissement",
+      "texte": "Le dossier complet doit être déposé sur le portail des aides avant l'engagement des dépenses, et le règlement précise que les investissements ne peuvent être engagés avant l'accord de la Région."
+    },
+    {
+      "type": "info",
+      "texte": "Le plancher de dépenses éligibles est de 30 000 € pour l'hôtellerie : des équipements hydro-économes (mousseurs, douchettes, chasses) se financent en pratique au sein d'un projet de rénovation ou de modernisation plus large atteignant ce montant."
+    },
+    {
+      "type": "info",
+      "texte": "Une étude de faisabilité économique est demandée pour tous les projets, et un diagnostic environnemental est obligatoire au-delà de 500 000 € d'investissement. Une étude confiée à un cabinet extérieur peut être subventionnée à 30 % (15 000 € au maximum) par le dispositif « Pays de la Loire Conseil »."
+    },
+    {
+      "type": "info",
+      "texte": "Le soutien n'est pas cumulable avec un autre dispositif régional sur la même assiette d'investissements. Les soutiens sont priorisés pour les hôtels situés en secteur rural ou littoral."
+    },
+    {
+      "type": "ressource",
+      "texte": "Page du dispositif sur le site de la Région",
+      "lien": "https://www.paysdelaloire.fr/les-aides/pays-de-la-loire-agir-tourisme"
+    },
+    {
+      "type": "ressource",
+      "texte": "Règlement d'intervention AGIR Tourisme 2025",
+      "lien": "https://www.paysdelaloire.fr/sites/default/files/aides/2ae4eace-0470-11ee-baf5-23743e123976/subvention%2Cpret_ri-2025-agir-tourisme_2ae4eace_ri.pdf"
+    },
+    {
+      "type": "ressource",
+      "texte": "Déposer une demande sur le portail des aides de la Région",
+      "lien": "https://les-aides.paysdelaloire.fr/aides/#/prod/connecte/F_AGIR_TOURISME/depot/simple"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "taux, type",
+      "url": "https://www.paysdelaloire.fr/les-aides/pays-de-la-loire-agir-tourisme",
+      "date": "2026-09-24",
+      "extrait": "Bénéficiaires privés : soutien prioritaire par prêts à 2,4% TEG, durées de 24 à 120 mois [...] Soutiens possibles pour les projets [...] proposant un projet de nature à réduire de manière substantielle les consommations en eau [...] Prêt à 1,2% TEG [...] Subvention : liée à un prêt régional"
+    },
+    {
+      "champ": "taux, description",
+      "url": "https://www.paysdelaloire.fr/sites/default/files/aides/2ae4eace-0470-11ee-baf5-23743e123976/subvention%2Cpret_ri-2025-agir-tourisme_2ae4eace_ri.pdf",
+      "date": "2026-09-24",
+      "extrait": "NB : le niveau des taux peut faire l'objet d'une révision. [...] La conformité du projet aux critères d'éligibilité et de sélection n'entraîne pas l'attribution automatique de l'aide sollicitée."
+    },
+    {
+      "champ": "plafond",
+      "url": "https://www.paysdelaloire.fr/sites/default/files/aides/2ae4eace-0470-11ee-baf5-23743e123976/subvention%2Cpret_ri-2025-agir-tourisme_2ae4eace_ri.pdf",
+      "date": "2026-09-24",
+      "extrait": "Montants des prêts régionaux : variables selon les besoins (à partir de 5 000 € [...]) ; Les montants des soutiens régionaux ne peuvent dépasser les montants de prêts bancaires obtenus ; Le soutien des projets hôteliers des grandes métropoles régionales (Nantes, Angers et Le Mans), sera limité à des prêts d'un montant maximum de 100 000 €"
+    },
+    {
+      "champ": "plafond, infos_complementaires",
+      "url": "https://www.paysdelaloire.fr/les-aides/pays-de-la-loire-agir-tourisme",
+      "date": "2026-09-24",
+      "extrait": "Planchers des dépenses éligibles : Hôtellerie, HPA, Gastronomie d'excellence, Centres de vacances, Tourisme équestre, Agritourisme et œnotourisme. 30 000 €"
+    },
+    {
+      "champ": "description, mesures, categories, infos_complementaires",
+      "url": "https://www.paysdelaloire.fr/sites/default/files/aides/2ae4eace-0470-11ee-baf5-23743e123976/subvention%2Cpret_ri-2025-agir-tourisme_2ae4eace_ri.pdf",
+      "date": "2026-09-24",
+      "extrait": "Projet par essence « transition écologique » (ex : isolation thermique, équipements d'économies d'eau et d'énergie…) : soutien optimisé"
+    },
+    {
+      "champ": "description",
+      "url": "https://www.paysdelaloire.fr/les-aides/pays-de-la-loire-agir-tourisme",
+      "date": "2026-09-24",
+      "extrait": "Sont visé des projets de création, d'extension, de modernisation ou de toute autre innovation, portés par les acteurs du tourisme et présentant un engagement dans une démarche concrète de transition écologique."
+    },
+    {
+      "champ": "eligibilite",
+      "url": "https://www.paysdelaloire.fr/sites/default/files/aides/2ae4eace-0470-11ee-baf5-23743e123976/subvention%2Cpret_ri-2025-agir-tourisme_2ae4eace_ri.pdf",
+      "date": "2026-09-24",
+      "extrait": "hôtels et résidences hôtelières classés (niveau de classement 2 étoiles minimum, normes 2022, sous 12 mois maximum après la fin des travaux) de 6 chambres au minimum [...] Ne sont pas éligibles les projets relatifs à l'hôtellerie « économique » 0/1 étoile. [...] TPE, PME au sens de la définition européenne [...] ou ETI"
+    },
+    {
+      "champ": "eligibilite",
+      "url": "https://www.paysdelaloire.fr/sites/default/files/aides/2ae4eace-0470-11ee-baf5-23743e123976/subvention%2Cpret_ri-2025-agir-tourisme_2ae4eace_ri.pdf",
+      "date": "2026-09-24",
+      "extrait": "inscrite au Registre du Commerce et des Sociétés, propriétaire du fonds de commerce de l'établissement concerné par le projet, organisée sous une forme sociétaire dans un délai minimal de 2 ans. [...] possibilité d'organisation sous forme associative (si l'entreprise n'est pas constituée sous forme sociétaire)"
+    },
+    {
+      "champ": "departements",
+      "url": "https://www.paysdelaloire.fr/sites/default/files/aides/2ae4eace-0470-11ee-baf5-23743e123976/subvention%2Cpret_flyer2025_2ae4eace_annexe-2.pdf",
+      "date": "2026-09-24",
+      "extrait": "CONTACT tourisme@paysdelaloire.fr pour le 44-53-72 : 02 28 20 51 41 pour le 49-85 : 02 28 20 59 51"
+    },
+    {
+      "champ": "infos_complementaires",
+      "url": "https://www.paysdelaloire.fr/les-aides/pays-de-la-loire-agir-tourisme",
+      "date": "2026-09-24",
+      "extrait": "Le dossier complet de demande d'aide doit être déposé sur ce portail des aides avant l'engagement des dépenses. [...] Subvention « Pays de la Loire - Conseil » si expertise extérieure (30% / 15 k€ max)"
+    },
+    {
+      "champ": "infos_complementaires",
+      "url": "https://www.paysdelaloire.fr/sites/default/files/aides/2ae4eace-0470-11ee-baf5-23743e123976/subvention%2Cpret_ri-2025-agir-tourisme_2ae4eace_ri.pdf",
+      "date": "2026-09-24",
+      "extrait": "Les investissements liés aux projets présentés ne peuvent être engagés avant accord de la Région [...] Cette étude est obligatoire pour les projets supérieurs à 500 000 € [...] Une exclusion de cumul de soutien par ce dispositif et un autre dispositif régional sur la même assiette d'investissements [...] Les soutiens régionaux seront priorisés pour les projets en secteur rural ou littoral"
+    }
+  ],
+  "date_maj": "2026-09-24"
+}

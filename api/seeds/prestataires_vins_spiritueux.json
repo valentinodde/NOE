@@ -1,0 +1,2147 @@
+[
+  {
+    "id": "PREST_VIN_001",
+    "nom": "Station Oenotechnique de Champagne (Sofralab)",
+    "type": "bureau_etudes",
+    "logo_url": null,
+    "siret": "57222486300041",
+    "description": "Laboratoire d'analyses et service de conseil oenologique, nom commercial de la société Sofralab, implanté à Magenta et Cormontreuil (Marne) et à Bar-sur-Seine (Aube). Ses oenologues-conseil suivent les vins de la vendange à la mise en bouteille et auditent l'exploitation ; la station vérifie les plans HACCP et l'application des bonnes pratiques d'hygiène, et forme le groupe HACCP de l'entreprise. Prestations sur contrat de conseil ; le site ne présente pas de prestation dédiée aux économies d'eau.",
+    "expertises": [
+      "Audit HACCP en cave",
+      "Formation HACCP des équipes",
+      "Conseil oenologique",
+      "Analyses oenologiques"
+    ],
+    "categories": [],
+    "secteurs": [
+      "vins_spiritueux"
+    ],
+    "departements": [
+      "51",
+      "10"
+    ],
+    "mesures": [],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.oenotechnic.com/"
+      },
+      {
+        "type": "tel",
+        "value": "03 26 51 56 45"
+      },
+      {
+        "type": "adresse",
+        "value": "79 avenue A. A. Thévenet, 51530 Magenta"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "siret, adresse",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=Sofralab&departement=51",
+        "date": "2026-09-28",
+        "extrait": "SOFRALAB, siret 57222486300041, siège, 79 AV A A THEVENET 51530 MAGENTA, activité 70.10Z, état administratif A"
+      },
+      {
+        "champ": "nom, siret",
+        "url": "https://www.oenotechnic.com/mentions-legales-soec/",
+        "date": "2026-09-28",
+        "extrait": "SOFRALAB, 79 av, A.A. Thévenet, CS 11031, 51530 MAGENTA. N° SIRET 572 224 863 00041. Nom commercial : Station Oenotechnique de Champagne"
+      },
+      {
+        "champ": "contacts, departements",
+        "url": "https://www.oenotechnic.com/contact-station-oenotechnique-de-champagne/",
+        "date": "2026-09-28",
+        "extrait": "Magenta : 79 avenue A. A. Thévenet 51530 Magenta, +33 3 26 51 56 45. Bar-sur-Seine : 1 bis avenue Paul Portier BP46 10110 Bar-sur-Seine. Cormontreuil : 55, rue du Commerce 51350 Cormontreuil"
+      },
+      {
+        "champ": "expertises, description (audit et formation HACCP)",
+        "url": "https://www.oenotechnic.com/oenologie-conseil/methode-haccp-oenologie/",
+        "date": "2026-09-28",
+        "extrait": "Vérification de l'application de l'hygiène sur l'exploitation en conformité avec le guide des bonnes pratiques. Formation : Découvrir et comprendre la méthode HACCP en oenologie par le groupe HACCP de l'entreprise"
+      },
+      {
+        "champ": "expertises, description (conseil oenologique, accès)",
+        "url": "https://www.oenotechnic.com/oenologie-conseil/oenologie-conseil/",
+        "date": "2026-09-28",
+        "extrait": "nos œnologues-conseil accompagnent les producteurs dans l'élaboration de leurs vins. Les contrats de conseil peuvent inclure : audit de l'exploitation et des vins déjà mis sur le marché"
+      },
+      {
+        "champ": "expertises (analyses)",
+        "url": "https://www.oenotechnic.com/oenologie-conseil/laboratoires-analyses-oenologiques-soec-champagne/",
+        "date": "2026-09-28",
+        "extrait": "plus de 100 000 analyses vinicoles, suivi analytique des vins et conseil technique personnalisé"
+      }
+    ],
+    "date_maj": "2026-09-28"
+  },
+  {
+    "id": "PREST_VIN_002",
+    "nom": "Alimpex",
+    "type": "bureau_etudes",
+    "logo_url": null,
+    "siret": "33321148000038",
+    "description": "Société alsacienne créée en 1985 pour distribuer des produits d'hygiène aux industries des boissons (distributeur exclusif en France des produits WIGOL), qui accompagne depuis 2022 les industriels dans le pilotage du risque microbiologique et travaille avec le Groupe ICV sur l'hygiène et l'eau en cave. Elle réalise des diagnostics hygiène et eau en cave, anime sur site une masterclass d'une journée qui forme les équipes à l'hygiène et au pilotage des consommations d'eau de nettoyage, et fournit du matériel de nettoyage et de désinfection : canons à mousse, station Olimpe de désinfection par électrolyse sans rinçage (cuves, pressoirs, NEP). Diagnostic et masterclass sur rendez-vous ou sur demande, tarifs non publiés.",
+    "expertises": [
+      "Diagnostic hygiène et eau en cave",
+      "Masterclass hygiène et consommations d'eau",
+      "Optimisation des protocoles de nettoyage",
+      "Désinfection sans rinçage"
+    ],
+    "categories": [
+      "sensibiliser_former",
+      "ameliorer_efficacite_hydrique",
+      "suivre_comprendre_maitriser"
+    ],
+    "secteurs": [
+      "vins_spiritueux"
+    ],
+    "departements": [
+      "01",
+      "02",
+      "03",
+      "04",
+      "05",
+      "06",
+      "07",
+      "08",
+      "09",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "2A",
+      "2B",
+      "21",
+      "22",
+      "23",
+      "24",
+      "25",
+      "26",
+      "27",
+      "28",
+      "29",
+      "30",
+      "31",
+      "32",
+      "33",
+      "34",
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45",
+      "46",
+      "47",
+      "48",
+      "49",
+      "50",
+      "51",
+      "52",
+      "53",
+      "54",
+      "55",
+      "56",
+      "57",
+      "58",
+      "59",
+      "60",
+      "61",
+      "62",
+      "63",
+      "64",
+      "65",
+      "66",
+      "67",
+      "68",
+      "69",
+      "70",
+      "71",
+      "72",
+      "73",
+      "74",
+      "75",
+      "76",
+      "77",
+      "78",
+      "79",
+      "80",
+      "81",
+      "82",
+      "83",
+      "84",
+      "85",
+      "86",
+      "87",
+      "88",
+      "89",
+      "90",
+      "91",
+      "92",
+      "93",
+      "94",
+      "95"
+    ],
+    "mesures": [
+      {
+        "id": "ACT_VIN_001",
+        "roles": [
+          "formation",
+          "conseil_etude"
+        ]
+      },
+      {
+        "id": "ACT_VIN_003",
+        "roles": [
+          "materiel"
+        ]
+      },
+      {
+        "id": "ACT_AGR_002",
+        "roles": [
+          "conseil_etude"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.alimpex.fr"
+      },
+      {
+        "type": "tel",
+        "value": "03 89 79 89 67"
+      },
+      {
+        "type": "mail",
+        "value": "contact@alimpex.fr"
+      },
+      {
+        "type": "adresse",
+        "value": "3 rue du Transformateur, 68126 Bennwihr-Gare"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "siret, adresse",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=Alimpex&departement=68",
+        "date": "2026-09-28",
+        "extrait": "ALIMPEX, siret 33321148000038, siege, 3 RUE DU TRANSFORMATEUR 68126 BENNWIHR, activite 46.69B, etat_administratif A, 1 etablissement ouvert. Écart : les mentions légales du site (https://www.alimpex.fr/mentions-legales/) affichent l'ancien SIRET n°33321148000020"
+      },
+      {
+        "champ": "contacts",
+        "url": "https://www.alimpex.fr/nous-contacter/",
+        "date": "2026-09-28",
+        "extrait": "03 89 79 89 67. 3 rue du Transformateur 68126 Bennwihr-Gare."
+      },
+      {
+        "champ": "contacts (mail)",
+        "url": "https://www.alimpex.fr/hygiene-en-cave-et-gestion-de-leau/",
+        "date": "2026-09-28",
+        "extrait": "NOUS CONTACTER 03 89 79 89 67 contact@alimpex.fr 3 rue du Transformateur 68126 Bennwihr-Gare"
+      },
+      {
+        "champ": "description, type, categories, mesures (ACT_AGR_002)",
+        "url": "https://www.alimpex.fr/qui-sommes-nous/",
+        "date": "2026-09-28",
+        "extrait": "1985, Mathias HEILWECK fonde Alimpex avec une ambition simple : distribuer des produits d'hygiène de qualité pour les professionnels de l'industrie des boissons. [...] Alimpex distributeur exclusif des produits WIGOL® en France. [...] Des formations techniques, masterclass et accompagnements terrain (audits hygiène, diagnostics eau…) sont également proposés [...] 2022 marque un tournant… Alimpex prend un nouvel élan : celui d'une entreprise qui ne se contente plus de distribuer, mais qui accompagne les industriels dans le pilotage du risque microbiologique."
+      },
+      {
+        "champ": "expertises, mesures (ACT_VIN_001)",
+        "url": "https://www.alimpex.fr/nos-solutions/accompagnement-personnalise/masterclass-hygiene-et-management-du-risque/",
+        "date": "2026-09-28",
+        "extrait": "La Masterclass Hygiène et management du risque permet de former vos équipes pour mieux maîtriser l'hygiène, le risque microbiologique et les consommations d'eau. [...] Audit des points critiques d'hygiène. Analyses des consommations d'eau [...] Piloter les consommations d'eau liées aux opérations d'hygiène [...] Notre équipe organise une masterclass adaptée à votre activité"
+      },
+      {
+        "champ": "expertises, mesures (ACT_VIN_001, ACT_AGR_002), description",
+        "url": "https://www.alimpex.fr/partenariat-icv-alimpex-nouvelle-approche-de-lhygiene-oenologique/",
+        "date": "2026-09-28",
+        "extrait": "Ce partenariat se traduit par des actions concrètes auprès des caves, domaines et négoces [...] Les équipes Alimpex et ICV pourront intervenir conjointement pour : Audits hygiène et microbiologie, Diagnostic des consommations d'eau, Optimisation des protocoles de nettoyage, Mise en place de plans d'action personnalisés"
+      },
+      {
+        "champ": "expertises, description",
+        "url": "https://www.alimpex.fr/nos-solutions/outils-daide-a-la-decision/le-diag-conseil-hygiene-et-contamination/",
+        "date": "2026-09-28",
+        "extrait": "Le Diag' est un diagnostic hygiène et risque microbiologique réalisé avec un expert Alimpex. [...] Surconsommation d'eau ou de produits [...] PRENDRE RDV"
+      },
+      {
+        "champ": "mesures (ACT_VIN_003), description",
+        "url": "https://www.alimpex.fr/le-canon-a-mousse-on-valide/",
+        "date": "2026-09-28",
+        "extrait": "Le débit d'eau est contrôlé grâce au mousseurs [...] on utilise la juste quantité d'eau nécessaire et pas plus. [...] Gamme de canons à mousse destinés à usage professionnel : Plusieurs modèles disponibles de 24 et 50L"
+      },
+      {
+        "champ": "mesures (ACT_VIN_003), expertises, description",
+        "url": "https://www.alimpex.fr/la-station-delectrolyse-olimpe-une-desinfection-de-chai-sans-rincage-et-a-volonte/",
+        "date": "2026-09-28",
+        "extrait": "La station de désinfection Olimpe, distribuée par Alimpex [...] Cet acide s'emploie [...] sur des sols ou encore des matériels (cuves, pressoirs, tireuses, etc.) et du nettoyage en place (NEP). [...] ne nécessite pas de rinçage"
+      },
+      {
+        "champ": "mesures (ACT_VIN_003)",
+        "url": "https://www.alimpex.fr/desinfection-sans-intrants-viticulture-olimpe/",
+        "date": "2026-09-28",
+        "extrait": "Jusqu'à 30 % d'économies d'eau : La suppression des étapes de rinçage après désinfection permet de réduire significativement la consommation d'eau"
+      },
+      {
+        "champ": "description",
+        "url": "https://www.alimpex.fr/presentation-dalimpex-par-le-point-eco-alsace/",
+        "date": "2026-09-28",
+        "extrait": "Nous touchons divers secteurs tels que les maisons viticoles, la grande distribution, les hôpitaux, en France, Suisse et bientôt en Autriche et Slovénie."
+      },
+      {
+        "champ": "departements, siret (écart)",
+        "url": "https://www.alimpex.fr/mentions-legales/",
+        "date": "2026-09-28",
+        "extrait": "Les produits et/ou services présentés sur ce site sont ceux distribués en France métropolitaine. [...] SIRET n°33321148000020"
+      }
+    ],
+    "date_maj": "2026-09-28"
+  },
+  {
+    "id": "PREST_VIN_003",
+    "nom": "Servinox",
+    "type": "equipementier",
+    "logo_url": null,
+    "siret": "39343379200040",
+    "description": "Fabricant d'équipements en acier inoxydable pour l'agroalimentaire, la brasserie, la cosmétique et la chimie, installé à Trappes (Yvelines) avec bureau d'études et atelier de production, qui cite les vins et spiritueux parmi les produits traités en agroalimentaire. Son système de raclage XSR vide les lignes de transfert avec un obus propulsé au gaz ou au liquide, supprime la dilution due à la pousse à l'eau et réduit les volumes d'effluents et les cycles de lavage ; il se complète de vannes multivoies et d'une régulation de vitesse d'obus. Matériel vendu en direct depuis Trappes ou par un réseau de distributeurs en France et à l'international.",
+    "expertises": [
+      "Système de raclage de lignes",
+      "Régulation de vitesse d'obus",
+      "Vannes multivoies de raclage",
+      "Soupapes de protection de cuves"
+    ],
+    "categories": [
+      "ameliorer_efficacite_hydrique"
+    ],
+    "secteurs": [
+      "vins_spiritueux"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_VIN_002",
+        "roles": [
+          "materiel"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.servinox.com/"
+      },
+      {
+        "type": "tel",
+        "value": "01 30 16 15 00"
+      },
+      {
+        "type": "adresse",
+        "value": "34-36 avenue Roger Hennequin, 78190 Trappes"
+      },
+      {
+        "type": "linkedin",
+        "value": "https://www.linkedin.com/company/1286290"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "siret, adresse",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=Servinox&departement=78",
+        "date": "2026-09-28",
+        "extrait": "SVX (SERVINOX - HPROCESS), siret 39343379200040, siège, 34 AVENUE ROGER HENNEQUIN 78190 TRAPPES, activité 28.14Z, état administratif A"
+      },
+      {
+        "champ": "nom, siret, contacts (tel, adresse)",
+        "url": "https://www.servinox.com/mentions",
+        "date": "2026-09-28",
+        "extrait": "Éditeur du site : SERVINOX Adresse : 34-36 avenue Roger Hennequin 78190 Trappes | FRANCE Tél. : +33 (0)1.30.16.15.00 [...] immatriculée au RCS de Versailles sous le numéro B 393 433 792"
+      },
+      {
+        "champ": "type (fabrication française), expertises, mesures (ACT_VIN_002, materiel), contacts (linkedin)",
+        "url": "https://www.servinox.com/produit/systeme-de-raclage-xsr",
+        "date": "2026-09-28",
+        "extrait": "Conception et fabrication française de solutions et équipements en acier inoxydable. [...] destiné à valoriser la masse résiduelle récupérée dans la tuyauterie au moyen d'un obus de raclage. L'obus est [...] propulsé dans la tuyauterie par un fluide de pousse (gaz ou liquide)"
+      },
+      {
+        "champ": "description, expertises, mesures (ACT_VIN_002)",
+        "url": "https://www.servinox.com/FICHIERS/produit/2/SERVINOX-Environnement-XSR-systeme%20de%20raclage-23.pdf",
+        "date": "2026-09-28",
+        "extrait": "Suppression du phénomène de dilution induit par la pousse à l'eau sans obus. Réduction des volumes d'effluents à traiter. Réduction de la consommation d'agents nettoyants et des cycles de lavage. [...] complété par des vannes multivoies à passage intégral (MV) [...] platine de régulation de vitesse d'obus (RVO)"
+      },
+      {
+        "champ": "type (atelier de production), description",
+        "url": "https://www.servinox.com/fabricant-solution-raclage",
+        "date": "2026-09-28",
+        "extrait": "Elle dispose d'une structure en région parisienne, regroupant un service technico-commercial, une équipe d'ingénieurs au bureau d'études, un atelier de production"
+      },
+      {
+        "champ": "secteurs (vins et spiritueux), expertises (soupapes)",
+        "url": "https://www.servinox.com/secteurs-activite-agroalimentaire-cosmetique-pharmaceutique-brasserie-chimie/materiel-equipement-industrie-agroalimentaire",
+        "date": "2026-09-28",
+        "extrait": "définir, concevoir et fabriquer des solutions de raclage, des obus de raclage, des vannes multivoies, [...] des soupapes de protection de cuves pression/dépression [...] lait, yaourts, crème, glaces, fromages, vins & spiritueux"
+      },
+      {
+        "champ": "secteurs (références clients du secteur)",
+        "url": "https://www.servinox.com/systeme-raclage-industrie",
+        "date": "2026-09-28",
+        "extrait": "Les entreprises qui nous font confiance : logos nicolas-feuillatte, moet-chandon, hennessy (parmi d'autres)"
+      },
+      {
+        "champ": "departements (couverture nationale), description (distribution)",
+        "url": "https://www.servinox.com/reseau-service-mondial",
+        "date": "2026-09-28",
+        "extrait": "Notre réseau distributeurs en France et à l'international"
+      }
+    ],
+    "date_maj": "2026-09-28"
+  },
+  {
+    "id": "PREST_VIN_004",
+    "nom": "Groupe Chalvignac",
+    "type": "equipementier",
+    "logo_url": "https://www.groupe-chalvignac.fr/images/logo.png",
+    "siret": "41419230200019",
+    "description": "Groupe industriel charentais, siège à Jarnac-Champagne (17), qui conçoit, fabrique et installe du matériel pour le vin, le cognac et les spiritueux à travers ses filiales : Chalvignac Cuves Inox (cuves viticoles inox thermorégulées), Chalvignac Process Distillation (alambics et distilleries, fabriqués dans ses locaux selon son site), Chalvignac Process Thermiques (groupes froids Cryoflex à condenseur à air, conçus et construits par son équipe, thermorégulation et installations sur mesure), ainsi que Sodipia (cuves en fibres polyester) et Metalinox (distribution de matériel viticole). Process Thermiques a réalisé des gares de raclage réversibles qui vident à l'obus une tuyauterie de transfert entre cuves sans perte de produit, le refroidissement des eaux de distillation de plusieurs distilleries et la thermorégulation d'un chai de 32 cuves ; en 2023, Martell a présenté avec le groupe un système de distillation qui récupère l'énergie disponible au niveau du réfrigérant des alambics charentais. Le groupe intervient de l'étude thermique d'une installation à la fabrication, la pose et la maintenance, en France et à l'export.",
+    "expertises": [
+      "Cuves inox thermorégulées",
+      "Groupes froids Cryoflex",
+      "Raclage des tuyauteries par obus",
+      "Alambics et distilleries"
+    ],
+    "categories": [
+      "ameliorer_efficacite_hydrique"
+    ],
+    "secteurs": [
+      "vins_spiritueux"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_VIN_002",
+        "roles": [
+          "materiel",
+          "travaux"
+        ]
+      },
+      {
+        "id": "ACT_VIN_004",
+        "roles": [
+          "materiel",
+          "travaux",
+          "conseil_etude"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.groupe-chalvignac.fr/"
+      },
+      {
+        "type": "tel",
+        "value": "05 46 49 53 42"
+      },
+      {
+        "type": "adresse",
+        "value": "49 route de Cognac, 17520 Jarnac-Champagne"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "siret, adresse",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=Chalvignac&departement=16",
+        "date": "2026-09-28",
+        "extrait": "GROUPE CHALVIGNAC, siren 414192302, siret 41419230200019, siège, LA POUYADE 49 ROUTE DE COGNAC 17520 JARNAC-CHAMPAGNE, activite_principale 25.62B, etat_administratif A, 3 établissements ouverts"
+      },
+      {
+        "champ": "contacts (tel, adresse)",
+        "url": "https://www.groupe-chalvignac.fr/contactez-nous",
+        "date": "2026-09-28",
+        "extrait": "CONTACTEZ LE GROUPE CHALVIGNAC. GROUPE CHALVIGNAC 49 Route de Cognac 17520 JARNAC CHAMPAGNE [...] Tel : 05 46 49 53 42"
+      },
+      {
+        "champ": "contacts (site_internet), logo_url, description (filiales)",
+        "url": "https://www.groupe-chalvignac.fr/",
+        "date": "2026-09-28",
+        "extrait": "SOCIETES DU GROUPE : Cuves inox, Sodipia, Process distillation, Process thermiques, Industries, Simonneau, Maître, Metalinox [...] CUVES INOX VITICOLES, DISTRIBUTION MATERIELS VITICOLES, CUVES FIBRES [...] <img src=\"https://www.groupe-chalvignac.fr/images/logo.png\">"
+      },
+      {
+        "champ": "description (Chalvignac Cuves Inox), expertises (cuves inox thermorégulées), type",
+        "url": "https://www.groupe-chalvignac.fr/filiale/1/cuves-inox-thermoregulees",
+        "date": "2026-09-28",
+        "extrait": "CUVES INOX THERMOREGULEES VITICOLES - INDUSTRIELLES. CONCEPTION, FABRICATION, INSTALLATION. Chalvignac Cuves Inox est aujourd'hui le leader Français des fabricants de cuves viticoles inox. Notre prestation s'étend du conseil à la réalisation. [...] 49 route de Cognac BP 10013 17520 Jarnac-Champagne"
+      },
+      {
+        "champ": "description (Chalvignac Process Distillation), expertises (alambics et distilleries)",
+        "url": "https://www.groupe-chalvignac.fr/filiale/3/process-de-distillation",
+        "date": "2026-09-28",
+        "extrait": "CHALVIGNAC PROCESS DISTILLATION. Nous concevons, réalisons, installons et assurons la maintenance de tous systèmes de production de spiritueux haut de gamme : Cognac, Brandy, Armagnac, Whisky, Calvados, Rhum et autres. En France et à l'export. Chalvignac Distillation, ZAC du Mas de la Cour 16100 Chateaubernard"
+      },
+      {
+        "champ": "type (fabrication des alambics en France)",
+        "url": "http://www.chalvignac-prulho-distillation.fr/fr/alambic-charentais-armagnacais,2.html",
+        "date": "2026-09-28",
+        "extrait": "Nos alambics sont fabriqués suivant des procédés précis dans nos locaux. Nous réalisons tous types d'alambics en fonction de vos besoins et de votre souhait de production."
+      },
+      {
+        "champ": "mesures (ACT_VIN_004 conseil_etude, travaux, materiel), description (étude thermique, maintenance)",
+        "url": "http://www.chalvignac-prulho-distillation.fr/fr/alambics,7.html",
+        "date": "2026-09-28",
+        "extrait": "Process thermiques : Etude thermique de votre installation et proposition d'amélioration de votre système. Réchauffage et refroidissement des moûts. [...] Thermorégulation. [...] Développement de groupe froid. Conduite et suivi de travaux par nos équipes : Tuyauteurs, frigoristes qualifiés."
+      },
+      {
+        "champ": "description (Chalvignac Process Thermiques à Châteaubernard)",
+        "url": "https://www.groupe-chalvignac.fr/filiale/4/process-thermiques",
+        "date": "2026-09-28",
+        "extrait": "TRAITEMENT THERMIQUE DES LIQUIDES. CONCEPTION, FABRICATION INSTALLATION, MAINTENANCE. CHALVIGNAC PROCESS THERMIQUES [...] mise au point d'un groupe froid totalement innovant [...] ZAC du Mas de la Cour 16100 Chateaubernard"
+      },
+      {
+        "champ": "type (fabrication), description (conception, fabrication, installation, maintenance)",
+        "url": "http://www.chalvignac-process-thermiques.fr/",
+        "date": "2026-09-28",
+        "extrait": "Chalvignac Process Thermiques, concepteur et fabricant d'appareillages de traitement thermique des liquides et d'installation sur mesure [...] Modélisation 3D et fabrication 100% Process Thermique [...] Nos équipes conçoivent, fabriquent et installent vos solutions de traitement thermique des liquides."
+      },
+      {
+        "champ": "expertises (groupes froids Cryoflex), mesures (ACT_VIN_004 materiel), description (groupe froid à condenseur à air)",
+        "url": "http://www.chalvignac-process-thermiques.fr/groupes-froids.html",
+        "date": "2026-09-28",
+        "extrait": "La gamme de groupes froids CRYOFLEX est entièrement conçue et construite par l'équipe Chalvignac Process Thermique. [...] Ventilateur électronique à variation de vitesse intégré. [...] Condenseur avec batterie à ailettes réversible [...] Utilisation pour toutes les conditions ambiantes grâce à un pilotage de la vitesse de ventilation. [...] Proximité et écoute d'un constructeur voué au monde viticole."
+      },
+      {
+        "champ": "mesures (ACT_VIN_002 materiel, travaux ; ACT_VIN_004 materiel, travaux), expertises (raclage), description (références)",
+        "url": "http://www.chalvignac-process-thermiques.fr/realisations.html",
+        "date": "2026-09-28",
+        "extrait": "Etude de cas raclage par obus, LA FINANCIERE, FRANCE. Conseil, Conception - Fabrication - Déploiement et formation sur site [...] transfert de l'intégralité du produit d'une cuve de stockage vers une cuve de traitement [...] sans perte de produit liée au nettoyage de la tuyauterie [...] un jeu de gares de raclage réversibles envoie un obus dans la tuyauterie [...] CARDARELLI, Région bordelaise [...] le groupe froid a permis de finir le traitement. Ceci permettant d'affecter la puissance du groupe froid au maintien en température des cuves de vinification. [...] Thermorégulation d'un chai de 32 cuves en chaud et en froid en Bulgarie. Refroidissement des eaux de distillation de la distillerie Arménia Wine en Arménie. Refroidissement des eaux de distillation de la distillerie Pernod Ricard à Armavir en Arménie."
+      },
+      {
+        "champ": "departements (couverture nationale et export)",
+        "url": "https://www.groupe-chalvignac.fr/page/3/international",
+        "date": "2026-09-28",
+        "extrait": "Le Groupe CHALVIGNAC est présent à l'international dans tous ses domaines d'activités, la distillation et le process thermiques étant cependant les deux secteurs les plus exportés. [...] la construction de cuves inox sur site nous amène à travailler partout dans le monde."
+      },
+      {
+        "champ": "description (retour d'expérience Martell, 2023)",
+        "url": "https://www.journalduluxe.fr/fr/lifestyle/cognac-martell-innovation-distillation-bas-carbone",
+        "date": "2026-09-28",
+        "extrait": "17 mars 2023. Après plusieurs années de recherche, Martell - associé au groupe Chalvignac spécialisé dans la fabrication de cuves viticoles et alambics - dévoile aujourd'hui un système de distillation qui permet de récupérer et valoriser l'énergie disponible au niveau de l'organe réfrigérant des alambics charentais."
+      }
+    ],
+    "date_maj": "2026-09-28"
+  },
+  {
+    "id": "PREST_VIN_005",
+    "nom": "INOXPA France",
+    "type": "installateur",
+    "logo_url": null,
+    "siret": "49110397400078",
+    "description": "Filiale française du fabricant espagnol INOXPA (Banyoles), avec des agences à Chambly (Oise), Villefranche-sur-Saône (Rhône) et Alençon (Orne). Le groupe propose des équipements pour les procédés du vin et des boissons alcoolisées, dont des systèmes de raclage de tuyauterie (SilPig) qui récupèrent le produit restant dans les canalisations avant le nettoyage ; il fabrique aussi des systèmes de nettoyage en place (NEP) et en assure l'installation. Une technique de récupération de produit d'INOXPA a été testée dans 16 caves européennes par le projet Winenvironment coordonné par l'IFV.",
+    "expertises": [
+      "Systèmes de raclage de tuyauterie",
+      "Récupération de produit",
+      "Nettoyage en place (NEP)"
+    ],
+    "categories": [
+      "ameliorer_efficacite_hydrique"
+    ],
+    "secteurs": [
+      "vins_spiritueux"
+    ],
+    "departements": [
+      "60",
+      "69",
+      "61"
+    ],
+    "mesures": [
+      {
+        "id": "ACT_VIN_002",
+        "roles": [
+          "materiel"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.inoxpa.fr"
+      },
+      {
+        "type": "tel",
+        "value": "01 30 28 91 00"
+      },
+      {
+        "type": "mail",
+        "value": "isf@inoxpa.com"
+      },
+      {
+        "type": "adresse",
+        "value": "ZAE Les Pointes, Route de Gisors, D105, 60230 Chambly"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "siret, adresse",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=Inoxpa%20France&departement=60",
+        "date": "2026-09-28",
+        "extrait": "INOXPA FRANCE, siret 49110397400078, siège, D 105 ZAE LES POINTES ROUTE DE GISORS 60230 CHAMBLY, activité 28.29B, état administratif A, 3 établissements ouverts"
+      },
+      {
+        "champ": "contacts, departements (agences de Chambly, Villefranche-sur-Saône, Alençon)",
+        "url": "https://www.inoxpa.fr/entreprise/reseau/france",
+        "date": "2026-09-28",
+        "extrait": "Agences commerciales. INOXPA France SAS - Paris, ZAE Les Pointes Route de Gisors - D105 60230 Chambly France Tel.+33 130289100 isf@inoxpa.com. INOXPA France SAS - Lyon, 60 Avenue Théodore Braun 69400 Villefranche sur Saône. INOXPA FRANCE SAS - ALENÇON, CCI Work Alençon 37 rue Demées 61000 Alençon"
+      },
+      {
+        "champ": "description (fabricant espagnol)",
+        "url": "https://www.inoxpa.fr/entreprise/contact",
+        "date": "2026-09-28",
+        "extrait": "INOXPA S.A.U., Telers, 60, 17820 Banyoles, Spain, +34 972 57 52 00"
+      },
+      {
+        "champ": "description (secteur du vin, fabrication et installation par le groupe), expertises (NEP), mesures (ACT_VIN_002, SilPig présenté pour les boissons)",
+        "url": "https://www.inoxpa.fr/secteurs/boissons",
+        "date": "2026-09-28",
+        "extrait": "Qu'il s'agisse d'une usine complète, d'un équipement ou de la rénovation d'une installation existante, INOXPA propose des solutions pour la plupart des procédés dans le secteur du vin, de la bière et des autres boissons alcoolisées. SilPig Récupération de Produit : Le système SIL PIG est idéal afin de récupérer un produit restant. Outre la fabrication de ces équipements, INOXPA peut offrir le système de nettoyage NEP ainsi que son installation, son automatisation et sa mise en marche."
+      },
+      {
+        "champ": "expertises, mesures (ACT_VIN_002)",
+        "url": "https://www.inoxpa.fr/produits/equipements/recuperation-de-produit",
+        "date": "2026-09-28",
+        "extrait": "Les systèmes de récupération de produit par raclage sont idéaux pour recycler le produit restant dans une tuyauterie suite au process de pompage. INOXPA propose des solutions de récupération de produit par raclage de tuyauterie pour les industries alimentaire, chimique et pharmaceutique."
+      },
+      {
+        "champ": "mesures (ACT_VIN_002, économie d'eau)",
+        "url": "https://www.inoxpa.fr/entreprise/actualite/systemes-pig-de-recuperation-de-produit-des-economies-durables",
+        "date": "2026-09-28",
+        "extrait": "Le PIG est fabriqué à partir de différents matériaux élastiques (silicone, NBR et EPDM), ce qui lui permet de s'adapter parfaitement à l'intérieur des tuyauteries et de récupérer jusqu'à 98 % du produit excédentaire. Une diminution drastique du volume d'eau et de produits de nettoyage."
+      },
+      {
+        "champ": "description (Winenvironment, 16 caves, IFV)",
+        "url": "https://www.vignevin.com/en/european-projects/completed-european-projects/",
+        "date": "2026-09-28",
+        "extrait": "3 eco-innovations tools are tested in 16 cellars: a specific environmental management system, Qualenvi, developed and implemented by the Vignerons Indépendants de France (VIF), a product recovery system technique developed by INOXPA, and an innovative filtration technology by BEGEROW. Coordination: IFV"
+      }
+    ],
+    "date_maj": "2026-09-28"
+  },
+  {
+    "id": "PREST_VIN_006",
+    "nom": "ACI Entreprise (ACIE, Assistance Champagne Inox Entreprise)",
+    "type": "equipementier",
+    "logo_url": null,
+    "siret": "49101109400043",
+    "description": "Chaudronnerie créée en 1989 (groupe Univitech), dont l'usine d'Œuilly, près d'Épernay, conçoit et fabrique des cuves inox parallélépipédiques sur mesure pour les caves, dans la région Champagne-Ardenne, avec assemblage sur site quand l'accès à la cuverie l'impose. Elle réhabilite aussi les cuves béton par un habillage en inox 316L qui limite l'adhérence du tartre et facilite le nettoyage, réalise des tuyauteries inox de transfert de vin, d'eau et de gaz de l'étude à la mise en service, et assure la maintenance des pompes, agitateurs et matériels de cuverie. Contact par téléphone ou par courriel.",
+    "expertises": [
+      "Cuves inox sur mesure",
+      "Habillage inox de cuves béton",
+      "Tuyauterie inox vinaire",
+      "Maintenance de matériel de cuverie"
+    ],
+    "categories": [
+      "ameliorer_efficacite_hydrique"
+    ],
+    "secteurs": [
+      "vins_spiritueux"
+    ],
+    "departements": [
+      "08",
+      "10",
+      "51",
+      "52"
+    ],
+    "mesures": [
+      {
+        "id": "ACT_VIN_003",
+        "roles": [
+          "materiel",
+          "travaux"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.aci-entreprise.fr"
+      },
+      {
+        "type": "tel",
+        "value": "03 26 58 28 11"
+      },
+      {
+        "type": "mail",
+        "value": "accueil@aci-entreprise.fr"
+      },
+      {
+        "type": "adresse",
+        "value": "La Pierre Qui Tourne, 51480 Œuilly"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "siret (établissement d'Œuilly)",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=assistance%20champagne%20inox&departement=51&code_postal=51480",
+        "date": "2026-09-28",
+        "extrait": "ASSISTANCE CHAMPAGNE INOX ENTREPRISE (A C I E), siren 491011094, établissement 49101109400043, LA PIERRE QUI TOURNE 51480 ŒUILLY, état administratif A, activité 25.29Z, non siège"
+      },
+      {
+        "champ": "siret (siège, pour mémoire)",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=Assistance%20Champagne%20Inox%20Entreprise&departement=51",
+        "date": "2026-09-28",
+        "extrait": "ASSISTANCE CHAMPAGNE INOX ENTREPRISE, siret 49101109400050, siège, 1 RUE DE LA NOUE SAINT-NICOLAS 51530 MARDEUIL, état administratif A, 2 établissements ouverts"
+      },
+      {
+        "champ": "contacts (adresse, tel)",
+        "url": "https://www.aci-entreprise.fr/contact",
+        "date": "2026-09-28",
+        "extrait": "ACI Entreprise, La Pierre Qui Tourne, 51480 Œuilly, France. Téléphone 03 26 58 28 11"
+      },
+      {
+        "champ": "contacts (mail)",
+        "url": "https://www.aci-entreprise.fr/magasin",
+        "date": "2026-09-28",
+        "extrait": "Notre magasin ACI Inox Entreprise est fermé. Nous vous invitons à nous contacter par mail à accueil@aci-entreprise.fr."
+      },
+      {
+        "champ": "description (création, groupe, usine d'Œuilly), departements (région Champagne-Ardenne)",
+        "url": "https://www.aci-entreprise.fr/",
+        "date": "2026-09-28",
+        "extrait": "Spécialisée dans la Chaudronnerie Industrielle depuis 1989 dans la région Champagne-Ardenne, la société ACI Entreprise vous propose tout son Savoir-faire dans la conception et la fabrication de Cuve en Inox. Créée en 1989, ACIE, Assistance Champagne Inox Entreprise, groupe Univitech. Situés à Oeuilly, près d'Epernay. Notre usine vous propose tout son savoir-faire dans la conception et la fabrication de cuve inox parallélépipédique sur-mesure."
+      },
+      {
+        "champ": "expertises (cuves inox sur mesure), mesures (ACT_VIN_003, materiel, travaux)",
+        "url": "https://www.aci-entreprise.fr/cuve-inox",
+        "date": "2026-09-28",
+        "extrait": "Fabricant champenois de cuves inox, ACIE vous propose toute une gamme de cuves parallélépipédiques sur-mesure. Pour répondre aux problématiques d'accès en cuverie, nous proposons l'assemblage de vos cuves directement sur site. Spécialisé dans le secteur Vinicole."
+      },
+      {
+        "champ": "expertises (habillage de cuves béton), mesures (ACT_VIN_003, materiel, travaux)",
+        "url": "https://www.aci-entreprise.fr/habillage-cuve-beton",
+        "date": "2026-09-28",
+        "extrait": "Nous vous proposons la réhabilitation complète de vos cuves béton. L'habillage est réalisé à partir de tôle inox 316L. Les cuves en inox sont faciles à nettoyer. Habillage en inox de vos cuves béton [...] limitant l'adhérence des tartres et facilitant le nettoyage."
+      },
+      {
+        "champ": "expertises (tuyauterie inox)",
+        "url": "https://www.aci-entreprise.fr/tuyauterie",
+        "date": "2026-09-28",
+        "extrait": "Nous réalisons tout type de tuyauterie inox, tout diamètre et toute longueur sur transfert de vin, eau et gaz. Nous vous assistons depuis la conception jusqu'à la mise en service."
+      },
+      {
+        "champ": "expertises (maintenance)",
+        "url": "https://www.aci-entreprise.fr/maintenance",
+        "date": "2026-09-28",
+        "extrait": "Nos services techniques prennent en charge vos pompes, agitateurs et matériels de cuverie quelle que soit leur marque."
+      }
+    ],
+    "date_maj": "2026-09-28"
+  },
+  {
+    "id": "PREST_VIN_007",
+    "nom": "HERIC Distribution",
+    "type": "installateur",
+    "logo_url": "https://www.hericdistribution.com/sites/all/themes/heric/logo.png",
+    "siret": "47922964300032",
+    "description": "Distributeur de matériel vinicole installé à Oiry, dans la Marne, qui équipe les caves en cuverie inox (marques CHALVIGNAC, METALINOX, INOXESS), en cuves de stockage d'effluents en fibre de verre ou PEHD et en matériel de nettoyage et de détartrage (têtes de lavage GEA, centrales de nettoyage Diversey). Pour la cuverie, il établit le cahier des charges, la livre et la met en place, et son équipe de tuyauteurs pose la tuyauterie inox d'eau et de vin des cuveries. Son atelier fabrique aussi des cuves de petit volume (belons, cuves tampon, cuves à liqueur).",
+    "expertises": [
+      "Cuverie inox sur mesure",
+      "Tuyauterie inox de cuverie",
+      "Têtes de lavage et détartrage",
+      "Cuves de stockage d'effluents"
+    ],
+    "categories": [
+      "ameliorer_efficacite_hydrique",
+      "agir_rejets_qualite"
+    ],
+    "secteurs": [
+      "vins_spiritueux"
+    ],
+    "departements": [
+      "51"
+    ],
+    "mesures": [
+      {
+        "id": "ACT_VIN_003",
+        "roles": [
+          "materiel",
+          "travaux"
+        ]
+      },
+      {
+        "id": "ACT_VIN_006",
+        "roles": [
+          "materiel",
+          "travaux"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.hericdistribution.com"
+      },
+      {
+        "type": "tel",
+        "value": "03 26 32 37 67"
+      },
+      {
+        "type": "mail",
+        "value": "contact@hericdistribution.com"
+      },
+      {
+        "type": "adresse",
+        "value": "ZI de Oiry, Avenue Pierre et Marie Curie, 51530 Oiry"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "siret, adresse",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=Heric%20Distribution&departement=51",
+        "date": "2026-09-28",
+        "extrait": "HERIC DISTRIBUTION, siret 47922964300032, siege, ZI DE OIRY 977 AVENUE PIERRE ET MARIE CURIE 51530 OIRY, activite 46.61Z, etat_administratif A"
+      },
+      {
+        "champ": "contacts",
+        "url": "https://www.hericdistribution.com/contactez-nous",
+        "date": "2026-09-28",
+        "extrait": "par mail : contact@hericdistribution.com. HERIC Distribution, ZI de Oiry, Avenue Pierre et Marie Curie, 51530 OIRY, Tél. 03 26 32 37 67"
+      },
+      {
+        "champ": "description, expertises, mesures (ACT_VIN_003), logo_url, departements",
+        "url": "https://www.hericdistribution.com/cuves/cuves-inox",
+        "date": "2026-09-28",
+        "extrait": "HERIC Distribution, cuves inox. Etude sur mesure. Chaudronnerie. Marne. Champagne. Ambonnay [...] Etude sur mesure toutes cuves inox, CHALVIGNAC, METALINOX, INOXESS. [...] Un cahier des charges est établi pour définir précisément le descriptif technique qui correspond à vos besoins."
+      },
+      {
+        "champ": "departements, description",
+        "url": "https://www.hericdistribution.com/references/cuverie-de-stockage-et-vinification-avize",
+        "date": "2026-09-28",
+        "extrait": "Cuverie de stockage et vinification à AVIZE. Livraison et mise en place d'une cuverie paralélépipédique à flancs galbés compartimentées et mono compartiment pour stockage et vinification."
+      },
+      {
+        "champ": "expertises, mesures (ACT_VIN_003)",
+        "url": "https://www.hericdistribution.com/produits/mat%C3%A9riel-vinicole/d%C3%A9tartrage/t%C3%AAte",
+        "date": "2026-09-28",
+        "extrait": "Tête de lavage GEA. Tête de lavage rotative : pour un lavage 360°. [...] Nos têtes sont dimensionnées spécifiquement en fonction du dimensionnel de la cuve"
+      },
+      {
+        "champ": "mesures (ACT_VIN_003)",
+        "url": "https://www.hericdistribution.com/produits/mat%C3%A9riel-vinicole/materiel-de-nettoyage-diversey",
+        "date": "2026-09-28",
+        "extrait": "Centrale de Nettoyage moyenne pression VOYAGER : autonome pompe intégrée [...] Économie d'eau occasionnée par le gain de temps"
+      },
+      {
+        "champ": "expertises, description, mesures (ACT_VIN_003)",
+        "url": "https://www.hericdistribution.com/produits/pr%C3%A9station-inox/tuyauterie/tuyauterie-inox",
+        "date": "2026-09-28",
+        "extrait": "Nos tuyauteries réalisées par notre équipe de tuyauteurs, sont toutes soudées tig sous gaz inerte [...] Applications : induction d'eau, pluvial, vinaire, transfert ou quai de dépotage"
+      },
+      {
+        "champ": "mesures (ACT_VIN_003)",
+        "url": "https://www.hericdistribution.com/prestation-inox/modification-de-cuves",
+        "date": "2026-09-28",
+        "extrait": "Nous assurons la fourntiture et pose de tous les équipements sur cuves inox : boitard, piquage de vidande totale"
+      },
+      {
+        "champ": "description",
+        "url": "https://www.hericdistribution.com/produits/pr%C3%A9station-inox/fabrication-de-cuves",
+        "date": "2026-09-28",
+        "extrait": "Fabrication en atelier de cuves petits volume, faible série ou unitaire. Dimensionnement sur mesure. belon, bac de soutirage, de decuvage ou de vidange, cuve à liqueur, cuve tampon"
+      },
+      {
+        "champ": "expertises, mesures (ACT_VIN_006)",
+        "url": "https://www.hericdistribution.com/cuves/cuves-effluents",
+        "date": "2026-09-28",
+        "extrait": "Construites en fibre de verre ou PEHD qualité alimentaire [...] pour les unités vinicoles ayant l'obligation de stocker leurs rejets pour traitement. Nous assurons la définition technique des produits, le transport et la mise en place."
+      }
+    ],
+    "date_maj": "2026-09-28"
+  },
+  {
+    "id": "PREST_VIN_008",
+    "nom": "Bio-Inox",
+    "type": "equipementier",
+    "logo_url": "https://bio-inox.fr/wp-content/uploads/2025/10/Logo-Bio-Inox-300x240-1.png",
+    "siret": "40061311300010",
+    "description": "Fabricant de cuves en acier inoxydable créé en 1995, avec une usine de 10 000 m² et son bureau d'études à Lamonzie-Saint-Martin (Dordogne). Pour les caves, il fabrique des cuves de vinification et de stockage à fond plat en pente ou conique, des cuves autovidantes et une station mobile de nettoyage en place (BIO-CIP, en solution perdue) pour rincer, laver et détartrer cuves et tuyauteries ; il présente sa finition intérieure recuit brillant comme limitant l'adhérence du tartre, donc l'eau et les produits de lavage. Il assure aussi la livraison et l'installation des cuves sur site, la maintenance et la modernisation de cuves existantes.",
+    "expertises": [
+      "Cuves de vinification inox",
+      "Cuves autovidantes",
+      "Station de nettoyage mobile",
+      "Modernisation de cuves existantes"
+    ],
+    "categories": [
+      "ameliorer_efficacite_hydrique"
+    ],
+    "secteurs": [
+      "vins_spiritueux"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_VIN_003",
+        "roles": [
+          "materiel"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://bio-inox.fr"
+      },
+      {
+        "type": "tel",
+        "value": "05 53 24 08 47"
+      },
+      {
+        "type": "mail",
+        "value": "contact@bio-inox.com"
+      },
+      {
+        "type": "adresse",
+        "value": "ZA Les Planques, 8 route des Pascarelles, 24680 Lamonzie-Saint-Martin"
+      },
+      {
+        "type": "linkedin",
+        "value": "https://www.linkedin.com/company/bio-inox/"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "siret",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=Bio-Inox&departement=24",
+        "date": "2026-09-28",
+        "extrait": "BIO-INOX, siret 40061311300010, siège, 24680 LAMONZIE-SAINT-MARTIN, activité 25.29Z, etat_administratif A"
+      },
+      {
+        "champ": "type, description, departements",
+        "url": "https://bio-inox.fr/l-entreprise/",
+        "date": "2026-09-28",
+        "extrait": "Depuis 1995, BIO-INOX transforme l'acier inoxydable pour concevoir et fabriquer des cuves [...] Une usine de 10 000 m² [...] Siège social, Services Généraux, Commerciaux, Bureau d'Études regroupés sur un même site au plus près de la production. [...] présents, sur les marchés européens et dans le reste du monde, dans les secteurs : Laitier, Vin & Spiritueux"
+      },
+      {
+        "champ": "description, expertises, mesures, departements",
+        "url": "https://bio-inox.fr/nos-cuves-vinicoles/",
+        "date": "2026-09-28",
+        "extrait": "un acteur connu et reconnu sur l'ensemble des régions vinicoles [...] ces cuves à fond plat en pente ou à fond conique, permettent le décuvage (vin rouge) ou l'écoulement des lies [...] La finition intérieure, Recuit Brillant, réduit l'adhérence des dépôts tartriques sur les parois ce qui génère des économies d'eau, de produits de lavage [...] Station de lavage mobile BIO-INOX a développé une gamme de stations de nettoyage en place (NEP) en solution perdue appelée BIO-CIP® [...] Rincer, Laver, Passiver, Désinfecter, Détartrer, à chaud ou à froid, les cuves et réseaux de tuyauteries"
+      },
+      {
+        "champ": "description, expertises",
+        "url": "https://bio-inox.fr/services/",
+        "date": "2026-09-28",
+        "extrait": "prestations clés-en-main complémentaires à la fabrication des équipements : conditionnement, transport, déchargement, grutage, mise en place des cuves [...] maintenance préventive, de réparation, d'adaptation et de modernisation [...] Adaptations, rénovation, modernisation de cuves existantes"
+      },
+      {
+        "champ": "contacts (adresse, tel, mail, linkedin), logo_url",
+        "url": "https://bio-inox.fr/situation-contact/",
+        "date": "2026-09-28",
+        "extrait": "Adresse : ZA Les Planques 8 route des Pascarelles F-24680 Lamonzie Saint-Martin Tél. : +33 (0)5 53 24 08 47 Email : contact@bio-inox.com ; lien LinkedIn https://www.linkedin.com/company/bio-inox/"
+      }
+    ],
+    "date_maj": "2026-09-28"
+  },
+  {
+    "id": "PREST_VIN_009",
+    "nom": "Fourage-CTI",
+    "type": "equipementier",
+    "logo_url": "https://www.fourage-cti.fr/wp-content/uploads/2017/08/Logo-Fourage-CTI.png",
+    "siret": "50478086700017",
+    "description": "PME de La Haie-Fouassière (Loire-Atlantique) qui fabrique dans son atelier, représente et distribue du matériel de cave, de process et de conditionnement pour les viticulteurs, négociants et distilleries. Elle fournit, fabrique et monte des réseaux de tuyauterie inox avec épuisement des canalisations par obus de raclage ou balle mousse, fabrique des cuves process dont un bac multifonction NEP/CIP qui récupère et réinjecte les mélanges vin et eau des lignes de filtration et de tirage, et commercialise du matériel de nettoyage (centrales de lavage, canon à mousse, nettoyeur haute pression eau chaude). Son service eau process propose audit sur site, préconisations chiffrées, installation et suivi ; prestations sur devis.",
+    "expertises": [
+      "Réseaux inox avec raclage",
+      "Cuves process et bac NEP",
+      "Matériel de nettoyage de chai",
+      "Audit eau process"
+    ],
+    "categories": [
+      "ameliorer_efficacite_hydrique",
+      "suivre_comprendre_maitriser"
+    ],
+    "secteurs": [
+      "vins_spiritueux"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_VIN_002",
+        "roles": [
+          "materiel",
+          "travaux"
+        ]
+      },
+      {
+        "id": "ACT_VIN_003",
+        "roles": [
+          "materiel"
+        ]
+      },
+      {
+        "id": "ACT_AGR_002",
+        "roles": [
+          "conseil_etude"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.fourage-cti.fr"
+      },
+      {
+        "type": "tel",
+        "value": "02 40 54 80 70"
+      },
+      {
+        "type": "mail",
+        "value": "contact@fourage-cti.fr"
+      },
+      {
+        "type": "adresse",
+        "value": "Tournebride, BP 37, 44690 La Haie-Fouassière"
+      },
+      {
+        "type": "linkedin",
+        "value": "https://www.linkedin.com/company/fourage-cti-sas/"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "siret, adresse",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=Fourage%20CTI&departement=44",
+        "date": "2026-09-28",
+        "extrait": "FOURAGE - CTI, siret 50478086700017, siege, TOURNEBRIDE 44690 HAIE-FOUASSIERE (LA), activite 46.69C, etat_administratif A"
+      },
+      {
+        "champ": "type, description, departements",
+        "url": "https://www.fourage-cti.fr/qui-sommes-nous/",
+        "date": "2026-09-28",
+        "extrait": "s'installe alors à la Haie Fouassière afin d'aménager un atelier [...] La société Fourage-CTI fabrique, représente, distribue des matériels [...] L'industrie de la boisson : les négociants, les viticulteurs, les cidriculteurs, les brasseries, les distilleries [...] SECTEUR GÉOGRAPHIQUE [...] National : France métropolitaine et France hors métropole."
+      },
+      {
+        "champ": "type, description",
+        "url": "https://www.fourage-cti.fr/atelier/",
+        "date": "2026-09-28",
+        "extrait": "Équipés d'un atelier de 800m² [...] Nous effectuons la fabrication des matériels Process et brasserie. [...] Nous effectuons sur site l'installation de nos matériels grâce à nos équipes de techniciens."
+      },
+      {
+        "champ": "type, description, expertises",
+        "url": "https://www.fourage-cti.fr/materiel-process/",
+        "date": "2026-09-28",
+        "extrait": "La société FOURAGE-CTI est spécialisée dans la fabrication de solutions de process et filtration des liquides alimentaires [...] L'étude, La conception, La fabrication, L'intégration, L'installation sur site [...] CUVES PROCESS Cuve tampon, Bac d'avinage, NEP & CIP"
+      },
+      {
+        "champ": "mesures (ACT_VIN_002), expertises, description",
+        "url": "https://www.fourage-cti.fr/reseaux/",
+        "date": "2026-09-28",
+        "extrait": "Notre activité principale consiste à fournir, fabriquer, monter et tester des réseaux de tuyauterie en acier inoxydable de gamme alimentaire. [...] nous sommes spécialisés dans l'épuisement des canalisations en fin de transfert ou de production. Selon votre exigence qualitative, l'opération peut être effectuée avec un obus de raclage ou une balle mousse."
+      },
+      {
+        "champ": "description, expertises",
+        "url": "https://www.fourage-cti.fr/cuve-process/",
+        "date": "2026-09-28",
+        "extrait": "Bac multifonction NEP/CIP [...] Sa fonction principale est de recevoir les volumes de vin, ou des mélanges vin/eau, provenant des médiats filtrants, des purges et de la tireuse / remplisseuse. [...] Les réinjections : automatiques des volumes collectés."
+      },
+      {
+        "champ": "mesures (ACT_VIN_003), expertises, description",
+        "url": "https://www.fourage-cti.fr/hygiene-accessoires/",
+        "date": "2026-09-28",
+        "extrait": "Gamme de matériels d'hygiène : Adoucisseur, Skid sécurisation de l'eau, Centrales de lavage et de désinfection, Centrale de dosage, Centrale mini-mousse, [...] Canon à mousse, [...] Nettoyeur haute pression eau chaude ou eau froide [...] Nous commercialisons tous les matériels associés"
+      },
+      {
+        "champ": "mesures (ACT_AGR_002), expertises, description",
+        "url": "https://www.fourage-cti.fr/eau-process/",
+        "date": "2026-09-28",
+        "extrait": "Eau nécessaire au nettoyage des équipements [...] Comment économiser l'eau? [...] AUDIT (Diagnostic & ANALYSE) Identification des besoins [...] Visite sur site (quantification et qualification) [...] Formulation des pistes d'amélioration CONSEIL (Préconisation & chiffrage)"
+      },
+      {
+        "champ": "contacts, logo_url",
+        "url": "https://www.fourage-cti.fr/contact/",
+        "date": "2026-09-28",
+        "extrait": "Fourage-Cti Tournebride, BP 37, F-44690 LA HAYE FOUASSIERE Tél : +33 (0)2 40 54 80 70 [...] e-mail : contact@fourage-cti.fr ; lien linkedin.com/company/fourage-cti-sas/ ; logo Logo-Fourage-CTI.png"
+      }
+    ],
+    "date_maj": "2026-09-28"
+  },
+  {
+    "id": "PREST_VIN_010",
+    "nom": "Lamouroux",
+    "type": "equipementier",
+    "logo_url": "https://lamouroux.com/wp-content/uploads/2023/05/logo_lamouroux_444.png",
+    "siret": "34755597100030",
+    "description": "Fabricant girondin de systèmes de thermorégulation vinicole depuis 1988, installé à Beychac-et-Caillau, qui fabrique dans ses ateliers ses armoires de régulation et ses échangeurs serpentins, et propose des modules hydrauliques de distribution des fluides de thermorégulation. Son offre porte sur la thermorégulation des cuves : il fournit et installe des groupes de froid 4 tubes (dont une version glycolée), des kits de production d'eau chaude et froide couplés au groupe d'eau glacée, les réseaux de thermorégulation (dont un réseau froid glycolé) et le raccordement des cuves par vannes pneumatiques. On le contacte directement par son service commercial ou par ses revendeurs partenaires dans d'autres régions viticoles.",
+    "expertises": [
+      "Groupes de froid 4 tubes",
+      "Réseaux de thermorégulation",
+      "Raccordement des cuves",
+      "Armoires de régulation"
+    ],
+    "categories": [
+      "ameliorer_efficacite_hydrique"
+    ],
+    "secteurs": [
+      "vins_spiritueux"
+    ],
+    "departements": [
+      "16",
+      "17",
+      "18",
+      "19",
+      "21",
+      "32",
+      "33",
+      "34",
+      "44",
+      "49",
+      "68",
+      "71",
+      "84",
+      "89",
+      "91"
+    ],
+    "mesures": [
+      {
+        "id": "ACT_VIN_004",
+        "roles": [
+          "materiel",
+          "travaux"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://lamouroux.com"
+      },
+      {
+        "type": "tel",
+        "value": "05 57 80 89 00"
+      },
+      {
+        "type": "mail",
+        "value": "lamouroux@lamouroux.com"
+      },
+      {
+        "type": "adresse",
+        "value": "Z.A. du Bos Plan, 1 route de Canteloup, 33750 Beychac-et-Caillau"
+      },
+      {
+        "type": "linkedin",
+        "value": "https://fr.linkedin.com/company/lamouroux"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "siret, adresse",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=Lamouroux&departement=33",
+        "date": "2026-09-28",
+        "extrait": "LAMOUROUX SA (MAUMY), siret 34755597100030, siège, ZA DU BOS PLAN 1 ROUTE DE CANTELOUP 33750 BEYCHAC-ET-CAILLAU, activité 43.22B, etat_administratif A"
+      },
+      {
+        "champ": "type, description, logo_url, contacts",
+        "url": "https://lamouroux.com/",
+        "date": "2026-09-28",
+        "extrait": "Depuis 1988, LAMOUROUX propose des solutions de thermorégulation vinicole [...] Chaque produit LAMOUROUX est conçu et fabriqué dans nos ateliers en Gironde, avant d'être installé chez nos clients. ; logo logo_lamouroux_444.png ; lien https://fr.linkedin.com/company/lamouroux"
+      },
+      {
+        "champ": "type, description, expertises",
+        "url": "https://lamouroux.com/la-societe-lamouroux/",
+        "date": "2026-09-28",
+        "extrait": "la conception, la fabrication et l'installation de systèmes de contrôle et de régulation thermique automatisés, dédiés au milieu vinicole [...] seule société française de process de vinification à concevoir, fabriquer, assembler et tester ses armoires de thermorégulation [...] Depuis 1988 Lamouroux fabrique dans ses ateliers des échangeurs [...] Les modules hydrauliques servent à la distribution des fluides de thermorégulation"
+      },
+      {
+        "champ": "description, expertises, mesures",
+        "url": "https://lamouroux.com/groupe-4-tubes/",
+        "date": "2026-09-28",
+        "extrait": "L'intérêt des groupes de froid à 4 tubes réside dans leur capacité à fournir simultanément du froid et du chaud pour la production du process vinicole et la climatisation [...] Groupe 4 tubes glycolé"
+      },
+      {
+        "champ": "description, mesures",
+        "url": "https://lamouroux.com/locaux-techniques/",
+        "date": "2026-09-28",
+        "extrait": "Conception et fabrication dans notre atelier de chaudronnerie inox, de kits pour la production d'eau chaude et froide. [...] LAMOUROUX assure l'installation de ces kits et le couplage avec la chaudière et le groupe d'eau glacée, vers la tuyauterie de thermorégulation."
+      },
+      {
+        "champ": "description, expertises, mesures",
+        "url": "https://lamouroux.com/reseau-de-thermoregulation/",
+        "date": "2026-09-28",
+        "extrait": "LAMOUROUX conçoit et installe tout type de tuyauterie inox [...] Réseau de thermorégulation + fluides sur cuvier [...] Réseau froid isolé, glycolé"
+      },
+      {
+        "champ": "description, expertises, mesures",
+        "url": "https://lamouroux.com/raccordement-sur-les-cuves/",
+        "date": "2026-09-28",
+        "extrait": "Une installation de maîtrise des températures (froid et chaud) exige l'utilisation de composants fiables. La société LAMOUROUX propose une gamme de vannes pneumatiques capables de contrôler parfaitement l'arrivée d'eau froide ou chaude"
+      },
+      {
+        "champ": "contacts, departements",
+        "url": "https://lamouroux.com/contact/",
+        "date": "2026-09-28",
+        "extrait": "LAMOUROUX S.A.S. Z.A. du Bos Plan 1 route de Canteloup 33750 BEYCHAC-ET-CAILLAU [...] +33 (0)5 57 808 900 lamouroux@lamouroux.com [...] Service commercial thermorégulation Gironde / France [...] Nos partenaires et revendeurs : LIATECH (Charente), PRO METAL INDUSTRIE (Charente-Maritime), CLIMAVIN (Cher), FOUDRERIE FRANCOIS (Corrèze), TONNELLERIE ROUSSEAU (Côte-d'Or), LIATECH EAUZE (Gers), BELLOT (Gironde), TECHNO FROID (Haut-Rhin), HURTHEMEL (Hérault), ACT VINICOLE (Hérault), BUTROT (Loire-Atlantique), BUTROT (Maine-et-Loire), SARL HELIOS GENIE CLIMATIQUE (Saône-et-Loire), FCS 84 (Vaucluse), FROID SERVICE (Yonne), LIATECH (Essonne), GROUPE PALOMBI (Vaucluse)"
+      }
+    ],
+    "date_maj": "2026-09-28"
+  },
+  {
+    "id": "PREST_VIN_011",
+    "nom": "FORGEL SA",
+    "type": "installateur",
+    "logo_url": "https://www.forgel.com/wp-content/uploads/2024/11/FORGEL-logo-FORGEL.png",
+    "siret": "33558002300059",
+    "description": "Entreprise de froid, climatisation et chauffage installée à Bezannes, qui accompagne les domaines de Champagne et de vins effervescents dans leur thermorégulation (fermentations alcoolique et malolactique, débourbage à froid, conservation des vins). Son bureau d'études conçoit le système de thermorégulation des cuveries, du process et des celliers, ses équipes le fournissent, l'installent et le mettent en service, puis en assurent la maintenance sous contrat d'entretien, avec une intervention 24h/24 en période de vendange. Prestations sur devis.",
+    "expertises": [
+      "Conception de thermorégulation vinicole",
+      "Installation et mise en service",
+      "Contrats de maintenance",
+      "Climatisation de cellier"
+    ],
+    "categories": [],
+    "secteurs": [
+      "vins_spiritueux"
+    ],
+    "departements": [
+      "51"
+    ],
+    "mesures": [],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.forgel.com"
+      },
+      {
+        "type": "tel",
+        "value": "03 26 48 41 41"
+      },
+      {
+        "type": "mail",
+        "value": "message@forgel.fr"
+      },
+      {
+        "type": "adresse",
+        "value": "16 rue Pierre Salmon, 51430 Bezannes"
+      },
+      {
+        "type": "linkedin",
+        "value": "https://www.linkedin.com/company/forgel"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "siret, adresse",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=FORGEL&departement=51",
+        "date": "2026-09-28",
+        "extrait": "FORGEL SA, siret 33558002300059, siege, 16 RUE PIERRE SALMON 51430 BEZANNES, activite 33.20B, etat_administratif A"
+      },
+      {
+        "champ": "description, expertises, departements",
+        "url": "https://www.forgel.com/le-froid-la-clim-le-chaud/thermoregulation-vinicole/",
+        "date": "2026-09-28",
+        "extrait": "Nous accompagnons notamment les domaines de Champagne et de vins effervescents sur Reims, Epernay, Châlons-en-Champagne [...] Nous sommes capables de concevoir un système pour vos cuveries et également pour le process [...] notre travail d'installation se compose de la mise en place des équipements, de leur mise en marche et d'essais [...] différentes options, sous forme de contrats d'entretien."
+      },
+      {
+        "champ": "expertises, description",
+        "url": "https://www.forgel.com/wp-content/uploads/2026/05/Flyer_vinicole.pdf",
+        "date": "2026-09-28",
+        "extrait": "Co-conception de votre équipement de thermorégulation ; Contrôle thermique des fermentations ; Climatisation de cellier ; Intervention & maintenance 24h/24h en période vendange"
+      },
+      {
+        "champ": "contacts (site, tel, adresse, linkedin), logo_url",
+        "url": "https://www.forgel.com/le-froid-la-clim-le-chaud/thermoregulation-vinicole/",
+        "date": "2026-09-28",
+        "extrait": "FORGEL SA, 16 rue Pierre Salmon, 51430 BEZANNES (FRANCE), Tél. : 03 26 48 41 41 ; lien linkedin.com/company/forgel ; logo FORGEL-logo-FORGEL.png"
+      },
+      {
+        "champ": "contacts (mail)",
+        "url": "https://www.forgel.com/contact/",
+        "date": "2026-09-28",
+        "extrait": "Bloc coordonnées de la page contact, lien mail en clair dans le code de la page : title=\"message@forgel.fr\""
+      }
+    ],
+    "date_maj": "2026-09-28"
+  },
+  {
+    "id": "PREST_VIN_012",
+    "nom": "A2P Industrie",
+    "type": "installateur",
+    "logo_url": null,
+    "siret": "41948899400049",
+    "description": "Entreprise de froid industriel implantée à Saint-Fons (Rhône), qui conçoit sur mesure des refroidisseurs au propane, des pompes à chaleur et des aéroréfrigérants, les fait construire en Europe par des constructeurs partenaires, puis les installe, les met en service et les entretient. Pour les caves, elle a équipé en 2024 des sites champenois (Épernay, Château-Thierry, Reims) en refroidisseurs et pompe à chaleur pour la thermorégulation de la fermentation, des étapes de production et du dégorgement. Chiffrage et fiche technique par son bureau d'études sur consultation, installation clé en main, contrats de maintenance et location de refroidisseurs.",
+    "expertises": [
+      "Thermorégulation de la fermentation",
+      "Aéroréfrigérants et free cooling",
+      "Installation et mise en service",
+      "Maintenance du froid process"
+    ],
+    "categories": [
+      "ameliorer_efficacite_hydrique"
+    ],
+    "secteurs": [
+      "vins_spiritueux"
+    ],
+    "departements": [
+      "02",
+      "51",
+      "69"
+    ],
+    "mesures": [
+      {
+        "id": "ACT_VIN_004",
+        "roles": [
+          "materiel",
+          "travaux"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://a2p.com/"
+      },
+      {
+        "type": "tel",
+        "value": "04 37 43 20 00"
+      },
+      {
+        "type": "mail",
+        "value": "info@a2p.com"
+      },
+      {
+        "type": "adresse",
+        "value": "Parc d'Activités Lyon Sud, 61 rue Mathieu Dussurgey, 69190 Saint-Fons"
+      },
+      {
+        "type": "linkedin",
+        "value": "https://www.linkedin.com/company/a2p-industrie/"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "siret, adresse",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=A2P%20Industrie&departement=69",
+        "date": "2026-09-28",
+        "extrait": "A2P INDUSTRIE, siret 41948899400049, siège, 61 RUE MATHIEU DUSSURGEY 69190 SAINT-FONS, activité 46.69B, état administratif A"
+      },
+      {
+        "champ": "contacts",
+        "url": "https://a2p.com/contact/",
+        "date": "2026-09-28",
+        "extrait": "Parc d'Activités Lyon Sud, 61, rue Mathieu Dussurgey, 69190 Saint Fons, France. Téléphone : 04 37 43 20 00"
+      },
+      {
+        "champ": "contacts (mail, linkedin)",
+        "url": "https://a2p.com/",
+        "date": "2026-09-28",
+        "extrait": "info@a2p.com ; 04 37 43 20 00 ; Suivez notre actualité sur Linkedin (lien vers linkedin.com/company/a2p-industrie)"
+      },
+      {
+        "champ": "type, description",
+        "url": "https://a2p.com/a2p-presentation/",
+        "date": "2026-09-28",
+        "extrait": "A2P INDUSTRIE distribue et installe des équipements qu'elle conçoit sur-mesure et fait construire exclusivement en Europe par des partenaires certifiés. [...] elle assure la préconisation, la vente, la mise en service et la maintenance d'installations de froid industriel et de thermorégulation."
+      },
+      {
+        "champ": "description, expertises, mesures, secteurs",
+        "url": "https://a2p.com/la-thermoregulation-vinicole-en-champagne-un-vrai-savoir-faire/",
+        "date": "2026-09-28",
+        "extrait": "3 exemples de réalisations 2024. 1. Equipement à EPERNAY : Processus de fermentation, 2 refroidisseurs A2P QUARTZ au propane (R290). 2. Equipement à Château-Thierry : Thermorégulation, 1 pompe à chaleur réversible SILEX 375kW. 3. Equipement à Reims : Dégorgement, 1 refroidisseur A2P QUARTZ au propane (R290)"
+      },
+      {
+        "champ": "expertises, mesures (materiel)",
+        "url": "https://a2p.com/aerorefrigerants-zephir/",
+        "date": "2026-09-28",
+        "extrait": "Intégrés dans des systèmes de freecooling accouplés à un refroidisseur A2P QUARTZ, ils permettent de maintenir une température de consigne [...] Les aéroréfrigérants A2P apportent des solutions éco-responsables, économiques et fiables pour la production d'eau froide."
+      },
+      {
+        "champ": "expertises, mesures (materiel)",
+        "url": "https://a2p.com/refroidisseurs-r290-condenses-a-air/",
+        "date": "2026-09-28",
+        "extrait": "Récupération de chaleur totale ou partielle (condensation à eau montée en série) [...] Module hydraulique complet : pompes avec basculement automatique, cuve intégrée, vase d'expansion, remplissage. Free-cooling intégré ou séparé"
+      },
+      {
+        "champ": "description, expertises, mesures (travaux)",
+        "url": "https://a2p.com/prestation-globale/",
+        "date": "2026-09-28",
+        "extrait": "A2P propose une maîtrise d'œuvre complète d'installations de froid de process [...] l'installation et la mise en service de l'installation de froid, de façon échelonnée pour ne pas arrêter la production [...] Maintenance de l'installation [...] Prêt ou la location de refroidisseurs"
+      },
+      {
+        "champ": "departements",
+        "url": "https://a2p.com/la-thermoregulation-vinicole-en-champagne-un-vrai-savoir-faire/",
+        "date": "2026-09-28",
+        "extrait": "1. Equipement à EPERNAY : Processus de fermentation [...] 2. Equipement à Château-Thierry : Thermorégulation [...] 3. Equipement à Reims : Dégorgement [...] Depuis 1990, A2P INDUSTRIE implantée à Saint-Fons (69)"
+      }
+    ],
+    "date_maj": "2026-09-28"
+  },
+  {
+    "id": "PREST_VIN_013",
+    "nom": "Vision Ingénierie",
+    "type": "bureau_etudes",
+    "logo_url": "https://visioningenierie.fr/wp-content/uploads/2024/02/logo-vision-ingenierie.svg",
+    "siret": "85131544000020",
+    "description": "Société d'ingénierie et de maîtrise d'oeuvre du bâtiment installée à Bezannes, qui conçoit et suit la construction, l'extension ou la rénovation de cuveries, centres de pressurage, caves et bâtiments de stockage pour des maisons de Champagne et des coopératives. Son ingénierie des fluides intègre le passage du vin au froid et les calculs frigorifiques de la production et du stockage, avec le choix des équipements, et la conception place les points d'eau et les systèmes de récupération des effluents. Mission complète ou par lots séparés, offre personnalisée sans engagement de frais.",
+    "expertises": [
+      "Maîtrise d'oeuvre de cuverie",
+      "Ingénierie des fluides vinicoles",
+      "Calculs frigorifiques de chai",
+      "Économie de la construction"
+    ],
+    "categories": [],
+    "secteurs": [
+      "vins_spiritueux"
+    ],
+    "departements": [
+      "51",
+      "89"
+    ],
+    "mesures": [],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://visioningenierie.fr"
+      },
+      {
+        "type": "mail",
+        "value": "contact@visioningenierie.fr"
+      },
+      {
+        "type": "adresse",
+        "value": "6 rue Jules Méline, 51430 Bezannes"
+      },
+      {
+        "type": "linkedin",
+        "value": "https://www.linkedin.com/company/vision-ingenierie/"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "siret, adresse",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=Vision%20Ingenierie&departement=51",
+        "date": "2026-09-28",
+        "extrait": "VISION INGENIERIE, siret 85131544000020, siege, 6 RUE JULES MELINE 51430 BEZANNES, activite 71.12B, etat_administratif A"
+      },
+      {
+        "champ": "siret, type",
+        "url": "https://visioningenierie.fr/mentions-legales/",
+        "date": "2026-09-28",
+        "extrait": "Société spécialisée dans la maitrise d'œuvre et ingénierie du bâtiment tous corps d'état séparés. Contact : contact@visioningenierie.fr Siret : 85131544000020"
+      },
+      {
+        "champ": "description, expertises, departements",
+        "url": "https://visioningenierie.fr/ingenierie-viticole-marne/",
+        "date": "2026-09-28",
+        "extrait": "Ayant travaillé pour plusieurs Maisons de Champagne et coopératives [...] il convient de tenir compte de différentes données relatives au passage du vin au froid, à la macération, au pressurage, au stockage [...] Nous procéderons également aux calculs frigorifiques nécessaires pour assurer le maintien d'une température adéquate à la production et au stockage de champagne [...] sélectionnera les bons matériaux et équipements de climatisation [...] La disposition des points énergétiques et des points d'eau et des systèmes de récupération des effluents"
+      },
+      {
+        "champ": "description",
+        "url": "https://visioningenierie.fr/activites/",
+        "date": "2026-09-28",
+        "extrait": "Commercial : Offre sans engagement de frais, Mission personnalisée [...] Consultations : Par corps d'états séparés"
+      },
+      {
+        "champ": "departements, description",
+        "url": "https://visioningenierie.fr/champagne-lallier-2/",
+        "date": "2026-09-28",
+        "extrait": "Maîtrise d'Œuvre complète, Lieu OGER (Côtes des Blancs) [...] Construction d'une nouvelle cuverie 2.0 (Extension capacitaire), d'un chai écrin de la marque, rénovation cuverie tirage"
+      },
+      {
+        "champ": "departements",
+        "url": "https://visioningenierie.fr/domaine-laroche/",
+        "date": "2026-09-28",
+        "extrait": "Vins de Chablis DOMAINE LAROCHE, Maîtrise d'Œuvre complète, Lieu CHABLIS (89800), Extension du site de production par la conception et réalisation d'un bâtiment stockage-expéditions"
+      },
+      {
+        "champ": "contacts",
+        "url": "https://visioningenierie.fr/",
+        "date": "2026-09-28",
+        "extrait": "6 rue Jules Méline, 51430 BEZANNES - contact@visioningenierie.fr ; lien https://www.linkedin.com/company/vision-ingenierie/"
+      },
+      {
+        "champ": "logo_url",
+        "url": "https://visioningenierie.fr/",
+        "date": "2026-09-28",
+        "extrait": "Logo de l'en-tête chargé en différé, visible dans le code HTML de la page et non dans le texte : <img data-src=\"https://visioningenierie.fr/wp-content/uploads/2024/02/logo-vision-ingenierie.svg\" alt=\"logo-svg\" class=\"svg logo-img logo-svg lazyload\">"
+      }
+    ],
+    "date_maj": "2026-09-28"
+  },
+  {
+    "id": "PREST_VIN_014",
+    "nom": "IFB Environnement",
+    "type": "bureau_etudes",
+    "logo_url": "https://ifbenvironnement.fr/wp-content/uploads/2025/04/logo-IFB-200.png",
+    "siret": "48274039600015",
+    "description": "Société d'ingénierie du traitement de l'eau créée en 2005 à Fresles (Seine-Maritime), avec des implantations à Salon-de-Provence et Toulouse, qui intervient notamment dans le secteur viticole. Elle conçoit et réalise des stations de traitement d'effluents clés en main, de l'étude de dimensionnement à la mise en route, puis en assure l'assistance à l'exploitation et la maintenance ; elle a par exemple installé un traitement biologique de vinasses concentrées à la distillerie d'Argeliers et un traitement des effluents de chais et de distillerie à Lassale de Batz (Gers). Elle accompagne aussi le montage des dossiers d'aide de l'agence de l'eau ; prestations sur devis.",
+    "expertises": [
+      "Traitement des effluents vinicoles",
+      "Traitement biologique des vinasses",
+      "Stations clés en main",
+      "Maintenance de stations"
+    ],
+    "categories": [
+      "agir_rejets_qualite"
+    ],
+    "secteurs": [
+      "vins_spiritueux"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_VIN_006",
+        "roles": [
+          "conseil_etude",
+          "travaux"
+        ]
+      },
+      {
+        "id": "ACT_VIN_007",
+        "roles": [
+          "conseil_etude",
+          "travaux"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://ifbenvironnement.fr"
+      },
+      {
+        "type": "tel",
+        "value": "02 35 93 98 91"
+      },
+      {
+        "type": "adresse",
+        "value": "891 rue du Beau Soleil, 76270 Fresles"
+      },
+      {
+        "type": "linkedin",
+        "value": "https://www.linkedin.com/company/ifb-environnement/"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "siret, adresse",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=IFB%20Environnement&departement=76",
+        "date": "2026-09-28",
+        "extrait": "IFB ENVIRONNEMENT, siret 48274039600015, siege, LE BEAU SOLEIL 76270 FRESLES, activite 71.12B, etat_administratif A"
+      },
+      {
+        "champ": "description, expertises, type",
+        "url": "https://ifbenvironnement.fr/nous-connaitre/",
+        "date": "2026-09-28",
+        "extrait": "IFB environnement est une société d'ingénierie [...] la société a naturellement développé ses activités dans le domaine industriel mais également dans les secteurs agroalimentaire, viticole et agricole [...] capable de proposer des installations « clés en main » depuis l'étude de dimensionnement jusqu'à la mise en route du procédé, son exploitation et sa maintenance [...] vous accompagne pour l'élaboration des dossiers type « Aide de l'agence de l'eau »."
+      },
+      {
+        "champ": "mesures (ACT_VIN_007), expertises",
+        "url": "https://ifbenvironnement.fr/realisations/traitement-des-effluents-vinicoles-de-la-distillerie-dargeliers/",
+        "date": "2026-09-28",
+        "extrait": "La mise en place de notre système Végébio® : traitement biologique par boues activées, nous permet de traiter 22000 m3 de vinasses concentrées par voie biologique."
+      },
+      {
+        "champ": "mesures (ACT_VIN_006), expertises",
+        "url": "https://ifbenvironnement.fr/realisations/distillerie-lassale-de-batz-groupe-vivadour-32-projet-2/",
+        "date": "2026-09-28",
+        "extrait": "Traitement des effluent vinicoles. Maître d'ouvrage : Ets MAO JB - Lassale de Batz (32). Type d'installation : VégéBio ® - Effluent de chais + distillerie. Capacité : 10 000 m³ / an"
+      },
+      {
+        "champ": "departements, contacts, description",
+        "url": "https://ifbenvironnement.fr/contact/",
+        "date": "2026-09-28",
+        "extrait": "Un déploiement géographique permettant une action sur l'ensemble du territoire national. Fresles (76) Siège social, 891 rue du Beau Soleil 76270 Fresles, 02 35 93 98 91. Salon de Provence (13). Toulouse (31)."
+      },
+      {
+        "champ": "logo_url, contacts",
+        "url": "https://ifbenvironnement.fr/",
+        "date": "2026-09-28",
+        "extrait": "logo-IFB-200.png ; lien linkedin.com/company/ifb-environnement/ ; Siège social 891 rue du Beau Soleil 76270 Fresles 02 35 93 98 91"
+      }
+    ],
+    "date_maj": "2026-09-28"
+  },
+  {
+    "id": "PREST_VIN_015",
+    "nom": "Clairéo",
+    "type": "installateur",
+    "logo_url": null,
+    "siret": "84100036700018",
+    "description": "Entreprise bordelaise spécialisée dans le traitement des effluents vinicoles, de distillerie et de brasserie par stockage aéré par micro-bullage (lagune, cuves enterrées ou aériennes) puis filtres plantés de roseaux avant rejet au milieu naturel. Elle conçoit le système selon la propriété, le réalise avec sa propre équipe, propose une supervision à distance et des contrats de maintenance annuels ou pluriannuels, et a codéveloppé avec Adequabio l'Effluchai, version modulaire hors sol pour les domaines produisant 150 à 200 m3 d'effluents par an. Contact direct par téléphone, courriel ou formulaire ; une visite gratuite avec rapport d'état est proposée aux caves déjà équipées d'une station, de Clairéo ou d'un autre constructeur.",
+    "expertises": [
+      "Conception de station d'effluents",
+      "Réalisation de lits plantés de roseaux",
+      "Supervision à distance",
+      "Maintenance de station d'effluents"
+    ],
+    "categories": [
+      "agir_rejets_qualite"
+    ],
+    "secteurs": [
+      "vins_spiritueux"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_VIN_006",
+        "roles": [
+          "conseil_etude",
+          "travaux"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.claireo.io/"
+      },
+      {
+        "type": "tel",
+        "value": "+33 5 35 54 71 60"
+      },
+      {
+        "type": "mail",
+        "value": "contact@claireo.io"
+      },
+      {
+        "type": "adresse",
+        "value": "39 rue Marceau, 33000 Bordeaux"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "siret, adresse",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=Claireo&departement=33",
+        "date": "2026-09-28",
+        "extrait": "CLAIREO, siret 84100036700018, siège, 39 RUE MARCEAU 33000 BORDEAUX, etat_administratif A"
+      },
+      {
+        "champ": "contacts",
+        "url": "https://www.claireo.io/nous-contacter/",
+        "date": "2026-09-28",
+        "extrait": "Adresse 39 rue Marceau 33000 Bordeaux France. Téléphone +33 (0)5 35 54 71 60. Email contact@claireo.io"
+      },
+      {
+        "champ": "description, expertises, mesures, type",
+        "url": "https://www.claireo.io/traitement-des-effluents-vinicoles/",
+        "date": "2026-09-28",
+        "extrait": "Systèmes de traitement des effluents Vinicoles, de Distillerie et de Brasserie. Conception, mise en oeuvre, assistance à l’exploitation, maintenance. Nous assurons la conception de votre système de traitement des effluents. Nous réalisons entièrement le système de traitement grâce à notre équipe."
+      },
+      {
+        "champ": "departements",
+        "url": "https://www.claireo.io/traitement-des-effluents-vinicoles/",
+        "date": "2026-09-28",
+        "extrait": "Le système de traitement des effluents Clairéo est aujourd’hui exploité en France à l’international par plus de 100 propriétés viticoles."
+      },
+      {
+        "champ": "departements",
+        "url": "https://www.claireo.io/2022/08/22/derniere-station-de-traitement-des-effluents-vinicoles-mise-en-service-dans-le-vaucluse/",
+        "date": "2026-09-28",
+        "extrait": "Clairéo a récemment mis en service une nouvelle station de traitement des effluents vinicoles au sein du Domaine du Coulet Rouge, dans le Vaucluse."
+      },
+      {
+        "champ": "description, expertises",
+        "url": "https://www.claireo.io/2026/01/20/nouvelle-station-efflu-chai-2025/",
+        "date": "2026-09-28",
+        "extrait": "Déjà partenaires sur les projets de traitement de l’eau, les entreprises Clairéo et Adequabio ont codéveloppé cette solution. « Effluchai est étudié pour des domaines produisant entre 150 et 200 m’ d’effluents vinicoles par an »"
+      },
+      {
+        "champ": "description",
+        "url": "https://www.claireo.io/traitement-des-effluents-vinicoles/",
+        "date": "2026-09-28",
+        "extrait": "Si vous possedez déjà un système de traitement des effluents Clairéo ou d’un autre constructeur, bénéficiez gratuitement d’une visite pour établir un rapport détaillé sur l’état de votre système."
+      }
+    ],
+    "date_maj": "2026-09-28"
+  },
+  {
+    "id": "PREST_VIN_016",
+    "nom": "Labaronne-Citaf",
+    "type": "equipementier",
+    "logo_url": null,
+    "siret": "34464380400042",
+    "description": "Fabricant de citernes souples installé à Pont-Évêque (Isère), où il produit ses solutions de stockage. Il propose des citernes souples fermées ou semi-enterrées pour stocker les effluents agricoles et vinicoles, ainsi que des citernes de récupération des eaux de pluie raccordées aux gouttières. Accès sur demande de devis auprès de l'entreprise.",
+    "expertises": [
+      "Citernes souples effluents vinicoles",
+      "Citernes semi-enterrées",
+      "Stockage des eaux de pluie"
+    ],
+    "categories": [
+      "agir_rejets_qualite",
+      "valoriser_reut_eaux_non_conventionnelles"
+    ],
+    "secteurs": [
+      "vins_spiritueux"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_VIN_006",
+        "roles": [
+          "materiel"
+        ]
+      },
+      {
+        "id": "ACT_AGR_006",
+        "roles": [
+          "materiel"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.labaronne-citaf.fr/"
+      },
+      {
+        "type": "tel",
+        "value": "04 74 31 40 40"
+      },
+      {
+        "type": "mail",
+        "value": "contact@citaf.eu"
+      },
+      {
+        "type": "adresse",
+        "value": "ZI Monplaisir, Rue du Champ de Courses, 38780 Pont-Évêque"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "siret, adresse",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=Labaronne-Citaf&departement=38",
+        "date": "2026-09-28",
+        "extrait": "LABARONNE-CITAF, siret 34464380400042, siège, ZI DE MONTPLAISIR RUE DU CHAMP DE COURSES 38780 PONT-EVEQUE, activité 22.23Z, état administratif A"
+      },
+      {
+        "champ": "contacts",
+        "url": "https://www.labaronne-citaf.fr/notre-expertise/",
+        "date": "2026-09-28",
+        "extrait": "+33(0)4 74 31 40 40, contact@citaf.eu, ZI Monplaisir, Rue du Champ de Courses, 38780 Pont-Évêque, France"
+      },
+      {
+        "champ": "type, description (fabrication en France)",
+        "url": "https://www.labaronne-citaf.fr/notre-expertise/",
+        "date": "2026-09-28",
+        "extrait": "nous fabriquons nos solutions de stockage souple, dont la principale reste la citerne souple, dans nos locaux situés en région Auvergne Rhône-Alpes, plus précisément à Pont-Évêque, en Isère. Une fabrication 100% Française"
+      },
+      {
+        "champ": "expertises, mesures (ACT_VIN_006), description",
+        "url": "https://www.labaronne-citaf.fr/vos-besoins-en-stockage/stockage-effluents-agricoles/",
+        "date": "2026-09-28",
+        "extrait": "Les citernes souples effluents Labaronne-Citaf a été développée pour répondre aux contraintes réglementaires de stockage d'effluents fermiers et vinicoles sur le long terme. Stockez vos effluents agricoles ou vinicoles. Citerne souple semi-enterrée : jusqu'à 10 000 m3"
+      },
+      {
+        "champ": "expertises, mesures (ACT_AGR_006), description",
+        "url": "https://www.labaronne-citaf.fr/vos-besoins-en-stockage/stockage-eau-de-pluie/",
+        "date": "2026-09-28",
+        "extrait": "Grâce à un simple système de collecte attaché aux gouttières, vous pourrez stocker l'eau de pluie s'écoulant des toitures ... le nettoyage extérieur"
+      },
+      {
+        "champ": "departements",
+        "url": "https://www.labaronne-citaf.fr/",
+        "date": "2026-09-28",
+        "extrait": "Labaronne-Citaf est représenté dans plus de 40 pays. Nos solutions de stockage souple ont convaincu plus de 55 000 utilisateurs dans le monde."
+      }
+    ],
+    "date_maj": "2026-09-28"
+  },
+  {
+    "id": "PREST_VIN_017",
+    "nom": "REVICO",
+    "type": "organisme_technique",
+    "logo_url": null,
+    "siret": "90693002900010",
+    "description": "Centre de traitement des vinasses de la filière Cognac, créé en 1969 par les acteurs de la distillation et détenu par ses actionnaires : c'est une société commerciale (SARL selon ses mentions légales, nature juridique 5202 en SIRENE), pas une coopérative ni un bureau d'études. Les distilleries lui apportent leurs vinasses, qu'il traite dans sa propre usine de Saint-Laurent-de-Cognac (concentration, extraction du tartrate de calcium, méthanisation puis traitement biologique aérobie avant rejet) : il reçoit près de 6 millions d'hectolitres par an, soit 55 % des vinasses de Charente et de Charente-Maritime, et traite aussi, en volumes moindres, des eaux de lavage de chais et des vinasses d'autres spiritueux. Sa prestation est ce service de traitement dans son usine, et non des travaux chez l'exploitant. Le traitement est un service payant, dont l'Agence de l'eau Adour-Garonne situe le coût, rapporté à la bouteille, près de celui d'une étiquette.",
+    "expertises": [
+      "Traitement collectif des vinasses",
+      "Traitement des eaux de lavage de chais",
+      "Méthanisation des vinasses"
+    ],
+    "categories": [
+      "agir_rejets_qualite"
+    ],
+    "secteurs": [
+      "vins_spiritueux"
+    ],
+    "departements": [
+      "16",
+      "17"
+    ],
+    "mesures": [
+      {
+        "id": "ACT_VIN_007",
+        "roles": [
+          "travaux"
+        ]
+      },
+      {
+        "id": "ACT_VIN_006",
+        "roles": [
+          "travaux"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.revico.fr/"
+      },
+      {
+        "type": "tel",
+        "value": "05 45 82 49 99"
+      },
+      {
+        "type": "adresse",
+        "value": "2, rue des Fosses de Jarnouzeau, 16100 Saint-Laurent-de-Cognac"
+      },
+      {
+        "type": "linkedin",
+        "value": "https://fr.linkedin.com/company/revico-snc"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "siret",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=Revico&departement=16",
+        "date": "2026-09-28",
+        "extrait": "REVICO, siren 906930029, siret 90693002900010, siège, LD LE BUISSON 16100 SAINT-LAURENT-DE-COGNAC, nature juridique 5202, activité 38.21Z, état administratif A"
+      },
+      {
+        "champ": "siret, description (forme juridique)",
+        "url": "https://www.revico.fr/mentions-legales/",
+        "date": "2026-09-28",
+        "extrait": "REVICO, SARL immatriculée au Registre du Commerce et des Sociétés d'Angoulême sous le numéro 906930029, ayant son siège social au 2 rue des Fosses de Jarnouzeau 16100 Saint-Laurent-de-Cognac"
+      },
+      {
+        "champ": "contacts (tel, adresse)",
+        "url": "https://www.revico.fr/contact/",
+        "date": "2026-09-28",
+        "extrait": "appeler notre standard : +33 (0)5 45 82 49 99. 2, rue des Fosses de Jarnouzeau 16100 Saint-Laurent-de-Cognac"
+      },
+      {
+        "champ": "contacts (linkedin)",
+        "url": "https://www.revico.fr/",
+        "date": "2026-09-28",
+        "extrait": "Suivez notre actualité Linkedin (lien https://fr.linkedin.com/company/revico-snc en pied de page)"
+      },
+      {
+        "champ": "description (origine, volumes, actionnaires), mesures (ACT_VIN_007)",
+        "url": "https://www.revico.fr/qui-sommes-nous/",
+        "date": "2026-09-28",
+        "extrait": "les distillateurs de la filière Cognac [...] décident de créer une entité de traitement exclusivement dédiée à cet effluent. [...] l'entreprise reçoit annuellement près de 6 millions d'hectolitres de vinasses, soit 55% du volume total des vinasses charentaises produites."
+      },
+      {
+        "champ": "expertises, description (procédé), mesures (ACT_VIN_007, ACT_VIN_006)",
+        "url": "https://www.revico.fr/expertise/traitement/",
+        "date": "2026-09-28",
+        "extrait": "Le couplage méthanisation + traitements biologiques aérobies permet une élimination des polluants organiques de la vinasse à hauteur de 99% avant le rejet en milieu naturel. [...] REVICO dépollue également, dans des volumes moindres, les eaux de lavage des chais de vinification, les vinasses de whisky, les vinasses de rhum"
+      },
+      {
+        "champ": "departements, description (création, volumes, service payant), mesures (ACT_VIN_007)",
+        "url": "https://eau-grandsudouest.fr/revico-voie-economie-circulaire-pour-eau",
+        "date": "2026-09-28",
+        "extrait": "Fondée en 1969, la société n'a qu'un seul objectif : traiter les vinasses de la filière Cognac [...] en traitant 55 % des vinasses du territoire Charente et Charente-Maritime [...] pour les exploitants, le coût du service à la bouteille est proche de celui d'une étiquette."
+      },
+      {
+        "champ": "type (laboratoire et R&D propres), description (usine)",
+        "url": "https://www.revico.fr/recherche-developpement/",
+        "date": "2026-09-28",
+        "extrait": "REVICO est un centre de valorisation des vinasses charentaises [...] Chaque année, l'équipe R&D teste au laboratoire, à l'échelle pilote ou à l'échelle semi-industrielle des procédés innovants."
+      },
+      {
+        "champ": "departements, description (distillateurs charentais)",
+        "url": "https://www.charente-maritime.gouv.fr/content/download/36834/232955/file/Note%20synth%C3%A9se_17.pdf",
+        "date": "2026-09-28",
+        "extrait": "distillateurs de l'aire d'appellation d'origine contrôlée Cognac exploitants en Charente et en Charente-Maritime [...] REVICO, installation de retraitement via la méthanisation située à St Laurent de Cognac, qui reçoit environ la moitié des vinasses charentaises en volume."
+      }
+    ],
+    "date_maj": "2026-09-28"
+  },
+  {
+    "id": "PREST_VIN_018",
+    "nom": "Hydrosol Ingénierie",
+    "type": "bureau_etudes",
+    "logo_url": "https://www.hydrosol.fr/wp-content/uploads/2016/07/hydrosol-logotype-2015-horizontal.png",
+    "siret": "35127557300050",
+    "description": "Bureau d'études en hydrogéologie, hydraulique et environnement créé en 1989 à Cavaillon, dont le siège est à Cheval-Blanc (Vaucluse). Pour les caves, il a réalisé le diagnostic des consommations d'eau de la cave coopérative Terres Valdèze (ICPE), bâtiment par bâtiment et machine par machine pendant les vendanges (article publié en septembre 2024), avec comparaison aux Meilleures Techniques Disponibles et plan d'action de réduction ; il monte aussi les dossiers ICPE (régime de classement, déclaration, enregistrement, autorisation) et assure la veille réglementaire environnementale. Intervention sur demande, par téléphone, par mail ou par le formulaire de contact du site.",
+    "expertises": [
+      "Diagnostic des consommations d'eau",
+      "Dossiers réglementaires ICPE",
+      "Veille réglementaire environnementale",
+      "Études hydrogéologiques et forages"
+    ],
+    "categories": [
+      "suivre_comprendre_maitriser"
+    ],
+    "secteurs": [
+      "vins_spiritueux"
+    ],
+    "departements": [
+      "84",
+      "30"
+    ],
+    "mesures": [
+      {
+        "id": "ACT_AGR_002",
+        "roles": [
+          "conseil_etude"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.hydrosol.fr/"
+      },
+      {
+        "type": "tel",
+        "value": "04 90 71 33 26"
+      },
+      {
+        "type": "mail",
+        "value": "hydrosol.paca@hydrosol.fr"
+      },
+      {
+        "type": "adresse",
+        "value": "373 B route de Cavaillon, 84460 Cheval-Blanc"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "siret, adresse",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=Hydrosol%20Ingenierie&departement=84",
+        "date": "2026-09-28",
+        "extrait": "HYDROSOL INGENIERIE, siret 35127557300050, siège, 373 B ROUTE DE CAVAILLON 84460 CHEVAL-BLANC, activité 71.12B, état administratif A, 1 établissement ouvert"
+      },
+      {
+        "champ": "nom, siret, contacts (tel, mail, adresse)",
+        "url": "https://www.hydrosol.fr/mentions-legales/",
+        "date": "2026-09-28",
+        "extrait": "Hydrosol Ingénierie, 373 B route de Cavaillon, 84460 CHEVAL BLANC. SIRET 351275573 000 50. Adresse électronique : hydrosol.paca@hydrosol.fr. Téléphone : 04 90 71 33 26"
+      },
+      {
+        "champ": "mesures (ACT_AGR_002 conseil_etude), expertises (diagnostic), description",
+        "url": "https://www.hydrosol.fr/economies-deau-en-cave-vinicole-classee-icpe/",
+        "date": "2026-09-28",
+        "extrait": "la cave coopérative TERRES VALDEZE est une ICPE. HYDROSOL est intervenu sur site, pendant les vendanges, afin d'identifier les points de consommation d'eau dans les différents process de vinification. Après étude des consommations d'eau dans chaque bâtiment et au niveau des différentes machines, nous avons comparé leur consommation à celles usuellement rencontrées dans le secteur et leurs pratiques aux Meilleures Techniques Disponibles. Cette étude détaillée a permis de dresser un plan d'action. Article daté du 2024-09-06"
+      },
+      {
+        "champ": "expertises (ICPE, veille), description, departements",
+        "url": "https://www.hydrosol.fr/nos-competences/environnement/",
+        "date": "2026-09-28",
+        "extrait": "Que vous soyez en Occitanie proche de notre agence du Gard ou en PACA à proximité de notre agence de Cavaillon en Vaucluse, HYDROSOL Ingénierie vous accompagne dans votre veille réglementaire environnementale, vous aide à monter vos dossiers administratifs"
+      },
+      {
+        "champ": "expertises (ICPE), description",
+        "url": "https://www.hydrosol.fr/entreprises-2/",
+        "date": "2026-09-28",
+        "extrait": "HYDROSOL Ingénierie aide les entreprises à mettre en place la réglementation des ICPE. Réaliser vos dossiers de demande d'autorisation au titre des ICPE ; réalisation de vos dossiers de déclaration ou de demande d'enregistrement ; comparaison de vos pratiques aux meilleures techniques disponibles"
+      },
+      {
+        "champ": "expertises (hydrogéologie, forages), description (création 1989, Cavaillon)",
+        "url": "https://www.hydrosol.fr/accueil/le-bureau-d-etudes/",
+        "date": "2026-09-28",
+        "extrait": "Depuis sa création en Vaucluse à Cavaillon dans la région PACA en 1989. Un bureau a été créé en 2015 à Nîmes dans le Gard. Le bureau d'études intervient pour les études techniques et réglementaires dans la réalisation de forages et le suivi de nappes phréatiques"
+      },
+      {
+        "champ": "logo_url",
+        "url": "https://www.hydrosol.fr/",
+        "date": "2026-09-28",
+        "extrait": "hydrosol-logotype-2015-horizontal.png (logo affiché dans l'en-tête du site)"
+      }
+    ],
+    "date_maj": "2026-09-28"
+  },
+  {
+    "id": "PREST_VIN_019",
+    "nom": "Comité Champagne (Comité interprofessionnel du vin de Champagne, CIVC)",
+    "type": "organisme_technique",
+    "logo_url": null,
+    "siret": "78038582900012",
+    "description": "Interprofession de la filière Champagne, active depuis 1941, qui réunit vignerons et maisons de l'aire d'appellation (Marne, Aube, Aisne, Haute-Marne, Seine-et-Marne). Le Comité conseille lui-même les établissements vinicoles sur la collecte et le traitement des effluents, la gestion des résidus de vinification, le fonctionnement des stockages aérés et la réglementation, et, dans le cadre du contrat « vigne, vin et qualité de l'eau en Champagne » passé avec l'agence de l'eau Seine-Normandie pour 2013-2018, il a aussi assisté les élaborateurs dans la constitution de leurs dossiers d'aide (assistance documentée pour ce seul contrat) ; dans le bilan des aides signées par l'agence en juin 2025, plusieurs aides à des établissements vinicoles pour la collecte et le stockage des effluents ont un intitulé commençant par « CIVC - ». Les modalités d'accès au conseil ne sont pas publiées en accès libre, la revue technique qui les détaille étant réservée aux vignerons et maisons ressortissants du Comité.",
+    "expertises": [
+      "Conseil effluents vinicoles",
+      "Optimisation des stockages aérés",
+      "Gestion des résidus de vinification",
+      "Dossiers d'aide (contrat 2013-2018)"
+    ],
+    "categories": [
+      "agir_rejets_qualite"
+    ],
+    "secteurs": [
+      "vins_spiritueux"
+    ],
+    "departements": [
+      "51",
+      "10",
+      "02",
+      "52",
+      "77"
+    ],
+    "mesures": [
+      {
+        "id": "ACT_VIN_006",
+        "roles": [
+          "conseil_etude"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.champagne.fr"
+      },
+      {
+        "type": "tel",
+        "value": "03 26 51 19 30"
+      },
+      {
+        "type": "adresse",
+        "value": "5, rue Henri Martin, CS 30 135, 51204 Épernay"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "siret, type",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=Comite%20interprofessionnel%20du%20vin%20de%20Champagne&departement=51",
+        "date": "2026-09-28",
+        "extrait": "COMITE INTERPROFESSIONNEL DU VIN DE CHAMPAGNE (CIVC), siret 78038582900012, siège, 5 RUE HENRI MARTIN 51200 EPERNAY, nature juridique 8470, activité 94.11Z, état administratif A"
+      },
+      {
+        "champ": "type",
+        "url": "https://xml.insee.fr/schema/cj-enum.html",
+        "date": "2026-09-28",
+        "extrait": "8470 : Centre technique industriel ou comité professionnel du développement économique"
+      },
+      {
+        "champ": "contacts, siret",
+        "url": "https://www.champagne.fr/fr/mentionslegales",
+        "date": "2026-09-28",
+        "extrait": "Éditeur Comité interprofessionnel du vin de Champagne (Comité Champagne) 5, rue Henri Martin CS 30 135 51204 Épernay Tél. : +33 (0)3 26 51 19 30 [...] SIRET : 78038582900012"
+      },
+      {
+        "champ": "description",
+        "url": "https://www.champagne.fr/fr/approfondir/filiere-champagne/comite-champagne",
+        "date": "2026-09-28",
+        "extrait": "Le Comité Champagne est l’interprofession de la filière Champagne. C’est l’une des premières interprofessions viticoles à avoir été créée. Depuis 1941, il assure l’intérêt commun des Vignerons et Maisons de Champagne"
+      },
+      {
+        "champ": "departements",
+        "url": "https://www.champagne.fr/en/about-champagne/a-great-blended-wine/the-champagne-region",
+        "date": "2026-09-28",
+        "extrait": "The area under vine extends across five départements: Marne (66% of the area under vine), Aube (23% of the area under vine), Aisne (10% of the area under vine), Haute-Marne, Seine-et-Marne."
+      },
+      {
+        "champ": "description, expertises, mesures (dossiers d'aide : contrat 2013-2018)",
+        "url": "https://levigneronchampenois.comitechampagne.fr/environnement/effluents-vinicoles",
+        "date": "2026-09-28",
+        "extrait": "L'objet du nouveau contrat (2013-2018) a donc été orienté vers l'accompagnement des élaborateurs dans la gestion des effluents vinicoles [...] au travers de missions de conseil et d'assistances techniques, mais aussi administratives, pour la constitution des dossiers de demande d'aides financières. [...] Depuis une trentaine d'années, le Comité Champagne accompagne les professionnels désireux d'avoir un conseil technique sur la gestion des effluents. [...] Collecte et traitement des effluents, gestion des résidus de vinification, optimisation du fonctionnement des stockages aérés, et contexte réglementaire font partie du conseil dispensé auprès des établissements vinicoles."
+      },
+      {
+        "champ": "description",
+        "url": "https://www.eau-seine-normandie.fr/sites/public_file/deliberations-commission-des-aides/2025/Bilan_des_aides_signees_juin_2025.pdf",
+        "date": "2026-09-28",
+        "extrait": "Texte extrait du PDF (pages 2, 3, 13, 14, 32) : « 2025 1110449-1 13 110 217,00 110 217,00 0030479E SOCIETE CHAMPENOISE DES BARONS ET ASSO 44830720700028 CIVC - Réseaux collecte effluents vinicoles DVM 51 » ; « 2025 1111573-1 13 53 436,00 53 436,00 0031032F CHAMPAGNE ROGER POUILLON & FILS 40148426600028 CIVC - Amélioration collecte effluents vinicoles DVM 51 » ; « 2025 1112972-1 13 11 386,00 11 386,00 0030917F BCT DE REKENEIRE 90164690100016 CIVC - Amélioration stockage-épandage vinicole DVM 02 » ; « 2025 1112978-1 13 123 395,00 123 395,00 0030929U SOCIETE AGRO-VITICOLE CHARBAUT 42337337200014 CIVC - Amélioration gestion effluents vinicoles DVM 51 » ; « 2025 1114325-1 13 66 656,00 66 656,00 0033072Y SCV DES VIGNERONS DE BOUZY AU BOUQUET 78036319800018 CIVC - Amélioration collecte effluents vinicoles DVM 51 »"
+      }
+    ],
+    "date_maj": "2026-09-28"
+  },
+  {
+    "id": "PREST_VIN_020",
+    "nom": "Chambre d'agriculture de la Charente",
+    "type": "chambre_consulaire",
+    "logo_url": null,
+    "siret": "18160001600024",
+    "description": "Établissement public consulaire au service des exploitants de la Charente. Pour les viticulteurs, il réalise le plan d'épandage des effluents viti-vinicoles : rendez-vous sur l'exploitation pour recueillir volumes d'effluents, parcellaire et assolement, prélèvements de sol ou de vinasses si nécessaire, puis remise du plan avec les cartes des îlots épandables. Prestation d'environ un mois, sur devis.",
+    "expertises": [
+      "Plan d'épandage des effluents vinicoles",
+      "Prélèvements de sol et de vinasses",
+      "Réglementation de l'épandage"
+    ],
+    "categories": [
+      "agir_rejets_qualite"
+    ],
+    "secteurs": [
+      "vins_spiritueux"
+    ],
+    "departements": [
+      "16"
+    ],
+    "mesures": [
+      {
+        "id": "ACT_VIN_006",
+        "roles": [
+          "conseil_etude"
+        ]
+      },
+      {
+        "id": "ACT_VIN_007",
+        "roles": [
+          "conseil_etude"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://charente.chambres-agriculture.fr/"
+      },
+      {
+        "type": "tel",
+        "value": "05 45 24 49 49"
+      },
+      {
+        "type": "adresse",
+        "value": "ZE Ma campagne, 66 impasse Niépce, 16016 Angoulême Cedex"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "description, expertises, mesures, categories",
+        "url": "https://charente.chambres-agriculture.fr/etre-accompagne-1/nos-prestations/detail-de-la-prestation/plan-depandage-des-effluents-vinicoles",
+        "date": "2026-09-28",
+        "extrait": "Être aux normes vis-à-vis des contraintes d'épandages des effluents viti-vinicoles [...] Rendez-vous préalable pour recueillir les informations nécessaires à la réalisation du plan (volume d'effluents, parcellaire, assolement, prélèvement de sol et/ou vinasses si nécessaire) [...] Durée : un mois. Tarif : Sur devis"
+      },
+      {
+        "champ": "contacts, departements",
+        "url": "https://charente.chambres-agriculture.fr/etre-accompagne-1/nos-prestations/detail-de-la-prestation/plan-depandage-des-effluents-vinicoles",
+        "date": "2026-09-28",
+        "extrait": "Chambre d'agriculture de la Charente. ZE Ma campagne - 66 impasse Niépce 16016 Angoulême Cedex. Tél. 05 45 24 49 49"
+      },
+      {
+        "champ": "siret",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=181600016",
+        "date": "2026-09-28",
+        "extrait": "CHAMBRE DEPARTEMENTALE D'AGRICULTURE, siret 18160001600024, siège, MA CAMPAGNE ALLEE DES CHAUMES DE CRAGE 16000 ANGOULEME, nature juridique 7381, etat_administratif A"
+      }
+    ],
+    "date_maj": "2026-09-28"
+  }
+]

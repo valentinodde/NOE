@@ -1,0 +1,134 @@
+{
+  "id": "PREST_VIN_004",
+  "nom": "Groupe Chalvignac",
+  "type": "equipementier",
+  "logo_url": "https://www.groupe-chalvignac.fr/images/logo.png",
+  "siret": "41419230200019",
+  "description": "Groupe industriel charentais, siège à Jarnac-Champagne (17), qui conçoit, fabrique et installe du matériel pour le vin, le cognac et les spiritueux à travers ses filiales : Chalvignac Cuves Inox (cuves viticoles inox thermorégulées), Chalvignac Process Distillation (alambics et distilleries, fabriqués dans ses locaux selon son site), Chalvignac Process Thermiques (groupes froids Cryoflex à condenseur à air, conçus et construits par son équipe, thermorégulation et installations sur mesure), ainsi que Sodipia (cuves en fibres polyester) et Metalinox (distribution de matériel viticole). Process Thermiques a réalisé des gares de raclage réversibles qui vident à l'obus une tuyauterie de transfert entre cuves sans perte de produit, le refroidissement des eaux de distillation de plusieurs distilleries et la thermorégulation d'un chai de 32 cuves ; en 2023, Martell a présenté avec le groupe un système de distillation qui récupère l'énergie disponible au niveau du réfrigérant des alambics charentais. Le groupe intervient de l'étude thermique d'une installation à la fabrication, la pose et la maintenance, en France et à l'export.",
+  "expertises": [
+    "Cuves inox thermorégulées",
+    "Groupes froids Cryoflex",
+    "Raclage des tuyauteries par obus",
+    "Alambics et distilleries"
+  ],
+  "categories": [
+    "ameliorer_efficacite_hydrique"
+  ],
+  "secteurs": [
+    "vins_spiritueux"
+  ],
+  "departements": [],
+  "mesures": [
+    {
+      "id": "ACT_VIN_002",
+      "roles": [
+        "materiel",
+        "travaux"
+      ]
+    },
+    {
+      "id": "ACT_VIN_004",
+      "roles": [
+        "materiel",
+        "travaux",
+        "conseil_etude"
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "type": "site_internet",
+      "value": "https://www.groupe-chalvignac.fr/"
+    },
+    {
+      "type": "tel",
+      "value": "05 46 49 53 42"
+    },
+    {
+      "type": "adresse",
+      "value": "49 route de Cognac, 17520 Jarnac-Champagne"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Chalvignac&departement=16",
+      "date": "2026-09-28",
+      "extrait": "GROUPE CHALVIGNAC, siren 414192302, siret 41419230200019, siège, LA POUYADE 49 ROUTE DE COGNAC 17520 JARNAC-CHAMPAGNE, activite_principale 25.62B, etat_administratif A, 3 établissements ouverts"
+    },
+    {
+      "champ": "contacts (tel, adresse)",
+      "url": "https://www.groupe-chalvignac.fr/contactez-nous",
+      "date": "2026-09-28",
+      "extrait": "CONTACTEZ LE GROUPE CHALVIGNAC. GROUPE CHALVIGNAC 49 Route de Cognac 17520 JARNAC CHAMPAGNE [...] Tel : 05 46 49 53 42"
+    },
+    {
+      "champ": "contacts (site_internet), logo_url, description (filiales)",
+      "url": "https://www.groupe-chalvignac.fr/",
+      "date": "2026-09-28",
+      "extrait": "SOCIETES DU GROUPE : Cuves inox, Sodipia, Process distillation, Process thermiques, Industries, Simonneau, Maître, Metalinox [...] CUVES INOX VITICOLES, DISTRIBUTION MATERIELS VITICOLES, CUVES FIBRES [...] <img src=\"https://www.groupe-chalvignac.fr/images/logo.png\">"
+    },
+    {
+      "champ": "description (Chalvignac Cuves Inox), expertises (cuves inox thermorégulées), type",
+      "url": "https://www.groupe-chalvignac.fr/filiale/1/cuves-inox-thermoregulees",
+      "date": "2026-09-28",
+      "extrait": "CUVES INOX THERMOREGULEES VITICOLES - INDUSTRIELLES. CONCEPTION, FABRICATION, INSTALLATION. Chalvignac Cuves Inox est aujourd'hui le leader Français des fabricants de cuves viticoles inox. Notre prestation s'étend du conseil à la réalisation. [...] 49 route de Cognac BP 10013 17520 Jarnac-Champagne"
+    },
+    {
+      "champ": "description (Chalvignac Process Distillation), expertises (alambics et distilleries)",
+      "url": "https://www.groupe-chalvignac.fr/filiale/3/process-de-distillation",
+      "date": "2026-09-28",
+      "extrait": "CHALVIGNAC PROCESS DISTILLATION. Nous concevons, réalisons, installons et assurons la maintenance de tous systèmes de production de spiritueux haut de gamme : Cognac, Brandy, Armagnac, Whisky, Calvados, Rhum et autres. En France et à l'export. Chalvignac Distillation, ZAC du Mas de la Cour 16100 Chateaubernard"
+    },
+    {
+      "champ": "type (fabrication des alambics en France)",
+      "url": "http://www.chalvignac-prulho-distillation.fr/fr/alambic-charentais-armagnacais,2.html",
+      "date": "2026-09-28",
+      "extrait": "Nos alambics sont fabriqués suivant des procédés précis dans nos locaux. Nous réalisons tous types d'alambics en fonction de vos besoins et de votre souhait de production."
+    },
+    {
+      "champ": "mesures (ACT_VIN_004 conseil_etude, travaux, materiel), description (étude thermique, maintenance)",
+      "url": "http://www.chalvignac-prulho-distillation.fr/fr/alambics,7.html",
+      "date": "2026-09-28",
+      "extrait": "Process thermiques : Etude thermique de votre installation et proposition d'amélioration de votre système. Réchauffage et refroidissement des moûts. [...] Thermorégulation. [...] Développement de groupe froid. Conduite et suivi de travaux par nos équipes : Tuyauteurs, frigoristes qualifiés."
+    },
+    {
+      "champ": "description (Chalvignac Process Thermiques à Châteaubernard)",
+      "url": "https://www.groupe-chalvignac.fr/filiale/4/process-thermiques",
+      "date": "2026-09-28",
+      "extrait": "TRAITEMENT THERMIQUE DES LIQUIDES. CONCEPTION, FABRICATION INSTALLATION, MAINTENANCE. CHALVIGNAC PROCESS THERMIQUES [...] mise au point d'un groupe froid totalement innovant [...] ZAC du Mas de la Cour 16100 Chateaubernard"
+    },
+    {
+      "champ": "type (fabrication), description (conception, fabrication, installation, maintenance)",
+      "url": "http://www.chalvignac-process-thermiques.fr/",
+      "date": "2026-09-28",
+      "extrait": "Chalvignac Process Thermiques, concepteur et fabricant d'appareillages de traitement thermique des liquides et d'installation sur mesure [...] Modélisation 3D et fabrication 100% Process Thermique [...] Nos équipes conçoivent, fabriquent et installent vos solutions de traitement thermique des liquides."
+    },
+    {
+      "champ": "expertises (groupes froids Cryoflex), mesures (ACT_VIN_004 materiel), description (groupe froid à condenseur à air)",
+      "url": "http://www.chalvignac-process-thermiques.fr/groupes-froids.html",
+      "date": "2026-09-28",
+      "extrait": "La gamme de groupes froids CRYOFLEX est entièrement conçue et construite par l'équipe Chalvignac Process Thermique. [...] Ventilateur électronique à variation de vitesse intégré. [...] Condenseur avec batterie à ailettes réversible [...] Utilisation pour toutes les conditions ambiantes grâce à un pilotage de la vitesse de ventilation. [...] Proximité et écoute d'un constructeur voué au monde viticole."
+    },
+    {
+      "champ": "mesures (ACT_VIN_002 materiel, travaux ; ACT_VIN_004 materiel, travaux), expertises (raclage), description (références)",
+      "url": "http://www.chalvignac-process-thermiques.fr/realisations.html",
+      "date": "2026-09-28",
+      "extrait": "Etude de cas raclage par obus, LA FINANCIERE, FRANCE. Conseil, Conception - Fabrication - Déploiement et formation sur site [...] transfert de l'intégralité du produit d'une cuve de stockage vers une cuve de traitement [...] sans perte de produit liée au nettoyage de la tuyauterie [...] un jeu de gares de raclage réversibles envoie un obus dans la tuyauterie [...] CARDARELLI, Région bordelaise [...] le groupe froid a permis de finir le traitement. Ceci permettant d'affecter la puissance du groupe froid au maintien en température des cuves de vinification. [...] Thermorégulation d'un chai de 32 cuves en chaud et en froid en Bulgarie. Refroidissement des eaux de distillation de la distillerie Arménia Wine en Arménie. Refroidissement des eaux de distillation de la distillerie Pernod Ricard à Armavir en Arménie."
+    },
+    {
+      "champ": "departements (couverture nationale et export)",
+      "url": "https://www.groupe-chalvignac.fr/page/3/international",
+      "date": "2026-09-28",
+      "extrait": "Le Groupe CHALVIGNAC est présent à l'international dans tous ses domaines d'activités, la distillation et le process thermiques étant cependant les deux secteurs les plus exportés. [...] la construction de cuves inox sur site nous amène à travailler partout dans le monde."
+    },
+    {
+      "champ": "description (retour d'expérience Martell, 2023)",
+      "url": "https://www.journalduluxe.fr/fr/lifestyle/cognac-martell-innovation-distillation-bas-carbone",
+      "date": "2026-09-28",
+      "extrait": "17 mars 2023. Après plusieurs années de recherche, Martell - associé au groupe Chalvignac spécialisé dans la fabrication de cuves viticoles et alambics - dévoile aujourd'hui un système de distillation qui permet de récupérer et valoriser l'énergie disponible au niveau de l'organe réfrigérant des alambics charentais."
+    }
+  ],
+  "date_maj": "2026-09-28"
+}

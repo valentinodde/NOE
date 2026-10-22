@@ -1,0 +1,448 @@
+[
+  {
+    "id": "AIDE_HUI_001",
+    "nom": "CEDRE Premiers pas (Région Sud)",
+    "financeur": "Région Provence-Alpes-Côte d'Azur (Région Sud)",
+    "logo_url": null,
+    "type": "subvention",
+    "taux": "Forfait de 3 000 €, sur une facture de conseil d'au moins 3 750 € HT",
+    "plafond": "3 000 € par structure, une seule fois",
+    "description": "Subvention forfaitaire de la Région Sud qui réduit le coût d'une prestation de conseil en transition écologique réalisée par un accompagnateur-expert référencé par la Région. La Région cite parmi les premières actions visées la réduction des consommations d'eau. Les prestations éligibles comprennent notamment l'adaptation à la raréfaction des ressources (utilisation économe des ressources) et l'adaptation aux conséquences du changement climatique. Les investissements repérés pendant l'accompagnement peuvent ensuite être soutenus par CEDRE Investissement.",
+    "eligibilite": "Entreprises inscrites au RNE et associations à activité marchande dont le siège social ou l'établissement se situe en Provence-Alpes-Côte d'Azur, avec un chiffre d'affaires de 2 millions d'euros au plus, éligibles au régime de minimis et n'ayant pas déjà bénéficié d'un accompagnement de même nature ou d'un dispositif de la gamme CEDRE. Le secteur de l'agriculture, de la sylviculture et de la pêche est exclu, ainsi que les bureaux d'études et cabinets de conseil spécialisés en RSE, transition écologique ou développement durable.",
+    "categories": [
+      "suivre_comprendre_maitriser"
+    ],
+    "secteurs": [
+      "industrie_huiles"
+    ],
+    "departements": [
+      "04",
+      "05",
+      "06",
+      "13",
+      "83",
+      "84"
+    ],
+    "agences": [],
+    "mesures": [
+      "ACT_AGR_002"
+    ],
+    "infos_complementaires": [
+      {
+        "type": "avertissement",
+        "texte": "L'aide se demande après la prestation, sur présentation d'une facture de moins de 6 mois, d'au moins 3 750 € HT, intégralement acquittée à un expert référencé par la Région. Une prestation confiée à un consultant absent de la liste régionale n'est pas éligible."
+      },
+      {
+        "type": "avertissement",
+        "texte": "Le secteur de l'agriculture, de la sylviculture et de la pêche est exclu du dispositif. Vérifiez votre éligibilité auprès de la Région avant d'engager la prestation : 0 805 805 145 (appel gratuit, du lundi au vendredi)."
+      },
+      {
+        "type": "info",
+        "texte": "La demande se dépose en ligne sur la plateforme régionale, toute l'année, et les dossiers sont instruits par ordre d'arrivée. Pièces demandées : extrait RNE, derniers comptes, facture de l'expert, synthèse de l'accompagnement et de son calendrier, attestation de minimis, RIB. La Région recommande un échange préalable avec ses services : 0 805 805 145 (appel gratuit, du lundi au vendredi) ou relationentrepriseusager@maregionsud.fr."
+      },
+      {
+        "type": "info",
+        "texte": "À l'issue de l'accompagnement, CEDRE Investissement peut attribuer une subvention forfaitaire de 7 000 € pour réaliser des investissements identifiés pendant le parcours, avec des dépenses éligibles d'au moins 10 000 € HT."
+      },
+      {
+        "type": "ressource",
+        "texte": "Page du dispositif sur le site de la Région Sud",
+        "lien": "https://www.maregionsud.fr/vos-aides/detail/cedre-premiers-pas",
+        "lien_label": "Voir le dispositif"
+      },
+      {
+        "type": "ressource",
+        "texte": "Liste 2026 des accompagnateurs-experts référencés pour la prestation « Adaptation aux conséquences du changement climatique », dont plusieurs affichent une compétence ressource en eau",
+        "lien": "https://www.maregionsud.fr/fileadmin/user_upload/1-FICHIERS/2-DOCUMENTS/Economie-Emploi/8-Adaptation_aux_consequences_du_changement_climatique_2026.pdf",
+        "lien_label": "Consulter la liste"
+      },
+      {
+        "type": "ressource",
+        "texte": "Dépôt de la demande sur la plateforme d'aides en ligne de la Région Sud",
+        "lien": "https://aidesenligne.maregionsud.fr/aides/#/crsud/connecte/F_CEDRE_1ERPAS/depot/simple",
+        "lien_label": "Faire ma demande"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "taux, plafond",
+        "url": "https://www.maregionsud.fr/vos-aides/detail/cedre-premiers-pas",
+        "date": "2026-09-27",
+        "extrait": "L'aide régionale prend la forme d'une subvention forfaitaire de 3 000 euros, sur présentation d'une facture de moins de 6 mois, d'un montant minimum de 3 750 euros HT, intégralement acquittée à un expert référencé par la Région"
+      },
+      {
+        "champ": "plafond (une seule fois)",
+        "url": "https://www.maregionsud.fr/vos-aides/detail/cedre-premiers-pas",
+        "date": "2026-09-27",
+        "extrait": "Le demandeur ne peut prétendre à cette aide qu'une seule fois."
+      },
+      {
+        "champ": "description, mesures (ACT_AGR_002)",
+        "url": "https://www.maregionsud.fr/vos-aides/detail/cedre-premiers-pas",
+        "date": "2026-09-27",
+        "extrait": "vous souhaitez concrétiser de premières actions de transition écologique (réduction de vos consommation d'eau, d'énergie, de matières premières [...]) ? Avec CEDRE Premiers pas, accédez à une prestation de conseil à un coût réduit avec l'appui d'un accompagnateur-expert retenu par la Région Sud."
+      },
+      {
+        "champ": "description, mesures (ACT_AGR_002)",
+        "url": "https://www.maregionsud.fr/vos-aides/detail/cedre-premiers-pas",
+        "date": "2026-09-27",
+        "extrait": "Réduction de l'impact environnemental des produits et services de l'entreprise et l'adaptation à la raréfaction des ressources (écoconception, [...] utilisation économe des ressources, [...])"
+      },
+      {
+        "champ": "description",
+        "url": "https://www.maregionsud.fr/vos-aides/detail/cedre-premiers-pas",
+        "date": "2026-09-27",
+        "extrait": "Adaptation aux conséquences du changement climatique et à la raréfaction des ressources (déploiement de solutions innovantes et/ou alternatives, changement/évolution des pratiques et procédés de production, actions de prévention des risques, etc.)."
+      },
+      {
+        "champ": "mesures (experts eau référencés)",
+        "url": "https://www.maregionsud.fr/fileadmin/user_upload/1-FICHIERS/2-DOCUMENTS/Economie-Emploi/8-Adaptation_aux_consequences_du_changement_climatique_2026.pdf",
+        "date": "2026-09-27",
+        "extrait": "Scilog accompagne les entreprises et collectivités dans leur transition écologique. Par la sensibilisation, les bilans carbone et la baisse du besoin en eau ; Ecovia : Biodiversité, Ressource en eau"
+      },
+      {
+        "champ": "eligibilite, departements",
+        "url": "https://www.maregionsud.fr/vos-aides/detail/cedre-premiers-pas",
+        "date": "2026-09-27",
+        "extrait": "Réalisant un chiffre d'affaires inférieur ou égal à 2 millions d'euros (SIREN) ; Dont le siège social ou l'établissement se situe en Provence-Alpes-Côte d'Azur ; Eligibles au régime de minimis"
+      },
+      {
+        "champ": "eligibilite (exclusions)",
+        "url": "https://www.maregionsud.fr/vos-aides/detail/cedre-premiers-pas",
+        "date": "2026-09-27",
+        "extrait": "Sont exclus : Les bureaux d'étude et cabinets de conseil spécialisés dans la RSE [...], la transition écologique ou le développement durable ; Le secteur de l'agriculture, de la sylviculture et de la pêche"
+      },
+      {
+        "champ": "infos_complementaires (démarche)",
+        "url": "https://www.maregionsud.fr/vos-aides/detail/cedre-premiers-pas",
+        "date": "2026-09-27",
+        "extrait": "Les dossiers peuvent être déposés tout au long de l'année. Leur analyse sera faite chronologiquement, par ordre d'arrivée. Un échange préalable auprès des services de la Région Sud est fortement recommandé ; 0 805 805 145 (services et appels gratuits) ou par courriel à relationentrepriseusager@maregionsud.fr"
+      },
+      {
+        "champ": "infos_complementaires (CEDRE Investissement)",
+        "url": "https://www.maregionsud.fr/vos-aides/detail/cedre-premiers-pas",
+        "date": "2026-09-27",
+        "extrait": "A l'issue, avec CEDRE Investissement, une subvention forfaitaire de 7 000 euros pourra être attribuée aux structures accompagnées [...] Ces projets devront présenter des dépenses éligibles d'un montant minimum de 10 000 HT."
+      }
+    ],
+    "date_maj": "2026-09-27"
+  },
+  {
+    "id": "AIDE_HUI_002",
+    "nom": "CEDRE Investissement (Région Sud)",
+    "financeur": "Région Sud Provence-Alpes-Côte d'Azur",
+    "logo_url": null,
+    "type": "subvention",
+    "taux": "Forfait de 7 000 € (volet Premiers pas) ; jusqu'à 70 % des dépenses éligibles (volet Ambition)",
+    "plafond": "Volet Premiers pas : 7 000 € pour au moins 10 000 € HT de dépenses éligibles. Volet Ambition : subvention comprise entre 10 000 et 100 000 €",
+    "description": "Subvention régionale aux investissements durables engagés à la suite d'un accompagnement CEDRE Premiers pas ou CEDRE Ambition, en cohérence avec le plan d'actions défini pendant cet accompagnement. Parmi les dépenses citées en exemple par la Région figurent les logiciels et travaux permettant la réalisation d'économies d'eau, les équipements économes en ressources et les études préalables à des investissements.",
+    "eligibilite": "Entreprises inscrites au RNE ou associations à activité marchande, dont le siège ou l'établissement est en Provence-Alpes-Côte d'Azur, déjà accompagnées par CEDRE Premiers pas (chiffre d'affaires jusqu'à 2 millions d'euros) ou CEDRE Ambition (PME de moins de 250 personnes, plus de 2 ans d'existence ou un bilan), et éligibles au régime de minimis.",
+    "categories": [
+      "ameliorer_efficacite_hydrique"
+    ],
+    "secteurs": [
+      "industrie_huiles"
+    ],
+    "departements": [
+      "04",
+      "05",
+      "06",
+      "13",
+      "83",
+      "84"
+    ],
+    "agences": [],
+    "mesures": [
+      "ACT_HUI_001",
+      "ACT_HUI_002"
+    ],
+    "infos_complementaires": [
+      {
+        "type": "avertissement",
+        "texte": "L'aide est réservée aux structures déjà accompagnées par CEDRE Premiers pas ou CEDRE Ambition : l'investissement doit être cohérent avec les préconisations de cet accompagnement, justifiées par un descriptif du projet (Premiers pas) ou par le rapport de l'accompagnateur-expert (Ambition)."
+      },
+      {
+        "type": "avertissement",
+        "texte": "Sont notamment exclus l'équipement informatique, les abonnements mensuels pour des licences, les acquisitions par crédit-bail, les travaux d'extension ou de construction de bâtiments, et les dépenses pouvant déjà bénéficier d'un autre financement de la Région. Les travaux d'aménagement ne sont retenus que s'ils favorisent explicitement les économies d'énergie ou d'eau, avec des précisions sur les économies attendues."
+      },
+      {
+        "type": "info",
+        "texte": "Le dossier se dépose en ligne sur la plateforme régionale tout au long de l'année et il est analysé par ordre d'arrivée. La Région recommande fortement un échange préalable avec ses services pour vérifier l'éligibilité : permanence téléphonique gratuite au 0 805 805 145, du lundi au vendredi."
+      },
+      {
+        "type": "info",
+        "texte": "Le matériel d'occasion est éligible s'il est acheté au prix du marché de l'occasion, sur présentation d'une attestation d'achat accompagnée de la facture initiale."
+      },
+      {
+        "type": "ressource",
+        "texte": "Page du dispositif sur le site de la Région Sud",
+        "lien": "https://www.maregionsud.fr/vos-aides/detail/cedre-investissement",
+        "lien_label": "maregionsud.fr"
+      },
+      {
+        "type": "ressource",
+        "texte": "Dépôt de la demande sur la plateforme des aides en ligne de la Région Sud",
+        "lien": "https://aidesenligne.maregionsud.fr/aides/#/crsud/connecte/F_S_I_CEDREINV/depot/simple",
+        "lien_label": "Je fais ma demande"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "description, eligibilite (condition d'accompagnement CEDRE)",
+        "url": "https://www.maregionsud.fr/vos-aides/detail/cedre-investissement",
+        "date": "2026-09-27",
+        "extrait": "vous avez bénéficié du dispositif CEDRE Premiers pas ou CEDRE Ambition et vous portez, suite à cet accompagnement, un projet d'investissement prenant en compte les enjeux de la transition écologique (page mise à jour le 17 avril 2026)"
+      },
+      {
+        "champ": "taux, plafond (volet Premiers pas)",
+        "url": "https://www.maregionsud.fr/vos-aides/detail/cedre-investissement",
+        "date": "2026-09-27",
+        "extrait": "subvention forfaitaire d'investissement de 7 000 euros pour un montant minimum des dépenses éligibles de 10 000 euros HT"
+      },
+      {
+        "champ": "taux, plafond (volet Ambition)",
+        "url": "https://www.maregionsud.fr/vos-aides/detail/cedre-investissement",
+        "date": "2026-09-27",
+        "extrait": "subvention d'investissement comprise entre 10 000 et 100 000 euros avec un taux d'intervention maximum de 70% du montant total des dépenses éligibles"
+      },
+      {
+        "champ": "description, mesures (ACT_HUI_001, ACT_HUI_002), categories",
+        "url": "https://www.maregionsud.fr/vos-aides/detail/cedre-investissement",
+        "date": "2026-09-27",
+        "extrait": "A titre d'exemple (non exhaustif) : Les équipements économes en ressources [...] Les logiciels et travaux permettant la réalisation d'économies d'eau ; Les études préalables à des investissements"
+      },
+      {
+        "champ": "eligibilite",
+        "url": "https://www.maregionsud.fr/vos-aides/detail/cedre-investissement",
+        "date": "2026-09-27",
+        "extrait": "Dont le siège social ou l'établissement se situe en Provence-Alpes-Côte d'Azur ; Eligibles au régime de minimis ; [Premiers pas] chiffre d'affaires inférieur ou égal à 2 millions d'euros ; [Ambition] effectif inférieur à 250 personnes [...] De plus de 2 ans d'existence ou présentant au moins un bilan"
+      },
+      {
+        "champ": "departements (Provence-Alpes-Côte d'Azur, région 93)",
+        "url": "https://geo.api.gouv.fr/regions/93/departements",
+        "date": "2026-09-27",
+        "extrait": "Alpes-de-Haute-Provence 04, Hautes-Alpes 05, Alpes-Maritimes 06, Bouches-du-Rhône 13, Var 83, Vaucluse 84 (codeRegion 93)"
+      },
+      {
+        "champ": "infos_complementaires (accompagnement préalable, pièces)",
+        "url": "https://www.maregionsud.fr/vos-aides/detail/cedre-investissement",
+        "date": "2026-09-27",
+        "extrait": "Le rapport d'expert précisant dans quelle mesure l'investissement est en lien avec le plan d'actions défini avec l'accompagnateur-expert lors de l'accompagnement CEDRE Ambition"
+      },
+      {
+        "champ": "infos_complementaires (exclusions)",
+        "url": "https://www.maregionsud.fr/vos-aides/detail/cedre-investissement",
+        "date": "2026-09-27",
+        "extrait": "Sont exclus : [...] Les travaux d'aménagement sauf ceux favorisant explicitement les économies d'énergie ou d'eau avec des précisions sur les économies attendues [...] Les acquisitions effectuées par crédit-bail ; L'équipement informatique ; Les abonnements mensuels pour des licences"
+      },
+      {
+        "champ": "infos_complementaires (démarche, contact, matériel d'occasion)",
+        "url": "https://www.maregionsud.fr/vos-aides/detail/cedre-investissement",
+        "date": "2026-09-27",
+        "extrait": "Les dossiers peuvent être déposés tout au long de l'année. Leur analyse sera faite chronologiquement, par ordre d'arrivée. [...] Un échange préalable auprès des services de la Région Sud est fortement recommandé [...] 0 805 805 145 (services et appels gratuits) ; Le matériel d'occasion est également éligible s'il est au prix du marché de l'occasion et sur présentation d'une attestation d'achat accompagnée de la facture initiale."
+      },
+      {
+        "champ": "infos_complementaires (lien de dépôt)",
+        "url": "https://www.maregionsud.fr/vos-aides/detail/cedre-investissement",
+        "date": "2026-09-27",
+        "extrait": "Bouton « Je fais ma demande » : https://aidesenligne.maregionsud.fr/aides/#/crsud/connecte/F_S_I_CEDREINV/depot/simple"
+      }
+    ],
+    "date_maj": "2026-09-27"
+  },
+  {
+    "id": "AIDE_HUI_003",
+    "nom": "Sud Prêt Climat (Région Sud et Bpifrance)",
+    "financeur": "Région Sud Provence-Alpes-Côte d'Azur, instruit par Bpifrance",
+    "logo_url": null,
+    "type": "pret",
+    "taux": "Prêt à taux préférentiel, qui ne peut être inférieur à 0,20 %",
+    "plafond": "De 10 000 à 300 000 €, avec un cofinancement obligatoire à raison de 1 pour 1",
+    "description": "Prêt régional à taux préférentiel, sans garantie personnelle ni sûreté réelle, sur 5 ans (dont 1 an de différé d'amortissement en capital) ou 7 ans (dont 2 ans de différé). Il finance les projets qui renforcent au moins une priorité du Plan Climat de la Région, parmi lesquelles les économies d'eau et la prévention et le contrôle des pollutions. La page cite comme éligibles les besoins en fonds de roulement liés à la transition, les investissements immatériels et les coûts de mise aux normes (environnement, sécurité).",
+    "eligibilite": "PME au sens européen (moins de 250 personnes, chiffre d'affaires inférieur à 50 M€ ou total bilan inférieur à 43 M€), de plus de 3 ans ou pouvant fournir deux bilans couvrant au moins 24 mois, exerçant l'essentiel de leur activité en Région Sud ou s'y installant, financièrement saines et éligibles au régime de minimis. Sont exclues notamment les entreprises individuelles, les autoentrepreneurs, les SCI et les secteurs agricole, forestier et de la pêche (NAF A01, A02, A03).",
+    "categories": [
+      "agir_rejets_qualite"
+    ],
+    "secteurs": [
+      "industrie_huiles"
+    ],
+    "departements": [
+      "04",
+      "05",
+      "06",
+      "13",
+      "83",
+      "84"
+    ],
+    "agences": [],
+    "mesures": [],
+    "infos_complementaires": [
+      {
+        "type": "avertissement",
+        "texte": "La page se contredit sur les équipements : l'introduction annonce le financement des « investissements matériels et immatériels nécessaires à leur transition énergétique et écologique », mais la liste des dépenses exclut « Les investissements immobiliers et mobiliers » et ne cite comme éligibles que le fonds de roulement, les investissements immatériels et les coûts de mise aux normes. Avant de compter sur ce prêt pour acheter un équipement, faites confirmer son éligibilité par la Région ou par Bpifrance."
+      },
+      {
+        "type": "avertissement",
+        "texte": "Le cofinancement est obligatoire et ne peut pas être une aide directe. Au-dessus de 50 000 €, il doit porter sur le même programme d'investissement, réalisé depuis moins de 6 mois, et le prêt ne peut dépasser vos fonds propres et quasi-fonds propres. Jusqu'à 50 000 €, un endettement bancaire d'au moins 3 ans et d'un encours au moins égal à 50 % du prêt est exigé."
+      },
+      {
+        "type": "info",
+        "texte": "La demande se fait en ligne sur la plateforme de Bpifrance, qui constitue et instruit le dossier ; les dossiers se déposent toute l'année et sont analysés par ordre d'arrivée. Jusqu'à 50 000 €, le plan d'actions est allégé mais l'Autodiag Climatomètre de Bpifrance est obligatoire. Un échange préalable avec les services de la Région est fortement recommandé (0 805 805 145, appel gratuit)."
+      },
+      {
+        "type": "ressource",
+        "texte": "Page du dispositif sur le site de la Région Sud",
+        "lien": "https://www.maregionsud.fr/vos-aides/detail/sud-pret-climat",
+        "lien_label": "Sud Prêt Climat"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "nom, financeur, description, date de mise à jour",
+        "url": "https://www.maregionsud.fr/vos-aides/detail/sud-pret-climat",
+        "date": "2026-09-27",
+        "extrait": "Mis à jour le 21 janvier 2026. Avec SUD Prêt Climat, et en partenariat avec Bpifrance, la Région Sud entend donc répondre au besoin des PME de financer à faible coût, les investissements matériels et immatériels nécessaires à leur transition énergétique et écologique"
+      },
+      {
+        "champ": "type, taux, plafond",
+        "url": "https://www.maregionsud.fr/vos-aides/detail/sud-pret-climat",
+        "date": "2026-09-27",
+        "extrait": "L'aide régionale prend la forme d'un prêt à taux préférentiel compris entre 10 000 et 300 000 euros octroyé à des conditions plus favorables que les conditions du marché et ne pouvant être inférieur à 0,20%. [...] un partenariat financier est obligatoire à raison de 1 pour 1"
+      },
+      {
+        "champ": "description (durée, garanties)",
+        "url": "https://www.maregionsud.fr/vos-aides/detail/sud-pret-climat",
+        "date": "2026-09-27",
+        "extrait": "5 ans dont un différé d’amortissement en capital de 1 an. 7 ans dont un différé d’amortissement en capital de 2 ans. [...] aucune garantie personnelle ou sûreté réelle n’est exigée."
+      },
+      {
+        "champ": "eligibilite",
+        "url": "https://www.maregionsud.fr/vos-aides/detail/sud-pret-climat",
+        "date": "2026-09-27",
+        "extrait": "De plus de 3 ans ou en capacité de fournir deux bilans couvrant une durée minimum de 24 mois. Quelle que soit leur forme juridique (à l'exclusion des entreprises individuelles et des SCI). [...] Le secteur agricole ayant un code NAF section A01 [...] ou A02 [...] Le secteur de la pêche et de l’aquaculture ayant un code NAF section A03"
+      },
+      {
+        "champ": "departements",
+        "url": "https://www.maregionsud.fr/vos-aides/detail/sud-pret-climat",
+        "date": "2026-09-27",
+        "extrait": "Exerçant l'essentiel de leur activité sur le territoire régional ou s'y installant."
+      },
+      {
+        "champ": "categories",
+        "url": "https://www.maregionsud.fr/vos-aides/detail/sud-pret-climat",
+        "date": "2026-09-27",
+        "extrait": "Les économies d’eau. [...] La prévention et le contrôle des pollutions. [...] Sont éligibles : [...] Les investissements immatériels, les coûts de mise aux normes (environnement, sécurité), de recrutement, de formation"
+      },
+      {
+        "champ": "infos_complementaires (contradiction sur les équipements)",
+        "url": "https://www.maregionsud.fr/vos-aides/detail/sud-pret-climat",
+        "date": "2026-09-27",
+        "extrait": "Sont exclus : [...] Les investissements immobiliers et mobiliers, les acquisitions de titres ou de fonds de commerce."
+      },
+      {
+        "champ": "infos_complementaires (cofinancement, démarche)",
+        "url": "https://www.maregionsud.fr/vos-aides/detail/sud-pret-climat",
+        "date": "2026-09-27",
+        "extrait": "Le cofinancement est obligatoire et doit porter sur le même programme d'investissement réalisé depuis moins de 6 mois [...] Les dossiers peuvent être déposés tout au long de l’année. Leur analyse sera faite chronologiquement, par ordre d’arrivée. Un échange préalable auprès des services de la Région Sud est fortement recommandé"
+      }
+    ],
+    "date_maj": "2026-09-27"
+  },
+  {
+    "id": "AIDE_HUI_004",
+    "nom": "DECARB FLASH 2025-2027 (ADEME, France 2030)",
+    "financeur": "ADEME, Agence de la transition écologique",
+    "logo_url": null,
+    "type": "subvention",
+    "taux": "Selon la nature du projet",
+    "plafond": null,
+    "description": "Appel à projets national de l'ADEME qui finance la décarbonation des activités industrielles en agissant sur la baisse de la consommation énergétique des procédés de production, l'électrification des équipements industriels et l'isolation thermique des bâtiments. Seules les opérations de la liste du dispositif sont éligibles. C'est une aide énergie et climat, pas une aide à l'eau : pour un site de trituration, de raffinage ou un fondoir, son intérêt côté eau tient à l'opération « Installation de lignes de retours condensats sur les circuits vapeur », qui permet de renvoyer les condensats à la chaufferie au lieu de les perdre. Le refroidissement en circuit fermé ne figure pas dans la liste.",
+    "eligibilite": "Sites industriels de PME, ainsi que sites industriels de grandes entreprises non soumis à la directive EU-ETS, en France et dans les territoires d'outre-mer. Le coût total des opérations doit être compris entre 100 k€ (25 k€ en Corse et Outre-mer) et 3 M€. Un audit énergétique de moins de 4 ans ou une étude d'opportunité d'évolution du mix énergétique (programme PACTE Industrie) doit avoir été réalisé. Les activités agricoles sont exclues, sauf celles relevant de l'industrie agro-alimentaire.",
+    "categories": [
+      "valoriser_reut_eaux_non_conventionnelles"
+    ],
+    "secteurs": [
+      "industrie_huiles"
+    ],
+    "departements": [],
+    "agences": [],
+    "mesures": [
+      "ACT_HUI_005"
+    ],
+    "infos_complementaires": [
+      {
+        "type": "avertissement",
+        "texte": "L'investissement ne doit pas avoir été réalisé au moment du dépôt de la demande. Une réunion de pré-dépôt avec l'ADEME doit être organisée au moins un mois avant le dépôt du dossier, sur la base de la trame de présentation mise à disposition par l'ADEME (contact : decarb.flash@ademe.fr)."
+      },
+      {
+        "type": "avertissement",
+        "texte": "Sans audit énergétique de moins de 4 ans ou étude d'opportunité PACTE Industrie, le projet n'est pas éligible : prévoyez cet audit avant de monter le dossier."
+      },
+      {
+        "type": "info",
+        "texte": "Le dispositif est ouvert jusqu'au 15/02/2027. Le dossier se dépose en ligne sur la plateforme de l'ADEME, après création d'un compte ADEME. La liste des opérations éligibles peut évoluer : vérifiez celle en vigueur dans les documents de l'ADEME avant de monter le dossier."
+      },
+      {
+        "type": "ressource",
+        "texte": "Page du dispositif sur le site de l'ADEME (cahier des charges, liste des actions éligibles, contacts en région)",
+        "lien": "https://agirpourlatransition.ademe.fr/entreprises/aides-financieres/catalogue/aap/decarb-flash-2025-2027",
+        "lien_label": "Voir le dispositif"
+      },
+      {
+        "type": "ressource",
+        "texte": "Fiche du dispositif sur la plateforme Transition écologique des entreprises, avec la liste des opérations éligibles",
+        "lien": "https://mission-transition-ecologique.beta.gouv.fr/aides-entreprise/decarb-flash-2025-2027",
+        "lien_label": "Consulter la fiche"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "financeur, taux, eligibilite, description",
+        "url": "https://mission-transition-ecologique.beta.gouv.fr/aides-entreprise/decarb-flash-2025-2027",
+        "date": "2026-09-27",
+        "extrait": "Financez la décarbonation de vos activités industrielles grâce à cet appel à projet, en agissant sur : La baisse de la consommation énergétique dans les procédés de production ; L'électrification des équipements industriels ; L'isolation thermique de vos bâtiments. [...] Montant du financement Selon la nature du projet. Contact ADEME, Agence de la transition écologique"
+      },
+      {
+        "champ": "eligibilite",
+        "url": "https://mission-transition-ecologique.beta.gouv.fr/aides-entreprise/decarb-flash-2025-2027",
+        "date": "2026-09-27",
+        "extrait": "France et territoires d'outre-mer. [...] les activités agricoles (sauf celles relevant de l'industrie agro-alimentaire) [...] Le coût total des opérations doit être compris entre 100 k€ (25 k€ en Corse et Outre-mer) et 3 M€. L'appel à projet concerne les sites industriels appartenant à des PME, ainsi qu'à ceux appartenant à des Grandes Entreprises (non soumises à la directive EU-ETS)."
+      },
+      {
+        "champ": "mesures, description",
+        "url": "https://mission-transition-ecologique.beta.gouv.fr/aides-entreprise/decarb-flash-2025-2027",
+        "date": "2026-09-27",
+        "extrait": "Les projets éligibles sont les suivants : [...] Installation de purgeurs vapeur sur les circuits vapeur ; Installation de lignes de retours condensats sur les circuits vapeur ; Installation de lignes de retours sur les circuits des NEP [...]"
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://mission-transition-ecologique.beta.gouv.fr/aides-entreprise/decarb-flash-2025-2027",
+        "date": "2026-09-27",
+        "extrait": "Contactez l'ADEME pour planifier une réunion de pré-dépôt du dossier (au moins un mois avant la date limite de dépôt). [...] Créez un compte ADEME pour pouvoir déposer votre dossier. [...] À ce stade, votre investissement ne doit pas avoir été réalisé ! [...] Date de fin de l'aide Disponible jusqu'au 15/02/2027"
+      },
+      {
+        "champ": "type, nom, eligibilite",
+        "url": "https://www.invest-in-nord-franche-comte.fr/fr/newsletter-adnfc/decarb-flash2025-2027/",
+        "date": "2026-09-27",
+        "extrait": "L'Appel à Projets DECARB-FLASH, qui s'inscrit dans le cadre de France 2030, est reconduit jusqu'au 15 février 2027. [...] DECARB-FLASH est octroyé sous forme de subvention [...] Un audit énergétique de moins de 4 ans ou une étude d'opportunité d'évolution du mix énergétique (programme PACTE Industrie) devront être réalisés"
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.invest-in-nord-franche-comte.fr/fr/newsletter-adnfc/decarb-flash2025-2027/",
+        "date": "2026-09-27",
+        "extrait": "Une réunion de pré-dépôt doit être organisé en une présentation par le porteur du projet à l'adresse suivante : decarb.flash@ademe.fr. Cette présentation doit s'appuyer sur la « trame de présentation de dossier en pré-dépôt », disponible sur la plateforme ADEME AGIR et doit se dérouler 1 mois au minimum avant le dépôt du dossier."
+      },
+      {
+        "champ": "nom",
+        "url": "https://www.savoie.gouv.fr/Actions-de-l-Etat/Entreprises-innovez-avec-France-2030/Les-appels-a-candidature-et-appels-a-projet-en-cours",
+        "date": "2026-09-27",
+        "extrait": "Entreprises : innovez avec France 2030 > Les appels à candidature et appels à projet en cours [...] DECARB FLASH 2025-2027 - du 10 avril 2025 au 15 février 2027 : Pour accompagner des petits projets de décarbonation de sites industriels, dont le coût est compris entre 100 K€ et 3 M€"
+      }
+    ],
+    "date_maj": "2026-09-27"
+  }
+]

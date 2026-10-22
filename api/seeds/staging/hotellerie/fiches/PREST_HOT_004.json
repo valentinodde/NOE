@@ -1,0 +1,60 @@
+{
+  "id": "PREST_HOT_004",
+  "nom": "Hydrao (Smart and Blue)",
+  "type": "installateur",
+  "logo_url": "https://www.hydrao.com/pommeau/images/logo.png",
+  "siret": "81412714800017",
+  "description": "Société iséroise (Smart and Blue, siège à Moirans) qui conçoit et vend sous la marque Hydrao des équipements de douche et de sanitaire économes en eau : pommeau Aloé à 6,6 L/min dont les LED changent de couleur selon le volume consommé, ciel de pluie connecté, mousseurs régulateurs de débit, stop-douche poussoir et sac économiseur d'eau pour WC. Elle a équipé des hébergements touristiques, dont 90 hébergements de Villages Nature Paris en 2018 et les 165 chambres de l'hôtel Waterfront à Malte en 2024. Elle vend du matériel, commandable en ligne, qui se pose sans outil spécifique ; aucune prestation de pose ni de conseil n'a été relevée sur ses pages, et le lieu de fabrication de ses produits n'est pas établi par une source accessible.",
+  "expertises": [
+    "Pommeau de douche bas débit",
+    "Ciel de pluie connecté",
+    "Mousseurs régulateurs de débit",
+    "Économiseur d'eau pour WC"
+  ],
+  "categories": [
+    "ameliorer_efficacite_hydrique"
+  ],
+  "secteurs": ["hotellerie"],
+  "departements": [],
+  "mesures": [
+    { "id": "ACT_HOT_001", "roles": ["materiel"] }
+  ],
+  "contacts": [
+    { "type": "site_internet", "value": "https://www.hydrao.com/" },
+    { "type": "adresse", "value": "196 route des Vignes, 38430 Moirans" }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Smart%20and%20Blue&departement=38",
+      "date": "2026-09-24",
+      "extrait": "SMART AND BLUE (HYDRAO), siret 81412714800017, siège, 196 ROUTE DES VIGNES 38430 MOIRANS, activite_principale 71.12B, activite_principale_naf25 71.12Y, état administratif A"
+    },
+    {
+      "champ": "description, expertises, mesures (ACT_HOT_001 materiel), contacts (site_internet), logo_url",
+      "url": "https://www.hydrao.com/pommeau/",
+      "date": "2026-09-24",
+      "extrait": "Profitez d'un débit économique de 6,6L/min sans compromis sur le confort de votre douche [...] Les LEDs intégrées changent de couleur pour vous aider à suivre votre consommation d'eau en temps réel [...] Installez-le en quelques minutes sans outils spécifiques [...] Notre gamme de produit : Le ciel de pluie, Mousseurs régulateurs de débit x3, Stop douche poussoir, Sac économiseur d'eau WC [...] Acheter [...] <img src=\"images/logo.png\" alt=\"Logo_Hydrao\">"
+    },
+    {
+      "champ": "description (conception)",
+      "url": "https://www.grenoble-inp.fr/fr/recherche-valorisation/hydrao-le-pommeau-de-douche-ecolo",
+      "date": "2026-09-24",
+      "extrait": "Publié le 18 octobre 2022. Hydrao, société du bassin grenoblois fondée en 2015 [...] Après avoir fait réaliser une étude de marché, il met au point le produit. [...] Aujourd'hui, Hydrao compte une vingtaine de permanents, dont une dizaine d'ingénieurs [...] électronique et firmware embarqués, design de turbine"
+    },
+    {
+      "champ": "secteurs, description (référence hôtelière)",
+      "url": "https://www.tendancehotellerie.fr/articles-breves/communique-de-presse/22778-article/l-hotel-waterfront-a-malte-reduit-sa-consommation-d-eau-et-d-energie-avec-les-pommeaux-de-douche-et-ciels-de-pluie-connectes-hydrao",
+      "date": "2026-09-24",
+      "extrait": "Communiqué de presse du 27 septembre 2024 : Hôtel chic situé sur le port de Sliema à Malte, le Waterfront, composé de 165 chambres [...] l'hôtel a fait appel aux solutions de la société Grenobloise HYDRAO [...] Plus de 165 pommeaux de douche connectés Aloé et 165 ciels de pluie connectés Yucca ont été installés début 2024"
+    },
+    {
+      "champ": "secteurs, description (référence hébergement touristique)",
+      "url": "https://hr-infos.fr/hydrao-eclaire-le-client-sur-le-volume-deau-quil-depense-sous-la-douche-2/",
+      "date": "2026-09-24",
+      "extrait": "Article du 28 août 2018 : Depuis juillet 2018, 90 hébergements de son resort Villages Nature Paris sont équipés du pommeau de douche Hydrao Aloe [...] du débit d'eau limité à 6,6 litres par minute"
+    }
+  ],
+  "date_maj": "2026-09-24"
+}

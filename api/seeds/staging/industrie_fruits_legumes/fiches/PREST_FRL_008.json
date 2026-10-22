@@ -1,0 +1,86 @@
+{
+  "id": "PREST_FRL_008",
+  "nom": "UVRER (Réalisation Énergie Rationnelle)",
+  "type": "equipementier",
+  "logo_url": null,
+  "siret": "32404546700051",
+  "description": "Fabricant d'appareils de traitement des fluides par ultraviolets, installé à Saint-Genis-Laval (Rhône), qui conçoit et fabrique ses équipements dans son propre atelier depuis 1982. Pour les industries de transformation de fruits et légumes et de production de jus, il propose le skid FTU REUSE : réacteurs UV haute intensité avec prétraitement (filtration, tamisage, dégazage) qui stabilisent et désinfectent les condensats végétaux afin de les réutiliser dans les procédés, comme sur une usine de jus de citron en Uruguay où le condensat de concentration sert à la dilution ou au déplacement des jus.",
+  "expertises": [
+    "Désinfection UV des condensats",
+    "Skid de réutilisation FTU REUSE",
+    "Réacteurs UV sur mesure"
+  ],
+  "categories": [
+    "valoriser_reut_eaux_non_conventionnelles"
+  ],
+  "secteurs": [
+    "industrie_fruits_legumes"
+  ],
+  "departements": [],
+  "mesures": [
+    {
+      "id": "ACT_FRL_007",
+      "roles": [
+        "materiel"
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "type": "site_internet",
+      "value": "https://www.uvrer-anemo.com/"
+    },
+    {
+      "type": "tel",
+      "value": "04 78 50 02 37"
+    },
+    {
+      "type": "mail",
+      "value": "contact@uvrer.com"
+    },
+    {
+      "type": "adresse",
+      "value": "303 route de Brignais, RD42, 69230 Saint-Genis-Laval"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Realisation%20Energie%20Rationnelle&departement=69",
+      "date": "2026-09-25",
+      "extrait": "REALISATION ENERGIE RATIONNELLE (RER), siret 32404546700051, siège, 303 ROUTE DE BRIGNAIS 69230 SAINT-GENIS-LAVAL, activité 28.29B, état administratif A"
+    },
+    {
+      "champ": "contacts",
+      "url": "https://www.uvrer-anemo.com/contact-societe-rer-et-anemo-france",
+      "date": "2026-09-25",
+      "extrait": "303 route de Brignais - RD42 69230 St Genis Laval [...] France. 04 78 50 02 37. contact@uvrer.com"
+    },
+    {
+      "champ": "type, description",
+      "url": "https://www.uvrer-anemo.com/",
+      "date": "2026-09-25",
+      "extrait": "Made In France depuis 1982 [...] A la fois concepteur et fabricant, l'ensemble de nos technologies de traitements sont issues de la recherche industrielle et universitaire française. [...] La fabrication des appareils est assurée au coeur de notre atelier de production."
+    },
+    {
+      "champ": "description, expertises, mesures (ACT_FRL_007 materiel), secteurs",
+      "url": "https://www.revue-ein.com/actualite/skid-ftu-reuse-effluents-condensats-agroalimentaires-4852",
+      "date": "2026-09-25",
+      "extrait": "SKID FTU REUSE (Effluents-Condensats agroalimentaires), UVRER, 12 novembre 2025. Les condensats végétaux, riches en matières colorées et composés organiques [...] Transformation de fruits et légumes [...] Industries de boissons, jus, arômes [...] Réutilisation des condensats dans les procédés agroalimentaires [...] Réduction des volumes d'eau rejetée"
+    },
+    {
+      "champ": "description, expertises, mesures (ACT_FRL_007 materiel)",
+      "url": "https://www.uvrer-anemo.com/archives/31835",
+      "date": "2026-09-25",
+      "extrait": "Le SKID FTU REUSE développé par UVRER permet de stabiliser et désinfecter ces eaux afin de favoriser leur réutilisation dans différents procédés industriels [...] transformation de fruits et légumes, extraction végétale, fermentation naturelle, production de boissons, jus ou arômes"
+    },
+    {
+      "champ": "description, mesures (ACT_FRL_007 materiel), departements",
+      "url": "https://www.vegepolys-valley.eu/actualites/16405-desinfection-uv-du-condensat-vegetal-uvrer-valorise-une-ressource-inexploitee-dans-lindustrie-des-jus.html",
+      "date": "2026-09-25",
+      "extrait": "condensat végétal issu de la concentration de jus de fruits [...] un skid de traitement UV (sans chlore) sur mesure, intégrant un réacteur calibré [...] réutiliser une eau, jusqu'ici rejetée, pour des usages internes tels que la dilution ou le déplacement de jus concentrés [...] une usine de production de jus de citron en Uruguay"
+    }
+  ],
+  "date_maj": "2026-09-25"
+}

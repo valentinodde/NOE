@@ -1,0 +1,69 @@
+{
+  "id": "PREST_GCU_018",
+  "nom": "Occi PRO Environnement",
+  "type": "installateur",
+  "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792084352/Noe%20assets/logos/PREST_GCU_018.png",
+  "siret": "83399724000019",
+  "description": "Entreprise de Grisolles (Tarn-et-Garonne), créée en 2017, qui se présente comme distributeur de géomembranes d'étanchéité et de citernes souples, à côté de son activité principale d'assainissement non collectif. Pour les exploitations, elle étanche par géomembrane (PVC, EPDM, PEHD) des bassins de stockage de l'eau d'irrigation, dont les bassins collinaires et les bassins tampons d'eau de forage, avec assemblage et contrôle des soudures selon le procédé de certification Asqual, et fournit des citernes souples de 1 à 1000 m³ pour stocker l'eau de pluie. Intervention sur devis de techniciens sur site, dans le Tarn-et-Garonne, la Haute-Garonne, le Gers et le Tarn, après validation des dimensions par son bureau d'études.",
+  "expertises": [
+    "Étanchéité de bassins d'irrigation",
+    "Géomembranes de bassins collinaires",
+    "Citernes souples de stockage",
+    "Récupération d'eau de pluie"
+  ],
+  "categories": [
+    "valoriser_reut_eaux_non_conventionnelles"
+  ],
+  "secteurs": ["grandes_cultures"],
+  "departements": ["31", "32", "81", "82"],
+  "mesures": [
+    { "id": "ACT_GCU_008", "roles": ["materiel", "travaux"] },
+    { "id": "ACT_AGR_006", "roles": ["materiel"] }
+  ],
+  "contacts": [
+    { "type": "site_internet", "value": "https://www.occi-pro.com/" },
+    { "type": "tel", "value": "06 99 51 19 89" },
+    { "type": "mail", "value": "contact.occipro@gmail.com" },
+    { "type": "adresse", "value": "640, rue de la Paix, ZA Saint-Jean, 82170 Grisolles" }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "expertises, mesures, description",
+      "url": "https://www.occi-pro.com/geomembranes/",
+      "date": "2026-10-15",
+      "extrait": "Stockage de l'eau d'irrigation : récupération des eaux pluviales (ex, toitures), bassins tampons d'eaux de forage, bassins collinaires... Assemblage et contrôle des soudures selon procédé certification ASQUAL. OCCI PRO ENVIRONNEMENT DISTRIBUTEUR DE GEOMEMBRANE D'éTANCHéITé. Mobilité et Flexibilité avec intervention de techniciens sur site. Validation par son bureau d'études des dimensions et des équipements."
+    },
+    {
+      "champ": "expertises, mesures, description",
+      "url": "https://www.occi-pro.com/citernes-souples/",
+      "date": "2026-10-15",
+      "extrait": "Citernes souples DE 1 à 1000 M³. Secteurs et domaines d'applications : Agriculture, Industrie, Collectivités locales. La plupart des citernes souples servent au stockage de l'eau récupérée de la pluie, mais elles peuvent aussi servir de réserve incendie"
+    },
+    {
+      "champ": "description, departements",
+      "url": "https://www.occi-pro.com/",
+      "date": "2026-10-15",
+      "extrait": "Déplacement dans le tarn et garonne, en Haute Garonne, dans le Gers, dans Le Tarn. Créé en 2017, notre entreprise est spécialisée dans l'assainissement non collectif et semi-collectif par la distribution de micro-stations et filtres compactes. Géomembranes : Découvrez nos géomembranes pour stocker de l'eau d'irrigation ou des effluents"
+    },
+    {
+      "champ": "contacts",
+      "url": "https://www.occi-pro.com/contact/",
+      "date": "2026-10-15",
+      "extrait": "Thierry CANNES 06 99 51 19 89 contact.occipro@gmail.com 640, rue de la paix Z.A. Saint Jean 82170 Grisolles"
+    },
+    {
+      "champ": "siret",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Occi%20PRO%20Environnement&departement=82",
+      "date": "2026-10-15",
+      "extrait": "OCCI PRO ENVIRONNEMENT, siret 83399724000019, siège, ZA SAINT JEAN 640 RUE DE LA PAIX 82170 GRISOLLES, activité 46.73A, etat_administratif A"
+    },
+    {
+      "champ": "logo_url",
+      "url": "https://www.occi-pro.com/wp-content/uploads/2020/12/cropped-occipro-favicon-192x192.png",
+      "date": "2026-10-15",
+      "extrait": "icône du site www.occi-pro.com (link rel=icon, 192 x 192), croix occitane et texte OcciPro en couleur"
+    }
+  ],
+  "date_maj": "2026-10-15"
+}

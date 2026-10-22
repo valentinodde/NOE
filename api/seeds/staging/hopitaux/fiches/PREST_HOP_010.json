@@ -1,0 +1,94 @@
+{
+  "id": "PREST_HOP_010",
+  "nom": "EnveneO Conseil",
+  "type": "bureau_etudes",
+  "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792070075/Noe%20assets/logos/PREST_HOP_010.png",
+  "siret": "91047429500011",
+  "description": "Cabinet de conseil indépendant spécialisé dans les procédés de blanchisserie, basé dans l'Essonne, qui intervient en France et en Europe. Il réalise des diagnostics des process (traitement d'eau, lavage et séchage, vapeur) avec bilans eau, vapeur et énergie et plan d'actions chiffré, et assure l'assistance à maîtrise d'ouvrage des projets de blanchisserie (faisabilité, rédaction du CCTP, analyse des offres, suivi de chantier). Son intervention se limite à la blanchisserie : le site ne mentionne ni la stérilisation ni le recyclage des eaux de rinçage, et la mission menée pour la blanchisserie hospitalière du CHU de Nantes a un résultat publié qui porte sur le gaz, pas sur l'eau. Il propose aussi des formations sur mesure aux process et équipements, dispensées par l'organisme ITENOR. Prise de contact directe pour échanger sur les besoins ou planifier un diagnostic.",
+  "expertises": [
+    "Bilans eau, vapeur et énergie",
+    "Diagnostic process de blanchisserie",
+    "AMO projets de blanchisserie",
+    "Gestion de l'eau et de l'énergie"
+  ],
+  "categories": [
+    "ameliorer_efficacite_hydrique",
+    "suivre_comprendre_maitriser"
+  ],
+  "secteurs": [
+    "hopitaux"
+  ],
+  "departements": [],
+  "mesures": [
+    {
+      "id": "ACT_HOP_005",
+      "roles": [
+        "conseil_etude"
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "type": "site_internet",
+      "value": "https://www.enveneo.fr/"
+    },
+    {
+      "type": "tel",
+      "value": "06 86 26 59 18"
+    },
+    {
+      "type": "mail",
+      "value": "jpasquet@enveneo.fr"
+    },
+    {
+      "type": "adresse",
+      "value": "17 square du Tertre, 91070 Bondoufle"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=EnveneO%20Conseil",
+      "date": "2026-10-15",
+      "extrait": "ENVENEO CONSEIL, siret 91047429500011, siège, 17 SQUARE DU TERTRE 91070 BONDOUFLE, activité 71.12B, état administratif A"
+    },
+    {
+      "champ": "contacts, departements, description",
+      "url": "https://www.enveneo.fr/contact/",
+      "date": "2026-10-15",
+      "extrait": "Adresse 17 square du Tertre, 91 070 BONDOUFLE. Téléphone 06 86 26 59 18. Email jpasquet@enveneo.fr. Zone d'intervention France et Europe. Contactez-nous pour échanger sur vos besoins ou planifier un diagnostic."
+    },
+    {
+      "champ": "description",
+      "url": "https://www.enveneo.fr/",
+      "date": "2026-10-15",
+      "extrait": "expert reconnu du process de blanchisserie et de la gestion de l'eau et de l'énergie depuis plus de 25 ans. [...] Le CHU de Nantes a engagé une démarche ambitieuse de réduction de ses consommations en gaz fossile sur sa blanchisserie hospitalière"
+    },
+    {
+      "champ": "description, expertises, mesures (conseil_etude)",
+      "url": "https://www.enveneo.fr/diagnostic/",
+      "date": "2026-10-15",
+      "extrait": "EnveneO Conseil réalise des diagnostics complets des performances de vos process (traitement d'eau, traitement des rejets, process lavage et séchage, production de vapeur,...) [...] Bilans eau / vapeur / énergie [...] séchoirs, calandres, tunnels, chaufferie, échangeurs, production d'eau de process."
+    },
+    {
+      "champ": "description, expertises, mesures (conseil_etude)",
+      "url": "https://www.enveneo.fr/assistance-a-maitrise-douvrage/",
+      "date": "2026-10-15",
+      "extrait": "EnveneO Conseil intervient en AMO spécialisé, garantissant la cohérence technique et énergétique du projet à chaque étape. [...] Rédaction du CCTP"
+    },
+    {
+      "champ": "expertises, description",
+      "url": "https://www.enveneo.fr/formation/",
+      "date": "2026-10-15",
+      "extrait": "EnveneO Conseil propose des formations sur mesure, centrées sur vos équipements et votre réalité d'exploitation. [...] Gestion de l'eau et de l'énergie. Les formations sont dispensées via la société ITENOR organisme de formation certifié QUALIOPI."
+    },
+    {
+      "champ": "logo_url",
+      "url": "https://www.enveneo.fr/wp-content/uploads/2025/10/cropped-favicon-180x180.png",
+      "date": "2026-10-15",
+      "extrait": "apple-touch-icon du site enveneo.fr, symbole goutte 180 x 180"
+    }
+  ],
+  "date_maj": "2026-10-15"
+}

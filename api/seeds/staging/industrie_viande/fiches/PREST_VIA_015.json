@@ -1,0 +1,98 @@
+{
+  "id": "PREST_VIA_015",
+  "nom": "Essor Ingénierie (groupe Essor)",
+  "type": "bureau_etudes",
+  "logo_url": null,
+  "siret": "43806811600054",
+  "description": "Société d'ingénierie du groupe Essor, dont le siège est à Lons (64), maître d'oeuvre d'une unité de mareyage à Rezé (44) livrée en 2018. Le site du groupe présente un bureau d'études environnementales, le pôle Transitions, sans nommer la société qui le porte : ce pôle identifie les rubriques et le régime ICPE, rédige le dossier réglementaire avec les études d'impact et les études techniques (bruit, air, eau, déchets, biodiversité), monte la demande d'autorisation environnementale unique, puis assure le suivi avec la DREAL et la préfecture et l'assistance lors des inspections. Le dossier d'autorisation environnementale de l'abattoir public du Faou (29), daté du 6 juillet 2020, porte l'en-tête essor.group et indique que la collectivité a été accompagnée dans sa rédaction par le bureau d'études ESSOR ACE ; il estime les consommations d'eau par poste du process, tandis qu'un autre bureau d'études a été missionné sur la station de prétraitement. Le bureau d'études indique intervenir sur tout le territoire ; le contact passe par le siège du groupe.",
+  "expertises": [
+    "Dossier d'autorisation ICPE",
+    "Étude d'impact environnementale",
+    "Dossier loi sur l'eau",
+    "Assistance aux inspections ICPE"
+  ],
+  "categories": [],
+  "secteurs": [
+    "industrie_viande"
+  ],
+  "departements": [],
+  "mesures": [],
+  "contacts": [
+    {
+      "type": "site_internet",
+      "value": "https://www.essor.group"
+    },
+    {
+      "type": "tel",
+      "value": "05 59 123 123"
+    },
+    {
+      "type": "adresse",
+      "value": "2 Rue Pierre-Gilles de Gennes, 64140 Lons"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Essor%20Ingenierie&departement=64",
+      "date": "2026-09-24",
+      "extrait": "ESSOR INGENIERIE, siren 438068116, siret 43806811600054, siège, 2 RUE PIERRE GILLES DE GENNES 64140 LONS, activité 71.12B, état administratif A, 11 établissements ouverts"
+    },
+    {
+      "champ": "nom (rattachement au groupe Essor)",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=438068116",
+      "date": "2026-09-24",
+      "extrait": "ESSOR INGENIERIE, dirigeants : ESSOR (siren 434585774), Président de SAS"
+    },
+    {
+      "champ": "nom (rattachement au groupe Essor)",
+      "url": "https://www.essor.group/mentions-legales/",
+      "date": "2026-09-24",
+      "extrait": "Le Groupe Essor au capital de 210 526,40 € dont le siège est situé : 2 Rue Pierre-Gilles de Gennes 64140 LONS Inscription au registre du commerce de Pau au numéro de SIRET 434 585 774."
+    },
+    {
+      "champ": "contacts",
+      "url": "https://www.essor.group/contact-et-implantations/",
+      "date": "2026-09-24",
+      "extrait": "Nous joindre : Siège ESSOR : 05 59 123 123 [...] 2 Rue Pierre-Gilles de Gennes 64140 LONS"
+    },
+    {
+      "champ": "description, expertises, type",
+      "url": "https://www.essor.group/ingenierie-conseil/transitions/icpe-2/",
+      "date": "2026-09-24",
+      "extrait": "1/ Analyse et identification réglementaire : détermination des rubriques de la nomenclature ICPE applicables à votre activité, évaluation des seuils de classement et du régime à appliquer (déclaration, enregistrement, autorisation) [...] 2/ Constitution du dossier ICPE : rédaction complète du dossier réglementaire, réalisation des études d’impact et études techniques (bruit, air, eau, déchets, biodiversité), montage du dossier de demande d’autorisation environnementale unique, suivi des consultations et enquêtes publiques ; 3/ Suivi et relation avec l’administration : coordination avec la DREAL, la préfecture et les collectivités, réponse aux demandes de compléments, accompagnement lors des inspections et contrôles"
+    },
+    {
+      "champ": "departements, expertises",
+      "url": "https://www.essor.group/ingenierie-conseil/transitions/icpe-2/",
+      "date": "2026-09-24",
+      "extrait": "Notre bureau d’études environnementales intervient sur tout le territoire pour accompagner les maîtres d’ouvrage, exploitants industriels et collectivités. Nos prestations couvrent : Études et établissement de dossiers administratifs (loi sur l’eau, étude d’impact, études environnementales, …) Analyse des risques Le suivi réglementaire et la veille juridique, L’assistance lors des inspections administratives, Assistance en phase exploitation."
+    },
+    {
+      "champ": "type, description (société d'ingénierie)",
+      "url": "https://www.essor.group/ingenierie-conseil/ingenierie-batiment-et-process/",
+      "date": "2026-09-24",
+      "extrait": "en qualité de Maitre d’œuvre ou ingénierie, bureau d’études (BE) ou bureau d’études techniques (BET) [...] Nous avons de nombreuses références dans l’industrie agroalimentaire"
+    },
+    {
+      "champ": "description (référence secteur, abattoir du Faou)",
+      "url": "https://www.finistere.gouv.fr/content/download/40602/293816/file/3.%20AICPE%20-%20Le%20Faou%20-%202020.07.06.pdf",
+      "date": "2026-09-24",
+      "extrait": "p. 1 : DOSSIER DE DEMANDE D’AUTORISATION ENVIRONNEMENTALE UNIQUE [...] Le Faou(29) Construction d’un abattoir public 1 Rue Jacques Brel - BP 30382 44819 SAINT HERBLAIN Cedex [...] Saint-Herblain, le 6 juillet 2020 www.essor.group. p. 24 : Il a été accompagné par le bureau d’études ESSOR ACE dans la rédaction de ce dossier, bureau d’études en environnement de 12 ans d’expérience : ESSOR ACE 1 rue Jacques Brel - 44819 SAINT HERBLAIN"
+    },
+    {
+      "champ": "description (eau dans le dossier du Faou)",
+      "url": "https://www.finistere.gouv.fr/content/download/40602/293816/file/3.%20AICPE%20-%20Le%20Faou%20-%202020.07.06.pdf",
+      "date": "2026-09-24",
+      "extrait": "p. 159 : Selon nos ratios d’estimations, les consommations seront les suivantes : [...] Tableau 25 - Estimation des consommations d'eau par poste du process. p. 124 : Un bureau d’études spécifique a été missionné afin de s’assurer de l’abattement de la pollution par la station de prétraitement."
+    },
+    {
+      "champ": "description (référence secteur, mareyage)",
+      "url": "https://www.essor.group/reference/jean-lebeaupin-mareyeur/",
+      "date": "2026-09-24",
+      "extrait": "LEBEAUPIN Rezé (44) Construction d’une nouvelle unité de mareyage Maître d'ouvrage : JEAN LEBEAUPIN Maître d'oeuvre : Essor Ingénierie [...] Livraison : 2018"
+    }
+  ],
+  "date_maj": "2026-09-24"
+}

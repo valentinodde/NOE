@@ -1,0 +1,419 @@
+[
+  {
+    "id": "ACT_LAI_001",
+    "titre": "Former les équipes au nettoyage économe en eau",
+    "titre_court": "Nettoyage économe",
+    "description": "Écrire les consignes de nettoyage poste par poste, équiper les lances de pistolets à gâchette et généraliser le prénettoyage à sec avant tout passage à l'eau. Vous agissez sur le premier poste de consommation du site, et vous réduisez du même coup la charge organique envoyée à la station.",
+    "categorie": "sensibiliser_former",
+    "secteurs": [
+      "industrie_laitiere"
+    ],
+    "effort": {
+      "capex": "faible",
+      "opex": "faible",
+      "humain": "moyen"
+    },
+    "impact_eau": 2,
+    "facilite": 3,
+    "horizon": "immediat",
+    "image": null,
+    "infos_complementaires": [
+      {
+        "type": "info",
+        "texte": "Le nettoyage et la désinfection représentent environ 43 % de l'eau utilisée en industrie alimentaire, et jusqu'à 80 à 85 % selon les productions."
+      },
+      {
+        "type": "avertissement",
+        "texte": "Dès le niveau de vigilance sécheresse, l'arrêté du 30 juin 2023 exige une sensibilisation du personnel selon une procédure écrite affichée sur le site. Formaliser les consignes n'est donc pas seulement une bonne pratique.",
+        "lien": "https://aida.ineris.fr/reglementation/arrete-300623-relatif-mesures-restriction-periode-secheresse-portant-prelevement",
+        "lien_label": "Arrêté du 30 juin 2023, AIDA"
+      },
+      {
+        "type": "ressource",
+        "texte": "Réduire les tensions sur l'eau dans l'agroalimentaire",
+        "lien": "https://ariaaura.fr/des-solutions-pour-reduire-les-tensions-sur-leau-dans-lagroalimentaire/",
+        "lien_label": "ARIA Auvergne-Rhône-Alpes"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "description",
+        "url": "https://ariaaura.fr/des-solutions-pour-reduire-les-tensions-sur-leau-dans-lagroalimentaire/",
+        "extrait": "Les opérations de nettoyage et de désinfection représentent environ 43 % de l'eau utilisée en industries alimentaires, contre 33 % pour le process."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://aida.ineris.fr/reglementation/arrete-300623-relatif-mesures-restriction-periode-secheresse-portant-prelevement",
+        "date": "2023-06-30",
+        "extrait": "Au niveau de vigilance, sensibilisation du personnel selon une procédure écrite affichée sur site."
+      }
+    ],
+    "date_maj": "2026-09-22"
+  },
+  {
+    "id": "ACT_LAI_002",
+    "titre": "Suivre le ratio d'eau par litre de lait traité",
+    "titre_court": "Ratio eau sur lait",
+    "description": "Rapporter chaque mois les volumes d'eau consommés aux litres de lait travaillés, atelier par atelier et cycle de nettoyage par cycle de nettoyage. Vous distinguez alors une dérive de pratique d'un simple changement de mix produit, et vous disposez de la preuve chiffrée qu'attend l'inspection en période de restriction.",
+    "categorie": "suivre_comprendre_maitriser",
+    "secteurs": [
+      "industrie_laitiere"
+    ],
+    "effort": {
+      "capex": "faible",
+      "opex": "faible",
+      "humain": "moyen"
+    },
+    "impact_eau": 2,
+    "facilite": 3,
+    "horizon": "immediat",
+    "image": null,
+    "infos_complementaires": [
+      {
+        "type": "info",
+        "texte": "Repère de filière : environ 1 litre d'eau par litre de lait en fromagerie de comté, 1,4 litre en ajoutant du morbier, 1,7 litre en ajoutant du bleu de Gex ou du mont d'or. Le ratio dit autant le mix produit que la pratique."
+      },
+      {
+        "type": "avertissement",
+        "texte": "Sans historique de relevés, impossible de démontrer la réduction d'au moins 20 % du prélèvement depuis le 1er janvier 2018 qui exclut un établissement des restrictions sécheresse.",
+        "lien": "https://aida.ineris.fr/reglementation/arrete-300623-relatif-mesures-restriction-periode-secheresse-portant-prelevement",
+        "lien_label": "Arrêté du 30 juin 2023, article 3"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.comte.com/articles/les-economies-deau-dans-la-filiere-comte/",
+        "extrait": "1 litre d'eau par litre de lait pour le seul comté, 1,4 avec le morbier, 1,7 avec le bleu de Gex ou le mont d'or."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://aida.ineris.fr/reglementation/arrete-300623-relatif-mesures-restriction-periode-secheresse-portant-prelevement",
+        "date": "2023-06-30",
+        "extrait": "Exploitants des établissements ayant réduit leur prélèvement d'eau d'au moins 20 % depuis le 1er janvier 2018."
+      }
+    ],
+    "date_maj": "2026-09-22"
+  },
+  {
+    "id": "ACT_LAI_003",
+    "titre": "Optimiser les cycles de nettoyage en place (NEP)",
+    "titre_court": "Optimisation de la NEP",
+    "description": "Piloter la fin de rinçage par conductimétrie plutôt qu'à la durée, pousser le produit à l'air ou au racleur avant de rincer, et récupérer le dernier rinçage pour servir de prérinçage au cycle suivant. Vous réduisez le premier poste d'eau du site sans rien céder sur le résultat sanitaire.",
+    "categorie": "ameliorer_efficacite_hydrique",
+    "secteurs": [
+      "industrie_laitiere"
+    ],
+    "effort": {
+      "capex": "moyen",
+      "opex": "faible",
+      "humain": "moyen"
+    },
+    "impact_eau": 3,
+    "facilite": 2,
+    "horizon": "court_terme",
+    "image": null,
+    "infos_complementaires": [
+      {
+        "type": "info",
+        "texte": "La récupération du dernier rinçage dans une bâche tampon est le geste le moins coûteux de la liste : cette eau est déjà propre, elle ne demande aucun traitement pour redevenir un prérinçage."
+      },
+      {
+        "type": "avertissement",
+        "texte": "Toute modification d'un cycle de nettoyage relève du plan de maîtrise sanitaire : la validation du nettoyage doit être refaite et documentée avant de passer en routine."
+      },
+      {
+        "type": "retour_experience",
+        "texte": "Une machine de lavage de bacs passée en circuit quasi fermé atteint 90 % d'économie sur ce poste.",
+        "lien": "https://www.lesagencesdeleau.fr/ressources/comment-une-grande-usine-agro-alimentaire-peut-elle-economiser-leau",
+        "lien_label": "Les agences de l'eau"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "description",
+        "url": "https://ariaaura.fr/des-solutions-pour-reduire-les-tensions-sur-leau-dans-lagroalimentaire/",
+        "extrait": "Le nettoyage est le premier poste de consommation d'eau des industries alimentaires."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.lesagencesdeleau.fr/ressources/comment-une-grande-usine-agro-alimentaire-peut-elle-economiser-leau",
+        "extrait": "Machine de lavage de bacs en circuit quasi fermé : 90 % d'économie sur le poste."
+      }
+    ],
+    "date_maj": "2026-09-22"
+  },
+  {
+    "id": "ACT_LAI_004",
+    "titre": "Fermer les circuits de refroidissement et supprimer les tours ouvertes",
+    "titre_court": "Circuits de froid fermés",
+    "description": "Remplacer le refroidissement en eau perdue par des boucles fermées avec échangeur, et les tours aéroréfrigérantes par des condenseurs secs ou adiabatiques. Vous supprimez un poste entier de consommation et, avec les tours, l'obligation de surveillance des légionelles qui va avec.",
+    "categorie": "ameliorer_efficacite_hydrique",
+    "secteurs": [
+      "industrie_laitiere"
+    ],
+    "effort": {
+      "capex": "important",
+      "opex": "faible",
+      "humain": "moyen"
+    },
+    "impact_eau": 3,
+    "facilite": 1,
+    "horizon": "moyen_terme",
+    "image": null,
+    "infos_complementaires": [
+      {
+        "type": "info",
+        "texte": "Une tour aéroréfrigérante relève de la rubrique ICPE 2921 et impose de maintenir les légionelles pneumophila sous 1 000 unités formant colonie par litre, avec analyses périodiques et plan d'entretien. La supprimer fait disparaître cette obligation.",
+        "lien": "https://aida.ineris.fr/inspection-icpe/air/prevention-legionnellose/tours-aerorefrigerantes",
+        "lien_label": "Tours aéroréfrigérantes, AIDA"
+      },
+      {
+        "type": "retour_experience",
+        "texte": "Une usine agroalimentaire ayant mené ce type de programme consomme 25 % d'eau en moins qu'il y a six ans et vise 30 %.",
+        "lien": "https://www.lesagencesdeleau.fr/ressources/comment-une-grande-usine-agro-alimentaire-peut-elle-economiser-leau",
+        "lien_label": "Les agences de l'eau"
+      },
+      {
+        "type": "avertissement",
+        "texte": "Un condenseur sec perd en efficacité quand la température extérieure monte, c'est-à-dire au moment précis où la ressource est tendue. Le dimensionnement se fait sur les pics d'été, pas sur la moyenne annuelle."
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "infos_complementaires",
+        "url": "https://aida.ineris.fr/inspection-icpe/air/prevention-legionnellose/tours-aerorefrigerantes",
+        "extrait": "Concentration en légionelles pneumophila maintenue sous 1 000 UFC/L, analyses périodiques, plan d'entretien."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.lesagencesdeleau.fr/ressources/comment-une-grande-usine-agro-alimentaire-peut-elle-economiser-leau",
+        "extrait": "25 % d'eau en moins qu'il y a six ans, objectif 30 %, suppression des tours aéroréfrigérantes."
+      }
+    ],
+    "date_maj": "2026-09-22"
+  },
+  {
+    "id": "ACT_LAI_005",
+    "titre": "Concentrer le lactosérum sur site pour en récupérer l'eau",
+    "titre_court": "Concentration du lactosérum",
+    "description": "Installer une osmose inverse ou un évaporateur pour séparer le lactosérum en un concentré valorisable et une eau récupérable. Vous récupérez de l'ordre des trois quarts de l'eau contenue dans le lactosérum, et vous divisez d'autant les camions de petit-lait à transporter.",
+    "categorie": "changer_process_pratiques",
+    "secteurs": [
+      "industrie_laitiere"
+    ],
+    "effort": {
+      "capex": "important",
+      "opex": "moyen",
+      "humain": "moyen"
+    },
+    "impact_eau": 3,
+    "facilite": 1,
+    "horizon": "moyen_terme",
+    "image": null,
+    "infos_complementaires": [
+      {
+        "type": "info",
+        "texte": "Ordres de grandeur : l'osmose inverse appliquée au lactosérum récupère environ 75 % de l'eau, jusqu'à 95 % dans les meilleurs cas. En évapo-concentration, dix tonnes de lait écrémé concentrées à 50 % de matière sèche libèrent 8 200 kilogrammes d'eau.",
+        "lien": "http://www.actalia.eu/wp-content/uploads/2018/10/AQUAREL_2018_R%C3%A9utilisation-des-eaux-issues-du-lait_document-g%C3%A9n%C3%A9ral.pdf",
+        "lien_label": "ACTALIA, projet AQUAREL"
+      },
+      {
+        "type": "retour_experience",
+        "texte": "Dans la filière Comté, quatre litres de lactosérum donnent trois litres d'eau et un litre de concentré. Une fromagerie équipée est descendue à environ 0,9 litre d'eau de réseau par litre de lait, tout en divisant par deux à quatre le transport de petit-lait.",
+        "lien": "https://www.comte.com/articles/les-economies-deau-dans-la-filiere-comte/",
+        "lien_label": "CIGC, interprofession du Comté"
+      },
+      {
+        "type": "avertissement",
+        "texte": "La récupération s'arrête à la concentration. L'eau qui part en phase gaz lors du séchage, de 50 à 96 % de matière sèche, n'est pas récupérée aujourd'hui, faute de rentabilité technique."
+      },
+      {
+        "type": "avertissement",
+        "texte": "L'eau séparée du lactosérum n'est pas réutilisable d'office : sa réutilisation relève de la déclaration au préfet et doit entrer dans le plan de maîtrise sanitaire. Portez les deux volets dans le même projet, sans quoi il ne reste que l'économie de transport."
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "description",
+        "url": "https://www.comte.com/articles/les-economies-deau-dans-la-filiere-comte/",
+        "extrait": "Quatre litres de lactosérum donnent trois litres d'eau et un litre de concentré ; environ 0,9 litre d'eau de réseau par litre de lait."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "http://www.actalia.eu/wp-content/uploads/2018/10/AQUAREL_2018_R%C3%A9utilisation-des-eaux-issues-du-lait_document-g%C3%A9n%C3%A9ral.pdf",
+        "extrait": "Récupération d'eau de l'ordre de 75 %, pouvant atteindre 95 % ; évapo-concentration de dix tonnes de lait écrémé produisant 8 200 kg d'eau, soit 90,1 %."
+      }
+    ],
+    "date_maj": "2026-09-22"
+  },
+  {
+    "id": "ACT_LAI_006",
+    "titre": "Déclarer et valoriser les eaux issues du lait sur le site",
+    "titre_court": "Eaux issues du lait",
+    "description": "Réutiliser les condensats d'évaporation et les perméats d'osmose inverse pour le lavage des camions, l'alimentation des chaudières ou le prérinçage des lignes, après déclaration au préfet. Vous substituez à l'eau de réseau une ressource déjà contenue dans le lait, sur des volumes qui se comptent en dizaines de milliers de mètres cubes.",
+    "categorie": "valoriser_reut_eaux_non_conventionnelles",
+    "secteurs": [
+      "industrie_laitiere"
+    ],
+    "effort": {
+      "capex": "important",
+      "opex": "moyen",
+      "humain": "important"
+    },
+    "impact_eau": 3,
+    "facilite": 2,
+    "horizon": "moyen_terme",
+    "image": null,
+    "infos_complementaires": [
+      {
+        "type": "avertissement",
+        "texte": "Depuis le décret n° 2024-33, les eaux recyclées issues de la matière première et les eaux de processus relèvent d'une déclaration au préfet, mais les eaux usées traitées exigent une autorisation préfectorale. Dans tous les cas, la réutilisation entre dans le plan de maîtrise sanitaire et les vérifications passent par un laboratoire accrédité.",
+        "lien": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000049908820",
+        "lien_label": "Arrêté du 8 juillet 2024"
+      },
+      {
+        "type": "info",
+        "texte": "La qualité de ces eaux varie d'un facteur mille selon leur origine, d'une DCO de 2 mgO2/L pour un condensat de lait à 10 000 pour un perméat de lactosérum acide. Aucun choix de traitement ne se fait sans analyse préalable."
+      },
+      {
+        "type": "info",
+        "texte": "Ordre de grandeur du gisement : un site multi-activités avec une activité poudres produit en moyenne 269 000 m3 par an d'eaux issues du lait, dans une fourchette de 29 000 à 710 000.",
+        "lien": "http://www.actalia.eu/wp-content/uploads/2018/10/AQUAREL_2018_R%C3%A9utilisation-des-eaux-issues-du-lait_document-g%C3%A9n%C3%A9ral.pdf",
+        "lien_label": "ACTALIA, projet AQUAREL"
+      },
+      {
+        "type": "retour_experience",
+        "texte": "Enquête menée en 2018 auprès d'une trentaine de sites français valorisant leurs eaux issues du lait : 68 % les emploient au lavage standard, 58 % en alimentation de chaudières, 26 % dans les tours aéroréfrigérantes, 19 % au lavage extérieur des camions. Constat antérieur aux décrets de 2024, qui ne vaut pas autorisation.",
+        "lien": "http://www.actalia.eu/wp-content/uploads/2018/10/AQUAREL_2018_R%C3%A9utilisation-des-eaux-issues-du-lait_document-g%C3%A9n%C3%A9ral.pdf",
+        "lien_label": "ACTALIA, projet AQUAREL"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "description",
+        "url": "https://fnil.fr/actions/filiere-laitiere/eau-du-lait",
+        "extrait": "Gisement national d'eaux de concentration de la matière laitière estimé à 16 millions de m3 par an, dont 11 encore disponibles."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000049010414",
+        "date": "2024-01-24",
+        "extrait": "Décret n° 2024-33 : eaux recyclées issues des matières premières et eaux de processus sous déclaration, eaux usées traitées sous autorisation préfectorale."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000049908820",
+        "date": "2024-07-08",
+        "extrait": "Intégration au plan de maîtrise sanitaire, programme de surveillance, vérifications par un laboratoire accrédité COFRAC."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "http://www.actalia.eu/wp-content/uploads/2018/10/AQUAREL_2018_R%C3%A9utilisation-des-eaux-issues-du-lait_document-g%C3%A9n%C3%A9ral.pdf",
+        "extrait": "Volumes par site, composition des eaux issues du lait, usages constatés sur une trentaine de sites."
+      }
+    ],
+    "date_maj": "2026-09-22"
+  },
+  {
+    "id": "ACT_LAI_007",
+    "titre": "Sortir le lactosérum et les pertes de lait des effluents",
+    "titre_court": "Lactosérum hors effluents",
+    "description": "Collecter séparément le lactosérum et les égouttures pour les valoriser en alimentation animale, en ingrédient ou en méthanisation, et traquer les pertes de produit sur les lignes et les nettoyages. Le lactosérum portant l'essentiel de la charge polluante, vous allégez d'un coup le traitement et la redevance.",
+    "categorie": "agir_rejets_qualite",
+    "secteurs": [
+      "industrie_laitiere"
+    ],
+    "effort": {
+      "capex": "moyen",
+      "opex": "faible",
+      "humain": "moyen"
+    },
+    "impact_eau": 2,
+    "facilite": 2,
+    "horizon": "court_terme",
+    "image": null,
+    "infos_complementaires": [
+      {
+        "type": "info",
+        "texte": "En fromagerie fermière, le lactosérum concentre à lui seul de l'ordre de 70 % de la charge polluante des effluents.",
+        "lien": "https://idele.fr/detail-dossier/dossier-effluents-de-fromagerie-fermiere",
+        "lien_label": "Institut de l'Élevage"
+      },
+      {
+        "type": "info",
+        "texte": "L'assiette de la redevance pour pollution d'origine non domestique est diminuée de la pollution éliminée. Toute matière organique détournée du réseau d'effluents se lit donc deux fois : moins de charge à traiter, moins de redevance."
+      },
+      {
+        "type": "avertissement",
+        "texte": "La valorisation en alimentation animale et la méthanisation ont leurs propres règles de traçabilité et de transport. Un lactosérum collecté séparément est un coproduit à gérer, pas un déchet dont on se débarrasse."
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "description",
+        "url": "https://idele.fr/detail-dossier/dossier-effluents-de-fromagerie-fermiere",
+        "date": "2013-01-01",
+        "extrait": "Le lactosérum concentre environ 70 % de la charge polluante des effluents de fromagerie fermière."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074220/LEGISCTA000006195228/",
+        "extrait": "Code de l'environnement, articles L213-10-1 à L213-10-3, redevances pour pollution de l'eau."
+      }
+    ],
+    "date_maj": "2026-09-22"
+  },
+  {
+    "id": "ACT_LAI_008",
+    "titre": "Traiter les effluents lactés par une filière adaptée à l'atelier",
+    "titre_court": "Traitement des effluents",
+    "description": "Dimensionner le traitement selon la taille réelle : bassin tampon, dégraissage et traitement biologique avec autosurveillance sur un site industriel, filtre planté ou lit d'infiltration pour un atelier fermier. Vous évitez le double écueil du rejet non conforme et de l'installation surdimensionnée que personne ne fait tourner.",
+    "categorie": "agir_rejets_qualite",
+    "secteurs": [
+      "industrie_laitiere"
+    ],
+    "effort": {
+      "capex": "important",
+      "opex": "moyen",
+      "humain": "moyen"
+    },
+    "impact_eau": 2,
+    "facilite": 1,
+    "horizon": "moyen_terme",
+    "image": null,
+    "infos_complementaires": [
+      {
+        "type": "info",
+        "texte": "En fromagerie fermière, un litre de lait transformé génère de l'ordre de 4 à 5 litres d'effluents. Le bassin tampon est souvent le premier maillon manquant, car les nettoyages arrivent par à-coups.",
+        "lien": "https://idele.fr/detail-dossier/dossier-effluents-de-fromagerie-fermiere",
+        "lien_label": "Institut de l'Élevage"
+      },
+      {
+        "type": "avertissement",
+        "texte": "Les solutions industrielles ne se transposent pas à l'échelle d'un atelier fermier ou artisanal. Un traitement surdimensionné et mal exploité ne protège pas mieux le milieu qu'une absence de traitement."
+      },
+      {
+        "type": "avertissement",
+        "texte": "Un site raccordé au réseau collectif est tenu par une autorisation de déversement et une convention de rejet qui plafonnent débit et charge. Une hausse de production sans avenant met le site en infraction."
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "description",
+        "url": "https://idele.fr/detail-dossier/dossier-effluents-de-fromagerie-fermiere",
+        "date": "2013-01-01",
+        "extrait": "Un litre de lait transformé génère 4 à 5 litres d'effluents ; les filières industrielles ne sont pas transposables aux ateliers fermiers."
+      }
+    ],
+    "date_maj": "2026-09-22"
+  }
+]

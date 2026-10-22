@@ -1,0 +1,172 @@
+[
+  {
+    "id": "fromagerie_novice",
+    "nom": "Fromagerie artisanale, rien de formalisé",
+    "description": "Fromagerie de sept salariés, eau du réseau uniquement, environ 3 000 m³ par an. Lavage manuel au jet sans raclage préalable, refroidissement à l'eau perdue, lactosérum qui part avec les effluents, raccordement au réseau communal sans convention à jour. Aucun audit, aucun suivi, le sujet des restrictions n'a jamais été regardé.",
+    "answers": {
+      "lait_q01": "aucun_compteur",
+      "lait_q02": [
+        "aep"
+      ],
+      "lait_q03": "3000",
+      "lait_q04": "jamais",
+      "lait_q05": "manuel_seul",
+      "lait_q06": "jamais",
+      "lait_q07": "eau_perdue",
+      "lait_q08": "reseau_effluents",
+      "lait_q09": "non_equipe",
+      "lait_q10": "raccorde_sans_convention",
+      "lait_q11": "non_analyse",
+      "lait_q12": "non"
+    }
+  },
+  {
+    "id": "laiterie_equipee",
+    "nom": "Laiterie équipée, en réflexion sur la suite",
+    "description": "PME laitière de 45 salariés, 45 000 m³ par an, réseau public doublé d'un forage. Nettoyage en place piloté par sondes, prénettoyage à sec sur une partie des postes seulement, tour aéroréfrigérante, lactosérum collecté et valorisé en alimentation animale. Convention de rejet à jour, audit de plus de cinq ans, informée des restrictions sans analyse formelle.",
+    "answers": {
+      "lait_q01": "par_atelier",
+      "lait_q02": [
+        "aep",
+        "forage"
+      ],
+      "lait_q03": "45000",
+      "lait_q04": "ancien",
+      "lait_q05": "nep_pilotee",
+      "lait_q06": "parfois",
+      "lait_q07": "tour_aero",
+      "lait_q08": "valorise_brut",
+      "lait_q09": "non_equipe",
+      "lait_q10": "raccorde_convention",
+      "lait_q11": "informe",
+      "lait_q12": "informe"
+    }
+  },
+  {
+    "id": "glacier_artisan",
+    "nom": "Glacier artisan, sans lactosérum ni froid à eau",
+    "description": "Fabricant de glaces et sorbets, quatre salariés, 1 200 m³ par an, activité concentrée d'avril à septembre. Pas de lactosérum ni de babeurre, aucun évaporateur, froid produit par des groupes à air sans consommation d'eau. Lavage manuel, prénettoyage à sec sur certains postes, raccordement avec convention à jour. Jamais d'audit, restrictions non regardées.",
+    "answers": {
+      "lait_q01": "compteur_general",
+      "lait_q02": [
+        "aep"
+      ],
+      "lait_q03": "1200",
+      "lait_q04": "jamais",
+      "lait_q05": "manuel_seul",
+      "lait_q06": "parfois",
+      "lait_q07": "sans_eau",
+      "lait_q08": "sans_objet",
+      "lait_q09": "non_equipe",
+      "lait_q10": "raccorde_convention",
+      "lait_q11": "non_analyse",
+      "lait_q12": "non"
+    }
+  },
+  {
+    "id": "site_avance",
+    "nom": "Site laitier avancé, tout est en place",
+    "description": "Site industriel de 280 000 m³ par an, alimenté par forage, par ses eaux issues du lait et par ses eaux de process recyclées. Nettoyage en place piloté avec récupération du dernier rinçage, prénettoyage à sec généralisé et consigné, circuits de froid fermés, lactosérum concentré sur site, condensats réutilisés et déclarés au préfet, station de traitement avec autosurveillance, plan de gestion écrit et engagements portés dans une démarche de territoire.",
+    "answers": {
+      "lait_q01": "ratio_lait",
+      "lait_q02": [
+        "forage",
+        "eaux_du_lait",
+        "recyclage_process"
+      ],
+      "lait_q03": "280000",
+      "lait_q04": "recent",
+      "lait_q05": "nep_recyclage",
+      "lait_q06": "systematique",
+      "lait_q07": "circuit_ferme",
+      "lait_q08": "concentre_sur_site",
+      "lait_q09": "valorise_declare",
+      "lait_q10": "station_propre",
+      "lait_q11": "plan_formalise",
+      "lait_q12": "pilote"
+    }
+  },
+  {
+    "id": "ne_sait_pas",
+    "nom": "Assistante qui répond pour le gérant",
+    "description": "Personne qui remplit le questionnaire à la place du dirigeant absent. Elle sait qu'il y a un compteur d'eau en entrée de site, relevé de temps en temps, et rien de plus. Elle préfère répondre qu'elle ne sait pas plutôt que d'inventer.",
+    "answers": {
+      "lait_q01": "compteur_general",
+      "lait_q02": "__skip__",
+      "lait_q03": "__skip__",
+      "lait_q04": "__skip__",
+      "lait_q05": "__skip__",
+      "lait_q06": "__skip__",
+      "lait_q07": "__skip__",
+      "lait_q08": "__skip__",
+      "lait_q09": "__skip__",
+      "lait_q10": "__skip__",
+      "lait_q11": "__skip__",
+      "lait_q12": "__skip__"
+    }
+  },
+  {
+    "id": "gros_consommateur_poudres",
+    "nom": "Site de poudres, gros volumes, condensats perdus",
+    "description": "Site multi-activités avec atelier de séchage, 450 000 m³ par an, réseau public et forage. Bien tenu sur le nettoyage et le prénettoyage, mais refroidissement encore sur tour aéroréfrigérante, lactosérum valorisé en l'état sans concentration, et surtout condensats d'évaporation qui partent intégralement aux effluents. Audit récent, exposition aux restrictions évaluée, participation aux réunions de territoire.",
+    "answers": {
+      "lait_q01": "par_atelier",
+      "lait_q02": [
+        "aep",
+        "forage"
+      ],
+      "lait_q03": "450000",
+      "lait_q04": "recent",
+      "lait_q05": "nep_pilotee",
+      "lait_q06": "systematique",
+      "lait_q07": "tour_aero",
+      "lait_q08": "valorise_brut",
+      "lait_q09": "equipe_non_valorise",
+      "lait_q10": "station_propre",
+      "lait_q11": "evalue",
+      "lait_q12": "participe"
+    }
+  },
+  {
+    "id": "icpe_conforme",
+    "nom": "Site classé, conforme mais rien au-delà",
+    "description": "Fromagerie industrielle soumise à enregistrement, 90 000 m³ par an prélevés sur forage. Tout ce que la réglementation impose est fait et bien fait : station de traitement avec autosurveillance, plan de gestion de l'eau écrit, audit récent, circuits de froid fermés. Mais rien n'a été entrepris au-delà de l'obligation, et l'entreprise n'a pas rejoint la démarche collective de son bassin.",
+    "answers": {
+      "lait_q01": "par_atelier",
+      "lait_q02": [
+        "forage"
+      ],
+      "lait_q03": "90000",
+      "lait_q04": "recent",
+      "lait_q05": "nep_pilotee",
+      "lait_q06": "systematique",
+      "lait_q07": "circuit_ferme",
+      "lait_q08": "valorise_brut",
+      "lait_q09": "non_equipe",
+      "lait_q10": "station_propre",
+      "lait_q11": "plan_formalise",
+      "lait_q12": "informe"
+    }
+  },
+  {
+    "id": "reponses_incoherentes",
+    "nom": "Réponses contradictoires",
+    "description": "Profil volontairement incohérent, pour vérifier que le moteur ne produit pas un plan absurde et pour repérer les questions qui se recouvrent. Déclare suivre un ratio rapporté au lait traité mais n'avoir jamais fait d'audit, récupérer le dernier rinçage de nettoyage mais ne jamais pratiquer le prénettoyage à sec, concentrer son lactosérum sur site mais ne posséder ni évaporateur ni osmose inverse, et rejeter sans aucun traitement tout en ayant un plan de gestion écrit.",
+    "answers": {
+      "lait_q01": "ratio_lait",
+      "lait_q02": [
+        "aep"
+      ],
+      "lait_q03": "__skip__",
+      "lait_q04": "jamais",
+      "lait_q05": "nep_recyclage",
+      "lait_q06": "jamais",
+      "lait_q07": "eau_perdue",
+      "lait_q08": "concentre_sur_site",
+      "lait_q09": "non_equipe",
+      "lait_q10": "aucun_traitement",
+      "lait_q11": "plan_formalise",
+      "lait_q12": "non"
+    }
+  }
+]

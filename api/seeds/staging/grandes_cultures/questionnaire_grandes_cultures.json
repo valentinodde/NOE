@@ -1,0 +1,953 @@
+{
+  "sector_id": "grandes_cultures",
+  "sector_label": "Grandes cultures",
+  "naf_codes": [
+    "01.11Z",
+    "01.12Z",
+    "01.14Z",
+    "01.15Z",
+    "01.16Z",
+    "01.19Z"
+  ],
+  "themes": [
+    {
+      "id": "connaissance",
+      "label": "Connaissance & mesure"
+    },
+    {
+      "id": "irrigation",
+      "label": "Irrigation"
+    },
+    {
+      "id": "cultures",
+      "label": "Cultures & sols"
+    },
+    {
+      "id": "gouvernance",
+      "label": "Gouvernance & anticipation"
+    }
+  ],
+  "questions": [
+    {
+      "id": "gcu_q01",
+      "theme": "connaissance",
+      "order": 1,
+      "type": "single_choice",
+      "text": "Irriguez-vous une partie de vos cultures, et comment suivez-vous les volumes ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "sec",
+          "text": "Je n'irrigue pas, toutes mes cultures sont en sec",
+          "maturity_score": 2,
+          "concern_score": 1,
+          "topics": []
+        },
+        {
+          "id": "sans_suivi",
+          "text": "J'irrigue sans relever mon compteur en saison",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "comptage"
+          ]
+        },
+        {
+          "id": "releve_fin_campagne",
+          "text": "J'irrigue et je relève le compteur en fin de campagne",
+          "maturity_score": 1,
+          "concern_score": 1,
+          "topics": [
+            "comptage"
+          ]
+        },
+        {
+          "id": "suivi_ilot",
+          "text": "J'irrigue et je suis mes volumes par îlot pendant la saison",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "gcu_q02",
+      "theme": "connaissance",
+      "order": 2,
+      "type": "multi_choice",
+      "class": "source_eau",
+      "text": "D'où vient l'eau que vous utilisez pour irriguer ? (plusieurs réponses possibles)",
+      "condition": {
+        "questionId": "gcu_q01",
+        "operator": "in",
+        "value": [
+          "sans_suivi",
+          "releve_fin_campagne",
+          "suivi_ilot"
+        ]
+      },
+      "options": [
+        {
+          "id": "forage",
+          "text": "Un forage ou un puits",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": []
+        },
+        {
+          "id": "riviere",
+          "text": "Un pompage en rivière ou en canal",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": []
+        },
+        {
+          "id": "reseau_collectif",
+          "text": "Un réseau collectif (association d'irrigants, société d'aménagement)",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": []
+        },
+        {
+          "id": "retenue",
+          "text": "Une retenue remplie en hiver",
+          "maturity_score": 1,
+          "concern_score": 1,
+          "topics": []
+        },
+        {
+          "id": "eaux_usees_traitees",
+          "text": "Des eaux usées traitées",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "gcu_q03",
+      "theme": "connaissance",
+      "order": 3,
+      "type": "multi_choice",
+      "class": "culture_irriguee",
+      "text": "Quelles cultures irriguez-vous ? (plusieurs réponses possibles)",
+      "condition": {
+        "questionId": "gcu_q01",
+        "operator": "in",
+        "value": [
+          "sans_suivi",
+          "releve_fin_campagne",
+          "suivi_ilot"
+        ]
+      },
+      "options": [
+        {
+          "id": "mais",
+          "text": "Maïs grain ou maïs fourrage",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": []
+        },
+        {
+          "id": "forte_valeur",
+          "text": "Semences, pommes de terre, tabac ou légumes de plein champ",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": []
+        },
+        {
+          "id": "cereales_paille",
+          "text": "Blé, orge ou autres céréales à paille",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": []
+        },
+        {
+          "id": "peu_exigeantes",
+          "text": "Sorgho ou tournesol",
+          "maturity_score": 1,
+          "concern_score": 1,
+          "topics": []
+        },
+        {
+          "id": "autres",
+          "text": "Autres cultures (soja, fourrages, riz, canne)",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "gcu_q04",
+      "theme": "irrigation",
+      "order": 4,
+      "type": "single_choice",
+      "text": "Comment décidez-vous de déclencher un tour d'eau ?",
+      "condition": {
+        "questionId": "gcu_q01",
+        "operator": "in",
+        "value": [
+          "sans_suivi",
+          "releve_fin_campagne",
+          "suivi_ilot"
+        ]
+      },
+      "options": [
+        {
+          "id": "calendrier",
+          "text": "Au calendrier ou à l'observation de la culture",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "pilotage"
+          ]
+        },
+        {
+          "id": "bulletin",
+          "text": "En suivant le bulletin irrigation de la chambre ou de la coopérative",
+          "maturity_score": 1,
+          "concern_score": 2,
+          "topics": [
+            "pilotage"
+          ]
+        },
+        {
+          "id": "bilan_hydrique",
+          "text": "Avec un bilan hydrique ou un outil d'aide à la décision",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        },
+        {
+          "id": "sondes",
+          "text": "Avec des sondes dans mes parcelles et un bilan hydrique",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "gcu_q05",
+      "theme": "irrigation",
+      "order": 5,
+      "type": "single_choice",
+      "text": "Quel matériel d'irrigation utilisez-vous principalement ?",
+      "condition": {
+        "questionId": "gcu_q01",
+        "operator": "in",
+        "value": [
+          "sans_suivi",
+          "releve_fin_campagne",
+          "suivi_ilot"
+        ]
+      },
+      "options": [
+        {
+          "id": "enrouleur_mecanique",
+          "text": "Enrouleur à régulation mécanique",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "materiel"
+          ]
+        },
+        {
+          "id": "enrouleur_electronique",
+          "text": "Enrouleur à régulation électronique",
+          "maturity_score": 1,
+          "concern_score": 1,
+          "topics": []
+        },
+        {
+          "id": "pivot",
+          "text": "Pivot ou rampe",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        },
+        {
+          "id": "localise",
+          "text": "Goutte-à-goutte sur une partie de la sole",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        },
+        {
+          "id": "submersion",
+          "text": "Submersion des rizières",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "gcu_q06",
+      "theme": "irrigation",
+      "order": 6,
+      "type": "single_choice",
+      "text": "Quand votre matériel d'irrigation a-t-il été contrôlé et réglé pour la dernière fois ?",
+      "condition": {
+        "questionId": "gcu_q01",
+        "operator": "in",
+        "value": [
+          "sans_suivi",
+          "releve_fin_campagne",
+          "suivi_ilot"
+        ]
+      },
+      "options": [
+        {
+          "id": "jamais",
+          "text": "Jamais, ou je ne m'en souviens plus",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "materiel"
+          ]
+        },
+        {
+          "id": "en_panne",
+          "text": "Seulement lors d'une panne",
+          "maturity_score": 1,
+          "concern_score": 1,
+          "topics": [
+            "materiel"
+          ]
+        },
+        {
+          "id": "chaque_saison",
+          "text": "Je le vérifie moi-même avant chaque saison",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        },
+        {
+          "id": "diagnostic",
+          "text": "Un technicien le diagnostique et le règle avant chaque campagne",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "gcu_q07",
+      "theme": "cultures",
+      "order": 7,
+      "type": "single_choice",
+      "text": "Avez-vous adapté votre assolement ou vos variétés aux sécheresses ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "inchange",
+          "text": "Non, assolement et variétés sont restés les mêmes",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "adaptation"
+          ]
+        },
+        {
+          "id": "varietes",
+          "text": "J'ai changé de variétés ou de dates de semis",
+          "maturity_score": 1,
+          "concern_score": 2,
+          "topics": [
+            "adaptation"
+          ]
+        },
+        {
+          "id": "assolement",
+          "text": "J'ai introduit des cultures moins exigeantes en eau",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        },
+        {
+          "id": "les_deux",
+          "text": "Les deux, et j'en suis les résultats d'une année sur l'autre",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "gcu_q08",
+      "theme": "cultures",
+      "order": 8,
+      "type": "single_choice",
+      "text": "Comment gérez-vous vos sols entre deux cultures ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "sol_nu",
+          "text": "Sol nu ou travaillé pendant l'interculture",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "sols"
+          ]
+        },
+        {
+          "id": "couverts_obligatoires",
+          "text": "Des couverts seulement là où ils sont obligatoires",
+          "maturity_score": 0,
+          "concern_score": 1,
+          "topics": [
+            "sols"
+          ]
+        },
+        {
+          "id": "couverts_generalises",
+          "text": "Des couverts sur toute la sole, détruits au bon moment",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        },
+        {
+          "id": "conservation",
+          "text": "Agriculture de conservation, matière organique suivie par analyses",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "gcu_q09",
+      "theme": "cultures",
+      "order": 9,
+      "type": "single_choice",
+      "text": "Où remplissez-vous et lavez-vous votre pulvérisateur ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "sans_amenagement",
+          "text": "Dans la cour ou au champ, sans aménagement",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "qualite"
+          ]
+        },
+        {
+          "id": "aire_sans_traitement",
+          "text": "Sur une aire bétonnée, sans traitement des effluents",
+          "maturity_score": 1,
+          "concern_score": 1,
+          "topics": [
+            "qualite"
+          ]
+        },
+        {
+          "id": "aire_traitement",
+          "text": "Sur une aire équipée d'un traitement des effluents",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        },
+        {
+          "id": "sans_pulverisateur",
+          "text": "Je n'ai pas de pulvérisateur (prestataire, agriculture biologique)",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "gcu_q10",
+      "theme": "cultures",
+      "order": 10,
+      "type": "single_choice",
+      "text": "Vos parcelles sont-elles protégées par des haies ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "aucune",
+          "text": "Peu ou pas de haies, des parcelles ouvertes",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "haies"
+          ]
+        },
+        {
+          "id": "quelques_haies",
+          "text": "Quelques haies, sans plantation récente",
+          "maturity_score": 1,
+          "concern_score": 1,
+          "topics": [
+            "haies"
+          ]
+        },
+        {
+          "id": "plantation",
+          "text": "J'ai planté ou je vais planter des haies",
+          "maturity_score": 2,
+          "concern_score": 3,
+          "topics": []
+        },
+        {
+          "id": "maillage",
+          "text": "Un maillage de haies entretenu sur toute l'exploitation",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "gcu_q11",
+      "theme": "gouvernance",
+      "order": 11,
+      "type": "single_choice",
+      "text": "Savez-vous comment conduire votre campagne en cas de restriction ou de volume réduit ?",
+      "condition": {
+        "questionId": "gcu_q01",
+        "operator": "in",
+        "value": [
+          "sans_suivi",
+          "releve_fin_campagne",
+          "suivi_ilot"
+        ]
+      },
+      "options": [
+        {
+          "id": "subit",
+          "text": "Non, je découvre les arrêtés quand ils tombent",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "anticipation"
+          ]
+        },
+        {
+          "id": "informe",
+          "text": "Je connais les seuils de restriction, sans stratégie prévue",
+          "maturity_score": 1,
+          "concern_score": 1,
+          "topics": [
+            "anticipation"
+          ]
+        },
+        {
+          "id": "priorites",
+          "text": "Je sais quelles parcelles et quels stades protéger en priorité",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        },
+        {
+          "id": "plan_ecrit",
+          "text": "J'ai un plan de campagne écrit selon le volume disponible",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "gcu_q12",
+      "theme": "gouvernance",
+      "order": 12,
+      "type": "single_choice",
+      "text": "Participez-vous à une démarche collective de gestion de l'eau sur votre territoire ?",
+      "condition": {
+        "questionId": "gcu_q01",
+        "operator": "in",
+        "value": [
+          "sans_suivi",
+          "releve_fin_campagne",
+          "suivi_ilot"
+        ]
+      },
+      "options": [
+        {
+          "id": "non",
+          "text": "Non, je n'en connais pas",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "collectif"
+          ]
+        },
+        {
+          "id": "informe",
+          "text": "J'en connais une, sans y participer",
+          "maturity_score": 1,
+          "concern_score": 2,
+          "topics": [
+            "collectif"
+          ]
+        },
+        {
+          "id": "adherent",
+          "text": "J'y adhère (organisme unique, association d'irrigants)",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        },
+        {
+          "id": "acteur",
+          "text": "J'y prends part activement (projet de territoire, comité)",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    }
+  ],
+  "topics_labels": {
+    "comptage": "Suivi des volumes",
+    "pilotage": "Pilotage de l'irrigation",
+    "materiel": "Matériel d'irrigation",
+    "adaptation": "Assolement et variétés",
+    "sols": "Sols et couverts",
+    "qualite": "Effluents du pulvérisateur",
+    "haies": "Haies et paysage",
+    "anticipation": "Anticipation des restrictions",
+    "collectif": "Démarche collective"
+  },
+  "action_plan_config": {
+    "always_include": [],
+    "never_include": [],
+    "filters": [
+      {
+        "id": "f_volumes_non_suivis",
+        "description": "Irrigant qui ne relève son compteur qu'en fin de campagne ou jamais : suivre les volumes par îlot et piloter l'irrigation",
+        "type": "answer",
+        "questionId": "gcu_q01",
+        "operator": "in",
+        "value": [
+          "sans_suivi",
+          "releve_fin_campagne"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_GCU_001"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_culture_en_sec",
+        "description": "Exploitation entièrement en sec : retirer les mesures d'irrigation, le plan sécheresse (aucun arrêté ne la concerne) et la démarche collective, qui sert à peser sur le partage des prélèvements",
+        "type": "answer",
+        "questionId": "gcu_q01",
+        "operator": "eq",
+        "value": "sec",
+        "effect": "remove",
+        "measures": [
+          "ACT_GCU_001",
+          "ACT_GCU_002",
+          "ACT_GCU_003",
+          "ACT_GCU_004",
+          "ACT_GCU_008",
+          "ACT_AGR_009",
+          "ACT_AGR_010"
+        ],
+        "priority": 2
+      },
+      {
+        "id": "f_source_forage",
+        "description": "Irrigation depuis un forage ou un puits : proposer de substituer une partie des prélèvements d'été par un stockage hivernal",
+        "type": "class",
+        "class": "source_eau",
+        "operator": "includes",
+        "value": "forage",
+        "effect": "add",
+        "measures": [
+          "ACT_GCU_008"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_source_riviere",
+        "description": "Irrigation par pompage en rivière ou en canal : proposer de substituer une partie des prélèvements d'été par un stockage hivernal",
+        "type": "class",
+        "class": "source_eau",
+        "operator": "includes",
+        "value": "riviere",
+        "effect": "add",
+        "measures": [
+          "ACT_GCU_008"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_retenue_existante",
+        "description": "L'exploitation dispose déjà d'une retenue remplie en hiver : retirer le stockage hivernal",
+        "type": "class",
+        "class": "source_eau",
+        "operator": "includes",
+        "value": "retenue",
+        "effect": "remove",
+        "measures": [
+          "ACT_GCU_008"
+        ],
+        "priority": 2
+      },
+      {
+        "id": "f_mais_irrigue",
+        "description": "Maïs irrigué, la culture la plus exigeante en eau en été : proposer des cultures moins exigeantes dans l'assolement",
+        "type": "class",
+        "class": "culture_irriguee",
+        "operator": "includes",
+        "value": "mais",
+        "effect": "add",
+        "measures": [
+          "ACT_GCU_005"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_cultures_forte_valeur",
+        "description": "Cultures irriguées à forte valeur (semences, pomme de terre, tabac, légumes) : envisager le goutte-à-goutte sur une partie de la sole",
+        "type": "class",
+        "class": "culture_irriguee",
+        "operator": "includes",
+        "value": "forte_valeur",
+        "effect": "add",
+        "measures": [
+          "ACT_GCU_004"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_pilotage_sans_mesure",
+        "description": "Tours d'eau déclenchés au calendrier, à l'oeil ou au seul bulletin collectif : piloter avec des sondes et un bilan hydrique à la parcelle",
+        "type": "answer",
+        "questionId": "gcu_q04",
+        "operator": "in",
+        "value": [
+          "calendrier",
+          "bulletin"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_GCU_001"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_pilotage_inconnu",
+        "description": "Irrigant qui ne sait pas dire comment les tours d'eau sont déclenchés : c'est le motif même de recommander le pilotage",
+        "type": "answer",
+        "questionId": "gcu_q04",
+        "operator": "not_answered",
+        "effect": "add",
+        "measures": [
+          "ACT_GCU_001"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_enrouleur_mecanique",
+        "description": "Enrouleur à régulation mécanique : proposer la régulation électronique ou le pivot au renouvellement",
+        "type": "answer",
+        "questionId": "gcu_q05",
+        "operator": "eq",
+        "value": "enrouleur_mecanique",
+        "effect": "add",
+        "measures": [
+          "ACT_GCU_003"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_deja_localise",
+        "description": "Goutte-à-goutte comme matériel principal : retirer la conversion à l'irrigation localisée, déjà faite, et le réglage du matériel, rédigé pour l'aspersion",
+        "type": "answer",
+        "questionId": "gcu_q05",
+        "operator": "eq",
+        "value": "localise",
+        "effect": "remove",
+        "measures": [
+          "ACT_GCU_002",
+          "ACT_GCU_004"
+        ],
+        "priority": 2
+      },
+      {
+        "id": "f_submersion",
+        "description": "Rizière irriguée par submersion : sondes, aspersion, goutte-à-goutte, changement d'assolement, esquive variétale, couverts d'interculture et stockage hivernal n'ont pas de sens pour une culture submergée d'avril à septembre qui dessale les sols de Camargue, les retirer",
+        "type": "answer",
+        "questionId": "gcu_q05",
+        "operator": "eq",
+        "value": "submersion",
+        "effect": "remove",
+        "measures": [
+          "ACT_GCU_001",
+          "ACT_GCU_002",
+          "ACT_GCU_003",
+          "ACT_GCU_004",
+          "ACT_GCU_005",
+          "ACT_GCU_006",
+          "ACT_GCU_007",
+          "ACT_GCU_008"
+        ],
+        "priority": 2
+      },
+      {
+        "id": "f_novice_sans_retenue",
+        "description": "Niveau novice : mesurer, piloter et régler avant d'investir dans une retenue, retirer le stockage hivernal",
+        "type": "maturity",
+        "questionId": null,
+        "operator": "in",
+        "value": [
+          "novice"
+        ],
+        "effect": "remove",
+        "measures": [
+          "ACT_GCU_008"
+        ],
+        "priority": 2
+      },
+      {
+        "id": "f_materiel_non_regle",
+        "description": "Matériel jamais contrôlé ou seulement lors d'une panne : diagnostiquer et régler avant chaque campagne",
+        "type": "answer",
+        "questionId": "gcu_q06",
+        "operator": "in",
+        "value": [
+          "jamais",
+          "en_panne"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_GCU_002"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_assolement_inchange",
+        "description": "Assolement inchangé face aux sécheresses (variétés adaptées ou non) : introduire des cultures moins exigeantes en eau",
+        "type": "answer",
+        "questionId": "gcu_q07",
+        "operator": "in",
+        "value": [
+          "inchange",
+          "varietes"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_GCU_005"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_varietes_inchangees",
+        "description": "Variétés et dates de semis inchangées (assolement adapté ou non) : esquiver la sécheresse par la précocité",
+        "type": "answer",
+        "questionId": "gcu_q07",
+        "operator": "in",
+        "value": [
+          "inchange",
+          "assolement"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_GCU_006"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_sols_peu_couverts",
+        "description": "Sol nu en interculture ou couverts seulement obligatoires : gérer couverts et matière organique pour la réserve en eau",
+        "type": "answer",
+        "questionId": "gcu_q08",
+        "operator": "in",
+        "value": [
+          "sol_nu",
+          "couverts_obligatoires"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_GCU_007"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_pulverisateur_non_equipe",
+        "description": "Pulvérisateur rempli et lavé sans aire équipée d'un traitement : aménager une aire de remplissage et de lavage",
+        "type": "answer",
+        "questionId": "gcu_q09",
+        "operator": "in",
+        "value": [
+          "sans_amenagement",
+          "aire_sans_traitement"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_GCU_009"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_sans_pulverisateur",
+        "description": "Pas de pulvérisateur sur l'exploitation : retirer l'aire de lavage",
+        "type": "answer",
+        "questionId": "gcu_q09",
+        "operator": "eq",
+        "value": "sans_pulverisateur",
+        "effect": "remove",
+        "measures": [
+          "ACT_GCU_009"
+        ],
+        "priority": 2
+      },
+      {
+        "id": "f_peu_de_haies",
+        "description": "Parcelles ouvertes ou peu de haies sans plantation prévue : planter des haies brise-vent",
+        "type": "answer",
+        "questionId": "gcu_q10",
+        "operator": "in",
+        "value": [
+          "aucune",
+          "quelques_haies"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_GCU_010"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_campagne_non_anticipee",
+        "description": "Irrigant qui subit les arrêtés ou connaît les seuils sans stratégie : préparer un plan sécheresse gradué",
+        "type": "answer",
+        "questionId": "gcu_q11",
+        "operator": "in",
+        "value": [
+          "subit",
+          "informe"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_AGR_009"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_hors_collectif",
+        "description": "Aucune démarche collective connue, ou connue sans y participer : proposer d'y entrer",
+        "type": "answer",
+        "questionId": "gcu_q12",
+        "operator": "in",
+        "value": [
+          "non",
+          "informe"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_AGR_010"
+        ],
+        "priority": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "id": "PREST_HUI_005",
+  "nom": "John Cockerill Proserpol",
+  "type": "installateur",
+  "logo_url": null,
+  "siret": "30231665800111",
+  "description": "Filiale française du groupe belge John Cockerill (siège à Seraing), spécialiste des procédés de traitement et de recyclage des effluents liquides industriels, avec un siège social à Thionville (57) et un établissement à Meylan (38). Elle conçoit, fournit et met en service des stations de traitement des effluents industriels : en 2015, celle de l'usine de trituration et de raffinage Saipol du Mériot (10) (cassage acide et aéroflottation, biologie, finition), qui ramène la DCO de 50 000 à moins de 100 mg/L ; fin 2024, elle a été retenue pour une station zéro rejet sur un site de traitement de surface à Brulon (72), annoncée à 97 % d'eau économisée. Elle affiche aussi la réutilisation des eaux usées traitées en agroalimentaire. Ses références publiées sont situées dans plusieurs régions (Le Mériot, Jarrie, Brulon, Calais), mais aucune zone d'intervention n'est publiée.",
+  "expertises": [
+    "Traitement des effluents huileux",
+    "Déshuilage par aéroflottation",
+    "Bioréacteur à membranes",
+    "Réutilisation des eaux usées"
+  ],
+  "categories": [
+    "agir_rejets_qualite",
+    "valoriser_reut_eaux_non_conventionnelles"
+  ],
+  "secteurs": [
+    "industrie_huiles"
+  ],
+  "departements": [],
+  "mesures": [
+    {
+      "id": "ACT_HUI_007",
+      "roles": [
+        "conseil_etude",
+        "travaux"
+      ]
+    },
+    {
+      "id": "ACT_HUI_005",
+      "roles": [
+        "conseil_etude",
+        "travaux"
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "type": "site_internet",
+      "value": "https://johncockerill.com/fr/industry/traitement-des-eaux/"
+    },
+    {
+      "type": "tel",
+      "value": "01 30 45 90 20"
+    },
+    {
+      "type": "adresse",
+      "value": "Route de Volkrange, 57100 Thionville"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, contacts, description",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=John%20Cockerill%20Proserpol&departement=57",
+      "date": "2026-09-27",
+      "extrait": "JOHN COCKERILL PROSERPOL, siret 30231665800111, siège, BEUVANGE SOUS SAI ROUTE DE VOLKRANGE 57100 THIONVILLE, activité 71.12B, état administratif A"
+    },
+    {
+      "champ": "contacts, description",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=302316658",
+      "date": "2026-09-27",
+      "extrait": "30231665800079 45 CHEMIN DU VIEUX CHENE 38240 MEYLAN, état A ; 30231665800087 LES MIROIRS 38 BOULEVARD PAUL CEZANNE 78280 GUYANCOURT, état F (fermé)"
+    },
+    {
+      "champ": "contacts",
+      "url": "https://johncockerill.com/fr/industry/traitement-des-eaux/",
+      "date": "2026-09-27",
+      "extrait": "John Cockerill Proserpol 38 Boulevard Paul Cézanne - CS60731 [...] Les Miroirs Guyancourt Cedex France +33 (0)1 30 45 90 20 +33 (0)1 30 45 90 50 (proserpol.com redirige vers cette page)"
+    },
+    {
+      "champ": "description",
+      "url": "https://johncockerill.com/fr/presse-et-actualites/actualites/avec-proserpol-cmi-investit-dans-le-traitement-de-leau/",
+      "date": "2026-09-27",
+      "extrait": "CMI a racheté le 28 décembre 2011 le Groupe français Proserpol, spécialiste des procédés de traitement et de recyclage des effluents liquides industriels"
+    },
+    {
+      "champ": "description",
+      "url": "https://johncockerill.com/en/press-and-news/news/john-cockerills-green-electricity-headquarters-is-self-sufficient-in-energy/",
+      "date": "2026-09-27",
+      "extrait": "John Cockerill's headquarters at Seraing (Belgium), where it has been located since 1817, are energetically self-sufficient."
+    },
+    {
+      "champ": "mesures, expertises, description",
+      "url": "https://www.franceenvironnement.com/realisation/traitement-des-effluents-huileux-de-trituration-et-de-fabrication-du-diester",
+      "date": "2026-09-27",
+      "extrait": "Réalisé par John Cockerill Proserpol. L'usine Saipol du Mériot (10) a pour activité principale la trituration de graines oléagineuses, le raffinage d'huiles végétales et la production de diester. [...] Dégraissage par cassage acide et aéroflottation [...] DCO : Entrée: 50 000 mg/l | Rejet après traitement : < 100 mg/l"
+    },
+    {
+      "champ": "mesures, expertises, description",
+      "url": "https://www.franceenvironnement.com/entreprise/proserpol--st-quentin-yvelines-cdx-400031313",
+      "date": "2026-09-27",
+      "extrait": "John Cockerill Proserpol, situé à Guyancourt, conçoit des solutions pour le traitement des effluents et des boues d'épuration. Spécialisé dans le traitement par bio-réacteur à membranes (MBR Process), l'entreprise gère [...] les traitements d'effluents huileux liés à la trituration et au diester."
+    },
+    {
+      "champ": "mesures, expertises",
+      "url": "https://johncockerill.com/fr/industry/traitement-des-eaux/eaux-usees-industrielles/",
+      "date": "2026-09-27",
+      "extrait": "préparation des eaux de process, épuration des eaux résiduaires, réutilisation des eaux usées et valorisation des effluents liquides ou solides [...] (agroalimentaire, pharmacie, mines... [...] Flottation et déshuilage pour l'élimination des matières légères."
+    },
+    {
+      "champ": "mesures, description",
+      "url": "https://www.franceenvironnement.com/realisation/rehabilitation-eaux-usees-industrielles-circuit-ferme",
+      "date": "2026-09-27",
+      "extrait": "Réhabilitation des eaux usées industrielles en circuit fermé [...] filtration membranaire [...] Recyclage jusqu'à 80% des eaux usées"
+    },
+    {
+      "champ": "mesures, description, departements",
+      "url": "https://johncockerill.com/en/press-and-news/news/multilaque-traitement-rejet-zero/",
+      "date": "2026-09-27",
+      "extrait": "As part of the capacity expansion of its plant in Brulon (72, France) [...] Multilaque has once again called on the expertise of John Cockerill Proserpol, an expert in the treatment of water and industrial effluents, to equip its new production lines with a zero discharge treatment plant. [...] will eliminate effluent discharge, save up to 97% in water consumption"
+    },
+    {
+      "champ": "mesures, description, departements",
+      "url": "https://johncockerill.com/en/press-and-news/news/john-cockerill-receives-acceptance-for-three-new-effluent-treatment-plants-at-the-framatome-jarrie-site/",
+      "date": "2026-09-27",
+      "extrait": "John Cockerill Proserpol was responsible for the design, supply, installation and commissioning of the effluent treatment equipment [...] the Framatome plant in Jarrie, France"
+    },
+    {
+      "champ": "departements",
+      "url": "https://johncockerill.com/en/press-and-news/news/interor-entrusts-john-cockerill-with-the-improvement-of-its-effluent-treatment-station/",
+      "date": "2026-09-27",
+      "extrait": "INTEROR [...] entrusted John Cockerill with the construction of a tertiary treatment installation [...] Calais site"
+    }
+  ],
+  "date_maj": "2026-09-27"
+}

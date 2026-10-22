@@ -1,0 +1,174 @@
+{
+  "id": "AIDE_GCU_007",
+  "nom": "Aide aux infrastructures hydrauliques sur les territoires, volet individuel (FEADER, Région Occitanie, PSN 2023-2027)",
+  "financeur": "Région Occitanie (FEADER)",
+  "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792084816/Noe%20assets/logos/AIDE_GCU_007.png",
+  "type": "subvention",
+  "taux": "40 % de l'assiette éligible, porté au plus à 60 % par des bonifications cumulables de 10 points (jeune installé aidé depuis moins de 5 ans, et siège en zone de montagne ou atelier en agriculture biologique ou sous SIQO)",
+  "plafond": "Dépenses éligibles plafonnées à 120 000 € HT par dossier (180 000 € pour un GAEC de 2 associés, 240 000 € à partir de 3 associés), avec un plancher de 4 000 € HT",
+  "description": "Subvention cofinancée par le FEADER, dédiée aux exploitants individuels, pour les infrastructures hydrauliques d'irrigation : création, agrandissement, sécurisation ou aménagement d'une retenue individuelle (ouvrage de prélèvement, conduites d'amenée, terrassement, étanchéité, évacuateur de crue, restitution des débits réservés), curage, création d'un réseau de distribution jusqu'aux bornes des parcelles avec sa station de pompage, et matériels de pilotage et d'amélioration de l'efficience du réseau. Les études de faisabilité et l'assistance à maîtrise d'ouvrage sont prises en charge comme frais généraux, dans la limite de 10 % des investissements matériels.",
+  "eligibilite": "Agriculteurs à titre principal ou secondaire, personnes en parcours installation (DJA, DNA, Pass installation volet trésorerie) et sociétés agricoles affiliées à la MSA détenues au moins à 50 % par des associés exploitants, dont le siège ou un établissement actif est en Occitanie. Les CUMA, SCI, propriétaires bailleurs et collectivités sont exclus, et les projets doivent prélever exclusivement dans des eaux superficielles (nappes alluviales d'accompagnement comprises).",
+  "categories": [
+    "valoriser_reut_eaux_non_conventionnelles"
+  ],
+  "secteurs": [
+    "grandes_cultures"
+  ],
+  "departements": [
+    "09",
+    "11",
+    "12",
+    "30",
+    "31",
+    "32",
+    "34",
+    "46",
+    "48",
+    "65",
+    "66",
+    "81",
+    "82"
+  ],
+  "agences": [],
+  "mesures": [
+    "ACT_GCU_008"
+  ],
+  "infos_complementaires": [
+    {
+      "type": "avertissement",
+      "texte": "Les devis et bons de commande signés avant le dépôt de la demande rendent les dépenses inéligibles. Seules les études nécessaires à l'élaboration du projet peuvent être engagées avant, et jamais avant le 1er janvier 2023."
+    },
+    {
+      "type": "avertissement",
+      "texte": "Le matériel d'irrigation à la parcelle (pivots, enrouleurs, goutte-à-goutte, canalisations à la parcelle) et les matériels de gestion interne de l'eau (station agrométéo, sondes, logiciel de pilotage) ne sont pas financés ici. La Région renvoie les équipements à la parcelle vers son dispositif « Investissements pour les exploitations agricoles, dispositif unique »."
+    },
+    {
+      "type": "avertissement",
+      "texte": "Une étude de faisabilité présentée seule, sans travaux, n'est pas éligible. La création d'une retenue n'est aidée que si l'étude préalable montre qu'aucun raccordement à un réseau collectif n'est envisageable, et une retenue partagée relève du volet stockage collectif, porté par une ASL."
+    },
+    {
+      "type": "info",
+      "texte": "Pour moderniser une installation existante, une évaluation préalable doit montrer au moins 5 % d'économie d'eau potentielle, et si la masse d'eau est en état moins que bon, une réduction effective d'au moins la moitié de cette économie. Un système de mesure des prélèvements est exigé, au plus tard au solde, ainsi que l'ensemble des autorisations réglementaires et un mémoire technique sur le modèle fourni."
+    },
+    {
+      "type": "info",
+      "texte": "Les dossiers sont notés puis classés (note minimale 30 points) : jeune installé, premier accès à l'eau, remise en service d'une retenue, Contrat Agriculture Durable validé par la Région, agriculture biologique ou SIQO, diversification et autonomie alimentaire rapportent des points. Les investissements doivent être maintenus 3 ans après la dernière demande de paiement."
+    },
+    {
+      "type": "info",
+      "texte": "Campagne 2026 : période de dépôt du 8 septembre au 15 octobre 2026 selon la décision du 3 juillet 2026, clôture décalée au 23 octobre 2026 d'après la page du dispositif, enveloppe FEADER de 1,5 million d'euros. Le dépôt se fait sur la plateforme Euro-pac de la Région, et le service instructeur répond à hydraulique.agricole@laregion.fr.",
+      "lien": "https://europac.laregion.fr/sub/tiers/aides/details?sigle=HYI-26A",
+      "lien_label": "Déposer sur Euro-pac"
+    },
+    {
+      "type": "ressource",
+      "texte": "Page du dispositif sur le site Europe en Occitanie de la Région",
+      "lien": "https://www.europe-en-occitanie.eu/FEADER-Occitanie-2023-2027-Aide-aux-infrastructures-hydrauliques-sur-les-territoires-46163"
+    },
+    {
+      "type": "ressource",
+      "texte": "Appel à projets 2026 et ses annexes (mémoire technique, feuille des dépenses, grille de sélection), archive zip",
+      "lien": "https://www.europe-en-occitanie.eu/IMG/zip/b/3/5/hyi_documentsaap_2026.zip"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "nom, description, eligibilite (exploitants individuels)",
+      "url": "https://www.europe-en-occitanie.eu/FEADER-Occitanie-2023-2027-Aide-aux-infrastructures-hydrauliques-sur-les-territoires-46163",
+      "date": "2026-10-15",
+      "extrait": "Ce dispositif dédié aux exploitants individuels vise à soutenir les investissements d'infrastructures hydrauliques agricoles d'irrigation dans un contexte de changement climatique : Création, agrandissement ou sécurisation de retenues individuelles, création de réseaux d'irrigation Amélioration d'une infrastructure d'irrigation existante : agrandissement de retenues, modernisation des réseaux, mode de prélèvement plus efficient Etudes de faisabilité préalables à ces investissements"
+    },
+    {
+      "champ": "nom, financeur (FEADER, PSN 2023-2027)",
+      "url": "https://www.europe-en-occitanie.eu/IMG/zip/b/3/5/hyi_documentsaap_2026.zip",
+      "date": "2026-10-15",
+      "extrait": "HYI-Appel_a_projet_2026.pdf, version CP 03/07/2026 : DISPOSITIF 2023-2027 Aide aux infrastructures hydrauliques sur les territoires - volet individuel. Fiche intervention du PSN correspondante 73.01 Investissements productifs on farm [...] Taux de cofinancement du FEADER : 60 % [...] L'intervention prend la forme d'une subvention."
+    },
+    {
+      "champ": "description, mesures (ACT_GCU_008)",
+      "url": "https://www.europe-en-occitanie.eu/IMG/zip/b/3/5/hyi_documentsaap_2026.zip",
+      "date": "2026-10-15",
+      "extrait": "HYI-Appel_a_projet_2026.pdf, Dépenses éligibles : Création, agrandissement ou aménagement de retenue individuelle de stockage de l'eau - Constitution de l'ouvrage de stockage et équipements hydrauliques assurant la fonctionnalité de l'ouvrage : ouvrage de prélèvement, conduites d'amenée à la retenue, terrassement, étanchéité, évacuateur de crue et coursier, vanne de vidange, dispositif de restitution des débits réservés, protection anti-batillage [...] Curage et remise en état de digue."
+    },
+    {
+      "champ": "description (réseau, pompage, pilotage du réseau)",
+      "url": "https://www.europe-en-occitanie.eu/IMG/zip/b/3/5/hyi_documentsaap_2026.zip",
+      "date": "2026-10-15",
+      "extrait": "HYI-Appel_a_projet_2026.pdf : Création du réseau de distribution jusqu'aux bornes de distribution aux parcelles [...] Station et groupes de pompage et équipements liés - Matériels de pilotage et d'amélioration de l'efficience du réseau"
+    },
+    {
+      "champ": "description (frais généraux, études), infos_complementaires (dépenses avant dépôt)",
+      "url": "https://www.europe-en-occitanie.eu/IMG/zip/b/3/5/hyi_documentsaap_2026.zip",
+      "date": "2026-10-15",
+      "extrait": "HYI-Appel_a_projet_2026.pdf : Frais généraux, dans la limite de 10 % du montant éligible des investissements matériels : Ces dépenses peuvent être réalisées avant le dépôt de la demande d'aide. Aucune dépense engagée avant le 1er janvier 2023 ne pourra être retenue. - Etudes de faisabilité de l'investissement matériel [...] - Frais d'honoraire des ingénieurs et consultants en assistance à maîtrise d'ouvrage [...] Ce dispositif couvre les dépenses engagées à partir de la date de dépôt du dossier de demande (les devis et/ou bons de commande signés avant le dépôt de la demande ne sont pas éligibles)"
+    },
+    {
+      "champ": "infos_complementaires (matériel à la parcelle et pilotage exclus), mesures (ACT_GCU_001, ACT_GCU_003 et ACT_GCU_004 non liées)",
+      "url": "https://www.europe-en-occitanie.eu/IMG/zip/b/3/5/hyi_documentsaap_2026.zip",
+      "date": "2026-10-15",
+      "extrait": "HYI-Appel_a_projet_2026.pdf : Ce dispositif ne permet pas l'accompagnement des équipements d'irrigation à la parcelle. Ces équipements sont accompagnés uniquement dans le cadre du dispositif régional « Investissements pour les exploitations agricoles - Dispositif unique ». [...] Dépenses inéligibles : Investissements à l'échelle de l'exploitation agricole et des parcelles (équipements d'irrigation des parcelles, matériel d'irrigation, canalisation à l'échelle de la parcelle…) [...] Matériels de gestion interne de l'eau (station agrométéo, sondes tensiométriques et capacitives, logiciel de pilotage…) - Etudes de faisabilité de l'investissement seules (présentées sans travaux)"
+    },
+    {
+      "champ": "eligibilite",
+      "url": "https://www.europe-en-occitanie.eu/IMG/zip/b/3/5/hyi_documentsaap_2026.zip",
+      "date": "2026-10-15",
+      "extrait": "HYI-Appel_a_projet_2026.pdf : Le dispositif est dédié aux exploitants individuels [...] Agriculteur à titre principal ou secondaire - Cotisants solidaires et autres personne(s) s'inscrivant dans le parcours installation au titre de la DJA/DNA/Pass installation - volet trésorerie [...] Société active dans la production agricole primaire mettant en valeur une exploitation agricole (affiliation MSA) et dont : au moins 50% des parts sociales sont détenues par des associés exploitants ATP ou ATS [...] Sont inéligibles au dispositif : Les SCI - Les CUMA - Les propriétaires bailleurs - Les établissements publics et les collectivités territoriales"
+    },
+    {
+      "champ": "eligibilite (Occitanie, eaux superficielles), infos_complementaires (raccordement collectif, mesure des prélèvements, autorisations, mémoire)",
+      "url": "https://www.europe-en-occitanie.eu/IMG/zip/b/3/5/hyi_documentsaap_2026.zip",
+      "date": "2026-10-15",
+      "extrait": "HYI-Appel_a_projet_2026.pdf : Le siège social ou établissement actif du demandeur doit être situé en Occitanie. [...] Le demandeur doit justifier de la présence d'un système de mesure des prélèvements d'eau, En l'absence d'un système existant au dépôt de la demande d'aide, la présence de celui-ci sera vérifiée au solde [...] Les projets soutenus s'appuient exclusivement sur des prélèvements dans des masses d'eau superficielles (y compris nappes alluviales d'accompagnement) [...] Les projets de création d'ouvrages de stockage ne sont éligibles que dans le cas où l'étude préalable montre qu'aucun raccordement à un réseau collectif n'est envisageable"
+    },
+    {
+      "champ": "infos_complementaires (retenue partagée)",
+      "url": "https://www.europe-en-occitanie.eu/IMG/zip/b/3/5/hyi_documentsaap_2026.zip",
+      "date": "2026-10-15",
+      "extrait": "HYI-Appel_a_projet_2026.pdf : Les projets de retenue partagée ne sont pas éligibles à ce dispositif. Ils peuvent être accompagnés par le dispositif « Aide aux infrastructures hydrauliques sur les territoires - volet stockage collectif » au titre du portage par une ASL."
+    },
+    {
+      "champ": "infos_complementaires (économie d'eau de 5 %)",
+      "url": "https://www.europe-en-occitanie.eu/IMG/zip/b/3/5/hyi_documentsaap_2026.zip",
+      "date": "2026-10-15",
+      "extrait": "HYI-Appel_a_projet_2026.pdf : Projet visant à l'amélioration d'une installation d'irrigation existante [...] Une évaluation ex ante doit justifier que l'investissement est susceptible de permettre des économies d'eau potentielles d'au minimum 5% [...] l'investissement devra permettre une réduction effective de l'utilisation de l'eau au moins égale à 50% de l'économie d'eau potentielle."
+    },
+    {
+      "champ": "taux, plafond",
+      "url": "https://www.europe-en-occitanie.eu/IMG/zip/b/3/5/hyi_documentsaap_2026.zip",
+      "date": "2026-10-15",
+      "extrait": "HYI-Appel_a_projet_2026.pdf : Taux d'aide publique de base : 40% de l'assiette éligible. - Bonifications cumulables dans la limite d'un taux de 60% : - 10% pour les demandeurs ayant bénéficié d'une DJA ou d'une DNA ou d'un Pass installation - volet trésorerie dont l'arrêté attributif est daté de moins de 5 ans [...] - 10% pour les exploitations (non cumulatives) : Dont le siège social ou établissement est situé en zone de montagne OU [...] atelier de production en cours de conversion ou engagée en AB [...] ou certifié et/ou labellisé au titre d'un SIQO [...] Plancher de dépenses éligibles lors de la demande d'aide : 4 000 € HT. [...] Hors GAEC 120 000€ GAEC 2 associés 180 000€ GAEC 3 associés et plus 240 000€"
+    },
+    {
+      "champ": "infos_complementaires (sélection, pérennité)",
+      "url": "https://www.europe-en-occitanie.eu/IMG/zip/b/3/5/hyi_documentsaap_2026.zip",
+      "date": "2026-10-15",
+      "extrait": "HYI-Appel_a_projet_2026.pdf : 2 Premier accès à l'eau pour l'exploitation 20 3 Le projet remobilise une retenue 20 4 Porteur de projet ayant réalisé un Contrat Agriculture Durable validé par la Région 20 [...] Note minimale : 30 points [...] Les investissements aidés doivent être maintenus pour une durée de 3 ans à compter de la date de dépôt de la dernière demande de paiement."
+    },
+    {
+      "champ": "infos_complementaires (période de dépôt et enveloppe 2026)",
+      "url": "https://www.europe-en-occitanie.eu/IMG/pdf/a/8/9/hyi_periodes-enveloppes_cp030726.pdf",
+      "date": "2026-10-15",
+      "extrait": "CP du 03 juillet 2026 [...] HYI 73.01 Aide aux infrastructures hydrauliques sur les territoires - Volet individuel Du 08/09/2026 au 15/10/2026 1 500 000€"
+    },
+    {
+      "champ": "infos_complementaires (clôture décalée, Euro-pac, contact)",
+      "url": "https://www.europe-en-occitanie.eu/FEADER-Occitanie-2023-2027-Aide-aux-infrastructures-hydrauliques-sur-les-territoires-46163",
+      "date": "2026-10-15",
+      "extrait": "Contact : Pour toute question sur le dispositif, contacter le service instructeur de la Région : hydraulique.agricole@laregion.fr [...] Attention : La date de clôture du dispositif a été décalée au 23 octobre 2026. [...] Le dépôt des dossiers a lieu sur le site de dépôt dématérialisé des demandes d'aide \"Euro-pac\"."
+    },
+    {
+      "champ": "departements",
+      "url": "https://www.laregion.fr/Profil-geographique-et-administratif-du-territoire",
+      "date": "2026-10-15",
+      "extrait": "Ces derniers sont au nombre de 13 : Ariège, Aude, Aveyron, Gard, Haute-Garonne, Gers, Hérault, Lot, Lozère, Hautes-Pyrénées, Pyrénées-Orientales, Tarn et Tarn-et-Garonne (par ordre alphabétique)."
+    },
+    {
+      "champ": "logo_url",
+      "url": "https://www.laregion.fr/plugins/occitanie/squelettes-occitanie/squelettes/apple-icon-180x180.png",
+      "date": "2026-10-15",
+      "extrait": "apple-touch-icon du site de la Région Occitanie (laregion.fr), 180 x 180 px, logo « La Région Occitanie Pyrénées - Méditerranée »"
+    }
+  ],
+  "date_maj": "2026-10-15"
+}

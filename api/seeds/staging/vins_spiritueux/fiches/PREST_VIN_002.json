@@ -1,0 +1,235 @@
+{
+  "id": "PREST_VIN_002",
+  "nom": "Alimpex",
+  "type": "bureau_etudes",
+  "logo_url": null,
+  "siret": "33321148000038",
+  "description": "Société alsacienne créée en 1985 pour distribuer des produits d'hygiène aux industries des boissons (distributeur exclusif en France des produits WIGOL), qui accompagne depuis 2022 les industriels dans le pilotage du risque microbiologique et travaille avec le Groupe ICV sur l'hygiène et l'eau en cave. Elle réalise des diagnostics hygiène et eau en cave, anime sur site une masterclass d'une journée qui forme les équipes à l'hygiène et au pilotage des consommations d'eau de nettoyage, et fournit du matériel de nettoyage et de désinfection : canons à mousse, station Olimpe de désinfection par électrolyse sans rinçage (cuves, pressoirs, NEP). Diagnostic et masterclass sur rendez-vous ou sur demande, tarifs non publiés.",
+  "expertises": [
+    "Diagnostic hygiène et eau en cave",
+    "Masterclass hygiène et consommations d'eau",
+    "Optimisation des protocoles de nettoyage",
+    "Désinfection sans rinçage"
+  ],
+  "categories": [
+    "sensibiliser_former",
+    "ameliorer_efficacite_hydrique",
+    "suivre_comprendre_maitriser"
+  ],
+  "secteurs": [
+    "vins_spiritueux"
+  ],
+  "departements": [
+    "01",
+    "02",
+    "03",
+    "04",
+    "05",
+    "06",
+    "07",
+    "08",
+    "09",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "2A",
+    "2B",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50",
+    "51",
+    "52",
+    "53",
+    "54",
+    "55",
+    "56",
+    "57",
+    "58",
+    "59",
+    "60",
+    "61",
+    "62",
+    "63",
+    "64",
+    "65",
+    "66",
+    "67",
+    "68",
+    "69",
+    "70",
+    "71",
+    "72",
+    "73",
+    "74",
+    "75",
+    "76",
+    "77",
+    "78",
+    "79",
+    "80",
+    "81",
+    "82",
+    "83",
+    "84",
+    "85",
+    "86",
+    "87",
+    "88",
+    "89",
+    "90",
+    "91",
+    "92",
+    "93",
+    "94",
+    "95"
+  ],
+  "mesures": [
+    {
+      "id": "ACT_VIN_001",
+      "roles": [
+        "formation",
+        "conseil_etude"
+      ]
+    },
+    {
+      "id": "ACT_VIN_003",
+      "roles": [
+        "materiel"
+      ]
+    },
+    {
+      "id": "ACT_AGR_002",
+      "roles": [
+        "conseil_etude"
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "type": "site_internet",
+      "value": "https://www.alimpex.fr"
+    },
+    {
+      "type": "tel",
+      "value": "03 89 79 89 67"
+    },
+    {
+      "type": "mail",
+      "value": "contact@alimpex.fr"
+    },
+    {
+      "type": "adresse",
+      "value": "3 rue du Transformateur, 68126 Bennwihr-Gare"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Alimpex&departement=68",
+      "date": "2026-09-28",
+      "extrait": "ALIMPEX, siret 33321148000038, siege, 3 RUE DU TRANSFORMATEUR 68126 BENNWIHR, activite 46.69B, etat_administratif A, 1 etablissement ouvert. Écart : les mentions légales du site (https://www.alimpex.fr/mentions-legales/) affichent l'ancien SIRET n°33321148000020"
+    },
+    {
+      "champ": "contacts",
+      "url": "https://www.alimpex.fr/nous-contacter/",
+      "date": "2026-09-28",
+      "extrait": "03 89 79 89 67. 3 rue du Transformateur 68126 Bennwihr-Gare."
+    },
+    {
+      "champ": "contacts (mail)",
+      "url": "https://www.alimpex.fr/hygiene-en-cave-et-gestion-de-leau/",
+      "date": "2026-09-28",
+      "extrait": "NOUS CONTACTER 03 89 79 89 67 contact@alimpex.fr 3 rue du Transformateur 68126 Bennwihr-Gare"
+    },
+    {
+      "champ": "description, type, categories, mesures (ACT_AGR_002)",
+      "url": "https://www.alimpex.fr/qui-sommes-nous/",
+      "date": "2026-09-28",
+      "extrait": "1985, Mathias HEILWECK fonde Alimpex avec une ambition simple : distribuer des produits d'hygiène de qualité pour les professionnels de l'industrie des boissons. [...] Alimpex distributeur exclusif des produits WIGOL® en France. [...] Des formations techniques, masterclass et accompagnements terrain (audits hygiène, diagnostics eau…) sont également proposés [...] 2022 marque un tournant… Alimpex prend un nouvel élan : celui d'une entreprise qui ne se contente plus de distribuer, mais qui accompagne les industriels dans le pilotage du risque microbiologique."
+    },
+    {
+      "champ": "expertises, mesures (ACT_VIN_001)",
+      "url": "https://www.alimpex.fr/nos-solutions/accompagnement-personnalise/masterclass-hygiene-et-management-du-risque/",
+      "date": "2026-09-28",
+      "extrait": "La Masterclass Hygiène et management du risque permet de former vos équipes pour mieux maîtriser l'hygiène, le risque microbiologique et les consommations d'eau. [...] Audit des points critiques d'hygiène. Analyses des consommations d'eau [...] Piloter les consommations d'eau liées aux opérations d'hygiène [...] Notre équipe organise une masterclass adaptée à votre activité"
+    },
+    {
+      "champ": "expertises, mesures (ACT_VIN_001, ACT_AGR_002), description",
+      "url": "https://www.alimpex.fr/partenariat-icv-alimpex-nouvelle-approche-de-lhygiene-oenologique/",
+      "date": "2026-09-28",
+      "extrait": "Ce partenariat se traduit par des actions concrètes auprès des caves, domaines et négoces [...] Les équipes Alimpex et ICV pourront intervenir conjointement pour : Audits hygiène et microbiologie, Diagnostic des consommations d'eau, Optimisation des protocoles de nettoyage, Mise en place de plans d'action personnalisés"
+    },
+    {
+      "champ": "expertises, description",
+      "url": "https://www.alimpex.fr/nos-solutions/outils-daide-a-la-decision/le-diag-conseil-hygiene-et-contamination/",
+      "date": "2026-09-28",
+      "extrait": "Le Diag' est un diagnostic hygiène et risque microbiologique réalisé avec un expert Alimpex. [...] Surconsommation d'eau ou de produits [...] PRENDRE RDV"
+    },
+    {
+      "champ": "mesures (ACT_VIN_003), description",
+      "url": "https://www.alimpex.fr/le-canon-a-mousse-on-valide/",
+      "date": "2026-09-28",
+      "extrait": "Le débit d'eau est contrôlé grâce au mousseurs [...] on utilise la juste quantité d'eau nécessaire et pas plus. [...] Gamme de canons à mousse destinés à usage professionnel : Plusieurs modèles disponibles de 24 et 50L"
+    },
+    {
+      "champ": "mesures (ACT_VIN_003), expertises, description",
+      "url": "https://www.alimpex.fr/la-station-delectrolyse-olimpe-une-desinfection-de-chai-sans-rincage-et-a-volonte/",
+      "date": "2026-09-28",
+      "extrait": "La station de désinfection Olimpe, distribuée par Alimpex [...] Cet acide s'emploie [...] sur des sols ou encore des matériels (cuves, pressoirs, tireuses, etc.) et du nettoyage en place (NEP). [...] ne nécessite pas de rinçage"
+    },
+    {
+      "champ": "mesures (ACT_VIN_003)",
+      "url": "https://www.alimpex.fr/desinfection-sans-intrants-viticulture-olimpe/",
+      "date": "2026-09-28",
+      "extrait": "Jusqu'à 30 % d'économies d'eau : La suppression des étapes de rinçage après désinfection permet de réduire significativement la consommation d'eau"
+    },
+    {
+      "champ": "description",
+      "url": "https://www.alimpex.fr/presentation-dalimpex-par-le-point-eco-alsace/",
+      "date": "2026-09-28",
+      "extrait": "Nous touchons divers secteurs tels que les maisons viticoles, la grande distribution, les hôpitaux, en France, Suisse et bientôt en Autriche et Slovénie."
+    },
+    {
+      "champ": "departements, siret (écart)",
+      "url": "https://www.alimpex.fr/mentions-legales/",
+      "date": "2026-09-28",
+      "extrait": "Les produits et/ou services présentés sur ce site sont ceux distribués en France métropolitaine. [...] SIRET n°33321148000020"
+    }
+  ],
+  "date_maj": "2026-09-28"
+}

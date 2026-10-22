@@ -1,0 +1,98 @@
+{
+  "id": "PREST_HOT_012",
+  "nom": "CCEI",
+  "type": "equipementier",
+  "logo_url": null,
+  "siret": "40352169300032",
+  "description": "Fabricant marseillais d'équipements de piscine fondé en 1973, qui développe ses appareils en France et les fabrique dans ses usines en France, en Roumanie et en Amérique du Nord ; il présente sa gamme connectée Vigipool comme fabriquée en France. Pour le traitement de l'eau, il produit des électrolyseurs au sel (Limpido, jusqu'à 120 m³), des régulateurs automatiques de pH et d'ORP (Phileo VP et Oxeo VP, jusqu'à 140 m³, ce dernier présenté pour les particuliers comme pour les professionnels) et le VigiFlow, qui mesure la pression du filtre et signale quand un contre-lavage est nécessaire afin d'éviter les lavages inutiles ; il fabrique aussi des armoires électriques sur mesure pour les locaux techniques de piscines collectives. Les produits s'achètent auprès de son réseau de revendeurs partenaires ; aucune page de son site ne relie ses produits de traitement de l'eau ou de filtration à une piscine d'hôtel ou à un bassin collectif.",
+  "expertises": [
+    "Électrolyseurs au sel",
+    "Régulation automatique pH et ORP",
+    "Alerte de contre-lavage du filtre",
+    "Armoires de piscines collectives"
+  ],
+  "categories": [
+    "ameliorer_efficacite_hydrique"
+  ],
+  "secteurs": ["hotellerie"],
+  "departements": [],
+  "mesures": [
+    { "id": "ACT_HOT_005", "roles": ["materiel"] }
+  ],
+  "contacts": [
+    { "type": "site_internet", "value": "https://www.ccei-pool.com/" },
+    { "type": "tel", "value": "04 95 06 11 44" },
+    { "type": "mail", "value": "contact@ccei.fr" },
+    { "type": "adresse", "value": "21 rue Henri et Antoine Maurras, 13016 Marseille" }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=CCEI&departement=13",
+      "date": "2026-09-24",
+      "extrait": "CCEI (COORDINATION CONSTRUCTION ELECTRIQUES INDUSTRIELLE - CCEI), siret 40352169300032, siège, 21 RUE HENRI ET ANTOINE MAURRAS 13016 MARSEILLE, activité 27.12Z, état administratif A"
+    },
+    {
+      "champ": "siret, contacts (mail, tel)",
+      "url": "https://www.ccei-pool.com/fr/mentions-legales",
+      "date": "2026-09-24",
+      "extrait": "CCEI, SAS, SIRET 403.521.693.00032, 21 rue Antoine et Henri Maurras, ZAC Saumaty Seon 13016 Marseille, 0495061144, contact@ccei.fr"
+    },
+    {
+      "champ": "contacts (adresse, tel)",
+      "url": "https://www.ccei-pool.com/fr/contact",
+      "date": "2026-09-24",
+      "extrait": "Adresse 21 rue Henri et Antoine Maurras 13016 Marseille, France Téléphone +33 4 95 06 11 44"
+    },
+    {
+      "champ": "type, description (fabrication)",
+      "url": "https://www.ccei-pool.com/fr/blog/ccei-et-le-made-in-europe",
+      "date": "2026-09-24",
+      "extrait": "Chaque appareil commercialisé a été développé par notre service R&D, puis fabriqué dans nos usines (en France, en Roumanie, ou encore Amérique du Nord). [...] chaque appareil est développé en France, puis assemblé en France ou en Europe [...] Vigipool : une solution connectée innovante made in France"
+    },
+    {
+      "champ": "description, departements",
+      "url": "https://www.ccei-pool.com/fr/qui-sommes-nous",
+      "date": "2026-09-24",
+      "extrait": "Notre histoire commence le 16 juillet 1973, lorsque Philippe du Poyet fonde à Marseille la Coordination Construction Electrique Industrielle [...] Basée à Marseille, CCEI Pool France a pour mission de renforcer la proximité avec les clients du marché national"
+    },
+    {
+      "champ": "expertises, mesures (ACT_HOT_005 materiel), description",
+      "url": "https://www.ccei-pool.com/fr/blog/vigiflow-innovation-piscine-connectee",
+      "date": "2026-09-24",
+      "extrait": "VigiFlow analyse en continu la pression du filtre. Les informations sont transmises directement à l'application Vigipool, et indique s'il est nécessaire ou non d'effectuer un contre-lavage. Une approche ingénieuse qui permet de : réduire les contre-lavages inutiles, limiter la consommation d'eau"
+    },
+    {
+      "champ": "expertises, mesures (ACT_HOT_005 materiel), description",
+      "url": "https://www.ccei-pool.com/fr/produit/oxeo-vp",
+      "date": "2026-09-24",
+      "extrait": "une régulation ORP aussi intuitive qu'adaptée aux nouveaux besoins des particuliers comme des professionnels : l'Oxeo VP ! Automatique et connecté [...] Vol. bassin max 140m³"
+    },
+    {
+      "champ": "expertises, description (Phileo VP)",
+      "url": "https://www.ccei-pool.com/fr/produit/phileo-vp",
+      "date": "2026-09-24",
+      "extrait": "Automatique et connecté, le Phileo VP est un régulateur de pH compact [...] PF10J051 Collier de prise en charge fourni 1.2 l/h 140m³"
+    },
+    {
+      "champ": "expertises, description (Limpido)",
+      "url": "https://www.ccei-pool.com/fr/produit/limpido",
+      "date": "2026-09-24",
+      "extrait": "Le Limpido est un électrolyseur au sel simple à installer et facile à utiliser. [...] PF10I034 15 m³/h 30g/h max 120m³"
+    },
+    {
+      "champ": "expertises, description (armoires de piscines collectives)",
+      "url": "https://www.ccei-pool.com/fr/produit/armoire-sur-mesure",
+      "date": "2026-09-24",
+      "extrait": "Fabricant historique de coffrets et armoires électriques pour piscine [...] Pour équiper le local technique des piscines collectives, nous proposons des armoires sur-mesure configurables directement en ligne et répondant aux normes en vigueur."
+    },
+    {
+      "champ": "description (accès par revendeurs)",
+      "url": "https://www.ccei-pool.com/fr/ou-acheter",
+      "date": "2026-09-24",
+      "extrait": "Un ou plusieurs de nos produits vous intéressent ? Trouvez dès maintenant nos revendeurs partenaires proches de chez vous."
+    }
+  ],
+  "date_maj": "2026-09-24"
+}

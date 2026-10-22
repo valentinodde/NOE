@@ -1,0 +1,104 @@
+{
+  "id": "PREST_HOP_015",
+  "nom": "EnvirobatBDM",
+  "type": "association",
+  "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792070078/Noe%20assets/logos/PREST_HOP_015.png",
+  "siret": "48051220100033",
+  "description": "Association basée à Marseille, centre de ressources régional du bâtiment durable en Provence-Alpes-Côte d'Azur. Le projet régional « sobriété en eau et réduction des micropolluants » des établissements sanitaires et médico-sociaux, lauréat de l'appel à manifestation d'intérêt « opérations groupées sectorielles » de l'agence de l'eau Rhône Méditerranée Corse, est porté par l'ARS PACA et, d'après l'offre d'emploi publiée par l'association, animé par EnvirobatBDM avec un cofinancement de l'ARS PACA et de la Région Sud. Le dispositif est en cours de mise en place : l'association a annoncé en 2026 le recrutement d'un conseiller chargé de réaliser des diagnostics et des accompagnements individuels pour réduire les consommations d'eau et les micropolluants issus des activités, puis d'aider les établissements les plus avancés à déposer leurs demandes d'aide aux travaux auprès de l'agence de l'eau. Contactez l'association pour savoir si l'accompagnement est ouvert à votre établissement.",
+  "expertises": [
+    "Diagnostic eau en établissement de santé",
+    "Réduction des micropolluants",
+    "Dossiers d'aide agence de l'eau"
+  ],
+  "categories": [
+    "suivre_comprendre_maitriser",
+    "agir_rejets_qualite"
+  ],
+  "secteurs": [
+    "hopitaux"
+  ],
+  "departements": [
+    "04",
+    "05",
+    "06",
+    "13",
+    "83",
+    "84"
+  ],
+  "mesures": [
+    {
+      "id": "ACT_AGR_002",
+      "roles": [
+        "conseil_etude"
+      ]
+    },
+    {
+      "id": "ACT_HOP_007",
+      "roles": [
+        "conseil_etude"
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "type": "site_internet",
+      "value": "https://envirobatbdm.eu/"
+    },
+    {
+      "type": "mail",
+      "value": "contact@envirobatbdm.eu"
+    },
+    {
+      "type": "tel",
+      "value": "04 95 04 30 44"
+    },
+    {
+      "type": "adresse",
+      "value": "Résidence Le Phocéen, 32 rue de Crimée, 13003 Marseille"
+    },
+    {
+      "type": "linkedin",
+      "value": "https://www.linkedin.com/company/envirobatbdm/"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=48051220100033",
+      "date": "2026-10-15",
+      "extrait": "ENVIROBAT-BDM, siret 48051220100033, siège, LE PHOCEEN BAT. C 32 RUE DE CRIMEE 13003 MARSEILLE, nature juridique 9220, état administratif A"
+    },
+    {
+      "champ": "contacts",
+      "url": "https://envirobatbdm.eu/contact",
+      "date": "2026-10-15",
+      "extrait": "contact@envirobatbdm.eu. Tel : 04 95 043 044. Résidence Le Phocéen 32 rue de Crimée 13003 Marseille. Lien Linkedin : https://www.linkedin.com/company/envirobatbdm/"
+    },
+    {
+      "champ": "description, expertises, mesures, departements",
+      "url": "https://envirobatbdm.eu/sites/default/files/2026-05/2026_EvBDM_Conseiller-CTEES_V2.pdf",
+      "date": "2026-10-15",
+      "extrait": "Offre d'emploi : Conseiller·ère en transition énergétique et écologique en santé (CTEES) [...] EnvirobatBDM a été retenu pour mobiliser, informer et accompagner les établissements de santé de la région Sud dans la réduction de leurs consommations d'eau, des micropolluants issus de leurs activités [...] Réaliser des diagnostics et accompagnements individuels dans les établissements sanitaires et médico-sociaux de la région PACA. Identifier les établissements les plus matures et les accompagner dans le dépôt de demandes d'aide aux travaux auprès de l'Agence de l'eau RMC. [...] Contrat : CDD 18 MOIS. Prise de fonction : dès que possible."
+    },
+    {
+      "champ": "description",
+      "url": "https://envirobatbdm.eu/sites/default/files/2026-05/2026_EvBDM_Conseiller-CTEES_V2.pdf",
+      "date": "2026-10-15",
+      "extrait": "EnvirobatBDM est le centre de ressources régional dédié au bâtiment durable en Provence-Alpes-Côte d'Azur. [...] Le projet est co-financé par l'ARS PACA et la région Sud, et se déroule en coordination étroite avec le réseau régional des Conseillers Transition Énergétique et Écologique en Santé (CTEES)"
+    },
+    {
+      "champ": "description (porteur du projet), departements",
+      "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2026-03/liste_des_laureats_ami_sectoriel.pdf",
+      "date": "2026-10-15",
+      "extrait": "Agence régionale de santé (ARS) PACA | PACA | Sobriété en eau, Réduction des micropolluants dispersés | Établissements de santé et médico-sociaux"
+    },
+    {
+      "champ": "logo_url",
+      "url": "https://envirobatbdm.eu/sites/default/files/favicon.ico",
+      "date": "2026-10-15",
+      "extrait": "Icône carrée 200 x 200 du site (symbole bdm en couleur)"
+    }
+  ],
+  "date_maj": "2026-10-15"
+}

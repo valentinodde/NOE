@@ -1,0 +1,58 @@
+[
+  {
+    "id": "sensibiliser_former",
+    "label": "Sensibiliser et former",
+    "icone": "🎓",
+    "couleur": "#f59e0b",
+    "ordre": 1,
+    "description": "Développer la culture eau au sein de votre organisation, former les équipes aux bonnes pratiques et ancrer des comportements durables à tous les niveaux."
+  },
+  {
+    "id": "suivre_comprendre_maitriser",
+    "label": "Suivre, comprendre et maîtriser ses consommations",
+    "icone": "📊",
+    "couleur": "#3b82f6",
+    "ordre": 2,
+    "description": "Sans mesure, pas de gestion. Mettre en place des outils de comptage et d'audit permet d'identifier les postes de surconsommation, de détecter les fuites et de suivre ses progrès dans le temps."
+  },
+  {
+    "id": "ameliorer_efficacite_hydrique",
+    "label": "Améliorer l'efficacité hydrique de ses équipements",
+    "icone": "⚙️",
+    "couleur": "#06b6d4",
+    "ordre": 3,
+    "description": "Réduire la quantité d'eau nécessaire à chaque usage en modernisant les équipements, en optimisant le pilotage de l'irrigation et en limitant les pertes à la source."
+  },
+  {
+    "id": "changer_process_pratiques",
+    "label": "Changer ses process ou pratiques",
+    "icone": "🔄",
+    "couleur": "#10b981",
+    "ordre": 4,
+    "description": "Adapter en profondeur les méthodes de production pour réduire structurellement la dépendance à l'eau : évolution des cultures, rotations, pratiques agro-écologiques."
+  },
+  {
+    "id": "valoriser_reut_eaux_non_conventionnelles",
+    "label": "Valoriser ou réutiliser les eaux non conventionnelles",
+    "icone": "♻️",
+    "couleur": "#8b5cf6",
+    "ordre": 5,
+    "description": "Mobiliser des sources alternatives (eaux pluviales récupérées, eaux de process recyclées, stockage hivernal) pour diminuer les prélèvements sur la ressource naturelle en période de stress."
+  },
+  {
+    "id": "agir_rejets_qualite",
+    "label": "Agir sur ses rejets et la qualité de l'eau",
+    "icone": "🧪",
+    "couleur": "#ef4444",
+    "ordre": 6,
+    "description": "Réduire l'impact des rejets sur les milieux aquatiques : traitement des effluents, limitation des intrants, préservation des zones tampons pour contribuer à la qualité des eaux locales."
+  },
+  {
+    "id": "agir_grand_cycle",
+    "label": "Agir sur le grand cycle de l'eau",
+    "icone": "🤝",
+    "couleur": "#64748b",
+    "ordre": 7,
+    "description": "S'engager dans des démarches collectives et territoriales (PTGE, ASA, contrats de nappes) pour peser sur la gouvernance de l'eau à l'échelle du bassin versant."
+  }
+]

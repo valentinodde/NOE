@@ -1,0 +1,123 @@
+{
+  "id": "AIDE_HOT_006",
+  "nom": "Financement d'équipements pour des économies d'eau (Fonds mutualisé départemental de revitalisation de l'Oise, CCI Oise)",
+  "financeur": "Fonds mutualisé départemental de revitalisation de l'Oise (Préfecture de l'Oise), fonds généraliste géré par la CCI de l'Oise",
+  "logo_url": null,
+  "type": "subvention",
+  "taux": "Jusqu'à 70 % des dépenses éligibles, après un diagnostic eau subventionné 600 € HT",
+  "plafond": "Divergence entre sources : 15 000 € HT d'aide selon la plaquette 2024-2027 de la CCI Oise, 5 000 € HT selon la fiche du dispositif mise à jour le 7 août 2026 (2 lignes d'aide au plus, 700 € HT d'investissement minimum)",
+  "description": "Aide en deux étapes du fonds généraliste géré par la CCI de l'Oise. D'abord un diagnostic eau réalisé par un conseiller de la CCI, qui identifie les axes d'amélioration, construit le plan d'actions et prépare le dossier présenté au comité d'engagement. Ensuite une subvention aux équipements des locaux professionnels, par lignes : petits équipements (mousseurs et réducteurs sous 7 L/min, mitigeurs thermostatiques, pommeaux de douche économes sous 8 L/min, boutons poussoirs, chasses d'eau double flux, compteur divisionnaire), étude d'économie d'eau par un cabinet expert, rénovation du réseau (détection et réparation des fuites), gestion des eaux de pluie (récupérateur, usage pour les WC, douches ou machines à laver) et procédés ou équipements moins consommateurs.",
+  "eligibilite": "TPE dont l'établissement est situé dans l'Oise et qui disposent de locaux professionnels, hors micro-entrepreneurs et entreprises de prestation intellectuelle. Critère de taille divergent selon les sources : moins de 30 salariés ou moins de 3,5 M€ de chiffre d'affaires selon la plaquette 2024-2027, moins de 30 salariés et moins de 3,5 M€ selon la fiche du dispositif mise à jour en août 2026. Le diagnostic préalable avec un conseiller de la CCI est obligatoire.",
+  "categories": [
+    "ameliorer_efficacite_hydrique",
+    "suivre_comprendre_maitriser",
+    "valoriser_reut_eaux_non_conventionnelles"
+  ],
+  "secteurs": [
+    "hotellerie"
+  ],
+  "departements": [
+    "60"
+  ],
+  "agences": [],
+  "mesures": [
+    "ACT_HOT_001",
+    "ACT_AGR_001",
+    "ACT_AGR_002",
+    "ACT_AGR_006"
+  ],
+  "infos_complementaires": [
+    {
+      "type": "avertissement",
+      "texte": "Le projet ne doit être éligible à aucune autre aide existante (Région, ADEME, État), et les équipements ne doivent pas avoir été financés par un autre programme régional ou national au cours des deux dernières années."
+    },
+    {
+      "type": "avertissement",
+      "texte": "Le plafond d'aide diffère selon les documents de la CCI : 15 000 € HT dans la plaquette 2024-2027, 5 000 € HT dans la fiche détaillée du dispositif mise à jour en août 2026, avec des plafonds par ligne (1 000 € HT pour les petits équipements, 2 000 € HT pour l'étude d'économie d'eau, 3 000 € HT pour la rénovation du réseau, 2 000 € HT pour les eaux de pluie, 5 000 € pour les procédés ou équipements moins consommateurs). Faites confirmer le montant par votre conseiller avant de chiffrer le projet."
+    },
+    {
+      "type": "avertissement",
+      "texte": "Le critère de taille diffère lui aussi : la plaquette 2024-2027 vise les TPE de moins de 30 salariés ou de moins de 3,5 M€ de chiffre d'affaires, la fiche détaillée exige moins de 30 salariés et moins de 3,5 M€. Un hôtel qui ne remplit qu'une des deux conditions doit faire confirmer son éligibilité par la CCI."
+    },
+    {
+      "type": "info",
+      "texte": "La demande se fait par mail à revitalisation@cci-oise.fr ou au 03 44 79 80 97. Un conseiller de la CCI réalise le diagnostic, aide à monter le dossier et le présente au comité d'engagement composé des services de l'État. L'installation des petits équipements par vos soins est admise."
+    },
+    {
+      "type": "ressource",
+      "texte": "Page du Fonds mutualisé départemental de revitalisation de l'Oise sur le site des CCI Hauts-de-France",
+      "lien": "https://hautsdefrance.cci.fr/solutions/fonds-mutualise-revitalisation-oise/",
+      "lien_label": "Voir le fonds"
+    },
+    {
+      "type": "ressource",
+      "texte": "Fiche détaillée du dispositif (lignes d'aide et conditions) sur les-aides.fr, portail des CCI",
+      "lien": "https://les-aides.fr/aide/cYSP3w/cci-oise/financement-d-equipements-pour-des-economies-d-eau.html",
+      "lien_label": "Voir le dispositif"
+    },
+    {
+      "type": "ressource",
+      "texte": "Plaquette du fonds généraliste 2024-2027 (CCI Oise)",
+      "lien": "https://hautsdefrance.cci.fr/content/uploads/sites/6/2022/12/depliant-fmdro-1052024-8.pdf",
+      "lien_label": "Télécharger la plaquette"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "financeur, departements, periode",
+      "url": "https://hautsdefrance.cci.fr/solutions/fonds-mutualise-revitalisation-oise/",
+      "date": "2026-09-24",
+      "extrait": "La Préfecture de l'Oise et la CCI Oise ont renouvelé, pour la période 2024-2027, la convention de gestion du Fonds Mutualisé Départemental de Revitalisation de l'Oise (FMDRO). [...] aides aux TPE, PME ( commerce, industrie, services, artisanat, agriculture) sur l'ensemble du département. [...] Financement d'équipement pour des économies d'eau"
+    },
+    {
+      "champ": "infos_complementaires (démarche)",
+      "url": "https://hautsdefrance.cci.fr/solutions/fonds-mutualise-revitalisation-oise/",
+      "date": "2026-09-24",
+      "extrait": "Pour déposer un dossier pour le Fonds Généraliste, prenez contact par mail : revitalisation@cci-oise.fr Selon l'action, un.e conseiller.ère CCI vous accompagnera pour la réalisation du diagnostic, le montage du dossier et le présentera lors du comité d'engagement composé par les services de l'Etat. [...] 03 44 79 80 97"
+    },
+    {
+      "champ": "taux, plafond (15 000 €), eligibilite (TPE, critère « ou »)",
+      "url": "https://hautsdefrance.cci.fr/content/uploads/sites/6/2022/12/depliant-fmdro-1052024-8.pdf",
+      "date": "2026-09-24",
+      "extrait": "A6 : Financement d'équipement pour des économies d'eau [...] L'aide correspondra à 70% du montant et ne peut dépasser 15 000€ HT pour des équipements de locaux professionnels uniquement. Un diagnostic est à réaliser au préalable par un conseiller CCI. S'adresse aux TPE de moins de 30 salariés ou moins de 3.5 millions de CA."
+    },
+    {
+      "champ": "taux, plafond (5 000 €, lignes, minimum)",
+      "url": "https://les-aides.fr/aide/cYSP3w/cci-oise/financement-d-equipements-pour-des-economies-d-eau.html",
+      "date": "2026-09-24",
+      "extrait": "Etape 1 : l'aide prend la forme d'une subvention de 600 € HT par diagnostic réalisé. Étape 2 : [...] (2 lignes d'aides maximum) et correspondra au maximum à 70% du montant total, dans la limite de 5 000 € HT. [...] Le montant minimum d'investissement devra être de 700 € HT."
+    },
+    {
+      "champ": "description, mesures",
+      "url": "https://les-aides.fr/aide/cYSP3w/cci-oise/financement-d-equipements-pour-des-economies-d-eau.html",
+      "date": "2026-09-24",
+      "extrait": "Les petits équipements d'économie d'eau, 1 000 € HT de subvention maximum (auto installation permise) : les mousseurs/réducteurs, le débit devra être < à 7L/min [...] le pommeau de douche économe, le débit devra être < à 8L/min [...] la chasse d'eau double flux, le compteur divisionnaire d'eau [...] La rénovation du réseau d'eau, 3 000 € HT [...] La gestion des eaux de pluie, 2 000 € HT : le récupérateur d'eau de pluie [...] l'installation pour utilisation des eaux de pluie (WC, douches, machine à laver, double réseau, …)"
+    },
+    {
+      "champ": "mesures (ACT_AGR_002), description",
+      "url": "https://les-aides.fr/aide/cYSP3w/cci-oise/financement-d-equipements-pour-des-economies-d-eau.html",
+      "date": "2026-09-24",
+      "extrait": "Étape 1 : un diagnostic Eau de l'entreprise afin de construire un plan d'action pour le maintien et le développement de l'activité : identification des axes d'amélioration, plan d'actions, accompagnement à la mise en place des mesures, identification des financements mobilisables"
+    },
+    {
+      "champ": "eligibilite (critère « et »), infos_complementaires (non-cumul)",
+      "url": "https://les-aides.fr/aide/cYSP3w/cci-oise/financement-d-equipements-pour-des-economies-d-eau.html",
+      "date": "2026-09-24",
+      "extrait": "ne pas faire l'objet d'un financement de ces équipements dans un autre programme régional ou national pendant les 2 dernières années. [...] les travaux devront être effectués dans un établissement situé dans l'Oise, le projet ne devra pas être éligible à d'autres aides existantes (Région, ADEME, Etat...) [...] ne pas être en régime micro-entrepreneur, disposer de locaux professionnels, ne pas être une entreprise de prestation à caractère intellectuel, pour les structures de moins de 30 salariés et moins de 3,5 M de CA."
+    },
+    {
+      "champ": "statut du site les-aides.fr",
+      "url": "https://les-aides.fr/mentions_legales",
+      "date": "2026-09-24",
+      "extrait": "Ce site est édité par la Chambre de commerce et d'industrie Hauts-de-France"
+    },
+    {
+      "champ": "infos_complementaires (plafonds des lignes étude et procédés), description",
+      "url": "https://les-aides.fr/aide/cYSP3w/cci-oise/financement-d-equipements-pour-des-economies-d-eau.html",
+      "date": "2026-09-24",
+      "extrait": "L'étude pour économie d'eau dans l'entreprise, 2 000 € HT de subvention maximum [...] L'économie d'eau pour les procédés/équipement moins consommateurs, 5 000 € de subvention maximum [...] les mitigeurs thermostatiques, le pommeau de douche économe, le débit devra être < à 8L/min après installation"
+    }
+  ],
+  "date_maj": "2026-09-24"
+}

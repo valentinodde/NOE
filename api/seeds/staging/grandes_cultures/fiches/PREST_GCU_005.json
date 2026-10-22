@@ -1,0 +1,123 @@
+{
+  "id": "PREST_GCU_005",
+  "nom": "Irrifrance Groupe",
+  "type": "equipementier",
+  "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792084295/Noe%20assets/logos/PREST_GCU_005.png",
+  "siret": "42188559100048",
+  "description": "Fabricant français de matériel d'irrigation agricole, qui conçoit et fabrique à Paulhan (Hérault) des enrouleurs, des pivots et des rampes, et a racheté en octobre 2025 le fabricant de pivots France Pivots. Ses enrouleurs sont équipés de l'automatisation de la gestion de l'eau Irricontrol et Irridoseur et peuvent être suivis à distance par télégestion (débit, vitesse, pression, alertes) ; pour le maïs, il propose enrouleurs, pivots, rampes et couverture intégrale, les pivots et les rampes étant selon lui les plus répandus sur cette culture. Le matériel s'achète et se fait suivre auprès de son réseau de distributeurs agréés en France, avec des pièces de rechange fabriquées et stockées par Irrifrance.",
+  "expertises": [
+    "Enrouleurs avec régulation Irridoseur",
+    "Pivots et rampes d'irrigation",
+    "Télégestion des enrouleurs et pivots",
+    "Pièces de rechange d'origine"
+  ],
+  "categories": [
+    "ameliorer_efficacite_hydrique"
+  ],
+  "secteurs": [
+    "grandes_cultures"
+  ],
+  "departements": [],
+  "mesures": [
+    {
+      "id": "ACT_GCU_003",
+      "roles": [
+        "materiel"
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "type": "site_internet",
+      "value": "https://www.irrifrance.com/"
+    },
+    {
+      "type": "tel",
+      "value": "04 67 25 79 79"
+    },
+    {
+      "type": "mail",
+      "value": "irrifrance@irrifrance.fr"
+    },
+    {
+      "type": "adresse",
+      "value": "Route de Pézenas, 34230 Paulhan"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Irrifrance&departement=34",
+      "date": "2026-10-15",
+      "extrait": "IRRIFRANCE GROUPE, siret 42188559100048, siège, ROUTE DE PEZENAS 34230 PAULHAN, 28.30Z, état A ; effectif 100 à 199 salariés (2024), créée en 1998. La société IRRIFRANCE (10808550700011), même adresse, créée le 2026-07-22, sans effectif déclaré."
+    },
+    {
+      "champ": "siret",
+      "url": "https://www.irrifrance.com/mentions-legales",
+      "date": "2026-10-15",
+      "extrait": "au capital social de 6035550,00€, immatriculée au registre du commerce et des sociétés de Montepllier, sous le numéro 21 885 591 R.C.S. (SIREN 421 885 591 tronqué)"
+    },
+    {
+      "champ": "type, description, departements, contacts",
+      "url": "https://www.irrifrance.com/",
+      "date": "2026-10-15",
+      "extrait": "Tous les produits sont conçus et fabriqués à Paulhan, dans le sud de la France. IRRIFRANCE a des partenaires agréés en France et à l'étranger. IRRIFRANCE est le seul fabricant français de l'ensemble de la gamme enrouleurs, pivots, rampes. Route de Pezenas 34230 Paulhan, +33 (0)4 67 25 79 79, irrifrance@irrifrance.fr"
+    },
+    {
+      "champ": "type, expertises, mesures (ACT_GCU_003)",
+      "url": "https://www.irrifrance.com/enrouleurs/",
+      "date": "2026-10-15",
+      "extrait": "Entièrement conçus et réalisés dans le sud de la France, à Paulhan (Hérault), les enrouleurs de la marque IRRIFRANCE [...] sont équipés de l'automatisation de la gestion de l'eau IRRICONTROL et IRRIDOSEUR. Régulation Irricontrol-Irridoseur"
+    },
+    {
+      "champ": "expertises, mesures (ACT_GCU_003)",
+      "url": "https://www.irrifrance.com/pivots/",
+      "date": "2026-10-15",
+      "extrait": "L'irrigation par pivot [...] permet de couvrir une grande surface d'irrigation, de gagner du temps et de réaliser des économies de main d'œuvre et d'eau. IRRIFRANCE propose un large choix de pivots d'irrigation"
+    },
+    {
+      "champ": "expertises, mesures (ACT_GCU_003)",
+      "url": "https://www.irrifrance.com/rampes/",
+      "date": "2026-10-15",
+      "extrait": "Les rampes permettent d'assurer l'irrigation de toute ou partie d'une parcelle, quelle que soit sa forme. [...] une consommation hydraulique nettement inférieure à celle d'un canon"
+    },
+    {
+      "champ": "description, mesures (ACT_GCU_003, secteur grandes cultures)",
+      "url": "https://www.irrifrance.com/portfolio/mais/",
+      "date": "2026-10-15",
+      "extrait": "L'utilisation de l'irrigation moderne (pivots et les rampes) est sûrement la plus répandue pour cette culture. Produits : Enrouleurs, Pivots, Rampes, Couverture intégrale, Conduites"
+    },
+    {
+      "champ": "expertises, description",
+      "url": "https://www.irrifrance.com/telegestion/",
+      "date": "2026-10-15",
+      "extrait": "IMS Enrouleurs et IMS Pivots : Débit, vitesse, pression au canon en cours. Recevez des alertes en temps réel pour une intervention rapide."
+    },
+    {
+      "champ": "expertises, description",
+      "url": "https://www.irrifrance.com/pieces-de-rechange/",
+      "date": "2026-10-15",
+      "extrait": "IRRIFRANCE fabrique, et stock des pièces de rechange sur l'ensemble de ses produits. Une équipe dédiée apporte le support à nos partenaires."
+    },
+    {
+      "champ": "description",
+      "url": "https://www.irrifrance.com/distributeur-agree/",
+      "date": "2026-10-15",
+      "extrait": "Les régions et les pays où sont présents nos distributeurs Irrifrance sont en orange"
+    },
+    {
+      "champ": "description (rachat de France Pivots)",
+      "url": "https://www.unigrains.fr/uploads/pdf-actualites/2025/251008%20IRRIFRANCE%20France%20Pivots%20FR%20Final.pdf",
+      "date": "2026-10-15",
+      "extrait": "Paris, le 8 octobre 2025, IRRIFRANCE Groupe [...] annonce l'acquisition de France Pivots, fabricant et installateur de systèmes de pivots agricoles auprès du Groupe Chagneau."
+    },
+    {
+      "champ": "logo_url",
+      "url": "https://www.irrifrance.com/wp-content/uploads/2018/11/logo-irrifrance-picto.png",
+      "date": "2026-10-15",
+      "extrait": "apple-touch-icon et favicon du site irrifrance.com"
+    }
+  ],
+  "date_maj": "2026-10-15"
+}

@@ -1,0 +1,157 @@
+{
+  "id": "PREST_GCU_021",
+  "nom": "Vento-Sol",
+  "type": "equipementier",
+  "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792084515/Noe%20assets/logos/PREST_GCU_021.png",
+  "siret": "81377683800019",
+  "description": "Société de Castres (Tarn) qui conçoit et fabrique Ecobang, un dispositif de traitement des effluents phytosanitaires par évaporation forcée : un ventilateur fait évaporer l'eau des eaux de lavage et de rinçage du pulvérisateur stockées dans une cuve fermée, et le résidu sec est éliminé comme déchet dangereux, avec une collecte par Adivalor. Le dispositif existe en versions standard (sur cuve IBC de 1 000 litres, en caisse palette, en cuve inox de 2 000 à 6 000 litres) et en kit sur mesure qui s'adapte à une cuve existante, enterrée ou hors sol, y compris en sortie d'une aire de lavage déjà construite. Le dimensionnement se fait à distance, par téléphone et sur photos et plans, puis le matériel est livré en kit ou clé en main, sur devis.",
+  "expertises": [
+    "Traitement des effluents phytosanitaires",
+    "Évaporation des effluents en cuve",
+    "Adaptation sur cuve existante",
+    "Dimensionnement à distance"
+  ],
+  "categories": [
+    "agir_rejets_qualite"
+  ],
+  "secteurs": [
+    "grandes_cultures"
+  ],
+  "departements": [],
+  "mesures": [
+    {
+      "id": "ACT_GCU_009",
+      "roles": [
+        "materiel"
+      ]
+    }
+  ],
+  "infos_complementaires": [
+    {
+      "type": "avertissement",
+      "texte": "Ecobang ne figure pas sur la liste des procédés de traitement des effluents phytopharmaceutiques reconnus efficaces par le ministère de l'Écologie (avis du 30 août 2018, annexe I, 18 procédés). Vento-Sol le reconnaît et indique que les juridictions administratives ont jugé que son dispositif n'entrait pas dans la procédure de reconnaissance, qui vise les procédés dont les résidus sont épandus, et qu'il peut être utilisé dans le respect du Code de l'environnement. Le fabricant signale aussi qu'une région a refusé de financer Ecobang pour ce motif. Avant de commander, faites confirmer par écrit par votre financeur (Région, agence de l'eau) que le dispositif est éligible à l'aide que vous sollicitez.",
+      "lien": "https://aida.ineris.fr/reglementation/avis-300818-relatif-a-liste-procedes-traitement-effluents-phytopharmaceutiques",
+      "lien_label": "Avis du 30 août 2018 sur la liste des procédés reconnus (AIDA, Ineris)"
+    },
+    {
+      "type": "ressource",
+      "texte": "La position du fabricant sur la liste officielle et sur les financements est détaillée dans sa foire aux questions.",
+      "lien": "https://www.vento-sol.com/faq/",
+      "lien_label": "FAQ Vento-Sol"
+    }
+  ],
+  "contacts": [
+    {
+      "type": "site_internet",
+      "value": "https://www.vento-sol.com/"
+    },
+    {
+      "type": "tel",
+      "value": "05 63 35 55 14"
+    },
+    {
+      "type": "tel",
+      "value": "06 33 72 80 12"
+    },
+    {
+      "type": "mail",
+      "value": "contact@vento-sol.com"
+    },
+    {
+      "type": "adresse",
+      "value": "55 chemin de Las Tinos, 81100 Castres"
+    },
+    {
+      "type": "linkedin",
+      "value": "https://www.linkedin.com/company/vento-sol/"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Vento-Sol&departement=81",
+      "date": "2026-10-15",
+      "extrait": "VENTO-SOL, siret 81377683800019, siège, 55 CHEMIN DE LAS TINOS 81100 CASTRES, activité 28.99B, état administratif A, 1 établissement ouvert"
+    },
+    {
+      "champ": "contacts",
+      "url": "https://www.vento-sol.com/contact/",
+      "date": "2026-10-15",
+      "extrait": "Vento-sol vous accueille de 9h à 17h, uniquement sur rendez-vous, à l'adresse suivante : 55 Chem. de las Tinos, 81100 CASTRES. Coordonnées + 33 (0) 5 63 35 55 14 +33 (0) 6 33 72 80 12 contact@vento-sol.com ; lien LinkedIn https://www.linkedin.com/company/vento-sol/"
+    },
+    {
+      "champ": "description, expertises, mesures, categories",
+      "url": "https://www.vento-sol.com/traitement-des-effluents-phytosanitaires/",
+      "date": "2026-10-15",
+      "extrait": "Utilisation d'un dispositif de traitement sur place des effluents phytosanitaires, où intervient Vento-Sol avec ECOBANG. [...] Certains dispositifs (Ecobang, Héliosec, Osmofilm) peuvent être collectés par Adivalor. [...] Découvrez notre gamme d'ECOBANG : ECOBANG IBC-GRV, ECOBANG CP 900, ECOBANG 2000 à 6000, ECOBANG sur-mesure [...] Installation : choix entre un kit à installer soi-même ou un matériel clé en main. [...] Construction d'une aire de lavage par-dessus une fosse en béton existante pour un client. [...] Identification des besoins à distance. Réalisé par téléphone. [...] Nécessité de photos, plans et dimensions pour finaliser les solutions. [...] Adaptation d'ECOBANG à des cuves déjà installées pour la récupération des effluents phytosanitaires. [...] À ce jour (Décembre 2025), plus de 500 dispositifs ECOBANG ont été installés chez des clients."
+    },
+    {
+      "champ": "description, expertises",
+      "url": "https://www.vento-sol.com/ecobang-sur-mesure/",
+      "date": "2026-10-15",
+      "extrait": "Il repose sur une ventilation forcée qui insuffle de l'air. [...] nous leur proposons d'équiper, avec un kit ECOBANG réalisé sur mesure, la cuve qu'ils ont déjà. Cela réduit grandement le coût de l'installation, la citerne n'ayant pas besoin d'être remplacée."
+    },
+    {
+      "champ": "description",
+      "url": "https://www.vento-sol.com/ecobang-cp-900/",
+      "date": "2026-10-15",
+      "extrait": "Le dispositif est livré prêt à l'usage. L'utilisateur n'a qu'à effectuer les étapes suivantes pour le mettre en place sur son aire de stockage : Il installe la sache fournie dans la caisse palette et referme le couvercle."
+    },
+    {
+      "champ": "description",
+      "url": "https://www.vento-sol.com/ecobang-ibc-grv/",
+      "date": "2026-10-15",
+      "extrait": "ECOBANG IBC-GRV est un dispositif de traitement des effluents phytosanitaires et des effluents industriels adaptable aux cuves standards de 1000 litres. [...] Livraison au choix : clef en main (avec cuve) ou en kit (a adapté sur votre cuve)"
+    },
+    {
+      "champ": "description",
+      "url": "https://www.vento-sol.com/contact-ou-demande-de-devis/",
+      "date": "2026-10-15",
+      "extrait": "Page « Contact et Devis » du site : formulaire de demande, 55 Chem. de las Tinos, 81100 CASTRES"
+    },
+    {
+      "champ": "type, description",
+      "url": "https://www.vento-sol.com/ecobang-2000-a-6000/",
+      "date": "2026-10-15",
+      "extrait": "ECOBANG 2000 à 6000 représente un dispositif de traitement des effluents phytosanitaires conçu pour gérer des volumes plus élevés d'effluents. [...] Nous fabriquons la cuve d'ECOBANG 2000 à 6000 en acier inoxydable pour garantir sa durabilité. Elle comporte des traverses verticales que nous soudons sur les côtés pour renforcer la structure. [...] Nous livrons la cuve prête à l'usage, avec la bâche déjà installée."
+    },
+    {
+      "champ": "type, description",
+      "url": "https://www.vento-sol.com/ce-quon-ne-vous-a-jamais-dit-sur-la-reglementation-en-matiere-de-traitement-des-effluents-phytosanitaires/",
+      "date": "2026-10-15",
+      "extrait": "En tant que fabricants du dispositif ECOBANG, nous subissons des énormes blocages administratifs depuis le démarrage de notre activité en 2010. [...] Le processus de vente a aussi été créé pour en réduire au maximum le coût (très peu de déplacements, vente quasiment exclusivement à distance, y compris sur les équipement créé sur mesure, etc...). [...] vendu environ 500 dispositifs, dont 400 en France"
+    },
+    {
+      "champ": "departements",
+      "url": "https://www.vento-sol.com/realisations-ecobang/",
+      "date": "2026-10-15",
+      "extrait": "Depuis cette date, ce client traite ses effluents phytosanitaires avec ECOBANG sur 10 autres sites répartis dans plusieurs régions en France : Occitanie, Paca, Bourgogne, Hauts de France, Normandie, Centre Val de Loire, Pays de Loire, Nouvelle-Aquitaine."
+    },
+    {
+      "champ": "infos_complementaires",
+      "url": "https://aida.ineris.fr/sites/aida/files/gesdoc/98309/Avis20180830BO25092018_Annexe_I.pdf",
+      "date": "2026-10-15",
+      "extrait": "Annexe I (BO MTES-MCT n° 2018/9 du 25 septembre 2018, tableau scanné) : STBR2, Emeraude, Evapophyt, Héliosec, Osmofilm, Phytobac, Phytocat, Phytopur, Sentinel, Vitimax, Cascade Twin, UTP, Phytocompo, Hydrocampe, Carola EPUmobil, BFbulles, Phytosec, Phytobarre. Ecobang n'y figure pas."
+    },
+    {
+      "champ": "infos_complementaires",
+      "url": "https://aida.ineris.fr/reglementation/avis-300818-relatif-a-liste-procedes-traitement-effluents-phytopharmaceutiques",
+      "date": "2026-10-15",
+      "extrait": "Dans le cadre de la procédure prévue à l'article 9 de l'arrêté du 4 mai 2017 précité, après examen d'un tiers expert, les procédés cités dans le tableau joint en annexe I sont reconnus efficaces par le ministère de la transition écologique et solidaire pour le traitement des effluents phytopharmaceutiques"
+    },
+    {
+      "champ": "infos_complementaires",
+      "url": "https://www.vento-sol.com/faq/",
+      "date": "2026-10-15",
+      "extrait": "Pourquoi ECOBANG n'apparaît pas dans la liste des dispositifs de traitement des effluents phytosanitaires reconnus ? [...] la justice a confirmé qu'ECOBANG n'entrait pas dans le cadre de la procédure de reconnaissance [...] Le seul point sensiblement bloquant qui peut arriver est un refus des financements dans certaines régions (à la date du 9 juin 2023, seule la région Pays de la Loire refusait les financements, au prétexte qu'ECOBANG n'était pas dans la liste officielle."
+    },
+    {
+      "champ": "logo_url",
+      "url": "https://www.vento-sol.com/wp-content/uploads/2023/10/cropped-juste-le-pin-192x192.png",
+      "date": "2026-10-15",
+      "extrait": "icône 192 px du site vento-sol.com (symbole carré en couleur : goutte grise et disque bleu)"
+    }
+  ],
+  "date_maj": "2026-10-15"
+}

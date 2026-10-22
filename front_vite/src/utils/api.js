@@ -21,6 +21,16 @@ export async function fetchTerritoire(codeBassin) {
   return response.json();
 }
 
+export async function fetchEtablissement(siret) {
+  const response = await fetch(`${API_URL}/etablissement/${siret}`);
+  if (!response.ok) {
+    const error = new Error(`Établissement non trouvé (${response.status})`);
+    error.status = response.status;
+    throw error;
+  }
+  return response.json();
+}
+
 export async function fetchSectorsList() {
   const response = await fetch(`${API_URL}/sectors`);
   if (!response.ok) throw new Error(`Erreur ${response.status}`);
@@ -33,12 +43,180 @@ export async function fetchSector(sectorId) {
   return response.json();
 }
 
+export async function fetchInstitutionalActors(lat, lon, type = null) {
+  const params = new URLSearchParams({ lat, lon });
+  if (type) params.set('type', type);
+  const response = await fetch(`${API_URL}/institutional-actors?${params}`);
+  if (!response.ok) throw new Error(`Erreur ${response.status}`);
+  return response.json();
+}
+
+/**
+ * Restrictions sécheresse en vigueur (API VigiEau, via le backend).
+ * `profil` : 'entreprise' | 'exploitation' | ... Si omis, il est déduit du code NAF.
+ */
+export async function fetchVigieauZones({ lat, lon, commune, profil, naf }) {
+  const params = new URLSearchParams({ lat, lon });
+  if (commune) params.set('commune', commune);
+  if (profil) params.set('profil', profil);
+  if (naf) params.set('naf', naf);
+
+  const response = await fetch(`${API_URL}/vigieau/zones?${params}`);
+  if (!response.ok) {
+    const data = await response.json().catch(() => ({}));
+    throw new Error(data.error || `Erreur ${response.status}`);
+  }
+  return response.json();
+}
+
+/**
+ * Historique annuel des restrictions sécheresse de la commune : nombre de jours
+ * passés à chaque niveau de gravité, par ressource (eaux superficielles / souterraines).
+ */
+export async function fetchRestrictionsHistorique(codeCommune) {
+  const response = await fetch(`${API_URL}/restrictions/historique/${encodeURIComponent(codeCommune)}`);
+  if (!response.ok) {
+    const data = await response.json().catch(() => ({}));
+    throw new Error(data.error || `Erreur ${response.status}`);
+  }
+  return response.json();
+}
+
+/**
+ * Retours d'expérience : aides des agences de l'eau accordées à des bénéficiaires
+ * du même secteur (NAF) ou engagés dans le même type d'action.
+ * `categories` : catégories du plan d'action, utilisées en repli quand le secteur
+ * ne suffit pas.
+ */
+export async function fetchAidesExemples({ naf, lat, lon, dept, siren, categories = [], limit = 6 }) {
+  const params = new URLSearchParams({ naf, limit });
+  if (lat != null) params.set('lat', lat);
+  if (lon != null) params.set('lon', lon);
+  if (dept) params.set('dept', dept);
+  if (siren) params.set('siren', siren);
+  if (categories.length) params.set('categories', categories.join(','));
+
+  const response = await fetch(`${API_URL}/aides/exemples?${params}`);
+  if (!response.ok) {
+    const data = await response.json().catch(() => ({}));
+    throw new Error(data.error || `Erreur ${response.status}`);
+  }
+  return response.json();
+}
+
+/**
+ * Contours simplifiés des six bassins des agences de l'eau, pour le fond de
+ * carte des retours d'expérience. Ils ne changent pas : une seule requête par
+ * session.
+ */
+let contoursAgences = null;
+export function fetchContoursAgences() {
+  if (!contoursAgences) {
+    contoursAgences = fetch(`${API_URL}/agences-eau/contours`)
+      .then(r => { if (!r.ok) throw new Error(`Erreur ${r.status}`); return r.json(); })
+      .catch(err => { contoursAgences = null; throw err; });
+  }
+  return contoursAgences;
+}
+
+/**
+ * Référentiel du questionnaire pour un code NAF : questions, catégories du plan
+ * d'action, bibliothèque de mesures, configuration du constructeur et prestataires.
+ * Renvoie null si aucun questionnaire ne couvre ce secteur.
+ */
+export async function fetchQuestionnaire(naf) {
+  const response = await fetch(`${API_URL}/questionnaire/${encodeURIComponent(naf)}`);
+  if (response.status === 404) return null;
+  if (!response.ok) {
+    const data = await response.json().catch(() => ({}));
+    throw new Error(data.error || `Erreur ${response.status}`);
+  }
+  return response.json();
+}
+
+/**
+ * Prestataires et aides visibles pour le secteur (code NAF), le département
+ * et l'agence de l'eau (résolue depuis le point) de l'établissement, chacun
+ * avec les mesures auxquelles il est lié.
+ * null si aucun questionnaire ne couvre ce code NAF.
+ */
+export async function fetchSolutions(naf, { dept, lat, lon } = {}) {
+  const params = new URLSearchParams({ naf });
+  if (dept) params.set('dept', dept);
+  if (lat != null && lon != null) {
+    params.set('lat', lat);
+    params.set('lon', lon);
+  }
+  const response = await fetch(`${API_URL}/solutions?${params}`);
+  if (response.status === 404) return null;
+  if (!response.ok) {
+    const data = await response.json().catch(() => ({}));
+    throw new Error(data.error || `Erreur ${response.status}`);
+  }
+  return response.json();
+}
+
 export async function patchSector(sectorId, updates) {
   const response = await fetch(`${API_URL}/sectors/${encodeURIComponent(sectorId)}`, {
     method: 'PATCH',
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify(updates),
   });
+  if (!response.ok) {
+    const data = await response.json().catch(() => ({}));
+    throw new Error(data.error || `Erreur ${response.status}`);
+  }
+  return response.json();
+}
+
+// ─── Vision territoriale ──────────────────────────────────────────────────────
+
+/**
+ * Les bassins versants de métropole : contours simplifiés et indicateurs par
+ * horizon (FeatureCollection, environ 600 ko compressés). Une seule requête
+ * par session.
+ */
+let carteBassins = null;
+export function fetchCarteBassins() {
+  if (!carteBassins) {
+    carteBassins = fetch(`${API_URL}/territoires/bassins`)
+      .then(r => { if (!r.ok) throw new Error(`Erreur ${r.status}`); return r.json(); })
+      .catch(err => { carteBassins = null; throw err; });
+  }
+  return carteBassins;
+}
+
+/** Communes dont le nom (ou le code INSEE) commence par `q`, avec leur bassin. */
+export async function fetchCommunes(q, { signal } = {}) {
+  const response = await fetch(`${API_URL}/territoires/communes?${new URLSearchParams({ q })}`, { signal });
+  if (!response.ok) throw new Error(`Erreur ${response.status}`);
+  return response.json();
+}
+
+/**
+ * Emplois estimés et activités dépendantes de l'eau d'un ensemble de bassins
+ * (tous si `bassins` est vide).
+ */
+export async function fetchActiviteTerritoire(bassins = [], { signal, limit = 8 } = {}) {
+  const params = new URLSearchParams({ limit });
+  if (bassins.length) params.set('bassins', bassins.join(','));
+  const response = await fetch(`${API_URL}/territoires/activite?${params}`, { signal });
+  if (!response.ok) {
+    const data = await response.json().catch(() => ({}));
+    throw new Error(data.error || `Erreur ${response.status}`);
+  }
+  return response.json();
+}
+
+// ─── Explorateur des fiches ───────────────────────────────────────────────────
+
+/**
+ * Toutes les fiches prestataires et aides, publiées ou en staging, avec leur
+ * provenance, leur verdict et leurs contrôles. Relu à chaque appel : une fiche
+ * corrigée dans les seeds apparaît au rechargement.
+ */
+export async function fetchFiches() {
+  const response = await fetch(`${API_URL}/fiches`);
   if (!response.ok) {
     const data = await response.json().catch(() => ({}));
     throw new Error(data.error || `Erreur ${response.status}`);

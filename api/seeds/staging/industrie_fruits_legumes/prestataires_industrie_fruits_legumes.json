@@ -1,0 +1,1271 @@
+[
+  {
+    "id": "PREST_FRL_001",
+    "nom": "FEMIA Industrie",
+    "type": "equipementier",
+    "logo_url": null,
+    "siret": "33334484400092",
+    "description": "Constructeur de machines pour l'agroalimentaire (NAF 28.93Z), spécialisé depuis 1962 dans les légumes verts, qui conçoit dans son bureau d'études et fabrique sur son site de Hallennes-lez-Haubourdin (Nord) des lignes de préparation de fruits et légumes ; il cite Bonduelle et McCain parmi les industriels accompagnés et affiche en France les logos de Bonduelle, Eureden, Greenyard et William Saurin. Pour l'entrée de ligne, il fabrique des tambours nettoyeurs, des séparateurs à air qui éliminent les déchets légers par un courant d'air, sans eau, ainsi que des épierreurs et des laveurs qui recyclent et filtrent leur eau en continu ; pour le traitement thermique, des blancheurs et blancheurs-refroidisseurs sur mesure intégrant la filtration de l'eau. Il livre, installe et raccorde ses équipements sur site, forme les équipes à leur utilisation et propose audit, rénovation et maintenance des lignes existantes.",
+    "expertises": [
+      "Tambours nettoyeurs et épierreurs",
+      "Laveurs à eau recyclée",
+      "Blancheurs-refroidisseurs sur mesure",
+      "Rénovation de lignes existantes"
+    ],
+    "categories": [
+      "ameliorer_efficacite_hydrique"
+    ],
+    "secteurs": [
+      "industrie_fruits_legumes"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_FRL_003",
+        "roles": [
+          "materiel"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.femia.fr/"
+      },
+      {
+        "type": "tel",
+        "value": "01 56 83 77 00"
+      },
+      {
+        "type": "adresse",
+        "value": "10 rue Jacques Daguerre, 92500 Rueil-Malmaison"
+      },
+      {
+        "type": "tel",
+        "value": "03 20 07 38 38"
+      },
+      {
+        "type": "adresse",
+        "value": "1 avenue Industrielle, 59320 Hallennes-lez-Haubourdin (site de production)"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "siret, type",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=FEMIA%20Industrie&departement=92",
+        "date": "2026-09-25",
+        "extrait": "FEMIA INDUSTRIE, siret 33334484400092, siège, 10 RUE JACQUES DAGUERRE 92500 RUEIL-MALMAISON, activité 28.93Z, état administratif A, 2 établissements ouverts"
+      },
+      {
+        "champ": "contacts",
+        "url": "https://www.femia.fr/contact/",
+        "date": "2026-09-25",
+        "extrait": "Siège social FEMIA Industrie 10 rue Jacques Daguerre 92500 Rueil-Malmaison +33 (0)1.56.83.77.00. Site de production FEMIA Industrie 1 avenue Industrielle 59320 Hallennes-lez-Haubourdin +33 (0)3.20.07.38.38"
+      },
+      {
+        "champ": "type, description, expertises, mesures (ACT_FRL_003 materiel)",
+        "url": "https://www.femia.fr/lignes-production/nettoyage/",
+        "date": "2026-09-25",
+        "extrait": "Tambour autonettoyant en plusieurs sections pour supprimer les déchets collants, les petits déchets et les gros déchets. [...] Séparateur [...] qui élimine les déchets légers par un courant d'air ascendant contrôlé [...] Laveur polyvalent pour légumes et fruits [...] recycle l'eau dans un tambour épurateur pour une consommation réduite. [...] Epierreur hydraulique [...] Faible consommation d'eau du fait de son recyclage et de la filtration en continu [...] la fabrication est lancée sur notre site de production, au cœur des Hauts-de-France"
+      },
+      {
+        "champ": "description, expertises",
+        "url": "https://www.femia.fr/lignes-production/blanchiment/",
+        "date": "2026-09-25",
+        "extrait": "nos solutions de blanchiment sont entièrement personnalisées [...] Nous intégrons des systèmes de refroidissement avec chiller, de récupération d'énergie, de filtration de l'eau et d'éjection des déchets. [...] Nous assurons la livraison, l'installation et le raccordement de vos équipements directement sur site. [...] Nous formons vos équipes à l'utilisation, à l'entretien et à la maintenance des équipements"
+      },
+      {
+        "champ": "description",
+        "url": "https://www.femia.fr/a-propos-de-nous/lhistoire-de-femia/",
+        "date": "2026-09-25",
+        "extrait": "1962 : notre création [...] en se spécialisant dans les machines pour les légumes verts. 1970 : une croissance rapide [...] Nous avons su accompagner des grands noms de l'industrie agroalimentaire comme Bonduelle ou McCain."
+      },
+      {
+        "champ": "departements, description, secteurs",
+        "url": "https://www.femia.fr/a-propos-de-nous/femia-a-linternational/",
+        "date": "2026-09-25",
+        "extrait": "acteur reconnu sur la scène internationale en matière de conception, de fabrication et d'installation [...] 55 pays dans lesquels nous sommes présents et proposons nos services [...] Ils nous font confiance : logos légendés par pays, dont Nouvelle-Zélande (mccain-foods-logo.png), France (logo-bonduelle), France (GREENYARD_RGB.png), France (EuredenLogoSeul), France (William-Saurin)"
+      },
+      {
+        "champ": "description, expertises",
+        "url": "https://www.femia.fr/optimisation-de-ligne/",
+        "date": "2026-09-25",
+        "extrait": "Nous pouvons faire le point ensemble sur l'état de votre parc actuel et sur vos besoins pour le faire évoluer, le remettre en état et assurer sa maintenance. [...] réaliser des audits, vous proposer des opérations de maintenance ou mettre en place des évolutions techniques."
+      }
+    ],
+    "date_maj": "2026-09-25"
+  },
+  {
+    "id": "PREST_FRL_002",
+    "nom": "Hubert Process",
+    "type": "equipementier",
+    "logo_url": null,
+    "siret": "34088523500036",
+    "description": "Entreprise de Laval qui conçoit et fabrique dans ses ateliers des lignes de lavage sur mesure pour la 1re gamme (mâche, jeunes pousses, radis, légumes feuilles) et des laveurs polyvalents pour la 4e gamme, avec bac de dessablage, bacs de lavage et de rinçage, tri optique et séchage, de l'étude par son bureau d'études jusqu'à la mise en route et la formation du personnel. Pour le lavage d'entrée, son apport porte sur la régulation de l'eau : sa laveuse de légumes feuilles est équipée de systèmes de contrôle du débit d'eau et de mesure du taux de salissure dans les bacs ; le sable y est retiré dans l'eau, en bac de dessablage, et le site ne présente pas d'équipement de déterrage à sec. Pour les légumes racines, elle annonce des laveurs polyvalents de 4e gamme mais précise ne pas réaliser les laveuses de légumes racines des stations de lavage de maraîchage. Elle se situe « au coeur du Grand Ouest » et ses mises en route se font dans le Nord-Ouest de la France.",
+    "expertises": [
+      "Lignes de lavage de mâche",
+      "Laveuses de légumes feuilles",
+      "Laveurs polyvalents 4e gamme",
+      "Tri optique de légumes feuilles"
+    ],
+    "categories": [
+      "ameliorer_efficacite_hydrique"
+    ],
+    "secteurs": [
+      "industrie_fruits_legumes"
+    ],
+    "departements": [
+      "22",
+      "29",
+      "35",
+      "56",
+      "44",
+      "49",
+      "53",
+      "72",
+      "85"
+    ],
+    "mesures": [
+      {
+        "id": "ACT_FRL_003",
+        "roles": [
+          "materiel"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.hubertprocess.com"
+      },
+      {
+        "type": "tel",
+        "value": "02 43 69 62 98"
+      },
+      {
+        "type": "mail",
+        "value": "contact@hubertprocess.com"
+      },
+      {
+        "type": "adresse",
+        "value": "33 rue du Pont au Chat, ZA de la Gaufrie, 53000 Laval"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "siret, adresse",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=Hubert%20Process&departement=53",
+        "date": "2026-09-25",
+        "extrait": "HUBERT PROCESS, siret 34088523500036, siège, ZONE D'ACTIVITE DE LA GAUFRIE 33 RUE DU PONT AU CHAT 53000 LAVAL, activité 28.93Z, état administratif A"
+      },
+      {
+        "champ": "contacts",
+        "url": "https://www.hubertprocess.com/contact/",
+        "date": "2026-09-25",
+        "extrait": "33 rue du Pont au Chat, ZA de la Gaufrie, 53000 LAVAL, FRANCE. 02 43 69 62 98. contact@hubertprocess.com"
+      },
+      {
+        "champ": "type, description",
+        "url": "https://www.hubertprocess.com/notre-societe/",
+        "date": "2026-09-25",
+        "extrait": "Nous réalisons l'étude et la fabrication de vos produits dans nos bureaux et ateliers. [...] 1994 : Fabrication et installation de la première ligne de lavage mâche. [...] Installation : Mise en route et formation du personnel"
+      },
+      {
+        "champ": "description, expertises",
+        "url": "https://www.hubertprocess.com/nos-solutions/laveur-de-legumes/",
+        "date": "2026-09-25",
+        "extrait": "Hubert process est spécialisée dans le process de lavage en 1ère gamme [...] lavage de mâche, jeunes pousses, radis, légumes feuilles. Nous réalisons également des laveurs de fruits et légumes polyvalents pour la 4ème gamme pour des légumes racines, des légumes feuillus ou des fruits. [...] Chez Hubert Process, nous ne réalisons pas ce genre de laveuse légumes racines [...] Ces types de laveur de légumes sont utilisés dans les stations de lavage de maraîchage."
+      },
+      {
+        "champ": "mesures (ACT_FRL_003), description",
+        "url": "https://www.hubertprocess.com/avantages-machines-consommation-deau/",
+        "date": "2026-09-25",
+        "extrait": "Hubert Process à mis en place une solution de lavage de légumes feuilles, économique en eau. Équipé de différents systèmes pour contrôler le débit d'eau ainsi que des systèmes de mesure du taux de salissure dans les bacs de lavage."
+      },
+      {
+        "champ": "secteurs, departements",
+        "url": "https://www.hubertprocess.com/votre-secteur-dactivite/agroalimentaire/",
+        "date": "2026-09-25",
+        "extrait": "Nous équipons des usines spécialisées dans la préparation de fruits et légumes de 4ème gamme et 1ère gamme. [...] Situé à Laval, nous sommes positionné au coeur du Grand Ouest ce qui nous permet de faire preuve d'une bonne réactivité."
+      },
+      {
+        "champ": "expertises, description (dessablage)",
+        "url": "https://www.hubertprocess.com/votre-secteur-dactivite/maraichage/",
+        "date": "2026-09-25",
+        "extrait": "Notre trieuse optique est destinée à trier la mâche, les jeunes pousses et autres légumes feuilles ainsi que la pomme de terre. [...] Lors du lavage, le produit est lavé dans un bac de dessablage qui va permettre d'enlever le sable du produit et l'évacuer ensuite."
+      },
+      {
+        "champ": "departements",
+        "url": "https://www.hubertprocess.com/recrutement/",
+        "date": "2026-09-25",
+        "extrait": "Ce poste nécessite des déplacements dans le Nord-Ouest de la France lors des mises en route environ 30 jours par an"
+      },
+      {
+        "champ": "departements",
+        "url": "https://www.hubertprocess.com/nos-solutions/tri-optique/",
+        "date": "2026-09-25",
+        "extrait": "a répondu aux sollicitations de producteurs nantais pour qui il travaillait déjà"
+      }
+    ],
+    "date_maj": "2026-09-25"
+  },
+  {
+    "id": "PREST_FRL_003",
+    "nom": "Mulot Agroalimentaire",
+    "type": "equipementier",
+    "logo_url": "https://www.mulotagroalimentaire.com/wp-content/uploads/2021/06/mulot-Agro.png",
+    "siret": "33244100500029",
+    "description": "Branche agroalimentaire du groupe Mulot (SAS Mulot, La Tremblade), qui conçoit et fabrique dans ses ateliers de Charente-Maritime des machines pour fruits et légumes. Pour le lavage, elle propose des laveuses à tambour immergé pour légumes racines, des laveuses cylindriques à brosses, des laveurs tubulaires à rampe de jets et des tapis élévateurs laveurs en eau, conçus sur cahier des charges par son bureau d'études, avec entretien du matériel assuré sur tout le territoire. Son site ne donne aucune indication de consommation d'eau de ces machines, et certaines machines du catalogue sont des modèles d'autres marques (éplucheuses Robot-Coupe et Kronen, machines sous vide Henkelman).",
+    "expertises": [
+      "Laveuses pour légumes racines",
+      "Tapis élévateurs laveurs en eau",
+      "Lignes de lavage sur mesure",
+      "Entretien du matériel"
+    ],
+    "categories": [
+      "ameliorer_efficacite_hydrique"
+    ],
+    "secteurs": [
+      "industrie_fruits_legumes"
+    ],
+    "departements": [],
+    "mesures": [],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.mulotagroalimentaire.com/"
+      },
+      {
+        "type": "tel",
+        "value": "05 46 36 08 89"
+      },
+      {
+        "type": "adresse",
+        "value": "ZA des Brassons, 17390 La Tremblade"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "contacts (tel, adresse)",
+        "url": "https://www.mulotagroalimentaire.com/contact/",
+        "date": "2026-09-25",
+        "extrait": "Pour des questions ou des renseignements contactez nous par téléphone au 05 46 36 08 89 ou par mail. Notre adresse ZA des Brassons La Tremblade 17390"
+      },
+      {
+        "champ": "siret, adresse",
+        "url": "https://www.mulot-group.com/mentions-legales/",
+        "date": "2026-09-25",
+        "extrait": "Editeur du site [...] Mulot, ZA des Brassons, 17390 LA TREMBLADE, SIRET : 33244100500029, Industrie manufacturière. Mulot agro : Equipements et accessoires pour l'industrie des fruits et légumes, mulotagroalimentaire.com. Mulot SAS"
+      },
+      {
+        "champ": "siret",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=332441005&departement=17",
+        "date": "2026-09-25",
+        "extrait": "SAS MULOT, siret 33244100500029, siège, ZA BRASSON 17390 LA TREMBLADE, activité 28.30Z, etat_administratif A"
+      },
+      {
+        "champ": "type, description (fabrication en France, bureau d'études, entretien), departements",
+        "url": "https://www.mulotagroalimentaire.com/",
+        "date": "2026-09-25",
+        "extrait": "Toutes les machines sont fabriquées en France, dans nos ateliers situés en Charente-Maritime (17) depuis 1971. [...] Nous fabriquons des lignes de triage, lavage et d'emballage. [...] Les machines sont étudiées et conçues par notre Bureau d'Etude à partir d'un cahier des charges [...] Une équipe de professionnels à votre service pour entretenir votre matériel sur tout le territoire."
+      },
+      {
+        "champ": "description, expertises (laveuse légumes racines)",
+        "url": "https://www.mulotagroalimentaire.com/produit/laveuse-legume-racine/",
+        "date": "2026-09-25",
+        "extrait": "Cette laveuse pour légumes racines nettoie les pommes de terre mais aussi les carottes et autres légumes. Avec son tambour rotatif immergé d'eau, il lave avec efficacité les produits tout en préservant leur qualité. La laveuse lave jusqu'à 4 tonnes de produit à l'heure."
+      },
+      {
+        "champ": "description (laveuse cylindrique à brosses)",
+        "url": "https://www.mulotagroalimentaire.com/produit/laveuse-cylindrique-brosse-fruit-legume/",
+        "date": "2026-09-25",
+        "extrait": "Laveur cylindrique à brosses. Information : lavage et brossage pour les fruits et légumes non fragiles [...] Les déchets décollés sont récupérés par un box ou par un tuyau situés dessous la machine."
+      },
+      {
+        "champ": "description (laveur tubulaire)",
+        "url": "https://www.mulotagroalimentaire.com/produit/laveur-tubulaire-fruit-legume/",
+        "date": "2026-09-25",
+        "extrait": "Avec son tambour rotatif et sa rampe de jets d'eau centrale, ce laveur nettoie les pommes de terre, les navets, les carottes, etc. [...] Le laveur peut être équipé d'une ou deux rampes de lavage"
+      },
+      {
+        "champ": "description, expertises (tapis élévateur laveur en eau)",
+        "url": "https://www.mulotagroalimentaire.com/produit/tapis-elevateur-en-eau-pomme-de-terre/",
+        "date": "2026-09-25",
+        "extrait": "Le tapis élévateur laveur en eau permet de transférer les pommes de terre tout en les nettoyant. Le tapis élévateur comporte une trémie de trempage et d'un convoyeur à chaîne. [...] Le chargeur peut être également équipé de 6 ou 12 rampes de lavage."
+      },
+      {
+        "champ": "departements, secteurs (références dans la filière)",
+        "url": "https://www.mulotagroalimentaire.com/nos-references/",
+        "date": "2026-09-25",
+        "extrait": "Retrouvez toutes nos machines installées en France. [...] Fresh Frites : Essoreuse, Ensacheuse 2 tapis [...] Label'Frite : Tapis élévateur, Hydrocooling [...] Lapree Samuel : Tapis élévateur en eau, Laveuse pommes de terre [...] Gelifruit : Tapis élévateur, Calibreuse vibrante"
+      },
+      {
+        "champ": "description (modèles d'autres marques au catalogue)",
+        "url": "https://www.mulotagroalimentaire.com/eplucher/",
+        "date": "2026-09-25",
+        "extrait": "Machines pour éplucher [...] Éplucheuse Robot-Coupe EP 25 TA [...] Éplucheuse KRONEN PL 40 K"
+      },
+      {
+        "champ": "description (modèles d'autres marques au catalogue)",
+        "url": "https://www.mulotagroalimentaire.com/sous-vide/",
+        "date": "2026-09-25",
+        "extrait": "Machines Sous Vide [...] Machine Sous Vide Henkelman-FALCON 80 [...] Machine Sous Vide Henkelman-Polar 2.95"
+      }
+    ],
+    "date_maj": "2026-09-25"
+  },
+  {
+    "id": "PREST_FRL_004",
+    "nom": "Établissements Aubert et Compagnie",
+    "type": "equipementier",
+    "logo_url": null,
+    "siret": "58198015800017",
+    "description": "Constructeur de machines pour l'agroalimentaire implanté en Dordogne depuis 1958, qui conçoit et fabrique deux familles d'équipements en acier inoxydable. D'une part des cuiseurs-blancheurs continus à vis d'Archimède, qui cuisent ou blanchissent le produit dans l'eau chauffée par injection directe de vapeur (300 à 7 000 litres) ; d'autre part des lignes de pelage de châtaignes et de marrons entiers : décortiqueuse par brûlage, brosseuse nettoyeuse et échaudeur continu chauffé à la vapeur. Contact direct pour un devis ou une étude, intervention sur l'ensemble du territoire.",
+    "expertises": [
+      "Cuiseurs-blancheurs continus à vis",
+      "Pelage de châtaignes par brûlage",
+      "Échaudeurs continus de châtaignes"
+    ],
+    "categories": [
+      "changer_process_pratiques"
+    ],
+    "secteurs": [
+      "industrie_fruits_legumes"
+    ],
+    "departements": [],
+    "mesures": [],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://aubert-construction.fr/"
+      },
+      {
+        "type": "tel",
+        "value": "05 53 53 56 17"
+      },
+      {
+        "type": "mail",
+        "value": "aubert.construction@orange.fr"
+      },
+      {
+        "type": "adresse",
+        "value": "9 avenue de l'Industrie, 24660 Coulounieix-Chamiers"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "siret",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=Etablissements%20Aubert%20et%20Compagnie&departement=24",
+        "date": "2026-09-25",
+        "extrait": "ETABLISSEMENTS AUBERT ET COMPAGNIE, siret 58198015800017, siège, 17 AVENUE DE L'INDUSTRIE 24660 COULOUNIEIX-CHAMIERS, activité 28.93Z, état administratif A"
+      },
+      {
+        "champ": "contacts",
+        "url": "https://aubert-construction.fr/situation-contact/",
+        "date": "2026-09-25",
+        "extrait": "ETABLISSEMENTS AUBERT ET COMPAGNIE, 9 avenue de l'Industrie, 24660 Coulounieix-Chamiers. Tél. : 05 53 53 56 17, Email : aubert.construction@orange.fr"
+      },
+      {
+        "champ": "type, departements, description",
+        "url": "https://aubert-construction.fr/entreprise-aubert-et-compagnie/",
+        "date": "2026-09-25",
+        "extrait": "La société AUBERT et compagnie, implantée en Dordogne depuis 1958, a fabriqué de très nombreux matériels et équipements de tous types pour l'industrie agroalimentaire. [...] Nous intervenons sur l'ensemble du territoire."
+      },
+      {
+        "champ": "secteurs (références clients)",
+        "url": "https://aubert-construction.fr/entreprise-aubert-et-compagnie/",
+        "date": "2026-09-25",
+        "extrait": "On peut compter parmi eux : MARKAL, WILLIAM-SAURIN, [...] COOPERATIVE DU VAL DE LOIRE, [...] UCA FRANCE CHAMPIGNON, MATERNE, SANOFRUIT, VERFEUILLE, LA FERME DU CHATAIGNIER"
+      },
+      {
+        "champ": "expertises, description (cuiseur-blancheur)",
+        "url": "https://aubert-construction.fr/cuiseur-blancheur-continu/",
+        "date": "2026-09-25",
+        "extrait": "Gamme de cuiseurs blancheurs en continu dont la cuve est solidaire d'une vis d'Archimède pour la cuisson dans l'eau de divers produits [...] Chauffage par nouveau système d'injection directe de vapeur alimentaire. [...] volumes de cuisson de 300 à 7000 litres"
+      },
+      {
+        "champ": "description (blanchiment à l'eau)",
+        "url": "https://aubert-construction.fr/",
+        "date": "2026-09-25",
+        "extrait": "Spécialiste de la cuisson et blanchiment à l'eau en continu de tous types d'aliments."
+      },
+      {
+        "champ": "expertises, description (pelage de châtaignes), type",
+        "url": "https://aubert-construction.fr/decortiqueuse-peleuse-de-chataignes-ou-de-marrons/",
+        "date": "2026-09-25",
+        "extrait": "Cet appareil compact de pelage, décorticage de châtaignes par brûlage permet de les éplucher en continu [...] L'échaudeur nécessite une alimentation de vapeur pour le chauffage. [...] AUBERT et COMPAGNIE conçoit, développe et fabrique des matériels et équipements professionnels dans l'industrie agroalimentaire"
+      }
+    ],
+    "date_maj": "2026-09-25"
+  },
+  {
+    "id": "PREST_FRL_005",
+    "nom": "TOMRA Food",
+    "type": "equipementier",
+    "logo_url": null,
+    "siret": "94202692300014",
+    "description": "Division alimentaire du groupe norvégien TOMRA, qui conçoit et fabrique ses machines sur des sites dont aucune source ne situe un en France, et dont les entités françaises, installées à Salon-de-Provence (Bouches-du-Rhône), sont commerciales. Elle fournit des éplucheurs à vapeur (Orbit, Odyssey, Eco) pour les pommes de terre et les légumes racines comme la carotte, la betterave ou le céleri-rave, associés à un séparateur de pelures à sec qui supprime la consommation d'eau à cette étape. En France, une équipe d'ingénieurs commerciaux et de techniciens suit les industriels de l'agroalimentaire, avec visites sur site, maintenance et formation des utilisateurs.",
+    "expertises": [
+      "Éplucheurs à vapeur",
+      "Séparation à sec des pelures",
+      "Lignes d'épluchage complètes"
+    ],
+    "categories": [
+      "changer_process_pratiques"
+    ],
+    "secteurs": [
+      "industrie_fruits_legumes"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_FRL_005",
+        "roles": [
+          "materiel"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.tomra.com/food"
+      },
+      {
+        "type": "adresse",
+        "value": "181 boulevard de la République, 13300 Salon-de-Provence"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "description, expertises, mesures (ACT_FRL_005 materiel), secteurs",
+        "url": "https://www.agence-c3m.paris/communique/une-gamme-deplucheurs-vapeur-tomra-pour-reduire-les-dechets-alimentaires-sur-les-lignes-de-traitement-des-legumes/",
+        "date": "2026-09-25",
+        "extrait": "carottes, betteraves, mais aussi courges musquées, choux-raves, panais, citrouilles et céleris-raves. [...] Avec la séparation à sec, la consommation d'eau à ce stade du processus est éliminée. [...] L'éplucheuse à vapeur Orbit est un best seller chez les transformateurs de légumes"
+      },
+      {
+        "champ": "description, expertises, mesures (ACT_FRL_005 materiel)",
+        "url": "https://www.tomra.com/food/machines/peeling-line",
+        "date": "2026-09-25",
+        "extrait": "TOMRA's Dry Peel Separator (DPS) is equipped with the largest capacity in the market and delivers outstanding peel removal with greatly reduced flesh loss. [...] Our partners need versatility, so our solutions are just as efficient with apples, carrots, peppers, peaches, pears, and sweet potatoes. [...] Additional water reclaim and filter unit to capture waste water."
+      },
+      {
+        "champ": "type (fabricant), description (groupe norvégien, division TOMRA Food)",
+        "url": "https://www.tomra.com/about-tomra/business-divisions",
+        "date": "2026-09-25",
+        "extrait": "TOMRA Food designs and manufactures sensor-based sorting machines and integrated post-harvest solutions [...] solutions include advanced grading, sorting, peeling and analytical technology [...] TOMRA Systems ASA Drengsrudhagen 2 1385 Asker, Norway"
+      },
+      {
+        "champ": "description (fabrication hors de France)",
+        "url": "https://www.tomra.com/fr-fr/sorting/food/peeling-equipment",
+        "date": "2026-09-25",
+        "extrait": "TOMRA Food exploite des centres d'excellence, des bureaux régionaux et des sites de fabrication aux États-Unis, en Europe, en Amérique du Sud, en Asie, en Afrique et en Australasie."
+      },
+      {
+        "champ": "siret, contacts (adresse), description (entités françaises commerciales à Salon-de-Provence)",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=TOMRA%20FOOD&departement=13",
+        "date": "2026-09-25",
+        "extrait": "TOMRA FOOD (FRANCE) SARL, siret 94202692300014, siège, 181 BOULEVARD DE LA REPUBLIQUE 13300 SALON-DE-PROVENCE, activité 46.62Z (commerce de gros), état administratif A, date de création 2025-03-11, gérants dont Florent Vidal"
+      },
+      {
+        "champ": "departements (équipe France), description (service client en France)",
+        "url": "https://www.agence-c3m.paris/communique/nomination-chez-tomra-food-en-france-le-service-client-de-tomra-food-se-renforce-en-france-avec-larrivee-de-florent-vidal-a-sa-tete/",
+        "date": "2026-09-25",
+        "extrait": "TOMRA FOOD est aujourd'hui forte en France d'une équipe d'une demi-douzaine d'ingénieurs commerciaux et de techniciens dédiés [...] aux marques de l'industrie agroalimentaire, conditionneurs et industriels (« TOMRA Processed Food ») [...] Deux postes de techniciens Support sont à pourvoir en régions pour gérer les visites périodiques des clients sur site, et la réalisation des missions d'entretien-maintenance, de formation des utilisateurs"
+      }
+    ],
+    "date_maj": "2026-09-25"
+  },
+  {
+    "id": "PREST_FRL_006",
+    "nom": "Steriflow",
+    "type": "equipementier",
+    "logo_url": null,
+    "siret": "35296070200012",
+    "description": "Fabricant d'autoclaves de stérilisation et de pasteurisation à ruissellement d'eau surchauffée, conçus et fabriqués dans son usine de Roanne (Loire) et équipés de l'échangeur Platulaire, breveté par la société sœur Barriquand Echangeur et fabriqué sur le même site, qui sépare l'eau de process des circuits de vapeur et d'eau de refroidissement ; ces autoclaves servent notamment aux légumes en boîtes métalliques et en bocaux de verre. Son service de gestion de l'énergie étudie la récupération de l'eau de refroidissement : n'étant pas en contact avec le produit, elle peut être renvoyée vers une tour de refroidissement ou stockée pour préchauffer l'autoclave au cycle suivant, par un refroidissement étagé qui fait travailler la même eau en boucle. Une phase de conseil de 2 à 4 jours établit un bilan sur le site, puis Steriflow conçoit le schéma et spécifie les équipements principaux ; la boucle elle-même est réalisée par l'industriel.",
+    "expertises": [
+      "Autoclaves à ruissellement d'eau",
+      "Bilan énergie et eau de stérilisation",
+      "Récupération de l'eau de refroidissement",
+      "Refroidissement étagé des autoclaves"
+    ],
+    "categories": [
+      "ameliorer_efficacite_hydrique"
+    ],
+    "secteurs": [
+      "industrie_fruits_legumes"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_FRL_004",
+        "roles": [
+          "conseil_etude"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.steriflow.com/"
+      },
+      {
+        "type": "tel",
+        "value": "04 77 44 22 10"
+      },
+      {
+        "type": "adresse",
+        "value": "9 à 13 rue Saint-Claude, 42300 Roanne"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "siret, contacts (adresse, code postal SIRENE)",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=Steriflow&departement=42",
+        "date": "2026-09-25",
+        "extrait": "STERIFLOW, siret 35296070200012, siège, 9 A 13 9 RUE SAINT-CLAUDE 42300 ROANNE, activité 28.93Z, état administratif A"
+      },
+      {
+        "champ": "type, contacts (site, téléphone), description (fabrication à Roanne)",
+        "url": "https://www.steriflow.com/a-propos-de-steriflow/",
+        "date": "2026-09-25",
+        "extrait": "Notre atelier de fabrication sur le site Barriquand à Roanne est équipé de machines performantes [...] équipes de conception et production situées en France, sur le site de l'usine [...] Usine et siège social 9 à 13 rue Saint Claude F42334 Roanne Tél. : +33 4 77 44 22 10"
+      },
+      {
+        "champ": "type (fabrication à Roanne, version anglaise)",
+        "url": "https://www.steriflow.com/en/company-autoclaves/",
+        "date": "2026-09-25",
+        "extrait": "design and manufacturing teams are located directly in our French plant, in Roanne"
+      },
+      {
+        "champ": "secteurs, description (légumes en conserve et en bocaux)",
+        "url": "https://www.steriflow.com/legumes-conserves/",
+        "date": "2026-09-25",
+        "extrait": "Légumes en conserve et en bocaux en verre. Les légumes en boîtes métalliques et bocaux verre se stérilisent facilement en autoclave Steriflow à ruissellement d'eau surchauffée."
+      },
+      {
+        "champ": "description (échangeur Platulaire fabriqué à Roanne)",
+        "url": "https://www.steriflow.com/echangeur-platulaire/",
+        "date": "2026-09-25",
+        "extrait": "L'échangeur Platulaire® des autoclaves Stériflow a été breveté en 1974 par Barriquand Echangeur, société soeur de Stériflow. [...] Les échangeurs sont fabriqués diretement sur le site, à Roanne. [...] basé sur la séparation du circuit interne d'eau de process et des circuits externes de vapeur et d'eau de refroidissement."
+      },
+      {
+        "champ": "mesures (ACT_FRL_004, conseil_etude), expertises, description (récupération de l'eau de refroidissement, pasteurisation)",
+        "url": "https://www.steriflow.com/services/services-energie/",
+        "date": "2026-09-25",
+        "extrait": "En fonction de la taille de l'installation de stérilisation/pasteurisation, nous pouvons offrir des solutions simples ou complexes. [...] Troisième solution : la récupération de l'eau de refroidissement qui, n'étant pas en contact avec le produit stérilisé [...] peut être recyclée. Elle peut alors soit être renvoyée sur une tour de refroidissement, soit être stockée pour préchauffer l'autoclave lors d'un autre cycle [...] La même eau peut donc être utilisée en boucle pour à la fois préchauffer, puis refroidir l'autoclave."
+      },
+      {
+        "champ": "mesures (conseil_etude), description (phase de conseil, boucle réalisée par l'industriel)",
+        "url": "https://www.steriflow.com/services/services-energie/",
+        "date": "2026-09-25",
+        "extrait": "La phase de conseil a pour principal objectif de trouver la fonction optimale pour la réutilisation de l'eau. Il faut compter entre 2 et 4 jours pour réaliser un bilan. Cette phase terminée, la phase conceptuelle entre en jeu, commençant par l'élaboration du PID, les spécifications des équipements principaux [...] L'évaluation des gains potentiels conduit à la réalisation d'un processus de stérilisation et de récupération d'eau et d'économie d'énergie (réalisée par l'utilisateur)."
+      },
+      {
+        "champ": "annonce du fabricant sur les économies d'eau (non reprise dans la description)",
+        "url": "https://www.steriflow.com/gestion-energie-economies-eau/",
+        "date": "2026-09-25",
+        "extrait": "Optimisation de la récupération des calories de refroidissement, pour les utiliser pour la montée en température d'un cycle suivant [...] Economies potentielles : Eau potable (eau de process): 90% [...] Eau de refroidissement: 95%"
+      },
+      {
+        "champ": "departements (couverture nationale)",
+        "url": "https://www.steriflow.com/a-propos-de-steriflow/",
+        "date": "2026-09-25",
+        "extrait": "Très présente en France et dans toute l'Europe, notre société s'est également implantée dans d'autres parties du monde comme l'Asie, le Moyen-Orient, les USA et l'Afrique."
+      }
+    ],
+    "date_maj": "2026-09-25"
+  },
+  {
+    "id": "PREST_FRL_007",
+    "nom": "Lagarde Autoclaves",
+    "type": "equipementier",
+    "logo_url": null,
+    "siret": "32837600900036",
+    "description": "Fabricant d'autoclaves de stérilisation fondé en 1921 à Montélimar et établi à Malataverne (Drôme), qui conçoit des autoclaves à procédé vapeur et air, statiques ou rotatifs, pour l'industrie agroalimentaire, fruits et légumes compris. Son option Green Cooling refroidit les produits sans ajout d'eau de process : l'eau de refroidissement provient des condensats de la vapeur et circule refroidie par un échangeur à plaques ou par de l'eau douce ; le fabricant annonce jusqu'à 60 % d'eau économisée, sans surcoût sur le prix de la machine, et un temps de cycle qui peut s'allonger de 10 à 15 %. L'économie porte sur l'eau de process en contact avec les produits, pas sur l'eau de la tour de refroidissement ; l'équipement s'achète sur devis auprès de l'équipe commerciale.",
+    "expertises": [
+      "Autoclaves vapeur et air",
+      "Autoclaves statiques et rotatifs",
+      "Refroidissement par les condensats"
+    ],
+    "categories": [
+      "ameliorer_efficacite_hydrique"
+    ],
+    "secteurs": [
+      "industrie_fruits_legumes"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_FRL_004",
+        "roles": [
+          "materiel"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.lagarde-autoclaves.com"
+      },
+      {
+        "type": "tel",
+        "value": "04 75 90 58 58"
+      },
+      {
+        "type": "mail",
+        "value": "sales@lagarde-autoclaves.com"
+      },
+      {
+        "type": "adresse",
+        "value": "285 impasse Nicolas Appert, 26780 Malataverne"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "siret, adresse, type",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=Lagarde&departement=26",
+        "date": "2026-09-25",
+        "extrait": "LAGARDE, siret 32837600900036, siège, ZI MONTCHAMP 285 IMPASSE NICOLAS APPERT 26780 MALATAVERNE, activité 28.29B, état administratif A, 1 établissement ouvert"
+      },
+      {
+        "champ": "contacts",
+        "url": "https://www.lagarde-autoclaves.com/contact/",
+        "date": "2026-09-25",
+        "extrait": "285 impasse Nicolas Appert 26780 Malataverne, FRANCE. +33 (0) 475 90 58 58. sales@lagarde-autoclaves.com"
+      },
+      {
+        "champ": "type, description, departements",
+        "url": "https://www.lagarde-autoclaves.com/la-societe-lagarde/",
+        "date": "2026-09-25",
+        "extrait": "La société Lagarde Autoclaves a été fondée en 1921 à Montélimar (France). Spécialisée dans la production d'équipements industriels, d'abord dans la région, puis rapidement à l'export à travers le monde. Nous sommes un fabricant d'autoclaves reconnu"
+      },
+      {
+        "champ": "secteurs, type, description",
+        "url": "https://www.lagarde-autoclaves.com/industrie-agroalimentaire/",
+        "date": "2026-09-25",
+        "extrait": "et tous vos produits : Poissons et fruits de mer, Fruits et légumes, Lait et produits laitiers [...] chaque machine produite dans notre usine est conforme aux normes mondiales les plus exigeantes"
+      },
+      {
+        "champ": "description, expertises, mesures (ACT_FRL_004)",
+        "url": "https://www.lagarde-autoclaves.com/technologie/",
+        "date": "2026-09-25",
+        "extrait": "Etape de refroidissement : Le refroidissement est réalisé par la circulation d'eau refroidie par de l'eau douce ou par un échangeur de chaleur à plaques. L'eau provient des condensats de vapeur. [...] Statique ou Rotatif, De Ø900 mm à Ø2000 mm"
+      },
+      {
+        "champ": "description, expertises, mesures (ACT_FRL_004)",
+        "url": "https://www.lagarde-autoclaves.com/innovations-et-industrie-4-0/",
+        "date": "2026-09-25",
+        "extrait": "GREEN COOLING, REFROIDISSEMENT SANS AJOUT D'EAU. JUSQU'À 60% D'EAU ÉCONOMISÉE. Parce que vous n'avez pas besoin d'ajouter de l'eau de process* pour le refroidissement. [...] Récupération des condensats. Aucun coût additionnel sur le prix de la machine. *Eau de process : il s'agit de l'eau utilisée sur vos produits, et non de l'eau utilisée pour votre tour de refroidissement. Ce dispositif peut allonger votre temps de cycle de 10 à 15 %."
+      },
+      {
+        "champ": "description",
+        "url": "https://www.lagarde-autoclaves.com/innovation-lagarde-green-cooling/",
+        "date": "2026-09-25",
+        "extrait": "Le refroidissement sans ajout d'eau : améliorez fortement votre empreinte écologique. JUSQU'À 60% D'EAU ÉCONOMISÉE. Zéro consommation. Zéro coût. Technologie gratuite"
+      }
+    ],
+    "date_maj": "2026-09-25"
+  },
+  {
+    "id": "PREST_FRL_008",
+    "nom": "UVRER (Réalisation Énergie Rationnelle)",
+    "type": "equipementier",
+    "logo_url": null,
+    "siret": "32404546700051",
+    "description": "Fabricant d'appareils de traitement des fluides par ultraviolets, installé à Saint-Genis-Laval (Rhône), qui conçoit et fabrique ses équipements dans son propre atelier depuis 1982. Pour les industries de transformation de fruits et légumes et de production de jus, il propose le skid FTU REUSE : réacteurs UV haute intensité avec prétraitement (filtration, tamisage, dégazage) qui stabilisent et désinfectent les condensats végétaux afin de les réutiliser dans les procédés, comme sur une usine de jus de citron en Uruguay où le condensat de concentration sert à la dilution ou au déplacement des jus.",
+    "expertises": [
+      "Désinfection UV des condensats",
+      "Skid de réutilisation FTU REUSE",
+      "Réacteurs UV sur mesure"
+    ],
+    "categories": [
+      "valoriser_reut_eaux_non_conventionnelles"
+    ],
+    "secteurs": [
+      "industrie_fruits_legumes"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_FRL_007",
+        "roles": [
+          "materiel"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.uvrer-anemo.com/"
+      },
+      {
+        "type": "tel",
+        "value": "04 78 50 02 37"
+      },
+      {
+        "type": "mail",
+        "value": "contact@uvrer.com"
+      },
+      {
+        "type": "adresse",
+        "value": "303 route de Brignais, RD42, 69230 Saint-Genis-Laval"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "siret, adresse",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=Realisation%20Energie%20Rationnelle&departement=69",
+        "date": "2026-09-25",
+        "extrait": "REALISATION ENERGIE RATIONNELLE (RER), siret 32404546700051, siège, 303 ROUTE DE BRIGNAIS 69230 SAINT-GENIS-LAVAL, activité 28.29B, état administratif A"
+      },
+      {
+        "champ": "contacts",
+        "url": "https://www.uvrer-anemo.com/contact-societe-rer-et-anemo-france",
+        "date": "2026-09-25",
+        "extrait": "303 route de Brignais - RD42 69230 St Genis Laval [...] France. 04 78 50 02 37. contact@uvrer.com"
+      },
+      {
+        "champ": "type, description",
+        "url": "https://www.uvrer-anemo.com/",
+        "date": "2026-09-25",
+        "extrait": "Made In France depuis 1982 [...] A la fois concepteur et fabricant, l'ensemble de nos technologies de traitements sont issues de la recherche industrielle et universitaire française. [...] La fabrication des appareils est assurée au coeur de notre atelier de production."
+      },
+      {
+        "champ": "description, expertises, mesures (ACT_FRL_007 materiel), secteurs",
+        "url": "https://www.revue-ein.com/actualite/skid-ftu-reuse-effluents-condensats-agroalimentaires-4852",
+        "date": "2026-09-25",
+        "extrait": "SKID FTU REUSE (Effluents-Condensats agroalimentaires), UVRER, 12 novembre 2025. Les condensats végétaux, riches en matières colorées et composés organiques [...] Transformation de fruits et légumes [...] Industries de boissons, jus, arômes [...] Réutilisation des condensats dans les procédés agroalimentaires [...] Réduction des volumes d'eau rejetée"
+      },
+      {
+        "champ": "description, expertises, mesures (ACT_FRL_007 materiel)",
+        "url": "https://www.uvrer-anemo.com/archives/31835",
+        "date": "2026-09-25",
+        "extrait": "Le SKID FTU REUSE développé par UVRER permet de stabiliser et désinfecter ces eaux afin de favoriser leur réutilisation dans différents procédés industriels [...] transformation de fruits et légumes, extraction végétale, fermentation naturelle, production de boissons, jus ou arômes"
+      },
+      {
+        "champ": "description, mesures (ACT_FRL_007 materiel), departements",
+        "url": "https://www.vegepolys-valley.eu/actualites/16405-desinfection-uv-du-condensat-vegetal-uvrer-valorise-une-ressource-inexploitee-dans-lindustrie-des-jus.html",
+        "date": "2026-09-25",
+        "extrait": "condensat végétal issu de la concentration de jus de fruits [...] un skid de traitement UV (sans chlore) sur mesure, intégrant un réacteur calibré [...] réutiliser une eau, jusqu'ici rejetée, pour des usages internes tels que la dilution ou le déplacement de jus concentrés [...] une usine de production de jus de citron en Uruguay"
+      }
+    ],
+    "date_maj": "2026-09-25"
+  },
+  {
+    "id": "PREST_FRL_009",
+    "nom": "Aquaprox I-Tech (ex Hytec Industrie)",
+    "type": "bureau_etudes",
+    "logo_url": null,
+    "siret": "34792633900040",
+    "description": "Société d'ingénierie du traitement de l'eau industrielle (NAF 71.12B), anciennement Hytec Industrie, installée à Saint-Ouen-l'Aumône (Val-d'Oise), qui étudie, conçoit, construit et exploite des installations d'eau de process, de traitement des effluents et de réutilisation des eaux usées traitées (REUT). Pour la transformation de fruits, elle a réalisé la station de traitement des effluents de l'usine de compotes et confitures Materne à Boué (méthanisation, réacteurs biologiques, aéroflottation) et indique recevoir des demandes de REUT pour les eaux de lavage, avec des unités conçues et fabriquées pour des industriels agroalimentaires français. Un projet de recyclage commence chez elle par une cartographie des flux d'eau du site, puis une étude de faisabilité avec essais pilotes, avant la construction et, si vous le souhaitez, la maintenance et l'exploitation.",
+    "expertises": [
+      "Réutilisation des eaux usées traitées",
+      "Traitement des effluents agroalimentaires",
+      "Cartographie des flux d'eau",
+      "Études de faisabilité et pilotes"
+    ],
+    "categories": [
+      "valoriser_reut_eaux_non_conventionnelles",
+      "agir_rejets_qualite",
+      "suivre_comprendre_maitriser"
+    ],
+    "secteurs": [
+      "industrie_fruits_legumes"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_FRL_006",
+        "roles": [
+          "conseil_etude",
+          "travaux"
+        ]
+      },
+      {
+        "id": "ACT_FRL_008",
+        "roles": [
+          "conseil_etude",
+          "travaux"
+        ]
+      },
+      {
+        "id": "ACT_AGR_002",
+        "roles": [
+          "conseil_etude"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "adresse",
+        "value": "Parc d'activités des Béthunes, 28 avenue des Béthunes, 95310 Saint-Ouen-l'Aumône"
+      },
+      {
+        "type": "linkedin",
+        "value": "https://fr.linkedin.com/company/aquaprox-i-tech"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "siret, contacts (adresse), type",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=Aquaprox%20I-Tech&departement=95",
+        "date": "2026-09-25",
+        "extrait": "AQUAPROX I-TECH (HYTEC INDUSTRIE), siret 34792633900040, siège, PARC ACTIVITES BETHUNES 28 AVENUE DES BETHUNES 95310 SAINT-OUEN-L'AUMONE, activité 71.12B, état administratif A, 2 établissements ouverts"
+      },
+      {
+        "champ": "contacts (linkedin)",
+        "url": "https://fr.linkedin.com/company/aquaprox-i-tech",
+        "date": "2026-09-25",
+        "extrait": "AQUAPROX I-Tech. Spécialiste du traitement des eaux industrielles, des effluents et du Re-Use (eau recyclée). Saint-Ouen-l'Aumône, 28, Avenue des Béthunes, 95310"
+      },
+      {
+        "champ": "description, expertises, mesures (ACT_FRL_008 conseil_etude, travaux)",
+        "url": "https://www.revue-ein.com/article/agroalimentaire-diminuer-l-empreinte-eau-des-produits-et-des-procedes",
+        "date": "2026-09-25",
+        "extrait": "Materne a en effet fait appel à Hytec pour traiter les effluents d'une de ses usines spécialisées dans la production de compotes et confitures à Boué. L'installation mise en place repose sur un méthaniseur granulaire vertical à recirculation de 20.m3/h, six réacteurs biologiques aérobies à biomasse fixée immergée, un traitement physico-chimique avec aéroflottateur pour la séparation de la biomasse en excès et une unité de déshydratation des boues par centrifugation. [article du 29 septembre 2016, entreprise liée : AQUAPROX I-TECH (ex-HYTEC INDUSTRIE)]"
+      },
+      {
+        "champ": "description, expertises, mesures (ACT_FRL_006 conseil_etude, travaux ; ACT_AGR_002 conseil_etude), departements",
+        "url": "https://www.revue-ein.com/article/eaux-industrielle-maitriser-les-couts-d-exploitation",
+        "date": "2026-09-25",
+        "extrait": "Unité REUT d'eau de station d'épuration en appoint des TAR, conçue et fabriquée par Aquaprox I-Tech pour une IAA française. [...] Nous recevons des demandes dans tous secteurs agroalimentaires : transformation de fruits (eaux de lavage) [...] Nous avons traité ainsi cinq commandes d'industriels français de l'agroalimentaire désireux de faire de la REUT [...] Le recyclage est plus complexe qu'on ne le pense car il exige de faire d'abord une cartographie de ses usages de l'eau. [...] Nous avons d'ailleurs mis sur pied une cellule de deux personnes pour accompagner les industriels dans la cartographie de leurs flux [...] Nous réalisons actuellement des études de faisabilité, qui exigent en général des essais pilotes [...] Aquaprox Mobiles Services a construit quatre nouvelles unités de recyclage. L'une d'elles est déjà installée sur site en Bretagne"
+      },
+      {
+        "champ": "description, expertises, mesures (ACT_FRL_008)",
+        "url": "https://aquaprox-itech.com/expertises/traitement-effluents/",
+        "date": "2026-09-25",
+        "extrait": "Etudes préalables, Audits et faisabilité, Ingénierie. Pilotes et essais. Conception et développement de procédés. Construction et installation. Mise en service. Maintenance et exploitation. [...] Agroalimentaire : Industries carnées, Laiterie, Fromagerie, Boissons, Fruits et légumes"
+      },
+      {
+        "champ": "description, mesures (ACT_FRL_006)",
+        "url": "https://aquaprox-itech.com/expertises/production-eau-reuse-reut/",
+        "date": "2026-09-25",
+        "extrait": "Production d'eau en accord avec le Décret 2023-835 et le Décret 2024-33. [...] offre complète allant de l'étude hydraulique jusqu'à l'optimisation de l'exploitation avec un accompagnement sur mesure"
+      },
+      {
+        "champ": "description, type",
+        "url": "https://aquaprox-itech.com/",
+        "date": "2026-09-25",
+        "extrait": "Depuis 1989, AQUAPROX I-TECH est spécialisé dans l'étude, la conception et l'exploitation des installations [...]"
+      }
+    ],
+    "date_maj": "2026-09-25"
+  },
+  {
+    "id": "PREST_FRL_010",
+    "nom": "BWT France",
+    "type": "equipementier",
+    "logo_url": null,
+    "siret": "56211061900342",
+    "description": "Filiale française du groupe autrichien BWT, spécialiste du traitement de l'eau, dont le pôle industrie conçoit, fabrique, met en service et entretient des équipements de traitement (filtration, échangeurs d'ions, membranes dont l'osmose inverse), y compris pour la réutilisation des eaux de process et des eaux de station d'épuration ; aucune source consultée ne précise le lieu de fabrication. Pour la conserverie de légumes d'aucy du Faouët (Morbihan), elle a conçu, fabriqué et installé un osmoseur BWT SIGMA sur mesure qui rend réutilisables, pour le prélavage des légumes et le lavage des sols, les eaux épurées de la station du site, a aidé le site sur les aspects administratifs et financiers de l'aide de l'Agence de l'eau Loire-Bretagne et en assure le suivi (analyses mensuelles, maintenance trimestrielle). Cette référence va au-delà de la cascade des eaux de rinçage : c'est une réutilisation d'eaux usées traitées par la station puis par osmose, qui passe par des autorisations pour garantir la conformité sanitaire des légumes. Elle intervient depuis sept agences régionales qui couvrent la métropole et depuis son siège de Saint-Denis.",
+    "expertises": [
+      "Osmoseurs sur mesure",
+      "Réutilisation des eaux épurées",
+      "Maintenance des stations de traitement",
+      "Montage du dossier d'aide"
+    ],
+    "categories": [
+      "valoriser_reut_eaux_non_conventionnelles"
+    ],
+    "secteurs": [
+      "industrie_fruits_legumes"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_FRL_006",
+        "roles": [
+          "materiel",
+          "travaux",
+          "conseil_etude"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://bwt-industries.com/"
+      },
+      {
+        "type": "tel",
+        "value": "01 49 22 45 00"
+      },
+      {
+        "type": "adresse",
+        "value": "103 rue Charles Michels, 93200 Saint-Denis"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "siret, contacts (adresse), type",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=BWT%20France&departement=93",
+        "date": "2026-09-25",
+        "extrait": "BWT FRANCE, siren 562110619, activité principale 28.29B (unité légale), siège siret 56211061900342, 103 RUE CHARLES MICHELS 93200 SAINT-DENIS, activité de l'établissement siège 37.00Z, état administratif A, 20 établissements ouverts"
+      },
+      {
+        "champ": "contacts (tel, adresse), siret, type",
+        "url": "https://bwt-industries.com/mentions-legales",
+        "date": "2026-09-25",
+        "extrait": "Dénomination sociale : BWT France SAS. Siège social : F-103 rue Charles Michels, 93200 Saint-Denis Cedex [...] T.: 01 49 22 45 00 [...] Siret : 56211061900342 Code APE 2829B"
+      },
+      {
+        "champ": "description (filiale d'un groupe autrichien)",
+        "url": "https://bwt-industries.com/a-propos",
+        "date": "2026-09-25",
+        "extrait": "le groupe autrichien BWT est leader européen du traitement de l'eau depuis 1990. [...] BWT France, ce sont près de 600 collaborateurs répartis dans 7 agences régionales en métropole, 1 agence à La Réunion et 1 agence au Maroc"
+      },
+      {
+        "champ": "type, description, expertises, mesures (ACT_FRL_006 materiel, travaux, conseil_etude), secteurs",
+        "url": "https://bwt-industries.com/conserverie-industrielle",
+        "date": "2026-09-25",
+        "extrait": "L'eau ainsi épurée, destinée au prélavage des légumes en zone froide ou au lavage des sols [...] les équipes BWT France ont alors proposé aux exploitants du site, la conception d'un d'osmoseur BWT SIGMA sur mesure [...] BWT France a également aidé d'aucy Le Faouët quant aux aspects administratifs et financiers [...] « Outre la fabrication et l'installation des matériels, l'accompagnement des équipes BWT France quant aux aspects administratifs a été particulièrement apprécié [...] Des contrôles analytiques sont réalisés tous les mois et une visite de maintenance chaque trimestre »"
+      },
+      {
+        "champ": "description, mesures (ACT_FRL_006 materiel)",
+        "url": "https://www.ria.fr/sequiper/production/best-water-technology-aide-lusine-daucy-le-faouet-a-recycler-ses-eaux-usees/",
+        "date": "2026-09-25",
+        "extrait": "La société Best Water Technology a fourni à la conserverie de d'Aucy [...], située à Lanvenegen (Morbihan), un osmoseur inverse sigma afin de lui permettre de retraiter ses eaux usées. L'unité de potabilisation possède une capacité de traitement de 400 à 600 m3/jour [...] soit une économie d'eau prélevée de 100 000 m3."
+      },
+      {
+        "champ": "description, expertises",
+        "url": "https://bwt-industries.com/expertise/offre-globale-360",
+        "date": "2026-09-25",
+        "extrait": "des équipements techniques (adoucisseurs, osmoseurs, ozoneurs, etc.) [...] équipements de filtration, d'échangeurs d'ions, de technologies membranaires [...] mise en service, contrats de maintenance, dépannage [...] audit, formation"
+      },
+      {
+        "champ": "description (réutilisation des eaux de process et de STEP)",
+        "url": "https://bwt-industries.com/expertise/cycle-de-l-leau",
+        "date": "2026-09-25",
+        "extrait": "Les eaux de rejets. Stations d'épuration et Reuse [...] dans le cadre d'une approche globale (eaux de STEP) ou en boucle courte (réutilisation des eaux de process)"
+      },
+      {
+        "champ": "departements, description (agences)",
+        "url": "https://bwt-industries.com/agences",
+        "date": "2026-09-25",
+        "extrait": "pas moins de 7 agences régionales maillent le territoire métropolitain, pour que nos équipes commerciales et techniques soient au plus près de vos besoins en traitement d'eau et de tous vos sites industriels, quels que soient leur emplacement et leur secteur d'activité."
+      },
+      {
+        "champ": "type, description (conçoit et fabrique)",
+        "url": "https://bwt-industries.com/",
+        "date": "2026-09-25",
+        "extrait": "BWT conçoit, fabrique et met en œuvre des solutions à la fois techniques et globales, associant des stations de traitement standard ou sur-mesure, des formulations pour le conditionnement des eaux et une offre de service experte."
+      },
+      {
+        "champ": "description (réutilisation d'eaux usées traitées, autorisations)",
+        "url": "https://aides-redevances.eau-loire-bretagne.fr/home/retours-dexperiences/daucy---reutiliser-leau-dans-un-process-industriel.html",
+        "date": "2026-09-25",
+        "extrait": "mise en service d'une station d'épuration en 2019 avec un système d'ultrafiltration et complété en 2023 par un système de purification de l'eau par osmose inverse. [...] l'utilisation d'une eau recyclée passe, évidemment, par des autorisations afin de garantir, in fine, la conformité sanitaire des légumes."
+      }
+    ],
+    "date_maj": "2026-09-25"
+  },
+  {
+    "id": "PREST_FRL_011",
+    "nom": "EMO (Équipements et Machines de l'Ouest)",
+    "type": "equipementier",
+    "logo_url": null,
+    "siret": "39180565200032",
+    "description": "Concepteur et fabricant d'équipements de traitement des eaux usées, des effluents industriels et des boues (NAF 28.29B), basé à Noyal-sur-Vilaine (Ille-et-Vilaine), qui fabrique et assemble dans ses ateliers d'Angers et de Saint-Lyphard. Pour une conserverie de tomates, il a préconisé un prétraitement par flottateur à air dissous (60 m3/h) puis fourni un filtre à bandes pour déshydrater les boues ; sa gamme comprend aussi des tamis rotatifs de 250 µm à 2,5 mm pour effluents industriels. Son laboratoire caractérise les effluents et réalise des essais de traitabilité (décantation, flottation, égouttage, déshydratation), et son pôle ingénierie assure étude de faisabilité, dimensionnement, installation, mise en service et formation.",
+    "expertises": [
+      "Tamis rotatifs de prétraitement",
+      "Flottateurs à air dissous",
+      "Déshydratation des boues",
+      "Essais de traitabilité des effluents"
+    ],
+    "categories": [
+      "agir_rejets_qualite"
+    ],
+    "secteurs": [
+      "industrie_fruits_legumes"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_FRL_008",
+        "roles": [
+          "materiel",
+          "conseil_etude",
+          "travaux"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://emo-france.com/"
+      },
+      {
+        "type": "tel",
+        "value": "02 99 86 02 03"
+      },
+      {
+        "type": "mail",
+        "value": "emo@emo-france.com"
+      },
+      {
+        "type": "adresse",
+        "value": "4 rue Lépine, Parc d'Activités de la Richardière, 35530 Noyal-sur-Vilaine"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "siret, description",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=EMO&departement=35",
+        "date": "2026-09-25",
+        "extrait": "EQUIPEMENTS ET MACHINES DE L'OUEST (EMO), siret 39180565200032, siège, PARC D'ACTIVITES DE LA RICHARDIERE 4 RUE DE L'EPINE 35530 NOYAL-SUR-VILAINE, activité 28.29B, état administratif A, 2 établissements ouverts"
+      },
+      {
+        "champ": "contacts",
+        "url": "https://emo-france.com/contact/",
+        "date": "2026-09-25",
+        "extrait": "Nous contacter 4 rue Lépine Parc d'Activités de la Richardière 35530 NOYAL SUR VILAINE + 33 (0)2 99 86 02 03 emo@emo-france.com"
+      },
+      {
+        "champ": "type, description, mesures (ACT_FRL_008 conseil_etude, travaux)",
+        "url": "https://emo-france.com/services/ingenierie/",
+        "date": "2026-09-25",
+        "extrait": "étude de faisabilité détermination des procédés de traitement réalisation des études techniques fabrication & assemblage installation, mise en service et formation [...] Nous fabriquons et assemblons nos équipements dans nos ateliers d'Angers (Maine-et-Loire) et de Saint-Lyphard (Loire-Atlantique). [...] Nous assurons l'installation complète de nos équipements"
+      },
+      {
+        "champ": "type",
+        "url": "https://emo-france.com/qui-sommes-nous/",
+        "date": "2026-09-25",
+        "extrait": "la plupart des équipements fournis par EMO sont conçus et fabriqués en France"
+      },
+      {
+        "champ": "departements",
+        "url": "https://emo-france.com/nous-connaitre/",
+        "date": "2026-09-25",
+        "extrait": "Spécialiste de la conception et de la fabrication d'équipements de traitement des boues, des eaux usées et des boues d'eau potable, EMO intervient sur le territoire français ainsi qu'à l'international."
+      },
+      {
+        "champ": "description, expertises, secteurs, mesures (ACT_FRL_008 materiel, conseil_etude)",
+        "url": "https://emo-france.com/en/realisation/combination-of-a-daf-unit-and-a-belt-filter-press-in-a-tomato-caning-factory/",
+        "date": "2026-09-25",
+        "extrait": "Annaba, Algeria Tomato canning factory [...] contacted EMO to assist them in their project. [...] EMO then recommended to carry out a first phase of work consisting of a thorough pretreatment [...] collected sludge will be dewatered on a belt filter press supplied by EMO. [...] Dissolved Air Flotation unit (DAF) Model: DELTA 75 Capacity: 60 m³/h, 1440 m³/d"
+      },
+      {
+        "champ": "description, expertises",
+        "url": "https://emo-france.com/produit/aquameo-r-rc/",
+        "date": "2026-09-25",
+        "extrait": "AQUAMEO R/RC sont des équipements conçus pour le tamisage fin de 250 μm à 2,5 mm des effluents prédégrillés urbains et industriels."
+      },
+      {
+        "champ": "description, expertises",
+        "url": "https://emo-france.com/services/laboratoire-essai-effluents-boues/",
+        "date": "2026-09-25",
+        "extrait": "Son laboratoire étudie les effluents industriels et les boues de station d'épuration. [...] Essais de traitabilité en laboratoire Décantation [...] Flottation : test de flottation pour simuler un flottateur Epaississement : cellule d'égouttage pour simuler une table d'égouttage Déshydratation"
+      },
+      {
+        "champ": "secteurs",
+        "url": "https://emo-france.com/liste-solutions/effluents-industriels/",
+        "date": "2026-09-25",
+        "extrait": "EMO dimensionne et installe des équipements pour le traitement des effluents industriels et des boues industrielles sur site. Traitement des effluents d'industries agroalimentaires, chimiques, textiles, métallurgiques"
+      }
+    ],
+    "date_maj": "2026-09-25"
+  },
+  {
+    "id": "PREST_FRL_012",
+    "nom": "Veolia Water STI",
+    "type": "installateur",
+    "logo_url": null,
+    "siret": "35338571900433",
+    "description": "Filiale de Veolia Water Technologies (groupe Veolia) spécialisée dans le traitement de l'eau pour les industries en France et en Belgique, qui fournit des produits, des services et des consommables pour les eaux de process, d'utilité et résiduaires. Pour la Compagnie des Pruneaux à Pineuilh (33), elle a conçu et réalisé la station de traitement des effluents du site : poste de relevage, tamis, bassin tampon et méthaniseur anaérobie Thanium (procédé UASB), mis en service en novembre 2017 pour 50 m3/j et 720 kg de DCO. Elle est saisie comme intégrateur : elle conçoit, sélectionne ses partenaires, contrôle l'exécution des travaux et met en service, et aucune source consultée n'établit qu'elle fabrique en France les équipements Thanium.",
+    "expertises": [
+      "Station de traitement des effluents",
+      "Méthanisation anaérobie des effluents",
+      "Eau de process et d'utilité"
+    ],
+    "categories": [
+      "agir_rejets_qualite"
+    ],
+    "secteurs": [
+      "industrie_fruits_legumes"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_FRL_008",
+        "roles": [
+          "conseil_etude",
+          "travaux"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.veoliawatertechnologies.fr"
+      },
+      {
+        "type": "adresse",
+        "value": "Immeuble L'Aquarène, 1 place Montgolfier, 94410 Saint-Maurice"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "siret, adresse",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=Veolia%20Water%20STI",
+        "date": "2026-09-25",
+        "extrait": "VEOLIA WATER STI, siret 35338571900433, siège, IMMEUBLE L'AQUARENE 1 PLACE MONTGOLFIER 94410 SAINT-MAURICE, etat_administratif A"
+      },
+      {
+        "champ": "description, expertises, mesures, categories",
+        "url": "https://www.veoliawatertechnologies.fr/fr/references/compagnie-pruneaux",
+        "date": "2026-09-25",
+        "extrait": "Cet industriel a fait confiance à Veolia Water STI (Solutions & Technologies pour l'Industrie) pour la conception et la réalisation d'une station de traitement des effluents sur son site de Pineuilh. Thanium Intégral : poste de relevage, tamis, bassin tampon, cuve de conditionnement, méthaniseur. DCO : 720 kg. Débit : 50 m3/j. Mise en service : Novembre 2017"
+      },
+      {
+        "champ": "nom, description, expertises, departements",
+        "url": "https://www.veoliawatertechnologies.fr/fr/a-propos/veolia-water-sti",
+        "date": "2026-09-25",
+        "extrait": "Veolia Water STI - Solutions & Technologies pour l'Industrie - est spécialisé depuis plus de 30 ans dans le traitement de l'eau pour les industries et les laboratoires, en France et en Belgique. Notre filiale fournit des produits, services et consommables ... pour vos applications en eau de process, d'utilité, de laboratoire, résiduaire"
+      },
+      {
+        "champ": "type, description",
+        "url": "https://www.veoliawatertechnologies.fr/fr/propos/nos-engagements/nos-certifications",
+        "date": "2026-09-25",
+        "extrait": "notre système de management est construit pour : analyser précisément le besoin, proposer une solution adaptée, efficace et pérenne, sélectionner les meilleurs partenaires, contrôler la bonne exécution des travaux, et assurer une mise en service en lien avec l'exploitant."
+      }
+    ],
+    "date_maj": "2026-09-25"
+  },
+  {
+    "id": "PREST_FRL_014",
+    "nom": "CTCPA, Centre technique agroalimentaire",
+    "type": "organisme_technique",
+    "logo_url": null,
+    "siret": "77569174400038",
+    "description": "Centre technique de la conservation des produits agricoles, siège à Paris et sites régionaux notamment à Amiens (Dury), Avignon, Auch, Nantes, Dijon et Bourg-en-Bresse, qui intervient auprès des industriels de toute la France. Sur l'eau, ses ingénieurs mesurent sur site les consommations et la charge des eaux puis valident des préconisations, comme le recyclage de l'eau de lavage vers l'épierrage et le transport hydraulique des pommes de terre chez Provence Chips ; il accompagne aussi le choix et la validation des traitements pour réutiliser l'eau, la mise à jour du plan de maîtrise sanitaire et le dossier de déclaration ou d'autorisation de réutilisation. Audits et conseil adaptés au besoin et au budget, sur votre site ou dans ses locaux ; formation d'une journée « Optimiser la gestion de la ressource en eau » (diagnostic eau, méthode Pinch eau) à 750 euros HT, en inter ou en intra.",
+    "expertises": [
+      "Diagnostic eau sur site",
+      "Méthode Pinch eau",
+      "Dossier de réutilisation des eaux",
+      "Formation gestion de l'eau"
+    ],
+    "categories": [
+      "suivre_comprendre_maitriser",
+      "valoriser_reut_eaux_non_conventionnelles",
+      "sensibiliser_former"
+    ],
+    "secteurs": [
+      "industrie_fruits_legumes"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_AGR_002",
+        "roles": [
+          "conseil_etude",
+          "formation"
+        ]
+      },
+      {
+        "id": "ACT_FRL_006",
+        "roles": [
+          "conseil_etude",
+          "formation"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.ctcpa.org/"
+      },
+      {
+        "type": "tel",
+        "value": "01 53 91 44 00"
+      },
+      {
+        "type": "mail",
+        "value": "contact@ctcpa.org"
+      },
+      {
+        "type": "mail",
+        "value": "contact.formation@ctcpa.org"
+      },
+      {
+        "type": "adresse",
+        "value": "44 rue d'Alésia, TSA 31444, 75158 Paris Cedex 14"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "siret",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=CTCPA&departement=75",
+        "date": "2026-09-25",
+        "extrait": "CTRE TECH CONSERVATION PRODUIT AGRICOLE (CTCPA), siret 77569174400038, siège, 44 RUE D'ALESIA 75014 PARIS, activité 94.12Z, état administratif A, 10 établissements ouverts"
+      },
+      {
+        "champ": "contacts (siège)",
+        "url": "https://www.ctcpa.org/2026/04/13/traitement-de-leau-en-agroalimentaire/",
+        "date": "2026-09-25",
+        "extrait": "siège social Paris [...] 44 rue d'Alésia TSA 31444 75158 PARIS CEDEX 14 01 53 91 44 00 contact@ctcpa.org"
+      },
+      {
+        "champ": "departements, description (sites régionaux)",
+        "url": "https://www.ctcpa.org/ctcpa-page/ctcpa-en-region/",
+        "date": "2026-09-25",
+        "extrait": "Notre siège social [...] constitue un lieu de formation facilement accessible pour nos clients partout en France. [...] Notre site d'Amiens couvre la région Nord-Est et Ile-de-France [...] Notre site d'Avignon couvre toute la région sud-est [...] Notre site d'Auch couvre toute la région sud-ouest [...] Site de Nantes [...] Site de Dijon [...] Site de Bourg-en-Bresse"
+      },
+      {
+        "champ": "description (réutilisation), expertises, mesures (ACT_FRL_006 conseil_etude)",
+        "url": "https://www.ctcpa.org/wp-content/uploads/2026/04/TechTime-Article-Avril-2026-Traitement-de-leau.pdf",
+        "date": "2026-09-25",
+        "extrait": "Le CTCPA accompagne les industriels agroalimentaires dans la compréhension et la mise en œuvre des solutions de traitement adaptées à leurs besoins. [...] L'accompagnement peut inclure la sélection des critères d'eau requis selon les origines et les usages, la présentation des technologies les mieux adaptées, leur validation ainsi que le suivi pour la mise à jour du plan de maîtrise sanitaire associé et la gestion de la déclaration ou de la demande d'autorisation de réutilisation de l'eau."
+      },
+      {
+        "champ": "description (cas Provence Chips), mesures (ACT_AGR_002 conseil_etude, ACT_FRL_006 conseil_etude)",
+        "url": "https://www.ctcpa.org/2009/12/16/diminution-consommations-eau-provence-chips-temoigne/",
+        "date": "2026-09-25",
+        "extrait": "Publié le : 16/12/2009. Participant au projet européen STEP comme expert technique, le CTCPA a accompagné six entreprises dont Provence Chips [...] M. Fine est venu plusieurs fois sur place, a réalisé des mesures de consommation d'eau, des analyses physico-chimiques et des mesures de matière en suspension [...] L'eau est utilisée au dépierrage pour enlever les souillures physiques ainsi que pour conduire les pommes de terre vers le lavage. [...] On peut donc utiliser de l'eau souillée en recyclant l'eau de lavage."
+      },
+      {
+        "champ": "mesures (ACT_AGR_002 conseil_etude)",
+        "url": "https://www.ctcpa.org/en/2021/12/17/diagnostic-ecoflux-reduire-flux-energie-matiere-eau-dechets/",
+        "date": "2026-09-25",
+        "extrait": "Published on : 17/12/2021. The CTCPA, under the coordination of Actia, participates in the operation \"Diag Eco-Flux\" [...] reducing your consumption of energy, materials, water and waste production. [...] Definition of a personalized and costed action plan"
+      },
+      {
+        "champ": "expertises (méthode Pinch eau), mesures (ACT_FRL_006)",
+        "url": "https://www.ctcpa.org/en/2022/06/08/minimiser-consommaitons-eau-industrie-agroalimentaire-minimeau/",
+        "date": "2026-09-25",
+        "extrait": "The Minimeau project [...] optimizing water reuse on an industrial site. [...] measurements carried out by the technical centers in 10 partner companies made it possible to develop and test the water pinch method"
+      },
+      {
+        "champ": "description (formation, tarif), expertises, mesures (ACT_AGR_002 formation, ACT_FRL_006 formation), contacts (mail formation)",
+        "url": "https://www.ctcpa.org/formation_post/optimiser-la-gestion-de-la-ressource-en-eau/",
+        "date": "2026-09-25",
+        "extrait": "Durée : 1 jour - 7 heures [...] Tarif : 750€ HT [...] Contact:contact.formation@ctcpa.org Nos formations sont déclinables en intra-entreprise. [...] Être capable de réaliser un diagnostic eau dans son entreprise. Expliquer les principes de la méthode Pinch Eau et savoir utiliser les outils pour optimiser l'utilisation et la réutilisation de l'eau en industrie agroalimentaire"
+      },
+      {
+        "champ": "description (modalités audit et conseil)",
+        "url": "https://www.ctcpa.org/service/audit-conseil-agroalimentaire-sur-mesure/",
+        "date": "2026-09-25",
+        "extrait": "Vous souhaitez bénéficier d'une expertise [...] dans une prestation adaptée à vos besoins et à votre budget ? Nos prestations d'audit, d'accompagnement et de conseil sont 100 % flexibles et se réalisent sur votre site ou dans nos locaux."
+      },
+      {
+        "champ": "categories (gestion de la ressource en eau)",
+        "url": "https://www.ctcpa.org/moyen/transition-energetique-et-environnementale/",
+        "date": "2026-09-25",
+        "extrait": "nous accompagnons les acteurs de l'agroalimentaire dans leurs politiques de développement durable et de gestion des ressources : eau, énergie, déchets, valorisation de co-produits, réduction des emballages à la source."
+      }
+    ],
+    "date_maj": "2026-09-25"
+  }
+]

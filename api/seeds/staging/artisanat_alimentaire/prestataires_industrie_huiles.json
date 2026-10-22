@@ -1,0 +1,1284 @@
+[
+  {
+    "id": "PREST_HUI_001",
+    "nom": "Alfa Laval France & North West Africa",
+    "type": "installateur",
+    "logo_url": null,
+    "siret": "78826245900175",
+    "description": "Filiale commerciale française, basée à Saint-Priest, du groupe suédois Alfa Laval ; aucune source consultée n'indique de fabrication en France. Pour les moulins, son site français présente des laveuses à olives dont l'eau est recyclée après décantation avec une douche d'eau propre, et des décanteurs deux phases qui ne produisent pas d'eaux noires ; sa brochure française (2014) et le site américain du groupe présentent aussi l'unité BlueVap, qui traite les margines avant rejet en station d'épuration en les séparant en eau claire et en concentré. Pour les raffineries d'huiles, les systèmes de vide et d'utilités sont présentés sur le site américain du groupe : vide à eau glacée ou à condensation par glace, tour de refroidissement en option, pour réduire l'eau consommée, sans mention explicite de circuit fermé ni de condenseurs d'hexane. L'accès se fait par formulaire de contact sur le site.",
+    "expertises": [
+      "Laveuses à olives à eau recyclée",
+      "Décanteurs deux phases",
+      "Traitement des margines BlueVap",
+      "Systèmes de vide de raffinage"
+    ],
+    "categories": [
+      "ameliorer_efficacite_hydrique",
+      "changer_process_pratiques",
+      "agir_rejets_qualite"
+    ],
+    "secteurs": [
+      "industrie_huiles"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_HUI_001",
+        "roles": [
+          "materiel"
+        ]
+      },
+      {
+        "id": "ACT_HUI_003",
+        "roles": [
+          "materiel"
+        ]
+      },
+      {
+        "id": "ACT_HUI_002",
+        "roles": [
+          "materiel"
+        ]
+      },
+      {
+        "id": "ACT_HUI_007",
+        "roles": [
+          "materiel"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.alfalaval.fr"
+      },
+      {
+        "type": "adresse",
+        "value": "Immeuble Ilena Park, 117 allée des Parcs, 69800 Saint-Priest"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "siret, adresse, type",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=Alfa%20Laval%20France&departement=69",
+        "date": "2026-09-27",
+        "extrait": "ALFA LAVAL FRANCE & NORTH WEST AFRICA SAS, siret 78826245900175, siège, IMMEUBLE ILENA PARK 117 ALLEE DES PARCS 69800 SAINT-PRIEST, activité 46.69B, état A"
+      },
+      {
+        "champ": "expertises, mesures (ACT_HUI_003), description, site_internet",
+        "url": "https://www.alfalaval.fr/produits/solutions-de-process/solutions-pour-huile-dolive/equipements-pour-la-fabrication-d-huile-d-olive/",
+        "date": "2026-09-27",
+        "extrait": "La nouvelle centrifugeuse à deux phases Alfa Laval Sigma 6 [...] consomme beaucoup moins d'eau et d'énergie que les décanteurs triphasés et ne produit pas d'eaux noires"
+      },
+      {
+        "champ": "expertises, mesures (ACT_HUI_001)",
+        "url": "https://www.alfalaval.fr/produits/solutions-de-process/solutions-pour-huile-dolive/laveuses/",
+        "date": "2026-09-27",
+        "extrait": "L'eau de lavage est recyclée après la décantation, et l'eau propre est constamment mélangée dans des proportions prédéfinies. L'eau propre correspondant généralement à 10% du poids des olives est constamment alimentée par la douche de rinçage sur l'écran vibrant."
+      },
+      {
+        "champ": "expertises, mesures (ACT_HUI_007), description",
+        "url": "https://www.alfalaval.fr/globalassets/documents/local/france/industries/food-and-water/alfa-laval---solutions-de-production-dhuile-dolive-fr.pdf",
+        "date": "2026-09-27",
+        "extrait": "PFT00531FR 1404. L'installation compacte BlueVap pré-assemblée transforme les margines en 80% d'eau de process claire qui peut sans risque être rejetée dans la station d'épuration locale, et 20% de concentré [...] BlueVap réduit la charge polluante (DCO) de 99%. Alfa Laval et Atmosphera sont des marques déposées, propriété d'Alfa Laval Corporate AB, Suède."
+      },
+      {
+        "champ": "expertises, mesures (ACT_HUI_007), description",
+        "url": "https://www.alfalaval.us/industries/food-dairy-and-beverage/food-processing/fat-and-oil-processing/olive-oil-processing/waste-handling/",
+        "date": "2026-09-27",
+        "extrait": "Page actuelle du groupe sur BlueVap : turns waste water from olive processing in to clear water that sewage plants will accept, and a concentrate that can be mixed with husk for disposal ; can process as much as 2,500 litres of waste water hourly"
+      },
+      {
+        "champ": "expertises, mesures (ACT_HUI_002), description",
+        "url": "https://www.alfalaval.us/products/process-solutions/vegetable-oil-solutions/utility-process-systems/",
+        "date": "2026-09-27",
+        "extrait": "Optimized vacuum systems (e.g., chilled water or ice condensation), including Alfa Laval heat exchangers. Optional cooling tower supply [...] we develop tailored solutions that lower energy costs, reduce water usage, and minimize emissions"
+      }
+    ],
+    "date_maj": "2026-09-27"
+  },
+  {
+    "id": "PREST_HUI_002",
+    "nom": "OleaTech (OleaShop.fr)",
+    "type": "installateur",
+    "logo_url": null,
+    "siret": null,
+    "description": "Équipe spécialisée dans l'extraction d'huile d'olive, installée à Roquemaure (Gard), qui vend sous l'enseigne OleaShop.fr des moulins et des équipements de moulin, dont la gamme MiniOlive du fabricant Kocamaz (Izmir), et en assure le service après-vente en France. Pour les moulins, elle réalise l'installation et la mise en route des lignes d'extraction, l'entretien et la révision, des études d'optimisation sur site en saison (contrôle de chaque équipement, analyses, rapport) et l'accompagnement de projets de création ou d'extension de moulin. Elle forme les mouliniers sur leur lieu de production ou lors d'une formation générale de deux jours organisée chaque année ; les prestations sont sur devis, par formulaire, courriel, téléphone ou WhatsApp.",
+    "expertises": [
+      "Installation et mise en route de moulins",
+      "Entretien et révision de moulins",
+      "Étude d'optimisation du moulin",
+      "Formation des mouliniers"
+    ],
+    "categories": [],
+    "secteurs": [
+      "industrie_huiles"
+    ],
+    "departements": [],
+    "mesures": [],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.oleashop.fr"
+      },
+      {
+        "type": "site_internet",
+        "value": "https://www.oleatech.fr"
+      },
+      {
+        "type": "mail",
+        "value": "oleatechfrance@gmail.com"
+      },
+      {
+        "type": "tel",
+        "value": "06 10 21 59 98"
+      },
+      {
+        "type": "adresse",
+        "value": "ZI de l'Aspre, avenue de l'Aspre, 30150 Roquemaure"
+      },
+      {
+        "type": "linkedin",
+        "value": "https://linkedin.com/company/oleatech-france"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "expertises, description, mail",
+        "url": "https://www.oleashop.fr/nos-services",
+        "date": "2026-09-27",
+        "extrait": "Entretien & révision [...] Installation & assistance au démarrage : Bénéficiez d'une installation professionnelle de vos moulins et d'une assistance pour un démarrage rapide et serein de votre production. Formation & conseils techniques : Maîtrisez la conduite d'une ligne d'extraction d'huile [...] Vous pouvez également nous joindre facilement par WhatsApp ou par e-mail."
+      },
+      {
+        "champ": "adresse, description",
+        "url": "https://www.oleashop.fr/",
+        "date": "2026-09-27",
+        "extrait": "OleaShop.fr propose également des services d'installation et de maintenance pour votre équipement. [...] OleaShop Zi de l'aspre , Avenue de L'aspre 30150 ROQUEMAURE, France"
+      },
+      {
+        "champ": "description, type, expertises (service après-vente et mise en route par OleaTech du matériel vendu par OleaShop)",
+        "url": "https://www.oleashop.fr/product/21774505/moulin-miniolive-50-pro",
+        "date": "2026-09-27",
+        "extrait": "Une Prestation d'assitance à la mise en route par notre équipe OleaTech vous sera proposée (Mise en route , formation sur la conduite, les réglages , l'entretien). [...] Le Service aprés vente sera assuré par notre equipe OleaTech en France"
+      },
+      {
+        "champ": "type, description (Kocamaz, fabricant établi à Izmir)",
+        "url": "https://www.kocamaz.com.tr/zeytinyagi/en/urun-miniolive-400-boutique-olive-oil-machine/48",
+        "date": "2026-09-27",
+        "extrait": "Miniolive 400 Boutique Olive Oil Machine - Kocamaz Makina İTOB OSB 10011 Sokak No: 10 Tekeli - Menderes / İZMİR +90 (0232) 853 74 00"
+      },
+      {
+        "champ": "expertises, description",
+        "url": "https://www.oleatech.fr/Conseil.b.htm",
+        "date": "2026-09-27",
+        "extrait": "Nous vous proposons de réaliser une étude complète de votre système d'extraction. Nous venons pendant la saison pour réaliser un contrôle complet de chaque équipement. [...] Prise d'échantillons et analyses seront réalisées sur place."
+      },
+      {
+        "champ": "description",
+        "url": "https://www.oleatech.fr/Projet.f.htm",
+        "date": "2026-09-27",
+        "extrait": "Nos services : Définir un cahier des charges, consulter les fournisseurs, travailler l'implantation et le périmètre nécessaire, suivre votre projet, superviser le chantier... Conseil en sélection & implantation machines"
+      },
+      {
+        "champ": "expertises, description",
+        "url": "https://www.oleatech.fr/Formation.c.htm",
+        "date": "2026-09-27",
+        "extrait": "Nous fixons ensemble votre besoin puis une date, et nous intervenons sur votre lieu de production. Nous organisons chaque année une formation générale dédiée aux Mouliniers sur 2 jours."
+      },
+      {
+        "champ": "departements, tel, mail",
+        "url": "https://www.oleatech.fr/Contact.d.htm",
+        "date": "2026-09-27",
+        "extrait": "Notre domaine d'intervention: la France & l'Afrique du Nord [...] Contactez-nous par Téléphone (lien tel:+33610215998) [...] (lien mailto:oleatechfrance@gmail.com)"
+      },
+      {
+        "champ": "linkedin",
+        "url": "https://www.oleashop.fr/sur-les-reseaux",
+        "date": "2026-09-27",
+        "extrait": "lien https://linkedin.com/company/oleatech-france"
+      },
+      {
+        "champ": "siret (non retenu : lien avec le site non établi)",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=OLEATECH",
+        "date": "2026-09-27",
+        "extrait": "OLEATECH, siret 99949569000011, siège, 14 RUE DE LA ROUSSIERE 69970 CHAPONNAY, activité 70.22Z, état A"
+      },
+      {
+        "champ": "siret (non retenu : aucun établissement OLEATECH dans le Gard)",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=OLEATECH&departement=30",
+        "date": "2026-09-27",
+        "extrait": "{\"results\":[],\"total_results\":0}"
+      },
+      {
+        "champ": "siret (non retenu : aucune entreprise OLEASHOP)",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=OLEASHOP",
+        "date": "2026-09-27",
+        "extrait": "{\"results\":[],\"total_results\":0}"
+      }
+    ],
+    "date_maj": "2026-09-27"
+  },
+  {
+    "id": "PREST_HUI_003",
+    "nom": "Biotechna (groupe Eaux de Marseille)",
+    "type": "installateur",
+    "logo_url": null,
+    "siret": "32653268600051",
+    "description": "Filiale du groupe des Eaux de Marseille, exploitant de plateforme de compostage (NAF 38.21Z) : elle exploite à Ensuès-la-Redonne une installation classée autorisée pour 30 000 t de boues de station d'épuration urbaine, 25 000 t de déchets verts et 5 000 t de biodéchets par an ; le type « installateur » est provisoire, aucune valeur du vocabulaire ne correspondant à un exploitant de site de traitement de déchets. Elle mélange les boues aux déchets verts pour produire un compost destiné à l'agriculture ; aucune source actuelle n'indique qu'elle accepte des grignons ou des margines de moulin, à vérifier directement avec elle. En 2007, une plateforme de compostage de Salon-de-Provence exploitée par Biotechna a accueilli l'essai France Olive de co-compostage de grignons et de déchets verts, et la société a eu un établissement de Salon-de-Provence fermé en 2011 ; l'arrêté préfectoral du 19 novembre 2025 prescrit un suivi des odeurs « jusqu'à l'arrêt des activités de compostage ».",
+    "expertises": [
+      "Compostage de boues d'épuration",
+      "Compostage de déchets verts",
+      "Compostage de biodéchets",
+      "Broyage de déchets verts"
+    ],
+    "categories": [],
+    "secteurs": [
+      "industrie_huiles"
+    ],
+    "departements": [
+      "13"
+    ],
+    "mesures": [],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.eauxdemarseille.fr/nos-metiers/valorisation-boues-epuration/"
+      },
+      {
+        "type": "adresse",
+        "value": "Quartier Pas de la Fos, CD 9, chemin de l'Aiguille, 13820 Ensuès-la-Redonne"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "siret, contacts (adresse), departements, description (NAF 38.21Z)",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=32653268600051",
+        "date": "2026-09-27",
+        "extrait": "32653268600051, QUARTIER PAS DE LA FOS CD 9 CHE DE L AIGUILLE 13820 ENSUES-LA-REDONNE, etat_administratif A, activite 38.21Z"
+      },
+      {
+        "champ": "description (établissement de Salon-de-Provence fermé en 2011)",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=32653268600036",
+        "date": "2026-09-27",
+        "extrait": "32653268600036, ENTRAGES 13300 SALON-DE-PROVENCE, etat_administratif F, date_fermeture 2011-05-31"
+      },
+      {
+        "champ": "description, contacts (site_internet)",
+        "url": "https://www.eauxdemarseille.fr/nos-metiers/valorisation-boues-epuration/",
+        "date": "2026-09-27",
+        "extrait": "Cette filiale spécialisée située à Ensuès-la-Redonne, réduit les boues produites par les stations d'épuration en les mélangeant à des déchets verts pour ensuite les réutiliser à des fins agricoles."
+      },
+      {
+        "champ": "description (tonnages autorisés, suivi des odeurs jusqu'à l'arrêt des activités), expertises",
+        "url": "https://www.georisques.gouv.fr/webappReport/ws/installations/document/Tn6pmAWB6QxJeEkPUa26Xn5owRle4AKQ",
+        "date": "2026-09-27",
+        "extrait": "Arrêté n°2025-248-PC du 19 novembre 2025 : boues de station d'épuration urbaine 30 000 t, déchets verts 25 000 t, biodéchets 5 000 t ; 2794-1 broyage de déchets végétaux ; poursuite du suivi de l'observatoire des odeurs en concertation avec les riverains et les maires des communes associées jusqu'à l'arrêt des activités de compostage"
+      },
+      {
+        "champ": "departements, expertises",
+        "url": "https://georisques.gouv.fr/api/v1/installations_classees?siret=32653268600051",
+        "date": "2026-09-27",
+        "extrait": "BIOTECHNA, 9 CHE DE L AIGUILLE, 13820 Ensues-la-Redonne, etatActivite En exploitation avec titre, regime Autorisation, rubriques 2780 (traitement aérobie de déchets non dangereux), 2794 (broyage de déchets verts), 3532"
+      },
+      {
+        "champ": "description (essai France Olive 2007 à Salon-de-Provence), copie archivée de https://afidol.org/oleiculteur/olea-2020/compostage-des-residus-de-trituration/",
+        "url": "http://web.archive.org/web/20260418033317/https://afidol.org/oleiculteur/olea-2020/compostage-des-residus-de-trituration/",
+        "date": "2026-09-27",
+        "extrait": "les mélanges de grignons et de déchets verts ont été réalisés les 6, 7 et 8 novembre 2007 sur la plateforme de compostage de Salon-de-Provence exploitée par la société Biotechna (filiale du Groupe des Eaux de Marseille)"
+      },
+      {
+        "champ": "description (essai France Olive 2007 à Salon-de-Provence), URL d'origine de la page archivée, redirigée aujourd'hui vers https://www.franceolive.fr/",
+        "url": "https://afidol.org/oleiculteur/olea-2020/compostage-des-residus-de-trituration/",
+        "date": "2026-09-27",
+        "extrait": "la plateforme de compostage de Salon-de-Provence exploitée par la société Biotechna (filiale du Groupe des Eaux de Marseille) a été retenue pour la mise en œuvre du compostage (texte lu sur la copie archivée du 18/04/2026)"
+      }
+    ],
+    "date_maj": "2026-09-27"
+  },
+  {
+    "id": "PREST_HUI_004",
+    "nom": "France Olive (Association française interprofessionnelle de l'olive)",
+    "type": "association",
+    "logo_url": null,
+    "siret": "43402717300013",
+    "description": "Interprofession nationale de la filière oléicole, section olive de Terres Univia, qui regroupe la production, la transformation et la commercialisation des olives et des huiles d'olive. Pour les moulins, son pôle process et qualité apporte un appui technique (hygiène, HACCP, matériel) et un conseil sur le traitement des effluents au regard de la loi sur l'eau ; les analyses de laboratoire, dont la teneur en huile des grignons et des margines, sont réalisées et facturées par sa filiale France Olive Process, SAS distincte de l'association (SIRET 93788743800011), et sa journée technique annuelle Techno'Huile a accueilli en 2026 une conférence sur la gestion des effluents. Les conseils techniques sont accessibles gratuitement aux opérateurs de la filière, financés par la cotisation volontaire étendue ; les analyses sont payantes selon le formulaire tarifé du laboratoire.",
+    "expertises": [
+      "Conseil traitement des effluents",
+      "Analyses de résidus (filiale France Olive Process)",
+      "Appui hygiène et process",
+      "Journée technique Techno'Huile"
+    ],
+    "categories": [
+      "agir_rejets_qualite"
+    ],
+    "secteurs": [
+      "industrie_huiles"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_HUI_006",
+        "roles": [
+          "conseil_etude"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.franceolive.fr"
+      },
+      {
+        "type": "tel",
+        "value": "04 42 23 01 92"
+      },
+      {
+        "type": "mail",
+        "value": "contact@franceolive.fr"
+      },
+      {
+        "type": "adresse",
+        "value": "Maison des Agriculteurs, 22 avenue Henri Pontier, 13626 Aix-en-Provence"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "siret, type, description (filiale France Olive Process)",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=France%20Olive&departement=13",
+        "date": "2026-09-27",
+        "extrait": "ASSOCIATION FRANCAISE INTERPROFESSIONNELLE DE L'OLIVE (FRANCE OLIVE), siret 43402717300013, siège, MAISON DES AGRICULTEURS 22 AVENUE HENRI PONTIER 13100 AIX-EN-PROVENCE, nature juridique 9220, état administratif A. FRANCE OLIVE PROCESS, siret 93788743800011, siège, 22 AVENUE HENRI PONTIER 13100 AIX-EN-PROVENCE, nature juridique 5710, activité 74.90B, état administratif A"
+      },
+      {
+        "champ": "contacts",
+        "url": "https://www.franceolive.fr/images/medias/2026/06/11/memento-du-moulinier-de-france-olive-2026.pdf",
+        "date": "2026-09-27",
+        "extrait": "France Olive - Association française interprofessionnelle de l'olive, Maison des Agriculteurs, 22 avenue Henri Pontier 13626 Aix-en-Provence. Tél. 04 42 23 01 92 - Mail contact@franceolive.fr, www.franceolive.fr"
+      },
+      {
+        "champ": "departements, description",
+        "url": "https://www.franceolive.fr/categorie/france-olive-et-filiere/role-et-missions",
+        "date": "2026-09-27",
+        "extrait": "France Olive est l'interprofession française dédiée à la filière oléicole. [...] C'est la section spécialisée « olive » de Terres Univia. [...] Transformation : contrôle de la qualité, valorisation et traitement des co-produits issus des moulins à huile, [...] assistance aux professionnels (formations, assistance techniques, etc…)"
+      },
+      {
+        "champ": "mesures (ACT_HUI_006 conseil_etude), expertises, description",
+        "url": "https://www.franceolive.fr/images/medias/2026/06/11/memento-du-moulinier-de-france-olive-2026.pdf",
+        "date": "2026-09-27",
+        "extrait": "Traitement des effluents. En fonction du type de moulin et de sa capacité, il existe des solutions adaptées aux différents effluents pour répondre aux obligations réglementaires vis à vis de la loi sur l'eau (géré par l'Agence de l'eau). [...] Grâce aux CVE, producteurs, transformateurs et metteurs en marché ont accès gratuitement à différents services (conseils techniques, assistance process, qualité, étiquetage...)"
+      },
+      {
+        "champ": "expertises, description",
+        "url": "https://www.franceolive.fr/categorie/qualite-des-produits/laboratoire-oleicole-francais",
+        "date": "2026-09-27",
+        "extrait": "France Olive Process, laboratoire agréé COI, accrédité COFRAC & certifié Qualiopi [...] Laboratoire d'extraction. De septembre à décembre, avant et pendant la récolte, optimisez votre production avec nos analyses sur : [...] Teneur en huile des résidus (grignons, margines). Pour connaître les tarifs, les modalités, les délais, téléchargez le formulaire"
+      },
+      {
+        "champ": "expertises, description",
+        "url": "https://www.franceolive.fr/categorie/transformation-olives-et-huile-d-olive/techno-huile",
+        "date": "2026-09-27",
+        "extrait": "Le rendez-vous annuel des professionnels de l'huile d'olive. Chaque année, les mouliniers et metteurs en marché sont conviés [...] Techno'Huile-Techn'Olive 2026 [...] Gestion des effluents en filière oléicole par Philippe BLIN [...] APAVE"
+      },
+      {
+        "champ": "description",
+        "url": "https://www.franceolive.fr/images/medias/2026/07/24/tkh-tko-2026-pblin-icpeetrejets.pdf",
+        "date": "2026-09-27",
+        "extrait": "Journée filière oléicole, 04 juin 2026. Gestion des effluents en filière oléicole. Intervenant Apave : Philippe BLIN, Chef d'Agence Conseil Occitanie."
+      }
+    ],
+    "date_maj": "2026-09-27"
+  },
+  {
+    "id": "PREST_HUI_005",
+    "nom": "John Cockerill Proserpol",
+    "type": "installateur",
+    "logo_url": null,
+    "siret": "30231665800111",
+    "description": "Filiale française du groupe belge John Cockerill (siège à Seraing), spécialiste des procédés de traitement et de recyclage des effluents liquides industriels, avec un siège social à Thionville (57) et un établissement à Meylan (38). Elle conçoit, fournit et met en service des stations de traitement des effluents industriels : en 2015, celle de l'usine de trituration et de raffinage Saipol du Mériot (10) (cassage acide et aéroflottation, biologie, finition), qui ramène la DCO de 50 000 à moins de 100 mg/L ; fin 2024, elle a été retenue pour une station zéro rejet sur un site de traitement de surface à Brulon (72), annoncée à 97 % d'eau économisée. Elle affiche aussi la réutilisation des eaux usées traitées en agroalimentaire. Ses références publiées sont situées dans plusieurs régions (Le Mériot, Jarrie, Brulon, Calais), mais aucune zone d'intervention n'est publiée.",
+    "expertises": [
+      "Traitement des effluents huileux",
+      "Déshuilage par aéroflottation",
+      "Bioréacteur à membranes",
+      "Réutilisation des eaux usées"
+    ],
+    "categories": [
+      "agir_rejets_qualite",
+      "valoriser_reut_eaux_non_conventionnelles"
+    ],
+    "secteurs": [
+      "industrie_huiles"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_HUI_007",
+        "roles": [
+          "conseil_etude",
+          "travaux"
+        ]
+      },
+      {
+        "id": "ACT_HUI_005",
+        "roles": [
+          "conseil_etude",
+          "travaux"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://johncockerill.com/fr/industry/traitement-des-eaux/"
+      },
+      {
+        "type": "tel",
+        "value": "01 30 45 90 20"
+      },
+      {
+        "type": "adresse",
+        "value": "Route de Volkrange, 57100 Thionville"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "siret, contacts, description",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=John%20Cockerill%20Proserpol&departement=57",
+        "date": "2026-09-27",
+        "extrait": "JOHN COCKERILL PROSERPOL, siret 30231665800111, siège, BEUVANGE SOUS SAI ROUTE DE VOLKRANGE 57100 THIONVILLE, activité 71.12B, état administratif A"
+      },
+      {
+        "champ": "contacts, description",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=302316658",
+        "date": "2026-09-27",
+        "extrait": "30231665800079 45 CHEMIN DU VIEUX CHENE 38240 MEYLAN, état A ; 30231665800087 LES MIROIRS 38 BOULEVARD PAUL CEZANNE 78280 GUYANCOURT, état F (fermé)"
+      },
+      {
+        "champ": "contacts",
+        "url": "https://johncockerill.com/fr/industry/traitement-des-eaux/",
+        "date": "2026-09-27",
+        "extrait": "John Cockerill Proserpol 38 Boulevard Paul Cézanne - CS60731 [...] Les Miroirs Guyancourt Cedex France +33 (0)1 30 45 90 20 +33 (0)1 30 45 90 50 (proserpol.com redirige vers cette page)"
+      },
+      {
+        "champ": "description",
+        "url": "https://johncockerill.com/fr/presse-et-actualites/actualites/avec-proserpol-cmi-investit-dans-le-traitement-de-leau/",
+        "date": "2026-09-27",
+        "extrait": "CMI a racheté le 28 décembre 2011 le Groupe français Proserpol, spécialiste des procédés de traitement et de recyclage des effluents liquides industriels"
+      },
+      {
+        "champ": "description",
+        "url": "https://johncockerill.com/en/press-and-news/news/john-cockerills-green-electricity-headquarters-is-self-sufficient-in-energy/",
+        "date": "2026-09-27",
+        "extrait": "John Cockerill's headquarters at Seraing (Belgium), where it has been located since 1817, are energetically self-sufficient."
+      },
+      {
+        "champ": "mesures, expertises, description",
+        "url": "https://www.franceenvironnement.com/realisation/traitement-des-effluents-huileux-de-trituration-et-de-fabrication-du-diester",
+        "date": "2026-09-27",
+        "extrait": "Réalisé par John Cockerill Proserpol. L'usine Saipol du Mériot (10) a pour activité principale la trituration de graines oléagineuses, le raffinage d'huiles végétales et la production de diester. [...] Dégraissage par cassage acide et aéroflottation [...] DCO : Entrée: 50 000 mg/l | Rejet après traitement : < 100 mg/l"
+      },
+      {
+        "champ": "mesures, expertises, description",
+        "url": "https://www.franceenvironnement.com/entreprise/proserpol--st-quentin-yvelines-cdx-400031313",
+        "date": "2026-09-27",
+        "extrait": "John Cockerill Proserpol, situé à Guyancourt, conçoit des solutions pour le traitement des effluents et des boues d'épuration. Spécialisé dans le traitement par bio-réacteur à membranes (MBR Process), l'entreprise gère [...] les traitements d'effluents huileux liés à la trituration et au diester."
+      },
+      {
+        "champ": "mesures, expertises",
+        "url": "https://johncockerill.com/fr/industry/traitement-des-eaux/eaux-usees-industrielles/",
+        "date": "2026-09-27",
+        "extrait": "préparation des eaux de process, épuration des eaux résiduaires, réutilisation des eaux usées et valorisation des effluents liquides ou solides [...] (agroalimentaire, pharmacie, mines... [...] Flottation et déshuilage pour l'élimination des matières légères."
+      },
+      {
+        "champ": "mesures, description",
+        "url": "https://www.franceenvironnement.com/realisation/rehabilitation-eaux-usees-industrielles-circuit-ferme",
+        "date": "2026-09-27",
+        "extrait": "Réhabilitation des eaux usées industrielles en circuit fermé [...] filtration membranaire [...] Recyclage jusqu'à 80% des eaux usées"
+      },
+      {
+        "champ": "mesures, description, departements",
+        "url": "https://johncockerill.com/en/press-and-news/news/multilaque-traitement-rejet-zero/",
+        "date": "2026-09-27",
+        "extrait": "As part of the capacity expansion of its plant in Brulon (72, France) [...] Multilaque has once again called on the expertise of John Cockerill Proserpol, an expert in the treatment of water and industrial effluents, to equip its new production lines with a zero discharge treatment plant. [...] will eliminate effluent discharge, save up to 97% in water consumption"
+      },
+      {
+        "champ": "mesures, description, departements",
+        "url": "https://johncockerill.com/en/press-and-news/news/john-cockerill-receives-acceptance-for-three-new-effluent-treatment-plants-at-the-framatome-jarrie-site/",
+        "date": "2026-09-27",
+        "extrait": "John Cockerill Proserpol was responsible for the design, supply, installation and commissioning of the effluent treatment equipment [...] the Framatome plant in Jarrie, France"
+      },
+      {
+        "champ": "departements",
+        "url": "https://johncockerill.com/en/press-and-news/news/interor-entrusts-john-cockerill-with-the-improvement-of-its-effluent-treatment-station/",
+        "date": "2026-09-27",
+        "extrait": "INTEROR [...] entrusted John Cockerill with the construction of a tertiary treatment installation [...] Calais site"
+      }
+    ],
+    "date_maj": "2026-09-27"
+  },
+  {
+    "id": "PREST_HUI_006",
+    "nom": "SIMOP France",
+    "type": "equipementier",
+    "logo_url": null,
+    "siret": "75404070700012",
+    "description": "Fabricant normand d'équipements de traitement des eaux, qui produit dans deux usines de la Manche et de la Somme. Sa gamme de séparateurs de graisses (polyéthylène, PRV jusqu'à la taille 100, inox pour effluents chauds) est présentée pour les graisses et huiles animales et végétales des eaux ménagères et des métiers de bouche ; sa seule réalisation agroalimentaire publiée est un atelier de pâtisserie, aucune n'est citée en huilerie, et le site ne présente ces appareils ni pour les eaux acides de neutralisation ni pour l'hexane. Il fabrique aussi des débourbeurs, des séparateurs d'hydrocarbures pour les eaux de ruissellement et des bacs de rétention, vendus sur devis par son service commercial ou via un réseau de points de vente et d'installateurs partenaires.",
+    "expertises": [
+      "Séparateurs de graisses",
+      "Débourbeurs",
+      "Séparateurs d'hydrocarbures",
+      "Bacs de rétention"
+    ],
+    "categories": [
+      "agir_rejets_qualite"
+    ],
+    "secteurs": [
+      "industrie_huiles",
+      "artisanat_alimentaire"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_HUI_007",
+        "roles": [
+          "materiel"
+        ]
+      },
+      {
+        "id": "ACT_ART_006",
+        "roles": [
+          "materiel"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.simop.fr"
+      },
+      {
+        "type": "tel",
+        "value": "02 33 95 88 00"
+      },
+      {
+        "type": "mail",
+        "value": "simop@simop.fr"
+      },
+      {
+        "type": "adresse",
+        "value": "10 rue Richedoux, 50480 Sainte-Mère-Église"
+      },
+      {
+        "type": "linkedin",
+        "value": "https://fr.linkedin.com/company/simop"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "siret, adresse",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=SIMOP&departement=50",
+        "date": "2026-09-27",
+        "extrait": "SIMOP FRANCE, siret 75404070700012, siège, 10 RUE DE RICHEDOUX 50480 SAINTE-MERE-EGLISE, activité de l'unité légale 22.23Z (activité déclarée du siège 22.29A), état administratif A (l'ancien siret 30497164100085 de SIMOP est fermé)"
+      },
+      {
+        "champ": "contacts",
+        "url": "https://www.simop.fr/l-fc/applications/industrie/agro-alimentaire-agriculture/agro-alimentaire-et-agriculture-166",
+        "date": "2026-09-27",
+        "extrait": "Appelez nous au 02 33 95 88 00 ou bien effectuez une demande de renseignements en ligne et un expert vous contactera. [...] Simop France SAS, 10, rue Richedoux, 50480 Sainte-Mère-Eglise. Mail masqué par Cloudflare dans le pied de page : data-cfemail=\"e3908a8e8c93a3908a8e8c93cd8591\" (clé e3, chaque octet suivant XOR e3), décodé en simop@simop.fr"
+      },
+      {
+        "champ": "secteurs, mesures, expertises",
+        "url": "https://www.simop.fr/l-fc/applications/industrie/agro-alimentaire-agriculture/agro-alimentaire-et-agriculture-166",
+        "date": "2026-09-27",
+        "extrait": "Traitement des eaux usées, gestion des graisses, stockage et récupération des eaux pluviales, régulation, traitement des eaux de ruissellement ou contrôle des réseaux : SIMOP propose des solutions adaptées aux contraintes spécifiques de ces secteurs. De l'exploitation agricole au site de transformation agroalimentaire [...] Débourbeur en polyéthylène"
+      },
+      {
+        "champ": "mesures, expertises, description",
+        "url": "https://www.simop.fr/l-ft/solutions/eaux-usees/traitement-des-graisses/separateur-de-graisses/separateur-de-graisses-43",
+        "date": "2026-09-27",
+        "extrait": "Un séparateur de graisses est un appareil destiné à séparer et stocker les matières solides, les graisses et les huiles d'origine animale et végétale contenues dans les eaux ménagères. [...] Matériaux : PRV (2), INOX (4), Polyéthylène (5)"
+      },
+      {
+        "champ": "mesures, secteurs, description",
+        "url": "https://www.simop.fr/solutions/nos-realisations",
+        "date": "2026-09-27",
+        "extrait": "Traitement des eaux usées d'un site agroalimentaire : BIOXYMOP MAX et séparateur de graisses. Un atelier de pâtisserie à Alpiet s'est équipé d'une Bioxymop MAX 30 équivalents habitants et d'un séparateur de graisses taille 3."
+      },
+      {
+        "champ": "description",
+        "url": "https://www.simop.fr/solutions/a-eaux-usees-5/a400-pretraitement-des-graisses-et-fecules-76/a4200-separateurs-graisses-fecules-p-r-v-standards-405/6632-separateur-de-graisses-prv-taille-25-a-100-1932",
+        "date": "2026-09-27",
+        "extrait": "Séparateur de graisses PRV Taille 25 à 100 [...] graisses et les huiles d'origine animale et végétale contenues dans les eaux ménagères [...] Taille : 25, 30, 35, 40, 45, 50, 60, 70, 80, 90, 100. Matériaux : PRV. Norme et certification : NF"
+      },
+      {
+        "champ": "description",
+        "url": "https://www.simop.fr/solutions/a-eaux-usees-5/a400-pretraitement-des-graisses-et-fecules-76/a4400-separateurs-graisses-fecules-inox-standards-407/bixat-separateurs-de-graisses-inox-acc-totale-2540",
+        "date": "2026-09-27",
+        "extrait": "Taille : 1, 2, 4, 5, 6, 8, 10. Matériaux : INOX [...] Le + utilisateur : Résistantce à la corosion. Supporte les effluents chauds"
+      },
+      {
+        "champ": "description",
+        "url": "https://www.simop.fr/l-mm/solutions/eaux-usees/reglementation/traitement-des-graisses/traitement-des-graisses-213",
+        "date": "2026-09-27",
+        "extrait": "Les professionnels des métiers de bouche sont donc contraints de s'équiper de systèmes de traitements adaptés à leur activité. [...] Les séparateurs de graisses sont régis par la norme 1825."
+      },
+      {
+        "champ": "mesures",
+        "url": "https://www.simop.fr/l-mm/solutions/eaux-usees/traitement-des-graisses/traitement-des-graisses-41",
+        "date": "2026-09-27",
+        "extrait": "Les séparateurs de graisses sont des équipements destinés à traiter les eaux susceptibles d'être polluées par des graisses animales et/ou végétales avant d'être rejetées dans le réseau ou dans le milieu naturel."
+      },
+      {
+        "champ": "expertises",
+        "url": "https://www.simop.fr/l-ft/solutions/eaux-pluviales/traitement-eaux-de-ruissellement/separateur-hydrocarbures/separateur-d-hydrocarbures-59",
+        "date": "2026-09-27",
+        "extrait": "Les eaux de ruissellement, lors de leurs parcours sur les surfaces imperméabilisées se chargent, en polluant tels que les hydrocarbures [...] Séparateurs d'hydrocarbures CE (acier), 1,5 à 50L/s, débourbeur V100"
+      },
+      {
+        "champ": "expertises",
+        "url": "https://www.simop.fr/l-ft/solutions/securite-stockage-environnement/retention/bac/bac-255",
+        "date": "2026-09-27",
+        "extrait": "Bac de rétention [...] Bacs de rétention rectangulaires [...] Polyéthylène"
+      },
+      {
+        "champ": "type, description",
+        "url": "https://www.simop.fr/a-propos",
+        "date": "2026-09-27",
+        "extrait": "Spécialiste du traitement des eaux depuis 1975, SIMOP conçoit, fabrique et commercialise des solutions pour l'environnement. [...] SIMOP compte trois sites en France métropolitaine : le siège social basé à Sainte-Mère-Eglise (Manche, Normandie), deux usines implantées au Ham (Manche) et à Montdidier (Somme)."
+      },
+      {
+        "champ": "departements, description",
+        "url": "https://www.simop.fr/outils/installateur-partenaire/devenir-installateur-partenaire",
+        "date": "2026-09-27",
+        "extrait": "Le réseau partenaire SIMOP, ce sont des entreprises à travers toute la France [...] la disponibilité de nos produits dans plus de 2500 points de vente sur toute la France"
+      },
+      {
+        "champ": "mesures",
+        "url": "https://www.simop.fr/l-fc/applications/industrie/agro-alimentaire-agriculture/agro-alimentaire-et-agriculture-166",
+        "date": "2026-10-15",
+        "extrait": "Rubriques « Boulangerie » et « Boucherie - charcuterie » parmi les applications agroalimentaires des séparateurs à graisses."
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "PREST_HUI_007",
+    "nom": "Delho",
+    "type": "equipementier",
+    "logo_url": null,
+    "siret": "80763728500022",
+    "description": "Entreprise girondine qui conçoit des équipements inox de prétraitement des eaux usées grasses, fabriqués par un atelier de tôlerie de la région bordelaise. Pour les industriels agroalimentaires, dont les huileries, elle propose des bacs séparateurs de graisses et un dégrilleur-débourbeur-régulateur de débit (DD-R) posé hors-sol sur le réseau, sans pompe ni électronique. Diagnostic technique et devis gratuits sur demande, matériel ensuite vendu.",
+    "expertises": [
+      "Bacs séparateurs de graisses",
+      "Dégrilleur-débourbeur-régulateur de débit",
+      "Prétraitement des eaux grasses"
+    ],
+    "categories": [
+      "agir_rejets_qualite"
+    ],
+    "secteurs": [
+      "industrie_huiles",
+      "artisanat_alimentaire"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_HUI_007",
+        "roles": [
+          "materiel"
+        ]
+      },
+      {
+        "id": "ACT_ART_006",
+        "roles": [
+          "materiel",
+          "conseil_etude"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://delho.fr"
+      },
+      {
+        "type": "tel",
+        "value": "06 31 23 00 83"
+      },
+      {
+        "type": "mail",
+        "value": "contact@delho.fr"
+      },
+      {
+        "type": "adresse",
+        "value": "9 rue de la Praya, 33950 Lège-Cap-Ferret"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "siret, adresse",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=Delho&departement=33",
+        "date": "2026-09-27",
+        "extrait": "DELHO, siret 80763728500022, siège, PARC D'ENTREPRISE 9 RUE DE LA PRAYA 33950 LEGE-CAP-FERRET, activité 71.12B, état administratif A"
+      },
+      {
+        "champ": "contacts",
+        "url": "https://delho.fr/contact/",
+        "date": "2026-09-27",
+        "extrait": "06.31.23.00.83 contact@delho.fr 9 Rue de la Praya 33950 Lège - Cap Ferret"
+      },
+      {
+        "champ": "mesures, expertises, description",
+        "url": "https://delho.fr/pretraitement-eaux-laboratoires-agroalimentaires/",
+        "date": "2026-09-27",
+        "extrait": "Les secteurs particulièrement concernés par ces problématiques sont notamment : [...] Les huileries et ateliers de transformation végétale ou animale [...] Le DELHO DD-R, dégrilleur-débourbeur-régulateur de débit [...] s'installe hors-sol directement sur le réseau et ne nécessite aucun pompage"
+      },
+      {
+        "champ": "departements",
+        "url": "https://delho.fr/pretraitement-eaux-laboratoires-agroalimentaires/",
+        "date": "2026-09-27",
+        "extrait": "Des centaines d'acteurs de la filière agroalimentaire nous font déjà confiance, en France et dans les pays francophones limitrophes."
+      },
+      {
+        "champ": "type, description",
+        "url": "https://delho.fr/fabrication-bac-graisse/",
+        "date": "2026-09-27",
+        "extrait": "DELHO fait fabriquer ses produits à proximité de son siège social dans la région bordelaise [...] C'est dans un atelier spécialisé dans le domaine de la tôlerie fine industrielle [...] que sont réalisés les bacs à graisses DELHO."
+      },
+      {
+        "champ": "description",
+        "url": "https://delho.fr/pretraitement-eaux-laboratoires-agroalimentaires/",
+        "date": "2026-09-27",
+        "extrait": "Contactez dès maintenant l'équipe DELHO pour bénéficier d'un diagnostic technique gratuit [...] Demander un devis gratuit"
+      },
+      {
+        "champ": "mesures",
+        "url": "https://delho.fr/",
+        "date": "2026-10-15",
+        "extrait": "« Restaurateurs, traiteurs, charcutiers, pâtissiers » ; « boulangers, pâtissiers, charcutiers, traiteurs » ; diagnostic technique gratuit."
+      },
+      {
+        "champ": "mesures",
+        "url": "https://delho.fr/bac-a-graisses-sous-plonge-delho-gt-m/",
+        "date": "2026-10-15",
+        "extrait": "Bac à graisses sous plonge."
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "PREST_HUI_008",
+    "nom": "GEA Process Engineering",
+    "type": "installateur",
+    "logo_url": null,
+    "siret": "42085622100015",
+    "description": "Société installée à Montigny-le-Bretonneux, dont l'activité déclarée est l'installation de machines et équipements mécaniques ; la page France du groupe GEA (maison mère GEA Group AG, Düsseldorf, Allemagne) place son site principal à la même adresse et publie l'index égalité d'une entité « Process Engineering », mais aucune source consultée ne rattache explicitement ce SIRET à l'offre décrite ici. Pour les raffineries d'huiles, GEA propose pour la désodorisation un vide à condensation sèche (la vapeur est condensée en glace), en usine neuve ou en modernisation, qui n'utilise que 0,1 % de l'eau d'un vide humide à éjecteurs et condenseurs. Ce n'est pas la boucle fermée avec tour ou aéroréfrigérant de la mesure, mais une autre technique qui supprime presque toute l'eau perdue du vide : sur l'exemple de la brochure, 0,8 m3/h d'eau au condenseur frigorifique contre 17 + 2 m3/h en vide humide. La brochure est éditée par GEA Wiegand (Ettlingen, Allemagne), contact indiqué pour ce produit ; demande de devis par le formulaire du site.",
+    "expertises": [
+      "Vide à condensation sèche",
+      "Modernisation du vide de désodorisation"
+    ],
+    "categories": [
+      "ameliorer_efficacite_hydrique"
+    ],
+    "secteurs": [
+      "industrie_huiles"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_HUI_002",
+        "roles": [
+          "materiel"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.gea.com/fr/products/vacuum-systems/vacuum-systems/dry-condensing-vacuum-systems/"
+      },
+      {
+        "type": "adresse",
+        "value": "4 rue Jean-Pierre Timbaud, 78180 Montigny-le-Bretonneux"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "siret, adresse, description (activité)",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=GEA%20Process%20Engineering&departement=78",
+        "date": "2026-09-27",
+        "extrait": "GEA PROCESS ENGINEERING, SIRET 42085622100015, siège, 4 RUE JEAN-PIERRE TIMBAUD 78180 MONTIGNY-LE-BRETONNEUX, NAF 33.20B, état administratif A"
+      },
+      {
+        "champ": "description (lien avec le groupe GEA en France)",
+        "url": "https://www.gea.com/fr/france/",
+        "date": "2026-09-27",
+        "extrait": "GEA FRANCE, Notre emplacement principal, 4 rue Jean-Pierre Timbaud - B.P. 80, 78185 Montigny le Bretonneux [...] GEA France - INDEX ÉGALITÉ HOMME-FEMME 2025 : WESTFALIA SEPARATOR, FOOD SOLUTIONS, PROCESS ENGINEERING"
+      },
+      {
+        "champ": "contacts (site_internet), description, expertises, mesures",
+        "url": "https://www.gea.com/fr/products/vacuum-systems/vacuum-systems/dry-condensing-vacuum-systems/",
+        "date": "2026-09-27",
+        "extrait": "La désodorisation de l'huile est un processus en aval clé de la transformation des huiles alimentaires [...] n'utilise que 10 à 20 % de l'énergie et 0,1 % de l'eau nécessaires avec les systèmes [...] Nos systèmes peuvent être utilisés pour moderniser une installation existante"
+      },
+      {
+        "champ": "description, mesures",
+        "url": "https://www.gea.com/en/products/vacuum-systems/vacuum-systems/dry-condensing-vacuum-systems/",
+        "date": "2026-09-27",
+        "extrait": "Oil deodorization is a key downstream process in edible oil manufacture [...] just 0.1% of the water required by conventional 'wet' vacuum systems. Our systems can be retrofit into an existing plant"
+      },
+      {
+        "champ": "description (vide humide contre condensation sèche, éditeur GEA Wiegand), mesures",
+        "url": "https://www.gea.com/en/assets/170680/",
+        "date": "2026-09-27",
+        "extrait": "Cooling water 17 m3/h [...] Cooling water 2 m3/h [vide humide] ; Refrigerant condenser Water 0.8 m3/h [...] © GEA Wiegand GmbH [...] GEA Wiegand, Am Hardtwald 1, 76275 Ettlingen, Germany"
+      },
+      {
+        "champ": "description (groupe allemand)",
+        "url": "https://www.gea.com/fr/legal/imprint-and-website-terms-of-use/",
+        "date": "2026-09-27",
+        "extrait": "GEA Group Aktiengesellschaft (hereinafter referred to as GEA Group), a corporation incorporated under the laws of Germany, having its principle office in Düsseldorf, Germany."
+      }
+    ],
+    "date_maj": "2026-09-27"
+  },
+  {
+    "id": "PREST_HUI_009",
+    "nom": "ITERG",
+    "type": "organisme_technique",
+    "logo_url": null,
+    "siret": "77566488100122",
+    "description": "Centre technique industriel (CTI) des industries de corps gras et produits apparentés, basé à Canéjan (Gironde) et financé en partie par les cotisations interprofessionnelles de la filière des huiles et protéines végétales. Son unité Environnement réalise sur devis des diagnostics sur site industriel (bilan GES, diagnostics Bpifrance / ADEME « Décarbon'Action »), des analyses de cycle de vie et un accompagnement à l'optimisation des consommations d'énergie, d'eau et de matières premières ; elle a participé au projet de recherche ANR MINIMEAU (2018-2021) sur la minimisation des consommations d'eau en industrie agroalimentaire. La veille réglementaire environnement, qui couvre l'eau et les ICPE, est réservée aux adhérents.",
+    "expertises": [
+      "Diagnostic sur site industriel",
+      "Analyse de cycle de vie",
+      "Veille réglementaire eau et ICPE",
+      "Recherche sur la minimisation de l'eau"
+    ],
+    "categories": [
+      "suivre_comprendre_maitriser"
+    ],
+    "secteurs": [
+      "industrie_huiles"
+    ],
+    "departements": [],
+    "mesures": [],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://iterg.com"
+      },
+      {
+        "type": "tel",
+        "value": "05 56 36 00 44"
+      },
+      {
+        "type": "mail",
+        "value": "iterg@iterg.com"
+      },
+      {
+        "type": "adresse",
+        "value": "11 rue Gaspard Monge, ZA Pessac-Canéjan, CS 20428, 33612 Canéjan Cedex"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "siret",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=ITERG&departement=33",
+        "date": "2026-09-27",
+        "extrait": "ITERG, siret 77566488100122, siège, PARC INDUS BERSOL II 11 RUE GASPARD MONGE 33610 CANEJAN, activité 72.19Z, état administratif A"
+      },
+      {
+        "champ": "nom, type, description, departements",
+        "url": "https://iterg.com/a-propos/",
+        "date": "2026-09-27",
+        "extrait": "ITERG est le Centre Technique Industriel (CTI) des industries de corps gras et produits apparentés [...] Basé à Canéjan [...] ITERG reçoit des cotisations interprofessionnelles (CVO) de la filière des huiles et protéines végétales."
+      },
+      {
+        "champ": "contacts",
+        "url": "https://iterg.com/environnement-et-ecoconception/",
+        "date": "2026-09-27",
+        "extrait": "Contact 11 Rue Gaspard Monge ZA Pessac-Canéjan CS 20428, 33612 Canéjan CEDEX Tél. : 05 56 36 00 44 iterg@iterg.com"
+      },
+      {
+        "champ": "description, expertises, categories",
+        "url": "https://iterg.com/environnement-et-ecoconception/",
+        "date": "2026-09-27",
+        "extrait": "Réduire l'impact sur l'environnement de vos procédés : Optimisez vos consommations d'énergie, d'eau et de matières premières [...] Diagnostics sur site industriel [...] Réalisation de diagnostics BPIfrance/ ADEME « Décarbon'Action ». [...] Objet* Devis Demande de renseignements"
+      },
+      {
+        "champ": "description, expertises",
+        "url": "https://iterg.com/environnement-et-ecoconception/",
+        "date": "2026-09-27",
+        "extrait": "Minimisation des consommations d'eau. ITERG est associé au projet ANR MINIMEAU pour la minimisation des consommations d'eau dans les IAA, par le développement d'une approche intégrée associant empreinte eau et pinch massique."
+      },
+      {
+        "champ": "description",
+        "url": "https://minimeau.fr/",
+        "date": "2026-09-27",
+        "extrait": "Ce projet d'une durée de 4 ans (2018-2021) associe des partenaires académiques [...] plusieurs centres techniques (CTCPA, ITERG, ACTALIA, IFV)"
+      },
+      {
+        "champ": "description, expertises",
+        "url": "https://iterg.com/environnement-et-ecoconception/",
+        "date": "2026-09-27",
+        "extrait": "Veille réglementaire environnement. Elle sélectionne et commente les lois, décrets et arrêtés [...] Les domaines couverts sont : les ICPE, l'énergie [...] les émissions de GES, l'eau, les déchets"
+      },
+      {
+        "champ": "description",
+        "url": "https://iterg.com/audit-conseil/",
+        "date": "2026-09-27",
+        "extrait": "ITERG propose des produits documentaires réguliers dans le cadre de l'Adhésion. [...] Alertes réglementaires et bulletin de veille réglementaire environnement"
+      }
+    ],
+    "date_maj": "2026-09-27"
+  },
+  {
+    "id": "PREST_HUI_010",
+    "nom": "CRITT Agroalimentaire Sud (Provence-Alpes-Côte d'Azur)",
+    "type": "organisme_technique",
+    "logo_url": null,
+    "siret": "37763131200057",
+    "description": "Centre régional d'innovation et de transfert de technologies de l'industrie agroalimentaire de Provence-Alpes-Côte d'Azur, basé à Avignon. Son pôle environnement réalise des diagnostics eau sur site (collecte des données, visite, entretiens avec la production et la maintenance) suivis d'un rapport qui analyse les flux d'effluents, chiffre leur coût et propose des pistes d'amélioration, et il aide à rechercher des financements et à monter les dossiers d'aides. Le diagnostic est une prestation payante, à tarif préférentiel pour les adhérents du réseau Food'in Provence-Alpes-Côte d'Azur ; la sensibilisation du personnel qui peut le prolonger est facturée à part et peut être prise en charge par l'OPCO.",
+    "expertises": [
+      "Pré-diagnostic eau",
+      "Économie d'eau et effluents",
+      "Montage de dossiers d'aides",
+      "Veille réglementaire environnement"
+    ],
+    "categories": [
+      "suivre_comprendre_maitriser",
+      "agir_rejets_qualite"
+    ],
+    "secteurs": [
+      "industrie_huiles"
+    ],
+    "departements": [
+      "04",
+      "05",
+      "06",
+      "13",
+      "83",
+      "84"
+    ],
+    "mesures": [
+      {
+        "id": "ACT_AGR_002",
+        "roles": [
+          "conseil_etude"
+        ]
+      },
+      {
+        "id": "ACT_HUI_007",
+        "roles": [
+          "conseil_etude"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://critt-iaa-paca.com"
+      },
+      {
+        "type": "tel",
+        "value": "04 90 31 55 08"
+      },
+      {
+        "type": "mail",
+        "value": "critt@critt-iaa-paca.com"
+      },
+      {
+        "type": "adresse",
+        "value": "Bâtiment Food'in Provence-Alpes-Côte d'Azur, 885 Chemin de la Forêt, 84140 Avignon"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "contacts",
+        "url": "https://critt-iaa-paca.com/environnement/",
+        "date": "2026-09-27",
+        "extrait": "CRITT Agroalimentaire PACA, Bâtiment Food'in Provence-Alpes-Côte d'Azur, 885 Chemin de la Forêt, 84140 Avignon. Tel: 04 90 31 55 08. Mail : critt@critt-iaa-paca.com"
+      },
+      {
+        "champ": "contacts (capture archivée de la même page)",
+        "url": "https://web.archive.org/web/20260312222552/https://critt-iaa-paca.com/environnement/",
+        "date": "2026-09-27",
+        "extrait": "CRITT Agroalimentaire PACA, Bâtiment Food'in Provence-Alpes-Côte d'Azur, 885 Chemin de la Forêt, 84140 Avignon. Tel: 04 90 31 55 08. Mail : critt@critt-iaa-paca.com"
+      },
+      {
+        "champ": "expertises, categories, mesures (ACT_AGR_002, ACT_HUI_007), description",
+        "url": "https://critt-iaa-paca.com/environnement/",
+        "date": "2026-09-27",
+        "extrait": "Economie d'eau et traitement des effluents ; Pré-diagnostics eau/énergie/déchets/éco-conception ; Recherches de financements / Montage de dossiers de demandes d'aides ; Veille réglementaire et technique"
+      },
+      {
+        "champ": "expertises, categories, mesures (ACT_AGR_002, ACT_HUI_007), description (capture archivée de la même page)",
+        "url": "https://web.archive.org/web/20260312222552/https://critt-iaa-paca.com/environnement/",
+        "date": "2026-09-27",
+        "extrait": "Economie d'eau et traitement des effluents ; Pré-diagnostics eau/énergie/déchets/éco-conception ; Recherches de financements / Montage de dossiers de demandes d'aides ; Veille réglementaire et technique"
+      },
+      {
+        "champ": "mesures (ACT_AGR_002, ACT_HUI_007), description",
+        "url": "https://critt-iaa-paca.com/wp-content/uploads/files/Environnement/Diagnostic%20%26%20Accompagnement%20-%20Eau.pdf",
+        "date": "2026-09-27",
+        "extrait": "Objectifs : Mieux connaître les usages et le devenir de l'eau dans son entreprise ; Réduire ses consommations ; Réduire les coûts de ses effluents. Intervention sur site : collecte des données, visite des locaux, entretien avec le personnel (production, maintenance...). Rapport de synthèse : une analyse des flux des effluents, un point sur le coût des effluents, des propositions de pistes d'amélioration, des contacts pour le traitement des effluents ou co-produits. Sensibilisation du personnel non intégrée dans le coût du diagnostic, peut être prise en charge par votre OPCO."
+      },
+      {
+        "champ": "mesures (ACT_AGR_002, ACT_HUI_007), description (capture archivée de la même page)",
+        "url": "https://web.archive.org/web/20230415053237/https://critt-iaa-paca.com/wp-content/uploads/files/Environnement/Diagnostic%20%26%20Accompagnement%20-%20Eau.pdf",
+        "date": "2026-09-27",
+        "extrait": "Objectifs : Mieux connaître les usages et le devenir de l'eau dans son entreprise ; Réduire ses consommations ; Réduire les coûts de ses effluents. Intervention sur site : collecte des données, visite des locaux, entretien avec le personnel (production, maintenance...). Rapport de synthèse : une analyse des flux des effluents, un point sur le coût des effluents, des propositions de pistes d'amélioration, des contacts pour le traitement des effluents ou co-produits. Sensibilisation du personnel non intégrée dans le coût du diagnostic, peut être prise en charge par votre OPCO."
+      },
+      {
+        "champ": "mesures (ACT_HUI_007)",
+        "url": "https://critt-iaa-paca.com/support-individuel/diagnostic-conseil-accompagnement/",
+        "date": "2026-09-27",
+        "extrait": "Chaque année, le CRITT accompagne plus de 100 entreprises, sur des projets tels que : [...] le traitement des effluents"
+      },
+      {
+        "champ": "mesures (ACT_HUI_007) (capture archivée de la même page)",
+        "url": "https://web.archive.org/web/20260211070031/https://critt-iaa-paca.com/support-individuel/diagnostic-conseil-accompagnement/",
+        "date": "2026-09-27",
+        "extrait": "Chaque année, le CRITT accompagne plus de 100 entreprises, sur des projets tels que : [...] le traitement des effluents"
+      },
+      {
+        "champ": "departements, description",
+        "url": "https://critt-iaa-paca.com/presentation-du-critt-agroalimentaire/",
+        "date": "2026-09-27",
+        "extrait": "le CRITT Agroalimentaire Provence-Alpes-Côte d'Azur est l'outil d'innovation et de transfert de technologies spécialisé de l'industrie agroalimentaire régionale [...] aider les entreprises régionales à être durablement performantes"
+      },
+      {
+        "champ": "departements, description (capture archivée de la même page)",
+        "url": "https://web.archive.org/web/20260214195952/https://critt-iaa-paca.com/presentation-du-critt-agroalimentaire/",
+        "date": "2026-09-27",
+        "extrait": "le CRITT Agroalimentaire Provence-Alpes-Côte d'Azur est l'outil d'innovation et de transfert de technologies spécialisé de l'industrie agroalimentaire régionale [...] aider les entreprises régionales à être durablement performantes"
+      },
+      {
+        "champ": "type, description (accès, adhésion)",
+        "url": "https://critt-iaa-paca.com/adherer-au-critt-agroalimentaire/",
+        "date": "2026-09-27",
+        "extrait": "En région Sud l'adhésion au réseau Food'in Provence-Alpes-Côte d'Azur permet d'adhérer simultanément à l'ARIA Sud, au Critt (le centre technique) et à l'IFRIA SUD PACA. Des services à tarifs préférentiels (-30% environ) pour : [...] Un accompagnement personnalisé de vos projets"
+      },
+      {
+        "champ": "type, description (accès, adhésion) (capture archivée de la même page)",
+        "url": "https://web.archive.org/web/20260312222650/https://critt-iaa-paca.com/adherer-au-critt-agroalimentaire/",
+        "date": "2026-09-27",
+        "extrait": "En région Sud l'adhésion au réseau Food'in Provence-Alpes-Côte d'Azur permet d'adhérer simultanément à l'ARIA Sud, au Critt (le centre technique) et à l'IFRIA SUD PACA. Des services à tarifs préférentiels (-30% environ) pour : [...] Un accompagnement personnalisé de vos projets"
+      },
+      {
+        "champ": "siret",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=CRITT%20agroalimentaire&departement=84",
+        "date": "2026-09-27",
+        "extrait": "CENTRE REG INNOV TRANSFERT TECHNO AGROALIMENTAIRE SUD PROVENCE ALPES COTE D AZUR (CRITT AGRO ALIM SUD), siret 37763131200057, siège, 885 CHEMIN DE LA FORET 84000 AVIGNON, état administratif A"
+      }
+    ],
+    "date_maj": "2026-09-27"
+  },
+  {
+    "id": "PREST_HUI_011",
+    "nom": "OID Consultants",
+    "type": "bureau_etudes",
+    "logo_url": null,
+    "siret": "53227788600042",
+    "description": "Cabinet de conseil lyonnais en performance environnementale et énergétique des sites industriels, indépendant des fournisseurs de matériel. Il conçoit des plans de comptage (choix des points de mesure, fourniture du matériel, télérelève radio, WIFI ou filaire, y compris des consommations d'eau froide ou chaude et des effluents, pose par des partenaires agréés) et réalise des diagnostics multi-flux qui couvrent l'eau avec un plan d'action, notamment dans le cadre du Diag Eco-Flux de Bpifrance, financé à 50 % par l'ADEME. L'offre est construite sur demande après prise de contact par téléphone, courriel ou rendez-vous.",
+    "expertises": [
+      "Plan de comptage et télérelève",
+      "Diagnostic multi-flux énergie et eau",
+      "Diag Eco-Flux Bpifrance",
+      "Exploitation des données de consommation"
+    ],
+    "categories": [
+      "suivre_comprendre_maitriser"
+    ],
+    "secteurs": [
+      "industrie_huiles"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_AGR_001",
+        "roles": [
+          "conseil_etude",
+          "materiel"
+        ]
+      },
+      {
+        "id": "ACT_AGR_002",
+        "roles": [
+          "conseil_etude"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://oid-consultants.com/"
+      },
+      {
+        "type": "tel",
+        "value": "04 82 53 42 40"
+      },
+      {
+        "type": "mail",
+        "value": "contact@oid-consultants.com"
+      },
+      {
+        "type": "adresse",
+        "value": "6c Cours Bayard, 69002 Lyon"
+      },
+      {
+        "type": "linkedin",
+        "value": "https://www.linkedin.com/company/oid-consultants/"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "siret, adresse, type",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=OID%20Consultants&departement=69",
+        "date": "2026-09-27",
+        "extrait": "OID CONSULTANTS, siret 53227788600042, siège, 6 C COURS BAYARD 69002 LYON, activité 70.22Z, état A"
+      },
+      {
+        "champ": "contacts (tel, mail, adresse)",
+        "url": "https://oid-consultants.com/contact/",
+        "date": "2026-09-27",
+        "extrait": "Nos bureaux à Lyon. Adresse 6c Cours Bayard 69002 Lyon. Téléphone 04 82 53 42 40. Email contact@oid-consultants.com"
+      },
+      {
+        "champ": "expertises, mesures (ACT_AGR_001 conseil_etude, materiel), description, contacts (linkedin)",
+        "url": "https://oid-consultants.com/plan-de-comptage-collecte-de-donnees/",
+        "date": "2026-09-27",
+        "extrait": "OID est indépendant de tout fournisseur de matériel [...] nous vous proposerons des solutions de télérelève radio sur batterie (pas de temps 5 ou 10 minutes) ou WIFI/filaire [...] nous relevons des consommations électriques, de gaz, de vapeur, de frigories, d'eau froide/chaude, d'effluents. Quels que soient vos objectifs et enjeux, nous vous proposerons le matériel adapté. OID s'occupe également de la pose via son réseau de partenaires agréés"
+      },
+      {
+        "champ": "expertises, mesures (ACT_AGR_002), description",
+        "url": "https://oid-consultants.com/multi-flux/",
+        "date": "2026-09-27",
+        "extrait": "Nous faisons notamment partie des bureaux de conseils mandatés par la BPI pour réaliser des Diag Eco Flux [...] Ces diagnostics, financés à hauteur de 50% par l'ADEME, abordent 4 flux : l'énergie, les déchets, la matière et l'eau. [...] Les actions mises en avant portent sur la réduction des consommations et le traitement des eaux usées, pouvant parfois mener à un passage en circuit fermé."
+      },
+      {
+        "champ": "mesures (ACT_AGR_001, ACT_AGR_002), references",
+        "url": "https://oid-consultants.com/references-et-temoignages/",
+        "date": "2026-09-27",
+        "extrait": "Fertinagro France : Déploiement d'un plan de comptage énergétique en 2018. ETS. R. FILLIERE : OID est venu auditer notre usine en 2021 à l'occasion d'un DiagEcoFlux [...] identifier des leviers d'économies sur l'énergie, l'eau et les déchets [...] a fourni un plan d'action chiffré et priorisé"
+      },
+      {
+        "champ": "departements (national)",
+        "url": "https://oid-consultants.com/adn-et-valeurs/",
+        "date": "2026-09-27",
+        "extrait": "Nous restons à ce jour référent national sur les flux énergie - déchets - matière et eau."
+      },
+      {
+        "champ": "references",
+        "url": "https://oid-consultants.com/pilotage-du-chauffage-sur-site-industriel-la-pastillerie-de-vichy-reduit-sa-consommation-de-gaz-de-15-et-poursuit-ses-actions-de-decarbonation/",
+        "date": "2026-09-27",
+        "extrait": "Pilotage du chauffage sur site industriel : la Pastillerie de Vichy réduit sa consommation de gaz de 15% [...] La collaboration entre OID et la Pastillerie Vichy a démarré il y a 10 ans."
+      }
+    ],
+    "date_maj": "2026-09-27"
+  },
+  {
+    "id": "PREST_HUI_012",
+    "nom": "GreenFlex",
+    "type": "bureau_etudes",
+    "logo_url": null,
+    "siret": "51184084500149",
+    "description": "Société de conseil et d'ingénierie en énergie et environnement, aujourd'hui rattachée au groupe Oteis, avec des bureaux dans neuf villes françaises dont Lille, Lyon et Aix-en-Provence. Son offre efficacité hydrique commence par un état des lieux des consommations et des usages d'eau, puis une feuille de route et des études de faisabilité, notamment pour réutiliser les eaux usées traitées ou récupérer les eaux de pluie, et peut aller jusqu'à la réalisation en assistance à maîtrise d'ouvrage ou en clé en main. Dans le secteur, elle a renouvelé en clé en main les installations de refroidissement du process de l'usine Lesieur de Coudekerque-Branche, projet présenté sous l'angle énergie. Contact par le formulaire du site.",
+    "expertises": [
+      "État des lieux des consommations d'eau",
+      "Feuille de route eau et énergie",
+      "Faisabilité réutilisation des eaux usées",
+      "Froid industriel clé en main"
+    ],
+    "categories": [
+      "suivre_comprendre_maitriser",
+      "valoriser_reut_eaux_non_conventionnelles"
+    ],
+    "secteurs": [
+      "industrie_huiles"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_AGR_002",
+        "roles": [
+          "conseil_etude"
+        ]
+      },
+      {
+        "id": "ACT_HUI_005",
+        "roles": [
+          "conseil_etude"
+        ]
+      },
+      {
+        "id": "ACT_AGR_006",
+        "roles": [
+          "conseil_etude"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.greenflex.com/offres/multi-expertises/efficacite-hydrique/"
+      },
+      {
+        "type": "tel",
+        "value": "01 40 22 14 60"
+      },
+      {
+        "type": "mail",
+        "value": "contact@greenflex.com"
+      },
+      {
+        "type": "adresse",
+        "value": "7-11 boulevard Haussmann, 75009 Paris"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "siret, adresse",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=GreenFlex&departement=75",
+        "date": "2026-09-27",
+        "extrait": "GREENFLEX (ETHICITY - BECITIZEN - EVEIO), siret 51184084500149, siège, 7-11 7 BOULEVARD HAUSSMANN 75009 PARIS, activité 70.22Z, état administratif A"
+      },
+      {
+        "champ": "contacts, description",
+        "url": "https://www.greenflex.com/mentions-legales/",
+        "date": "2026-09-27",
+        "extrait": "R.C.S. Paris 511 840 845 [...] 7-11 boulevard Haussmann [...] 75009 Paris [...] Téléphone : +33 (0)1 40 22 14 60 [...] E-mail : contact@greenflex.com [...] La Société qui a créé ce site internet appartient au groupe Oteis."
+      },
+      {
+        "champ": "departements, description",
+        "url": "https://www.greenflex.com/qui-sommes-nous/",
+        "date": "2026-09-27",
+        "extrait": "Notre présence en Europe et en France : GreenFlex Paris, Strasbourg, Lille, Rennes, Nantes, Bordeaux, Toulouse, Aix-en-Provence (13290), Lyon"
+      },
+      {
+        "champ": "mesures, expertises, description, contacts",
+        "url": "https://www.greenflex.com/offres/multi-expertises/efficacite-hydrique/",
+        "date": "2026-09-27",
+        "extrait": "GreenFlex vous aide à réduire vos consommations et à réutiliser vos eaux usées. [...] Soyez plus autonome en réutilisant vos eaux usées traitées, en récupérant vos eaux de pluie [...] Nous réalisons un état des lieux de vos consommations et de vos usages actuels [...] nous élaborons une feuille de route opérationnelle et d'investissements. [...] Nos équipes analysent la faisabilité technique, économique et juridique des projets identifiés. [...] nous agissons en tant que contractant général, des études de faisabilité et de conception à la réception des travaux"
+      },
+      {
+        "champ": "expertises, description",
+        "url": "https://www.greenflex.com/projets/references/renouvellement-installations-froid-revalorisation-chaleur-fatale-lesieur/",
+        "date": "2026-09-27",
+        "extrait": "l'usine historique du Groupe Lesieur est celle de Coudekerque-Branche, près de Dunkerque [...] Renouvellement des installations de refroidissement du process [...] les études de conception, la fourniture et la réalisation des travaux ainsi que la valorisation des Certificats d'Economies d'Energie"
+      }
+    ],
+    "date_maj": "2026-09-27"
+  }
+]

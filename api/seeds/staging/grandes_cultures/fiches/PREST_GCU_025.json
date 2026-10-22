@@ -1,0 +1,113 @@
+{
+  "id": "PREST_GCU_025",
+  "nom": "CG Irrigation",
+  "type": "installateur",
+  "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792084494/Noe%20assets/logos/PREST_GCU_025.png",
+  "siret": "38754367100011",
+  "description": "Entreprise d'irrigation agricole d'Aiguillon (Lot-et-Garonne), au service des agriculteurs depuis 1991 selon l'entreprise, partenaire et distributeur régional de la marque OCMIS, avec une seconde agence à Saint-Romain-le-Noble. Pour le maïs et les céréales, elle dimensionne et installe enrouleurs, pivots et rampes frontales OCMIS, du génie civil du point d'ancrage jusqu'au pilotage, assemble dans son atelier des stations de pompage et de filtration, puis assure le service après-vente (entretien, dépannage, optimisation des réseaux). Chaque projet commence par une étude gratuite, suivie de l'installation, de la mise en route et d'un suivi.",
+  "expertises": [
+    "Pose d'enrouleurs et de pivots",
+    "Stations de pompage et filtration",
+    "Entretien et dépannage d'irrigation",
+    "Variateurs de vitesse et télégestion"
+  ],
+  "categories": [
+    "ameliorer_efficacite_hydrique"
+  ],
+  "secteurs": [
+    "grandes_cultures"
+  ],
+  "departements": [
+    "47",
+    "33",
+    "24",
+    "82",
+    "32",
+    "40"
+  ],
+  "mesures": [
+    {
+      "id": "ACT_GCU_003",
+      "roles": [
+        "materiel",
+        "travaux"
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "type": "site_internet",
+      "value": "https://www.cg-irrigation.com/"
+    },
+    {
+      "type": "tel",
+      "value": "05 53 84 70 20"
+    },
+    {
+      "type": "mail",
+      "value": "info@cg-irrigation.com"
+    },
+    {
+      "type": "adresse",
+      "value": "2282 route de Villeneuve, 47190 Aiguillon"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=CG%20Irrigation&departement=47",
+      "date": "2026-10-15",
+      "extrait": "S.A.R.L CG IRRIGATION, siret 38754367100011, siège, 2282 ROUTE DE VILLENEUVE 47190 AIGUILLON, 46.61Z, état A, 2 établissements ouverts"
+    },
+    {
+      "champ": "siret",
+      "url": "https://www.cg-irrigation.com/assets/index-BNIAT4My.js",
+      "date": "2026-10-15",
+      "extrait": "raisonSociale:\"S.A.R.L CG IRRIGATION\" [...] siren:\"387 543 671\",siret:\"387 543 671 00011\" (données de la page https://www.cg-irrigation.com/mentions-legales)"
+    },
+    {
+      "champ": "departements, contacts",
+      "url": "https://www.cg-irrigation.com/",
+      "date": "2026-10-15",
+      "extrait": "\"telephone\": \"+33553847020\", [...] \"email\": \"info@cg-irrigation.com\", [...] \"streetAddress\": \"2282 route de Villeneuve\", [...] \"addressLocality\": \"Aiguillon\", [...] \"postalCode\": \"47190\", [...] \"areaServed\": [\"Lot-et-Garonne\", \"Gironde\", \"Dordogne\", \"Tarn-et-Garonne\", \"Gers\", \"Landes\"] (JSON-LD du HTML de la page d'accueil)"
+    },
+    {
+      "champ": "description",
+      "url": "https://www.cg-irrigation.com/",
+      "date": "2026-10-15",
+      "extrait": "Deux agences : Aiguillon et Saint-Romain-le-Noble. (meta description du HTML de la page d'accueil)"
+    },
+    {
+      "champ": "description (depuis 1991 selon l'entreprise)",
+      "url": "https://www.cg-irrigation.com/assets/index-BNIAT4My.js",
+      "date": "2026-10-15",
+      "extrait": "Entreprise spécialisée, au service des agriculteurs depuis 1991, dans l'irrigation agricole [...] foundingDate:\"1991\" (SIRENE donne une création le 1992-03-01)"
+    },
+    {
+      "champ": "type, description, expertises, mesures (ACT_GCU_003)",
+      "url": "https://www.cg-irrigation.com/assets/index-BNIAT4My.js",
+      "date": "2026-10-15",
+      "extrait": "Partenaire et distributeur régional OCMIS, CG IRRIGATION dimensionne l'enrouleur selon votre débit disponible, votre pression et la largeur de vos parcelles [...] Idéal pour : maïs, céréales, prairies, cultures de plein champ. [...] CG IRRIGATION installe pivots et rampes frontales OCMIS, du génie civil du point d'ancrage jusqu'au pilotage. [...] Pilotage et suivi à distance possibles [...] Idéal pour : grandes parcelles régulières, maïs, céréales, cultures industrielles. (texte de la page https://www.cg-irrigation.com/irrigation)"
+    },
+    {
+      "champ": "description, expertises",
+      "url": "https://www.cg-irrigation.com/assets/index-BNIAT4My.js",
+      "date": "2026-10-15",
+      "extrait": "Nos stations de pompage et de filtration sont entièrement équipées et aménagées en conteneur dans notre atelier, puis posées et mises en service sur votre exploitation. [...] Variateurs de vitesse pour piloter le débit [...] Automatisme et télégestion à distance (texte de la page https://www.cg-irrigation.com/irrigation)"
+    },
+    {
+      "champ": "description, expertises, mesures (ACT_GCU_003)",
+      "url": "https://www.cg-irrigation.com/assets/index-BNIAT4My.js",
+      "date": "2026-10-15",
+      "extrait": "Oui. En tant que partenaire OCMIS, nous installons enrouleurs et pivots pour une couverture uniforme et efficace de vos cultures, avec livraison, mise en route sur le terrain et conseil sur le dimensionnement adapté à votre exploitation. [...] Chaque projet débute par une étude gratuite, suivie de l'installation par nos équipes, puis d'une mise en route et d'un suivi. [...] Oui. Nous assurons un suivi et un service après-vente pour garantir le bon fonctionnement de vos installations dans la durée, que ce soit pour l'entretien, le dépannage ou l'optimisation de vos réseaux. (texte de la page https://www.cg-irrigation.com/faq)"
+    },
+    {
+      "champ": "logo_url",
+      "url": "https://www.cg-irrigation.com/manus-storage/logo-cg-fruisier_99b6261c.jpeg",
+      "date": "2026-10-15",
+      "extrait": "Logo carré CG Irrigation (211 x 211 px), déclaré comme logo de l'organisation dans le bundle : const uw=\"/manus-storage/logo-cg-fruisier_99b6261c.jpeg\" [...] logo:`${mr}${uw}`"
+    }
+  ],
+  "date_maj": "2026-10-15"
+}

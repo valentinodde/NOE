@@ -1,0 +1,173 @@
+[
+  {
+    "id": "cave_novice",
+    "nom": "Petite cave de négoce, rien de formalisé",
+    "description": "Négociant vinificateur de six salariés, 3 000 hl par an, eau du réseau uniquement, environ 2 500 m³ par an. Le vin est poussé à l'eau dans les tuyaux, les cuves sont lavées au jet froid, les cuves sont refroidies par ruissellement d'eau perdue, les effluents partent à la station communale sans autorisation écrite. Pas de distillation. Aucun audit, aucune consigne, le sujet des restrictions n'a jamais été regardé.",
+    "answers": {
+      "vin_q01": "aucun_compteur",
+      "vin_q02": ["reseau"],
+      "vin_q03": "2500",
+      "vin_q04": "jamais",
+      "vin_q05": "pousse_eau",
+      "vin_q06": "jet_froid",
+      "vin_q07": "aucune",
+      "vin_q08": "eau_perdue",
+      "vin_q09": "raccorde_sans_autorisation",
+      "vin_q10": "sans_distillation",
+      "vin_q11": "non_analyse",
+      "vin_q12": "non"
+    }
+  },
+  {
+    "id": "maison_equipee",
+    "nom": "Maison de champagne équipée, en réflexion sur la suite",
+    "description": "Maison de champagne de 40 salariés, 18 000 m³ par an, réseau public doublé d'un forage. Raclage des canalisations, centrale de nettoyage avec récupération du dernier rinçage, froid en circuit fermé, consignes écrites, station d'effluents dimensionnée sur les vendanges. Relevés réguliers sans ratio, audit de plus de cinq ans, informée des restrictions sans plan écrit, pas engagée dans une démarche collective.",
+    "answers": {
+      "vin_q01": "releves_campagne",
+      "vin_q02": ["reseau", "forage"],
+      "vin_q03": "18000",
+      "vin_q04": "ancien",
+      "vin_q05": "raclage_obus",
+      "vin_q06": "centrale_recup",
+      "vin_q07": "ecrites",
+      "vin_q08": "circuit_ferme",
+      "vin_q09": "filiere_dimensionnee",
+      "vin_q10": "sans_distillation",
+      "vin_q11": "informe",
+      "vin_q12": "informe"
+    }
+  },
+  {
+    "id": "liquoriste_assemblage",
+    "nom": "Liquoriste par assemblage, sans vendange ni distillation",
+    "description": "Fabricant de liqueurs et d'apéritifs de huit salariés qui achète ses alcools et ses vins de base : ni pressurage, ni distillation, ni besoin de refroidissement. Eau du réseau, 600 m³ par an, compteur général. Des tuyaux souples courts, les cuves lavées au nettoyeur haute pression, des habitudes orales. Aucun audit, restrictions jamais regardées, pas de démarche collective.",
+    "answers": {
+      "vin_q01": "compteur_general",
+      "vin_q02": ["reseau"],
+      "vin_q03": "600",
+      "vin_q04": "jamais",
+      "vin_q05": "sans_reseau",
+      "vin_q06": "haute_pression",
+      "vin_q07": "orales",
+      "vin_q08": "sans_eau",
+      "vin_q09": "sans_vendange",
+      "vin_q10": "sans_distillation",
+      "vin_q11": "non_analyse",
+      "vin_q12": "non"
+    }
+  },
+  {
+    "id": "cave_avancee",
+    "nom": "Cave coopérative exemplaire",
+    "description": "Grande cave coopérative de 30 000 m³ par an, forage et eau de pluie, eaux de rinçage réutilisées. Ratio d'eau par hectolitre suivi, audit récent, raclage, centrale de nettoyage, formation à chaque campagne, circuit fermé, filière d'effluents dimensionnée, vinasses de sa petite unité de distillation apportées à un traitement collectif. Plan écrit par niveau de restriction, engagements chiffrés dans la démarche de bassin.",
+    "answers": {
+      "vin_q01": "ratio_hl",
+      "vin_q02": ["forage", "pluie", "recyclage"],
+      "vin_q03": "30000",
+      "vin_q04": "recent",
+      "vin_q05": "raclage_obus",
+      "vin_q06": "centrale_recup",
+      "vin_q07": "ecrites_formees",
+      "vin_q08": "circuit_ferme",
+      "vin_q09": "filiere_dimensionnee",
+      "vin_q10": "traitement_collectif",
+      "vin_q11": "plan_formalise",
+      "vin_q12": "pilote"
+    }
+  },
+  {
+    "id": "ne_sait_pas",
+    "nom": "Assistante administrative qui répond pour le dirigeant",
+    "description": "Une personne du bureau remplit le questionnaire pour une maison de vins. Elle sait que l'eau vient du réseau et que l'entreprise ne distille pas, et ne sait rien du reste : elle répond « je ne sais pas » partout ailleurs.",
+    "answers": {
+      "vin_q01": "__skip__",
+      "vin_q02": ["reseau"],
+      "vin_q03": "__skip__",
+      "vin_q04": "__skip__",
+      "vin_q05": "__skip__",
+      "vin_q06": "__skip__",
+      "vin_q07": "__skip__",
+      "vin_q08": "__skip__",
+      "vin_q09": "__skip__",
+      "vin_q10": "sans_distillation",
+      "vin_q11": "__skip__",
+      "vin_q12": "__skip__"
+    }
+  },
+  {
+    "id": "grande_cave_cooperative",
+    "nom": "Grande cave coopérative, gros consommateur à mi-chemin",
+    "description": "Cave coopérative de 120 000 hl, 45 000 m³ par an, réseau et forage. Relevés réguliers, audit ancien, vin poussé au gaz sans obus, têtes de lavage rotatives sans récupération du rinçage, consignes écrites, tour aéroréfrigérante. Le stockage des effluents sature chaque année en pleine vendange. Pas de distillation. Sait ce qui s'arrêterait en restriction sans plan écrit, participe aux réunions de la démarche de bassin.",
+    "answers": {
+      "vin_q01": "releves_campagne",
+      "vin_q02": ["reseau", "forage"],
+      "vin_q03": "45000",
+      "vin_q04": "ancien",
+      "vin_q05": "pousse_gaz",
+      "vin_q06": "tetes_lavage",
+      "vin_q07": "ecrites",
+      "vin_q08": "tour_aero",
+      "vin_q09": "deborde_vendanges",
+      "vin_q10": "sans_distillation",
+      "vin_q11": "evalue",
+      "vin_q12": "participe"
+    }
+  },
+  {
+    "id": "distillerie_enregistree",
+    "nom": "Distillerie charentaise en conformité, rien au-delà",
+    "description": "Distillerie de cognac à quatre alambics de 25 hl, ICPE à enregistrement, 12 000 m³ par an sur forage. Le refroidissement est en circuit fermé et les vinasses sont stockées et épandues selon le plan réglementaire : c'est l'obligation, elle est tenue. Le vin arrive par citerne et circule en tuyaux souples, cuves au nettoyeur haute pression, habitudes orales, effluents de chai traités par une filière dimensionnée. Jamais d'audit, informée des restrictions sans plan, participe aux réunions de l'interprofession.",
+    "answers": {
+      "vin_q01": "releves_campagne",
+      "vin_q02": ["forage"],
+      "vin_q03": "12000",
+      "vin_q04": "jamais",
+      "vin_q05": "sans_reseau",
+      "vin_q06": "haute_pression",
+      "vin_q07": "orales",
+      "vin_q08": "circuit_ferme",
+      "vin_q09": "filiere_dimensionnee",
+      "vin_q10": "epandage_maitrise",
+      "vin_q11": "informe",
+      "vin_q12": "participe"
+    }
+  },
+  {
+    "id": "cidrerie_saisonniere",
+    "nom": "Cidrerie qui distille son calvados, activité saisonnière",
+    "description": "Cidrerie normande de cinq salariés, brassage des pommes d'octobre à janvier puis distillation du calvados en hiver. Eau du réseau, 1 500 m³ par an, compteur général. Tuyaux souples, nettoyeur haute pression, habitudes orales, pas de refroidissement hors alambic qui tourne sur un groupe à air. Le stockage des effluents sature pendant le brassage, les vinasses sont épandues sans plan à jour. Aucun audit, restrictions non regardées, pas de démarche collective.",
+    "answers": {
+      "vin_q01": "compteur_general",
+      "vin_q02": ["reseau"],
+      "vin_q03": "1500",
+      "vin_q04": "jamais",
+      "vin_q05": "sans_reseau",
+      "vin_q06": "haute_pression",
+      "vin_q07": "orales",
+      "vin_q08": "sans_eau",
+      "vin_q09": "deborde_vendanges",
+      "vin_q10": "epandage_sans_plan",
+      "vin_q11": "non_analyse",
+      "vin_q12": "non"
+    }
+  },
+  {
+    "id": "reponses_incoherentes",
+    "nom": "Réponses contradictoires",
+    "description": "Déclare un ratio d'eau par hectolitre mais aucun audit et une consommation nulle, un raclage des canalisations mais des cuves lavées au jet froid, aucun refroidissement mais des vinasses épandues sans plan, pas de pressurage, un plan écrit de restriction mais aucune démarche collective. Le plan ne doit pas être absurde.",
+    "answers": {
+      "vin_q01": "ratio_hl",
+      "vin_q02": ["pluie"],
+      "vin_q03": "0",
+      "vin_q04": "jamais",
+      "vin_q05": "raclage_obus",
+      "vin_q06": "jet_froid",
+      "vin_q07": "ecrites_formees",
+      "vin_q08": "sans_eau",
+      "vin_q09": "sans_vendange",
+      "vin_q10": "epandage_sans_plan",
+      "vin_q11": "plan_formalise",
+      "vin_q12": "non"
+    }
+  }
+]

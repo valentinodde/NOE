@@ -1,0 +1,177 @@
+[
+  {
+    "id": "laitier_novice",
+    "nom": "Élevage laitier de 60 vaches, rien de formalisé",
+    "description": "Exploitation laitière de 60 vaches en Mayenne, salle de traite 2 x 5, vaches au pâturage de mars à novembre. Eau du réseau et d'un vieux puits, compteur général relevé de temps en temps, jamais de diagnostic. Abreuvoirs réparés quand ils fuient, génisses abreuvées à la tonne sur les parcelles éloignées, lavage de la traite aux réglages d'origine, eau du prérefroidisseur à l'égout, eaux de la salle de traite dans la fosse à lisier. Achète du foin quand l'herbe manque l'été, n'a jamais regardé les arrêtés sécheresse, ne connaît pas le SAGE.",
+    "answers": {
+      "hrb_q01": "compteur_general",
+      "hrb_q02": [
+        "reseau",
+        "forage"
+      ],
+      "hrb_q03": "jamais",
+      "hrb_q04": "reparation_a_vue",
+      "hrb_q05": "tonne_ou_partiel",
+      "hrb_q06": "reglages_origine",
+      "hrb_q07": "a_l_egout",
+      "hrb_q08": "avec_lisier",
+      "hrb_q09": "achat_si_besoin",
+      "hrb_q10": "pas_regarde",
+      "hrb_q11": "non"
+    }
+  },
+  {
+    "id": "laitier_robot_equipe",
+    "nom": "Élevage laitier robotisé équipé, en réflexion sur la suite",
+    "description": "Élevage de 120 vaches avec deux robots de traite, installé il y a quatre ans. Compteurs séparés pour l'abreuvement et le bloc traite, volumes de lavage suivis avec le conseiller robot, prérefroidisseur raccordé à une partie des abreuvoirs, eaux blanches et vertes stockées à part et épandues. Eau du forage seulement, abreuvoirs avec vannes et contrôlés chaque semaine, vaches en bâtiment, génisses au pré abreuvées à la tonne. Diagnostic eau de plus de cinq ans, stock de fourrage d'hiver sans marge, sait à peu près quoi faire en cas d'arrêté sans plan écrit, informé du PTGE sans y participer.",
+    "answers": {
+      "hrb_q01": "compteurs_par_poste",
+      "hrb_q02": [
+        "forage"
+      ],
+      "hrb_q03": "ancien",
+      "hrb_q04": "vannes_et_controle",
+      "hrb_q05": "tonne_ou_partiel",
+      "hrb_q06": "volumes_mesures",
+      "hrb_q07": "reutilisation_partielle",
+      "hrb_q08": "stockage_separe",
+      "hrb_q09": "stock_annuel",
+      "hrb_q10": "solutions_identifiees",
+      "hrb_q11": "informe"
+    }
+  },
+  {
+    "id": "allaitant_sans_traite",
+    "nom": "Naisseur allaitant de 80 vaches charolaises",
+    "description": "Élevage allaitant de 80 vaches en Saône-et-Loire, stabulation l'hiver, pâturage d'avril à novembre. Les vaches boivent au ruisseau sur la moitié des parcelles et aux sources sur les autres, réseau public au bâtiment. Ne trait pas. Relève le compteur de temps en temps, jamais de diagnostic, abreuvoirs du bâtiment contrôlés de temps en temps. A gardé un stock de foin de sécurité depuis 2022, s'organise sur le moment quand une source tarit, informé du contrat de rivière.",
+    "answers": {
+      "hrb_q01": "compteur_general",
+      "hrb_q02": [
+        "reseau"
+      ],
+      "hrb_q03": "jamais",
+      "hrb_q04": "controle_occasionnel",
+      "hrb_q05": "acces_direct",
+      "hrb_q06": "sans_traite",
+      "hrb_q09": "stock_securite",
+      "hrb_q10": "sur_le_moment",
+      "hrb_q11": "informe"
+    }
+  },
+  {
+    "id": "laitier_avance",
+    "nom": "GAEC laitier engagé, tout en place",
+    "description": "GAEC de 90 vaches laitières en Bretagne, accompagné depuis trois ans dans une opération Écod'eau. Compteurs par poste, eau de forage et eau de pluie des stabulations, diagnostic eau récent. Abreuvoirs avec vannes, réseau d'abreuvement et réserve sur toutes les parcelles, volumes de lavage mesurés, eau du prérefroidisseur stockée et entièrement réutilisée, eaux blanches traitées par filtre planté. Stock de sécurité et prairies multi-espèces, plan sécheresse écrit, membre de la commission locale de l'eau.",
+    "answers": {
+      "hrb_q01": "compteurs_par_poste",
+      "hrb_q02": [
+        "forage",
+        "pluie"
+      ],
+      "hrb_q03": "recent",
+      "hrb_q04": "vannes_et_controle",
+      "hrb_q05": "reseau_et_reserve",
+      "hrb_q06": "volumes_mesures",
+      "hrb_q07": "reutilisation_complete",
+      "hrb_q08": "traitement_dedie",
+      "hrb_q09": "systeme_adapte",
+      "hrb_q10": "plan_ecrit",
+      "hrb_q11": "participe"
+    }
+  },
+  {
+    "id": "ne_sait_pas",
+    "nom": "Conjointe qui répond pour l'exploitant, sans connaître l'eau",
+    "description": "La conjointe du chef d'exploitation, qui tient la comptabilité, répond à sa place. Elle sait que l'élevage est raccordé au réseau public et paie une facture d'eau, mais ne connaît ni le suivi, ni les abreuvoirs, ni la traite, ni les stocks. Elle passe presque toutes les questions.",
+    "answers": {
+      "hrb_q01": "__skip__",
+      "hrb_q02": [
+        "reseau"
+      ],
+      "hrb_q03": "__skip__",
+      "hrb_q04": "__skip__",
+      "hrb_q05": "__skip__",
+      "hrb_q06": "__skip__",
+      "hrb_q09": "__skip__",
+      "hrb_q10": "__skip__",
+      "hrb_q11": "__skip__"
+    }
+  },
+  {
+    "id": "equides_plein_air",
+    "nom": "Élevage de chevaux de selle en plein air",
+    "description": "Éleveur de 25 juments poulinières en Normandie, chevaux dehors toute l'année avec des abris naturels, sans bâtiment d'élevage. Les chevaux boivent au ruisseau qui borde les prairies, sans compteur ni diagnostic. Ne trait pas. Achète du foin quand l'herbe manque, n'a pas réfléchi aux sécheresses, ne participe à aucune démarche.",
+    "answers": {
+      "hrb_q01": "aucun_suivi",
+      "hrb_q02": [
+        "milieu_naturel"
+      ],
+      "hrb_q03": "jamais",
+      "hrb_q04": "sans_batiment",
+      "hrb_q05": "acces_direct",
+      "hrb_q06": "sans_traite",
+      "hrb_q09": "achat_si_besoin",
+      "hrb_q10": "pas_regarde",
+      "hrb_q11": "non"
+    }
+  },
+  {
+    "id": "engraisseur_tout_reseau",
+    "nom": "Atelier d'engraissement de jeunes bovins, tout réseau",
+    "description": "Engraisseur de 400 jeunes bovins en bâtiment toute l'année, ration à base de maïs ensilage, alimenté uniquement par le réseau public. Relève son compteur chaque mois et vérifie la nuit, abreuvoirs contrôlés de temps en temps. Ni pâturage ni traite. Diagnostic envisagé mais pas fait, stocks d'hiver sans marge, sait qu'en cas de coupure il n'a aucune solution de secours mais n'a rien écrit, informé du SAGE.",
+    "answers": {
+      "hrb_q01": "releve_regulier",
+      "hrb_q02": [
+        "reseau"
+      ],
+      "hrb_q03": "envisage",
+      "hrb_q04": "controle_occasionnel",
+      "hrb_q05": "pas_de_paturage",
+      "hrb_q06": "sans_traite",
+      "hrb_q09": "stock_annuel",
+      "hrb_q10": "sur_le_moment",
+      "hrb_q11": "informe"
+    }
+  },
+  {
+    "id": "laitier_icpe_conforme",
+    "nom": "Élevage laitier de 250 vaches sous enregistrement ICPE, conforme",
+    "description": "Élevage de 250 vaches sous enregistrement ICPE, en zone de répartition des eaux. Compteur sur le forage relevé chaque mois comme l'exige l'arrêté, eaux blanches et vertes stockées à part et épandues selon les prescriptions, diagnostic eau réalisé il y a deux ans pour un dossier d'aide. Rien au-delà : lavage contrôlé seulement au contrôle annuel de la machine, eau du prérefroidisseur à l'égout, abreuvoirs contrôlés de temps en temps, vaches en bâtiment toute l'année. Stock de sécurité, solutions de secours repérées, représenté au PTGE par la chambre.",
+    "answers": {
+      "hrb_q01": "releve_regulier",
+      "hrb_q02": [
+        "forage",
+        "reseau"
+      ],
+      "hrb_q03": "recent",
+      "hrb_q04": "controle_occasionnel",
+      "hrb_q05": "pas_de_paturage",
+      "hrb_q06": "controle_annuel",
+      "hrb_q07": "a_l_egout",
+      "hrb_q08": "stockage_separe",
+      "hrb_q09": "stock_securite",
+      "hrb_q10": "solutions_identifiees",
+      "hrb_q11": "via_organisation"
+    }
+  },
+  {
+    "id": "chevrier_fromager",
+    "nom": "Chevrier fromager fermier de 80 chèvres",
+    "description": "Élevage de 80 chèvres laitières en Poitou, lait transformé en fromages à la ferme. Chèvres en chèvrerie avec sortie sur parcours, abreuvées par des abreuvoirs raccordés sur une partie du parcours. Réseau public seulement, compteur relevé de temps en temps. Lavage de la petite salle de traite aux réglages d'origine, pas de prérefroidisseur, eaux de lavage au fossé. Jamais de diagnostic, achète du foin de luzerne quand il manque, s'organise sur le moment, ne participe à aucune démarche.",
+    "answers": {
+      "hrb_q01": "compteur_general",
+      "hrb_q02": [
+        "reseau"
+      ],
+      "hrb_q03": "jamais",
+      "hrb_q04": "controle_occasionnel",
+      "hrb_q05": "tonne_ou_partiel",
+      "hrb_q06": "reglages_origine",
+      "hrb_q07": "sans_prerefroidisseur",
+      "hrb_q08": "rejet_direct",
+      "hrb_q09": "achat_si_besoin",
+      "hrb_q10": "sur_le_moment",
+      "hrb_q11": "non"
+    }
+  }
+]

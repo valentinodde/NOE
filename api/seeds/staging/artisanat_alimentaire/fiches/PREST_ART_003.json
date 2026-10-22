@@ -1,0 +1,153 @@
+{
+  "id": "PREST_ART_003",
+  "nom": "Sorema",
+  "type": "equipementier",
+  "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792065055/Noe%20assets/logos/PREST_ART_003.png",
+  "siret": "34032792300041",
+  "description": "Constructeur de matériel de boulangerie installé en Maine-et-Loire, qui conçoit et fabrique en France des refroidisseurs d'eau, des doseurs d'eau et des condenseurs de buée de four pour la boulangerie artisanale et industrielle. Ses refroidisseurs d'eau AGD (110 à 250 litres par heure) ont un compresseur avec condenseur à air, et les fiches techniques de sa gamme Ecologic au propane R290 (Premium, Optimum, Optimax, Continu'O) indiquent un débit d'air au condenseur. Tarif sur demande, contrat d'entretien et service après-vente proposés par le constructeur. La couverture nationale de la fiche vaut pour la vente de matériel, assurée par ses commerciaux de terrain et ses distributeurs : la zone d'intervention de son service après-vente n'est pas publiée.",
+  "expertises": [
+    "Refroidisseurs d'eau de boulangerie",
+    "Doseurs d'eau de boulangerie",
+    "Condenseur de buée sans eau",
+    "Entretien des installations frigorifiques"
+  ],
+  "categories": [
+    "ameliorer_efficacite_hydrique"
+  ],
+  "secteurs": [
+    "artisanat_alimentaire"
+  ],
+  "departements": [],
+  "mesures": [
+    {
+      "id": "ACT_ART_004",
+      "roles": [
+        "materiel"
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "type": "site_internet",
+      "value": "https://www.sorema.com/"
+    },
+    {
+      "type": "tel",
+      "value": "02 41 62 30 29"
+    },
+    {
+      "type": "mail",
+      "value": "info@sorema.com"
+    },
+    {
+      "type": "adresse",
+      "value": "2 rue de l'Aujardière, 49280 Saint-Christophe-du-Bois"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Sorema&departement=49",
+      "date": "2026-10-15",
+      "extrait": "SOREMA, siret 34032792300041, siège, ZONE D'ACTIVITE DU PARC 5 RUE DE L'AUJARDIERE 49280 SAINT-CHRISTOPHE-DU-BOIS, NAF 28.25Z, état A"
+    },
+    {
+      "champ": "contacts",
+      "url": "https://www.sorema.com/contact/",
+      "date": "2026-10-15",
+      "extrait": "Vous pouvez également nous écrire à info@sorema.com SOREMA 2 rue de l'Aujardière 49280 Saint-Christophe-du-Bois Tél : +33 (0)2 41 62 30 29"
+    },
+    {
+      "champ": "description, expertises, secteurs",
+      "url": "https://www.sorema.com/materiel-boulangerie/",
+      "date": "2026-10-15",
+      "extrait": "Spécialiste du matériel de boulangerie et fabricant de refroidisseurs d'eau et doseurs d'eau, SOREMA continue de faire évoluer ses solutions de maîtrise de température pour la boulangerie artisanale et la boulangerie industrielle"
+    },
+    {
+      "champ": "type (fabrication en France)",
+      "url": "https://www.sorema.com/presentation-et-historique-de-lentreprise-sorema/",
+      "date": "2026-10-15",
+      "extrait": "1957 Monsieur MAGNERON lance la fabrication du premier refroidisseur d'eau destiné à la boulangerie [...] 2023 Inauguration d'un nouveau site de production à Saint-Christophe-du-Bois pour accroître la capacité de production"
+    },
+    {
+      "champ": "type (fabrication en France)",
+      "url": "https://www.sorema.com/premium-260/",
+      "date": "2026-10-15",
+      "extrait": "Refroidisseur d'eau PREMIUM 260 Ecologic [...] Gaz R290 [...] FABRIQUÉ À CHOLET"
+    },
+    {
+      "champ": "description, expertises (entretien)",
+      "url": "https://www.sorema.com/la-maintenance/",
+      "date": "2026-10-15",
+      "extrait": "Un contrat d'entretien précise les modalités des interventions, en relation avec la législation. Un SAV performant SOREMA assure un service après-vente adapté sur tous les types d'installation et toutes marques"
+    },
+    {
+      "champ": "description, mesures (ACT_ART_004)",
+      "url": "https://www.sorema.com/wp-content/uploads/2020/07/BOULANGERIE-INDUSTRIELLE-SOREMA-2020.pdf",
+      "date": "2026-10-15",
+      "extrait": "Système autonome de refroidissement d'eau alimentaire à +0,5°C. [...] Compresseur frigorifique R452A avec condenseur à air - ventilateur hélicoïde. [...] AGD 110 P 110 [...] AGD 250 P 250 R452A (documentation liée depuis la page Refroidisseur d'eau AGD 110 à 250 P)"
+    },
+    {
+      "champ": "description, mesures (ACT_ART_004)",
+      "url": "https://www.sorema.com/refroidisseur-agd-110-a-250-p-2/",
+      "date": "2026-10-15",
+      "extrait": "Refroidisseur d'eau AGD 110 à 250 P [...] Téléchargez la doc Boulangerie industrielle"
+    },
+    {
+      "champ": "description, secteurs",
+      "url": "https://www.sorema.com/gamme/materiel-de-boulangerie/refroidisseurs-deau-sorema/",
+      "date": "2026-10-15",
+      "extrait": "Refroidisseur d'eau AGD 110 à 250 P 110 à 250 L/h Capacités semi-industrielles de 110 à 250 litres d'eau / heure."
+    },
+    {
+      "champ": "description (débit d'air au condenseur, Premium)",
+      "url": "https://www.sorema.com/wp-content/uploads/2026/09/PREMIUM-ECO-FR-26-SOREMA.pdf",
+      "date": "2026-10-15",
+      "extrait": "PRÉMIUM 260 ECOLOGIC Gaz R290 [...] Débit d'air condenseur 340 m3/ heure"
+    },
+    {
+      "champ": "description (débit d'air au condenseur, Optimum)",
+      "url": "https://www.sorema.com/wp-content/uploads/2026/09/OPTIMUM-FR-ECO-20-SOREMA-1.pdf",
+      "date": "2026-10-15",
+      "extrait": "OPTIMUM 360 ECOLOGIC Gaz R290 [...] Débit d'air condenseur 540 m3 / h"
+    },
+    {
+      "champ": "description (débit d'air au condenseur, Optimax)",
+      "url": "https://www.sorema.com/wp-content/uploads/2026/09/OPTIMAX-FR-ECO-20-SOREMA.pdf",
+      "date": "2026-10-15",
+      "extrait": "OPTIMAX 400 ECO OPTIMAX 600 ECO OPTIMAX 900 ECO Gaz R290 [...] Débit d'air condenseur 540 m3/ heure 1230 m3/ heure 1330 m3/ heure"
+    },
+    {
+      "champ": "description (débit d'air au condenseur, Continu'O)",
+      "url": "https://www.sorema.com/wp-content/uploads/2026/09/CONTINUO-ECO-FR-20-SOREMA.pdf",
+      "date": "2026-10-15",
+      "extrait": "CONTINU'O 400 ECO CONTINU'O 600 ECO CONTINU'O 900 ECO Gaz R290 [...] Débit d'air condenseur 540 m³ / heure 1 150 m³ / heure 1 300 m³ / heure"
+    },
+    {
+      "champ": "description (tarif sur demande)",
+      "url": "https://www.sorema.com/premium-260/",
+      "date": "2026-10-15",
+      "extrait": "Téléchargez la doc commerciale PREMIUM Une question, besoin d'un tarif CONTACTEZ-NOUS"
+    },
+    {
+      "champ": "expertises (condenseur de buée sans eau)",
+      "url": "https://www.sorema.com/gamme/materiel-de-boulangerie/condenseurs-a-buee-de-four-sorema/",
+      "date": "2026-10-15",
+      "extrait": "Buée'no Ecologic Econome en énergie et sans consommation d'eau."
+    },
+    {
+      "champ": "departements, description (vente par commerciaux et distributeurs), type",
+      "url": "https://www.sorema.com/nos-forces-2/",
+      "date": "2026-10-15",
+      "extrait": "De nombreuses boulangeries ont fait le choix de SOREMA en matériel de boulangerie et plus de 25.000 refroidisseurs ont déjà été vendus dans le monde. [...] Ses commerciaux de terrain remontent les informations d'échanges avec ses clients distributeurs. [...] Une fabrication française SOREMA dispose d'un atelier à Cholet"
+    },
+    {
+      "champ": "logo_url",
+      "url": "https://www.sorema.com/wp-content/themes/theme_sorema_2023/favicon.ico",
+      "date": "2026-10-15",
+      "extrait": "favicon du site sorema.com (symbole drapeau au flocon), 32 x 32"
+    }
+  ],
+  "date_maj": "2026-10-15"
+}

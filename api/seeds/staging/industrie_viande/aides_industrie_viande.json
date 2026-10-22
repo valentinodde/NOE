@@ -1,0 +1,1552 @@
+[
+  {
+    "id": "AIDE_VIA_001",
+    "nom": "Aide à la lutte contre les pollutions des activités économiques hors agricoles (agence de l'eau Artois-Picardie, 12e programme)",
+    "financeur": "Agence de l'eau Artois-Picardie",
+    "logo_url": null,
+    "type": "subvention",
+    "taux": "Subvention, aux taux maximaux suivants : 50 % pour les études, 40 % pour les techniques propres, 40 % pour la lutte contre les micropolluants, 30 % pour la lutte contre les macropolluants, 30 % pour la prévention des pollutions accidentelles, 30 % pour le stockage des boues et sous-produits, et 50 % pour les opérations collectives visant une bonne gestion des pollutions au sein des petites et très petites entreprises.",
+    "plafond": "Lutte contre les macropolluants : dépenses finançables plafonnées à la somme des quantités de pollution éliminables multipliées par des coûts unitaires (MES 2 980 €, DCO 3 250 €, DBO5 1 650 €, NGL 6 900 €, MP 86 000 €, par kg.jour). Prévention des pollutions accidentelles : 300 € par m3 de volume de bassin de confinement créé. Stockage des boues et sous-produits, pour les investissements réalisés indépendamment des autres ouvrages d'épuration : 510 € par m2 pour les ouvrages couverts, 340 € par m2 pour les ouvrages non couverts. Opérations collectives : coût moyen journée des actions d'animation réalisées en régie plafonné à 500 € par jour.",
+    "description": "Volet lutte contre les pollutions (partie 2, section 2) de la délibération 25-A-036 du 12e programme d'intervention 2025-2030 de l'agence de l'eau Artois-Picardie, applicable à compter du 1er novembre 2025. L'agence y favorise les solutions de techniques propres de changement de procédés visant à réduire les pollutions à la source. Côté études, elle finance la connaissance de la nature et des flux de polluants émis (y compris les dispositifs d'autosurveillance des rejets), les études préalables aux techniques propres, aux investissements d'épuration et à la restructuration des réseaux de collecte, le dimensionnement des dispositifs contre les pollutions accidentelles, et les études qui accompagnent les autorisations et conventions de raccordement aux réseaux publics. Côté travaux, elle finance les techniques propres, l'épuration proprement dite (y compris le traitement ou la valorisation des sous-produits et déchets de l'épuration), la restructuration des réseaux d'assainissement et des ouvrages de stockage des eaux usées, les modifications de circuits internes d'utilisation d'eau, en particulier pour réduire les débits ou les sous-produits à traiter, la fiabilité ou la sécurité des ouvrages d'épuration existants, la limitation des rejets des établissements raccordés qui perturbent ou surchargent le système d'assainissement collectif, et la prévention des pollutions accidentelles. Les opérations collectives couvrent l'animation et les équipements individuels et collectifs de gestion des pollutions.",
+    "eligibilite": "Entreprises immatriculées au registre du commerce et des sociétés, chambres consulaires ou tout autre organisme représentatif d'une activité économique industrielle, commerciale ou artisanale, ainsi que collectivités territoriales et associations pour les projets qu'elles portent. Seules sont éligibles les opérations qui permettent d'aller au-delà des normes de portée européenne ou nationale en vigueur et d'améliorer la protection de l'environnement par rapport à l'état initial.",
+    "categories": [
+      "agir_rejets_qualite",
+      "changer_process_pratiques"
+    ],
+    "secteurs": [
+      "industrie_viande"
+    ],
+    "departements": [],
+    "agences": [
+      "AEAP"
+    ],
+    "mesures": [
+      "ACT_VIA_008",
+      "ACT_VIA_007",
+      "ACT_VIA_005"
+    ],
+    "infos_complementaires": [
+      {
+        "type": "avertissement",
+        "texte": "Trois situations rendent l'opération inéligible : l'entreprise en difficulté, sauf si l'aide est apportée dans le cadre du régime de minimis, le renouvellement à l'identique des ouvrages, et l'existence d'une mise en demeure réglementaire au titre de la police de l'eau ou des installations classées pour la protection de l'environnement."
+      },
+      {
+        "type": "info",
+        "texte": "Établissement raccordé au réseau d'une collectivité : les parts d'investissement relatives aux effluents des entreprises raccordées sont aidées lorsque leur charge de pollution annuelle correspond individuellement à plus de 10 %, ou collectivement à plus de 30 %, de la charge globale de la station d'épuration publique exprimée en DCO. Le financement de la part liée aux entreprises est apporté soit à la collectivité, soit à chacune des entreprises concernées, sous réserve de la signature d'une convention de déversement ou d'une autorisation de raccordement."
+      },
+      {
+        "type": "info",
+        "texte": "En cas d'augmentation de la capacité de production, les flux de pollution nouveaux à éliminer sont pris en compte dans les dépenses finançables dans la limite de 150 % des flux de pollution initiaux."
+      },
+      {
+        "type": "info",
+        "texte": "L'aide est apportée dans la limite des dotations disponibles et selon des priorités. Sont en priorité 1, entre autres, les techniques propres, la lutte contre les micropolluants, les projets de lutte contre les macropolluants situés en priorité 1 ou 2 du zonage portant sur la lutte contre les macropolluants, et les opérations collectives. Les autres projets sont en priorité 2."
+      },
+      {
+        "type": "info",
+        "texte": "Les opérations collectives ne sont aidées que si elles sont portées par une chambre consulaire ou tout autre organisme représentatif d'une activité économique industrielle, commerciale ou artisanale. Elles couvrent l'animation et les équipements individuels et collectifs de gestion des pollutions, en actions collectives ou en achat groupé."
+      },
+      {
+        "type": "info",
+        "texte": "Transformation des produits de la pêche et de l'aquaculture : parmi les textes visés par la délibération figurent le règlement (UE) n° 2022/2473 et le régime cadre exempté de notification SA.113232, relatif aux aides en faveur des entreprises dans la production, la transformation et la commercialisation des produits de la pêche et de l'aquaculture des agences de l'eau pour la période 2023-2029. Les dispositions de ces règlements précisent les conditions d'attribution (bénéficiaires éligibles, coûts admissibles, règles de cumul) et complètent celles de la délibération."
+      },
+      {
+        "type": "ressource",
+        "texte": "Délibération 25-A-036, modalités et conditions d'attribution des aides pour la lutte contre la pollution des activités économiques hors agricoles (partie 2, section 2, lutte contre les pollutions)",
+        "lien": "https://www.eau-artois-picardie.fr/sites/default/files/013_25-a-036_lutte_poll_act_hors_agri.pdf"
+      },
+      {
+        "type": "ressource",
+        "texte": "Délibérations du 12e programme d'intervention de l'agence de l'eau Artois-Picardie, classées par domaine d'intervention",
+        "lien": "https://www.eau-artois-picardie.fr/les-deliberations-par-domaine-dintervention-12eme-programme-dintervention"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "nom, financeur, description (délibération et date d'application)",
+        "url": "https://www.eau-artois-picardie.fr/sites/default/files/013_25-a-036_lutte_poll_act_hors_agri.pdf",
+        "date": "2026-09-24",
+        "extrait": "12e PROGRAMME D'INTERVENTION 2025-2030 [...] DELIBERATION N° 25-A-036. MODALITES ET CONDITIONS D'ATTRIBUTION DES AIDES POUR LA LUTTE CONTRE LA POLLUTION DES ACTIVITÉS ÉCONOMIQUES HORS AGRICOLES [...] La délibération n°24-A-062 du Conseil d'Administration du 15 octobre 2024 est abrogée et remplacée comme suit, à compter du 1er novembre 2025 (pages 1 et 3)"
+      },
+      {
+        "champ": "type, taux",
+        "url": "https://www.eau-artois-picardie.fr/sites/default/files/013_25-a-036_lutte_poll_act_hors_agri.pdf",
+        "date": "2026-09-24",
+        "extrait": "2-2. Taux d'intervention et assiette. [...] Taux maximal et forme de la participation financière. Etudes : Subvention de 50%. Techniques propres : Subvention de 40%. Lutte contre les micropolluants : Subvention de 40%. Lutte contre les macropolluants : Subvention de 30%. Prévention des pollutions accidentelles : Subvention de 30%. Stockage des boues et sous-produits : Subvention de 30%. Opérations collectives visant une bonne gestion des pollutions au sein des petites et très petites entreprises : Subvention de 50% (page 6)"
+      },
+      {
+        "champ": "plafond",
+        "url": "https://www.eau-artois-picardie.fr/sites/default/files/013_25-a-036_lutte_poll_act_hors_agri.pdf",
+        "date": "2026-09-24",
+        "extrait": "Lutte contre les macropolluants : Les dépenses finançables sont plafonnées selon le calcul suivant : Somme des produits des quantités de pollutions éliminables par les coûts unitaires suivants : MES : 2 980 € par kg.jour, DCO : 3 250 € par kg.jour, DBO5 : 1 650 € par kg.jour, NGL (= NR + NO) : 6 900 € par kg.jour, MP : 86 000 € par kg.jour. Prévention des pollutions accidentelles : Plafond de 300 € par m3 de volume de bassin de confinement créé. Stockage des boues et sous-produits : Pour les investissements réalisés indépendamment des autres ouvrages d'épuration, les dépenses finançables sont plafonnées à : 510€ par m² pour les ouvrages couverts ; 340€ par m² pour les ouvrages non couverts. Opérations collectives [...] : Le « coût moyen journée » des actions d'animation réalisées en régie est plafonné à 500 € par jour. (page 6)"
+      },
+      {
+        "champ": "description, categories (techniques propres)",
+        "url": "https://www.eau-artois-picardie.fr/sites/default/files/013_25-a-036_lutte_poll_act_hors_agri.pdf",
+        "date": "2026-09-24",
+        "extrait": "Au titre de la lutte contre les pollutions. Les interventions de l'Agence de l'Eau visent l'atteinte des objectifs de la Directive Cadre sur l'Eau [...] L'Agence de l'Eau favorise dans ce cadre les solutions de techniques propres de changement de procédés visant à réduire les pollutions à la source. (page 4)"
+      },
+      {
+        "champ": "description (études), mesures (ACT_VIA_008)",
+        "url": "https://www.eau-artois-picardie.fr/sites/default/files/013_25-a-036_lutte_poll_act_hors_agri.pdf",
+        "date": "2026-09-24",
+        "extrait": "2- Lutte contre les pollutions. 2-1. Actions éligibles. Pour les études : Les études d'amélioration de la connaissance de la nature et des flux de polluants émis (y compris les dispositifs d'autosurveillance des rejets, notamment ceux justifiés par la réglementation) ; Les études préalables à la mise en place de techniques propres, aux investissements d'épuration et à la restructuration des réseaux de collecte ; Les études de dimensionnement des dispositifs de lutte contre les pollutions accidentelles ; Les études visant à accompagner la mise en œuvre des autorisations et conventions de raccordement par les collectivités locales, pour la prise en compte des polluants dans les réseaux publics de collecte ; Les études à caractère général visant à définir des actions de lutte contre les pollutions à mener dans une branche industrielle ou une zone géographique. (page 5)"
+      },
+      {
+        "champ": "description (travaux, opérations collectives), mesures (ACT_VIA_008, ACT_VIA_007, ACT_VIA_005)",
+        "url": "https://www.eau-artois-picardie.fr/sites/default/files/013_25-a-036_lutte_poll_act_hors_agri.pdf",
+        "date": "2026-09-24",
+        "extrait": "Pour les travaux : Les techniques propres ; L'épuration proprement dite, y compris le traitement ou la valorisation des sous-produits et déchets de l'épuration, et les acquisitions foncières nécessaires le cas échéant pour réaliser ces investissements ; La restructuration des réseaux d'assainissement et des ouvrages de stockage des eaux usées ; Les modifications de circuits internes d'utilisation d'eau, en particulier dans le but de réduire les débits ou les sous-produits à traiter ; Les opérations permettant une meilleure fiabilité ou sécurité du fonctionnement des ouvrages d'épuration existants ; Pour les établissements raccordés, la limitation des rejets de pollutions lorsqu'ils sont à l'origine d'un dysfonctionnement ou d'une surcharge du système d'assainissement collectif présent ou à venir ; La prévention des pollutions accidentelles. Pour les opérations collectives : L'animation des opérations collectives ; Les équipements individuels et collectifs de gestion des pollutions (actions collectives et/ou achat groupé). (page 6)"
+      },
+      {
+        "champ": "eligibilite",
+        "url": "https://www.eau-artois-picardie.fr/sites/default/files/013_25-a-036_lutte_poll_act_hors_agri.pdf",
+        "date": "2026-09-24",
+        "extrait": "1-1. Etablissements et opérations éligibles. L'Agence de l'Eau peut apporter une participation financière aux maîtres d'ouvrage des activités économiques hors agricoles suivants : Entreprises immatriculées au registre du commerce et des sociétés, Chambres consulaires ou tout autre organisme représentatif d'une activité économique industrielle, commerciale ou artisanale, Collectivités territoriales et associations, pour les projets qu'elles portent dès lors qu'ils répondent aux principes d'intervention définis dans la présente délibération. Sont éligibles aux aides de l'Agence de l'Eau les opérations qui permettent aux entreprises d'aller au-delà des normes de portée européenne ou nationale en vigueur, et d'améliorer la protection de l'environnement par rapport à l'état initial. (page 4)"
+      },
+      {
+        "champ": "infos_complementaires (critères d'exclusion)",
+        "url": "https://www.eau-artois-picardie.fr/sites/default/files/013_25-a-036_lutte_poll_act_hors_agri.pdf",
+        "date": "2026-09-24",
+        "extrait": "1-2. Critères d'exclusion. Les opérations réunissant au moins l'un des critères suivants ne sont pas éligibles aux aides de l'Agence de l'Eau : Entreprises en difficulté, sauf si l'aide de l'Agence de l'Eau est apportée dans le cadre du régime de minimis, Renouvellement à l'identique des ouvrages, Existence d'une mise en demeure réglementaire au titre de la police de l'eau ou des installations classées pour la protection de l'environnement. (page 5)"
+      },
+      {
+        "champ": "infos_complementaires (augmentation de capacité, opérations collectives)",
+        "url": "https://www.eau-artois-picardie.fr/sites/default/files/013_25-a-036_lutte_poll_act_hors_agri.pdf",
+        "date": "2026-09-24",
+        "extrait": "1-3. Cas particuliers. [...] L'Agence de l'Eau peut aider les travaux accompagnant une augmentation de capacité de production dans les conditions suivantes : Les flux de pollution nouveaux à éliminer seront pris en compte dans les dépenses finançables, dans la limite de 150% des flux de pollution initiaux [...] L'Agence de l'Eau peut aider les opérations collectives si elles sont portées par les chambres consulaires ou tout autre organisme représentatif d'une activité économique industrielle, commerciale ou artisanale. (page 5)"
+      },
+      {
+        "champ": "infos_complementaires (établissement raccordé)",
+        "url": "https://www.eau-artois-picardie.fr/sites/default/files/013_25-a-036_lutte_poll_act_hors_agri.pdf",
+        "date": "2026-09-24",
+        "extrait": "2-3. Conditions particulières. Les parts d'investissements relatifs aux effluents des entreprises raccordées aux réseaux d'assainissement de la collectivité territoriale sont aidés par l'Agence de l'Eau selon la présente délibération, lorsque la charge de pollution annuelle de ces entreprises correspond individuellement à plus de 10 %, ou collectivement à plus de 30 %, de la charge globale de la station d'épuration publique exprimée en DCO. Le financement de la part liée aux entreprises (au prorata des charges en DCO et des charges hydrauliques) est apporté selon les dispositions de la présente délibération, soit à la collectivité territoriale, soit à chacune des entreprises concernées, sous réserve de la signature d'une convention de déversement ou d'une autorisation de raccordement. (page 7)"
+      },
+      {
+        "champ": "infos_complementaires (critères de priorité)",
+        "url": "https://www.eau-artois-picardie.fr/sites/default/files/013_25-a-036_lutte_poll_act_hors_agri.pdf",
+        "date": "2026-09-24",
+        "extrait": "7- Critères de priorité. La participation financière de l'Agence de l'Eau est apportée dans la limite des dotations disponibles et selon les priorités exposées ci-après : Priorité 1 : Techniques propres ; Lutte contre les micropolluants ; Projets de lutte contre les macropolluants situés en priorité 1 ou 2 du zonage portant sur la lutte contre les macropolluants ; [...] Opérations collectives ; Actions de communication. Priorité 2 : Autres projets (pages 11 et 12)"
+      },
+      {
+        "champ": "infos_complementaires (produits de la pêche et de l'aquaculture)",
+        "url": "https://www.eau-artois-picardie.fr/sites/default/files/013_25-a-036_lutte_poll_act_hors_agri.pdf",
+        "date": "2026-09-24",
+        "extrait": "Vu l'encadrement communautaire des aides publiques aux entreprises [...] Règlement (UE) n° 2022/2473 de la Commission du 14 décembre 2022 déclarant certaines catégories d'aides aux entreprises actives dans la production, la transformation et la commercialisation des produits de la pêche et de l'aquaculture compatibles avec le marché intérieur [...] ; Régime cadre exempté de notification N°SA. 113232 relatif aux aides en faveur des entreprises dans la production, la transformation et la commercialisation des produits de la pêche et de l'aquaculture des agences de l'eau pour la période 2023-2029 (page 3). 1-4. Encadrement communautaire des aides publiques. [...] Les dispositions de ces règlements précisent les conditions d'attribution (bénéficiaires éligibles, coûts admissibles, règles de cumul...) et les modalités de mise en œuvre spécifiques applicables aux aides de l'Agence de l'Eau et sont complémentaires des conditions de la présente délibération. (page 5)"
+      },
+      {
+        "champ": "infos_complementaires (ressource, page des délibérations)",
+        "url": "https://www.eau-artois-picardie.fr/les-deliberations-par-domaine-dintervention-12eme-programme-dintervention",
+        "date": "2026-09-24",
+        "extrait": "Délibérations générales [...] Lutte contre la pollution des activités économiques hors agricole"
+      }
+    ],
+    "date_maj": "2026-09-24"
+  },
+  {
+    "id": "AIDE_VIA_002",
+    "nom": "Aide à la réduction des pollutions des activités industrielles et artisanales (agence de l'eau Rhin-Meuse, 12e programme)",
+    "financeur": "Agence de l'eau Rhin-Meuse",
+    "logo_url": null,
+    "type": "subvention",
+    "taux": "Subvention, à des taux de référence selon la taille de l'entreprise. Épuration et gestion des boues (premier ouvrage, fiabilisation, amélioration), opérations préliminaires à l'épuration ou à un raccordement, technologies propres, prévention des pollutions accidentelles ou par temps de pluie, moyens de mesure et de contrôle : hors zone d'aide à finalité régionale (AFR), 40 % pour une grande entreprise, 50 % pour une moyenne entreprise, 60 % pour une petite entreprise ou une microentreprise ; en zone AFR (c), 45 %, 55 % et 65 %. Épuration et gestion des boues dans le cadre du traitement de pollutions classiques en secteur non prioritaire et hors d'un Contrat Industriel Eau et Climat : 30 %, 40 % et 50 % hors zone AFR, 35 %, 45 % et 55 % en zone AFR. Études hors innovation : 60 %, 70 % et 80 %.",
+    "plafond": null,
+    "description": "Volet lutte contre les pollutions de la fiche thématique « Interventions en matière d'actions de lutte contre les pressions générées par les activités économiques industrielles et artisanales », approuvée par la délibération n°2025/21 du 12e programme d'intervention de l'agence de l'eau Rhin-Meuse. L'agence accompagne les actions de réduction ou d'élimination des pollutions classiques (carbonée, azotée et phosphorée) dans les secteurs prioritaires, c'est-à-dire là où la qualité des masses d'eau est impactée par les rejets. Sont éligibles : la création ou l'amélioration des dispositifs d'épuration et de leur filière de gestion des boues (nouvel ouvrage, amélioration de la filière de traitement, fiabilité et sécurité du fonctionnement des ouvrages) ; les opérations préliminaires à l'épuration ou à un raccordement, soit les travaux qui rendent l'épuration des effluents plus efficace (prétraitement notamment) et les investissements nécessaires au raccordement des effluents à un réseau d'assainissement collectif ; les technologies propres, investissements de lutte contre la pollution ou contribuant à l'adaptation ou l'atténuation au changement climatique, faisant partie intégrante de la chaîne de production ; la prévention ou la réduction des risques de pollution accidentelle ou par temps de pluie ; les moyens de mesure et de contrôle, dispositifs permettant la mesure et le suivi des eaux prélevées, des eaux de process et des flux polluants. Les études nécessaires à la définition, à l'analyse de la faisabilité ou de l'opportunité et à la préparation de ces investissements sont également éligibles.",
+    "eligibilite": "Entreprises des activités économiques industrielles et artisanales, aidées directement ou par appels à projets ; collectivités, associations et autres organismes qui exercent une activité économique concurrentielle, pour un projet lié à cette activité. Les investissements doivent respecter le principe de non-dégradation de l'état des eaux, apporter un haut niveau de protection environnementale et s'inscrire dans les trajectoires de sobriété en eau du territoire lorsqu'une structure porteuse de cette gouvernance existe. Pour la réduction de la pollution classique, les microentreprises ne sont éligibles qu'au travers d'actions exclusivement groupées, sur les secteurs où un enjeu relatif à la pollution classique a été démontré.",
+    "categories": [
+      "agir_rejets_qualite",
+      "suivre_comprendre_maitriser"
+    ],
+    "secteurs": [
+      "industrie_viande"
+    ],
+    "departements": [],
+    "agences": [
+      "AERM"
+    ],
+    "mesures": [
+      "ACT_VIA_008",
+      "ACT_VIA_007",
+      "ACT_AGR_001"
+    ],
+    "infos_complementaires": [
+      {
+        "type": "avertissement",
+        "texte": "L'agence n'apporte pas d'aide à un projet destiné à répondre à une mise en demeure réglementaire, sauf si la demande d'aide est antérieure à la date de l'arrêté de mise en demeure ou s'il s'agit d'une étude rendue obligatoire par cet arrêté. Si la mise en demeure porte une échéance, l'établissement est inéligible quelle que soit cette échéance ; si le préfet suspend sa mise en demeure pendant un certain temps ou jusqu'à une échéance donnée, il n'est pas tenu compte de cette tolérance. Le projet reste éligible si la mise en demeure porte sur un volet indépendant de celui de la demande d'aide, ou sur la réalisation d'une étude."
+      },
+      {
+        "type": "avertissement",
+        "texte": "Pour les sites soumis à la réglementation sur les installations classées et concernés par la directive sur les émissions industrielles (IED), l'agence accompagne l'émergence de projets qui permettent d'anticiper ou d'aller au-delà des normes européennes. Pour tous les investissements, les technologies mises en place doivent apporter un haut niveau de protection environnementale, et aucune aide n'est apportée à un projet qui répond à une mise en demeure réglementaire. Un investissement exigé par une mise en demeure, comme pourrait l'être la collecte à part du sang dans un abattoir, risque donc d'être écarté."
+      },
+      {
+        "type": "avertissement",
+        "texte": "Pour une activité industrielle soumise au régime de Suivi Régulier des Rejets (SRR), l'attribution d'une aide est conditionnée à l'obtention de l'agrément SRR, sauf impossibilité technique. Fait exception l'aide à la mise en place des moyens nécessaires à l'obtention de cet agrément."
+      },
+      {
+        "type": "avertissement",
+        "texte": "Sur les secteurs où un enjeu relatif à la pollution classique a été démontré, les microentreprises sont exclusivement accompagnées dans le cadre d'opérations groupées. La maîtrise d'ouvrage publique, les organismes consulaires et professionnels et les autres organismes représentatifs des activités économiques sont le public privilégié pour porter ces actions groupées (études préalables et animation)."
+      },
+      {
+        "type": "avertissement",
+        "texte": "Moyens de mesure et de contrôle : les dépenses d'analyses ne sont pas éligibles."
+      },
+      {
+        "type": "info",
+        "texte": "Les projets de réduction des pollutions classiques non prioritaires (hors Plans d'Actions Opérationnels Territorialisés ou Programmes de Mesures, hors situations à enjeu pour le milieu associées à un assec ou un étiage très sévère, ou non inscrits dans une démarche globale et pluriannuelle de type Contrat Industriel Eau et Climat) bénéficient d'un taux minoré de 10 points par rapport au taux de référence de la typologie d'action concernée."
+      },
+      {
+        "type": "info",
+        "texte": "Les taux affichés sont des taux de référence : l'agence est susceptible de proposer une adaptation de l'assiette ou du taux en fonction de l'impact ou de l'ambition du projet par rapport aux enjeux environnementaux. À bénéfice équivalent pour la ressource en eau, elle privilégie les solutions préventives aux solutions curatives."
+      },
+      {
+        "type": "info",
+        "texte": "L'aide prend la forme d'une subvention dont le taux de référence est basé sur les taux permis par le règlement communautaire en vigueur. L'agence se réserve le droit, au cas par cas, de mobiliser des aides sous forme d'avances remboursables."
+      },
+      {
+        "type": "info",
+        "texte": "Établissement raccordé à une station d'épuration collective : la collectivité peut être directement aidée pour les investissements de collecte et d'épuration des eaux usées non domestiques dès lors qu'un établissement industriel se raccorde à son ouvrage. L'agence exige alors la transmission d'une autorisation de déversement dans le réseau public et, le cas échéant, d'une convention de raccordement."
+      },
+      {
+        "type": "info",
+        "texte": "Les taux sont plus élevés en zone d'aide à finalité régionale (AFR). En France, les zones « c » non prédéfinies sont situées en métropole (Corse comprise) : vérifiez le classement de votre commune avant d'estimer le taux applicable."
+      },
+      {
+        "type": "info",
+        "texte": "Les demandes d'aide se formulent sur la plateforme Rivage, accessible du lundi au samedi de 7h30 à 20h. Les équipes de l'agence répondent du lundi au vendredi de 9h à 12h et de 13h30 à 16h30 au numéro vert gratuit 0 800 710 325."
+      },
+      {
+        "type": "ressource",
+        "texte": "Fiche thématique du 12e programme sur les pressions générées par les activités économiques industrielles et artisanales (délibération 2025/21)",
+        "lien": "https://cdi.eau-rhin-meuse.fr/GEIDEFile/Interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales_-_FICHE_THEMATIQUE.pdf?Archive=264992408217&File=interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales___FicHe_THeMaTiQue_pdf"
+      },
+      {
+        "type": "ressource",
+        "texte": "Page Nos aides de l'agence de l'eau Rhin-Meuse, avec le guide des aides aux industriels et l'accès à la plateforme Rivage",
+        "lien": "https://www.eau-rhin-meuse.fr/nos-aides"
+      },
+      {
+        "type": "ressource",
+        "texte": "Les délibérations et fiches thématiques du 12e programme d'intervention Rhin-Meuse",
+        "lien": "https://www.eau-rhin-meuse.fr/nos-deliberations"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "nom, financeur, description (intitulé et délibération)",
+        "url": "https://cdi.eau-rhin-meuse.fr/GEIDEFile/Interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales_-_FICHE_THEMATIQUE.pdf?Archive=264992408217&File=interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales___FicHe_THeMaTiQue_pdf",
+        "date": "2026-09-24",
+        "extrait": "FICHE THÉMATIQUE. Interventions en matière d'actions de lutte contre les pressions générées par les activités économiques industrielles et artisanales. Approuvée par la délibération n°2025/21 [...] 12e Programme d'intervention : Transformer pour protéger durablement (p. 163)"
+      },
+      {
+        "champ": "description (pollution classique, secteurs prioritaires)",
+        "url": "https://cdi.eau-rhin-meuse.fr/GEIDEFile/Interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales_-_FICHE_THEMATIQUE.pdf?Archive=264992408217&File=interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales___FicHe_THeMaTiQue_pdf",
+        "date": "2026-09-24",
+        "extrait": "Résorber les foyers résiduels de pollution classique (pollution carbonée, azotée et phosphorée) [...] L'Agence de l'eau accompagne donc les actions de réduction ou d'élimination (opérations préliminaires à l'épuration, traitement, gestion des boues, ...) des pollutions classiques dans les secteurs prioritaires, c'est-à-dire là où la qualité des masses d'eau est impactée par les rejets. (p. 164)"
+      },
+      {
+        "champ": "infos_complementaires (projets qui anticipent ou vont au-delà des normes)",
+        "url": "https://cdi.eau-rhin-meuse.fr/GEIDEFile/Interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales_-_FICHE_THEMATIQUE.pdf?Archive=264992408217&File=interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales___FicHe_THeMaTiQue_pdf",
+        "date": "2026-09-24",
+        "extrait": "« Contribution aux politiques publiques » [...] Accompagner les exploitants des sites soumis à la réglementation sur les installations classées pour la protection de l'environnement concernés par la mise en œuvre de la Directive sur les Émissions Industrielles (IED) pour l'émergence de projets permettant d'anticiper ou d'aller au-delà des normes européennes. (p. 164)"
+      },
+      {
+        "champ": "description (épuration et gestion des boues)",
+        "url": "https://cdi.eau-rhin-meuse.fr/GEIDEFile/Interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales_-_FICHE_THEMATIQUE.pdf?Archive=264992408217&File=interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales___FicHe_THeMaTiQue_pdf",
+        "date": "2026-09-24",
+        "extrait": "4.3.1. Créer ou améliorer les dispositifs d'épuration et leur filière de gestion des boues. Les travaux éligibles relatifs au traitement et à la gestion des eaux usées et des sous-produits de l'épuration recouvrent : La construction d'un nouvel ouvrage d'épuration (y compris la gestion des boues) ; Les investissements permettant d'améliorer la filière de traitement (y compris la gestion des boues) ; Les investissements permettant d'assurer la fiabilité et la sécurité du fonctionnement des ouvrages d'épuration (p. 168)"
+      },
+      {
+        "champ": "description (opérations préliminaires), mesures (ACT_VIA_008)",
+        "url": "https://cdi.eau-rhin-meuse.fr/GEIDEFile/Interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales_-_FICHE_THEMATIQUE.pdf?Archive=264992408217&File=interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales___FicHe_THeMaTiQue_pdf",
+        "date": "2026-09-24",
+        "extrait": "4.3.2. Opérations préliminaires à l'épuration ou à un raccordement. Les travaux éligibles sont : Les travaux qui ont pour objet de rendre l'épuration des effluents plus efficace (prétraitement notamment) ; Les investissements nécessaires au raccordement des effluents à un réseau d'assainissement collectif. (p. 168)"
+      },
+      {
+        "champ": "description (technologies propres), mesures (ACT_VIA_007)",
+        "url": "https://cdi.eau-rhin-meuse.fr/GEIDEFile/Interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales_-_FICHE_THEMATIQUE.pdf?Archive=264992408217&File=interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales___FicHe_THeMaTiQue_pdf",
+        "date": "2026-09-24",
+        "extrait": "4.3.3. Technologies propres. Est considéré comme une technologie propre éligible, un investissement de lutte contre la pollution ou contribuant à l'adaptation ou l'atténuation au changement climatique, faisant partie intégrante de la chaine de production. (p. 168) [...] TECHNOLOGIES PROPRES : Une technologie propre est une méthode de fabrication permettant d'une part l'utilisation la plus rationnelle possible des matières premières et de l'énergie et, d'autre part, la réduction et la quantité d'effluents ou de déchets polluants. (p. 178)"
+      },
+      {
+        "champ": "description (pollutions accidentelles, moyens de mesure), mesures (ACT_AGR_001), infos_complementaires (dépenses d'analyses)",
+        "url": "https://cdi.eau-rhin-meuse.fr/GEIDEFile/Interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales_-_FICHE_THEMATIQUE.pdf?Archive=264992408217&File=interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales___FicHe_THeMaTiQue_pdf",
+        "date": "2026-09-24",
+        "extrait": "4.3.4. Prévention ou réduction des risques de pollutions accidentelles ou par temps de pluie. Les travaux éligibles sont ceux visant à prévenir ou à réduire les risques de pollution accidentelle ou de pollution par temps de pluie. 4.3.5. Moyens de mesure et de contrôle. Les travaux éligibles sont les dispositifs permettant la mesure et le suivi des eaux prélevées, des eaux de process et des flux polluants et les dispositifs permettant la surveillance des eaux souterraines. (p. 168) Les dépenses d'analyses ne sont pas éligibles. (p. 169)"
+      },
+      {
+        "champ": "description (études), taux (études hors innovation)",
+        "url": "https://cdi.eau-rhin-meuse.fr/GEIDEFile/Interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales_-_FICHE_THEMATIQUE.pdf?Archive=264992408217&File=interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales___FicHe_THeMaTiQue_pdf",
+        "date": "2026-09-24",
+        "extrait": "4.2. AIDES A LA RÉALISATION DES ÉTUDES. Les études sont éligibles dès lors qu'elles sont nécessaires à la définition, à l'analyse de la faisabilité ou de l'opportunité et à la préparation des investissements ou actions éligibles (p. 167) [...] ÉTUDES, Hors études d'innovation : Grandes entreprises : 60 %, Moyennes entreprises : 70 %, Petites et microentreprises : 80 % (p. 172)"
+      },
+      {
+        "champ": "taux (épuration et gestion des boues, y compris secteur non prioritaire)",
+        "url": "https://cdi.eau-rhin-meuse.fr/GEIDEFile/Interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales_-_FICHE_THEMATIQUE.pdf?Archive=264992408217&File=interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales___FicHe_THeMaTiQue_pdf",
+        "date": "2026-09-24",
+        "extrait": "CRÉER OU AMÉLIORER LES DISPOSITIFS D'ÉPURATION ET LEUR FILIÈRE DE GESTION DES BOUES. Taux d'aide de référence : Hors zones d'Aides à Finalité Régionale (AFR) : Grandes entreprises : 40 %, Moyennes entreprises : 50 %, Petites et microentreprises : 60 %. En zones AFR (c) : Grandes entreprises : 45 %, Moyennes entreprises : 55 %, Petites et microentreprises : 65 %. Dans le cadre du traitement de pollutions classiques en secteur non prioritaire et hors d'un CIEC : Hors zones d'Aides à Finalité Régionale (AFR) : Grandes entreprises : 30 %, Moyennes entreprises : 40 %, Petites et microentreprises : 50 %. En zones AFR (c) : Grandes entreprises : 35 %, Moyennes entreprises : 45 %, Petites et microentreprises : 55 % (p. 173)"
+      },
+      {
+        "champ": "taux (opérations préliminaires, technologies propres, pollutions accidentelles, moyens de mesure)",
+        "url": "https://cdi.eau-rhin-meuse.fr/GEIDEFile/Interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales_-_FICHE_THEMATIQUE.pdf?Archive=264992408217&File=interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales___FicHe_THeMaTiQue_pdf",
+        "date": "2026-09-24",
+        "extrait": "Lignes OPÉRATIONS PRÉLIMINAIRES À L'ÉPURATION OU À UN RACCORDEMENT, TECHNOLOGIES PROPRES, PRÉVENTION OU RÉDUCTION DES RISQUES DE POLLUTIONS ACCIDENTELLES OU PAR TEMPS DE PLUIE (p. 174) et MOYENS DE MESURE DE CONTRÔLE (p. 175), chacune : Hors zones d'Aides à Finalité Régionale (AFR) : Grandes entreprises : 40 % Moyennes entreprises : 50 % Petites et microentreprises : 60 %. En zones AFR (c) : Grandes entreprises : 45 % Moyennes entreprises : 55 % Petites et microentreprises : 65 %"
+      },
+      {
+        "champ": "type, infos_complementaires (nature des aides)",
+        "url": "https://cdi.eau-rhin-meuse.fr/GEIDEFile/Interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales_-_FICHE_THEMATIQUE.pdf?Archive=264992408217&File=interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales___FicHe_THeMaTiQue_pdf",
+        "date": "2026-09-24",
+        "extrait": "3 - NATURE DES AIDES. L'Agence de l'eau intervient sous la forme d'une subvention dont le taux de référence est basé sur les taux d'aides permis par le règlement communautaire en vigueur. L'Agence de l'eau se réserve le droit, au cas par cas, de mobiliser des aides sous forme d'avances remboursables. (p. 166)"
+      },
+      {
+        "champ": "eligibilite (publics)",
+        "url": "https://cdi.eau-rhin-meuse.fr/GEIDEFile/Interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales_-_FICHE_THEMATIQUE.pdf?Archive=264992408217&File=interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales___FicHe_THeMaTiQue_pdf",
+        "date": "2026-09-24",
+        "extrait": "Les entreprises sont accompagnées via la mobilisation d'aides directes ou d'appels à projets dédiés préalablement définis par l'Agence de l'eau seule ou avec des partenaires. (p. 165) [...] Les collectivités et autres organismes publics (chambres consulaires, ...) qui exercent une activité économique concurrentielle (camping, activité portuaire, ...) pourront être aidés s'ils sont porteurs d'un projet éligible en lien avec cette activité. [...] Les associations et autres organismes privés [...] qui exercent une activité économique concurrentielle pourront être aidés s'ils sont porteurs d'un projet éligible en lien avec cette activité. (p. 166)"
+      },
+      {
+        "champ": "eligibilite (conditions des investissements, microentreprises), infos_complementaires (mise en demeure, haut niveau de protection, SRR)",
+        "url": "https://cdi.eau-rhin-meuse.fr/GEIDEFile/Interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales_-_FICHE_THEMATIQUE.pdf?Archive=264992408217&File=interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales___FicHe_THeMaTiQue_pdf",
+        "date": "2026-09-24",
+        "extrait": "Cas particulier des microentreprises pour la réduction de la pollution classique : actions exclusivement groupées sur les secteurs où enjeu relatif à la pollution classique a été démontré. Les investissements doivent [...] Respecter le principe de « non-dégradation » de l'état des eaux [...] et les technologies mises en place doivent apporter un haut niveau de protection environnementale ; S'inscrire dans les trajectoires de sobriété en eau définies dans le cadre des démarches de gouvernance de l'eau à l'échelle de territoires cohérents (dès lors qu'une structure porteuse de cette gouvernance existe sur le territoire concerné) [...] Pour une activité industrielle soumise réglementairement au régime de Suivi Régulier des Rejets (SRR), l'attribution d'une aide financière (autre que pour la mise en place des moyens nécessaires à l'obtention de l'agrément SRR) est conditionnée à l'obtention de l'agrément, sauf cas d'impossibilité technique. L'Agence de l'eau n'apportera pas d'aide lorsqu'elle est sollicitée pour accompagner un projet permettant de répondre à une mise en demeure réglementaire, sauf si la demande d'aide relative à ce projet est antérieure à la date de l'arrêté de mise en demeure ou s'il s'agit d'une étude rendue obligatoire par l'arrêté de mise en demeure. Si la mise en demeure porte une échéance, l'établissement est inéligible quelle que soit l'échéance. De même, si le Préfet suspend sa mise en demeure pendant un certain temps ou jusqu'à une échéance donnée, il n'est pas tenu compte de la tolérance accordée. Le projet est éligible si la mise en demeure porte sur un volet indépendant de celui qui justifie la demande d'aide ou sur la réalisation d'une étude. (p. 167)"
+      },
+      {
+        "champ": "infos_complementaires (microentreprises, opérations groupées)",
+        "url": "https://cdi.eau-rhin-meuse.fr/GEIDEFile/Interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales_-_FICHE_THEMATIQUE.pdf?Archive=264992408217&File=interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales___FicHe_THeMaTiQue_pdf",
+        "date": "2026-09-24",
+        "extrait": "Sur les secteurs où un enjeu relatif à la pollution classique a été démontré, les microentreprises sont exclusivement accompagnées dans le cadre d'opérations groupées. [...] La maîtrise d'ouvrage publique, les organismes consulaires et professionnels et les autres organismes représentatifs d'activités économiques industrielles, commerciales ou artisanales : Ce public est privilégié pour le portage des actions de connaissance et des actions groupées (études préalables et animation). (p. 166)"
+      },
+      {
+        "champ": "infos_complementaires (minoration de 10 points, adaptation des taux, solutions préventives)",
+        "url": "https://cdi.eau-rhin-meuse.fr/GEIDEFile/Interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales_-_FICHE_THEMATIQUE.pdf?Archive=264992408217&File=interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales___FicHe_THeMaTiQue_pdf",
+        "date": "2026-09-24",
+        "extrait": "5 - CONDITIONS D'APPRÉCIATION DES TAUX D'AIDE. L'Agence de l'eau est susceptible de proposer une adaptation de l'assiette ou/et du taux d'aide de référence affichés en fonction de l'impact ou de l'ambition du projet par rapport aux enjeux environnementaux. [...] Par ailleurs, les projets de réduction des pollutions classiques non prioritaires (hors Plans d'Actions Opérationnels Territorialisés/Programmes de Mesures et/ou situations, à enjeu milieu, associée à un assec ou étiage très sévère ou non-inscrits dans des démarches globales et pluriannuelles (Contrat Industriel Eau et Climat - CIEC)) bénéficient d'un taux d'aide minoré de 10 points par rapport au taux de référence selon la typologie d'action concernée. Plus largement, sont privilégiées, à bénéfice équivalent pour la ressource en eau, lorsqu'elles sont envisageables, les solutions préventives aux solutions curatives (p. 170)"
+      },
+      {
+        "champ": "infos_complementaires (établissement raccordé)",
+        "url": "https://cdi.eau-rhin-meuse.fr/GEIDEFile/Interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales_-_FICHE_THEMATIQUE.pdf?Archive=264992408217&File=interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales___FicHe_THeMaTiQue_pdf",
+        "date": "2026-09-24",
+        "extrait": "Les collectivités pourront notamment être directement aidées pour des investissements liés à la collecte et l'épuration d'eaux usées non domestiques dès lors qu'un établissement industriel se raccorde à son ouvrage d'épuration. (p. 166) [...] TRAITEMENT D'EFFLUENTS NON DOMESTIQUES VERS UNE STATION D'ÉPURATION COLLECTIVE : L'Agence de l'eau exige la transmission d'une autorisation de déversement dans le réseau public et, le cas échéant, d'une convention de raccordement. (p. 178)"
+      },
+      {
+        "champ": "infos_complementaires (zones AFR)",
+        "url": "https://cdi.eau-rhin-meuse.fr/GEIDEFile/Interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales_-_FICHE_THEMATIQUE.pdf?Archive=264992408217&File=interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales___FicHe_THeMaTiQue_pdf",
+        "date": "2026-09-24",
+        "extrait": "ZONES D'AIDES A FINALITE REGIONALE - AFR (C) [...] Les AFR sont des aides qui contribuent au développement économique et social des régions européennes les plus désavantagées. [...] En France, les zones « c » non prédéfinies sont situées en métropole (Corse comprise). (p. 178)"
+      },
+      {
+        "champ": "infos_complementaires (plateforme Rivage, horaires, numéro vert), ressource (page Nos aides)",
+        "url": "https://www.eau-rhin-meuse.fr/nos-aides",
+        "date": "2026-09-24",
+        "extrait": "Les demandes d'aides sont à formuler sur la plateforme Rivage [...] La plateforme Rivage est accessible du lundi au samedi de 7h30 à 20h. [...] Les équipes de l'agence de l'eau Rhin-Meuse répondent aux sollicitations du lundi au vendredi de 9h à 12h et de 13h30 à 16h30 [...] numéro vert gratuit (0 800 710 325) [...] Guide des aides aux industriels"
+      },
+      {
+        "champ": "infos_complementaires (ressource, page des délibérations)",
+        "url": "https://www.eau-rhin-meuse.fr/nos-deliberations",
+        "date": "2026-09-24",
+        "extrait": "Les actions de l'agence de l'eau Rhin-Meuse sont encadrées par des délibérations, fixant ses modalités d'intervention. [...] Interventions en matière d'actions de lutte contre les pressions générées par les activités économiques industrielles et artisanales"
+      }
+    ],
+    "date_maj": "2026-09-24"
+  },
+  {
+    "id": "AIDE_VIA_003",
+    "nom": "Aide à la dépollution industrielle des entreprises (agence de l'eau Seine-Normandie, programme Eau, climat et biodiversité 2025-2030)",
+    "financeur": "Agence de l'eau Seine-Normandie",
+    "logo_url": null,
+    "type": "subvention",
+    "taux": "Taux maximaux autorisés par l'encadrement européen pour les études, les technologies propres, la réduction des pollutions (travaux d'épuration) et les mesures d'accompagnement. Pour les technologies propres, la réduction des micropolluants et les actions collectives, le programme prévoit aussi une subvention de 70 % au titre du régime de minimis. Les taux d'aide peuvent être plafonnés par l'encadrement européen ou national des aides aux activités économiques.",
+    "plafond": "Assiette limitée par un prix de référence calculé sur les flux de pollution concernés par le projet, selon la formule PR = a x [A + PR(MES) x (MES) + PR(DBO5) x (DBO5) + PR(DCO) x (DCO) + PR(NR) x (NR) + PR(P) x (P) + b x PR(MI) x (MI) + b x PR(METOX) x (METOX) + b x PR(AOX) x (AOX)], où a est un coefficient et b un coefficient prenant en compte les substances dangereuses prioritaires du SDAGE. Terme fixe A de 600 000 € (utilisé une seule fois par sous-ligne programme et pour la durée du programme) ; prix unitaires de 2 059 € par kg/j de MES, 1 160 € par kg/j de DBO5, 580 € par kg/j de DCO, 2 403 € par kg/j de NR (6 884 si traitements spécifiques de l'azote non biologiques), 6 010 € par kg/j de P, 47 € par g/j d'AOX, 47 € par g/j de METOX et 47 € par equitox/j de MI. Coefficients par ligne : technologies propres, a = 2 (pas de prix de référence si micropolluants) ; réduction des pollutions, a = 1,5 et b = 3 (pas de prix de référence si zéro rejet) ; mesures d'accompagnement, a = 1 et b = 3 (pas de prix de référence pour la prévention des pollutions accidentelles). Études en régie plafonnées à 5 % du montant des travaux éligibles. Les projets de moins de 10 000 € TTC ne sont pas aidés, seuil ramené à 3 500 € TTC pour les études des acteurs économiques et les actions collectives.",
+    "description": "Volet dépollution industrielle du 12e programme Eau, climat et biodiversité 2025-2030 de l'agence de l'eau Seine-Normandie, doté de 218 millions d'euros. L'agence finance les études (générales, d'orientation, diagnostics, préalables à la décision de réaliser des travaux, nécessaires à la réalisation des travaux, essais pilotes) et les travaux : technologies propres, c'est-à-dire la modification du dispositif de production pour éviter tout ou partie du flux de pollution ou lui substituer un flux moindre ou plus facile à traiter, ou un dispositif de valorisation de la matière contenue dans la pollution émise ; travaux d'épuration, soit les dispositifs de collecte, épuration ou prétraitement des effluents pollués, le traitement des sous-produits associés, la collecte et le stockage d'effluents concentrés ou graisseux avant envoi en centre autorisé ; mesures d'accompagnement, dont la fiabilisation du dispositif de collecte et de traitement, l'autosurveillance des rejets et la prévention des pollutions accidentelles ; réduction des micropolluants ; actions et travaux concernant les effluents concentrés, toxiques ou graisseux susceptibles de perturber le système d'assainissement.",
+    "eligibilite": "Tous les acteurs économiques non agricoles du bassin Seine-Normandie, aidés individuellement quelle que soit leur taille ou leur activité dès lors que le projet correspond aux objectifs du programme ; les activités dispersées sont préférentiellement accompagnées dans le cadre d'actions collectives. Les opérations faisant l'objet d'une mise en demeure de l'autorité administrative sur l'objet du projet ne sont pas éligibles.",
+    "categories": [
+      "agir_rejets_qualite"
+    ],
+    "secteurs": [
+      "industrie_viande"
+    ],
+    "departements": [],
+    "agences": [
+      "AESN"
+    ],
+    "mesures": [
+      "ACT_VIA_007",
+      "ACT_VIA_008"
+    ],
+    "infos_complementaires": [
+      {
+        "type": "avertissement",
+        "texte": "Aucun commencement d'exécution du projet (ordre de service ou bon de commande par exemple) ne peut avoir lieu avant le dépôt d'une demande d'aide formelle auprès de l'agence, sauf autorisation de démarrage anticipé. En cas de contractualisation par acceptation d'un devis, le commencement d'exécution est la date de signature du devis. L'accusé de réception de la demande ne vaut pas décision d'attribution."
+      },
+      {
+        "type": "avertissement",
+        "texte": "Les travaux faisant l'objet d'un arrêté de mise en demeure de l'autorité administrative compétente ne sont pas éligibles : les aides doivent avoir un effet incitatif."
+      },
+      {
+        "type": "info",
+        "texte": "Installations nouvelles (nouvelle implantation géographique depuis moins de 2 années) : l'agence ne finance que les études et travaux liés aux dispositifs d'épuration et aux technologies propres qui permettent d'aller au-delà des exigences de la réglementation applicable, et l'assiette se limite à ces dépenses."
+      },
+      {
+        "type": "info",
+        "texte": "Collecte et élimination des effluents concentrés : sont éligibles uniquement les actions et travaux concernant les effluents concentrés, toxiques ou graisseux susceptibles de perturber le système d'assainissement, de remettre en cause la valorisation des boues ou de polluer les eaux. Sous cette même rubrique, le programme exclut notamment les déchets faisant l'objet d'une responsabilité élargie du producteur et les déchets infectieux."
+      },
+      {
+        "type": "info",
+        "texte": "Engagements liés à l'aide : pour les travaux d'épuration, fournir à l'agence les données de pollution éliminée ou justifiant du respect des normes de rejet au réseau ou au milieu naturel, et justifier de l'élimination conforme des boues et sous-produits d'épuration ; pour les technologies propres, fournir les quantités de pollution évitée ou valorisée."
+      },
+      {
+        "type": "info",
+        "texte": "Études : une étude portant sur un système de traitement des effluents doit envisager au moins un scénario tenant compte de l'impact du changement climatique sur le milieu récepteur (hypothèse d'une baisse de 15 % du débit de référence QMNA5 du cours d'eau). Le financement d'une étude ne donne pas droit systématiquement au financement des travaux."
+      },
+      {
+        "type": "info",
+        "texte": "Démarche en trois étapes : présenter le projet au chargé d'opérations de votre direction territoriale, télécharger le formulaire de demande d'aide, puis déposer le dossier complet sur Démarche Numérique. En septembre 2026, l'agence indiquait : « Pour avoir l'assurance d'une instruction en 2026, vous devez déposer vos dossiers complets de demande d'aide sur Démarche Numérique avant le 30 septembre. » Vérifiez la date de l'année en cours."
+      },
+      {
+        "type": "info",
+        "texte": "Contact de l'agence : 12 rue de l'Industrie, CS 80148, 92416 Courbevoie Cedex, téléphone 01 41 20 16 00."
+      },
+      {
+        "type": "ressource",
+        "texte": "Les aides financières destinées aux entreprises, programme Eau, climat et biodiversité 2025-2030",
+        "lien": "https://www.eau-seine-normandie.fr/entreprises/aides-financieres-du-programme-eau-climat-biodiversite"
+      },
+      {
+        "type": "ressource",
+        "texte": "12e programme 2025-2030 de l'agence de l'eau Seine-Normandie (chapitre B, réduction des pressions des acteurs économiques hors agriculture, pages 63 à 71)",
+        "lien": "https://economie.eaufrance.fr/sites/default/files/2024-11/doc577-12e_programme_aesn_vf.pdf"
+      },
+      {
+        "type": "ressource",
+        "texte": "Formulaires de demande d'aide 2025-2030",
+        "lien": "https://www.eau-seine-normandie.fr/formulaires_aides"
+      },
+      {
+        "type": "ressource",
+        "texte": "Formulaire de demande d'aide Industrie",
+        "lien": "https://www.eau-seine-normandie.fr/sites/public_file/12e-programme/FORMULAIRES/12eme_Formulaire_aide_INDUSTRIE_VF.docx"
+      },
+      {
+        "type": "ressource",
+        "texte": "Complément formulaire OBJECTIF DEPOLLUTION",
+        "lien": "https://www.eau-seine-normandie.fr/sites/public_file/12e-programme/FORMULAIRES/12eme_Complement_Formulaire_aide_Industrie_OBJECTIF_DEPOLLUTION_VF.docx"
+      },
+      {
+        "type": "ressource",
+        "texte": "Conditions générales d'attribution et de paiement des aides (Titre 1), version en vigueur pour les aides attribuées à partir du 1er janvier 2025",
+        "lien": "https://www.eau-seine-normandie.fr/sites/public_file/12e-programme/TITRE_1_Conditions_generales_attribution_paiement.pdf"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "nom, description, mesures (ACT_VIA_008, ACT_VIA_007), taux",
+        "url": "https://www.eau-seine-normandie.fr/entreprises/aides-financieres-du-programme-eau-climat-biodiversite",
+        "date": "2026-09-24",
+        "extrait": "L'agence de l'eau consacre 218 millions d'euros (soit 6 % du montant des aides du 12è programme) à la dépollution industrielle pour : [...] la mise en place de technologies propres : la modification du dispositif de production permettant d'éviter tout ou partie du flux de pollution ou de lui substituer un flux de pollution moindre ou plus facile à traiter, ou encore un dispositif (individuel ou centralisé) de valorisation de la matière contenue dans la pollution émise [...] les travaux d'épuration : la réduction des pollutions chroniques par la mise en place de dispositifs de collecte, épuration ou prétraitement des effluents pollués et de leurs sous-produits, collecte et stockage d'effluents concentrés ou graisseux avant envoi en centre autorisé [...] Les taux d'aides peuvent être plafonnés par l'encadrement européen ou national des aides aux activités économiques"
+      },
+      {
+        "champ": "description (mesures d'accompagnement, effluents concentrés), mesures (ACT_VIA_008 autosurveillance, ACT_VIA_007)",
+        "url": "https://www.eau-seine-normandie.fr/entreprises/aides-financieres-du-programme-eau-climat-biodiversite",
+        "date": "2026-09-24",
+        "extrait": "les mesures d'accompagnement : sous cette dénomination sont regroupés les travaux d'adaptation et de fiabilisation du dispositif de collecte et de traitement des rejets, le dispositif d'autosurveillance des rejets ; la dépollution des rejets par temps de pluie ; les ouvrages visant la prévention des pollutions accidentelles [...] La collecte et l'élimination des effluents concentrés : [...] Elle finance également les actions et travaux concernant les effluents (concentrés, toxiques ou graisseux) susceptibles de perturber le système d'assainissement, de remettre en cause la valorisation des boues, ou de polluer les eaux"
+      },
+      {
+        "champ": "description (études), infos_complementaires (installations nouvelles)",
+        "url": "https://www.eau-seine-normandie.fr/entreprises/aides-financieres-du-programme-eau-climat-biodiversite",
+        "date": "2026-09-24",
+        "extrait": "les études générales les études d'orientation les études diagnostics les études préalables d'aide à la décision de réaliser des travaux les études nécessaires à la réalisation des travaux les études relatives à la réhabilitation des sites pollués et aux sédiments de dragage, les essais pilotes. [...] Les installations nouvelles (nouvelle implantation géographique depuis moins de 2 années) Pour ces dernières, l'agence de l'eau finance les études et les travaux liés aux dispositifs d'épuration et aux technologies propres permettant d'aller au-delà des exigences de la réglementation."
+      },
+      {
+        "champ": "infos_complementaires (date de dépôt, contact)",
+        "url": "https://www.eau-seine-normandie.fr/entreprises/aides-financieres-du-programme-eau-climat-biodiversite",
+        "date": "2026-09-24",
+        "extrait": "Pour avoir l'assurance d'une instruction en 2026, vous devez déposer vos dossiers complets de demande d'aide sur Démarche Numérique avant le 30 septembre. [...] Nous contacter 01 41 20 16 00 [...] 12 rue de l'Industrie CS 80148 92416 Courbevoie Cedex"
+      },
+      {
+        "champ": "infos_complementaires (démarche, commencement d'exécution), ressources (formulaires, conditions générales)",
+        "url": "https://www.eau-seine-normandie.fr/formulaires_aides",
+        "date": "2026-09-24",
+        "extrait": "Prendre contact avec le chargé d'opérations de la direction territoriale dont vous dépendez pour présenter votre projet en vue de l'élaboration du dossier de demande d'aide. Télécharger le formulaire de demande d'aide [...] Compléter le dossier et déposez-le en ligne sur démarche numérique. [...] aucun commencement d'exécution du projet (émission d'ordre de service ou de bon de commande par exemple) ne peut avoir lieu avant le dépôt d'une demande d'aide formelle auprès de l'agence de l'eau. [...] Conditions générales d'attribution et de paiement des aides (Titre 1) version en vigueur pour les aides attribuées à partir du 1er janvier 2025 [...] Formulaire de demande d'aide [...] Complément formulaire OBJECTIF DEPOLLUTION"
+      },
+      {
+        "champ": "eligibilite",
+        "url": "https://economie.eaufrance.fr/sites/default/files/2024-11/doc577-12e_programme_aesn_vf.pdf",
+        "date": "2026-09-24",
+        "extrait": "B.1. Actions aidées Tous les acteurs économiques sont aidés individuellement quelle que soit leur taille ou leur activité dès lors que le projet présenté correspond aux objectifs du programme. Les études et les travaux des activités dispersées sont préférentiellement accompagnés dans le cadre d'actions collectives sectorielles ou territoriales. [...] B.2. Modalités Éligibilité - Conditions d'éligibilité Sont éligibles les opérations (études et travaux) ne faisant pas l'objet d'une mise en demeure de la part d'une autorité administrative compétente sur l'objet du projet. (pages 63 et 64 du fichier, enregistré le 7 octobre 2024)"
+      },
+      {
+        "champ": "description (travaux d'épuration, technologies propres), mesures (ACT_VIA_008 prétraitement, ACT_VIA_007 effluents concentrés)",
+        "url": "https://economie.eaufrance.fr/sites/default/files/2024-11/doc577-12e_programme_aesn_vf.pdf",
+        "date": "2026-09-24",
+        "extrait": "B.2.2.3. Les travaux d'épuration Éligibilité - Conditions d'éligibilité Sont éligibles : • les actions de réduction des pollutions chroniques : dispositifs de collecte, épuration ou prétraitement des effluents pollués, traitement des sous-produits associés, collecte et stockage d'effluents concentrés ou d'effluents graisseux avant envoi en centre autorisé ; (page 65 du fichier)"
+      },
+      {
+        "champ": "infos_complementaires (engagements)",
+        "url": "https://economie.eaufrance.fr/sites/default/files/2024-11/doc577-12e_programme_aesn_vf.pdf",
+        "date": "2026-09-24",
+        "extrait": "L'attributaire fournit à l'agence de l'eau les données relatives aux quantités de pollution évitée ou valorisée. [...] Pour la réduction des pollutions industrielles : l'attributaire s'engage à fournir à l'agence de l'eau les données relatives à la quantité de pollution éliminée par le dispositif d'épuration ou [...] justifiant du respect des normes de rejet à un réseau de collecte ou au milieu naturel ; il s'engage à justifier de l'élimination conforme des boues et sous-produits d'épuration. (pages 65 et 66 du fichier)"
+      },
+      {
+        "champ": "infos_complementaires (effluents concentrés, exclusions de la rubrique B.2.2.7)",
+        "url": "https://economie.eaufrance.fr/sites/default/files/2024-11/doc577-12e_programme_aesn_vf.pdf",
+        "date": "2026-09-24",
+        "extrait": "B.2.2.7. La collecte et l'élimination des effluents concentrés [...] Sont éligibles uniquement les actions et travaux concernant les effluents (concentrés, toxiques ou graisseux) susceptibles de perturber le système d'assainissement, de remettre en cause la valorisation des boues, ou de polluer les eaux. [...] Ne sont pas éligibles les déchets faisant l'objet d'une responsabilité élargie du producteur, [...] les déchets explosifs, radioactifs et infectieux (pages 67 et 68 du fichier)"
+      },
+      {
+        "champ": "infos_complementaires (études)",
+        "url": "https://economie.eaufrance.fr/sites/default/files/2024-11/doc577-12e_programme_aesn_vf.pdf",
+        "date": "2026-09-24",
+        "extrait": "les études concernant la mise en place d'un système de traitement des effluents envisageront au moins un scenario tenant compte des perspectives de l'impact du changement climatique sur le milieu récepteur (en prenant notamment pour hypothèse une baisse des débits de référence de QMNA5 -15 % des cours d'eau [...]). Le financement d'étude ne donne pas droit systématique au financement de travaux. [...] Le financement des études réalisées en régie est plafonné à hauteur de 5 % du montant de l'assiette des travaux éligibles. (page 64 du fichier)"
+      },
+      {
+        "champ": "taux, plafond (coefficients du prix de référence)",
+        "url": "https://economie.eaufrance.fr/sites/default/files/2024-11/doc577-12e_programme_aesn_vf.pdf",
+        "date": "2026-09-24",
+        "extrait": "Tableau « Niveaux d'aide », lignes recopiées telles que le texte extrait les restitue (colonnes entremêlées) : Nature de l'opération Taux d'aide max Application d'un Coefficients Ligne [...] Études Taux maximaux Non - 1310 autorisés par 1320 pour l'encadrement études sites européen pollués [...] Réduction des Taux maximaux Non - 1331 micropolluants autorisés par l'encadrement européen Ou S 70 % de minimis Technologie propre Taux maximaux Oui a = 2 1315 autorisés par Non si l'encadrement micropolluants européen Ou S 70 % de minimis [...] Réduction des Taux maximaux Oui a = 1,5 et b = 3 1311 pollutions autorisés par Non si zéro rejet - l'encadrement européen Mesures Taux maximaux Oui a = 1 et b = 3 ; 1313 d'accompagnement et autorisés par Prix de référence prévention des l'encadrement Sauf pour la pour les pollutions européen prévention des Canalisations : accidentelles pollutions réseaux accidentelles [...] Actions collectives Taux maximaux Oui Selon la nature 1316 Études et travaux autorisés par des travaux l'encadrement européen S 70 % de minimis (pages 69 et 70 du fichier)"
+      },
+      {
+        "champ": "plafond (prix de référence)",
+        "url": "https://economie.eaufrance.fr/sites/default/files/2024-11/doc577-12e_programme_aesn_vf.pdf",
+        "date": "2026-09-24",
+        "extrait": "PR = a. [A + PR(MES).(MES) + PR(DB05).(DB05) + PR(DCO).(DCO) + PR(NR).(NR) + PR(P).(P) + b. PR(MI).(MI) + b. PR(METOX).(METOX) + b. PR(AOX).(AOX)] où : • a est un coefficient ; • b est un coefficient prenant en compte les substances dangereuses prioritaires du SDAGE ; • A est un terme fixe ; [...] Terme fixe A 600 000 € PR (MES) par kg/j de pollution 2059 €/kg/j de pollution PR (DB05) par kg/j de pollution 1160 €/kg/j de pollution PR (DCO) par kg/j de pollution 580 €/kg/j de pollution PR (NR) par kg/j de pollution 2403 €/kg/j de pollution Si traitements spécifiques de l'azote (non biologique) 6884 PR (P) par kg/j de pollution 6010 €/kg/j de pollution PR (AOX) par g/j de pollution 47 €/g/j de pollution PR (METOX) par g/j de pollution 47 €/g/j de pollution PR (Ml) par equitox/j de pollution 47 €/equitox/j [...] Pour un site d'activité donné, le terme fixe A (cf. tableau ci-dessus) est utilisé une seule fois pour chaque sous ligne programme et pour la durée du programme. (page 71 du fichier)"
+      },
+      {
+        "champ": "infos_complementaires (installations nouvelles, assiette)",
+        "url": "https://economie.eaufrance.fr/sites/default/files/2024-11/doc577-12e_programme_aesn_vf.pdf",
+        "date": "2026-09-24",
+        "extrait": "B.2.2.9. Les installations nouvelles Une installation nouvelle correspond à la création d'une nouvelle implantation géographique depuis moins de 2 années. [...] Le montant des dépenses éligibles correspond aux dépenses qui permettent d'aller au-delà des exigences de la réglementation applicable. (page 68 du fichier)"
+      },
+      {
+        "champ": "plafond (seuils plancher), type",
+        "url": "https://economie.eaufrance.fr/sites/default/files/2024-11/doc577-12e_programme_aesn_vf.pdf",
+        "date": "2026-09-24",
+        "extrait": "Les aides sont accordées par l'agence de l'eau sous forme de subventions ou d'avances remboursables à taux zéro. [...] ne sont pas aidés les projets dont le coût est inférieur à 10 000 €TTC. Par exception, ce seuil est ramené à 3 500 €TTC pour : • les études des acteurs économiques, • les actions collectives (études, travaux, animation) des acteurs économiques, (page 29 du fichier)"
+      },
+      {
+        "champ": "infos_complementaires (commencement d'exécution, devis, mise en demeure)",
+        "url": "https://economie.eaufrance.fr/sites/default/files/2024-11/doc577-12e_programme_aesn_vf.pdf",
+        "date": "2026-09-24",
+        "extrait": "Sauf autorisation de démarrage anticipé accordée par l'agence, l'attributaire ne peut pas démarrer l'exécution de l'opération avant le dépôt à l'agence de l'eau d'une demande d'aide formelle. L'agence en accuse réception. Cet accusé de réception ne vaut pas décision d'attribution de l'aide. [...] En cas de contractualisation par acceptation d'un devis, la date de signature du devis. [...] En particulier, les aides doivent avoir un effet incitatif. À ce titre notamment, les travaux faisant l'objet d'un arrêté de mise en demeure émanant de l'autorité administrative compétente ne sont pas éligibles aux aides de l'agence. (pages 28 à 31 du fichier)"
+      }
+    ],
+    "date_maj": "2026-09-24"
+  },
+  {
+    "id": "AIDE_VIA_004",
+    "nom": "IND_1, maîtriser et réduire les pollutions des activités économiques (agence de l'eau Loire-Bretagne, 12e programme)",
+    "financeur": "Agence de l'eau Loire-Bretagne",
+    "logo_url": null,
+    "type": "subvention",
+    "taux": "Taux maximaux, qui peuvent être limités par l'encadrement européen des aides publiques en tenant compte des zones d'aide à finalité régionale. Études de réduction des pollutions et études préalables aux travaux : 50 %. Travaux de réduction des rejets à la source : 70 %. Travaux de réduction des rejets macropolluants (azote, carbone, phosphore) par traitement ou prétraitement : 25 %, porté à 50 % pour un établissement identifié prioritaire ou raccordé à un système d'assainissement prioritaire et inscrit dans un accord industriel pour l'eau signé avec l'agence. Travaux de réduction des rejets micropolluants par traitement : 50 %, porté à 70 % dans les mêmes conditions. Autres travaux de réduction des pressions : 25 %. Majoration possible de 5 points pour les travaux qui entraînent une baisse de la consommation d'énergie.",
+    "plafond": "Travaux de réduction des rejets macropolluants par traitement : coût plafond calculé sur la diminution des flux nets rejetés, 82 500 € + 6 600 € par kg de DCO/j + 66 000 € par kg de N/j + 132 000 € par kg de P/j, avec déplafonnement possible pour les établissements prioritaires dans le cadre d'un programme d'actions personnalisé. Séparation à la source des eaux pluviales des aires de travail : 60 € par m2 de surface déconnectée. Ouvrages de stockage d'eaux traitées sans réutilisation : 25 € par m3 jusqu'à 2 000 m3, 2,75 € par m3 + 44 500 € de 2 000 à 10 000 m3, 7,2 € par m3 au-delà.",
+    "description": "Dispositif IND_1 du 12e programme d'intervention 2025-2030 de l'agence de l'eau Loire-Bretagne, fiche action version 1 applicable au 1er janvier 2025. Il vise à réduire les rejets des activités économiques non agricoles qui compromettent le bon état des eaux ou un usage sensible (baignade, conchyliculture, pêche à pied), ainsi que les autres pressions à l'impact démontré sur le milieu (température, chlorures, micropolluants). La réduction à la source (technologies propres, aménagements internes, modification de formulation de produits) doit être systématiquement étudiée et privilégiée par rapport au traitement. Les dépenses éligibles couvrent les études de réduction des pollutions et les études préalables aux travaux (acceptabilité du milieu récepteur, diagnostics avec campagnes de mesures, faisabilité, essais pilotes), puis les travaux et équipements, l'autosurveillance et les dépenses connexes strictement dédiés à la réduction des flux polluants : travaux de réduction à la source au niveau du process, mise en place ou amélioration de systèmes de traitement ou de prétraitement en sortie de site, autres travaux de réduction des pressions (bassin de stockage d'eaux usées traitées, réfection de réseaux, réduction de la température ou des chlorures des rejets). Les eaux pluviales qui ruissellent sur les aires de travail sont traitées comme des effluents et aidées à ce titre.",
+    "eligibilite": "Bénéficiaires publics ou privés pratiquant une activité économique non agricole. Le site doit avoir au moins 5 ans d'existence, aucune aide n'est accordée pour une création ou un transfert d'établissement, et les études et travaux sont réalisés par un prestataire extérieur. Les travaux découlent d'une étude préalable qui privilégie la réduction à la source et doivent aboutir à une réduction significative et mesurable du rejet, y compris en cas d'augmentation d'activité. Pour un établissement raccordé à une station collective, l'étude doit démontrer que le réseau et la station peuvent accepter la charge et le type de pollution. La demande doit être déposée avant tout engagement juridique ou début d'exécution de l'opération.",
+    "categories": [
+      "agir_rejets_qualite"
+    ],
+    "secteurs": [
+      "industrie_viande"
+    ],
+    "departements": [],
+    "agences": [
+      "AELB"
+    ],
+    "mesures": [
+      "ACT_VIA_007",
+      "ACT_VIA_008"
+    ],
+    "infos_complementaires": [
+      {
+        "type": "avertissement",
+        "texte": "La demande d'aide doit être déposée avant tout engagement juridique ou début d'exécution de l'opération. Un bon de commande ou un marché signé avant le dépôt compromet l'aide."
+      },
+      {
+        "type": "avertissement",
+        "texte": "Le traitement ne passe qu'après la réduction à la source : l'étude préalable doit privilégier la réduction des flux polluants à la source, et les actions de réduction à la source envisageables doivent avoir été menées avant les travaux de traitement ou en parallèle. Un projet de prétraitement présenté seul, sans ce travail amont, risque d'être refusé."
+      },
+      {
+        "type": "avertissement",
+        "texte": "Établissement raccordé : lorsque les rejets en DCO des établissements raccordés dépassent 70 % de la capacité nominale de la station collective pour l'ensemble des activités économiques, ou 50 % pour une seule activité, les travaux sont inéligibles, sauf infaisabilité technique et financière de la reprise de la station ou de la création d'une station autonome."
+      },
+      {
+        "type": "avertissement",
+        "texte": "Sont exclus le remplacement d'un équipement sans amélioration notable des performances, les consommables, l'imperméabilisation des sols et la mise en place de débourbeurs-déshuileurs."
+      },
+      {
+        "type": "info",
+        "texte": "Prétraitement : la ligne macropolluants finance la mise en place ou l'amélioration de systèmes de traitement ou de prétraitement en sortie de site, mais aucune aide n'est accordée à la mise en place de débourbeurs-déshuileurs (fiche action IND_1, page 4)."
+      },
+      {
+        "type": "avertissement",
+        "texte": "Pour une entreprise soumise à la directive sur les émissions industrielles (IED), l'aide pour atteindre une norme de rejet n'est possible que si l'investissement est mis en oeuvre et finalisé au moins 18 mois avant l'entrée en vigueur de la norme. Au-delà, seul le dépassement de la norme peut être aidé, et la demande doit comporter le coût d'une solution de base pour l'atteinte des normes."
+      },
+      {
+        "type": "avertissement",
+        "texte": "En 2026, l'agence annonce une capacité d'intervention insuffisante face aux demandes de financement : son conseil d'administration du 12 mars 2026 a décidé de prioriser encore davantage ses interventions, avec la mise en suspens de certains dispositifs d'aide ou l'application d'un plafond d'aide. Cette annonce figure sur la page du dispositif QUA_1 et porte sur les interventions de toute l'agence ; les pages IND_1 ne la reprennent pas. Vérifiez l'état du dispositif auprès de votre délégation avant de bâtir un plan de financement."
+      },
+      {
+        "type": "info",
+        "texte": "Pièces à fournir pour le versement des aides aux travaux : pour les sites soumis à autosurveillance, les résultats sur au moins 3 mois, sinon les résultats des essais de performances ; pour un établissement raccordé, la convention de déversement signée avec la collectivité ; pour bénéficier de la majoration sobriété énergétique, les résultats de suivi de la consommation d'énergie des équipements. Les travaux doivent être équipés d'une autosurveillance conforme à la réglementation."
+      },
+      {
+        "type": "info",
+        "texte": "Les taux majorés sont réservés aux établissements industriels prioritaires, isolés ou raccordés à un système d'assainissement prioritaire, qui relèvent d'une liste arrêtée par le conseil d'administration et doivent porter un programme d'actions personnalisé abordant au minimum les volets prélèvements et pollution."
+      },
+      {
+        "type": "info",
+        "texte": "Les aides de l'agence n'ont pas un caractère systématique : leur attribution dépend de ses disponibilités financières et de la priorisation des projets selon les objectifs du 12e programme et leur efficience sur la qualité des milieux."
+      },
+      {
+        "type": "info",
+        "texte": "Le dépôt s'effectue sur le téléservice Rivage, thématique « Lutte contre les pressions des activités économiques hors agriculture », dispositif « Études » pour les études et « Travaux de maitrise et réduction des pollutions » pour les travaux. Pour toute information, l'agence renvoie vers sa délégation régionale. Les ouvrages de stockage d'eaux traitées en vue de leur réutilisation relèvent de la fiche QUA_1, et les eaux pluviales qui ruissellent hors des aires de travail (parkings, toitures) de la fiche PLU_1."
+      },
+      {
+        "type": "ressource",
+        "texte": "Fiche action IND_1, maîtriser et réduire les pollutions et les autres pressions exercées par les rejets des activités économiques (version 1, applicable au 1er janvier 2025)",
+        "lien": "https://aides-redevances.eau-loire-bretagne.fr/files/live/sites/aides-redevances/files/Aides-12prog/Fiches-actions/IND_1.pdf"
+      },
+      {
+        "type": "ressource",
+        "texte": "Fiche dispositif IND_1, études de réduction des pollutions et études préalables aux travaux (50 %)",
+        "lien": "https://aides-redevances.eau-loire-bretagne.fr/home/aides/fiches-dispositif-12e-programme/ind/ind1-etudes-de-reduction-des-pollutions-et-des-pressions-et-etud.html"
+      },
+      {
+        "type": "ressource",
+        "texte": "Fiche dispositif IND_1, travaux de réduction des rejets à la source (70 %)",
+        "lien": "https://aides-redevances.eau-loire-bretagne.fr/home/aides/fiches-dispositif-12e-programme/ind/ind1-travaux-de-reduction-des-rejets-a-la-source.html"
+      },
+      {
+        "type": "ressource",
+        "texte": "Fiche dispositif IND_1, travaux de réduction des rejets macropolluants par traitement (25 %, jusqu'à 50 %)",
+        "lien": "https://aides-redevances.eau-loire-bretagne.fr/home/aides/fiches-dispositif-12e-programme/ind/ind1-travaux-de-reduction-des-rejets-macropolluants-par-traiteme.html"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "type",
+        "url": "https://aides-redevances.eau-loire-bretagne.fr/files/live/mounts/midas/Aides/12e%20programme/R%C3%A8gles%20g%C3%A9n%C3%A9rales%20d%E2%80%99attri",
+        "date": "2026-09-24",
+        "extrait": "Règles générales d'attribution et de versement des aides du 12e programme d'intervention de l'agence de l'eau Loire-Bretagne. Délibération n° 2024-102 du 14 novembre 2024. Date d'effet : 1er janvier 2025. [...] 8.1. Détermination du montant maximal prévisionnel de l'aide. L'agence de l'eau attribue des aides sous forme de subvention (par application de taux ou de forfait) ou d'avance remboursable. Pour le secteur concurrentiel, l'agence de l'eau applique la réglementation relative aux aides d'État fixées par l'Union européenne. Le montant prévisionnel de l'aide (subvention et/ou avance) est calculé par application d'un taux d'aide à la dépense retenue."
+      },
+      {
+        "champ": "description, eligibilite, taux (catégories et majorations), infos_complementaires (établissements prioritaires, renvois QUA_1 et PLU_1)",
+        "url": "https://aides-redevances.eau-loire-bretagne.fr/files/live/sites/aides-redevances/files/Aides-12prog/Fiches-actions/IND_1.pdf",
+        "date": "2026-09-24",
+        "extrait": "IND_1 - Version n°1. Applicable au 1er janvier 2025 (CA du 14 novembre 2024). [...] Ce dispositif d'aide vise prioritairement à : réduire les rejets des activités économiques non agricoles qui compromettent l'atteinte du bon état des eaux ou un usage sensible (baignade, conchyliculture, pêche à pied) [...] La réduction à la source (technologies propres, aménagements internes, modification de formulation de produits, etc.) doit être systématiquement étudiée et privilégiée vis-à-vis du traitement des pollutions. [...] Majoration sobriété énergétique : une majoration du taux d'aide de 5 points peut être accordée [...] aux projets de réduction des pollutions entrainant une baisse de la consommation d'énergie après travaux. [...] Les établissements industriels prioritaires doivent faire l'objet d'un programme d'actions personnalisé doté d'objectifs ambitieux, abordant à minima les volets prélèvements et pollution, pour pouvoir bénéficier du taux d'aide majoré. [...] Les ouvrages de stockage d'eaux traitées en vue de leur réutilisation sont aidés selon les modalités de la fiche-action QUA_1. [...] Bénéficiaire : Public ou privé pratiquant une activité économique non agricole."
+      },
+      {
+        "champ": "eligibilite (critères), infos_complementaires (station collective, exclusions dont débourbeurs-déshuileurs, pièces pour le versement)",
+        "url": "https://aides-redevances.eau-loire-bretagne.fr/files/live/sites/aides-redevances/files/Aides-12prog/Fiches-actions/IND_1.pdf",
+        "date": "2026-09-24",
+        "extrait": "Les sites soutenus présentent a minima 5 ans d'existence. Aucune aide n'est accordée dans le cadre de la création ou d'un transfert d'établissement. Les études et travaux sont réalisés par un prestataire extérieur. [...] Les investissements aidés doivent aboutir à une réduction significative et mesurable du rejet ou de la pression y compris en cas d'augmentation d'activité. [...] l'étude doit démontrer que le réseau et la station de traitement peuvent accepter la charge et le type de pollution générée par cet établissement, lorsque les rejets en DCO des établissements raccordés sur la station collective de traitement sont supérieur à 70% de sa capacité nominale pour l'ensemble des activités économiques ou à 50% pour une seule activité, les travaux sont inéligibles sauf infaisabilité technique et financière [...] Aucune aide ne peut être accordée à l'imperméabilisation des sols et à la mise en place de débourbeurs-déshuileurs. [...] Le remplacement d'équipement sans amélioration notable des performances et les consommables sont exclus d'un financement. [...] Fourniture, pour les sites soumis à autosurveillance, des résultats d'autosurveillance sur une période de 3 mois minimum [...] Pour les industriels raccordés, fourniture de la convention de déversement signée avec la collectivité."
+      },
+      {
+        "champ": "description (dépenses éligibles), plafond, mesures",
+        "url": "https://aides-redevances.eau-loire-bretagne.fr/files/live/sites/aides-redevances/files/Aides-12prog/Fiches-actions/IND_1.pdf",
+        "date": "2026-09-24",
+        "extrait": "Études : Coût des études de réduction des pollutions [...] et coût des études préalables aux travaux (études d'acceptabilité du milieu récepteur, études diagnostics y compris campagnes de mesures, études de faisabilité et d'aide à la décision, essais-pilotes, etc.). Travaux : Coût des travaux et équipements, de l'autosurveillance et autres dépenses connexes au projet strictement dédiés à la réduction des flux polluants [...] Coût plafond = 82 500 € + 6 600 €/(kg DCO /j) + 66 000 €/(kg N/j) + 132 000 €/(kg P/j) [...] peuvent faire l'objet d'un déplafonnement dans le cadre de programmes d'actions personnalisés. [...] les actions de séparation à la source des eaux pluviales avant leur ruissellement sur les aires de travail dans la limite du plafond de 60 €/ m² de surface déconnectée. [...] Capacité ≤ 2 000 m3 : 25 €/ m3 ; 2 000 < Capacité ≤ 10 000 m3 : 2.75 €/ m3 + 44 500 € ; Capacité > 10 000m3 : 7.2 € / m3"
+      },
+      {
+        "champ": "taux (études), infos_complementaires (dépôt avant engagement, caractère non systématique selon les objectifs du 12e programme, dispositif Rivage « Études »)",
+        "url": "https://aides-redevances.eau-loire-bretagne.fr/home/aides/fiches-dispositif-12e-programme/ind/ind1-etudes-de-reduction-des-pollutions-et-des-pressions-et-etud.html",
+        "date": "2026-09-24",
+        "extrait": "Études de réduction des pollutions et des pressions et études préalables aux travaux. Taux d'aide 50 %. Le taux d'aide est un taux maximum. Il peut être limité par l'encadrement européen des aides publiques en tenant compte des zones d'aide à finalité régionales. Les aides de l'agence de l'eau n'ont pas un caractère systématique. Leur attribution est fonction d'une part des disponibilités financières de l'agence de l'eau et d'autre part de la priorisation des projets selon les objectifs du 12e programme et de leur efficience sur la qualité des milieux. Votre demande d'aide financière doit être déposée avant tout engagement juridique ou début d'exécution de l'opération. [...] Thématique : Lutte contre les pressions des activités économiques hors agriculture (réduction des pollutions, économies d'eau et eaux pluviales). Dispositif : Études"
+      },
+      {
+        "champ": "taux (réduction à la source), mesures (ACT_VIA_007)",
+        "url": "https://aides-redevances.eau-loire-bretagne.fr/home/aides/fiches-dispositif-12e-programme/ind/ind1-travaux-de-reduction-des-rejets-a-la-source.html",
+        "date": "2026-09-24",
+        "extrait": "Travaux visant la réduction de la pollution au niveau du process, voire avant qu'elle n'arrive sur le site/ l'usine, afin d'éviter qu'elle ne soit envoyée vers la station de traitement des eaux usées : mise en place de technologies \"propres\", d'aménagements internes, modification de formulations de produits, substitution de molécules de nettoyage, etc. Taux d'aide 70 %. Le taux d'aide est un taux maximum sauf éventuelle majoration de 5 points si le projet entraine une baisse de la consommation énergétique."
+      },
+      {
+        "champ": "taux (macropolluants), mesures (ACT_VIA_008), infos_complementaires (réduction à la source préalable, IED, dispositif Rivage « Travaux »)",
+        "url": "https://aides-redevances.eau-loire-bretagne.fr/home/aides/fiches-dispositif-12e-programme/ind/ind1-travaux-de-reduction-des-rejets-macropolluants-par-traiteme.html",
+        "date": "2026-09-24",
+        "extrait": "Travaux visant la réduction des macropolluants (azote, carbone, phosphore) via l'amélioration/ la mise en place de systèmes de traitement ou de prétraitement en sortie du site de l'entreprise. Taux d'aide 25 % majorable jusqu'à 50 % [...] Pour les opérations portant sur un établissement identifié prioritaire au titre du 12e programme d'intervention ou raccordé à un système d'assainissement prioritaire et inscrites dans un accord industriel pour l'eau signé avec l'agence, le taux d'aide peut être porté de 25% à 50%. [...] Les actions de réduction à la source des pollutions envisageables doivent avoir été menées au préalable ou sont réalisées en parallèle des travaux de traitement de la pollution. [...] Pour les entreprises soumises à la directive sur les émissions industrielles (IED), des aides pour atteindre les normes de rejet sont possibles uniquement si l'investissement correspondant est mis en œuvre et finalisé au moins 18 mois avant la date d'entrée en vigueur des normes considérées. Au-delà, seul le dépassement des normes peut être aidé. [...] Dispositif : Travaux de maitrise et réduction des pollutions"
+      },
+      {
+        "champ": "taux (micropolluants)",
+        "url": "https://aides-redevances.eau-loire-bretagne.fr/home/aides/fiches-dispositif-12e-programme/ind/ind1-travaux-de-reduction-des-rejets-micropolluants-par-traiteme.html",
+        "date": "2026-09-24",
+        "extrait": "Travaux de réduction des rejets micropolluants par traitement. Taux d'aide 50 % majorable jusqu'à 70 % [...] le taux d'aide peut être porté de 50% à 70%."
+      },
+      {
+        "champ": "taux (autres travaux de réduction des pressions), description",
+        "url": "https://aides-redevances.eau-loire-bretagne.fr/home/aides/fiches-dispositif-12e-programme/ind/ind1-autres-travaux-de-reduction-des-pressions.html",
+        "date": "2026-09-24",
+        "extrait": "Autres travaux concourant à la réduction de la pression exercée par une activité économique non agricole sur le milieu récepteur (bassin de stockage d'eaux usées traitées, réfection de réseaux pour limiter les pertes ou pour déplacer des rejets vers des zones moins sensibles, réduction de la température de rejets impactants, réduction de la teneur en chlorures des effluents, etc.). Taux d'aide 25 %"
+      },
+      {
+        "champ": "infos_complementaires (priorisation 2026, annonce portée par la page QUA_1)",
+        "url": "https://aides-redevances.eau-loire-bretagne.fr/home/aides/fiches-dispositif-12e-programme/qua/qua1-etudes-et-travaux-de-reduction-des-besoins-en-eau.html",
+        "date": "2026-09-24",
+        "extrait": "En 2026, la capacité d'intervention de l'agence de l'eau est insuffisante pour faire face aux demandes inédites de financement. Le conseil d'administration du 12 mars 2026 a décidé de prioriser encore davantage ses interventions. Cela se traduit par l'adoption de mesures, dont la mise en suspens de certains dispositifs d'aide ou l'application d'un plafond d'aide, pour piloter financièrement le programme d'intervention."
+      }
+    ],
+    "date_maj": "2026-09-24"
+  },
+  {
+    "id": "AIDE_VIA_005",
+    "nom": "Activités industrielles et artisanat : réduction des pollutions (agence de l'eau Adour-Garonne, 12e programme)",
+    "financeur": "Agence de l'eau Adour-Garonne",
+    "logo_url": null,
+    "type": "subvention",
+    "taux": "De 30 à 80 % maximum selon la nature de l'opération. Études : 60 à 80 % selon statut. Traitement des macropolluants et micropolluants (dispositifs Rivage « Ouvrage épuratoire - Gestion des boues d'épuration - Autosurveillance » et « Activité vinicole/distillation ») : 30 % pour le traitement des macropolluants, 40 à 60 % selon le statut pour le traitement des micropolluants et pour les macropolluants rejetés dans une masse d'eau subissant une pression significative des activités économiques ou domestique (et/ou dans une des zones à enjeux « usages » du SDAGE). Aménagements internes (technologies propres) : 40 à 60 % selon statut. Traitement des eaux pluviales, ouvrages de sécurité et bassins de confinement : 40 à 60 % selon statut.",
+    "plafond": null,
+    "description": "Aide de l'agence de l'eau Adour-Garonne aux projets de réduction des pollutions industrielles et artisanales (macro et micropolluants), dans une approche préventive. Les solutions mises en avant sont de réduire ou supprimer les pollutions à la source, traiter les effluents, maîtriser les risques de pollutions accidentelles et les rejets pluviaux. Les opérations accompagnées sont les études, le traitement des macropolluants et micropolluants (ouvrage épuratoire, gestion des boues d'épuration, autosurveillance), les aménagements internes (technologies propres), le traitement des eaux pluviales et les ouvrages de sécurité et bassins de confinement.",
+    "eligibilite": "Personnes publiques ou privées (par exemple entreprise, collectivité, association, syndicat) exerçant une activité économique à caractère industriel, commercial et artisanal ou en lien avec de telles activités, hors secteur agricole et élevage (ou assimilé). Le projet doit être porté par une structure créée depuis plus de 2 ans (sauf continuité d'activité), s'inscrire dans un programme global de dépollution comprenant une réflexion en termes d'économie d'eau à l'échelle de l'établissement, et aboutir à une réduction de la pression du rejet sur la masse d'eau.",
+    "categories": [
+      "agir_rejets_qualite"
+    ],
+    "secteurs": [
+      "industrie_viande"
+    ],
+    "departements": [],
+    "agences": [
+      "AEAG"
+    ],
+    "mesures": [
+      "ACT_VIA_008"
+    ],
+    "infos_complementaires": [
+      {
+        "type": "avertissement",
+        "texte": "Ne sont pas éligibles les projets concernant des pollutions nouvelles (par exemple la création d'une entreprise), des travaux de renouvellement à l'identique, des sites et sols pollués, des activités de prestation de service (transport ou traitement d'effluents de tiers) et des études réglementaires."
+      },
+      {
+        "type": "info",
+        "texte": "Le projet doit s'inscrire dans un programme global de dépollution visant à respecter les objectifs auxquels l'établissement est soumis, notamment ceux du SDAGE, et comprenant une réflexion en termes d'économie d'eau à l'échelle de l'établissement. L'atteinte des objectifs est évaluée par des indicateurs définis avec l'agence, par exemple le respect des normes de rejet ou la réduction de pollution en pourcentage."
+      },
+      {
+        "type": "info",
+        "texte": "La demande se dépose sur la plateforme Rivage de l'agence, en sélectionnant la thématique « Lutte contre les pressions des activités économiques hors agriculture (réduction des pollutions, économies d'eau et eaux pluviales) » puis le dispositif correspondant à l'opération. Pour l'agroalimentaire, l'interlocuteur indiqué est Marc Pinel, chargé d'intervention industries, 05 61 36 82 19, marc.pinel@eau-adour-garonne.fr."
+      },
+      {
+        "type": "ressource",
+        "texte": "Fiche thématique de l'agence de l'eau Adour-Garonne (PDF)",
+        "lien": "https://eau-grandsudouest.fr/sites/default/files/2025-02/FICHE-THEMATIQUE_Industries_Pollutions.pdf"
+      },
+      {
+        "type": "ressource",
+        "texte": "Plateforme de dépôt des demandes d'aide Rivage",
+        "lien": "https://rivage.eau-adour-garonne.fr/appli/"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "nom, description",
+        "url": "https://eau-grandsudouest.fr/sites/default/files/2025-02/FICHE-THEMATIQUE_Industries_Pollutions.pdf",
+        "date": "2026-09-24",
+        "extrait": "Activités industrielles et artisanat : réduction des pollutions [...] Les projets de réduction des pollutions industrielles (macro et micropolluants) visent à contribuer au bon état des eaux en privilégiant une approche préventive, dans un contexte de changement climatique. [...] DES SOLUTIONS À ACTIONNER Réduire/supprimer les pollutions à la source Traiter les effluents Maîtriser les risques de pollutions accidentelles et rejets pluviaux"
+      },
+      {
+        "champ": "nom (12e programme)",
+        "url": "https://eau-grandsudouest.fr/sites/default/files/2025-02/FICHE-THEMATIQUE_Industries_Pollutions.pdf",
+        "date": "2026-09-24",
+        "extrait": "4 grandes priorités du 12e programme"
+      },
+      {
+        "champ": "taux, type, description (tableau « Les projets accompagnés », cellules séparées par |)",
+        "url": "https://eau-grandsudouest.fr/sites/default/files/2025-02/FICHE-THEMATIQUE_Industries_Pollutions.pdf",
+        "date": "2026-09-24",
+        "extrait": "NATURE DE L’OPÉRATION | DISPOSITIF RIVAGE CORRESPONDANT | TAUX D’AIDE MAXIMUM. Études | Études | 60 à 80 % selon statut. Traitement des macropolluants et micropolluants | Ouvrage épuratoire - Gestion des boues d’épuration - Autosurveillance Activité vinicole/distillation | 30 % : traitement des macropolluants 40 à 60 % selon le statut : traitement des micropolluants & traitement des macropolluants rejetés dans une masse d’eau subissant une pression significative des activités économiques ou domestique (et/ou dans une des zones à enjeux « usages » du SDAGE). Aménagements internes (technologies propres) | Technologie propre / aménagements internes | 40 à 60 % selon statut. Traitement des eaux pluviales | Travaux de lutte contre le risque de pollution accidentelle ou par temps de pluie | 40 à 60 % selon statut. Ouvrages de sécurité, bassins de confinement | Travaux de lutte contre le risque de pollution accidentelle ou par temps de pluie | 40 à 60 % selon statut. [...] Taux d’aide de 30 à 80 % max"
+      },
+      {
+        "champ": "eligibilite",
+        "url": "https://eau-grandsudouest.fr/sites/default/files/2025-02/FICHE-THEMATIQUE_Industries_Pollutions.pdf",
+        "date": "2026-09-24",
+        "extrait": "Les bénéficiaires sont des personnes publiques ou privées (à titre d’exemple : entreprise, collectivité, association, syndicat) exerçant une activité économique à caractère industriel, commercial et artisanal ou en lien avec de telles activités (hors secteur agricole et élevage (ou assimilé) traité dans la politique de lutte contre les pollutions agricoles). Les projets devront notamment : s’inscrire dans un programme global de dépollution comprenant une réflexion en termes d’économie d’eau à l’échelle de l’établissement [...] être portés par une structure créée depuis plus de 2 ans (sauf s’il y a continuité d’activité) aboutir à une réduction de la pression du rejet sur la masse d’eau"
+      },
+      {
+        "champ": "infos_complementaires (programme global, indicateurs)",
+        "url": "https://eau-grandsudouest.fr/sites/default/files/2025-02/FICHE-THEMATIQUE_Industries_Pollutions.pdf",
+        "date": "2026-09-24",
+        "extrait": "Les projets devront s’inscrire dans un programme global de dépollution visant à respecter les objectifs auxquels est soumis l’établissement, notamment ceux résultant des dispositions du Schéma directeur d’aménagement et de gestion des eaux (SDAGE) dans la zone concernée. [...] Ils pourraient porter par exemple sur : le respect des normes de rejet (flux et concentration) la réduction de pollution en pourcentage…"
+      },
+      {
+        "champ": "infos_complementaires (avertissement, opérations non éligibles)",
+        "url": "https://eau-grandsudouest.fr/sites/default/files/2025-02/FICHE-THEMATIQUE_Industries_Pollutions.pdf",
+        "date": "2026-09-24",
+        "extrait": "OPÉRATIONS NON ÉLIGIBLES Ne sont pas éligibles aux aides de l’Agence les projets concernant : des pollutions nouvelles (exemple : création d’une entreprise) des travaux de renouvellement à l’identique des sites et sols pollués (site orphelin, fermé ou en post-exploitation) des activités de prestation de service (transport et/ou traitement d’effluents de tiers) des études réglementaires"
+      },
+      {
+        "champ": "infos_complementaires (dépôt, contact)",
+        "url": "https://eau-grandsudouest.fr/sites/default/files/2025-02/FICHE-THEMATIQUE_Industries_Pollutions.pdf",
+        "date": "2026-09-24",
+        "extrait": "COMMENT DÉPOSER UNE AIDE ? 1. Sélectionner la thématique « Lutte contre les pressions des activités économiques hors agriculture (réduction des pollutions, économies d’eau et eaux pluviales) ». 2. Sélectionner l’un des dispositifs d’aide associé présenté dans le tableau ci-dessous. Lien vers la plateforme Rivage : rivage.eau-adour-garonne.fr/appli/ [...] Secteurs d’activités : Agro-Alimentaires / Golf / Activités commerciales Marc PINEL - Chargé d’intervention industries Tel direct : 05 61 36 82 19 marc.pinel@eau-adour-garonne.fr"
+      },
+      {
+        "champ": "mesures (ACT_VIA_008)",
+        "url": "https://eau-grandsudouest.fr/sites/default/files/2025-02/FICHE-THEMATIQUE_Industries_Pollutions.pdf",
+        "date": "2026-09-24",
+        "extrait": "Traiter les effluents [...] Traitement des macropolluants et micropolluants | Ouvrage épuratoire - Gestion des boues d’épuration - Autosurveillance | 30 % : traitement des macropolluants"
+      }
+    ],
+    "date_maj": "2026-09-24"
+  },
+  {
+    "id": "AIDE_VIA_006",
+    "nom": "IND1, réduction des pollutions de nature industrielle (agence de l'eau Rhône Méditerranée Corse, 12e programme)",
+    "financeur": "Agence de l'eau Rhône Méditerranée Corse",
+    "logo_url": null,
+    "type": "subvention",
+    "taux": "Taux maximaux : 40 % pour les études et travaux visant à réduire les émissions de pollutions (micropolluants ou macropolluants), 50 % pour les projets de recherche et développement visant à réduire les émissions de micropolluants. Ces taux sont majorés en fonction de la taille de l'entreprise : +10 % pour les moyennes entreprises, +20 % pour les petites entreprises.",
+    "plafond": null,
+    "description": "Fiche aide IND1 du 12e programme de l'agence de l'eau Rhône Méditerranée Corse, version 1 adoptée par le conseil d'administration du 19 décembre 2024 (délibération 2024-58), dont l'objectif est d'améliorer la qualité des eaux des milieux. Elle finance les études et travaux visant à réduire les pollutions par les macropolluants et les micropolluants, notamment la réduction à la source (mise en place de technologie propre), la mise en place de dispositifs d'épuration associée ou non à la réutilisation d'eaux usées traitées sur le site, la réduction des pollutions issues du ruissellement des eaux pluviales (traitement et réutilisation) et toute autre mesure permettant de réduire significativement les rejets. Elle finance aussi les travaux de réduction des pollutions par les plastiques (dispositifs de limitation des fuites de microbilles et biomédias) et les projets de recherche et développement visant à réduire les micropolluants.",
+    "eligibilite": "Acteurs économiques non agricoles (industries, sociétés, entreprises, coopératives) et organismes de recherche, sur tous les territoires des bassins Rhône-Méditerranée et de Corse. Le projet ne doit pas répondre à une mise en demeure par arrêté préfectoral. Pour la réduction des émissions de macropolluants, le coût prévisionnel du projet présenté dans la demande d'aide doit être supérieur à 50 000 €.",
+    "categories": [
+      "agir_rejets_qualite"
+    ],
+    "secteurs": [
+      "industrie_viande"
+    ],
+    "departements": [],
+    "agences": [
+      "AERMC"
+    ],
+    "mesures": [
+      "ACT_VIA_008",
+      "ACT_VIA_007"
+    ],
+    "infos_complementaires": [
+      {
+        "type": "avertissement",
+        "texte": "Pour la réduction des émissions de macropolluants (matières en suspension, matières organiques, azote, phosphore, sels solubles dont les chlorures), les projets ne sont éligibles que si leur coût prévisionnel présenté dans la demande d'aide est supérieur à 50 000 €. En dessous de ce montant, un projet de réduction des macropolluants n'entre pas dans ce dispositif."
+      },
+      {
+        "type": "avertissement",
+        "texte": "Le projet ne doit pas répondre à une mise en demeure par arrêté préfectoral. Il doit aussi aller au-delà des normes communautaires en vigueur s'il en existe, et ne pas être porté par une entreprise en difficulté financière au sens de la réglementation européenne ; ces deux dernières conditions ne s'appliquent pas lorsque l'aide est apportée au titre d'un règlement de minimis, ce qui est le cas prioritaire."
+      },
+      {
+        "type": "avertissement",
+        "texte": "Ne sont pas éligibles, entre autres : les études opérationnelles et dispositifs d'autosurveillance seuls, non intégrés à un projet de travaux ; les campagnes d'analyses seules ; les investissements réglementaires qui ne concourent pas directement à la réduction des pollutions (étude d'impact des rejets, étude d'épandage, campagne d'analyses réglementaires) ; les investissements liés à des pollutions nouvelles (création ou accroissement d'activité), sauf dans une démarche territoriale substances ; les projets visant la pollution domestique des entreprises ; les pollutions non significatives ou non quantifiées ; le renouvellement à l'identique ; le traitement des eaux pluviales des zones de stationnement et voies de circulation."
+      },
+      {
+        "type": "avertissement",
+        "texte": "Secteur pêche et aquaculture : hors règlement de minimis, le bénéficiaire doit être une PME et le taux d'aide ne peut dépasser 50 %, indépendamment de la taille de la PME. Si votre atelier transforme du poisson, des crustacés ou des coquillages, faites confirmer par l'agence si cette règle s'applique à votre projet."
+      },
+      {
+        "type": "avertissement",
+        "texte": "La demande d'aide doit être formellement transmise à l'agence avant l'engagement du projet. Le non-respect de cette disposition entraîne le rejet de la demande, sauf notamment accord écrit préalable de l'agence pour engager les travaux, opération inscrite au plan d'action d'un contrat signé avec l'agence, ou actions préalables nécessaires à la préparation du dossier ou à la définition des travaux."
+      },
+      {
+        "type": "info",
+        "texte": "La fiche IND1 écrit la majoration de taille sous la forme « +10 % » et « +20 % » sans préciser s'il s'agit de points de taux ou d'une majoration proportionnelle. Faites confirmer le calcul par l'agence avant d'arrêter un prévisionnel."
+      },
+      {
+        "type": "info",
+        "texte": "Le renouvellement d'ouvrages est éligible dès lors qu'il est démontré que le projet présente un gain environnemental significatif entre les situations avant et après travaux."
+      },
+      {
+        "type": "info",
+        "texte": "Pour les eaux pluviales, la priorité va aux mesures qui évitent leur contamination, notamment la couverture des zones où se concentrent les pollutions et la séparation des réseaux eaux pluviales et eaux usées. Les travaux de stockage et de traitement des eaux pluviales avant rejet sont éligibles dans la limite d'un montant d'aide de 60 000 €."
+      },
+      {
+        "type": "info",
+        "texte": "Les projets de réutilisation des eaux usées traitées sur un même site sont considérés comme du recyclage : les modalités de la fiche aide relative à la REUT ne s'y appliquent pas."
+      },
+      {
+        "type": "info",
+        "texte": "Pour un dispositif d'autosurveillance, le bénéficiaire doit communiquer les résultats obtenus à l'agence pour le calcul de la redevance. Au solde de l'aide, l'agence demande la publicité de son soutien pour tout projet, la validation technique des dispositifs d'autosurveillance par un organisme habilité ou par l'agence pour les projets qui les touchent, et le rapport d'étude avec la fiche type de rendu pour les études préalables aux travaux."
+      },
+      {
+        "type": "ressource",
+        "texte": "Fiche aide IND1, réduction des pollutions de nature industrielle (délibération 2024-58)",
+        "lien": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/ind1-reductions-pollutions-industrielles.pdf"
+      },
+      {
+        "type": "ressource",
+        "texte": "Page de la fiche IND1 sur le site de l'agence",
+        "lien": "https://www.eaurmc.fr/jcms/pro_128878/fr/ind1-reduction-des-pollutions-de-nature-industrielle"
+      },
+      {
+        "type": "ressource",
+        "texte": "Conditions générales d'attribution et de versement des aides du 12e programme (délibération 2024-77)",
+        "lien": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-02/conditions-generales.pdf"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "nom, description",
+        "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/ind1-reductions-pollutions-industrielles.pdf",
+        "date": "2026-09-24",
+        "extrait": "Version 1 adoptée par le conseil d'administration du 19 décembre 2024. Délibération 2024-58. Bassin Rhône-Méditerranée. Bassin de Corse. IND1 - Réduction des pollutions de nature industrielle. OBJECTIFS : Améliorer la qualité des eaux des milieux."
+      },
+      {
+        "champ": "taux",
+        "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/ind1-reductions-pollutions-industrielles.pdf",
+        "date": "2026-09-24",
+        "extrait": "TYPES D'ACTIONS / TAUX MAXIMUM. Études et travaux visant à réduire les émissions de pollutions (micropolluants/macropolluants) 40% *. Projets de recherche et développement visant à réduire les émissions de micropolluants 50% *. * Majoration en fonction de la taille de l'entreprise : +10 % pour les moyennes entreprises, +20% pour les petites entreprises."
+      },
+      {
+        "champ": "eligibilite",
+        "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/ind1-reductions-pollutions-industrielles.pdf",
+        "date": "2026-09-24",
+        "extrait": "BÉNÉFICIAIRES ÉLIGIBLES : Acteurs économiques non agricoles (industries, sociétés, entreprises, coopératives…) ; Organismes de recherche. TERRITOIRES ÉLIGIBLES : Tous les territoires des bassins Rhône-Méditerranée et de Corse."
+      },
+      {
+        "champ": "description, mesures (ACT_VIA_007 : réduction à la source ; ACT_VIA_008 : dispositifs d'épuration)",
+        "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/ind1-reductions-pollutions-industrielles.pdf",
+        "date": "2026-09-24",
+        "extrait": "ACTIONS ET DÉPENSES ÉLIGIBLES : Études et travaux visant à réduire les pollutions par les macropolluants et les micropolluants, notamment : > Réduction à la source (mise en place de technologie propre) ; > Mise en place de dispositifs d'épuration associé ou non à la mise en œuvre de la réutilisation d'eaux usées traitées sur le site ; > Réduction des pollutions issues du ruissellement des eaux pluviales (traitement et réutilisation) ; > Toute autre mesure permettant de réduire significativement les rejets. Travaux de réduction des pollutions par les plastiques avec la mise en œuvre de dispositifs de limitation des fuites de microbilles et biomédias. Projets de R&D : études amont, pilotes de laboratoire et installations de démonstration permettant de réduire les micropolluants."
+      },
+      {
+        "champ": "infos_complementaires (dépenses non éligibles)",
+        "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/ind1-reductions-pollutions-industrielles.pdf",
+        "date": "2026-09-24",
+        "extrait": "ACTIONS ET DÉPENSES NON ÉLIGIBLES : Etudes opérationnelles et dispositifs d'autosurveillance seuls, non intégrés à un projet de travaux. Campagnes d'analyses seules (non intégrées à une étude plus globale). Investissements réglementaires qui ne concourent pas directement, ou qui ne sont pas indispensables, à l'atteinte de l'objectif de réduction des pollutions (exemple : étude d'impact des rejets, étude d'épandage, campagne d'analyses règlementaires...). Investissements en lien avec des pollutions nouvelles (création ou accroissement d'activité) sauf dans le cadre d'une démarche territoriale substances (cf. fiche dédiée). Investissements visant la dépollution de sites et sols pollués. Projets visant à réduire la pollution domestique des entreprises. Projets visant à réduire les pollutions, par les macropolluants ou les micropolluants, non significatives ou non quantifiées [...]. Renouvellement à l'identique. Traitement des eaux pluviales issues des zones de stationnement et voies de circulation."
+      },
+      {
+        "champ": "eligibilite, infos_complementaires (mise en demeure, normes communautaires, de minimis, renouvellement d'ouvrage)",
+        "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/ind1-reductions-pollutions-industrielles.pdf",
+        "date": "2026-09-24",
+        "extrait": "CONDITIONS D'AIDES. Conditions pour tous projets : Conformément à l'encadrement européen des aides d'Etat, les projets : ne doivent pas répondre à une mise en demeure par arrêté préfectoral ; doivent aller au-delà des normes communautaires en vigueur s'il en existe* ; ne doivent pas être portés par des entreprises « en difficulté financière » (au sens de la règlementation UE)*. * Ne s'applique pas lorsque l'aide est apportée au titre d'un règlement « de minimis ». [...] Renouvellement d'ouvrage : Le renouvellement d'ouvrages est éligible dès lors qu'il est démontré que le projet présente un gain environnemental significatif entre les situations avant et après travaux."
+      },
+      {
+        "champ": "eligibilite, infos_complementaires (seuil macropolluants, eaux pluviales, autosurveillance)",
+        "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/ind1-reductions-pollutions-industrielles.pdf",
+        "date": "2026-09-24",
+        "extrait": "Réduction des pollutions issues du ruissellement des eaux pluviales : La priorité est donnée aux mesures visant à éviter la contamination des eaux pluviales, notamment la couverture des zones où se concentrent les pollutions, et la séparation des réseaux eaux pluviales/eaux usées. Les travaux visant à limiter les impacts liés au rejet final de ces eaux dans le milieu (stockage et traitement des eaux pluviales avant rejet) sont éligibles dans la limite d'un montant d'aide de 60 000 €. Dispositif d'autosurveillance : Le bénéficiaire doit communiquer les résultats obtenus à l'agence de l'eau pour le calcul de la redevance. Réduction des émissions de macropolluants : Les projets sont éligibles uniquement si le coût prévisionnel du projet présenté dans la demande d'aide est supérieur à 50 000 €."
+      },
+      {
+        "champ": "infos_complementaires (REUT sur site, pêche et aquaculture, de minimis prioritaire)",
+        "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/ind1-reductions-pollutions-industrielles.pdf",
+        "date": "2026-09-24",
+        "extrait": "REUT : Les projets visant à réutiliser les eaux usées traitées sur un même site sont considérés comme du recyclage. A ce titre les modalités définies dans la fiche aide relative à la REUT ne s'appliquent pas. Secteur pêche/aquaculture : Conformément à l'encadrement européen des aides d'Etat, hors règlement « de minimis », le bénéficiaire doit être une PME et le taux d'aide ne peut dépasser 50% (indépendamment de la taille de la PME). MODALITÉ DE CALCUL DES AIDES [...] L'aide est apportée prioritairement au titre d'un règlement « de minimis »."
+      },
+      {
+        "champ": "infos_complementaires (conditions de solde)",
+        "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/ind1-reductions-pollutions-industrielles.pdf",
+        "date": "2026-09-24",
+        "extrait": "CONDITIONS DE SOLDE DE L'AIDE. Pour tout projet : Publicité des aides de l'agence selon les modalités précisées dans la fiche relative aux conditions générales. Pour les projets ayant un impact sur les équipements d'autosurveillance : Validation technique des dispositifs d'autosurveillance des industriels par un organisme habilité ou l'agence de l'eau [...] Pour les études préalables aux travaux : Fourniture du rapport d'étude et de la fiche type de rendu."
+      },
+      {
+        "champ": "infos_complementaires (définition des macropolluants)",
+        "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/ind1-reductions-pollutions-industrielles.pdf",
+        "date": "2026-09-24",
+        "extrait": "Macropolluants : Ensemble comprenant les matières en suspension, les matières organiques (paramètres DCO, DBO5, COT), les nutriments comme l'azote et le phosphore, les sels solubles (notamment chlorures)."
+      },
+      {
+        "champ": "type, infos_complementaires (dépôt avant engagement)",
+        "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-02/conditions-generales.pdf",
+        "date": "2026-09-24",
+        "extrait": "Conditions générales d'attribution et de versement des aides. Version 1 adoptée par le conseil d'administration du 19 décembre 2024. Délibération 2024-77. [...] Les aides sont attribuées sous forme de subventions, soit proportionnelles à l'assiette retenue pour le projet, soit forfaitaires pour les interventions prévues sous cette forme. [...] Une demande d'aide doit être formellement transmise à l'agence avant l'engagement du projet considéré. Le non-respect de cette disposition entraîne le rejet de la demande d'aide, sauf dans les cas suivants : accord écrit préalable de l'agence pour engager les travaux avant le dépôt formel de la demande ; opérations inscrites dans le plan d'action d'un contrat signé avec l'agence (ou validé par la commission des aides ou le directeur général) : dans ce cas, la demande d'aide demeure obligatoire ; actions préalables, nécessaires à la préparation du dossier de demande d'aide, ou à la définition des travaux pour les aides relatives à des travaux"
+      },
+      {
+        "champ": "infos_complementaires (ressource page IND1)",
+        "url": "https://www.eaurmc.fr/jcms/pro_128695/fr/industries-et-autres-activites-economiques",
+        "date": "2026-09-24",
+        "extrait": "Industries et autres activités économiques. [...] CONSULTER LES FICHES AIDE [...] IND1 - Réduction des pollutions de nature industrielle"
+      }
+    ],
+    "date_maj": "2026-09-24"
+  },
+  {
+    "id": "AIDE_VIA_007",
+    "nom": "Prise en charge des formations du catalogue de l'offre régionale OCAPIAT, dont la réduction et la réutilisation de l'eau",
+    "financeur": "OCAPIAT, opérateur de compétences (OPCO) de la coopération agricole, de l'agriculture, de la pêche, de l'industrie agroalimentaire et des territoires",
+    "logo_url": null,
+    "type": "subvention",
+    "taux": "100 % des coûts pédagogiques pour les entreprises de moins de 50 salariés ; jusqu'à 100 % pour les entreprises du secteur alimentaire de 50 salariés et plus",
+    "plafond": "Entreprises de 50 salariés et plus : 5 stagiaires par an et par entreprise pour les demandes reçues à compter du 13 mai 2026. Moins de 50 salariés : sans quota de stagiaires, dans la limite des fonds disponibles",
+    "description": "OCAPIAT finance, sur ses fonds mutualisés au titre du plan de développement des compétences, plus de 3 500 formations courtes de son catalogue régional, en présentiel, à distance ou en format mixte. Le catalogue comprend des formations sur l'eau en industrie agroalimentaire : « Réduction et réutilisation de l'eau dans les industries agroalimentaires » et « Réduction et réutilisation de l'eau », d'une durée de 7 heures, qui portent sur le diagnostic eau de l'entreprise, les opérations de nettoyage, la réutilisation de l'eau et la mise en place d'un plan de sobriété eau.",
+    "eligibilite": "Entreprises relevant du périmètre d'OCAPIAT, c'est-à-dire d'une branche professionnelle adhérente (dont les industries des viandes, les industries charcutières, les industries de la volaille, les exploitations frigorifiques et les coopératives bétail et viande). Priorité aux entreprises de moins de 50 salariés ; accès sur contribution volontaire pour les entreprises de 50 salariés et plus.",
+    "categories": [
+      "sensibiliser_former"
+    ],
+    "secteurs": [
+      "industrie_viande"
+    ],
+    "departements": [],
+    "agences": [],
+    "mesures": [
+      "ACT_VIA_001",
+      "ACT_AGR_009"
+    ],
+    "infos_complementaires": [
+      {
+        "type": "avertissement",
+        "texte": "Le catalogue n'est accessible qu'aux entreprises du périmètre d'OCAPIAT, déterminé par la convention collective. Vérifiez votre code IDCC sur le site d'OCAPIAT avant toute inscription.",
+        "lien": "https://www.ocapiat.fr/verifier-par-secteur-lappartenance-dune-entreprise-a-ocapiat/",
+        "lien_label": "Vérifier l'appartenance à OCAPIAT"
+      },
+      {
+        "type": "avertissement",
+        "texte": "Entreprises de 50 salariés et plus du secteur alimentaire : pour toute demande reçue à compter du 13 mai 2026, la prise en charge au titre du catalogue est limitée à 5 stagiaires par an et par entreprise (contre 20 auparavant). Réservez ces places aux formations les plus utiles, par exemple celles sur l'eau.",
+        "lien": "https://www.ocapiat.fr/formations-catalogue-secteur-alimentaire-entreprises-50-salaries-et-plus-le-financement-evolue/",
+        "lien_label": "Annonce d'OCAPIAT du 21 mai 2026"
+      },
+      {
+        "type": "info",
+        "texte": "Formations sur l'eau référencées au catalogue : « Réduction et réutilisation de l'eau dans les industries agroalimentaires » (CTCPA Paris, Île-de-France) et « Réduction et réutilisation de l'eau » (ISARA et CRITT Agro-Alimentaire PACA, Provence-Alpes-Côte d'Azur). Leurs programmes couvrent le diagnostic eau de l'entreprise, un focus sur les opérations de nettoyage et la mise en place d'un plan de sobriété eau. Vérifiez les sessions ouvertes sur le portail avant de vous organiser."
+      },
+      {
+        "type": "info",
+        "texte": "Vous recherchez la formation sur le portail de l'offre régionale, puis vous inscrivez en ligne votre salarié, ou vous mandatez un centre de formation référencé, sous réserve de son accord. Si la formation recherchée n'est pas au catalogue, votre conseiller OCAPIAT peut étudier d'autres solutions."
+      },
+      {
+        "type": "info",
+        "texte": "Pour les salariés de 50 ans et plus, OCAPIAT prend aussi en charge la rémunération à hauteur de 12 € stagiaire, dans la limite du montant des coûts pédagogiques pris en charge."
+      },
+      {
+        "type": "ressource",
+        "texte": "Page du catalogue de formations et de son financement sur le site d'OCAPIAT",
+        "lien": "https://www.ocapiat.fr/catalogue-de-formations-et-financement/"
+      },
+      {
+        "type": "ressource",
+        "texte": "Portail de recherche et d'inscription de l'offre régionale OCAPIAT",
+        "lien": "https://offredeformation.ocapiat.fr/catalogui/#/home"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "financeur",
+        "url": "https://www.ocapiat.fr/catalogue-de-formations-et-financement/",
+        "date": "2026-09-24",
+        "extrait": "OCAPIAT est l’Opérateur de Compétences (OPCO) pour la Coopération agricole, l’Agriculture, la Pêche, l’Industrie Agroalimentaire et les Territoires."
+      },
+      {
+        "champ": "eligibilite",
+        "url": "https://www.ocapiat.fr/catalogue-de-formations-et-financement/",
+        "date": "2026-09-24",
+        "extrait": "Le catalogue de formation de l’offre régionale est accessible : Uniquement aux entreprises du périmètre d’OCAPIAT. Prioritairement aux entreprises < 50 salariés. Sur contribution volontaire, aux entreprises de 50 salariés et plus."
+      },
+      {
+        "champ": "type, taux, description",
+        "url": "https://www.ocapiat.fr/catalogue-de-formations-et-financement/",
+        "date": "2026-09-24",
+        "extrait": "Financement sur fonds mutualisés d’OCAPIAT au titre du dispositif plan de développement des compétences. Coûts pédagogiques financés à 100 % pour les entreprises de moins de 50 salariés."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.ocapiat.fr/catalogue-de-formations-et-financement/",
+        "date": "2026-09-24",
+        "extrait": "Prise en charge de la rémunération pour les salariés expérimentés (50 ans et plus) à hauteur de 12€ stagiaire. Prise en charge des salaires plafonnée au montant des coûts pédagogiques pris en charge par l’OPCO."
+      },
+      {
+        "champ": "description",
+        "url": "https://www.ocapiat.fr/catalogue-de-formations-et-financement/",
+        "date": "2026-09-24",
+        "extrait": "D’accéder à plus de 3 500 formations de courte durée sélectionnées par OCAPIAT. [...] Sous différents formats : présentiel, distanciel ou mixte (présentiel + distanciel)."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.ocapiat.fr/catalogue-de-formations-et-financement/",
+        "date": "2026-09-24",
+        "extrait": "J’inscris en ligne mon salarié via le portail de l’offre régionale ou j’ai la possibilité de mandater un centre de formation référencé sur l’offre régionale sous réserve de son accord. [...] L’entreprise peut contacter son conseiller OCAPIAT pour explorer d’autres solutions ou formations non listées dans le catalogue."
+      },
+      {
+        "champ": "taux, plafond, infos_complementaires",
+        "url": "https://www.ocapiat.fr/formations-catalogue-secteur-alimentaire-entreprises-50-salaries-et-plus-le-financement-evolue/",
+        "date": "2026-09-24",
+        "extrait": "Parmi les dispositifs proposés, la prise en charge jusqu’à 100 % des coûts pédagogiques au titre du catalogue OCAPIAT, dans la limite de 20 salariés par entreprise et par an, rencontre un franc succès."
+      },
+      {
+        "champ": "plafond, infos_complementaires",
+        "url": "https://www.ocapiat.fr/formations-catalogue-secteur-alimentaire-entreprises-50-salaries-et-plus-le-financement-evolue/",
+        "date": "2026-09-24",
+        "extrait": "Pour toute demande effectuée par une entreprise de 50 salariés et plus, reçue à compter du 13 mai 2026, un nouveau plafond de 5 stagiaires par an et par entreprise s’applique (contre 20 salariés auparavant)."
+      },
+      {
+        "champ": "plafond",
+        "url": "https://www.ocapiat.fr/formations-catalogue-secteur-alimentaire-entreprises-50-salaries-et-plus-le-financement-evolue/",
+        "date": "2026-09-24",
+        "extrait": "Les entreprises de moins de 50 salariés ne sont pas concernées par cette limitation et peuvent continuer à utiliser le catalogue dans la limite des fonds disponibles au titre du plan de développement des compétences, et sans limitation ou quota de stagiaires bénéficiaires."
+      },
+      {
+        "champ": "eligibilite, infos_complementaires",
+        "url": "https://www.ocapiat.fr/verifier-par-secteur-lappartenance-dune-entreprise-a-ocapiat/",
+        "date": "2026-09-24",
+        "extrait": "Votre n° de convention collective relève-t-il du champ de compétences d'OCAPIAT ? Saisissez votre code IDCC : [...] Toute entreprise, salarié, association, syndicat… appartenant à nos branches professionnelles adhérentes peut bénéficier des services d’OCAPIAT."
+      },
+      {
+        "champ": "eligibilite",
+        "url": "https://www.ocapiat.fr/verifier-par-secteur-lappartenance-dune-entreprise-a-ocapiat/",
+        "date": "2026-09-24",
+        "extrait": "Secteur alimentaire [...] Industries Charcutières Industries Exploitations frigorifiques [...] Industries Volaille Industries Viandes [...] Coopératives Bétail et Viande"
+      },
+      {
+        "champ": "description, infos_complementaires",
+        "url": "https://mission-transition-ecologique.beta.gouv.fr/aides-entreprise/formations-ocapiat",
+        "date": "2026-09-24",
+        "extrait": "Formez vos salariés à la transition écologique [...] Au programme : Maîtrise des épandages organiques. De la vigne aux vins bio. Découvrir l'agroforesterie en cultures et en élevage. Réduction et réutilisation de l'eau."
+      },
+      {
+        "champ": "description, infos_complementaires",
+        "url": "https://wspub.ocapiat.fr/wsapicatalog/api/Formations/40937",
+        "date": "2026-09-24",
+        "extrait": "\"libelle\":\"Réduction et réutilisation de l 'eau dans les industries agroalimentaires\" [...] \"libelle\":\"CTCPA PARIS\" [...] \"region\":{\"id\":11,\"libelle\":\"Île-de-France\"} [...] \"duree\":7.0"
+      },
+      {
+        "champ": "description, infos_complementaires, mesures (ACT_VIA_001, ACT_AGR_009)",
+        "url": "https://wspub.ocapiat.fr/wsapicatalog/api/Formations/39464",
+        "date": "2026-09-24",
+        "extrait": "Recueillir des informations sur la consommation d'eau : quel niveau de détail, par atelier ?, par activité ?. Focus sur les opérations de nettoyage. [...] Recherche en transversal dans l'entreprise de solutions d'amélioration du bilan eau (fuites, consommations excessives, réutilisation possible, [...] Présentation du plan d'actions établi pendant la formation."
+      },
+      {
+        "champ": "description, infos_complementaires",
+        "url": "https://wspub.ocapiat.fr/wsapicatalog/api/Formations/39464",
+        "date": "2026-09-24",
+        "extrait": "\"libelle\":\"Réduction et réutilisation de l 'eau\" [...] \"libelle\":\"ISARA\" [...] \"region\":{\"id\":93,\"libelle\":\"Provence-Alpes-Côte d'Azur\"} [...] \"duree\":7.0"
+      },
+      {
+        "champ": "description, infos_complementaires, mesures (ACT_AGR_009)",
+        "url": "https://wspub.ocapiat.fr/wsapicatalog/api/Formations/42750",
+        "date": "2026-09-24",
+        "extrait": "Réaliser un diagnostic eau, connaître le contexte règlementaire de l'utilisation et de la réutilisation de l'eau dans les entreprises Mettre en place et piloter un plan de sobriété eau"
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://wspub.ocapiat.fr/wsapicatalog/api/Formations/42750",
+        "date": "2026-09-24",
+        "extrait": "\"libelle\":\"CRITT AGRO ALIMENTAIRE PACA\" [...] \"region\":{\"id\":93,\"libelle\":\"Provence-Alpes-Côte d'Azur\"} [...] \"duree\":7.0"
+      }
+    ],
+    "date_maj": "2026-09-24"
+  },
+  {
+    "id": "AIDE_VIA_008",
+    "nom": "Transformation des produits de la pêche et de l'aquaculture (Région Nouvelle-Aquitaine, FEAMPA)",
+    "financeur": "Région Nouvelle-Aquitaine (crédits européens FEAMPA et crédits régionaux)",
+    "logo_url": null,
+    "type": "subvention",
+    "taux": "25 % maximum du coût de l'investissement",
+    "plafond": "75 000 € d'aides publiques au maximum, 5 000 € au minimum",
+    "description": "Subvention régionale, financée par le FEAMPA (70 %) et la Région (30 %), qui soutient les projets de création, de modernisation, de développement ou d'adaptation des activités de transformation ou de conservation des produits de la pêche et de l'aquaculture. Seuls les frais externes d'investissement (matériel, équipement, travaux) facturés au bénéficiaire et amortis par lui sont éligibles. L'économie d'énergie ou d'eau fait partie des critères de notation des dossiers.",
+    "eligibilite": "Petites entreprises de moins de 10 ETP ayant une activité de mareyage, de transformation ou de conservation des produits de la pêche ou de l'aquaculture, n'ayant pas encore bénéficié d'une aide FEAMPA à l'échelle régionale, pour un site situé en Nouvelle-Aquitaine. L'achat doit être supérieur à 20 000 € HT.",
+    "categories": [],
+    "secteurs": [
+      "industrie_viande"
+    ],
+    "departements": [
+      "16",
+      "17",
+      "19",
+      "23",
+      "24",
+      "33",
+      "40",
+      "47",
+      "64",
+      "79",
+      "86",
+      "87"
+    ],
+    "agences": [],
+    "mesures": [],
+    "infos_complementaires": [
+      {
+        "type": "avertissement",
+        "texte": "L'aide est réservée aux entreprises ayant une activité de mareyage, de transformation ou de conservation des produits de la pêche ou de l'aquaculture, et seules sont éligibles les opérations portant sur ces activités."
+      },
+      {
+        "type": "avertissement",
+        "texte": "Les dépenses ne sont éligibles qu'à compter de la date de réception de la demande d'aide : tout commencement de l'opération avant cette date, un acompte versé par exemple, rend la dépense concernée inéligible."
+      },
+      {
+        "type": "avertissement",
+        "texte": "Une seule demande d'aide par SIREN est recevable sur la programmation 2021-2027, et le bénéficiaire s'engage à ne pas solliciter d'autres financements publics pour le même projet."
+      },
+      {
+        "type": "avertissement",
+        "texte": "Ne sont notamment pas éligibles : l'entretien courant et le renouvellement à l'identique, le matériel d'occasion ou reconditionné, le leasing et le crédit-bail, l'autoconstruction, les raccordements aux réseaux d'eau, gaz et électricité, les frais de montage de dossier."
+      },
+      {
+        "type": "info",
+        "texte": "Les dossiers sont notés sur une grille (création d'atelier 10 points, projet de recherche, développement ou innovation 10, économie d'énergie ou d'eau 3, valorisation des coproduits ou diminution des déchets 3, sécurité, hygiène et conditions de travail 2, produits pêchés ou élevés principalement en Nouvelle-Aquitaine 2). Le projet doit obtenir au moins 7 points."
+      },
+      {
+        "type": "info",
+        "texte": "Le dépôt se fait en ligne sur Mes Démarches en Nouvelle-Aquitaine (MDNA), au fil de l'eau, les dossiers complets étant instruits par ordre d'arrivée. Date limite de dépôt affichée par la Région au 24 septembre 2026 : 30 juin 2027. Contact : service Pêche et Aquaculture de la Région, peche-aquaculture@nouvelle-aquitaine.fr, ou le service Relation aux usagers au 05 49 38 49 38."
+      },
+      {
+        "type": "ressource",
+        "texte": "Page du dispositif sur le guide des aides de la Région Nouvelle-Aquitaine",
+        "lien": "https://les-aides.nouvelle-aquitaine.fr/economie-et-emploi/transformation-des-produits-de-la-peche-et-de-laquaculture"
+      },
+      {
+        "type": "ressource",
+        "texte": "Texte du dispositif (PDF) : bénéficiaires, dépenses inéligibles, grille de notation",
+        "lien": "https://les-aides.nouvelle-aquitaine.fr/system/files/specific_pj_files/Dispositif_0.pdf"
+      },
+      {
+        "type": "ressource",
+        "texte": "Guide du porteur de projet MDNA sur le site Europe en Nouvelle-Aquitaine : procédure de dépôt de la demande sur Mes Démarches en Nouvelle-Aquitaine",
+        "lien": "https://www.europe-en-nouvelle-aquitaine.eu/fr/le-depot-et-le-suivi-de-mon-dossier.html"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "financeur, description",
+        "url": "https://les-aides.nouvelle-aquitaine.fr/system/files/specific_pj_files/Dispositif_0.pdf",
+        "date": "2026-09-24",
+        "extrait": "Cet accompagnement s'inscrit dans le cadre de l'Objectif Spécifique (OS) 2.2 du Programme National pour la mise en œuvre du Fonds Européen pour les Affaires Maritimes, la Pêche et l'Aquaculture (FEAMPA) [...] Ce dispositif d'aide est financé sur crédits FEAMPA (70%) et Région (30%)."
+      },
+      {
+        "champ": "type, taux, plafond",
+        "url": "https://les-aides.nouvelle-aquitaine.fr/economie-et-emploi/transformation-des-produits-de-la-peche-et-de-laquaculture",
+        "date": "2026-09-24",
+        "extrait": "Taux d'intervention régionale : 25 % des dépenses Montant minimum d'aides publiques : 5 000 € Montant maximum d'aides publiques : 75 000 € [...] La subvention accordée est de 25% maximum du coût de mon investissement et plafonnée à 75 000 € dans la limite de l'enveloppe disponible."
+      },
+      {
+        "champ": "description",
+        "url": "https://les-aides.nouvelle-aquitaine.fr/economie-et-emploi/transformation-des-produits-de-la-peche-et-de-laquaculture",
+        "date": "2026-09-24",
+        "extrait": "Soutenir les projets de création, de modernisation, de développement, d'adaptation des activités de transformation et/ou conservation des produits de la pêche et de l'aquaculture."
+      },
+      {
+        "champ": "description",
+        "url": "https://les-aides.nouvelle-aquitaine.fr/system/files/specific_pj_files/Dispositif_0.pdf",
+        "date": "2026-09-24",
+        "extrait": "Sont éligibles uniquement les frais externes d'investissement (matériel, équipement, travaux), c'est-à-dire les frais faisant l'objet d'une facturation au bénéficiaire et dont le montant est amorti par le bénéficiaire de l'aide."
+      },
+      {
+        "champ": "eligibilite, infos_complementaires",
+        "url": "https://les-aides.nouvelle-aquitaine.fr/economie-et-emploi/transformation-des-produits-de-la-peche-et-de-laquaculture",
+        "date": "2026-09-24",
+        "extrait": "Les petites entreprises (<10 ETP - Equivalent temps plein) ayant une activité de mareyage, de transformation et/ou de conservation des produits de la pêche et/ou de l'aquaculture et n'ayant pas encore bénéficié d'une aide FEAMPA à l'échelle régionale."
+      },
+      {
+        "champ": "eligibilite",
+        "url": "https://les-aides.nouvelle-aquitaine.fr/economie-et-emploi/transformation-des-produits-de-la-peche-et-de-laquaculture",
+        "date": "2026-09-24",
+        "extrait": "Pour être éligible, mon achat doit être supérieur à 20 000 € HT"
+      },
+      {
+        "champ": "eligibilite, departements",
+        "url": "https://les-aides.nouvelle-aquitaine.fr/system/files/specific_pj_files/Dispositif_0.pdf",
+        "date": "2026-09-24",
+        "extrait": "Ce dispositif d'aide concerne uniquement les sites de transformation et/ou de conservation en Nouvelle-Aquitaine."
+      },
+      {
+        "champ": "departements",
+        "url": "https://les-aides.nouvelle-aquitaine.fr/economie-et-emploi/transformation-des-produits-de-la-peche-et-de-laquaculture",
+        "date": "2026-09-24",
+        "extrait": "Charente (16) Charente-Maritime (17) Corrèze (19) Creuse (23) Dordogne (24) Gironde (33) Landes (40) Lot-et-Garonne (47) Pyrénées-Atlantiques (64) Deux-Sèvres (79) Vienne (86) Haute-Vienne (87) Autre (hors Nouvelle-Aquitaine)"
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://les-aides.nouvelle-aquitaine.fr/system/files/specific_pj_files/Dispositif_0.pdf",
+        "date": "2026-09-24",
+        "extrait": "Sont éligibles uniquement les opérations portant sur la création, la modernisation, le développement ou l'adaptation des activités de transformation et/ou de conservation des produits de la pêche et de l'aquaculture et qui permettent un saut qualitatif/stratégique de l'activité de l'entreprise. Une seule demande d'aide par structure (SIREN) sera recevable sur la période de la programmation 2021-2027."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://les-aides.nouvelle-aquitaine.fr/system/files/specific_pj_files/Dispositif_0.pdf",
+        "date": "2026-09-24",
+        "extrait": "Les dépenses sont éligibles à compter de la date de réception de la demande d'aide. Tout commencement de l'opération (acompte(s) versé(s), etc.) avant la date de début d'éligibilité des dépenses rend la dépense concernée inéligible."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://les-aides.nouvelle-aquitaine.fr/system/files/specific_pj_files/Dispositif_0.pdf",
+        "date": "2026-09-24",
+        "extrait": "Engagement à ne pas solliciter, pour ce même projet, d'autres financements publics."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://les-aides.nouvelle-aquitaine.fr/system/files/specific_pj_files/Dispositif_0.pdf",
+        "date": "2026-09-24",
+        "extrait": "Le leasing, crédit-bail et assimilés [...] L'autoconstruction [...] L'entretien courant et le renouvellement à l'identique • Le matériel d'occasion et le matériel reconditionné [...] raccordement aux réseaux d'eau, gaz, électricité [...] Les frais de montage de dossiers"
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://les-aides.nouvelle-aquitaine.fr/system/files/specific_pj_files/Dispositif_0.pdf",
+        "date": "2026-09-24",
+        "extrait": "Les créations d'ateliers de transformation 10 Les projets de RDI donnant naissance à de nouveaux ou meilleurs produits, processus ou systèmes de gestion et d'organisation 10 Economie d'énergie/d'eau 3 Valorisation des co-produits / diminution des déchets 3 Sécurité, hygiène, santé et conditions de travail 2 Les opérations qui concernent la transformation ou la conservation de produits pêchés ou élevés principalement en Nouvelle-Aquitaine 2 Pour être éligible, le projet doit obtenir la note minimum de 7 points."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://les-aides.nouvelle-aquitaine.fr/system/files/specific_pj_files/Dispositif_0.pdf",
+        "date": "2026-09-24",
+        "extrait": "les dossiers dématérialisés sont à déposer sur la plateforme Mes Démarches en Nouvelle-Aquitaine (MDNA), et seront instruits au fil de l'eau. [...] Le dépôt des demandes d'aide se fait au fil de l'eau. Les dossiers complets sont instruits par ordre d'arrivée. [...] Contacts du service Pêche et Aquaculture de la Région Nouvelle-Aquitaine : peche-aquaculture@nouvelle-aquitaine.fr"
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://les-aides.nouvelle-aquitaine.fr/system/files/specific_pj_files/Dispositif_0.pdf",
+        "date": "2026-09-24",
+        "extrait": "Un « Guide du porteur de projet MDNA » explicite la procédure de dépôt de la demande et est accessible sur le site : https://www.europe-en-nouvelle-aquitaine.eu/fr/le-depot-et-le-suivi-de-mon-dossier.html"
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://les-aides.nouvelle-aquitaine.fr/economie-et-emploi/transformation-des-produits-de-la-peche-et-de-laquaculture",
+        "date": "2026-09-24",
+        "extrait": "Date limite dépôt des dossiers : 30 juin 2027 [...] Direction de l'agriculture des IAA et de la pêche Service Relation aux usagers 05 49 38 49 38"
+      }
+    ],
+    "date_maj": "2026-09-24"
+  },
+  {
+    "id": "AIDE_VIA_009",
+    "nom": "Appel à projets Innovations et pratiques sobres en eau en entreprise agroalimentaire (Région Pays de la Loire)",
+    "financeur": "Région des Pays de la Loire",
+    "logo_url": null,
+    "type": "subvention",
+    "taux": "Jusqu'à 35 % des dépenses éligibles pour les PME, 25 % pour les ETI",
+    "plafond": "Aide plafonnée à 80 000 €, pour une assiette plancher de 70 000 € de dépenses",
+    "description": "Subvention régionale aux projets de développement expérimental qui visent à réduire, réemployer et recycler l'eau aux différentes étapes du process de fabrication des produits alimentaires, en particulier la réutilisation d'eaux permise par le décret 2024-33 et l'arrêté du 8 juillet 2024. Les projets portent une étude de faisabilité, une expérimentation ou une preuve de concept, ou répondent à des besoins de recherche et d'innovation. Les dépenses éligibles comprennent les charges de personnel impliqué, les instruments et matériels de recherche, les consommables, les prestations d'études et les frais d'analyses.",
+    "eligibilite": "PME et ETI agroalimentaires porteuses du projet, dont le site concerné par le projet est situé en Pays de la Loire. Le projet doit relever du développement expérimental : les actions de diagnostic et d'évaluation des postes de consommation sont exclues.",
+    "categories": [
+      "valoriser_reut_eaux_non_conventionnelles",
+      "changer_process_pratiques"
+    ],
+    "secteurs": [
+      "industrie_viande"
+    ],
+    "departements": [
+      "44",
+      "49",
+      "53",
+      "72",
+      "85"
+    ],
+    "agences": [],
+    "mesures": [
+      "ACT_VIA_006"
+    ],
+    "infos_complementaires": [
+      {
+        "type": "avertissement",
+        "texte": "Un simple diagnostic ou une évaluation des postes de consommation ne sont pas éligibles : le projet doit relever du développement expérimental. Sont aussi exclus les projets déjà en partie réalisés ou ayant vocation à être financés dans un autre cadre."
+      },
+      {
+        "type": "avertissement",
+        "texte": "Ne sont pas éligibles l'acquisition de licences logicielles, les dépenses liées à des actions commerciales et toute marge bénéficiaire. Des devis sont à fournir pour les achats, charges externes et autres services extérieurs."
+      },
+      {
+        "type": "info",
+        "texte": "Pour la troisième relève, la page de la Région indique une date limite de dépôt au 31 décembre 2027, tandis que le cahier des charges publié sur la même page indique une ouverture le 01/07/2026 et une date limite au 31/12/2026. Vérifiez la date applicable auprès de la Région avant de déposer."
+      },
+      {
+        "type": "info",
+        "texte": "Le dossier (formulaire de demande, formulaire propre à l'appel à projets) s'envoie par mail à la Direction des agricultures, de la pêche et de l'agroalimentaire de la Région (dapa@paysdelaloire.fr). Il doit préciser les volumes et la nature des eaux utilisées et estimer les volumes économisés et les périodes d'économie. Les dossiers incomplets ne sont pas instruits ; la sélection se fait dans la limite du budget disponible, puis la Commission permanente décide. Durée maximale des projets : 24 mois."
+      },
+      {
+        "type": "info",
+        "texte": "L'appel à projets est mené en lien avec VALORIAL et AREA Pays de la Loire. Le cahier des charges vise un budget prévisionnel de 500 000 € approuvé en Commission permanente le 17 novembre 2023 pour les projets sobres en eau des entreprises agroalimentaires, et une délibération du Conseil régional du 25 juin 2026 approuvant l'appel à projets."
+      },
+      {
+        "type": "ressource",
+        "texte": "Page de l'appel à projets sur le site de la Région des Pays de la Loire",
+        "lien": "https://www.paysdelaloire.fr/les-aides/innovations-et-pratiques-sobres-en-eau-en-entreprise-agroalimentaire"
+      },
+      {
+        "type": "ressource",
+        "texte": "Cahier des charges de l'appel à projets (PDF)",
+        "lien": "https://www.paysdelaloire.fr/sites/default/files/aides/1fea8ee4-6c5c-11ef-a1d8-c77b8c27db1b/subvention_cahierdescharges-aap-eauaa_1fea8ee4_annexe-3.pdf"
+      },
+      {
+        "type": "ressource",
+        "texte": "Formulaire propre à l'appel à projets (Word)",
+        "lien": "https://www.paysdelaloire.fr/sites/default/files/aides/1fea8ee4-6c5c-11ef-a1d8-c77b8c27db1b/subvention_formulaireaapeau_1fea8ee4_annexe-2.docx"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "nom, description, categories",
+        "url": "https://www.paysdelaloire.fr/les-aides/innovations-et-pratiques-sobres-en-eau-en-entreprise-agroalimentaire",
+        "date": "2026-09-24",
+        "extrait": "Soutenir l’émergence d’expérimentations innovantes et de projets de mise en place de pratiques sobres en eau, aux différentes étapes du process de fabrication des produits alimentaires, visant à réduire, réemployer et recycler l’eau."
+      },
+      {
+        "champ": "description, mesures",
+        "url": "https://www.paysdelaloire.fr/sites/default/files/aides/1fea8ee4-6c5c-11ef-a1d8-c77b8c27db1b/subvention_cahierdescharges-aap-eauaa_1fea8ee4_annexe-3.pdf",
+        "date": "2026-09-24",
+        "extrait": "Cet AAP vise en particulier à accélérer, élargir et démocratiser le recours à la réutilisation d’eaux en vue de la préparation, de la transformation et de la conservation de denrées alimentaires destinées à l’alimentation humaine."
+      },
+      {
+        "champ": "description",
+        "url": "https://www.paysdelaloire.fr/sites/default/files/aides/1fea8ee4-6c5c-11ef-a1d8-c77b8c27db1b/subvention_cahierdescharges-aap-eauaa_1fea8ee4_annexe-3.pdf",
+        "date": "2026-09-24",
+        "extrait": "vient d’évoluer avec le décret 2024-33 du 24 janvier et l’arrêté du 8 juillet 2024 relatif aux conditions de production des eaux réutilisées et à leur usage dans les entreprises alimentaires"
+      },
+      {
+        "champ": "description, mesures",
+        "url": "https://www.paysdelaloire.fr/sites/default/files/aides/1fea8ee4-6c5c-11ef-a1d8-c77b8c27db1b/subvention_cahierdescharges-aap-eauaa_1fea8ee4_annexe-3.pdf",
+        "date": "2026-09-24",
+        "extrait": "Les projets devront porter une étude de faisabilité, une expérimentation ou une preuve de concept (besoin de tester ou déployer une technologie déjà existante, mais nécessitant des adaptations au cas particulier du secteur agroalimentaire, d’une filière agroalimentaire ou d’un site industriel spécifique), ou bien répondre à des besoins de recherche et d’innovation"
+      },
+      {
+        "champ": "description",
+        "url": "https://www.paysdelaloire.fr/sites/default/files/aides/1fea8ee4-6c5c-11ef-a1d8-c77b8c27db1b/subvention_cahierdescharges-aap-eauaa_1fea8ee4_annexe-3.pdf",
+        "date": "2026-09-24",
+        "extrait": "Charges de personnel interne à la structure, des agents directement impliqués dans le projet [...] Achats : instruments, matériels de recherche, et consommables [...] Ex. prestations d’études, frais d’analyses"
+      },
+      {
+        "champ": "eligibilite, departements, secteurs",
+        "url": "https://www.paysdelaloire.fr/sites/default/files/aides/1fea8ee4-6c5c-11ef-a1d8-c77b8c27db1b/subvention_cahierdescharges-aap-eauaa_1fea8ee4_annexe-3.pdf",
+        "date": "2026-09-24",
+        "extrait": "Les bénéficiaires sont des PME et des ETI agroalimentaires (porteur du projet), dont le site concerné par le projet est situé en Pays de la Loire."
+      },
+      {
+        "champ": "eligibilite, infos_complementaires",
+        "url": "https://www.paysdelaloire.fr/sites/default/files/aides/1fea8ee4-6c5c-11ef-a1d8-c77b8c27db1b/subvention_cahierdescharges-aap-eauaa_1fea8ee4_annexe-3.pdf",
+        "date": "2026-09-24",
+        "extrait": "Projet ne répondant pas aux attendus de ce t appel à projets et ne concernant pas du développement expérimental (actions de diagnostic, évaluation des postes de consommation) [...] Projet ayant vocation à être financé dans un autre cadre [...] Projet recouvrant un projet en cours ou déjà (en partie) réalisé par ailleurs"
+      },
+      {
+        "champ": "type, taux, plafond",
+        "url": "https://www.paysdelaloire.fr/sites/default/files/aides/1fea8ee4-6c5c-11ef-a1d8-c77b8c27db1b/subvention_cahierdescharges-aap-eauaa_1fea8ee4_annexe-3.pdf",
+        "date": "2026-09-24",
+        "extrait": "Le soutien prend la forme d’une subvention régionale maximale de 35 % pour PME et de 25 % pour les ETI, des dépenses éligibles. [...] L’assiette plancher est fixée à 70 000 €, le montant de l’aide est plafonné à 80 000 €."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.paysdelaloire.fr/sites/default/files/aides/1fea8ee4-6c5c-11ef-a1d8-c77b8c27db1b/subvention_cahierdescharges-aap-eauaa_1fea8ee4_annexe-3.pdf",
+        "date": "2026-09-24",
+        "extrait": "Les dépenses non-éligibles sont : l’acquisition de licences logicielles, les dépenses liées à des actions commerciales, toute marge bénéficiaire [...] des devis seront à fournir pour les achats, charges externes et autres services extérieurs."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.paysdelaloire.fr/les-aides/innovations-et-pratiques-sobres-en-eau-en-entreprise-agroalimentaire",
+        "date": "2026-09-24",
+        "extrait": "La troisième relève de l’appel à projets « Innovations et pratiques sobres en eau en entreprise agroalimentaire » suit le calendrier suivant : Date limite de dépôt des projets : 31 décembre 2027 Sélection des projets : dans la limite du budget disponible"
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.paysdelaloire.fr/sites/default/files/aides/1fea8ee4-6c5c-11ef-a1d8-c77b8c27db1b/subvention_cahierdescharges-aap-eauaa_1fea8ee4_annexe-3.pdf",
+        "date": "2026-09-24",
+        "extrait": "Ouverture de l’appel à projets : 01/07/2026 Date limite de dépôt des projets par mail : 31/12/2026 à 23:59 (dapa@paysdelaloire.fr) Les dossiers incomplets ne seront pas instruits."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.paysdelaloire.fr/les-aides/innovations-et-pratiques-sobres-en-eau-en-entreprise-agroalimentaire",
+        "date": "2026-09-24",
+        "extrait": "Le dossier déposé devra préciser les volumes et la nature des eaux actuellement utilisées, ainsi qu’estimer les volumes économisés (la différence entre les prélèvements et les rejets) et les périodes d’économie si le projet était mis en œuvre."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.paysdelaloire.fr/sites/default/files/aides/1fea8ee4-6c5c-11ef-a1d8-c77b8c27db1b/subvention_cahierdescharges-aap-eauaa_1fea8ee4_annexe-3.pdf",
+        "date": "2026-09-24",
+        "extrait": "La durée maximale des projets est de 24 mois. [...] Le projet doit être sélectionné par le jury, puis soumis à l’arbitrage concernant l’attribution de l’aide, avant d’être présenté à la Commission permanente du Conseil régional."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.paysdelaloire.fr/sites/default/files/aides/1fea8ee4-6c5c-11ef-a1d8-c77b8c27db1b/subvention_cahierdescharges-aap-eauaa_1fea8ee4_annexe-3.pdf",
+        "date": "2026-09-24",
+        "extrait": "VU la délibération de la Commission permanente du Conseil régional du 17 novembre 2023 approuvant le budget prévisionnel pour soutenir des projets sobres en eau port és par les entreprises agroalimentaires, dans le cadre du plan eau (500 000 € (AP)), VU la délibération du Conseil régional du 25 juin 2026 approuvant le présent appel à projets."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.paysdelaloire.fr/les-aides/innovations-et-pratiques-sobres-en-eau-en-entreprise-agroalimentaire",
+        "date": "2026-09-24",
+        "extrait": "En lien avec VALORIAL et AREA Pays de la Loire, la Région des Pays de la Loire lance un AAP pour accélérer les innovations et les pratiques sobres en eau."
+      }
+    ],
+    "date_maj": "2026-09-24"
+  },
+  {
+    "id": "AIDE_VIA_010",
+    "nom": "PASS Compétitivité IAA, investissement dans les industries agroalimentaires bretonnes (Région Bretagne, FEADER)",
+    "financeur": "Région Bretagne (crédits européens FEADER et crédits régionaux)",
+    "logo_url": null,
+    "type": "subvention",
+    "taux": null,
+    "plafond": null,
+    "description": "Subvention à l'investissement des entreprises agroalimentaires qui transforment, conditionnent et commercialisent des matières premières agricoles, pour du matériel productif sur leurs sites bretons. Les exemples de dépenses citent les matériels d'abattage, de découpe, de cuisson, de stérilisation et de lavage, ainsi que le matériel de process permettant des économies d'énergie, d'eau et de déchets.",
+    "eligibilite": "Entreprises agroalimentaires de transformation, de conditionnement ou de commercialisation de produits agricoles ou transformés, créations comprises, dont les produits finis vont majoritairement à l'alimentation humaine ou animale et dont la clientèle de particuliers est minoritaire. L'établissement du projet doit recevoir au moins 70 % de ses matières premières en produits de l'annexe I du TFUE, hors produits de la pêche et de l'aquaculture.",
+    "categories": [
+      "ameliorer_efficacite_hydrique"
+    ],
+    "secteurs": [
+      "industrie_viande"
+    ],
+    "departements": [
+      "22",
+      "29",
+      "35",
+      "56"
+    ],
+    "agences": [],
+    "mesures": [],
+    "infos_complementaires": [
+      {
+        "type": "avertissement",
+        "texte": "Les produits de la pêche et de l'aquaculture sont exclus : ils ne comptent pas dans les 70 % de matières premières de l'annexe I du TFUE exigés pour l'établissement. Un atelier qui transforme surtout du poisson, des crustacés ou des coquillages ne peut donc pas en bénéficier ; la viande (chapitre 2 de l'annexe I) est bien comprise."
+      },
+      {
+        "type": "avertissement",
+        "texte": "Les investissements liés au stockage ne sont pas éligibles."
+      },
+      {
+        "type": "info",
+        "texte": "Pour l'appel à projets n°2 (pré-demandes du 6 janvier 2025 au 30 janvier 2026), l'aide publique totale était comprise entre 150 000 €, ramenés à 100 000 € pour les PME, et 1 000 000 €. Vérifiez les montants et le calendrier de l'édition 2026 sur la page de la Région."
+      },
+      {
+        "type": "info",
+        "texte": "Le dossier se dépose sur Aiden, la plateforme dématérialisée de la Région Bretagne."
+      },
+      {
+        "type": "ressource",
+        "texte": "Page du PASS Compétitivité IAA 2026 sur le site de la Région Bretagne",
+        "lien": "https://www.bretagne.bzh/aides/fiches/pass-iaa-2026/"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "financeur, type",
+        "url": "https://web.archive.org/web/20251112201423/https://www.bretagne.bzh/aides/fiches/pass-competitivite-iaa-investissement-dans-les-industries-agroalimentaires-bretonnes/",
+        "date": "2026-09-24",
+        "extrait": "Type d'aide Subvention Cette aide est financée par les crédits européens sur le Fonds européen agricole pour le développement rural (FEADER) et des crédits régionaux."
+      },
+      {
+        "champ": "description",
+        "url": "https://web.archive.org/web/20251112201423/https://www.bretagne.bzh/aides/fiches/pass-competitivite-iaa-investissement-dans-les-industries-agroalimentaires-bretonnes/",
+        "date": "2026-09-24",
+        "extrait": "Cette aide vise à soutenir la compétitivité des entreprises agroalimentaires qui transforment, conditionnent et commercialisent des matières premières agricoles en leur permettant d'investir dans du matériel productif sur leurs sites bretons."
+      },
+      {
+        "champ": "description, categories",
+        "url": "https://web.archive.org/web/20251112201423/https://www.bretagne.bzh/aides/fiches/pass-competitivite-iaa-investissement-dans-les-industries-agroalimentaires-bretonnes/",
+        "date": "2026-09-24",
+        "extrait": "tels que les matériels d'abattage, de découpe, de cuisson, de filtration, de stérilisation, de lavage [...] le matériel de process permettant des économies d'énergie, d'eau, des déchets"
+      },
+      {
+        "champ": "eligibilite",
+        "url": "https://web.archive.org/web/20251112201423/https://www.bretagne.bzh/aides/fiches/pass-competitivite-iaa-investissement-dans-les-industries-agroalimentaires-bretonnes/",
+        "date": "2026-09-24",
+        "extrait": "Les entreprises agroalimentaires et les structures actives en lien avec les domaines de la transformation et/ou du conditionnement et/ou de la commercialisation de produits agricoles ou transformés (y/compris les créations d'entreprises)."
+      },
+      {
+        "champ": "eligibilite",
+        "url": "https://web.archive.org/web/20251112201423/https://www.bretagne.bzh/aides/fiches/pass-competitivite-iaa-investissement-dans-les-industries-agroalimentaires-bretonnes/",
+        "date": "2026-09-24",
+        "extrait": "les produits finis seront destinés majoritairement à l'alimentation humaine ou animale ; la clientèle de particulier sera minoritaire"
+      },
+      {
+        "champ": "eligibilite, infos_complementaires",
+        "url": "https://web.archive.org/web/20251112201423/https://www.bretagne.bzh/aides/fiches/pass-competitivite-iaa-investissement-dans-les-industries-agroalimentaires-bretonnes/",
+        "date": "2026-09-24",
+        "extrait": "l'établissement où se déroule le projet doit avoir au minimum 70 % des volumes totaux de matières premières entrantes issues de l'annexe 1 du traité sur le fonctionnement de l'Union Européenne (TFUE) à l'exception des produits de la pêche et de l'aquaculture"
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://web.archive.org/web/20251112201423/https://www.bretagne.bzh/aides/fiches/pass-competitivite-iaa-investissement-dans-les-industries-agroalimentaires-bretonnes/",
+        "date": "2026-09-24",
+        "extrait": "Maximum de 1 000 000 € Minimum de 150 000 €, exceptées pour les PME pour lesquelles l'aide publique ne pourra être inférieure à 100 000 €. [...] Les pré-demandes d'aides pourront être déposées entre le 06/01/2025 et le 30/01/2026."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://web.archive.org/web/20251112201423/https://www.bretagne.bzh/aides/fiches/pass-competitivite-iaa-investissement-dans-les-industries-agroalimentaires-bretonnes/",
+        "date": "2026-09-24",
+        "extrait": "Dépenses non éligibles, notamment : Les investissements liés au stockage. [...] Le dépôt des dossiers se fait via Aiden (plateforme dématérialisée de la Région Bretagne)"
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://web.archive.org/web/20240518011547/https://www.bretagne.bzh/app/uploads/UE27-FEADER-IAA-Annexe-1-du-TFUE.pdf",
+        "date": "2026-09-24",
+        "extrait": "Chapitre 2 Viandes et abats comestibles"
+      }
+    ],
+    "date_maj": "2026-09-24"
+  }
+]

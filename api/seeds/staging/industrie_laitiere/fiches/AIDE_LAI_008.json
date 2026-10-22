@@ -1,0 +1,85 @@
+{
+  "id": "AIDE_LAI_008",
+  "nom": "Économiser et recycler l'eau des activités industrielles et de l'artisanat (agence de l'eau Adour-Garonne, programme Eau 2025-2030)",
+  "financeur": "Agence de l'eau Adour-Garonne",
+  "logo_url": null,
+  "type": "subvention",
+  "taux": "Subvention, de 30 % à 80 % selon la nature de l'opération et le statut du bénéficiaire, fourchette annoncée sur le portail public Aides-territoires. Une avance récupérable est également mobilisable. Le détail des taux par type d'opération n'est pas confirmable en ligne et doit être demandé à l'agence.",
+  "plafond": null,
+  "description": "Dispositif du programme Eau 2025-2030 de l'agence de l'eau Adour-Garonne, rattaché à la ligne « Lutte contre les pressions des activités économiques hors agriculture (réduction des pollutions, économies d'eau et eaux pluviales) ». L'agence encourage les entreprises à économiser l'eau, à développer des solutions de recyclage dans leurs activités et à installer des systèmes en circuit fermé pour limiter les prélèvements. Elle soutient les études de connaissance des enjeux quantitatifs des prélèvements intégrant les impacts du changement climatique, et finance les projets de réutilisation des eaux non conventionnelles comme les eaux usées traitées ou les eaux de pluie. Les projets types cités sont les démarches prospectives et diagnostics et les études avant travaux, les travaux d'efficience et d'économie d'eau (mise en circuit fermé, collecte et recyclage des eaux pluviales) et les travaux de transfert de prélèvements vers des ressources moins sensibles.",
+  "eligibilite": "Personnes publiques ou privées exerçant une activité économique à caractère industriel, commercial et artisanal ou en lien avec de telles activités, hors secteur agricole et élevage sauf aquaculture. Les projets doivent permettre une économie de prélèvement d'eau d'au moins 10 % du volume total annuel moyen prélevé dès lors que celui-ci est supérieur à 5 000 m3, ou une économie supérieure à 500 000 m3.",
+  "categories": [
+    "suivre_comprendre_maitriser",
+    "ameliorer_efficacite_hydrique",
+    "valoriser_reut_eaux_non_conventionnelles"
+  ],
+  "secteurs": [
+    "industrie_laitiere"
+  ],
+  "departements": [],
+  "agences": [
+    "AEAG"
+  ],
+  "mesures": [
+    "ACT_AGR_002",
+    "ACT_LAI_003",
+    "ACT_LAI_004",
+    "ACT_LAI_006"
+  ],
+  "infos_complementaires": [
+    {
+      "type": "avertissement",
+      "texte": "Les taux détaillés par type d'opération sont à confirmer auprès de l'agence avant tout montage financier. Le site de l'agence, eau-grandsudouest.fr, présente une chaîne de certificat incomplète et n'est pas consultable de façon fiable selon les navigateurs : seule la fourchette de 30 % à 80 % publiée sur le portail public Aides-territoires a pu être vérifiée."
+    },
+    {
+      "type": "avertissement",
+      "texte": "Le seuil d'accès écarte les petits ateliers : le projet doit économiser au moins 10 % du volume annuel moyen prélevé, et encore faut-il que ce volume dépasse 5 000 m3 par an. En dessous, aucune économie ne rend le dossier éligible à ce dispositif."
+    },
+    {
+      "type": "info",
+      "texte": "Le chargé d'intervention industries de l'agence pour l'agroalimentaire est Marc Pinel, 05 61 36 82 19, marc.pinel@eau-adour-garonne.fr. C'est le bon interlocuteur pour faire préciser les taux et l'éligibilité d'un site laitier."
+    },
+    {
+      "type": "info",
+      "texte": "Le dispositif est ouvert du 1er janvier 2025 au 31 décembre 2030 et la demande se dépose sur la plateforme Rivage de l'agence."
+    },
+    {
+      "type": "ressource",
+      "texte": "Fiche du dispositif sur le portail public Aides-territoires (ANCT)",
+      "lien": "https://aides-territoires.beta.gouv.fr/aides/collecter-et-traiter-les-eaux-usees-et-les-eaux-pluviales-2/"
+    },
+    {
+      "type": "ressource",
+      "texte": "Plateforme de dépôt des demandes d'aide Rivage de l'agence de l'eau Adour-Garonne",
+      "lien": "https://rivage.eau-adour-garonne.fr/appli/"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "nom, description, mesures",
+      "url": "https://aides-territoires.beta.gouv.fr/aides/collecter-et-traiter-les-eaux-usees-et-les-eaux-pluviales-2/",
+      "date": "2026-09-22",
+      "extrait": "Economiser et recycler l'eau des activités industrielles et de l'artisanat. Nom initial de l'aide : « Lutte contre les pressions des activités économiques hors agriculture (réduction des pollutions, économies d'eau et eaux pluviales) ». L'Agence de l'eau encourage les entreprises à économiser l'eau, à développer des solutions de recyclage dans leurs activités et à installer des systèmes en circuit fermé pour limiter les prélèvements en eau. [...] Elle soutient également des études de connaissance des enjeux quantitatifs des prélèvements intégrant les impacts du changement climatique sur la ressource en eau. Enfin, l'Agence finance des projets de réutilisation des eaux non conventionnelles comme les eaux usées traitées, eaux de pluie ou eaux de piscine. [...] Exemples de projets réalisables : Démarches prospectives et diagnostics, études avant travaux ; Travaux d'efficience et économie d'eau (mise en circuit fermé, collecte et recyclage des eaux pluviales...) ; Travaux de transfert de prélèvements vers des ressources moins sensibles"
+    },
+    {
+      "champ": "eligibilite, infos_complementaires (seuils)",
+      "url": "https://aides-territoires.beta.gouv.fr/aides/collecter-et-traiter-les-eaux-usees-et-les-eaux-pluviales-2/",
+      "date": "2026-09-22",
+      "extrait": "Les bénéficiaires sont des personnes publiques ou privées exerçant une activité économique à caractère industriel, commercial et artisanal ou en lien avec de telles activités (hors secteur agricole et élevage sauf aquaculture). Les projets devront permettre une économie de prélèvement d'eau d'au moins 10% du volume total annuel moyen prélevé dès lors que celui-ci est supérieur à 5 000 m3 ou une économie supérieure à 500 000 m3."
+    },
+    {
+      "champ": "taux, type, dates du dispositif",
+      "url": "https://aides-territoires.beta.gouv.fr/aides/collecter-et-traiter-les-eaux-usees-et-les-eaux-pluviales-2/",
+      "date": "2026-09-22",
+      "extrait": "Porteur d'aide : Agence de l'eau Adour-Garonne. Subvention (min : 30% - max : 80%). Avance récupérable. Calendrier : Du 1 janvier 2025 au 31 décembre 2030. Zone géographique couverte par l'aide : Adour-Garonne. Dernière mise à jour : 3 septembre 2026."
+    },
+    {
+      "champ": "infos_complementaires (contact, dépôt)",
+      "url": "https://aides-territoires.beta.gouv.fr/aides/collecter-et-traiter-les-eaux-usees-et-les-eaux-pluviales-2/",
+      "date": "2026-09-22",
+      "extrait": "Secteurs d'activités : Agro-Alimentaires / Golf / Activités commerciales : Marc PINEL - Chargé d'intervention industries Tel direct : 05 61 36 82 19 - marc.pinel@eau-adour-garonne.fr. Candidater : https://rivage.eau-adour-garonne.fr/appli/"
+    }
+  ],
+  "date_maj": "2026-09-22"
+}

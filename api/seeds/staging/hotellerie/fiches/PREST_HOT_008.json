@@ -1,0 +1,73 @@
+{
+  "id": "PREST_HOT_008",
+  "nom": "Danube International (Onnera Laundry France)",
+  "type": "installateur",
+  "logo_url": null,
+  "siret": "34222275900058",
+  "description": "Société de Lamotte-Beuvron (Loir-et-Cher), immatriculée sous le nom Onnera Laundry France et présentée sur son site sous la marque Danube, qui propose aux hôtels des laveuses frontales de 11 à 120 kg et cite l'hôtel 1770 Le Factory (Le Pontet) parmi ses réalisations. Pour l'eau, elle commercialise les bacs AQUABAC, qui récupèrent l'eau de rinçage pour la réinjecter dans un lavage suivant (jusqu'à 70 % d'économie d'eau annoncée par l'entreprise), et assure un service après-vente en ligne ou sur site. Le site dit concevoir et fabriquer ses machines, la commune la présente comme constructeur et son code d'activité est industriel (28.94Z), mais le lieu de fabrication n'est publié nulle part : faute de mention explicite d'une production en France, la fiche la classe en installateur.",
+  "expertises": [
+    "Laveuses professionnelles hôtelières",
+    "Récupération d'eau de rinçage",
+    "Service après-vente sur site"
+  ],
+  "categories": [
+    "ameliorer_efficacite_hydrique"
+  ],
+  "secteurs": ["hotellerie"],
+  "departements": [],
+  "mesures": [
+    { "id": "ACT_HOT_004", "roles": ["materiel"] }
+  ],
+  "contacts": [
+    { "type": "site_internet", "value": "https://www.danube-international.com/" },
+    { "type": "tel", "value": "02 54 88 05 76" },
+    { "type": "mail", "value": "info@danube-international.com" },
+    { "type": "adresse", "value": "3 rue Léonard de Vinci, Parc d'activités de Sologne, 41600 Lamotte-Beuvron" }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse, nom, description (code d'activité 28.94Z)",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=ONNERA%20LAUNDRY%20FRANCE&departement=41",
+      "date": "2026-09-24",
+      "extrait": "ONNERA LAUNDRY FRANCE, siret 34222275900058, siège, PARC ACTIVITES DE SOLOGNE 3 RUE LEONARD DE VINCI 41600 LAMOTTE-BEUVRON, activité 28.94Z, état administratif A"
+    },
+    {
+      "champ": "nom, contacts, description, expertises, departements, type",
+      "url": "https://www.danube-international.com/entreprise/",
+      "date": "2026-09-24",
+      "extrait": "Chez Danube, nous concevons et fabriquons des machines pour la blanchisserie hospitalière depuis 1984. [...] Nous sommes un fournisseur mondial de machines qui propose des solutions complètes pour votre blanchisserie. [...] Notre équipe technique offre un support après-vente professionnel en ligne ou sur site chaque fois que nécessaire. [...] ONNERA LAUNDRY FRANCE, 3 rue Léonard de Vinci, Parc d'activités de Sologne, 41600 Lamotte Beuvron, France. (+33)2 54 88 05 76. info@danube-international.com"
+    },
+    {
+      "champ": "secteurs, description, expertises, mesures (ACT_HOT_004 materiel)",
+      "url": "https://www.danube-international.com/secteurs/hotellerie-restauration/",
+      "date": "2026-09-24",
+      "extrait": "la conception et la fabrication d'équipements et de solutions de blanchisserie innovants pour les hôtels et restaurants. [...] Laveuses frontales WED de 11 à 120 kg [...] Bacs de récupération d'eau pour économiser jusqu'à 70 % d'eau."
+    },
+    {
+      "champ": "description, expertises, mesures (ACT_HOT_004 materiel)",
+      "url": "https://www.danube-international.com/machinerie/machine-laver-aquabac/",
+      "date": "2026-09-24",
+      "extrait": "Les réservoirs de récupération d'eau AQUABAC ont été conçus pour se connecter facilement aux machines à laver DANUBE équipées du contrôle ET2 et d'une double vidange. Ils permettent la récupération de l'eau de rinçage, pour être réutilisée pour les lavages suivants [...] Jusqu'à 70 % d'économie d'eau"
+    },
+    {
+      "champ": "description, departements, secteurs",
+      "url": "https://www.danube-international.com/projets/hotel-1770-le-factory/",
+      "date": "2026-09-24",
+      "extrait": "Voici l'hôtel 4 étoiles 1770 et son restaurant Le Factory, situé à Le Pontet-Avignon. Ce très bel établissement a choisi d'équiper sa blanchisserie avec du matériel Danube."
+    },
+    {
+      "champ": "contacts, secteurs, description (constructeur)",
+      "url": "https://www.lamotte-beuvron.fr/commerces-artisans/danube-international/",
+      "date": "2026-09-24",
+      "extrait": "Constructeur de matériel de blanchisserie industriel : laveuses essoreuses, sécheuses repasseuses, séchoirs rotatifs pour le secteur hôtelier, hospitalier, industriel et laveries automatiques. 02 54 88 05 76"
+    },
+    {
+      "champ": "type (lieu de fabrication non publié)",
+      "url": "https://www.danube-international.com/visite-a-lusine/",
+      "date": "2026-09-24",
+      "extrait": "Visite à l'usine, 6 mai 2019 : Nous avons eu le plaisir d'accueillir à l'usine les 2 et 3 mai derniers notre distributeur indonésien PT Mega Pratama Medicalindo (l'article ne dit pas où se trouve l'usine)"
+    }
+  ],
+  "date_maj": "2026-09-24"
+}

@@ -1,0 +1,107 @@
+{
+  "id": "AIDE_LAI_003",
+  "nom": "Diag Eco-Flux, diagnostic des flux énergie, eau, matières et déchets (ADEME et Bpifrance)",
+  "financeur": "ADEME et Bpifrance",
+  "logo_url": null,
+  "type": "accompagnement",
+  "taux": "Subvention de 50 % du coût de la prestation",
+  "plafond": "Reste à charge de 3 000 € HT par site",
+  "description": "Diagnostic réalisé sur le site par un consultant indépendant agréé et sélectionné par Bpifrance, selon une méthodologie élaborée avec l'ADEME. Il analyse quatre flux, l'énergie, l'eau, les matières premières et les déchets, repère les pertes et les leviers d'action prioritaires, aboutit à un plan d'action ciblé, puis accompagne le lancement des premières actions de réduction. Le périmètre, la méthode et le calendrier sont définis avec l'expert au cadrage. Le portail Mission Transition écologique annonce 6 à 8 jours de prestation répartis sur 15 à 18 mois.",
+  "eligibilite": "Entreprises de tous secteurs d'activité dont l'établissement compte entre 20 et 250 salariés, en France et dans les territoires d'outre-mer, avec au moins un an d'activité. Les micro-entreprises ne sont pas éligibles.",
+  "categories": [
+    "suivre_comprendre_maitriser"
+  ],
+  "secteurs": [],
+  "departements": [],
+  "agences": [],
+  "mesures": [
+    "ACT_AGR_002"
+  ],
+  "infos_complementaires": [
+    {
+      "type": "avertissement",
+      "texte": "Le dispositif s'adresse aux établissements de 20 à 250 salariés et n'est pas ouvert aux micro-entreprises : les ateliers fromagers de quelques salariés en sont écartés."
+    },
+    {
+      "type": "avertissement",
+      "texte": "Ce diagnostic ne remplace pas un audit eau dédié. L'eau n'est qu'un des quatre flux analysés, aux côtés de l'énergie, des matières et des déchets, sur une prestation de 6 à 8 jours au total. Il donne un état des lieux des pertes et des leviers prioritaires. Un site dont l'eau est l'enjeu central a intérêt à faire porter explicitement le cadrage sur ce poste, puis à engager ensuite une étude eau plus approfondie."
+    },
+    {
+      "type": "avertissement",
+      "texte": "La durée annoncée diffère selon les pages officielles : 6 à 8 jours répartis sur 15 à 18 mois sur le portail Mission Transition écologique, 7 jours répartis sur 10 mois sur la page du catalogue Bpifrance, qui n'a pas pu être relue au contrôle. À faire préciser par le conseiller Bpifrance avant de s'engager."
+    },
+    {
+      "type": "info",
+      "texte": "Les diagnostics du partenariat ADEME et Bpifrance sont financés par l'ADEME et, depuis 2025, par des financements reposant sur les Certificats d'Économies d'Énergie. Le reste à charge de l'entreprise est de 3 000 € HT par site après la subvention de 50 %. Les deux partenaires annoncent viser environ 3 000 entreprises accompagnées par an et au moins 10 000 à l'horizon 2028 : il ne s'agit pas d'un appel à projets ponctuel."
+    },
+    {
+      "type": "info",
+      "texte": "La démarche se fait auprès de Bpifrance : vérification de l'éligibilité à partir du SIRET, formulaire d'intérêt, rappel par un conseiller, puis définition en commun du périmètre du diagnostic, de la méthode et du calendrier avant le lancement avec l'expert."
+    },
+    {
+      "type": "retour_experience",
+      "texte": "Depuis le lancement du dispositif en septembre 2020, les actions recommandées dans le cadre du Diag Eco-Flux ont permis à plus de 1 500 sites accompagnés d'économiser chaque année 2,6 millions de mètres cubes d'eau et 578 GWh d'énergie, et de générer en moyenne plus de 60 000 € d'économies annuelles par site, tous flux confondus."
+    },
+    {
+      "type": "ressource",
+      "texte": "Fiche du dispositif sur le portail Mission Transition écologique, avec vérification d'éligibilité par SIRET",
+      "lien": "https://mission-transition-ecologique.beta.gouv.fr/aides-entreprise/diag-eco-flux"
+    },
+    {
+      "type": "ressource",
+      "texte": "Communiqué de presse ADEME et Bpifrance du 25 juin 2025 sur les diagnostics et leur financement",
+      "lien": "https://presse.bpifrance.fr/bpifrance-et-lademe-renforcent-leur-partenariat-a-travers-leurs-diagnostics-dedies-a-la-transition-energetique-et-ecologique-des-entreprises"
+    },
+    {
+      "type": "ressource",
+      "texte": "Page du dispositif sur le catalogue d'offres de Bpifrance",
+      "lien": "https://www.bpifrance.fr/catalogue-offres/diagnostic-eco-flux"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "nom, description, categories, mesures",
+      "url": "https://mission-transition-ecologique.beta.gouv.fr/aides-entreprise/diag-eco-flux",
+      "date": "2026-09-22",
+      "extrait": "Vous êtes accompagné par un expert référencé par Bpifrance, selon une méthodologie élaborée avec l'ADEME. Analysez vos flux d'énergie, d'eau, de matières premières et de déchets. Repérez les pertes et les leviers d'action prioritaires. Définissez un plan d'action ciblé, simple à mettre en oeuvre. Lancez vos premières actions de réduction des pertes."
+    },
+    {
+      "champ": "taux, plafond, type, durée de la prestation",
+      "url": "https://mission-transition-ecologique.beta.gouv.fr/aides-entreprise/diag-eco-flux",
+      "date": "2026-09-22",
+      "extrait": "Coût restant à charge : 3 000 € HT après subvention de 50%. Prestation : 6 à 8 jours de prestation répartis sur 15 à 18 mois. [...] Lancez le diagnostic avec l'expert, consultant indépendant agréé et sélectionné par Bpifrance."
+    },
+    {
+      "champ": "eligibilite, departements, secteurs, dispositif en vigueur",
+      "url": "https://mission-transition-ecologique.beta.gouv.fr/aides-entreprise/diag-eco-flux",
+      "date": "2026-09-22",
+      "extrait": "Date de fin de l'aide : Aide disponible. Taille de l'entreprise : Entre 20 et 250 salariés, Non éligible aux micro-entreprises. Secteur géographique : France et territoires d'outre-mer. Nombre d'années d'activité : Au moins 1 an d'activité. Secteur d'activité : Tous secteurs d'activité"
+    },
+    {
+      "champ": "infos_complementaires (démarche et cadrage)",
+      "url": "https://mission-transition-ecologique.beta.gouv.fr/aides-entreprise/diag-eco-flux",
+      "date": "2026-09-22",
+      "extrait": "Vérifiez automatiquement l'éligibilité de votre entreprise à l'aide de votre SIRET. [...] Un conseiller vous rappelle pour répondre à vos questions et vous guider dans la constitution de votre demande. Définissez ensemble le périmètre du diagnostic, la méthode et le calendrier."
+    },
+    {
+      "champ": "financeur, mesures, infos_complementaires (financement ADEME et CEE, pérennité)",
+      "url": "https://presse.bpifrance.fr/bpifrance-et-lademe-renforcent-leur-partenariat-a-travers-leurs-diagnostics-dedies-a-la-transition-energetique-et-ecologique-des-entreprises",
+      "date": "2026-09-22",
+      "extrait": "Communiqué du 25 juin 2025 : Le Diag Eco-Flux : réaliser des économies rapides sur ses flux matière, énergie, déchets et eau [...] À partir de 2025, en complément des financements de l'ADEME, il bénéficiera de financements reposant sur les Certificats d'Économies d'Énergie (CEE). [...] Ces diagnostics sont financés par l'ADEME, notamment par le dispositif des CEE. [...] l'ADEME et Bpifrance ambitionnent d'accompagner environ 3 000 entreprises chaque année. À l'horizon 2028, l'objectif fixé est d'atteindre un minimum de 10 000 entreprises accompagnées"
+    },
+    {
+      "champ": "infos_complementaires (retour d'expérience)",
+      "url": "https://presse.bpifrance.fr/bpifrance-et-lademe-renforcent-leur-partenariat-a-travers-leurs-diagnostics-dedies-a-la-transition-energetique-et-ecologique-des-entreprises",
+      "date": "2026-09-22",
+      "extrait": "Depuis le lancement du dispositif en septembre 2020, les actions recommandées dans le cadre du Diag Eco-Flux ont permis à plus de 1 500 sites accompagnés de réaliser des économies annuelles de 578 GWh d'énergie, 2,6 millions de mètres cubes d'eau et plus de 856 000 tonnes de matières et déchets et de générer en moyenne plus de 60 000 euros d'économies annuelles par site."
+    },
+    {
+      "champ": "infos_complementaires (durée annoncée par l'opérateur). Page lue en navigateur mais renvoyant HTTP 403 à l'outil de contrôle : citée uniquement pour signaler la divergence, aucun autre champ ne repose sur elle.",
+      "url": "https://www.bpifrance.fr/catalogue-offres/diagnostic-eco-flux",
+      "date": "2026-09-22",
+      "extrait": "Une démarche simple, 7 jours homme d'intervention sur 10 mois [...] Le reste à charge pour l'entreprise, après subvention, est de : 3 000€ HT par site"
+    }
+  ],
+  "date_maj": "2026-09-22"
+}

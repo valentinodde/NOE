@@ -1,0 +1,76 @@
+{
+  "id": "PREST_HOT_007",
+  "nom": "Hôtel Vert",
+  "type": "bureau_etudes",
+  "logo_url": null,
+  "siret": null,
+  "description": "Équipe lyonnaise de consultants RSE spécialisés dans les hébergements touristiques, qui intervient sur toute la France. Elle réalise une analyse des pratiques de l'établissement, accompagne l'obtention de la Clef Verte en fournissant les éléments de preuve critère par critère (dont l'affichage proposant le changement des draps et serviettes uniquement à la demande) et forme le personnel aux écogestes exigés par le classement hôtelier, dont les mesures d'économie d'eau. La formation en formule intra ou inter est affichée à 650 euros HT la session de 3h30, et des modèles d'affichage et éléments de preuve sont téléchargeables gratuitement sur le site.",
+  "expertises": [
+    "Accompagnement au label Clef Verte",
+    "Formation écogestes classement hôtelier",
+    "Affichage linge à la demande",
+    "Diagnostic RSE d'établissement"
+  ],
+  "categories": [
+    "changer_process_pratiques",
+    "sensibiliser_former"
+  ],
+  "secteurs": ["hotellerie"],
+  "departements": [],
+  "mesures": [
+    { "id": "ACT_HOT_003", "roles": ["conseil_etude"] }
+  ],
+  "contacts": [
+    { "type": "site_internet", "value": "https://www.hotelvert.com/" },
+    { "type": "tel", "value": "09 72 01 01 74" },
+    { "type": "mail", "value": "contact@hotelvert.com" },
+    { "type": "adresse", "value": "129, Tour Part-Dieu, rue de Servient, 69003 Lyon" },
+    { "type": "linkedin", "value": "https://www.linkedin.com/company/h%C3%B4tel-vert-d%C3%A9veloppement-durable-et-rse/" }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "contacts (site, téléphone, adresse), departements",
+      "url": "https://www.hotelvert.com/contact/",
+      "date": "2026-09-24",
+      "extrait": "Adresse 129, Tour Part-Dieu Rue de Servient 69003 Lyon. Contact +33 09 72 01 01 74 [...] Formations et consulting sur toute la France"
+    },
+    {
+      "champ": "contacts (mail)",
+      "url": "https://www.hotelvert.com/wp-json/wp/v2/pages/27",
+      "date": "2026-09-24",
+      "extrait": "Contenu de la page Contact servi par le site en JSON, adresse non masquée : +33 09 72 01 01 74 contact@hotelvert.com"
+    },
+    {
+      "champ": "type, description, expertises (diagnostic RSE, Clef Verte)",
+      "url": "https://www.hotelvert.com/consulting-rse/",
+      "date": "2026-09-24",
+      "extrait": "Nous sommes une équipe de consultants RSE spécialisés dans le secteur hôtelier [...] Analyse de la Situation Actuelle : Notre équipe effectue une évaluation approfondie de vos pratiques actuelles [...] Obtention d'écolabel : Nous nous occupons des éléments de preuve pour que vous puissiez profitez pleinement de votre écolabel."
+    },
+    {
+      "champ": "description, expertises, mesures (ACT_HOT_003 conseil_etude)",
+      "url": "https://www.hotelvert.com/hotel-vert/labellisation-classement-hotelier/label-la-clef-verte/",
+      "date": "2026-09-24",
+      "extrait": "Hôtel Vert vous aide pour vos éléments de preuve [...] À chaque critère, un article avec des éléments de preuve téléchargeables et gratuits [...] 19) Un affichage indique aux clients qu'ils ont la possibilité de faire nettoyer leurs draps et serviettes uniquement sur demande."
+    },
+    {
+      "champ": "description, expertises, mesures (ACT_HOT_003 conseil_etude)",
+      "url": "https://www.hotelvert.com/la-reutilisation-des-draps-et-serviettes/",
+      "date": "2026-09-24",
+      "extrait": "Que ce soit en version papier ou en version numérique (TV ou QR code), vous vous devez de sensibiliser vos clients à la réutilisation des draps et serviettes à l'intérieur de la chambre. [...] Exemple signalisation pour la réutilisation des serviettes à imprimer"
+    },
+    {
+      "champ": "description, expertises (formation écogestes, tarif)",
+      "url": "https://www.hotelvert.com/formation-developpement-durable/",
+      "date": "2026-09-24",
+      "extrait": "Répondez au critère obligatoire 237 du classement hôtelier [...] formation du personnel à la gestion économe de l'énergie, aux mesures d'économie d'eau et à la gestion des déchets. [...] INTRA OU INTER Idéal pour les TPE ou + de 50 salariés € 650 HT pour une session de 3h30 [...] Formations sur toute la France"
+    },
+    {
+      "champ": "siret (non trouvé)",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Hotel%20Vert&departement=69",
+      "date": "2026-09-24",
+      "extrait": "Aucun résultat au nom de Hôtel Vert dans le Rhône (seul résultat : CENTRE DE CONSEIL ET DE SERVICE, Nantes) ; la page mentions légales du site ne contient aucune identification de l'éditeur, et aucune page du site ni la page LinkedIn ne donnent de raison sociale ou de SIRET."
+    }
+  ],
+  "date_maj": "2026-09-24"
+}

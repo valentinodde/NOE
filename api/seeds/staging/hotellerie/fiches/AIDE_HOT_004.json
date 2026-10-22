@@ -1,0 +1,156 @@
+{
+  "id": "AIDE_HOT_004",
+  "nom": "Pass Transformation Écologique (Région Occitanie)",
+  "financeur": "Région Occitanie / Pyrénées-Méditerranée",
+  "logo_url": null,
+  "type": "subvention",
+  "taux": "35 % des dépenses éligibles",
+  "plafond": "Subvention plafonnée à 8 000 €, pour une assiette éligible d'au moins 5 000 € ; chaque dépense doit atteindre 1 000 € HT",
+  "description": "Subvention d'investissement de la Région Occitanie pour les petites entreprises qui engagent des travaux d'amélioration écologique : gestion de l'eau et des déchets, sobriété énergétique, chaleur et froid renouvelables, digitalisation. Côté eau, la liste des dépenses éligibles cite les systèmes de récupération des eaux de pluie et les systèmes de réutilisation des eaux usées. Les entreprises du tourisme ont en plus accès aux dépenses de végétalisation et de désimperméabilisation des sols. Seul le matériel neuf ou d'occasion garanti au moins 6 mois et immobilisable est retenu, dans un programme d'investissement de 12 mois au plus.",
+  "eligibilite": "Entreprises touristiques inscrites au RCS (hors auto-entrepreneurs) d'au moins un salarié et de moins de 50 salariés, ayant un premier bilan sur 12 mois, avec siège ou établissement en Occitanie, hors territoires des Métropoles et hors zones d'activités ou commerciales. Les hôtels doivent être classés au moins 2 étoiles : sont exclus les hôtels non classés ou classés 1 étoile, et les hôtels appartenant à des chaînes intégrées ou franchisés.",
+  "categories": [
+    "valoriser_reut_eaux_non_conventionnelles"
+  ],
+  "secteurs": [
+    "hotellerie"
+  ],
+  "departements": [
+    "09",
+    "11",
+    "12",
+    "30",
+    "31",
+    "32",
+    "34",
+    "46",
+    "48",
+    "65",
+    "66",
+    "81",
+    "82"
+  ],
+  "agences": [],
+  "mesures": [
+    "ACT_AGR_006"
+  ],
+  "infos_complementaires": [
+    {
+      "type": "avertissement",
+      "texte": "La demande doit être déposée sur la plateforme « Mes aides en ligne » avant tout commencement d'exécution de l'opération. L'aide n'est pas automatique : chaque demande passe une expertise technique et dépend des crédits disponibles."
+    },
+    {
+      "type": "avertissement",
+      "texte": "Chaque dépense doit atteindre 1 000 € HT et être immobilisable : les petits équipements achetés à l'unité ne sont pas retenus, pas plus que le crédit-bail. Un seul Pass Transformation Écologique est accordé tous les 3 ans, et il n'est pas cumulable avec le dispositif économie de proximité."
+    },
+    {
+      "type": "info",
+      "texte": "Le dossier est préparé avec un conseiller de l'agence régionale Ad'Occ, qui remet une fiche de qualification à joindre. Pour les dépenses liées à l'eau, vous devez fournir un document justifiant les économies d'eau attendues chaque année en m3. Pièces propres à l'hébergement : attestation de classement à 2 étoiles au minimum, et résultat de l'autodiagnostic Impact score."
+    },
+    {
+      "type": "info",
+      "texte": "Pour les seules entreprises du tourisme, la fiche du dispositif cite aussi les dépenses de végétalisation et de désimperméabilisation des sols ; elle ne cite ni l'arrosage au goutte-à-goutte ni le choix des essences."
+    },
+    {
+      "type": "info",
+      "texte": "La fiche du dispositif mise à jour en juin 2026 fixe le taux à 35 % et le plafond à 8 000 € pour une assiette minimale de 5 000 €. Des pages plus anciennes reprennent la version précédente de la fiche (taux de 50 %, plafond de 10 000 €, assiette minimale de 10 000 €) : fiez-vous à la fiche en vigueur."
+    },
+    {
+      "type": "ressource",
+      "texte": "Page du dispositif sur le site de la Région Occitanie (renseignements au 3010, appel gratuit)",
+      "lien": "https://www.laregion.fr/Pass-Transformation-Ecologique"
+    },
+    {
+      "type": "ressource",
+      "texte": "Fiche détaillée du dispositif sur le Hub Entreprendre Occitanie",
+      "lien": "https://hubentreprendre.laregion.fr/financement/pass-transformation-ecologique"
+    },
+    {
+      "type": "ressource",
+      "texte": "Fiche du dispositif en PDF (mise à jour 06/2026) : dépenses éligibles, exclusions et pièces justificatives",
+      "lien": "https://api.hubentreprendre.laregion.fr/fichiers-dispositifs/ea70243c-22c7-4afe-a37d-09f8a8ff46be",
+      "lien_label": "Télécharger la fiche"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "taux, plafond",
+      "url": "https://api.hubentreprendre.laregion.fr/fichiers-dispositifs/ea70243c-22c7-4afe-a37d-09f8a8ff46be",
+      "date": "2026-09-24",
+      "extrait": "Mise à jour : 06/2026 [...] Taux d'intervention : 35% des dépenses éligibles. Montant : subvention plafonnée à 8 000 € avec une assiette éligible min. de 5 000 €"
+    },
+    {
+      "champ": "description, mesures (ACT_AGR_006)",
+      "url": "https://api.hubentreprendre.laregion.fr/fichiers-dispositifs/ea70243c-22c7-4afe-a37d-09f8a8ff46be",
+      "date": "2026-09-24",
+      "extrait": "Economie circulaire et gestion des déchets : • Système de récupération des eaux de pluie • Système de réutilisation des eaux usées"
+    },
+    {
+      "champ": "description, infos_complementaires (végétalisation)",
+      "url": "https://api.hubentreprendre.laregion.fr/fichiers-dispositifs/ea70243c-22c7-4afe-a37d-09f8a8ff46be",
+      "date": "2026-09-24",
+      "extrait": "Dépenses éligibles complémentaires uniquement pour les entreprises relevant du tourisme : Dépenses de végétalisation et des-imperméabilisation des sols"
+    },
+    {
+      "champ": "description, plafond, infos_complementaires",
+      "url": "https://api.hubentreprendre.laregion.fr/fichiers-dispositifs/ea70243c-22c7-4afe-a37d-09f8a8ff46be",
+      "date": "2026-09-24",
+      "extrait": "Les dépenses éligibles sont constituées des dépenses d'investissement en matériel neuf et/ou d'occasion, garantis 6 mois min. avec un montant minimal unitaire de chaque dépense de 1000 € HT. [...] programme d'investissement de 12 mois max."
+    },
+    {
+      "champ": "eligibilite",
+      "url": "https://api.hubentreprendre.laregion.fr/fichiers-dispositifs/ea70243c-22c7-4afe-a37d-09f8a8ff46be",
+      "date": "2026-09-24",
+      "extrait": "les entreprises touristiques (hors auto-entrepreneurs) enregistrées au Registre du Commerce et des Sociétés dans les secteurs de l'hébergement [...] sont exclus : les hôtels et l'hôtellerie de plein air non classés ou classés 1 étoile au dépôt du dossier, les hôtels appartenant à des chaines intégrées et franchisés [...] les activités situées dans des Zones d'activités et/ou zones commerciales sont également exclues."
+    },
+    {
+      "champ": "eligibilite",
+      "url": "https://www.laregion.fr/Pass-Transformation-Ecologique",
+      "date": "2026-09-24",
+      "extrait": "Entreprises immatriculées et disposant d'un 1er bilan d'activité sur au moins 12 mois, avec au moins un salarié et moins de 50 salariés [...] Les territoires des Métropoles ne sont pas éligibles à ce dispositif."
+    },
+    {
+      "champ": "departements",
+      "url": "https://www.laregion.fr/Pass-Transformation-Ecologique",
+      "date": "2026-09-24",
+      "extrait": "Les entreprises doivent avoir leur siège ou l'établissement concerné sur le territoire Occitanie."
+    },
+    {
+      "champ": "departements",
+      "url": "https://api.hubentreprendre.laregion.fr/dispositifs/slug/pass-transformation-ecologique",
+      "date": "2026-09-24",
+      "extrait": "\"operator\":{\"name\":\"Région Occitanie Montpellier\" [...] \"territories\":[{\"label\":\"11\",\"departments\":\"Aude\"},{\"label\":\"12\",\"departments\":\"Aveyron\"},{\"label\":\"30\",\"departments\":\"Gard\"},{\"label\":\"31\",\"departments\":\"Haute-Garonne\"},{\"label\":\"32\",\"departments\":\"Gers\"},{\"label\":\"46\",\"departments\":\"Lot\"},{\"label\":\"48\",\"departments\":\"Lozère\"},{\"label\":\"66\",\"departments\":\"Pyrénées-Orientales\"},{\"label\":\"81\",\"departments\":\"Tarn\"},{\"label\":\"82\",\"departments\":\"Tarn-et-Garonne\"},{\"label\":\"65\",\"departments\":\"Hautes-Pyrénées\"},{\"label\":\"09\",\"departments\":\"Ariège\"},{\"label\":\"34\",\"departments\":\"Hérault\"}] (champs id et dates omis)"
+    },
+    {
+      "champ": "departements",
+      "url": "https://www.laregion.fr/Profil-geographique-et-administratif-du-territoire",
+      "date": "2026-09-24",
+      "extrait": "Ces derniers sont au nombre de 13 : Ariège, Aude, Aveyron, Gard, Haute-Garonne, Gers, Hérault, Lot, Lozère, Hautes-Pyrénées, Pyrénées-Orientales, Tarn et Tarn-et-Garonne (par ordre alphabétique)."
+    },
+    {
+      "champ": "infos_complementaires (avertissements)",
+      "url": "https://api.hubentreprendre.laregion.fr/fichiers-dispositifs/ea70243c-22c7-4afe-a37d-09f8a8ff46be",
+      "date": "2026-09-24",
+      "extrait": "attribution non automatique de l'aide. Un seul Pass Transformation écologique tous les 3 ans. [...] non cumulable avec le dispositif économie de proximité. [...] Sont exclues : le portage de l'opération en crédit-bail et toutes dépenses non immobilisables comptablement. [...] la demande de financement (date de dépôt sur la plateforme dématérialisée « Mes aides en ligne ») devra être antérieure au commencement d'exécution de l'opération."
+    },
+    {
+      "champ": "infos_complementaires (démarche)",
+      "url": "https://api.hubentreprendre.laregion.fr/fichiers-dispositifs/ea70243c-22c7-4afe-a37d-09f8a8ff46be",
+      "date": "2026-09-24",
+      "extrait": "Pour les dépenses liées à la gestion de l'eau, un document devra être transmis justifiant des économies d'eau attendues annuellement en m3 [...] Pour les entreprises d'hébergement touristique : l'attestation de classement à minimum 2 étoiles [...] Le porteur de projet devra être accompagné par un conseiller de l'agence de développement économique de la Région Ad'Occ"
+    },
+    {
+      "champ": "infos_complementaires (ancienne version)",
+      "url": "https://api.hubentreprendre.laregion.fr/fichiers-dispositifs/735fce67-0154-4e5a-8796-bcfa49102599",
+      "date": "2026-09-24",
+      "extrait": "Le PASS Transformation écologique prend la forme d'une subvention d'investissement proportionnelle avec un taux d'intervention de 50% des dépenses éligibles. La subvention Région est plafonnée à 10 000 € sur un programme de dépenses de 12 mois maximum avec une assiette éligible minimale de 10 000 €."
+    },
+    {
+      "champ": "infos_complementaires (ressource, 3010)",
+      "url": "https://www.laregion.fr/Pass-Transformation-Ecologique",
+      "date": "2026-09-24",
+      "extrait": "Composez le 3010 pour contacter la Région Occitanie / Pyrénées-Méditerranée (service et appel gratuits)"
+    }
+  ],
+  "date_maj": "2026-09-24"
+}

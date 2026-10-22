@@ -1,0 +1,109 @@
+{
+  "id": "PREST_FRL_010",
+  "nom": "BWT France",
+  "type": "equipementier",
+  "logo_url": null,
+  "siret": "56211061900342",
+  "description": "Filiale française du groupe autrichien BWT, spécialiste du traitement de l'eau, dont le pôle industrie conçoit, fabrique, met en service et entretient des équipements de traitement (filtration, échangeurs d'ions, membranes dont l'osmose inverse), y compris pour la réutilisation des eaux de process et des eaux de station d'épuration ; aucune source consultée ne précise le lieu de fabrication. Pour la conserverie de légumes d'aucy du Faouët (Morbihan), elle a conçu, fabriqué et installé un osmoseur BWT SIGMA sur mesure qui rend réutilisables, pour le prélavage des légumes et le lavage des sols, les eaux épurées de la station du site, a aidé le site sur les aspects administratifs et financiers de l'aide de l'Agence de l'eau Loire-Bretagne et en assure le suivi (analyses mensuelles, maintenance trimestrielle). Cette référence va au-delà de la cascade des eaux de rinçage : c'est une réutilisation d'eaux usées traitées par la station puis par osmose, qui passe par des autorisations pour garantir la conformité sanitaire des légumes. Elle intervient depuis sept agences régionales qui couvrent la métropole et depuis son siège de Saint-Denis.",
+  "expertises": [
+    "Osmoseurs sur mesure",
+    "Réutilisation des eaux épurées",
+    "Maintenance des stations de traitement",
+    "Montage du dossier d'aide"
+  ],
+  "categories": [
+    "valoriser_reut_eaux_non_conventionnelles"
+  ],
+  "secteurs": [
+    "industrie_fruits_legumes"
+  ],
+  "departements": [],
+  "mesures": [
+    {
+      "id": "ACT_FRL_006",
+      "roles": [
+        "materiel",
+        "travaux",
+        "conseil_etude"
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "type": "site_internet",
+      "value": "https://bwt-industries.com/"
+    },
+    {
+      "type": "tel",
+      "value": "01 49 22 45 00"
+    },
+    {
+      "type": "adresse",
+      "value": "103 rue Charles Michels, 93200 Saint-Denis"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, contacts (adresse), type",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=BWT%20France&departement=93",
+      "date": "2026-09-25",
+      "extrait": "BWT FRANCE, siren 562110619, activité principale 28.29B (unité légale), siège siret 56211061900342, 103 RUE CHARLES MICHELS 93200 SAINT-DENIS, activité de l'établissement siège 37.00Z, état administratif A, 20 établissements ouverts"
+    },
+    {
+      "champ": "contacts (tel, adresse), siret, type",
+      "url": "https://bwt-industries.com/mentions-legales",
+      "date": "2026-09-25",
+      "extrait": "Dénomination sociale : BWT France SAS. Siège social : F-103 rue Charles Michels, 93200 Saint-Denis Cedex [...] T.: 01 49 22 45 00 [...] Siret : 56211061900342 Code APE 2829B"
+    },
+    {
+      "champ": "description (filiale d'un groupe autrichien)",
+      "url": "https://bwt-industries.com/a-propos",
+      "date": "2026-09-25",
+      "extrait": "le groupe autrichien BWT est leader européen du traitement de l'eau depuis 1990. [...] BWT France, ce sont près de 600 collaborateurs répartis dans 7 agences régionales en métropole, 1 agence à La Réunion et 1 agence au Maroc"
+    },
+    {
+      "champ": "type, description, expertises, mesures (ACT_FRL_006 materiel, travaux, conseil_etude), secteurs",
+      "url": "https://bwt-industries.com/conserverie-industrielle",
+      "date": "2026-09-25",
+      "extrait": "L'eau ainsi épurée, destinée au prélavage des légumes en zone froide ou au lavage des sols [...] les équipes BWT France ont alors proposé aux exploitants du site, la conception d'un d'osmoseur BWT SIGMA sur mesure [...] BWT France a également aidé d'aucy Le Faouët quant aux aspects administratifs et financiers [...] « Outre la fabrication et l'installation des matériels, l'accompagnement des équipes BWT France quant aux aspects administratifs a été particulièrement apprécié [...] Des contrôles analytiques sont réalisés tous les mois et une visite de maintenance chaque trimestre »"
+    },
+    {
+      "champ": "description, mesures (ACT_FRL_006 materiel)",
+      "url": "https://www.ria.fr/sequiper/production/best-water-technology-aide-lusine-daucy-le-faouet-a-recycler-ses-eaux-usees/",
+      "date": "2026-09-25",
+      "extrait": "La société Best Water Technology a fourni à la conserverie de d'Aucy [...], située à Lanvenegen (Morbihan), un osmoseur inverse sigma afin de lui permettre de retraiter ses eaux usées. L'unité de potabilisation possède une capacité de traitement de 400 à 600 m3/jour [...] soit une économie d'eau prélevée de 100 000 m3."
+    },
+    {
+      "champ": "description, expertises",
+      "url": "https://bwt-industries.com/expertise/offre-globale-360",
+      "date": "2026-09-25",
+      "extrait": "des équipements techniques (adoucisseurs, osmoseurs, ozoneurs, etc.) [...] équipements de filtration, d'échangeurs d'ions, de technologies membranaires [...] mise en service, contrats de maintenance, dépannage [...] audit, formation"
+    },
+    {
+      "champ": "description (réutilisation des eaux de process et de STEP)",
+      "url": "https://bwt-industries.com/expertise/cycle-de-l-leau",
+      "date": "2026-09-25",
+      "extrait": "Les eaux de rejets. Stations d'épuration et Reuse [...] dans le cadre d'une approche globale (eaux de STEP) ou en boucle courte (réutilisation des eaux de process)"
+    },
+    {
+      "champ": "departements, description (agences)",
+      "url": "https://bwt-industries.com/agences",
+      "date": "2026-09-25",
+      "extrait": "pas moins de 7 agences régionales maillent le territoire métropolitain, pour que nos équipes commerciales et techniques soient au plus près de vos besoins en traitement d'eau et de tous vos sites industriels, quels que soient leur emplacement et leur secteur d'activité."
+    },
+    {
+      "champ": "type, description (conçoit et fabrique)",
+      "url": "https://bwt-industries.com/",
+      "date": "2026-09-25",
+      "extrait": "BWT conçoit, fabrique et met en œuvre des solutions à la fois techniques et globales, associant des stations de traitement standard ou sur-mesure, des formulations pour le conditionnement des eaux et une offre de service experte."
+    },
+    {
+      "champ": "description (réutilisation d'eaux usées traitées, autorisations)",
+      "url": "https://aides-redevances.eau-loire-bretagne.fr/home/retours-dexperiences/daucy---reutiliser-leau-dans-un-process-industriel.html",
+      "date": "2026-09-25",
+      "extrait": "mise en service d'une station d'épuration en 2019 avec un système d'ultrafiltration et complété en 2023 par un système de purification de l'eau par osmose inverse. [...] l'utilisation d'une eau recyclée passe, évidemment, par des autorisations afin de garantir, in fine, la conformité sanitaire des légumes."
+    }
+  ],
+  "date_maj": "2026-09-25"
+}

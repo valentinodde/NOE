@@ -1,0 +1,110 @@
+{
+  "id": "PREST_LAI_003",
+  "nom": "Réseau des ENIL - ANFOPEIL",
+  "type": "organisme_formation",
+  "logo_url": "https://anfopeil-enil.fr/wp-content/uploads/2017/05/cropped-cropped-Anfopeil-L1-SIMPLE-NEW-2.png",
+  "siret": "77841316100010",
+  "description": "L'ANFOPEIL est l'association qui porte la formation continue du réseau des ENIL : elle regroupe les écoles nationales d'industrie laitière et leurs amicales d'anciens élèves, le centre technique Actalia et la profession laitière, s'appuie sur six centres de formation (Aurillac, La Roche-sur-Foron, Mamirolle, Poligny, Saint-Lô et Surgères) et sur plus de cinquante formateurs, et est certifiée Qualiopi au titre des actions de formation. Pour un transformateur laitier, elle organise une soixantaine de formations courtes inter-entreprises réparties en dix domaines dont l'environnement, où trois stages portent sur la conduite d'une station d'épuration d'effluents laitiers et alimentaires (caractéristiques des effluents, principes du traitement biologique, indicateurs et paramètres de suivi, traitement des dysfonctionnements), ainsi que des formations intra-entreprise sur mesure dans vos locaux ou dans ses écoles, des CQP de la branche laitière et des modules en ligne. Chaque stage se pré-réserve sur le site au tarif hors taxes affiché par participant, son ouverture est soumise à un nombre minimum de stagiaires, et les chargés d'ingénierie de chaque centre construisent une réponse sur mesure, la demande passant par accueil@anfopeil-enil.fr.",
+  "expertises": [
+    "Conduite de station d'épuration",
+    "Traitement des effluents laitiers",
+    "Formations courtes inter-entreprises",
+    "Formation intra-entreprise sur mesure"
+  ],
+  "categories": [
+    "sensibiliser_former",
+    "agir_rejets_qualite"
+  ],
+  "secteurs": ["industrie_laitiere"],
+  "departements": [],
+  "mesures": [
+    { "id": "ACT_LAI_008", "roles": ["formation"] }
+  ],
+  "contacts": [
+    { "type": "site_internet", "value": "https://anfopeil-enil.fr" },
+    { "type": "mail", "value": "accueil@anfopeil-enil.fr" },
+    { "type": "adresse", "value": "BP 10025, Place du Champ de Foire, 39801 Poligny Cedex" }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "nom, type, description, logo_url",
+      "url": "https://anfopeil-enil.fr/lanfopeil/",
+      "date": "2026-09-22",
+      "extrait": "Votre partenaire de formation en transformation laitière. Depuis plus de 50 ans, l'ANFOPEIL s'est imposée comme la référence incontestée en matière de formation dans le secteur de la transformation laitière. Notre association, regroupant les Ecoles Nationales d'Industrie Laitière (ENIL), leurs amicales d'anciens élèves, ACTALIA et la profession laitière, s'engage à promouvoir, coordonner et harmoniser la formation professionnelle dans ce domaine. Notre réseau de plus de 50 formateurs spécialisés offre une couverture nationale. 2070 stagiaires formés en 2024. Le logo retenu est celui de l'en-tête du site."
+    },
+    {
+      "champ": "type, contacts, description",
+      "url": "https://anfopeil-enil.fr/wp-content/uploads/2025/08/928099-40507-Certificat-Qualiopi-renouvellement-ANFOPEIL.pdf",
+      "date": "2026-09-22",
+      "extrait": "Certificat Apave n° 928099/r3 : Apave Certification certifie que le processus mis en place par ANFOPEIL, sur le site suivant BP 10025 Place du Champ de Foire, 39801 Poligny Cédex France, n° de déclaration d'activité 27390109139, n° SIREN 778413161, pour les activités suivantes : Actions de formation, a été évalué conforme. Valable du 23/07/2024 au 22/07/2027. Certificat téléchargeable depuis la page L'ANFOPEIL."
+    },
+    {
+      "champ": "siret, contacts",
+      "url": "https://anfopeil-enil.fr/mentions-legales/",
+      "date": "2026-09-22",
+      "extrait": "Propriétaire : ANFOPEIL - 77841316100010 - BP 100025 39801 POLIGNY. Responsable publication : Jehan MOREAU, Président de l'ANFOPEIL - accueil@anfopeil-enil.fr"
+    },
+    {
+      "champ": "siret",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=ANFOPEIL&departement=39",
+      "date": "2026-09-22",
+      "extrait": "RESEAU DES ENIL - ANFOPEIL (ANFOPEIL-ENILS), siren 778413161, siret du siège 77841316100010, RUE DU CHAMP DE FOIRE 39800 POLIGNY, departement 39, nature juridique 9220, activité principale 85.59B, 1 établissement ouvert."
+    },
+    {
+      "champ": "contacts",
+      "url": "https://anfopeil-enil.fr/nous-contacter/",
+      "date": "2026-09-22",
+      "extrait": "Nous contacter : accueil@anfopeil-enil.fr. La page ne donne aucun numéro de téléphone ni adresse postale, le courriel est le seul canal proposé."
+    },
+    {
+      "champ": "departements, description, expertises",
+      "url": "https://anfopeil-enil.fr/les-actions-intra-entreprise/",
+      "date": "2026-09-22",
+      "extrait": "Formation intra-entreprise : des formations sur mesure, directement dans votre entreprise ou dans nos écoles. Formation inter-entreprise : nos formations courtes sont organisées tout au long de l'année dans les ENIL. 60 formations courtes. Des domaines variés : lait et préparation des laits, auxiliaires technologiques, fromage, produits frais, crèmes glacées, produits secs, laboratoire, hygiène et qualité, environnement, outils et installations. 6 centres de formation : Aurillac, La Roche sur Foron, Mamirolle, Poligny, Saint-Lô, Surgères."
+    },
+    {
+      "champ": "description",
+      "url": "https://anfopeil-enil.fr/centres-de-formation/",
+      "date": "2026-09-22",
+      "extrait": "Dans chacun de nos centres de formation, vous pouvez accéder à l'ensemble de notre offre : formations courtes, en intra ou CQP, en présentiel ou en ligne. Chaque site dispose de ses propres infrastructures ainsi que de chargés d'ingénierie pour construire avec vous la réponse la plus adaptée à vos besoins."
+    },
+    {
+      "champ": "description",
+      "url": "https://anfopeil-enil.fr/distanciel/",
+      "date": "2026-09-22",
+      "extrait": "Se former en ligne. Formation courte en ligne : formations en visio, animées en direct par nos formateurs experts du secteur laitier et agroalimentaire. Webalim : plateforme en ligne pour se former à son rythme, plus de 100 modules de formation."
+    },
+    {
+      "champ": "expertises, mesures ACT_LAI_008",
+      "url": "https://anfopeil-enil.fr/categorie-produit/environnement/",
+      "date": "2026-09-22",
+      "extrait": "Domaine L. Environnement, 7 stages, dont N°49 Station d'épuration dans la transformation laitière et alimentaire 1350 euros, N°50 Fonctionnement d'une station d'épuration (NIVEAU 1) : principes de base 1160 euros, N°51 Fonctionnement d'une station d'épuration (NIVEAU 2) : les dysfonctionnements 1160 euros."
+    },
+    {
+      "champ": "mesures ACT_LAI_008, expertises",
+      "url": "https://anfopeil-enil.fr/produit/n50-fonctionnement-dune-station-depuration-niveau-1-principes-de-base-2026-mamirolle/",
+      "date": "2026-09-22",
+      "extrait": "N°50/ Fonctionnement d'une station d'épuration (NIVEAU 1) : principes de base/ 2026 (Mamirolle). Description du stage, contenu général : caractéristiques des effluents alimentaires ; principes de fonctionnement des systèmes de traitement biologique ; indicateurs et paramètres de suivi ; analyse des principaux types de dysfonctionnements, visites techniques. Publics ciblés : salariés avec expérience (personnel de production, techniciens qualité / laboratoire). 1160 euros HT, tarif TTC 1 392 euros. Date : S13 - 24/03/2026 au 26/03/2026, session déjà passée au 22/09/2026."
+    },
+    {
+      "champ": "mesures ACT_LAI_008",
+      "url": "https://anfopeil-enil.fr/produit/n51-fonctionnement-dune-station-depuration-niveau-2-les-dysfonctionnements-2026-mamirolle/",
+      "date": "2026-09-22",
+      "extrait": "N°51/ Fonctionnement d'une station d'épuration (NIVEAU 2) : les dysfonctionnements/ 2026 (Mamirolle). Contenu général : rappels caractéristiques effluents, principes de pilotage de station ; clef de détermination des dysfonctionnements d'origine hydraulique ou biologique, départs de boues, bactéries filamenteuses ; prévention des dysfonctionnements. Publics ciblés : responsables techniques, techniciens R&D, responsables qualité. 1160 euros HT. Date : S41 - 07/10/2026 (8h00) au 08/10/2026 (17h00), session à venir. L'ouverture des stages est soumise à un nombre minimum de stagiaire."
+    },
+    {
+      "champ": "mesures ACT_LAI_008",
+      "url": "https://anfopeil-enil.fr/produit/n58-station-depuration-dans-la-transformation-laitiere-et-alimentaire-2026-mamirolle/",
+      "date": "2026-09-22",
+      "extrait": "N°49/ Station d'épuration dans la transformation laitière et alimentaire/ 2026 (Mamirolle). Contenu général : fonctionnement d'une station de traitement des effluents de type biologiques ; paramètre de conduite ; adaptation en fonction des effluents ; gestion des dysfonctionnements. Publics ciblés : responsables qualité, environnement, maintenance, conducteurs de station d'épuration. 1350 euros HT, tarif TTC 1 620 euros. Dates : semaine 21 à 24, 1 jour de formation par semaine ; semaine 45 à 48, 1 jour de formation par semaine, session à venir."
+    },
+    {
+      "champ": "point de verification, stage n°46 non retenu",
+      "url": "https://anfopeil-enil.fr/produit/n46-optimisation-des-nettoyage-2026/",
+      "date": "2026-09-22",
+      "extrait": "N°46/ Optimisation des nettoyages dans la transformation laitière et alimentaire/ 2026, 460 euros, 2 x 0,5 jour, sessions du 23 au 24 avril 2026 et du 26 au 27 novembre 2026. Mais la description du stage sur cette page ne porte pas sur le nettoyage : contenu général, l'analyse du Cycle de Vie et son application au secteur laitier ; réglementation ; principes et outils de calcul de score. Publics ciblés : responsables environnement, RSE, développement durable, personnel encadrant, ou avoir suivi le module 1 L'Analyse du cycle de vie. Le titre et le programme de cette page se contredisent : aucun lien de mesure n'est fondé dessus."
+    }
+  ],
+  "date_maj": "2026-09-22"
+}

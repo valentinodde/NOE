@@ -1,0 +1,167 @@
+{
+  "id": "AIDE_GCU_008",
+  "nom": "Dispositif d'intervention régionale pour la gestion de l'eau agricole (Région Occitanie, règlement 2021)",
+  "financeur": "Région Occitanie",
+  "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792084946/Noe%20assets/logos/AIDE_GCU_008.png",
+  "type": "subvention",
+  "taux": "30 % maximum pour une étude préalable à une retenue individuelle portée par une exploitation. 40 % maximum pour les autres volets (études de faisabilité collectives, investissements hydrauliques, conseil et animation, travaux d'urgence).",
+  "plafond": "Plancher de 3 000 € de dépenses pour les études de faisabilité. Aide plafonnée à 100 000 € pour les investissements hydrauliques.",
+  "description": "Subvention de la Région Occitanie aux opérations qui optimisent la gestion quantitative de l'eau agricole, en complément des aides hydrauliques du FEADER. Elle compte cinq volets : études pour l'optimisation de la gestion de l'eau agricole, études de faisabilité, investissements hydrauliques non pris en charge par les programmes européens, conseil et animation pour une gestion économe de l'eau, travaux d'urgence après intempéries. Pour une exploitation, le volet utile est l'étude préalable à une retenue individuelle (faisabilité, géotechnique, calcul de remplissage, dossier Loi sur l'eau), aidée à 30 % lorsqu'elle est présentée avant les travaux. Les études collectives et les programmes de conseil et d'animation auprès d'un collectif d'irrigants, aidés à 40 %, sont portés par des structures (chambres d'agriculture, ASA, OUGC, collectivités, organismes de recherche et développement) et ne versent rien à l'exploitant.",
+  "eligibilite": "Collectivités et leurs groupements, CACG et BRL, ASA d'irrigation, ASA de travaux et ASL, chambres d'agriculture, OUGC, coopératives, exploitations agricoles et acteurs de la recherche et du développement. Pour les études de faisabilité, une exploitation ne peut présenter que des études préalables à une retenue individuelle, et un projet porté par une structure tierce pour le compte d'une exploitation n'est pas éligible.",
+  "categories": [
+    "valoriser_reut_eaux_non_conventionnelles"
+  ],
+  "secteurs": [
+    "grandes_cultures"
+  ],
+  "departements": [
+    "09",
+    "11",
+    "12",
+    "30",
+    "31",
+    "32",
+    "34",
+    "46",
+    "48",
+    "65",
+    "66",
+    "81",
+    "82"
+  ],
+  "agences": [],
+  "mesures": [
+    "ACT_GCU_008"
+  ],
+  "infos_complementaires": [
+    {
+      "type": "avertissement",
+      "texte": "Le règlement publié est la version 2021 et renvoie encore aux programmes de développement rural « en vigueur jusqu'en 2020 ». La page du dispositif reste en ligne sur le site de la Région, mise à jour le 26 août 2026, avec un lien de dépôt actif, mais n'indique ni date de fin ni nouvelle version (constat du 15 octobre 2026). Faites confirmer par le service de la Région que le dispositif et ses taux s'appliquent encore avant de monter le dossier."
+    },
+    {
+      "type": "avertissement",
+      "texte": "La demande doit être déposée avant tout commencement de l'étude : les dépenses ne sont éligibles qu'à partir de la date de réception du dossier par la Région, indiquée sur l'accusé de réception."
+    },
+    {
+      "type": "avertissement",
+      "texte": "Le taux de 30 % vaut pour une étude présentée avant les dépenses de réalisation de la retenue. Une étude présentée dans le même dossier que les travaux suit le taux du programme qui finance les travaux. Les investissements à la parcelle (matériel et équipement d'irrigation) sont exclus du volet investissements hydrauliques."
+    },
+    {
+      "type": "info",
+      "texte": "L'étude financée doit analyser l'investissement projeté avec des indicateurs sur la plus-value pour la production agricole, les coûts de gestion, la rentabilité, la consommation d'eau et les actions de maîtrise de cette consommation. Un premier contact avec le service de l'État chargé de l'instruction réglementaire peut être demandé. Les zones en déséquilibre du SDAGE et les projets collectifs sont prioritaires."
+    },
+    {
+      "type": "info",
+      "texte": "Le dossier se dépose en ligne sur la plateforme Mes Aides en Ligne de la Région. Contacts indiqués sur la page du dispositif : site de Montpellier, fabrice.benezech@laregion.fr, site de Toulouse, charlotte.lebris@laregion.fr (lus le 15 octobre 2026)."
+    },
+    {
+      "type": "ressource",
+      "texte": "Page du dispositif sur le site de la Région Occitanie",
+      "lien": "https://www.laregion.fr/Dispositif-d-intervention-regionale-pour-la-gestion-de-l-eau-agricole"
+    },
+    {
+      "type": "ressource",
+      "texte": "Règlement du dispositif, version 2021 (PDF)",
+      "lien": "https://www.laregion.fr/IMG/pdf/annexe_i_nouveau_dispositif_eau_agricole_2021.pdf"
+    },
+    {
+      "type": "ressource",
+      "texte": "Dépôt de la demande sur Mes Aides en Ligne",
+      "lien": "https://mesaidesenligne.laregion.fr/aides/#/croccitanie/connecte/F_DELTAA_EAUAGR/depot/simple"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "nom, financeur, description (objectif, cinq volets)",
+      "url": "https://www.laregion.fr/Dispositif-d-intervention-regionale-pour-la-gestion-de-l-eau-agricole",
+      "date": "2026-10-15",
+      "extrait": "Le dispositif vise à accompagner des opérations dédiées à l'optimisation de la gestion quantitative de l'eau agricole [...] Il se décline en 5 volets : a. Études pour l'optimisation de la gestion de l'eau agricole b. Etude de faisabilité c. Investissements hydrauliques d. Conseil et animation pour une gestion économe de l'eau e. Travaux d'urgence suite à des intempéries"
+    },
+    {
+      "champ": "eligibilite",
+      "url": "https://www.laregion.fr/IMG/pdf/annexe_i_nouveau_dispositif_eau_agricole_2021.pdf",
+      "date": "2026-10-15",
+      "extrait": "Les bénéficiaires de ce dispositif sont les collectivités et leur groupement, les sociétés d'aménagement compétentes en hydraulique agricole (CACG et BRL), les ASA d'irrigation, les ASA de travaux et ASL, les Chambres d'agriculture, les OUGC, les sociétés coopératives, les exploitations agricoles et les acteurs de la recherche et du développement [...] NB : les projets portés pour le compte d'une exploitation agricole par une structure tiers ne sont pas éligibles."
+    },
+    {
+      "champ": "eligibilite, description, mesures (ACT_GCU_008)",
+      "url": "https://www.laregion.fr/IMG/pdf/annexe_i_nouveau_dispositif_eau_agricole_2021.pdf",
+      "date": "2026-10-15",
+      "extrait": "Ces études sont directement liées à un investissement hydraulique projeté pour les besoins agricoles : études de faisabilité et d'avant-projet permettant de dimensionner un investissement, études géotechniques de retenue collinaire, calcul de remplissage, étude environnementale et réglementaire (dossier Loi sur l'Eau) [...] NB : pour ce volet études de faisabilité, les projets portés par des exploitations agricoles sont limités aux études préalables aux investissements concernant les retenues individuelles."
+    },
+    {
+      "champ": "taux, plafond",
+      "url": "https://www.laregion.fr/IMG/pdf/annexe_i_nouveau_dispositif_eau_agricole_2021.pdf",
+      "date": "2026-10-15",
+      "extrait": "Etude de faisabilité [...] Cas particulier des études préalables aux retenues individuelles en exploitation : 40% / 30% pour les études retenues individuelles. Plancher de dépenses à 3 000€ [...] Investissements hydrauliques : 40% Plafond d'aide : 100 000 € [...] Conseil et animation pour une gestion économe de l'eau : 40 % [...] Travaux d'urgence suite à des intempéries : 40%"
+    },
+    {
+      "champ": "taux (études pour l'optimisation)",
+      "url": "https://www.laregion.fr/IMG/pdf/annexe_i_nouveau_dispositif_eau_agricole_2021.pdf",
+      "date": "2026-10-15",
+      "extrait": "Etudes et programmes pour l'optimisation de la gestion de l'eau agricole [...] 30% en complément du financement AEAG pour les audits-diagnostics. Autre : 40%"
+    },
+    {
+      "champ": "description (conseil et études collectifs portés par des structures), mesures (ACT_AGR_010 non liée)",
+      "url": "https://www.laregion.fr/IMG/pdf/annexe_i_nouveau_dispositif_eau_agricole_2021.pdf",
+      "date": "2026-10-15",
+      "extrait": "Autres bénéficiaires (4) : Etudes pour l'optimisation de la gestion de l'eau agricole : Max 40% / Conseil et animation pour une gestion économe de l'eau : Programmes d'animation / conseil dispensé auprès d'un collectif d'irrigants ou sur un territoire donné : Max 40% [...] (4) : structures du développement agricole, de la R&D, collectivités ayant la compétence gestion de l'eau"
+    },
+    {
+      "champ": "infos_complementaires (taux de 30 % pour une étude présentée avant les travaux, matériel à la parcelle exclu)",
+      "url": "https://www.laregion.fr/IMG/pdf/annexe_i_nouveau_dispositif_eau_agricole_2021.pdf",
+      "date": "2026-10-15",
+      "extrait": "Etudes pour les retenues individuelles : Etudes préalables aux investissements physiques présentées en même temps que ceux-ci (un seul dossier) : taux du PDR. Etudes préalables aux investissements présentées avant les dépenses de réalisation de celui ci : Max 30% - plancher de 3000 € [...] NB : sont exclues des opérations éligibles : les investissements à la parcelle (matériel, équipement d'irrigation, …)"
+    },
+    {
+      "champ": "infos_complementaires (dépôt avant commencement)",
+      "url": "https://www.laregion.fr/IMG/pdf/annexe_i_nouveau_dispositif_eau_agricole_2021.pdf",
+      "date": "2026-10-15",
+      "extrait": "La demande de financement doit être antérieure au commencement d'exécution de l'opération (sauf pour le volet « Travaux d'urgence suite à des intempéries »). Les dépenses sont éligibles à compter de la date de réception du dossier à la Région qui figure sur l'accusé de réception transmis par la Région"
+    },
+    {
+      "champ": "infos_complementaires (contenu de l'étude, priorités)",
+      "url": "https://www.laregion.fr/IMG/pdf/annexe_i_nouveau_dispositif_eau_agricole_2021.pdf",
+      "date": "2026-10-15",
+      "extrait": "Si besoin, un premier contact avec l'administration en charge de l'instruction réglementaire du projet sera demandé [...] Les études financées devront comporter une analyse de l'investissement projeté, comportant notamment des indicateurs sur : la plus-value de l'investissement pour la production agricole, les coûts de gestion et la rentabilité du projet, la consommation d'eau et les actions mise en place pour la maîtrise de la consommation en eau [...] Les projets collectifs et ciblés sur des territoires seront privilégiés. Les zones en déséquilibre des SDAGE seront prioritaires"
+    },
+    {
+      "champ": "infos_complementaires (validité : règlement 2021, PDR jusqu'en 2020)",
+      "url": "https://www.laregion.fr/IMG/pdf/annexe_i_nouveau_dispositif_eau_agricole_2021.pdf",
+      "date": "2026-10-15",
+      "extrait": "Dispositif d'intervention régionale pour la gestion de l'eau agricole - 1/11 - version 2021 [...] en plusieurs types d'opération au sein des Plans de Développement Ruraux (PDR) Languedoc-Roussillon et Midi-Pyrénées, en vigueur jusqu'en 2020"
+    },
+    {
+      "champ": "infos_complementaires (validité : page en ligne, mise à jour)",
+      "url": "https://www.laregion.fr/Dispositif-d-intervention-regionale-pour-la-gestion-de-l-eau-agricole",
+      "date": "2026-10-15",
+      "extrait": "Métadonnées de la page : DC.Date.Modified 2026-08-26, publiée le 2021-09-03. Aucune date de fin ni période de dépôt indiquée. Téléchargements : Détail du dispositif d'intervention régionale pour la gestion de l'eau agricole (application PDF, 269.8 kio)"
+    },
+    {
+      "champ": "infos_complementaires (dépôt sur Mes Aides en Ligne, contacts)",
+      "url": "https://www.laregion.fr/Dispositif-d-intervention-regionale-pour-la-gestion-de-l-eau-agricole",
+      "date": "2026-10-15",
+      "extrait": "Le dépôt des dossiers se fait de manière dématérialisée en accédant à la plateforme \"Mes Aides en Ligne\". [...] Contact : Site de Montpellier : Fabrice BENEZECH - fabrice.benezech@laregion.fr. Site de Toulouse : Charlotte LE BRIS - charlotte.lebris@laregion.fr"
+    },
+    {
+      "champ": "departements",
+      "url": "https://www.laregion.fr/IMG/pdf/annexe_i_nouveau_dispositif_eau_agricole_2021.pdf",
+      "date": "2026-10-15",
+      "extrait": "262 000 hectares (RA 2010) sont irrigués en Occitanie [...] Les 13 Départements de la région ont également été consultés"
+    },
+    {
+      "champ": "departements (codes des 13 départements d'Occitanie)",
+      "url": "https://www.europe-en-occitanie.eu/Investissements-exploitations-agricoles-FEADER23-27",
+      "date": "2026-10-15",
+      "extrait": "Contacts du service instructeur de la Région par département : 9 investissements.agri09@laregion.fr, 11 et 66 investissements.agri11-66@laregion.fr, 12, 30 et 34, 31, 32 et 65, 46 et 82, 48, 81 investissements.agri81@laregion.fr"
+    },
+    {
+      "champ": "logo_url",
+      "url": "https://www.laregion.fr/plugins/occitanie/squelettes-occitanie/squelettes/apple-icon-180x180.png",
+      "date": "2026-10-15",
+      "extrait": "Icône apple-touch-icon (180 x 180) déclarée par la page du dispositif sur https://www.laregion.fr/"
+    }
+  ],
+  "date_maj": "2026-10-15"
+}

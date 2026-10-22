@@ -1,0 +1,955 @@
+{
+  "sector_id": "industrie_huiles",
+  "sector_label": "Huiles et corps gras",
+  "naf_codes": [
+    "10.41A",
+    "10.41B",
+    "10.42Z"
+  ],
+  "themes": [
+    {
+      "id": "connaissance",
+      "label": "Connaissance & mesure"
+    },
+    {
+      "id": "pratiques",
+      "label": "Procédés & nettoyage"
+    },
+    {
+      "id": "valorisation",
+      "label": "Réutilisation & rejets"
+    },
+    {
+      "id": "gouvernance",
+      "label": "Gouvernance & anticipation"
+    }
+  ],
+  "questions": [
+    {
+      "id": "hui_q01",
+      "theme": "connaissance",
+      "order": 1,
+      "type": "single_choice",
+      "text": "Quelle est l'activité principale de votre site de production ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "moulin_olive",
+          "text": "Moulin à huile d'olive",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": []
+        },
+        {
+          "id": "pression_froid",
+          "text": "Huilerie par pression à froid (noix, colza, lin...)",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": []
+        },
+        {
+          "id": "trituration_raffinage",
+          "text": "Trituration, raffinage ou fabrication de margarine",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": []
+        },
+        {
+          "id": "fonte_animale",
+          "text": "Fonte de graisses animales ou huile de poisson",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "hui_q02",
+      "theme": "connaissance",
+      "order": 2,
+      "type": "single_choice",
+      "text": "Comment suivez-vous aujourd'hui la consommation d'eau de votre site ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "aucun_compteur",
+          "text": "Pas de compteur, je m'en remets à la facture",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "comptage"
+          ]
+        },
+        {
+          "id": "compteur_general",
+          "text": "Un compteur général, relevé de temps en temps",
+          "maturity_score": 1,
+          "concern_score": 1,
+          "topics": [
+            "comptage"
+          ]
+        },
+        {
+          "id": "par_poste",
+          "text": "Des compteurs par poste ou par atelier, relevés",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        },
+        {
+          "id": "ratio_tonne",
+          "text": "Des compteurs par poste et un ratio par tonne traitée",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "hui_q03",
+      "theme": "connaissance",
+      "order": 3,
+      "type": "multi_choice",
+      "text": "D'où provient l'eau que vous utilisez sur le site ? (plusieurs réponses possibles)",
+      "condition": null,
+      "class": "source_eau",
+      "options": [
+        {
+          "id": "aep",
+          "text": "Réseau public d'eau potable",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "sources_alternatives"
+          ]
+        },
+        {
+          "id": "forage",
+          "text": "Forage ou captage d'eau souterraine",
+          "maturity_score": 0,
+          "concern_score": 1,
+          "topics": []
+        },
+        {
+          "id": "surface",
+          "text": "Captage d'eau de surface (rivière, canal)",
+          "maturity_score": 0,
+          "concern_score": 1,
+          "topics": []
+        },
+        {
+          "id": "pluie",
+          "text": "Eau de pluie récupérée",
+          "maturity_score": 1,
+          "concern_score": 2,
+          "topics": []
+        },
+        {
+          "id": "eaux_reutilisees",
+          "text": "Eaux recyclées sur le site ou eaux usées traitées",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "hui_q04",
+      "theme": "connaissance",
+      "order": 4,
+      "type": "numeric",
+      "text": "Quelle est votre consommation d'eau annuelle, tous usages confondus ?",
+      "condition": null,
+      "input": {
+        "unit": "m³/an",
+        "placeholder": "ex. 2000",
+        "min": 0,
+        "max": 10000000,
+        "integer_only": true
+      },
+      "scoring": {
+        "if_filled": {
+          "maturity_score": 1,
+          "concern_score": 1,
+          "topics": []
+        }
+      }
+    },
+    {
+      "id": "hui_q05",
+      "theme": "connaissance",
+      "order": 5,
+      "type": "single_choice",
+      "text": "Avez-vous réalisé un audit eau ou un diagnostic de vos consommations ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "jamais",
+          "text": "Non, jamais",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "audit"
+          ]
+        },
+        {
+          "id": "envisage",
+          "text": "On y a réfléchi mais pas encore fait",
+          "maturity_score": 0,
+          "concern_score": 2,
+          "topics": [
+            "audit"
+          ]
+        },
+        {
+          "id": "ancien",
+          "text": "Oui, il y a plus de cinq ans",
+          "maturity_score": 1,
+          "concern_score": 2,
+          "topics": [
+            "audit"
+          ]
+        },
+        {
+          "id": "recent",
+          "text": "Oui, il y a moins de trois ans",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "hui_q06",
+      "theme": "pratiques",
+      "order": 6,
+      "type": "single_choice",
+      "text": "Comment nettoyez-vous vos équipements et vos sols en fin de journée ou de campagne ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "jet_sans_raclage",
+          "text": "Au jet d'eau, sans raclage préalable",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "nettoyage"
+          ]
+        },
+        {
+          "id": "raclage_partiel",
+          "text": "Raclage à sec sur certains postes, puis jet",
+          "maturity_score": 1,
+          "concern_score": 1,
+          "topics": [
+            "nettoyage"
+          ]
+        },
+        {
+          "id": "raclage_systematique",
+          "text": "Raclage à sec partout, puis rinçage haute pression",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        },
+        {
+          "id": "consignes_suivies",
+          "text": "Consignes écrites par équipement, eau suivie",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "hui_q07",
+      "theme": "pratiques",
+      "order": 7,
+      "type": "single_choice",
+      "text": "Comment l'eau de votre laveuse à olives est-elle gérée pendant la campagne ?",
+      "condition": {
+        "questionId": "hui_q01",
+        "operator": "eq",
+        "value": "moulin_olive"
+      },
+      "options": [
+        {
+          "id": "eau_courante",
+          "text": "Elle coule en continu pendant le lavage",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "eau_moulin"
+          ]
+        },
+        {
+          "id": "vidange_journaliere",
+          "text": "Bac rempli puis vidé chaque jour, sans recyclage",
+          "maturity_score": 1,
+          "concern_score": 1,
+          "topics": [
+            "eau_moulin"
+          ]
+        },
+        {
+          "id": "recirculation_douche",
+          "text": "Eau recyclée, renouvelée, avec douche finale propre",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        },
+        {
+          "id": "sans_lavage",
+          "text": "Pas de lavage, effeuillage à sec seulement",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "hui_q08",
+      "theme": "pratiques",
+      "order": 8,
+      "type": "single_choice",
+      "text": "Avec quel procédé séparez-vous l'huile de la pâte d'olive au moulin ?",
+      "condition": {
+        "questionId": "hui_q01",
+        "operator": "eq",
+        "value": "moulin_olive"
+      },
+      "options": [
+        {
+          "id": "trois_phases",
+          "text": "Décanteur trois phases, avec eau ajoutée",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "eau_moulin"
+          ]
+        },
+        {
+          "id": "presse",
+          "text": "Presse traditionnelle (scourtins)",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        },
+        {
+          "id": "deux_phases_et_demie",
+          "text": "Décanteur deux phases et demie",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        },
+        {
+          "id": "deux_phases",
+          "text": "Décanteur deux phases, sans eau de dilution",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "hui_q09",
+      "theme": "valorisation",
+      "order": 9,
+      "type": "single_choice",
+      "text": "Que deviennent vos margines et vos grignons en fin de campagne ?",
+      "condition": {
+        "questionId": "hui_q01",
+        "operator": "eq",
+        "value": "moulin_olive"
+      },
+      "options": [
+        {
+          "id": "rejet_reseau_milieu",
+          "text": "Rejetés au réseau, au fossé ou stockés sans suite",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "margines"
+          ]
+        },
+        {
+          "id": "sans_plan",
+          "text": "Épandus chez un voisin, sans plan d'épandage",
+          "maturity_score": 1,
+          "concern_score": 1,
+          "topics": [
+            "margines"
+          ]
+        },
+        {
+          "id": "plan_epandage",
+          "text": "Épandus selon un plan d'épandage à jour",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        },
+        {
+          "id": "compost_valorisation",
+          "text": "Compostés ou valorisés par une filière dédiée",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "hui_q10",
+      "theme": "pratiques",
+      "order": 10,
+      "type": "single_choice",
+      "text": "Comment refroidissez-vous vos condenseurs (hexane, désodorisation, buées) ?",
+      "condition": {
+        "questionId": "hui_q01",
+        "operator": "in",
+        "value": [
+          "trituration_raffinage",
+          "fonte_animale"
+        ]
+      },
+      "options": [
+        {
+          "id": "eau_perdue",
+          "text": "Eau prélevée puis rejetée, sans recirculation",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "refroidissement"
+          ]
+        },
+        {
+          "id": "mixte",
+          "text": "En partie en eau perdue, en partie en boucle",
+          "maturity_score": 1,
+          "concern_score": 1,
+          "topics": [
+            "refroidissement"
+          ]
+        },
+        {
+          "id": "circuit_ferme",
+          "text": "Boucle fermée avec tour ou aéroréfrigérant",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        },
+        {
+          "id": "sans_eau",
+          "text": "Pas de refroidissement à eau sur le site",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "hui_q11",
+      "theme": "valorisation",
+      "order": 11,
+      "type": "single_choice",
+      "text": "Réutilisez-vous des condensats ou des eaux traitées pour d'autres usages ?",
+      "condition": {
+        "questionId": "hui_q01",
+        "operator": "in",
+        "value": [
+          "trituration_raffinage",
+          "fonte_animale"
+        ]
+      },
+      "options": [
+        {
+          "id": "non",
+          "text": "Non",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "sources_alternatives"
+          ]
+        },
+        {
+          "id": "envisage",
+          "text": "On y a réfléchi mais pas encore fait",
+          "maturity_score": 0,
+          "concern_score": 2,
+          "topics": [
+            "sources_alternatives"
+          ]
+        },
+        {
+          "id": "ponctuel",
+          "text": "Ponctuellement, sans organisation ni déclaration",
+          "maturity_score": 1,
+          "concern_score": 1,
+          "topics": [
+            "sources_alternatives"
+          ]
+        },
+        {
+          "id": "organise_declare",
+          "text": "Oui, de façon organisée et déclarée",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "hui_q12",
+      "theme": "valorisation",
+      "order": 12,
+      "type": "single_choice",
+      "text": "Comment vos effluents gras et acides sont-ils traités avant d'être rejetés ?",
+      "condition": {
+        "questionId": "hui_q01",
+        "operator": "in",
+        "value": [
+          "trituration_raffinage",
+          "fonte_animale"
+        ]
+      },
+      "options": [
+        {
+          "id": "aucun_traitement",
+          "text": "Aucun traitement, rejet direct au réseau",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "effluents"
+          ]
+        },
+        {
+          "id": "separateur_seul",
+          "text": "Un séparateur à graisses, sans autre traitement",
+          "maturity_score": 1,
+          "concern_score": 1,
+          "topics": [
+            "effluents"
+          ]
+        },
+        {
+          "id": "pretraitement_convention",
+          "text": "Prétraitement et convention de rejet à jour",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        },
+        {
+          "id": "station_confinement",
+          "text": "Station sur site, rétentions et réseaux obturables",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "hui_q13",
+      "theme": "gouvernance",
+      "order": 13,
+      "type": "single_choice",
+      "text": "Avez-vous analysé votre exposition aux restrictions d'eau en période de sécheresse ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "non_analyse",
+          "text": "Non, ce n'est pas un sujet que j'ai regardé",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "risque_reglementaire"
+          ]
+        },
+        {
+          "id": "informe",
+          "text": "Je suis informé, sans analyse formelle",
+          "maturity_score": 1,
+          "concern_score": 2,
+          "topics": [
+            "risque_reglementaire"
+          ]
+        },
+        {
+          "id": "evalue",
+          "text": "Oui, je sais ce qui s'arrêterait et dans quel ordre",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        },
+        {
+          "id": "plan_formalise",
+          "text": "Oui, et un plan écrit dit quoi réduire à chaque niveau",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "hui_q14",
+      "theme": "gouvernance",
+      "order": 14,
+      "type": "single_choice",
+      "text": "Participez-vous à une démarche collective sur l'eau à l'échelle du territoire ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "non",
+          "text": "Non, aucune",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "collectif"
+          ]
+        },
+        {
+          "id": "informe",
+          "text": "J'en ai entendu parler, sans y prendre part",
+          "maturity_score": 1,
+          "concern_score": 1,
+          "topics": [
+            "collectif"
+          ]
+        },
+        {
+          "id": "participe",
+          "text": "Oui, je participe aux réunions",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        },
+        {
+          "id": "pilote",
+          "text": "Oui, et j'y porte des engagements chiffrés",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    }
+  ],
+  "topics_labels": {
+    "comptage": "Comptage et suivi des volumes",
+    "sources_alternatives": "Sources d'eau alternatives",
+    "audit": "Audit eau",
+    "nettoyage": "Nettoyage à sec",
+    "eau_moulin": "Eau de process du moulin",
+    "margines": "Margines et grignons",
+    "refroidissement": "Refroidissement des condenseurs",
+    "effluents": "Traitement des effluents",
+    "risque_reglementaire": "Anticipation des restrictions",
+    "collectif": "Démarche collective"
+  },
+  "action_plan_config": {
+    "always_include": [],
+    "never_include": [],
+    "filters": [
+      {
+        "id": "f_suivi_absent",
+        "description": "Pas de compteur ou compteur général seul : recommander le comptage par poste",
+        "type": "answer",
+        "questionId": "hui_q02",
+        "operator": "in",
+        "value": [
+          "aucun_compteur",
+          "compteur_general"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_AGR_001"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_suivi_inconnu",
+        "description": "Mode de suivi de l'eau inconnu : ne pas savoir est le motif même de poser des compteurs",
+        "type": "answer",
+        "questionId": "hui_q02",
+        "operator": "not_answered",
+        "effect": "add",
+        "measures": [
+          "ACT_AGR_001"
+        ],
+        "priority": 3
+      },
+      {
+        "id": "f_sans_pluie",
+        "description": "Aucune eau de pluie récupérée : proposer la récupération pour les usages sans contact avec l'huile",
+        "type": "class",
+        "class": "source_eau",
+        "operator": "not_includes",
+        "value": "pluie",
+        "effect": "add",
+        "measures": [
+          "ACT_AGR_006"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_pluie_moulin",
+        "description": "Moulin à huile d'olive : l'eau potable est obligatoire pour le lavage, la trituration et le nettoyage, l'eau de pluie ne servirait qu'aux abords",
+        "type": "answer",
+        "questionId": "hui_q01",
+        "operator": "eq",
+        "value": "moulin_olive",
+        "effect": "remove",
+        "measures": [
+          "ACT_AGR_006"
+        ],
+        "priority": 2
+      },
+      {
+        "id": "f_pluie_gros_site",
+        "description": "Site de 100 000 m3 par an ou plus : l'eau de pluie récupérable est négligeable devant les volumes, les leviers sont le refroidissement et la réutilisation",
+        "type": "numeric",
+        "questionId": "hui_q04",
+        "operator": "gte",
+        "value": 100000,
+        "effect": "remove",
+        "measures": [
+          "ACT_AGR_006"
+        ],
+        "priority": 2
+      },
+      {
+        "id": "f_petit_site_compteur",
+        "description": "Moins de 500 m3 par an : un seul usage réel, relever le compteur général suffit, pas de compteurs divisionnaires",
+        "type": "numeric",
+        "questionId": "hui_q04",
+        "operator": "lt",
+        "value": 500,
+        "effect": "remove",
+        "measures": [
+          "ACT_AGR_001"
+        ],
+        "priority": 2
+      },
+      {
+        "id": "f_petit_site_audit",
+        "description": "Moins de 500 m3 par an : un audit externe coûterait plus que la facture d'eau, ne pas le proposer à un site qui répond",
+        "type": "numeric",
+        "questionId": "hui_q04",
+        "operator": "lt",
+        "value": 500,
+        "effect": "remove",
+        "measures": [
+          "ACT_AGR_002"
+        ],
+        "priority": 2
+      },
+      {
+        "id": "f_conso_icpe",
+        "description": "Consommation annuelle de 10 000 m3 ou plus, seuil de l'arrêté sécheresse ICPE du 30 juin 2023 : un plan de gestion écrit devient nécessaire",
+        "type": "numeric",
+        "questionId": "hui_q04",
+        "operator": "gte",
+        "value": 10000,
+        "effect": "add",
+        "measures": [
+          "ACT_AGR_009"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_volume_faible_reut",
+        "description": "Sous 10 000 m3 par an, l'étude et la procédure préfectorale d'une réutilisation ne s'amortissent pas : écarter la mesure",
+        "type": "numeric",
+        "questionId": "hui_q04",
+        "operator": "lt",
+        "value": 10000,
+        "effect": "remove",
+        "measures": [
+          "ACT_HUI_005"
+        ],
+        "priority": 2
+      },
+      {
+        "id": "f_pas_audit",
+        "description": "Pas d'audit, audit seulement envisagé ou de plus de cinq ans : recommander le diagnostic",
+        "type": "answer",
+        "questionId": "hui_q05",
+        "operator": "in",
+        "value": [
+          "jamais",
+          "envisage",
+          "ancien"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_AGR_002"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_audit_inconnu",
+        "description": "Question de l'audit laissée sans réponse : ne pas savoir est le motif même de recommander le diagnostic",
+        "type": "answer",
+        "questionId": "hui_q05",
+        "operator": "not_answered",
+        "effect": "add",
+        "measures": [
+          "ACT_AGR_002"
+        ],
+        "priority": 3
+      },
+      {
+        "id": "f_nettoyage_au_jet",
+        "description": "Nettoyage au jet sans raclage, ou raclage partiel : recommander le nettoyage à sec préalable et des consignes",
+        "type": "answer",
+        "questionId": "hui_q06",
+        "operator": "in",
+        "value": [
+          "jet_sans_raclage",
+          "raclage_partiel"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_HUI_004"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_lavage_olives_ouvert",
+        "description": "Laveuse à olives en eau courante ou vidée chaque jour sans recyclage : recommander la recirculation avec douche finale",
+        "type": "answer",
+        "questionId": "hui_q07",
+        "operator": "in",
+        "value": [
+          "eau_courante",
+          "vidange_journaliere"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_HUI_001"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_trois_phases",
+        "description": "Décanteur trois phases qui dilue la pâte : proposer le passage au deux phases",
+        "type": "answer",
+        "questionId": "hui_q08",
+        "operator": "eq",
+        "value": "trois_phases",
+        "effect": "add",
+        "measures": [
+          "ACT_HUI_003"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_margines_hors_filiere",
+        "description": "Margines et grignons rejetés, stockés sans suite ou épandus sans plan : organiser une filière encadrée",
+        "type": "answer",
+        "questionId": "hui_q09",
+        "operator": "in",
+        "value": [
+          "rejet_reseau_milieu",
+          "sans_plan"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_HUI_006"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_refroidissement_ouvert",
+        "description": "Condenseurs refroidis tout ou partie en eau perdue : recommander la boucle fermée",
+        "type": "answer",
+        "questionId": "hui_q10",
+        "operator": "in",
+        "value": [
+          "eau_perdue",
+          "mixte"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_HUI_002"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_pas_de_reut",
+        "description": "Aucune réutilisation organisée des condensats ou eaux traitées : proposer la réutilisation pour les usages sans contact",
+        "type": "answer",
+        "questionId": "hui_q11",
+        "operator": "in",
+        "value": [
+          "non",
+          "envisage",
+          "ponctuel"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_HUI_005"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_effluents_fragiles",
+        "description": "Effluents rejetés sans traitement ou avec un simple séparateur à graisses : séparer, prétraiter et confiner",
+        "type": "answer",
+        "questionId": "hui_q12",
+        "operator": "in",
+        "value": [
+          "aucun_traitement",
+          "separateur_seul"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_HUI_007"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_risque_non_analyse",
+        "description": "Exposition aux restrictions non analysée ou connue sans formalisation : recommander le plan de gestion",
+        "type": "answer",
+        "questionId": "hui_q13",
+        "operator": "in",
+        "value": [
+          "non_analyse",
+          "informe"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_AGR_009"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_plan_deja_formalise",
+        "description": "Plan de gestion de l'eau déjà écrit : ne pas le proposer, même au-dessus du seuil de 10 000 m3",
+        "type": "answer",
+        "questionId": "hui_q13",
+        "operator": "eq",
+        "value": "plan_formalise",
+        "effect": "remove",
+        "measures": [
+          "ACT_AGR_009"
+        ],
+        "priority": 2
+      },
+      {
+        "id": "f_hors_collectif",
+        "description": "Hors de toute démarche collective de territoire : proposer d'y entrer",
+        "type": "answer",
+        "questionId": "hui_q14",
+        "operator": "in",
+        "value": [
+          "non",
+          "informe"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_AGR_010"
+        ],
+        "priority": 1
+      }
+    ]
+  }
+}

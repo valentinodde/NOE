@@ -1,0 +1,155 @@
+{
+  "id": "AIDE_VIA_004",
+  "nom": "IND_1, maîtriser et réduire les pollutions des activités économiques (agence de l'eau Loire-Bretagne, 12e programme)",
+  "financeur": "Agence de l'eau Loire-Bretagne",
+  "logo_url": null,
+  "type": "subvention",
+  "taux": "Taux maximaux, qui peuvent être limités par l'encadrement européen des aides publiques en tenant compte des zones d'aide à finalité régionale. Études de réduction des pollutions et études préalables aux travaux : 50 %. Travaux de réduction des rejets à la source : 70 %. Travaux de réduction des rejets macropolluants (azote, carbone, phosphore) par traitement ou prétraitement : 25 %, porté à 50 % pour un établissement identifié prioritaire ou raccordé à un système d'assainissement prioritaire et inscrit dans un accord industriel pour l'eau signé avec l'agence. Travaux de réduction des rejets micropolluants par traitement : 50 %, porté à 70 % dans les mêmes conditions. Autres travaux de réduction des pressions : 25 %. Majoration possible de 5 points pour les travaux qui entraînent une baisse de la consommation d'énergie.",
+  "plafond": "Travaux de réduction des rejets macropolluants par traitement : coût plafond calculé sur la diminution des flux nets rejetés, 82 500 € + 6 600 € par kg de DCO/j + 66 000 € par kg de N/j + 132 000 € par kg de P/j, avec déplafonnement possible pour les établissements prioritaires dans le cadre d'un programme d'actions personnalisé. Séparation à la source des eaux pluviales des aires de travail : 60 € par m2 de surface déconnectée. Ouvrages de stockage d'eaux traitées sans réutilisation : 25 € par m3 jusqu'à 2 000 m3, 2,75 € par m3 + 44 500 € de 2 000 à 10 000 m3, 7,2 € par m3 au-delà.",
+  "description": "Dispositif IND_1 du 12e programme d'intervention 2025-2030 de l'agence de l'eau Loire-Bretagne, fiche action version 1 applicable au 1er janvier 2025. Il vise à réduire les rejets des activités économiques non agricoles qui compromettent le bon état des eaux ou un usage sensible (baignade, conchyliculture, pêche à pied), ainsi que les autres pressions à l'impact démontré sur le milieu (température, chlorures, micropolluants). La réduction à la source (technologies propres, aménagements internes, modification de formulation de produits) doit être systématiquement étudiée et privilégiée par rapport au traitement. Les dépenses éligibles couvrent les études de réduction des pollutions et les études préalables aux travaux (acceptabilité du milieu récepteur, diagnostics avec campagnes de mesures, faisabilité, essais pilotes), puis les travaux et équipements, l'autosurveillance et les dépenses connexes strictement dédiés à la réduction des flux polluants : travaux de réduction à la source au niveau du process, mise en place ou amélioration de systèmes de traitement ou de prétraitement en sortie de site, autres travaux de réduction des pressions (bassin de stockage d'eaux usées traitées, réfection de réseaux, réduction de la température ou des chlorures des rejets). Les eaux pluviales qui ruissellent sur les aires de travail sont traitées comme des effluents et aidées à ce titre.",
+  "eligibilite": "Bénéficiaires publics ou privés pratiquant une activité économique non agricole. Le site doit avoir au moins 5 ans d'existence, aucune aide n'est accordée pour une création ou un transfert d'établissement, et les études et travaux sont réalisés par un prestataire extérieur. Les travaux découlent d'une étude préalable qui privilégie la réduction à la source et doivent aboutir à une réduction significative et mesurable du rejet, y compris en cas d'augmentation d'activité. Pour un établissement raccordé à une station collective, l'étude doit démontrer que le réseau et la station peuvent accepter la charge et le type de pollution. La demande doit être déposée avant tout engagement juridique ou début d'exécution de l'opération.",
+  "categories": [
+    "agir_rejets_qualite"
+  ],
+  "secteurs": [
+    "industrie_viande"
+  ],
+  "departements": [],
+  "agences": [
+    "AELB"
+  ],
+  "mesures": [
+    "ACT_VIA_007",
+    "ACT_VIA_008"
+  ],
+  "infos_complementaires": [
+    {
+      "type": "avertissement",
+      "texte": "La demande d'aide doit être déposée avant tout engagement juridique ou début d'exécution de l'opération. Un bon de commande ou un marché signé avant le dépôt compromet l'aide."
+    },
+    {
+      "type": "avertissement",
+      "texte": "Le traitement ne passe qu'après la réduction à la source : l'étude préalable doit privilégier la réduction des flux polluants à la source, et les actions de réduction à la source envisageables doivent avoir été menées avant les travaux de traitement ou en parallèle. Un projet de prétraitement présenté seul, sans ce travail amont, risque d'être refusé."
+    },
+    {
+      "type": "avertissement",
+      "texte": "Établissement raccordé : lorsque les rejets en DCO des établissements raccordés dépassent 70 % de la capacité nominale de la station collective pour l'ensemble des activités économiques, ou 50 % pour une seule activité, les travaux sont inéligibles, sauf infaisabilité technique et financière de la reprise de la station ou de la création d'une station autonome."
+    },
+    {
+      "type": "avertissement",
+      "texte": "Sont exclus le remplacement d'un équipement sans amélioration notable des performances, les consommables, l'imperméabilisation des sols et la mise en place de débourbeurs-déshuileurs."
+    },
+    {
+      "type": "info",
+      "texte": "Prétraitement : la ligne macropolluants finance la mise en place ou l'amélioration de systèmes de traitement ou de prétraitement en sortie de site, mais aucune aide n'est accordée à la mise en place de débourbeurs-déshuileurs (fiche action IND_1, page 4)."
+    },
+    {
+      "type": "avertissement",
+      "texte": "Pour une entreprise soumise à la directive sur les émissions industrielles (IED), l'aide pour atteindre une norme de rejet n'est possible que si l'investissement est mis en oeuvre et finalisé au moins 18 mois avant l'entrée en vigueur de la norme. Au-delà, seul le dépassement de la norme peut être aidé, et la demande doit comporter le coût d'une solution de base pour l'atteinte des normes."
+    },
+    {
+      "type": "avertissement",
+      "texte": "En 2026, l'agence annonce une capacité d'intervention insuffisante face aux demandes de financement : son conseil d'administration du 12 mars 2026 a décidé de prioriser encore davantage ses interventions, avec la mise en suspens de certains dispositifs d'aide ou l'application d'un plafond d'aide. Cette annonce figure sur la page du dispositif QUA_1 et porte sur les interventions de toute l'agence ; les pages IND_1 ne la reprennent pas. Vérifiez l'état du dispositif auprès de votre délégation avant de bâtir un plan de financement."
+    },
+    {
+      "type": "info",
+      "texte": "Pièces à fournir pour le versement des aides aux travaux : pour les sites soumis à autosurveillance, les résultats sur au moins 3 mois, sinon les résultats des essais de performances ; pour un établissement raccordé, la convention de déversement signée avec la collectivité ; pour bénéficier de la majoration sobriété énergétique, les résultats de suivi de la consommation d'énergie des équipements. Les travaux doivent être équipés d'une autosurveillance conforme à la réglementation."
+    },
+    {
+      "type": "info",
+      "texte": "Les taux majorés sont réservés aux établissements industriels prioritaires, isolés ou raccordés à un système d'assainissement prioritaire, qui relèvent d'une liste arrêtée par le conseil d'administration et doivent porter un programme d'actions personnalisé abordant au minimum les volets prélèvements et pollution."
+    },
+    {
+      "type": "info",
+      "texte": "Les aides de l'agence n'ont pas un caractère systématique : leur attribution dépend de ses disponibilités financières et de la priorisation des projets selon les objectifs du 12e programme et leur efficience sur la qualité des milieux."
+    },
+    {
+      "type": "info",
+      "texte": "Le dépôt s'effectue sur le téléservice Rivage, thématique « Lutte contre les pressions des activités économiques hors agriculture », dispositif « Études » pour les études et « Travaux de maitrise et réduction des pollutions » pour les travaux. Pour toute information, l'agence renvoie vers sa délégation régionale. Les ouvrages de stockage d'eaux traitées en vue de leur réutilisation relèvent de la fiche QUA_1, et les eaux pluviales qui ruissellent hors des aires de travail (parkings, toitures) de la fiche PLU_1."
+    },
+    {
+      "type": "ressource",
+      "texte": "Fiche action IND_1, maîtriser et réduire les pollutions et les autres pressions exercées par les rejets des activités économiques (version 1, applicable au 1er janvier 2025)",
+      "lien": "https://aides-redevances.eau-loire-bretagne.fr/files/live/sites/aides-redevances/files/Aides-12prog/Fiches-actions/IND_1.pdf"
+    },
+    {
+      "type": "ressource",
+      "texte": "Fiche dispositif IND_1, études de réduction des pollutions et études préalables aux travaux (50 %)",
+      "lien": "https://aides-redevances.eau-loire-bretagne.fr/home/aides/fiches-dispositif-12e-programme/ind/ind1-etudes-de-reduction-des-pollutions-et-des-pressions-et-etud.html"
+    },
+    {
+      "type": "ressource",
+      "texte": "Fiche dispositif IND_1, travaux de réduction des rejets à la source (70 %)",
+      "lien": "https://aides-redevances.eau-loire-bretagne.fr/home/aides/fiches-dispositif-12e-programme/ind/ind1-travaux-de-reduction-des-rejets-a-la-source.html"
+    },
+    {
+      "type": "ressource",
+      "texte": "Fiche dispositif IND_1, travaux de réduction des rejets macropolluants par traitement (25 %, jusqu'à 50 %)",
+      "lien": "https://aides-redevances.eau-loire-bretagne.fr/home/aides/fiches-dispositif-12e-programme/ind/ind1-travaux-de-reduction-des-rejets-macropolluants-par-traiteme.html"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "type",
+      "url": "https://aides-redevances.eau-loire-bretagne.fr/files/live/mounts/midas/Aides/12e%20programme/R%C3%A8gles%20g%C3%A9n%C3%A9rales%20d%E2%80%99attri",
+      "date": "2026-09-24",
+      "extrait": "Règles générales d'attribution et de versement des aides du 12e programme d'intervention de l'agence de l'eau Loire-Bretagne. Délibération n° 2024-102 du 14 novembre 2024. Date d'effet : 1er janvier 2025. [...] 8.1. Détermination du montant maximal prévisionnel de l'aide. L'agence de l'eau attribue des aides sous forme de subvention (par application de taux ou de forfait) ou d'avance remboursable. Pour le secteur concurrentiel, l'agence de l'eau applique la réglementation relative aux aides d'État fixées par l'Union européenne. Le montant prévisionnel de l'aide (subvention et/ou avance) est calculé par application d'un taux d'aide à la dépense retenue."
+    },
+    {
+      "champ": "description, eligibilite, taux (catégories et majorations), infos_complementaires (établissements prioritaires, renvois QUA_1 et PLU_1)",
+      "url": "https://aides-redevances.eau-loire-bretagne.fr/files/live/sites/aides-redevances/files/Aides-12prog/Fiches-actions/IND_1.pdf",
+      "date": "2026-09-24",
+      "extrait": "IND_1 - Version n°1. Applicable au 1er janvier 2025 (CA du 14 novembre 2024). [...] Ce dispositif d'aide vise prioritairement à : réduire les rejets des activités économiques non agricoles qui compromettent l'atteinte du bon état des eaux ou un usage sensible (baignade, conchyliculture, pêche à pied) [...] La réduction à la source (technologies propres, aménagements internes, modification de formulation de produits, etc.) doit être systématiquement étudiée et privilégiée vis-à-vis du traitement des pollutions. [...] Majoration sobriété énergétique : une majoration du taux d'aide de 5 points peut être accordée [...] aux projets de réduction des pollutions entrainant une baisse de la consommation d'énergie après travaux. [...] Les établissements industriels prioritaires doivent faire l'objet d'un programme d'actions personnalisé doté d'objectifs ambitieux, abordant à minima les volets prélèvements et pollution, pour pouvoir bénéficier du taux d'aide majoré. [...] Les ouvrages de stockage d'eaux traitées en vue de leur réutilisation sont aidés selon les modalités de la fiche-action QUA_1. [...] Bénéficiaire : Public ou privé pratiquant une activité économique non agricole."
+    },
+    {
+      "champ": "eligibilite (critères), infos_complementaires (station collective, exclusions dont débourbeurs-déshuileurs, pièces pour le versement)",
+      "url": "https://aides-redevances.eau-loire-bretagne.fr/files/live/sites/aides-redevances/files/Aides-12prog/Fiches-actions/IND_1.pdf",
+      "date": "2026-09-24",
+      "extrait": "Les sites soutenus présentent a minima 5 ans d'existence. Aucune aide n'est accordée dans le cadre de la création ou d'un transfert d'établissement. Les études et travaux sont réalisés par un prestataire extérieur. [...] Les investissements aidés doivent aboutir à une réduction significative et mesurable du rejet ou de la pression y compris en cas d'augmentation d'activité. [...] l'étude doit démontrer que le réseau et la station de traitement peuvent accepter la charge et le type de pollution générée par cet établissement, lorsque les rejets en DCO des établissements raccordés sur la station collective de traitement sont supérieur à 70% de sa capacité nominale pour l'ensemble des activités économiques ou à 50% pour une seule activité, les travaux sont inéligibles sauf infaisabilité technique et financière [...] Aucune aide ne peut être accordée à l'imperméabilisation des sols et à la mise en place de débourbeurs-déshuileurs. [...] Le remplacement d'équipement sans amélioration notable des performances et les consommables sont exclus d'un financement. [...] Fourniture, pour les sites soumis à autosurveillance, des résultats d'autosurveillance sur une période de 3 mois minimum [...] Pour les industriels raccordés, fourniture de la convention de déversement signée avec la collectivité."
+    },
+    {
+      "champ": "description (dépenses éligibles), plafond, mesures",
+      "url": "https://aides-redevances.eau-loire-bretagne.fr/files/live/sites/aides-redevances/files/Aides-12prog/Fiches-actions/IND_1.pdf",
+      "date": "2026-09-24",
+      "extrait": "Études : Coût des études de réduction des pollutions [...] et coût des études préalables aux travaux (études d'acceptabilité du milieu récepteur, études diagnostics y compris campagnes de mesures, études de faisabilité et d'aide à la décision, essais-pilotes, etc.). Travaux : Coût des travaux et équipements, de l'autosurveillance et autres dépenses connexes au projet strictement dédiés à la réduction des flux polluants [...] Coût plafond = 82 500 € + 6 600 €/(kg DCO /j) + 66 000 €/(kg N/j) + 132 000 €/(kg P/j) [...] peuvent faire l'objet d'un déplafonnement dans le cadre de programmes d'actions personnalisés. [...] les actions de séparation à la source des eaux pluviales avant leur ruissellement sur les aires de travail dans la limite du plafond de 60 €/ m² de surface déconnectée. [...] Capacité ≤ 2 000 m3 : 25 €/ m3 ; 2 000 < Capacité ≤ 10 000 m3 : 2.75 €/ m3 + 44 500 € ; Capacité > 10 000m3 : 7.2 € / m3"
+    },
+    {
+      "champ": "taux (études), infos_complementaires (dépôt avant engagement, caractère non systématique selon les objectifs du 12e programme, dispositif Rivage « Études »)",
+      "url": "https://aides-redevances.eau-loire-bretagne.fr/home/aides/fiches-dispositif-12e-programme/ind/ind1-etudes-de-reduction-des-pollutions-et-des-pressions-et-etud.html",
+      "date": "2026-09-24",
+      "extrait": "Études de réduction des pollutions et des pressions et études préalables aux travaux. Taux d'aide 50 %. Le taux d'aide est un taux maximum. Il peut être limité par l'encadrement européen des aides publiques en tenant compte des zones d'aide à finalité régionales. Les aides de l'agence de l'eau n'ont pas un caractère systématique. Leur attribution est fonction d'une part des disponibilités financières de l'agence de l'eau et d'autre part de la priorisation des projets selon les objectifs du 12e programme et de leur efficience sur la qualité des milieux. Votre demande d'aide financière doit être déposée avant tout engagement juridique ou début d'exécution de l'opération. [...] Thématique : Lutte contre les pressions des activités économiques hors agriculture (réduction des pollutions, économies d'eau et eaux pluviales). Dispositif : Études"
+    },
+    {
+      "champ": "taux (réduction à la source), mesures (ACT_VIA_007)",
+      "url": "https://aides-redevances.eau-loire-bretagne.fr/home/aides/fiches-dispositif-12e-programme/ind/ind1-travaux-de-reduction-des-rejets-a-la-source.html",
+      "date": "2026-09-24",
+      "extrait": "Travaux visant la réduction de la pollution au niveau du process, voire avant qu'elle n'arrive sur le site/ l'usine, afin d'éviter qu'elle ne soit envoyée vers la station de traitement des eaux usées : mise en place de technologies \"propres\", d'aménagements internes, modification de formulations de produits, substitution de molécules de nettoyage, etc. Taux d'aide 70 %. Le taux d'aide est un taux maximum sauf éventuelle majoration de 5 points si le projet entraine une baisse de la consommation énergétique."
+    },
+    {
+      "champ": "taux (macropolluants), mesures (ACT_VIA_008), infos_complementaires (réduction à la source préalable, IED, dispositif Rivage « Travaux »)",
+      "url": "https://aides-redevances.eau-loire-bretagne.fr/home/aides/fiches-dispositif-12e-programme/ind/ind1-travaux-de-reduction-des-rejets-macropolluants-par-traiteme.html",
+      "date": "2026-09-24",
+      "extrait": "Travaux visant la réduction des macropolluants (azote, carbone, phosphore) via l'amélioration/ la mise en place de systèmes de traitement ou de prétraitement en sortie du site de l'entreprise. Taux d'aide 25 % majorable jusqu'à 50 % [...] Pour les opérations portant sur un établissement identifié prioritaire au titre du 12e programme d'intervention ou raccordé à un système d'assainissement prioritaire et inscrites dans un accord industriel pour l'eau signé avec l'agence, le taux d'aide peut être porté de 25% à 50%. [...] Les actions de réduction à la source des pollutions envisageables doivent avoir été menées au préalable ou sont réalisées en parallèle des travaux de traitement de la pollution. [...] Pour les entreprises soumises à la directive sur les émissions industrielles (IED), des aides pour atteindre les normes de rejet sont possibles uniquement si l'investissement correspondant est mis en œuvre et finalisé au moins 18 mois avant la date d'entrée en vigueur des normes considérées. Au-delà, seul le dépassement des normes peut être aidé. [...] Dispositif : Travaux de maitrise et réduction des pollutions"
+    },
+    {
+      "champ": "taux (micropolluants)",
+      "url": "https://aides-redevances.eau-loire-bretagne.fr/home/aides/fiches-dispositif-12e-programme/ind/ind1-travaux-de-reduction-des-rejets-micropolluants-par-traiteme.html",
+      "date": "2026-09-24",
+      "extrait": "Travaux de réduction des rejets micropolluants par traitement. Taux d'aide 50 % majorable jusqu'à 70 % [...] le taux d'aide peut être porté de 50% à 70%."
+    },
+    {
+      "champ": "taux (autres travaux de réduction des pressions), description",
+      "url": "https://aides-redevances.eau-loire-bretagne.fr/home/aides/fiches-dispositif-12e-programme/ind/ind1-autres-travaux-de-reduction-des-pressions.html",
+      "date": "2026-09-24",
+      "extrait": "Autres travaux concourant à la réduction de la pression exercée par une activité économique non agricole sur le milieu récepteur (bassin de stockage d'eaux usées traitées, réfection de réseaux pour limiter les pertes ou pour déplacer des rejets vers des zones moins sensibles, réduction de la température de rejets impactants, réduction de la teneur en chlorures des effluents, etc.). Taux d'aide 25 %"
+    },
+    {
+      "champ": "infos_complementaires (priorisation 2026, annonce portée par la page QUA_1)",
+      "url": "https://aides-redevances.eau-loire-bretagne.fr/home/aides/fiches-dispositif-12e-programme/qua/qua1-etudes-et-travaux-de-reduction-des-besoins-en-eau.html",
+      "date": "2026-09-24",
+      "extrait": "En 2026, la capacité d'intervention de l'agence de l'eau est insuffisante pour faire face aux demandes inédites de financement. Le conseil d'administration du 12 mars 2026 a décidé de prioriser encore davantage ses interventions. Cela se traduit par l'adoption de mesures, dont la mise en suspens de certains dispositifs d'aide ou l'application d'un plafond d'aide, pour piloter financièrement le programme d'intervention."
+    }
+  ],
+  "date_maj": "2026-09-24"
+}

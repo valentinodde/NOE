@@ -1,0 +1,151 @@
+{
+  "id": "AIDE_GCU_011",
+  "nom": "Contrat Agriculture Durable (CAD), Région Occitanie",
+  "financeur": "Région Occitanie",
+  "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792084974/Noe%20assets/logos/AIDE_GCU_011.png",
+  "type": "accompagnement",
+  "taux": "Forfait de 1 500 € HT par exploitation et par CAD validé, versé à la structure accompagnatrice qui le déduit de sa facture à l'exploitation",
+  "plafond": "1 500 € par exploitation et par CAD",
+  "description": "La Région Occitanie finance un accompagnement individuel de 4 jours sur 5 ans pour construire le projet stratégique de l'exploitation : 2,5 jours pour le diagnostic global et le plan d'actions à cinq ans (étape 1), puis, si la Région valide le contrat, 0,5 jour de suivi à mi-parcours et 1 jour de bilan final. Le diagnostic positionne l'exploitation sur quatre axes de durabilité, dont l'utilisation durable des ressources naturelles, et le plan d'actions liste les investissements prévus. L'argent ne va pas à l'exploitant : la Région verse le forfait de 1 500 € à la structure accompagnatrice sélectionnée, qui le déduit de la facture de sa prestation. L'exploitant obtient donc un accompagnement dont le coût est réduit de ce montant, le reste éventuel dépendant du tarif de la structure, que la Région ne fixe pas. Un CAD validé donne aussi des points de priorisation pour les aides régionales à l'investissement, dont le dispositif hydraulique agricole individuelle.",
+  "eligibilite": "Exploitations dont le siège est en Occitanie : exploitants à titre principal ou secondaire, personnes en parcours installation ayant déposé une demande DJA, DNA ou Pass installation, sociétés agricoles (EARL, GAEC, SCEA, etc.), coopératives de production et autres structures exploitant réellement des terres (lycée agricole, espace-test). Sont exclus les CUMA, les entreprises de travaux agricoles, les SCI, les propriétaires bailleurs, les collectivités et les centres d'allotement. L'accompagnement doit être réalisé par une structure sélectionnée par la Région.",
+  "categories": [
+    "changer_process_pratiques"
+  ],
+  "secteurs": [
+    "grandes_cultures"
+  ],
+  "departements": [
+    "09",
+    "11",
+    "12",
+    "30",
+    "31",
+    "32",
+    "34",
+    "46",
+    "48",
+    "65",
+    "66",
+    "81",
+    "82"
+  ],
+  "agences": [],
+  "mesures": [],
+  "infos_complementaires": [
+    {
+      "type": "avertissement",
+      "texte": "Le CAD porte sur toute l'exploitation : la seule étude d'un problème technique, fiscal ou comptable est hors du champ du dispositif. Un conseil limité à l'irrigation ou à l'assolement ne peut donc pas être financé à ce titre."
+    },
+    {
+      "type": "avertissement",
+      "texte": "La Région ne valide le contrat que si aucun axe de durabilité ne se dégrade et si deux axes au moins s'améliorent à cinq ans. Sans validation, seule l'étape 1 est aidée, à hauteur de 62,5 % du forfait, et le suivi et le bilan ne sont pas financés."
+    },
+    {
+      "type": "info",
+      "texte": "Vous ne déposez pas vous-même la demande : adressez-vous à l'une des structures sélectionnées par la Région dans votre département (chambres d'agriculture, coopératives, centres de gestion, associations). Elle monte le dossier pour votre compte sur « Mes aides en ligne » avant le début du CAD, puis réalise l'accompagnement. Contact à la Région : CAD@laregion.fr."
+    },
+    {
+      "type": "ressource",
+      "texte": "Page du Contrat Agriculture Durable sur le site de la Région",
+      "lien": "https://www.laregion.fr/contrat-agriculture-durable"
+    },
+    {
+      "type": "ressource",
+      "texte": "Liste des structures accompagnatrices sélectionnées par la Région (au 30/03/2026, PDF)",
+      "lien": "https://www.laregion.fr/IMG/pdf/f/f/0/structures_selectionnees_30032026.pdf"
+    },
+    {
+      "type": "ressource",
+      "texte": "Règlement du dispositif (version du 18/10/2024, PDF)",
+      "lien": "https://www.laregion.fr/IMG/pdf/0/c/d/dispositif_pass_contrat_agriculture_durable_v18-10-2024.pdf"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "nom, financeur, taux, plafond",
+      "url": "https://www.laregion.fr/contrat-agriculture-durable",
+      "date": "2026-10-15",
+      "extrait": "L'aide régionale est une aide forfaitaire de 1500€ par CAD validé et par exploitation agricole. L'aide est versée directement à la structure."
+    },
+    {
+      "champ": "taux, description (qui reçoit l'argent, déduction de la facture)",
+      "url": "https://www.laregion.fr/IMG/pdf/0/c/d/dispositif_pass_contrat_agriculture_durable_v18-10-2024.pdf",
+      "date": "2026-10-15",
+      "extrait": "Il s'agit d'une subvention d'investissement forfaitaire de 1500€ par exploitation agricole (bénéficiaire final de l'aide) et par CAD [...] La subvention est versée directement à la structure accompagnatrice (bénéficiaire comptable) qui déduira le montant de la subvention de la facture faite par la structure auprès de l'exploitation agricole (bénéficiaire final)."
+    },
+    {
+      "champ": "taux (HT), description (4 jours sur 5 ans, priorisation investissements)",
+      "url": "https://www.laregion.fr/IMG/pdf/b/f/e/occ_brochure-contrat-dagriculture-durable_web.pdf",
+      "date": "2026-10-15",
+      "extrait": "La Région finance 4 jours d'accompagnement sur 5 ans à hauteur de 1500 € HT : 2,5 jours pour la construction du CAD (étape 1) et, si le CAD est validé, 0,5 jour pour le suivi (étape 4) et 1 jour pour le bilan (étape 5). Une exploitation avec un CAD validé bénéficie de points de priorisation au titre des dispositifs d'accompagnement des investissements dans les exploitations agricoles (dispositif unique, PASS petits investissements et dispositif hydraulique agricole individuelle)."
+    },
+    {
+      "champ": "description (axes de durabilité, plan d'actions, investissements)",
+      "url": "https://www.laregion.fr/IMG/pdf/0/c/d/dispositif_pass_contrat_agriculture_durable_v18-10-2024.pdf",
+      "date": "2026-10-15",
+      "extrait": "De suivre sa trajectoire d'évolution au moyen d'indicateurs portant sur 4 axes de durabilité : utilisation durable des ressources naturelles, qualité de vie de l'exploitant, autonomie et résilience de l'exploitation, viabilité de l'exploitation [...] Un plan d'action sur cinq années permettant d'atteindre une meilleure durabilité de l'exploitation, avec la liste des investissements prévus."
+    },
+    {
+      "champ": "categories",
+      "url": "https://www.laregion.fr/contrat-agriculture-durable",
+      "date": "2026-10-15",
+      "extrait": "Le CAD offre un véritable cadre de réflexion et un accompagnement stratégique personnalisé prenant en compte l'ensemble des axes de l'exploitation : technique, économique, environnemental et social. [...] De sécuriser la prise de risque liée aux réorientations d'activité, aux investissements ou aux évolutions de pratiques."
+    },
+    {
+      "champ": "eligibilite",
+      "url": "https://www.laregion.fr/IMG/pdf/0/c/d/dispositif_pass_contrat_agriculture_durable_v18-10-2024.pdf",
+      "date": "2026-10-15",
+      "extrait": "Sont inéligibles : Quelle que soit la forme juridique, les centres d'allotement ; Les CUMA ; Les collectivités territoriales ; Les propriétaires bailleurs ; Les SCI ; Les entreprises de travaux agricoles. CONDITIONS D'ELIGIBILITE [...] Avoir son siège d'exploitation situé sur le territoire de la Région Occitanie. [...] Etre accompagné dans la démarche contrat agriculture durable par une structure préalablement sélectionnée par la Région"
+    },
+    {
+      "champ": "eligibilite",
+      "url": "https://www.laregion.fr/IMG/pdf/0/c/d/dispositif_pass_contrat_agriculture_durable_v18-10-2024.pdf",
+      "date": "2026-10-15",
+      "extrait": "Exploitant individuel : Agriculteur à titre principal ou secondaire ; Cotisants solidaires et autre(s) personne(s) s'inscrivant dans le parcours installation au titre de la DJA/DNA/Pass installation [...] Les EARL, GAEC et GFA dit « exploitant » relèvent de cette catégorie [...] Sociétés coopératives (SCA, SICA, SCIC, SCOP…) actives dans la production agricole primaire [...] lycée agricole, espace-test agricole, association, fondation"
+    },
+    {
+      "champ": "departements",
+      "url": "https://www.laregion.fr/contrat-agriculture-durable",
+      "date": "2026-10-15",
+      "extrait": "Conditions d'éligibilité : Exploitations agricoles dont le siège social est situé en Occitanie."
+    },
+    {
+      "champ": "departements",
+      "url": "https://geo.api.gouv.fr/regions/76/departements",
+      "date": "2026-10-15",
+      "extrait": "Région 76 (Occitanie) : Ariège 09, Aude 11, Aveyron 12, Gard 30, Haute-Garonne 31, Gers 32, Hérault 34, Lot 46, Lozère 48, Hautes-Pyrénées 65, Pyrénées-Orientales 66, Tarn 81, Tarn-et-Garonne 82"
+    },
+    {
+      "champ": "departements, infos_complementaires (structures accompagnatrices)",
+      "url": "https://www.laregion.fr/IMG/pdf/f/f/0/structures_selectionnees_30032026.pdf",
+      "date": "2026-10-15",
+      "extrait": "Structures sélectionnées au 30/03/2026 [...] SAS BIOSPHERES Tout département d'Occitanie ; SCA FIPSO (Filière Porc du Sud-Ouest) Tout département d'Occitanie"
+    },
+    {
+      "champ": "infos_complementaires (hors champ, validation, 62,5 %)",
+      "url": "https://www.laregion.fr/IMG/pdf/0/c/d/dispositif_pass_contrat_agriculture_durable_v18-10-2024.pdf",
+      "date": "2026-10-15",
+      "extrait": "La seule étude d'un problème technique, fiscal ou comptable de l'exploitation est hors du champ de ce dispositif. [...] Aucun axe de durabilité n'est dégradé entre T0 (situation initiale) et T+5 [...] Deux axes de durabilité minimum sont améliorés entre T0 et T+5. [...] Seule l'étape 1 sera subventionnée [...] La subvention est versée en une seule fois et est plafonnée à 62,5% du montant forfaitaire de la subvention."
+    },
+    {
+      "champ": "infos_complementaires (démarche, dépôt avant tout commencement)",
+      "url": "https://www.laregion.fr/IMG/pdf/0/c/d/dispositif_pass_contrat_agriculture_durable_v18-10-2024.pdf",
+      "date": "2026-10-15",
+      "extrait": "Les demandes de financement sont faites par la structure accompagnatrice (bénéficiaire comptable) pour le compte des exploitations agricoles (bénéficiaires finaux). [...] l'ensemble des pièces relatives à la demande de financement (avant tout commencement de CAD) [...] Le dépôt de demande d'aide se fait en ligne sur le site dédié de la Région « Mes aides en ligne »."
+    },
+    {
+      "champ": "infos_complementaires (contact)",
+      "url": "https://www.laregion.fr/contrat-agriculture-durable",
+      "date": "2026-10-15",
+      "extrait": "Les agriculteurs qui souhaitent réaliser un CAD doivent se rapprocher d'une des structures sélectionnées par la Région. [...] Contact Mail : CAD@laregion.fr"
+    },
+    {
+      "champ": "logo_url",
+      "url": "https://www.laregion.fr/plugins/occitanie/squelettes-occitanie/squelettes/apple-icon-180x180.png",
+      "date": "2026-10-15",
+      "extrait": "apple-touch-icon 180x180 déclaré dans l'en-tête de https://www.laregion.fr/contrat-agriculture-durable"
+    }
+  ],
+  "date_maj": "2026-10-15"
+}

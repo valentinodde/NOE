@@ -1,0 +1,1390 @@
+[
+  {
+    "id": "AIDE_HRB_001",
+    "nom": "Aides à la sobriété en eau des agriculteurs (programme Eau, climat et biodiversité 2025-2030, Seine-Normandie)",
+    "financeur": "Agence de l'eau Seine-Normandie",
+    "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792097920/Noe%20assets/logos/AIDE_HRB_001.png",
+    "type": "subvention",
+    "taux": "Jusqu'à 80 % selon les actions pour les investissements hydro-économes. Taux non précisé pour la récupération d'eau de pluie. Taux plafonnables par l'encadrement européen des aides aux activités économiques.",
+    "plafond": null,
+    "description": "Le 12e programme de l'agence de l'eau Seine-Normandie finance la sobriété en eau des exploitations agricoles. Il aide les investissements hydro-économes, notamment les systèmes et sondes de mesure, les outils d'aide à la décision et le matériel d'irrigation, quand ils améliorent une installation existante. Il finance aussi la récupération des eaux de pluie, notamment dans les exploitations d'élevage, pour le lavage, les eaux de process, voire l'abreuvement : études, maîtrise d'œuvre et travaux de collecte, stockage, traitement et transfert.",
+    "eligibilite": "Agriculteurs du bassin Seine-Normandie, sous conditions notamment de zonage, de gouvernance et de démarche territoriale de sobriété. Les investissements hydro-économes doivent améliorer une installation existante et être préconisés par un diagnostic de l'exploitation ou un conseil en sobriété en eau sur un territoire en tension quantitative. Une installation de récupération d'eau de pluie doit remplacer un prélèvement existant.",
+    "categories": [
+      "suivre_comprendre_maitriser",
+      "ameliorer_efficacite_hydrique",
+      "valoriser_reut_eaux_non_conventionnelles"
+    ],
+    "secteurs": [
+      "elevage_herbivores"
+    ],
+    "departements": [],
+    "agences": [
+      "AESN"
+    ],
+    "mesures": [
+      "ACT_AGR_006",
+      "ACT_AGR_001"
+    ],
+    "infos_complementaires": [
+      {
+        "type": "avertissement",
+        "texte": "Les dépôts de demandes d'aide sont suspendus entre le 30 septembre 2026 et mi-janvier 2027, le temps du passage à la nouvelle plateforme RIVAGE (ouverture prévue le 11 janvier 2027). Si votre opération doit démarrer avant, vous pouvez encore déposer sur Démarche Numérique : cette date vaut autorisation de démarrage, mais il faudra redéposer la demande sur RIVAGE pour qu'elle soit instruite.",
+        "lien": "https://www.eau-seine-normandie.fr/Rivage_nouvelle_plateforme_de_gestion_des_aides",
+        "lien_label": "RIVAGE, nouvelle plateforme de gestion des aides"
+      },
+      {
+        "type": "info",
+        "texte": "Pour l'eau de pluie, l'agence finance la collecte, le stockage, le traitement et le transfert, mais pas la distribution. L'installation ne doit pas augmenter les volumes d'eau utilisés pour l'irrigation."
+      },
+      {
+        "type": "info",
+        "texte": "Pour savoir quel accompagnement l'agence peut vous apporter, prenez contact avec la direction de l'agence de l'eau de votre territoire.",
+        "lien": "https://www.eau-seine-normandie.fr/agence-de-leau/directions_territoriales",
+        "lien_label": "Directions territoriales de l'agence"
+      },
+      {
+        "type": "ressource",
+        "texte": "Page des aides financières aux agriculteurs du programme Eau, climat et biodiversité",
+        "lien": "https://www.eau-seine-normandie.fr/agriculteurs/aides-financieres-du-programme-eau-climat-biodiversite"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "taux, description, eligibilite, mesures (ACT_AGR_001)",
+        "url": "https://www.eau-seine-normandie.fr/agriculteurs/aides-financieres-du-programme-eau-climat-biodiversite",
+        "date": "2026-10-15",
+        "extrait": "les investissements hydro-économes (notamment les systèmes de mesure, sondes de mesure, outils d'aide à la décision, matériel d'irrigation) s'il s'agit de l'amélioration d'une installation existante et si les actions sont préconisées dans le cadre de diagnostics de l'exploitation et de conseils en sobriété en eau et en irrigation sur les territoires en tension quantitative. Taux d'aides financières : jusqu'à 80 % selon les actions"
+      },
+      {
+        "champ": "eligibilite",
+        "url": "https://www.eau-seine-normandie.fr/agriculteurs/aides-financieres-du-programme-eau-climat-biodiversite",
+        "date": "2026-10-15",
+        "extrait": "L'agence de l'eau finance, lorsque certaines conditions sont respectées (notamment de zonage, de gouvernance, de démarche territoriale de sobriété)"
+      },
+      {
+        "champ": "description, eligibilite, infos_complementaires, mesures (ACT_AGR_006)",
+        "url": "https://www.eau-seine-normandie.fr/agriculteurs/aides-financieres-du-programme-eau-climat-biodiversite",
+        "date": "2026-10-15",
+        "extrait": "la récupération des eaux de pluies notamment des exploitations d'élevage pour des usages divers au niveau de l'exploitation (lavage, eaux de process voire abreuvement...). L'agence de l'eau finance la collecte, le stockage, le traitement, le transfert, à l'exclusion de la distribution. Les nouvelles installations doivent constituer une substitution des prélèvements existants et ne pas créer une augmentation des volumes d'eau utilisés à des fins d'irrigation. L'agence de l'eau finance les études, la maîtrise d'œuvre et les travaux."
+      },
+      {
+        "champ": "taux",
+        "url": "https://www.eau-seine-normandie.fr/agriculteurs/aides-financieres-du-programme-eau-climat-biodiversite",
+        "date": "2026-10-15",
+        "extrait": "Ces taux peuvent être plafonnés dans certaines situations par l'encadrement européen des aides aux activités économiques."
+      },
+      {
+        "champ": "description",
+        "url": "https://www.eau-seine-normandie.fr/sites/public_file/inline-files/CPagri2025.pdf",
+        "date": "2026-10-15",
+        "extrait": "Des aides sont prévues pour les investissements hydro-économes (matériel d'irrigation, outils de mesure) [...] et la récupération des eaux de pluie, notamment dans les exploitations agricoles, pour divers usages (lavage, eaux de process...)."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.eau-seine-normandie.fr/Rivage_nouvelle_plateforme_de_gestion_des_aides",
+        "date": "2026-10-15",
+        "extrait": "Elle sera mise en place pour l'agence de l'eau Seine-Normandie à partir du 11 janvier 2027. [...] les dépôts de demandes d'aides sont suspendus entre le 30 septembre 2026 et mi-janvier 2027. Pour les cas où l'opération doit démarrer avant mi-janvier 2027 [...], il reste possible de déposer une demande d'aide sur Démarche Numérique au-delà du 30 septembre ; cette date de dépôt sera bien prise en compte comme date d'autorisation de démarrage mais il vous sera demandé de refaire le dépôt d'une demande sur RIVAGE"
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.eau-seine-normandie.fr/agriculteurs/aides-financieres-du-programme-eau-climat-biodiversite",
+        "date": "2026-10-15",
+        "extrait": "Vous souhaitez connaître l'accompagnement que peut assurer l'agence de l'eau ? Prenez contact avec la direction de l'agence de l'eau de votre territoire"
+      },
+      {
+        "champ": "logo_url",
+        "url": "https://www.eau-seine-normandie.fr/sites/public_file/fav-icon-3.png",
+        "date": "2026-10-15",
+        "extrait": "Icône carrée de l'agence de l'eau Seine-Normandie (138 x 137 px), déclarée en rel=icon sur son site"
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "AIDE_HRB_002",
+    "nom": "Accompagner la transition agricole pour l'eau (agence de l'eau Seine-Normandie, programme Eau, climat et biodiversité 2025-2030, chapitre C)",
+    "financeur": "Agence de l'eau Seine-Normandie",
+    "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792097930/Noe%20assets/logos/AIDE_HRB_002.png",
+    "type": "subvention",
+    "taux": "Jusqu'à 80 % pour les diagnostics, l'accompagnement technique, les études et les expérimentations. De 80 à 100 % pour les PSE, les MAEC et la conversion à l'agriculture biologique. Matériel de gestion de l'herbe, haies et agroforesterie : taux plafonnés par l'encadrement européen des aides aux activités économiques, sans pourcentage publié.",
+    "plafond": null,
+    "description": "Chapitre du programme Eau, climat et biodiversité 2025-2030 qui accompagne les agriculteurs volontaires dans des pratiques et des systèmes préservant la ressource en eau, les milieux aquatiques et la biodiversité, et rendant les exploitations plus résilientes au changement climatique. Pour un élevage d'herbivores, il finance notamment le matériel de gestion des surfaces en herbe pour maintenir les prairies, l'implantation de haies à vocation hydraulique et de systèmes agroforestiers, les diagnostics d'exploitation et le conseil individuel dans un cadre collectif, les indemnisations pour changement ou maintien de pratiques et de systèmes (MAEC, agriculture biologique, paiements pour services environnementaux) et, sous conditions de zonage, les investissements de gestion des effluents d'élevage. Un volet distinct aide les investissements de transformation et de commercialisation des filières à bas niveau d'intrants (dont herbe et prairie, luzerne et sainfoin, bois de haies) : il soutient les outils de ces filières, pas le semis des cultures sur l'exploitation.",
+    "eligibilite": "Exploitations agricoles du bassin Seine-Normandie. Hors territoire à enjeu, le matériel de gestion des surfaces en herbe et les haies à vocation hydraulique sont éligibles pour toute exploitation dont le siège est sur le bassin, au titre de la déclinaison régionale de la stratégie Écophyto, à condition que l'investissement permette une diminution pérenne de l'utilisation des produits phytosanitaires ou des rejets dans le milieu naturel. Les diagnostics, le conseil, la plupart des indemnisations et les investissements en démarche territoriale exigent une exploitation située en tout ou partie sur un territoire à enjeu bénéficiant d'une démarche territoriale.",
+    "categories": [
+      "changer_process_pratiques"
+    ],
+    "secteurs": [
+      "elevage_herbivores"
+    ],
+    "departements": [],
+    "agences": [
+      "AESN"
+    ],
+    "mesures": [
+      "ACT_HRB_004"
+    ],
+    "infos_complementaires": [
+      {
+        "type": "avertissement",
+        "texte": "Ne commencez pas les travaux avant d'avoir déposé une demande d'aide formelle auprès de l'agence : aucun commencement d'exécution, bon de commande ou ordre de service compris, n'est admis avant ce dépôt. Présentez d'abord votre projet au chargé d'opérations de votre direction territoriale."
+      },
+      {
+        "type": "avertissement",
+        "texte": "Les investissements de gestion des effluents d'élevage ne sont éligibles que si l'exploitation est sur une commune nouvellement classée en zone vulnérable, ou hors zone vulnérable et en tout ou partie sur un territoire à enjeu pour l'agence. La page ne cite pas les eaux blanches et vertes de la salle de traite : faites confirmer leur prise en charge par la direction territoriale avant de compter sur cette aide."
+      },
+      {
+        "type": "avertissement",
+        "texte": "Le conseil individuel dans un cadre collectif n'est financé que si, après le diagnostic de votre exploitation, vous signez un engagement listant les mesures choisies et les objectifs à atteindre, et acceptez la transmission de vos données techniques à la structure qui anime le territoire."
+      },
+      {
+        "type": "info",
+        "texte": "Situation lue le 15 octobre 2026 : en raison du changement de plateforme de gestion des aides (Rivage), les dépôts de demandes sont suspendus entre le 30 septembre 2026 et mi-janvier 2027, sauf pour une opération devant démarrer avant le 20 janvier."
+      },
+      {
+        "type": "info",
+        "texte": "Pour savoir si votre exploitation est en territoire à enjeu (aire d'alimentation de captage, érosion et ruissellement, milieux humides, aquatiques et littoraux) et quel accompagnement s'applique, prenez contact avec la direction territoriale de l'agence pour votre secteur. Siège : 12 rue de l'Industrie, CS 80148, 92416 Courbevoie Cedex, téléphone 01 41 20 16 00."
+      },
+      {
+        "type": "ressource",
+        "texte": "Page du chapitre C « Accompagner la transition agricole pour l'eau » sur le site de l'agence",
+        "lien": "https://www.eau-seine-normandie.fr/aides/Accompagner-la-transition-agricole-pour-l-eau"
+      },
+      {
+        "type": "ressource",
+        "texte": "Les aides financières destinées aux agriculteurs, avec les taux par levier",
+        "lien": "https://www.eau-seine-normandie.fr/agriculteurs/aides-financieres-du-programme-eau-climat-biodiversite"
+      },
+      {
+        "type": "ressource",
+        "texte": "Formulaires de demande d'aide de l'agence de l'eau Seine-Normandie",
+        "lien": "https://www.eau-seine-normandie.fr/formulaires_aides"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "nom, description, eligibilite",
+        "url": "https://www.eau-seine-normandie.fr/aides/Accompagner-la-transition-agricole-pour-l-eau",
+        "date": "2026-10-15",
+        "extrait": "L'agence de l'eau accompagne les agriculteurs volontaires dans la mise en œuvre de pratiques et de systèmes agricoles permettant la préservation de la ressource en eau, des milieux aquatiques, humides et littoraux, et de la biodiversité. [...] les actions sont majoritairement déployées sur des zones prioritaires d'intervention, dit « territoires à enjeu », en articulation avec une démarche de gestion territoriale"
+      },
+      {
+        "champ": "description, eligibilite, mesures (ACT_HRB_004)",
+        "url": "https://www.eau-seine-normandie.fr/aides/Accompagner-la-transition-agricole-pour-l-eau",
+        "date": "2026-10-15",
+        "extrait": "Les investissements réalisés dans le cadre de la déclinaison régionale de la stratégie Écophyto sont éligibles pour l'ensemble des exploitations agricoles dont le siège se situe sur le bassin. Il s'agit d'investissements permettant une diminution pérenne de l'utilisation des produits phytosanitaires et/ou une diminution des rejets dans le milieu naturel selon la liste suivante : [...] matériel de gestion des surfaces en herbe ; [...] implantation de haies à vocation hydraulique et de systèmes agroforestiers."
+      },
+      {
+        "champ": "description (filières à bas niveau d'intrants)",
+        "url": "https://www.eau-seine-normandie.fr/aides/Accompagner-la-transition-agricole-pour-l-eau",
+        "date": "2026-10-15",
+        "extrait": "Les investissements liés à la transformation et à la commercialisation de produits agricoles à bas niveau d'intrants (BNI) [...] sont éligibles s'ils concernent une des productions agricoles à bas niveau d'intrants suivantes : agriculture biologique ; herbe/prairie ; bois de haies ; chanvre ; sarrasin ; luzerne et sainfoin ; miscanthus ; switchgrass ; taillis courte rotation et taillis très courte rotation."
+      },
+      {
+        "champ": "eligibilite, infos_complementaires (conseil individuel dans un cadre collectif)",
+        "url": "https://www.eau-seine-normandie.fr/aides/Accompagner-la-transition-agricole-pour-l-eau",
+        "date": "2026-10-15",
+        "extrait": "Les exploitations agricoles situées en tout ou partie sur un territoire à enjeu bénéficiant d'une démarche territoriale sont éligibles pour des diagnostics ou de l'accompagnement technique. [...] l'exploitant agricole, à la suite du diagnostic de son exploitation, signe un engagement précisant la liste des mesures qu'il choisit de mettre en œuvre ainsi que les objectifs à atteindre et acceptant la transmission de ses données techniques à la structure assurant l'animation du territoire."
+      },
+      {
+        "champ": "description (indemnisations), eligibilite",
+        "url": "https://www.eau-seine-normandie.fr/aides/Accompagner-la-transition-agricole-pour-l-eau",
+        "date": "2026-10-15",
+        "extrait": "Les indemnisations pour changement ou maintien de systèmes agricoles à l'échelle de l'exploitation agricole sont éligibles pour les exploitations agricoles situées en tout ou partie sur un territoire à enjeu bénéficiant d'une démarche territoriale."
+      },
+      {
+        "champ": "infos_complementaires (effluents d'élevage)",
+        "url": "https://www.eau-seine-normandie.fr/aides/Accompagner-la-transition-agricole-pour-l-eau",
+        "date": "2026-10-15",
+        "extrait": "Les investissements pour la gestion des effluents d'élevages (liés aux conditions d'application de la directive nitrates sont éligibles si : les exploitations agricoles sont situées sur une commune nouvellement classée en zone vulnérable ; les exploitations agricoles sont situées hors zone vulnérable et en tout ou partie sur un territoire à enjeu pour l'agence."
+      },
+      {
+        "champ": "infos_complementaires (suspension des dépôts)",
+        "url": "https://www.eau-seine-normandie.fr/aides/Accompagner-la-transition-agricole-pour-l-eau",
+        "date": "2026-10-15",
+        "extrait": "En raison du changement de plateforme de gestion des aides, les dépôts de demandes d'aides sont suspendus entre le 30 septembre 2026 et mi-janvier 2027, sauf opération devant démarrer avant le 20 janvier."
+      },
+      {
+        "champ": "taux",
+        "url": "https://www.eau-seine-normandie.fr/agriculteurs/aides-financieres-du-programme-eau-climat-biodiversite",
+        "date": "2026-10-15",
+        "extrait": "Taux d'aides financières pour PSE, MAEC et CAB : de 80 % à 100%. les dispositifs d'animation territoriale et d'accompagnement technique des agriculteurs (diagnostics des exploitations, conseils), ainsi que des études et des expérimentations [...] Taux d'aides financières : Jusqu'à 80 %"
+      },
+      {
+        "champ": "taux (haies, prairies, matériel de gestion de l'herbe)",
+        "url": "https://www.eau-seine-normandie.fr/agriculteurs/aides-financieres-du-programme-eau-climat-biodiversite",
+        "date": "2026-10-15",
+        "extrait": "l'implantation de systèmes agroforestier et de haies. [...] le maintien des prairies en finançant du matériel de gestion de l'herbe, ou d'accompagnement financier via les MAEC ou PSE. Taux d'aides financières de l'agence de l'eau plafonnés par l'encadrement européen des aides aux activités économiques."
+      },
+      {
+        "champ": "infos_complementaires (territoires à enjeu, contact)",
+        "url": "https://www.eau-seine-normandie.fr/agriculteurs/aides-financieres-du-programme-eau-climat-biodiversite",
+        "date": "2026-10-15",
+        "extrait": "Certaines actions ne sont éligibles qu'à l'échelle de territoires à enjeux (aires d'alimentation de captages, enjeux d'érosion-ruissellement, de protection des milieux humides, aquatiques et littoraux…). [...] Prenez contact avec la direction de l'agence de l'eau de votre territoire [...] 01 41 20 16 00 [...] 12 rue de l'Industrie CS 80148 92416 Courbevoie Cedex"
+      },
+      {
+        "champ": "infos_complementaires (démarrage avant dépôt, chargé d'opérations, ressource formulaires)",
+        "url": "https://www.eau-seine-normandie.fr/formulaires_aides",
+        "date": "2026-10-15",
+        "extrait": "Prendre contact avec le chargé d'opérations de la direction territoriale dont vous dépendez pour présenter votre projet [...] aucun commencement d'exécution du projet (émission d'ordre de service ou de bon de commande par exemple) ne peut avoir lieu avant le dépôt d'une demande d'aide formelle auprès de l'agence de l'eau. [...] Agriculture : Formulaire agriculture, Formulaire filiere BNI"
+      },
+      {
+        "champ": "logo_url",
+        "url": "https://www.eau-seine-normandie.fr/sites/public_file/fav-icon-3.png",
+        "date": "2026-10-15",
+        "extrait": "Icône carrée du site de l'agence de l'eau Seine-Normandie (link rel=\"icon\"), 138 x 137 px"
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "AIDE_HRB_003",
+    "nom": "Aménagements d'abreuvement et de clôture des programmes de restauration des cours d'eau (agglomération du Cotentin)",
+    "financeur": "Communauté d'agglomération du Cotentin et agence de l'eau Seine-Normandie",
+    "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792098002/Noe%20assets/logos/AIDE_HRB_003.png",
+    "type": "accompagnement",
+    "taux": "Travaux financés à 80 % par l'agence de l'eau Seine-Normandie et à 20 % par l'agglomération du Cotentin",
+    "plafond": null,
+    "description": "Dans ses programmes pluriannuels de restauration des cours d'eau, menés bassin versant par bassin versant au titre de la GEMAPI, l'agglomération du Cotentin propose aux exploitants riverains des aménagements pour l'abreuvement (bac, pompe de prairie, abreuvoir), pour le franchissement (passerelle pour le bétail ou le tracteur) et des clôtures. Les travaux sont réalisés par une entreprise sous maîtrise d'ouvrage de la collectivité et financés à 80 % par l'agence de l'eau Seine-Normandie et à 20 % par l'agglomération. Pour l'abreuvement, seuls les abreuvoirs, les pompes de prairie et les bacs raccordés au réseau sont pris en charge, pas une réserve de secours ni des canalisations enterrées. Le dispositif ne vaut que pour les parcelles situées dans un bassin versant du Cotentin couvert par l'un de ces programmes, notamment le Merderet et son affluent la Sinope, la Douve, la Divette, la Saire et les côtiers ouest.",
+    "eligibilite": "Exploitants et propriétaires de parcelles riveraines d'un cours d'eau situé dans un bassin versant du Cotentin où l'agglomération conduit un programme de restauration déclaré d'intérêt général par le préfet. Les travaux supposent l'accord du propriétaire et une convention entre la collectivité, le propriétaire et l'exploitant.",
+    "categories": [
+      "agir_rejets_qualite",
+      "ameliorer_efficacite_hydrique"
+    ],
+    "secteurs": [
+      "elevage_herbivores"
+    ],
+    "departements": [
+      "50"
+    ],
+    "agences": [
+      "AESN"
+    ],
+    "mesures": [
+      "ACT_HRB_007",
+      "ACT_HRB_003"
+    ],
+    "infos_complementaires": [
+      {
+        "type": "info",
+        "texte": "La nature et l'emplacement des aménagements se décident avec vous lors d'une visite de vos parcelles par la collectivité. Les travaux font ensuite l'objet d'une convention tripartite entre la collectivité, le propriétaire et l'exploitant. Pour savoir si votre bassin versant est couvert, contactez l'agglomération du Cotentin au 02 50 79 16 10 ou à contact@lecotentin.fr."
+      },
+      {
+        "type": "avertissement",
+        "texte": "Les travaux ne sont possibles que sur un bassin versant où le préfet a délivré une déclaration d'intérêt général (DIG) au programme de l'agglomération, et avec l'accord du propriétaire des parcelles. Si vous êtes en fermage, l'accord de votre propriétaire est donc nécessaire."
+      },
+      {
+        "type": "retour_experience",
+        "texte": "Sur une exploitation de Saint-Cyr-Bocage dont les parcelles longent la Sinope, affluent du Merderet, le programme a installé 12 abreuvoirs, 2 bacs raccordés au réseau, 7 franchissements et 1 500 m de clôture, pour 42 000 € TTC. Le parcellaire a pu être sectorisé et les déplacements du troupeau facilités.",
+        "lien": "https://parc-cotentin-bessin.fr/sites/default/files/inline-files/CP_20250409_SOUTIEN_ELEVAGE_CAC_CA50_PNR_V01.pdf",
+        "lien_label": "Communiqué de presse de l'agglomération, de la chambre d'agriculture et du Parc"
+      },
+      {
+        "type": "ressource",
+        "texte": "Page de l'agglomération du Cotentin sur l'entretien et la restauration des cours d'eau",
+        "lien": "https://www.lecotentin.fr/mes-services/cycle-de-leau/entretien-des-cours-deau-et-des-milieux-naturels/"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "description, eligibilite, infos_complementaires",
+        "url": "https://www.lecotentin.fr/mes-services/cycle-de-leau/entretien-des-cours-deau-et-des-milieux-naturels/",
+        "date": "2026-10-15",
+        "extrait": "Accompagner les activités d'élevage à proximité des cours d'eau, par exemple avec la mise en place de clôtures ou d'abreuvoirs [...] Ces actions se font uniquement avec une autorisation spéciale délivrée par le Préfet appelée Déclaration d'Intérêt Général (DIG). Les travaux sont financés par l'Agence de l'Eau et par le Cotentin."
+      },
+      {
+        "champ": "eligibilite, infos_complementaires",
+        "url": "https://www.lecotentin.fr/mes-services/cycle-de-leau/entretien-des-cours-deau-et-des-milieux-naturels/",
+        "date": "2026-10-15",
+        "extrait": "l'Agglomération peut intervenir pour réaliser des travaux d'aménagement et de restauration, sous réserve de déclaration d'Intérêt Général par le Préfet et avec l'accord du propriétaire. [...] Tél. : 02.50.79.16.10 contact@lecotentin.fr"
+      },
+      {
+        "champ": "taux, description, mesures, infos_complementaires",
+        "url": "https://parc-cotentin-bessin.fr/sites/default/files/inline-files/CP_20250409_SOUTIEN_ELEVAGE_CAC_CA50_PNR_V01.pdf",
+        "date": "2026-10-15",
+        "extrait": "il est proposé aux exploitants de mettre en place des aménagements pour l'abreuvement (bac, pompe de prairie, abreuvoir) pour le franchissement (passerelle bétail ou tracteur) ainsi que des clôtures. Ces différents travaux sont effectués par une entreprise sous maîtrise d'ouvrage de la collectivité. [...] Le financement est assuré par l'Agence de l'Eau Seine Normandie à hauteur de 80% et de la CA le Cotentin sur les 20% restants."
+      },
+      {
+        "champ": "infos_complementaires, mesures",
+        "url": "https://parc-cotentin-bessin.fr/sites/default/files/inline-files/CP_20250409_SOUTIEN_ELEVAGE_CAC_CA50_PNR_V01.pdf",
+        "date": "2026-10-15",
+        "extrait": "Les travaux font l'objet d'une convention tripartite entre la Collectivité, le Propriétaire et l'Exploitant. [...] Les travaux ont consisté à la mise en place de 12 abreuvoirs, 2 bacs avec raccordement au réseau, 7 franchissements et 1500m de clôture pour un montant s'élevant à 42 000 € TTC."
+      },
+      {
+        "champ": "description, departements",
+        "url": "https://www.lecotentin.fr/wp-content/uploads/2025/08/RSMDD_Cotentin_2024.pdf",
+        "date": "2026-10-15",
+        "extrait": "l'agglomération du Cotentin accompagne les propriétaires riverains de cours d'eau dans le cadre de programme d'actions de restauration. En 2024 des travaux ont été réalisés sur les bassins versants de la Divette, de la Sinope, de la Saire, de la Douve et des Côtiers Ouest."
+      },
+      {
+        "champ": "logo_url",
+        "url": "https://www.lecotentin.fr/wp-content/uploads/2025/06/icon.png",
+        "date": "2026-10-15",
+        "extrait": "apple-touch-icon du site lecotentin.fr"
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "AIDE_HRB_004",
+    "nom": "Aide sur les petits investissements des exploitations agricoles (Département de la Manche)",
+    "financeur": "Département de la Manche",
+    "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792098152/Noe%20assets/logos/AIDE_HRB_004.png",
+    "type": "subvention",
+    "taux": "40 % du montant HT de l'investissement, porté à 60 % pour les jeunes installés (moins de 3 ans), les achats en copropriété, les CUMA et autres investissements collectifs, et les investissements situés en zone soumise à des contraintes naturelles",
+    "plafond": "Aide plafonnée à 3 000 € au taux de 40 % et à 5 000 € au taux de 60 %, pour un projet compris entre 1 500 € HT et 10 000 € HT",
+    "description": "Subvention du Département de la Manche aux petits investissements en matériel neuf des exploitations agricoles. Le règlement cite notamment les équipements favorisant le pâturage (clôtures pour paddock, andaineur), les travaux d'amélioration parcellaire (chemins d'accès aux parcelles), l'équipement de transformation et de vente à la ferme, et, au titre de la réduction des consommations d'énergie, les prérefroidisseurs de lait et les récupérateurs de chaleur, ainsi que le matériel de contention et les niches à veau individuelles.",
+    "eligibilite": "Entreprises agricoles dont le siège social est situé dans la Manche : exploitants à titre principal en individuel, sociétés agricoles (GAEC, EARL, SCEA) et groupements d'agriculteurs (CUMA, GIEE, groupements et associations de producteurs). Au taux de base, les exploitants doivent être installés depuis plus de 3 ans. Un seul projet par exploitation sur trois ans, la transparence GAEC ne s'appliquant pas.",
+    "categories": [
+      "changer_process_pratiques"
+    ],
+    "secteurs": [
+      "elevage_herbivores"
+    ],
+    "departements": [
+      "50"
+    ],
+    "agences": [],
+    "mesures": [
+      "ACT_HRB_004"
+    ],
+    "infos_complementaires": [
+      {
+        "type": "avertissement",
+        "texte": "N'achetez pas le matériel avant le dépôt du dossier : le Département vous adresse un courrier de recevabilité qui vous autorise à engager la dépense. Le matériel doit être neuf et conservé au moins deux ans après la notification de l'aide."
+      },
+      {
+        "type": "avertissement",
+        "texte": "Le formulaire de demande vous fait certifier qu'aucune autre aide publique n'est sollicitée pour le même projet : cette aide ne se cumule pas avec un autre financement public de l'investissement."
+      },
+      {
+        "type": "info",
+        "texte": "Le prérefroidisseur de lait est éligible au titre de la réduction des consommations d'énergie (équipement conforme à la valorisation des certificats d'économie d'énergie), et non au titre de l'eau. Le règlement ne mentionne ni la cuve ni le raccordement qui permettent de réutiliser son eau : faites confirmer leur éligibilité par le Département avant de déposer."
+      },
+      {
+        "type": "info",
+        "texte": "Envoyez le formulaire signé à agriculture@manche.fr ou par courrier à la Direction des nouvelles ruralités (50050 Saint-Lô Cedex), avec le devis détaillé, un RIB, l'attestation MSA d'exploitant à titre principal, le récapitulatif PAC des assolements, un justificatif « jeune agriculteur » si vous êtes installé depuis moins de 3 ans, un extrait Kbis pour une société, et un plan pour la création de paddocks ou de chemins d'accès. La commission permanente vote l'aide, versée sur facture acquittée. Contact technique : 02 33 05 97 79."
+      },
+      {
+        "type": "ressource",
+        "texte": "Page de la démarche sur le portail du Département",
+        "lien": "https://demarches-manche.fr/demarches-particulier/detail/33/",
+        "lien_label": "Démarche en ligne"
+      },
+      {
+        "type": "ressource",
+        "texte": "Règlement de l'aide publié sur manche.fr",
+        "lien": "https://www.manche.fr/wp-content/uploads/2023/10/reglement-2-2.pdf",
+        "lien_label": "Règlement (PDF)"
+      },
+      {
+        "type": "ressource",
+        "texte": "Formulaire de demande d'aide 2025",
+        "lien": "https://www.manche.fr/wp-content/uploads/2025/01/Formulaire-de-demande-daide-PI-2025.pdf",
+        "lien_label": "Formulaire (PDF)"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "nom, taux, plafond, eligibilite",
+        "url": "https://www.manche.fr/actions/economie-et-filieres-porteuses/politique-agricole/lien-aux-exploitants/",
+        "date": "2026-10-15",
+        "extrait": "le coût du projet d'investissement doit être compris entre 1 500 € HT et 10 000 € HT maximum, la subvention est de 40 % du montant HT de l'investissement et plafonnée à 3 000 €. Les exploitants doivent être installés depuis plus de 3 ans. Elle passe à 60% plafonné à 5 000 € pour les achats en copropriétés, les jeunes installés (moins de 3 ans) ou les CUMA."
+      },
+      {
+        "champ": "taux",
+        "url": "https://www.manche.fr/wp-content/uploads/2023/10/reglement-2-2.pdf",
+        "date": "2026-10-15",
+        "extrait": "un taux de soutien de 40 % du montant des coûts admissibles (compris entre 1 500 € et 10 000 € HT), pouvant être majoré de 20 points. [...] pour les jeunes agriculteurs ou agriculteurs installés depuis moins de 3 ans, les investissements collectifs et autres situations spécifiques (investissements dans les zones soumises à des contraintes naturelles…). Un plafond au montant de la subvention versée est appliqué : 3 000 € pour les projets soutenus au taux de 40 % et 5 000 € pour les projets soutenus à 60 %."
+      },
+      {
+        "champ": "eligibilite, departements",
+        "url": "https://www.manche.fr/wp-content/uploads/2023/10/reglement-2-2.pdf",
+        "date": "2026-10-15",
+        "extrait": "réservée aux exploitations agricoles dont le siège social est situé dans la Manche [...] exploitants agricoles à titre principal exerçant en exploitation individuelle ; personnes morales dont l'objet est agricole (sociétés agricoles : EARL, SCEA, GAEC, etc.) ; groupements d'agriculteurs : CUMA, GIEE, groupements et associations de producteurs. [...] Un seul projet par exploitation [...] et sur une période de trois ans [...] (la transparence pour les GAEC ne sera pas activée)"
+      },
+      {
+        "champ": "description, mesures (ACT_HRB_004)",
+        "url": "https://www.manche.fr/wp-content/uploads/2023/10/reglement-2-2.pdf",
+        "date": "2026-10-15",
+        "extrait": "L'aide à l'investissement est uniquement valable sur du matériel neuf. VALORISATION DES SYSTÈMES HERBAGERS ET BOCAGE : Équipements favorisant le pâturage (clôtures pour paddock, andaineur...), travaux d'amélioration parcellaire (chemins d'accès aux parcelles…)"
+      },
+      {
+        "champ": "description, infos_complementaires (prérefroidisseur)",
+        "url": "https://www.manche.fr/wp-content/uploads/2023/10/reglement-2-2.pdf",
+        "date": "2026-10-15",
+        "extrait": "MULTI-PERFORMANCE DE L'EXPLOITATION (ÉCONOMIE, SOCIAL, ENVIRONNEMENT) : Équipements de réduction des consommations énergétiques conforme à la valorisation des certificats d'économie d'énergie (pré-refroidisseurs de lait, récupérateurs de chaleur…), matériel de contention, niche à veau individuelle...."
+      },
+      {
+        "champ": "infos_complementaires (avertissement achat avant dépôt)",
+        "url": "https://www.manche.fr/wp-content/uploads/2023/10/reglement-2-2.pdf",
+        "date": "2026-10-15",
+        "extrait": "l'acquisition du matériel ne doit pas être effectuée avant le dépôt du dossier de demande d'aide auprès du conseil départemental. [...] le demandeur recevra un courrier attestant la recevabilité du dossier et l'autorisant à engager la dépense. [...] conserver le matériel subventionné a minima 2 ans après la date de notification de la subvention."
+      },
+      {
+        "champ": "infos_complementaires (avertissement cumul)",
+        "url": "https://www.manche.fr/wp-content/uploads/2025/01/Formulaire-de-demande-daide-PI-2025.pdf",
+        "date": "2026-10-15",
+        "extrait": "Certifient qu'aucune autre demande d'aide publique n'est sollicitée pour le projet susvisé"
+      },
+      {
+        "champ": "infos_complementaires (démarche, contact)",
+        "url": "https://demarches-manche.fr/demarches-particulier/detail/33/",
+        "date": "2026-10-15",
+        "extrait": "Je retourne le dossier complet au conseil départemental par e-mail (formulaire de contact manche.fr) ou par courrier (Conseil départemental de la Manche [...] Direction des nouvelles ruralités 50 050 Saint-Lô Cedex) [...] Un plan (pour les travaux d'aménagement de chemins d'accès aux pâturages et la création des paddocks) [...] Contact technique (service instructeur) Direction des nouvelles ruralités 02 33 05 97 79"
+      },
+      {
+        "champ": "infos_complementaires (démarche, adresse mail, pièces)",
+        "url": "https://www.manche.fr/wp-content/uploads/2025/01/Formulaire-de-demande-daide-PI-2025.pdf",
+        "date": "2026-10-15",
+        "extrait": "Merci de vous assurer que votre dossier est complet avant de l'envoyer à agriculture@manche.fr [...] Le document PAC : tableau récapitulatif des assolements"
+      },
+      {
+        "champ": "logo_url",
+        "url": "https://www.manche.fr/wp-content/uploads/2023/03/cropped-android-chrome-512x512-1-1-180x180.png",
+        "date": "2026-10-15",
+        "extrait": "apple-touch-icon du site manche.fr (180 x 180)"
+      },
+      {
+        "champ": "infos_complementaires (pièces : justificatif jeune agriculteur, Kbis)",
+        "url": "https://www.manche.fr/wp-content/uploads/2025/01/Formulaire-de-demande-daide-PI-2025.pdf",
+        "date": "2026-10-15",
+        "extrait": "Un justificatif « jeune agriculteur » (pour les exploitants installés depuis moins de 3 ans) • Un extrait k-bis (pour les GAEC et les Sociétés)"
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "AIDE_HRB_005",
+    "nom": "Aide aux petits investissements des exploitations agricoles de la filière équine (Plan Cheval Manche)",
+    "financeur": "Département de la Manche",
+    "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792097998/Noe%20assets/logos/AIDE_HRB_005.png",
+    "type": "subvention",
+    "taux": "40 % des dépenses éligibles, porté à 60 % pour les projets bonifiés",
+    "plafond": "Aide plafonnée à 3 000 € (5 000 € pour les projets bonifiés), pour un projet compris entre 1 500 € HT et 10 000 € HT",
+    "description": "Aide réservée aux exploitations agricoles de la filière équine (élevages, centres équestres, écuries d'entraînement, cavaliers professionnels) dont le siège est dans la Manche : les élevages bovins, ovins et caprins n'y sont pas éligibles. Le Département subventionne leurs petits investissements dans le cadre du Plan Cheval Manche 2023-2027. Le projet relève d'une seule thématique. Celle de l'optimisation du pâturage et de la gestion des prairies couvre les investissements permettant le pâturage des équidés : matériel de clôture, abreuvoirs, abris de prairies, ainsi que le matériel d'entretien des prairies. L'aide ne porte que sur du matériel neuf.",
+    "eligibilite": "Exploitations agricoles de la filière équine dont le siège social est situé dans la Manche : exploitants agricoles à titre principal, sociétés agricoles (EARL, SCEA, GAEC) et groupements (associations d'éleveurs d'équidés, CUMA). Un seul dossier par porteur de projet (même siège social) sur trois ans. Bonification pour les détenteurs du label EquuRES, les exploitants installés depuis moins de trois ans et les investissements collectifs.",
+    "categories": [
+      "ameliorer_efficacite_hydrique"
+    ],
+    "secteurs": [
+      "elevage_herbivores"
+    ],
+    "departements": [
+      "50"
+    ],
+    "agences": [],
+    "mesures": [
+      "ACT_HRB_003"
+    ],
+    "infos_complementaires": [
+      {
+        "type": "avertissement",
+        "texte": "Le matériel ne doit pas être acheté avant le dépôt du dossier : attendez le courrier de recevabilité du Département, qui vous autorise à engager la dépense. Le matériel doit être neuf et conservé au moins deux ans après la notification."
+      },
+      {
+        "type": "avertissement",
+        "texte": "Dispositif rattaché au Plan Cheval Manche 2023-2027. La page de démarche était en ligne au 15 octobre 2026 sans date de clôture, mais l'ouverture du dispositif en 2026 n'est pas confirmée par une annonce datée : vérifiez auprès de la Direction des nouvelles ruralités avant de monter le projet."
+      },
+      {
+        "type": "info",
+        "texte": "Renseignez-vous sur l'éligibilité de votre projet auprès de la Direction des nouvelles ruralités du Département (02 33 05 97 68), puis transmettez le formulaire signé avec les devis détaillés, un RIB, l'attestation MSA d'exploitant à titre principal et un plan pour un aménagement. La commission permanente vote l'aide, versée sur factures acquittées."
+      },
+      {
+        "type": "ressource",
+        "texte": "Page de la démarche sur le portail du Département, avec le règlement et le formulaire de demande",
+        "lien": "https://demarches-manche.fr/demarches-particulier/detail/15/",
+        "lien_label": "Démarche en ligne"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "nom, taux, plafond",
+        "url": "https://demarches-manche.fr/demarches-particulier/detail/15/",
+        "date": "2026-10-15",
+        "extrait": "L'aide correspond à 40% des dépenses éligibles et est plafonnée à 3 000 €. Le taux d'intervention est porté à 60 % dans le cas des projets bonifiés et le plafond s'élève alors à 5 000 €."
+      },
+      {
+        "champ": "infos_complementaires (avertissement statut 2026)",
+        "url": "https://demarches-manche.fr/demarches-particulier/detail/15/",
+        "date": "2026-10-15",
+        "extrait": "Aide aux petits investissements des exploitations agricoles de la filière équine (Plan Cheval 2023-2027) [...] Depuis le 4 avril 2025, l'aide est bonifiée pour les porteurs de projet détenteurs du Label EquuRES."
+      },
+      {
+        "champ": "eligibilite",
+        "url": "https://demarches-manche.fr/demarches-particulier/detail/15/",
+        "date": "2026-10-15",
+        "extrait": "Le montant du projet est compris entre 1 500 € HT et 10 000 € HT. Le matériel est neuf. Le projet n'est pas encore réalisé. Un délai de 3 ans est appliqué entre deux dépôts de dossiers du même porteur de projet (siège social identique). Conditions de bonification : détenteurs du Label EquuRES [...] installés depuis moins de 3 ans, investissements collectifs"
+      },
+      {
+        "champ": "eligibilite, departements",
+        "url": "https://www.manche.fr/wp-content/uploads/2024/02/reglement-politique-dep-inv-exploitatio-2.pdf",
+        "date": "2026-10-15",
+        "extrait": "réservée aux exploitations agricoles de la filière équine dont le siège social est situé dans la Manche [...] exploitants agricoles à titre principal [...] sociétés agricoles : EARL, SCEA, GAEC [...] groupements (association d'éleveurs d'équidés, coopératives d'utilisation de matériel agricole…)"
+      },
+      {
+        "champ": "description, mesures (ACT_HRB_003)",
+        "url": "https://demarches-manche.fr/demarches-particulier/detail/15/",
+        "date": "2026-10-15",
+        "extrait": "OPTIMISER LE PÂTURAGE ET LA GESTION DE PRAIRIES : Investissements permettant le pâturage des équidés (matériel de clôture, abreuvoirs, abris de prairies…) et matériel d'entretien des prairies (herse, broyeur...)"
+      },
+      {
+        "champ": "mesures (ACT_HRB_003)",
+        "url": "https://www.manche.fr/wp-content/uploads/2024/02/reglement-politique-dep-inv-exploitatio-2.pdf",
+        "date": "2026-10-15",
+        "extrait": "Investissements permettant le pâturage tournant des équidés (matériel de clôture, abreuvoir à adduction, abri de prairies mobile...)"
+      },
+      {
+        "champ": "description",
+        "url": "https://demarches-manche.fr/demarches-particulier/detail/15/",
+        "date": "2026-10-15",
+        "extrait": "Dans le cadre du Plan Cheval Manche, la performance des exploitations agricoles de la filière équine (élevages, centres équestres, écuries d'entrainement, cavaliers professionnels…) est encouragée."
+      },
+      {
+        "champ": "infos_complementaires (avertissement achat avant dépôt)",
+        "url": "https://www.manche.fr/wp-content/uploads/2024/02/reglement-politique-dep-inv-exploitatio-2.pdf",
+        "date": "2026-10-15",
+        "extrait": "l'acquisition du matériel ne doit pas être effectuée avant le dépôt du dossier de demande d'aide auprès du conseil départemental. [...] conserver le matériel subventionné à minima 2 ans après la date de notification"
+      },
+      {
+        "champ": "infos_complementaires (démarche, contact)",
+        "url": "https://demarches-manche.fr/demarches-particulier/detail/15/",
+        "date": "2026-10-15",
+        "extrait": "L'exploitant se renseigne sur l'éligibilité de son projet auprès de la direction des nouvelles ruralités [...] La demande est examinée par la commission permanente. [...] Direction des nouvelles ruralités, Maison du Département, Saint-Lô, 02 33 05 97 68"
+      },
+      {
+        "champ": "logo_url",
+        "url": "https://www.manche.fr/wp-content/uploads/2023/03/cropped-android-chrome-512x512-1-1-180x180.png",
+        "date": "2026-10-15",
+        "extrait": "apple-touch-icon du site manche.fr (180 x 180)"
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "AIDE_HRB_006",
+    "nom": "Soutien aux investissements des entreprises équines de demain (Région Normandie, FEADER)",
+    "financeur": "Région Normandie (crédits régionaux et FEADER)",
+    "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792098148/Noe%20assets/logos/AIDE_HRB_006.png",
+    "type": "subvention",
+    "taux": "20 % des dépenses éligibles, 25 % pour une structure labellisée EquuRES (environnement et bien-être animal ou bien-être au travail) ou membre du Réseau des Clubs d'Excellence en Normandie",
+    "plafond": "Dépenses éligibles de 10 000 € (plancher) à 150 000 € (plafond) sur toute la programmation 2023-2027, un seul dossier par bénéficiaire",
+    "description": "La Région Normandie, avec le FEADER, subventionne les investissements des entreprises équines en cohérence avec quatre enjeux : adaptation aux enjeux environnementaux et climatiques, meilleure prise en compte du bien-être animal, baisse de la pénibilité du travail, innovation numérique et anticipation des risques sanitaires. Côté eau, la liste des dépenses éligibles comprend les systèmes de récupération des eaux de douches, des aires de lavage et des eaux pluviales, les systèmes d'arrosage des sols par aspersion, par citerne ou par subirrigation, et les manèges, carrières et pistes équipés notamment d'une subirrigation ou d'une récupération des eaux. Les boxes ne sont financés que s'ils sont équipés d'abreuvoirs automatiques. Les forages sont exclus.",
+    "eligibilite": "Exploitants agricoles individuels affiliés à la MSA à titre principal, ou personnes morales agricoles dont le dirigeant l'est, titulaires d'un diplôme agricole équin et réalisant plus de 80 % de leur chiffre d'affaires dans l'activité équine, avec un EBE moyen compris entre 10 000 € et 100 000 €. Le projet et l'entreprise doivent être en Normandie. SAS, SCI, associations, micro-BA et cotisants solidaires sont exclus.",
+    "categories": [
+      "valoriser_reut_eaux_non_conventionnelles"
+    ],
+    "secteurs": [
+      "elevage_herbivores"
+    ],
+    "departements": [
+      "14",
+      "27",
+      "50",
+      "61",
+      "76"
+    ],
+    "agences": [],
+    "mesures": [
+      "ACT_AGR_006"
+    ],
+    "infos_complementaires": [
+      {
+        "type": "avertissement",
+        "texte": "Le projet ne doit pas avoir débuté avant le dépôt de la demande d'aide : un devis signé, un bon de commande validé ou un acompte versé avant cette date fait rejeter la dépense concernée."
+      },
+      {
+        "type": "avertissement",
+        "texte": "L'aide n'est cumulable avec aucun autre dispositif d'aide publique pour les mêmes dépenses. Les forages, les travaux d'entretien courant et le renouvellement de matériel sont inéligibles."
+      },
+      {
+        "type": "info",
+        "texte": "Le dossier se dépose à tout moment sur Mon Espace Aides Normandie, par la structure bénéficiaire elle-même : un dossier déposé par un tiers (conseiller, comptable) est déclaré irrecevable. Le taux bonifié suppose de fournir le certificat EquuRES ou la preuve d'adhésion au Réseau des Clubs d'Excellence dès le dépôt.",
+        "lien": "https://monespace-aides.normandie.fr/aides/#/crno/connecte/F_27FEA_EQUIN/depot/simple",
+        "lien_label": "Déposer une demande"
+      },
+      {
+        "type": "info",
+        "texte": "Pour toute question, contactez le Service Économie Équine de la Direction de l'Agriculture et des Ressources Marines de la Région, au 02 31 15 13 80 ou à economieequine@normandie.fr."
+      },
+      {
+        "type": "ressource",
+        "texte": "Page du dispositif sur le site de la Région Normandie",
+        "lien": "https://www.normandie.fr/soutien-aux-investissements-des-entreprises-equines-de-demain"
+      },
+      {
+        "type": "ressource",
+        "texte": "Fiche dispositif de la Région : critères, dépenses éligibles et inéligibles, sélection",
+        "lien": "https://www.normandie.fr/sites/default/files/2026-09/1-_fiche_dispositif_entreprise_equine_de_demainvf.pdf"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "taux, plafond, eligibilite",
+        "url": "https://chevaux-normandie.com/aides-et-subventions/aides-a-l-investissement/",
+        "date": "2026-10-15",
+        "extrait": "Le plancher des dépenses éligibles est fixé à 10 000 € HT et le plafond des dépenses éligibles à 150 000 € HT sur la durée totale de la programmation (2023-2027). Taux d'aide de base : 20% Taux d'aide de base + Taux d'aide si EquuRES ou membre du Réseau des Clubs d'Excellence : 25% [...] EBE moyen des 3 derniers exercices entre 10 000 € et 100 000 €. [...] Plus de 80 % du chiffre d'affaires doit provenir de l'activité équine."
+      },
+      {
+        "champ": "taux, financeur, description",
+        "url": "https://les-aides.fr/aide/cEAf3w/region-normandie/soutien-aux-investissements-des-entreprises-equines-de-demain.html",
+        "date": "2026-10-15",
+        "extrait": "La région Normandie accompagne les entreprises équines dans leurs investissements qui doivent être en cohérence avec les enjeux de demain : adaptation aux enjeux environnementaux et climatiques, meilleure prise en compte du bien-être animal, baisse de la pénibilité du travail, innovation numérique et anticipation des risques sanitaires. Dispositif cofinancé par l'Union européenne avec le Fonds Européen Agricole pour le DEveloppement Rural (FEADER). [...] 20% : taux d'aide de base, 25% : taux d'aide si structure labellisée EquuRES, et/ou membre du Réseau des Clubs d'Excellence en Normandie."
+      },
+      {
+        "champ": "eligibilite",
+        "url": "https://les-aides.fr/aide/cEAf3w/region-normandie/soutien-aux-investissements-des-entreprises-equines-de-demain.html",
+        "date": "2026-10-15",
+        "extrait": "exploitants agricoles individuels affiliés à la MSA, à titre principal, agriculteurs, personnes morales exerçant une activité agricole et dont le dirigeant est affilié à la MSA à titre principal. [...] Justifier d'un diplôme agricole équin. La structure devra justifier plus de 80% de son CA via l'activité équine. [...] Les structures relevant du régime du micro-bénéfice agricole ; ainsi que les exploitants agricoles cotisants solidaires, Les établissements d'enseignement et/ou de recherche agricoles, Les SAS et SCI"
+      },
+      {
+        "champ": "description, categories, mesures (ACT_AGR_006), infos_complementaires",
+        "url": "https://les-aides.fr/aide/cEAf3w/region-normandie/soutien-aux-investissements-des-entreprises-equines-de-demain.html",
+        "date": "2026-10-15",
+        "extrait": "barn et boxes financés si et seulement si : taille minimale 12 m², contacts sociaux entre chevaux, équipement en abreuvoirs eau automatique [...] mise en place d'un système de récupération des eaux [...] les systèmes d'arrosage des sols par aspersion, par citerne, par subirrigation, les systèmes de récupération des eaux de douches, des aires de lavage, des eaux pluviales [...] Dépenses inéligibles [...] les forages"
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://les-aides.fr/aide/cEAf3w/region-normandie/soutien-aux-investissements-des-entreprises-equines-de-demain.html",
+        "date": "2026-10-15",
+        "extrait": "Les demandes d'aides sont à déposer sur l'espace dédié Mon Espace Aides Normandie. Le dossier de demande d'aide doit être déposé par la structure potentiellement bénéficiaire de l'aide. Pour toute information, contacter la Direction de l'Agriculture et des Ressources Marines - Service Économie Équine au 02 31 15 13 80 ou à economieequine@normandie.fr."
+      },
+      {
+        "champ": "taux, plafond, financeur",
+        "url": "https://www.normandie.fr/soutien-aux-investissements-des-entreprises-equines-de-demain",
+        "date": "2026-10-15",
+        "extrait": "Le plancher des dépenses éligibles est fixé à 10 000 € et le plafond des dépenses éligibles à 150 000 € sur la durée totale de la programmation (2023-2027). Taux d'aide de base : 20% [...] Taux d'aide si EquuRES (Environnement et bien-être animal et/ou bien-être au travail et/ou si membre du Réseau des Clubs d'Excellence en Normandie : 25%"
+      },
+      {
+        "champ": "taux, plafond, infos_complementaires",
+        "url": "https://www.normandie.fr/sites/default/files/2026-09/1-_fiche_dispositif_entreprise_equine_de_demainvf.pdf",
+        "date": "2026-10-15",
+        "extrait": "Le plancher des dépenses éligibles, retenues à l'instruction de la demande d'aide, est fixé à 10 000 € et le plafond des dépenses éligibles à 150 000 € sur la durée totale de la programmation (2023-2027). [...] Un seul dossier pourra être retenu par bénéficiaire sur l'ensemble de la période de programmation du PSN. [...] Taux d'aide de base 20% [...] Taux d'aide si structure labellisée EquuRES environnement et bien-être animal ou bien-être au travail et / ou membre du Réseau des Clubs d'Excellence en Normandie 25%"
+      },
+      {
+        "champ": "eligibilite",
+        "url": "https://www.normandie.fr/sites/default/files/2026-09/1-_fiche_dispositif_entreprise_equine_de_demainvf.pdf",
+        "date": "2026-10-15",
+        "extrait": "Les exploitants agricoles individuels affiliés à la MSA à titre principal. Les personnes morales exerçant une activité agricole et dont le dirigeant est affilié à la MSA à titre principal. Les SAS et SCI ne sont pas éligibles. Les associations ne sont également pas éligibles. [...] Les structures relevant du régime du micro-bénéfice agricole ; ainsi que les exploitants agricoles cotisants solidaires ne sont pas éligibles"
+      },
+      {
+        "champ": "eligibilite",
+        "url": "https://www.normandie.fr/sites/default/files/2026-09/1-_fiche_dispositif_entreprise_equine_de_demainvf.pdf",
+        "date": "2026-10-15",
+        "extrait": "Localisation : Le projet d'investissement doit être localisé sur le territoire normand. [...] L'entreprise sollicitant l'aide doit être enregistrée en Normandie. [...] 10 000 € ≤ EBE ≤ 100 000 € [...] la structure devra justifier plus de 80% de son chiffre d'affaires via l'activité équine [...] Professionnalisme : justifier d'un diplôme agricole équin"
+      },
+      {
+        "champ": "description, categories, mesures (ACT_AGR_006)",
+        "url": "https://www.normandie.fr/sites/default/files/2026-09/1-_fiche_dispositif_entreprise_equine_de_demainvf.pdf",
+        "date": "2026-10-15",
+        "extrait": "Limiter l'impact environnemental : Systèmes de récupération des eaux de douches, des aires de lavage, des eaux pluviales"
+      },
+      {
+        "champ": "description",
+        "url": "https://www.normandie.fr/sites/default/files/2026-09/1-_fiche_dispositif_entreprise_equine_de_demainvf.pdf",
+        "date": "2026-10-15",
+        "extrait": "Manège, carrière, rond d'Havrincourt et de longe, piste, si et seulement s'ils remplissent au moins l'une des conditions suivantes : sol sablé fibré ou copeaux de bois ou système de subirrigation ou mise en place d'un système de récupération des eaux. [...] Systèmes d'arrosage des sols par aspersion, par citerne, par subirrigation"
+      },
+      {
+        "champ": "description",
+        "url": "https://www.normandie.fr/soutien-aux-investissements-des-entreprises-equines-de-demain",
+        "date": "2026-10-15",
+        "extrait": "Cofinancé par l'Union européenne avec le fonds européen agricole pour le développement rural (FEADER) [...] Adaptation aux enjeux environnementaux et climatiques, Meilleure prise en compte du bien-être animal, Baisse de la pénibilité du travail, Innovation numérique et anticipation des risques sanitaires."
+      },
+      {
+        "champ": "description, infos_complementaires",
+        "url": "https://www.normandie.fr/sites/default/files/2026-09/1-_fiche_dispositif_entreprise_equine_de_demainvf.pdf",
+        "date": "2026-10-15",
+        "extrait": "DEPENSES INELIGIBLES : Sont notamment inéligibles : [...] les forages"
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.normandie.fr/sites/default/files/2026-09/1-_fiche_dispositif_entreprise_equine_de_demainvf.pdf",
+        "date": "2026-10-15",
+        "extrait": "Le projet ne doit pas avoir débuté (devis signé, bon de commande validé, versement d'arrhes, factures…) avant la date de dépôt de la demande d'aide. En cas de démarrage anticipé : tout commencement d'exécution du projet avant la date de transmission de demande d'aide à la Région entraîne automatiquement le rejet de la dépense concernée."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.normandie.fr/sites/default/files/2026-09/1-_fiche_dispositif_entreprise_equine_de_demainvf.pdf",
+        "date": "2026-10-15",
+        "extrait": "L'aide n'est cumulable avec aucun autre dispositif d'aide publique pour les dépenses éligibles considérées."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.normandie.fr/soutien-aux-investissements-des-entreprises-equines-de-demain",
+        "date": "2026-10-15",
+        "extrait": "NB : Les travaux d'entretien courant et le renouvellement de matériel sont complètement inéligibles."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.normandie.fr/sites/default/files/2026-09/1-_fiche_dispositif_entreprise_equine_de_demainvf.pdf",
+        "date": "2026-10-15",
+        "extrait": "Les demandes d'aides sont à déposer sur l'espace dédié, Mon Espace Aides Normandie (accessible depuis www.normandie.fr). [...] Le dépôt des dossiers est possible à tout moment. [...] tout dossier déposé par une structure tierce (conseiller, comptable…) sera déclaré irrecevable. [...] Pour bénéficier du taux d'aide bonifié, le demandeur doit à la date de dépôt du dossier de demande justifier de sa labellisation EquuRes ou de son adhésion effective au Réseau des Clubs d'Excellence en Normandie."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.normandie.fr/soutien-aux-investissements-des-entreprises-equines-de-demain",
+        "date": "2026-10-15",
+        "extrait": "Contact Filière Equine, Direction de l'Agriculture et des Ressources Marines, Service Économie Équine, 02 31 15 13 80, economieequine@normandie.fr [...] Déposer une demande (lien https://monespace-aides.normandie.fr/aides/#/crno/connecte/F_27FEA_EQUIN/depot/simple)"
+      },
+      {
+        "champ": "logo_url",
+        "url": "https://www.normandie.fr/profiles/createur_profil/themes/createur/favicon/apple-touch-icon.png",
+        "date": "2026-10-15",
+        "extrait": "Icône carrée de la Région Normandie (drapeau aux deux léopards, 180 x 180 px), déclarée en rel=apple-touch-icon sur www.normandie.fr"
+      },
+      {
+        "champ": "type",
+        "url": "https://www.normandie.fr/sites/default/files/2026-09/1-_fiche_dispositif_entreprise_equine_de_demainvf.pdf",
+        "date": "2026-10-15",
+        "extrait": "Type d'aide : Subvention"
+      },
+      {
+        "champ": "type",
+        "url": "https://www.normandie.fr/soutien-aux-investissements-des-entreprises-equines-de-demain",
+        "date": "2026-10-15",
+        "extrait": "La subvention sera versée sur la base de factures acquittées par le porteur de projet (relevés bancaires à l'appui) le crédit-bail ainsi que le leasing ne sont pas éligibles !"
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "AIDE_HRB_007",
+    "nom": "Normandie Agriculture Investissement (NAI), aide aux investissements des exploitations de la Région Normandie",
+    "financeur": "Région Normandie",
+    "logo_url": null,
+    "type": "subvention",
+    "taux": "40 % des dépenses éligibles en priorité 1 (filières stratégiques régionales) et en priorité 2 (renouvellement des générations), 30 % en priorité 3 (projet conquérant), 15 % en priorité 4 (projet d'adaptation).",
+    "plafond": "De 10 000 € de dépenses éligibles au minimum jusqu'à un plafond, sur la période 2023-2027, de 200 000 € (priorité 1), 150 000 € (priorité 2), 85 000 € (priorité 3) ou 75 000 € (priorité 4) par exploitation. Pour les CUMA : 400 000 € en priorité 1, 170 000 € en priorité 3, et en priorité 4 150 000 € selon la présentation de la Chambre d'agriculture du 7 mai 2026 mais 140 000 € selon sa page dossier (écart entre les deux sources, à vérifier auprès de la Région).",
+    "description": "Subvention de la Région Normandie aux investissements des exploitations agricoles, dont les dépenses éligibles se concentrent sur les filières d'élevage. Côté élevage, elle finance notamment les bâtiments et leurs équipements fixes, le bloc de traite (robot ou salle de traite), les ouvrages de stockage des effluents au-delà du minimum réglementaire, l'aménagement des pâtures (chemins d'accès, clôtures, abreuvoirs) et la création d'une réserve d'eau individuelle alimentée par la récupération des eaux de pluie. Le taux dépend de la catégorie de priorité dans laquelle le projet est classé.",
+    "eligibilite": "Exploitants agricoles individuels, à titre principal ou secondaire ou justifiant que leur activité principale est agricole, et sociétés agricoles, ainsi que les CUMA. La priorité 1 suppose qu'au moins 50 % du coût du projet porte sur une filière stratégique de la liste régionale.",
+    "categories": [
+      "ameliorer_efficacite_hydrique",
+      "valoriser_reut_eaux_non_conventionnelles",
+      "agir_rejets_qualite"
+    ],
+    "secteurs": [
+      "elevage_herbivores"
+    ],
+    "departements": [
+      "14",
+      "27",
+      "50",
+      "61",
+      "76"
+    ],
+    "agences": [],
+    "mesures": [
+      "ACT_HRB_003",
+      "ACT_HRB_007",
+      "ACT_AGR_006"
+    ],
+    "infos_complementaires": [
+      {
+        "type": "avertissement",
+        "texte": "L'aide NAI ne se cumule pas avec une autre aide publique sur le même objet d'investissement. Le renouvellement d'un matériel ou d'un équipement n'est pas éligible si l'achat neuf date de moins de 7 ans avant la demande."
+      },
+      {
+        "type": "info",
+        "texte": "Selon la frise de procédure présentée par la Chambre d'agriculture, le commencement des travaux (signature des devis et des bons de commande) est possible depuis le 1er janvier 2023, y compris avant le dépôt du dossier. La réalisation des travaux (paiement des factures, publicité des financeurs) court à partir du dépôt du dossier en ligne. Prévenez la Région avant tout changement du projet, de son calendrier ou de votre structure pendant la durée des engagements."
+      },
+      {
+        "type": "info",
+        "texte": "La priorité 1 vise notamment les filières bovins viande et ovine/caprine. Les bovins lait n'y figurent pas en tant que tels, mais la liste comprend l'agriculture biologique, la transformation à la ferme et circuit court, et les races normandes (au moins 90 % de vaches normandes, ou contrat avec une entreprise)."
+      },
+      {
+        "type": "info",
+        "texte": "La réserve d'eau aidée doit être individuelle, déconnectée du réseau hydrographique et alimentée par la récupération des eaux de pluie. Le stockage des effluents n'est aidé qu'au-delà du minimum réglementaire."
+      },
+      {
+        "type": "info",
+        "texte": "Version 4 du dispositif, validée en commission permanente de la Région le 27 avril 2026 et appliquée aux dossiers déposés depuis le 4 mai 2026 (lu le 15 octobre 2026)."
+      },
+      {
+        "type": "info",
+        "texte": "La demande se dépose uniquement par téléprocédure, sur un compte personnel. Service Développement des entreprises Agri-Agro de la Région : 02 79 18 33 46, investissement-agri-agro@normandie.fr. Les Chambres d'agriculture de Normandie proposent un accompagnement au montage du dossier NAI, sur devis.",
+        "lien": "https://monespace-aides.normandie.fr",
+        "lien_label": "Espace des aides de la Région Normandie"
+      },
+      {
+        "type": "ressource",
+        "texte": "Page du dispositif sur le site de la Région Normandie",
+        "lien": "https://www.normandie.fr/normandie-agriculture-investissement"
+      },
+      {
+        "type": "ressource",
+        "texte": "Présentation de la version 4 du dispositif par la Chambre d'agriculture de Normandie (webinaire du 7 mai 2026)",
+        "lien": "https://normandie.chambres-agriculture.fr/fileadmin/user_upload/Normandie/PDF/Entreprise/20260507_WEBINAIRE_NAI4_ChambreAgriNormandie.pdf"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "taux, plafond",
+        "url": "https://normandie.chambres-agriculture.fr/fileadmin/user_upload/Normandie/PDF/Entreprise/20260507_WEBINAIRE_NAI4_ChambreAgriNormandie.pdf",
+        "date": "2026-10-15",
+        "extrait": "1 : Filières stratégiques régionales 40 % 200 000 € 400 000 € ; 2 : Renouvellement des générations 40 % 150 000 € ; 3 : Projet conquérant 30 % 85 000 € 170 000 € ; 4 : Projet d'adaptation 15 % 75 000 € 150 000 € [...] Dépenses mini 10 000 €"
+      },
+      {
+        "champ": "taux, plafond",
+        "url": "https://normandie.chambres-agriculture.fr/dossiers-1/detail-du-dossier/normandie-agriculture-investissement",
+        "date": "2026-10-15",
+        "extrait": "Entre 10 000 et 200 000 € d'investissements éligibles sur 2023-2027 (400 000 € pour les projets déposés par les CUMA) [...] Entre 10 000 et 85 000 € d'investissements éligibles sur 2023-2027 (170 000 € pour les projets déposés par les CUMA)"
+      },
+      {
+        "champ": "plafond",
+        "url": "https://normandie.chambres-agriculture.fr/dossiers-1/detail-du-dossier/normandie-agriculture-investissement",
+        "date": "2026-10-15",
+        "extrait": "Entre 10000 et 75 000 € HT d'investissements éligibles sur 2023-2027 (140 000 € pour les projets déposés par les CUMA)"
+      },
+      {
+        "champ": "description, mesures (ACT_HRB_003, ACT_HRB_007, ACT_AGR_006), infos_complementaires",
+        "url": "https://normandie.chambres-agriculture.fr/fileadmin/user_upload/Normandie/PDF/Entreprise/20260507_WEBINAIRE_NAI4_ChambreAgriNormandie.pdf",
+        "date": "2026-10-15",
+        "extrait": "Investissements éligibles, Filières d'élevage : Bâtiments d'élevage (construction, aménagement, équipements fixes) [...] Bloc de traite (robot de traite, salles de traite) [...] Ouvrages de stockages des effluents (au-delà du minimum réglementaire) ; Aménagement des pâtures (chemins d'accès, clôtures, abreuvoirs) ; Projet de création d'une réserve d'eau individuelle, déconnectée du réseau hydrographique, alimentée par récupération des eaux de pluie"
+      },
+      {
+        "champ": "description",
+        "url": "https://normandie.chambres-agriculture.fr/dossiers-1/detail-du-dossier/normandie-agriculture-investissement",
+        "date": "2026-10-15",
+        "extrait": "les dépenses éligibles se concentrent en filières d'élevage : bâtiments d'élevage ainsi que leurs équipements fixes (traite et autres)"
+      },
+      {
+        "champ": "eligibilite",
+        "url": "https://normandie.chambres-agriculture.fr/fileadmin/user_upload/Normandie/PDF/Entreprise/20260507_WEBINAIRE_NAI4_ChambreAgriNormandie.pdf",
+        "date": "2026-10-15",
+        "extrait": "Sont éligibles les exploitants agricoles individuels, à titre principal ou secondaire ou justifiant que leur activité principale est agricole ; ainsi que les sociétés agricoles [...] Priorité 1: Projets d'investissements en filières stratégiques (Si investissements concernés ≥ 50% du coût global)"
+      },
+      {
+        "champ": "eligibilite",
+        "url": "https://normandie.chambres-agriculture.fr/dossiers-1/detail-du-dossier/normandie-agriculture-investissement",
+        "date": "2026-10-15",
+        "extrait": "Agriculteurs seuls ou regroupés, sociétés avec activité agricole"
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://normandie.chambres-agriculture.fr/fileadmin/user_upload/Normandie/PDF/Entreprise/20260507_WEBINAIRE_NAI4_ChambreAgriNormandie.pdf",
+        "date": "2026-10-15",
+        "extrait": "Puis je cumuler ou solliciter une autre aide publique que l'aide NAI [...] ? NON sur le même objet d'investissement [...] Le renouvellement de matériel ou équipement est-il éligible aux aides NAI ? OUI sauf si l'achat neuf date de moins de 7 ans avant la transmission de la demande d'aide"
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://normandie.chambres-agriculture.fr/fileadmin/user_upload/Normandie/PDF/Entreprise/20260507_WEBINAIRE_NAI4_ChambreAgriNormandie.pdf",
+        "date": "2026-10-15",
+        "extrait": "Frise de procédure : « Commencement travaux (signe devis, bons de commande) » à partir du « 1e janvier 2023 » ; « Réalisation travaux (acquittement factures, publicité financeurs) » à partir du « DEPOT DOSSIER EN LIGNE » [...] NB : AVERTIR la Région AVANT tout changement partiel de la nature du projet, de son calendrier, ou au sein de sa structure pendant cette période"
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://normandie.chambres-agriculture.fr/fileadmin/user_upload/Normandie/PDF/Entreprise/20260507_WEBINAIRE_NAI4_ChambreAgriNormandie.pdf",
+        "date": "2026-10-15",
+        "extrait": "Filière bovins viande (naisseurs, engraisseurs) [...] Filière ovine/caprine (élevage) [...] Transformation à la ferme / circuit court ; Agriculture Biologique [...] races normandes* [...] (*) Mini 90% vaches NO, ou contrat avec entreprise"
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://normandie.chambres-agriculture.fr/fileadmin/user_upload/Normandie/PDF/Entreprise/20260507_WEBINAIRE_NAI4_ChambreAgriNormandie.pdf",
+        "date": "2026-10-15",
+        "extrait": "Version 4 du dispositif validé en Commission Permanente REGION NORMANDIE du 27/04/2026 ; Mise en œuvre à partir du 4 mai 2026"
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://normandie.chambres-agriculture.fr/fileadmin/user_upload/Normandie/PDF/Entreprise/20260507_WEBINAIRE_NAI4_ChambreAgriNormandie.pdf",
+        "date": "2026-10-15",
+        "extrait": "Demande d'aide par téléprocédure : (compte personnel) https://www.normandie.fr/aides-regionales https://monespace-aides.normandie.fr [...] Service Développement des entreprises Agri-Agro Tél : 02.79.18.33.46 @ : investissement-agri-agro@normandie.fr"
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://normandie.chambres-agriculture.fr/etre-accompagne/pour-agriculteurs-et-agricultrices/detail-de-la-prestation/demande-de-subvention",
+        "date": "2026-10-15",
+        "extrait": "Accompagnement demande de subvention (NAI) [...] Vérifier que les investissements sont éligibles au dispositif NAI [...] Tarifs et devis sur demande"
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://normandie.chambres-agriculture.fr/dossiers-1/detail-du-dossier/normandie-agriculture-investissement",
+        "date": "2026-10-15",
+        "extrait": "Demander les aides : téléprocédure exclusive"
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "AIDE_HRB_008",
+    "nom": "MAEC « Autonomie fourragère, élevages d'herbivores » (PAC 2023-2027, territoires PAEC de Normandie)",
+    "financeur": "Union européenne (FEADER) et cofinanceur national, mesure de la PAC mise en œuvre par la DRAAF et les DDT(M) de Normandie",
+    "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792098292/Noe%20assets/logos/AIDE_HRB_008.png",
+    "type": "subvention",
+    "taux": "Aide à l'hectare engagé : 233 € par hectare et par an au niveau 3, 177 € au niveau 2, 121 € au niveau 1 (niveau 1 ouvert seulement dans les PAEC de l'Eure et de la Seine-Maritime).",
+    "plafond": "De 6 000 à 12 000 € par exploitation et par an : 6 000 € pour une exploitation sortante ou en maintien, 8 000 € (niveau 1), 10 000 € (niveau 2) ou 12 000 € (niveau 3) pour une exploitation en évolution. Selon le rang de priorisation, le niveau 3 peut être plafonné à 6 000 €, par exemple au rang 2.2 des PAEC à enjeu biodiversité. Dans certains PAEC, plafond appliqué hors financement additionnel éventuel de l'agence de l'eau Seine-Normandie.",
+    "description": "Mesure agroenvironnementale et climatique (intervention 70.09 du plan stratégique national de la PAC) qui rémunère, à l'hectare, l'évolution d'un élevage d'herbivores vers plus d'autonomie fourragère : plus d'herbe dans l'assolement, moins de maïs dans la surface fourragère, moins d'achats de concentrés, en valorisant au mieux l'herbe, notamment par le pâturage. Au niveau 3, le cahier des charges impose notamment au moins 75 % d'herbe dans la SAU et au plus 10 % de maïs ensilage dans la surface fourragère (à partir du 15 mai 2028), un plafond d'achats de concentrés (800 kg par UGB bovine ou équine) et des limites d'azote minéral et de produits phytosanitaires sur les prairies. D'autres seuils varient selon le territoire : par exemple, au moins 55 % de prairies permanentes dans la SAU et un chargement de 1,6 UGB par hectare de surface fourragère au plus dans les PAEC de l'Andainette (Orne), du Sud Pays d'Auge (Calvados) ou de la Vallée de la Sée (Manche), contre 45 % et 1,8 UGB dans celui de la Vallée de la Seine amont (Eure).",
+    "eligibilite": "Agriculteurs actifs (GAEC compris) ayant au moins une parcelle dans un PAEC normand où la mesure est ouverte. Il faut engager au moins 90 % des terres arables et prairies permanentes de l'exploitation, avoir un chargement non nul et réaliser un diagnostic agro-écologique de l'exploitation.",
+    "categories": [
+      "changer_process_pratiques"
+    ],
+    "secteurs": [
+      "elevage_herbivores"
+    ],
+    "departements": [
+      "14",
+      "27",
+      "50",
+      "61",
+      "76"
+    ],
+    "agences": [],
+    "mesures": [
+      "ACT_HRB_004"
+    ],
+    "infos_complementaires": [
+      {
+        "type": "avertissement",
+        "texte": "La mesure n'est ouverte que dans certains territoires dotés d'un projet agro-environnemental et climatique (PAEC), et pas dans tout le département. Vérifiez sur la synthèse de la DRAAF que votre PAEC propose la mesure et à quel niveau, puis contactez la structure animatrice indiquée en tête de la notice du territoire.",
+        "lien": "https://draaf.normandie.agriculture.gouv.fr/cartes-des-paec-ouverts-pour-la-campagne-2026-a3118.html",
+        "lien_label": "Cartes et synthèse des PAEC ouverts en 2026"
+      },
+      {
+        "type": "avertissement",
+        "texte": "Le diagnostic agro-écologique de l'exploitation doit être transmis à la DDT(M) au plus tard le 15 septembre de la première année d'engagement, sinon le dossier ne peut pas être engagé cette année-là. Les MAEC systèmes surfaciques ne sont pas cumulables avec un paiement pour services environnementaux (PSE) financé sur fonds publics."
+      },
+      {
+        "type": "info",
+        "texte": "Le contrat court à partir de la date limite de dépôt du dossier PAC de l'année d'engagement et pendant les trois années suivantes. Les demandes sont classées selon des règles de priorisation fixées par arrêté préfectoral : au premier rang, une fiche de liaison conforme et, pour les MAEC systèmes comme celle-ci, être agriculteur à titre principal, puis le type de PAEC (enjeu biodiversité ou eau), au moins 10 UGB pour la plupart des rangs et le taux d'herbe. En 2026, la fiche de liaison signée par l'exploitant et l'opérateur du PAEC devait parvenir à la DRAAF et à la DDT(M) avant le 26 mai 2026."
+      },
+      {
+        "type": "ressource",
+        "texte": "Notices des territoires des MAEC et des PAEC 2026 (DRAAF Normandie)",
+        "lien": "https://draaf.normandie.agriculture.gouv.fr/notices-des-territoires-des-maec-et-des-paec-2026-r1631.html"
+      },
+      {
+        "type": "ressource",
+        "texte": "Exemple de notice de la mesure au niveau 3 : territoire du bassin versant de l'Andainette (Orne), campagne 2026",
+        "lien": "https://draaf.normandie.agriculture.gouv.fr/IMG/pdf/43-anda-hbv3.pdf"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "nom, description, taux",
+        "url": "https://draaf.normandie.agriculture.gouv.fr/IMG/pdf/43-anda-hbv3.pdf",
+        "date": "2026-10-15",
+        "extrait": "Intervention 70.09 : Mesure agroenvironnementale et climatique (MAEC) [...] Notice de la mesure « Autonomie fourragère - Élevages d'herbivores » - Niveau 3 [...] Campagne 2026 [...] une aide de 233 € par hectare et par an sera versée pendant la durée de l'engagement."
+      },
+      {
+        "champ": "description, mesures (ACT_HRB_004)",
+        "url": "https://draaf.normandie.agriculture.gouv.fr/IMG/pdf/43-anda-hbv3.pdf",
+        "date": "2026-10-15",
+        "extrait": "ce soutien à l'évolution de pratiques incite les exploitants à introduire davantage d'herbe dans l'assolement, à réduire la part du maïs dans la surface fourragère et à réduire les achats de concentrés. L'objectif est d'accroître l'autonomie alimentaire de l'exploitation en valorisant au mieux la production d'herbe, notamment par le pâturage et en développant des nouvelles cultures."
+      },
+      {
+        "champ": "description",
+        "url": "https://draaf.normandie.agriculture.gouv.fr/IMG/pdf/43-anda-hbv3.pdf",
+        "date": "2026-10-15",
+        "extrait": "Respecter un chargement moyen annuel maximal de 1,6 UGB/hectare de surface fourragère [...] Respecter une part minimale de 75 % de surface en herbe dans la SAU [...] À partir du 15 mai 2028 [...] part maximale de 10 % de surface en maïs avec la précision « Récolte ensilage » [...] part minimale de 55 % de surfaces en prairies permanentes [...] 800 kg/UGB bovine ou équine [...] Limiter les apports de fertilisants azotés minéraux [...] à 50 kg N/ha/an"
+      },
+      {
+        "champ": "description",
+        "url": "https://draaf.normandie.agriculture.gouv.fr/IMG/pdf/5.3-seip-hbv3.pdf",
+        "date": "2026-10-15",
+        "extrait": "Respecter un chargement moyen annuel maximal de 1,8 UGB/hectare de surface fourragère [...] Respecter une part minimale de 75 % de surface en herbe dans la SAU [...] Respecter une part minimale de 45 % de surfaces en prairies permanentes dans la SAU"
+      },
+      {
+        "champ": "description",
+        "url": "https://draaf.normandie.agriculture.gouv.fr/IMG/pdf/3-spau-hbv3.pdf",
+        "date": "2026-10-15",
+        "extrait": "Respecter un chargement moyen annuel maximal de 1,6 UGB/hectare de surface fourragère [...] Respecter une part minimale de 55 % de surfaces en prairies permanentes dans la SAU"
+      },
+      {
+        "champ": "description",
+        "url": "https://draaf.normandie.agriculture.gouv.fr/IMG/pdf/4.2-vsep-hbv3.pdf",
+        "date": "2026-10-15",
+        "extrait": "Respecter un chargement moyen annuel maximal de 1,6 UGB/hectare de surface fourragère [...] Respecter une part minimale de 55 % de surfaces en prairies permanentes dans la SAU"
+      },
+      {
+        "champ": "plafond, infos_complementaires",
+        "url": "https://draaf.normandie.agriculture.gouv.fr/IMG/pdf/43-anda-hbv3.pdf",
+        "date": "2026-10-15",
+        "extrait": "1 Pour toutes les MAEC, avoir déposé une fiche de liaison conforme Et, pour les MAEC systèmes, être agriculteur à titre principal [...] 2 PAEC à enjeu biodiversité [...] 2.2 - MAEC HBV de niveau 3 : l'exploitation doit détenir au moins 10 UGB et ne doit pas répondre à la définition de l'exploitation sortante. [...] 6 000 € [...] Le plafond est de 6 000 € (maintien) car le taux d'herbe exigé ne permet pas à l'exploitation d'être en évolution"
+      },
+      {
+        "champ": "plafond, financeur",
+        "url": "https://draaf.normandie.agriculture.gouv.fr/IMG/pdf/43-anda-hbv3.pdf",
+        "date": "2026-10-15",
+        "extrait": "Montants annuels plafonnés à l'exploitation (total FEADER/Cofinanceur national) [...] « Exploitation sortante » 6 000 € [...] « Exploitation en maintien » 6 000 € [...] de niveau 1 « Exploitation en évolution » 8 000 € [...] de niveau 2 « Exploitation en évolution » 10 000 € [...] de niveau 3 « Exploitation en évolution » 12 000 €"
+      },
+      {
+        "champ": "taux",
+        "url": "https://draaf.normandie.agriculture.gouv.fr/IMG/pdf/43-anda-hbv3.pdf",
+        "date": "2026-10-15",
+        "extrait": "La MAEC HBV de niveau 1 est ouverte uniquement pour les surfaces situées dans les PAEC des départements 27 et 76"
+      },
+      {
+        "champ": "taux",
+        "url": "https://draaf.normandie.agriculture.gouv.fr/IMG/pdf/43-anda-hbv2.pdf",
+        "date": "2026-10-15",
+        "extrait": "Notice de la mesure « Autonomie fourragère - Élevages d'herbivores » - Niveau 2 NO_ANDA_HBV2 [...] Campagne 2026 [...] une aide de 177 € par hectare et par an sera versée pendant la durée de l'engagement"
+      },
+      {
+        "champ": "taux, departements (76)",
+        "url": "https://draaf.normandie.agriculture.gouv.fr/IMG/pdf/1-bfva-hbv1.pdf",
+        "date": "2026-10-15",
+        "extrait": "SMBV Valmont-Ganzeville [...] 76400 COLLEVILLE [...] Notice de la mesure « Autonomie fourragère - Élevages d'herbivores » - Niveau 1 NO_BFVA_HBV1 Territoire « 1 - BAC Fécamp-Valmont » Campagne 2026 [...] une aide de 121 € par hectare et par an"
+      },
+      {
+        "champ": "plafond",
+        "url": "https://draaf.normandie.agriculture.gouv.fr/IMG/pdf/3-spau-hbv3.pdf",
+        "date": "2026-10-15",
+        "extrait": "L'aide sera plafonnée selon les règles indiquées ci-dessous, hors financement additionnel éventuel de l'Agence de l'Eau Seine Normandie."
+      },
+      {
+        "champ": "eligibilite",
+        "url": "https://draaf.normandie.agriculture.gouv.fr/IMG/pdf/43-anda-hbv3.pdf",
+        "date": "2026-10-15",
+        "extrait": "Les bénéficiaires éligibles sont les agriculteurs actifs [...] Les GAEC sont éligibles à cette intervention avec application du principe de transparence. [...] Engager au moins 90 % des terres arables et prairies permanentes de l'exploitation ; Avoir au moins une parcelle éligible dans le PAEC ; Réaliser un diagnostic agro-écologique de l'exploitation. Le diagnostic de l'exploitation doit être transmis à la DDT(M) au plus tard au 15 septembre de la première année d'engagement. [...] Respecter un chargement moyen annuel en UGB/hectare de surface fourragère de l'exploitation non nul."
+      },
+      {
+        "champ": "departements",
+        "url": "https://draaf.normandie.agriculture.gouv.fr/IMG/xlsx/20260415-synthese_maec_2026.xlsx",
+        "date": "2026-10-15",
+        "extrait": "Synthèse MAEC par PAEC 2026, « Mesures ouvertes » : ligne HBV3 cochée notamment pour les PAEC 1 (NO_BFVA), 3 (NO_SPAU), 4.2 (NO_VSEP), 5.3 (NO_SEIP) et 43 (NO_ANDA), ligne HBV1 cochée pour le PAEC 1 (NO_BFVA)."
+      },
+      {
+        "champ": "departements",
+        "url": "https://draaf.normandie.agriculture.gouv.fr/cartes-individualisees-des-paec-2026-valides-a4849.html",
+        "date": "2026-10-15",
+        "extrait": "Calvados 3 - NO SPAU - enjeu eau - calvados [...] Eure 5 - NO SEI2 SEIO SEIP - enjeux biodiversité/autre/eau - eure [...] Manche 4 - NO VSEP - enjeu biodiversité - manche [...] Orne [...] 43 - NO ANDA - enjeu biodiversité - orne [...] Seine-Maritime 1 - NO BFVA - enjeu eau - seine-maritime"
+      },
+      {
+        "champ": "departements (14)",
+        "url": "https://draaf.normandie.agriculture.gouv.fr/IMG/pdf/3-spau-hbv3.pdf",
+        "date": "2026-10-15",
+        "extrait": "Eaux Sud Pays d'Auge - Service de la Communauté d'Agglomération Lisieux Normandie [...] 14100 Lisieux [...] Notice de la mesure « Autonomie fourragère - Élevages d'herbivores » - Niveau 3 NO_SPAU_HBV3 Territoire « 3 - Aire d'alimentation de captage du Sud Pays d'Auge » Campagne 2026"
+      },
+      {
+        "champ": "departements (27)",
+        "url": "https://draaf.normandie.agriculture.gouv.fr/IMG/pdf/5.3-seip-hbv3.pdf",
+        "date": "2026-10-15",
+        "extrait": "Communauté d'Agglomération Seine-Eure [...] 27400 LOUVIERS [...] Notice de la mesure « Autonomie fourragère - Élevages d'herbivores » - Niveau 3 NO_SEIP_HBV3 Territoire « 5.3 - Vallée de la Seine Amont - Périmètre global » Campagne 2026"
+      },
+      {
+        "champ": "departements (50)",
+        "url": "https://draaf.normandie.agriculture.gouv.fr/IMG/pdf/4.2-vsep-hbv3.pdf",
+        "date": "2026-10-15",
+        "extrait": "Communauté d'Agglomération Mont Saint Michel - Normandie [...] 50220 POILLEY [...] Notice de la mesure « Autonomie fourragère - Élevages d'herbivores » - Niveau 3 NO_VSEP_HBV3 Territoire « 4.2 - Vallée de la Sée - Périmètre global » Campagne 2026"
+      },
+      {
+        "champ": "departements (61)",
+        "url": "https://draaf.normandie.agriculture.gouv.fr/IMG/pdf/43-anda-hbv3.pdf",
+        "date": "2026-10-15",
+        "extrait": "PNR Normandie-Maine 1 route du Château [...] 61320 Carrouges Cedex [...] Territoire « 43 - Bassin versant de l'Andainette - Périmètre global » Campagne 2026"
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://draaf.normandie.agriculture.gouv.fr/IMG/pdf/43-anda-hbv3.pdf",
+        "date": "2026-10-15",
+        "extrait": "l'ensemble des obligations du cahier des charges doit être respecté sur toute la durée du contrat, c'est-à-dire à partir de la date limite de dépôt des dossiers PAC de l'année d'engagement et durant les 3 années suivantes. [...] 1 Pour toutes les MAEC, avoir déposé une fiche de liaison conforme [...] l'exploitation doit détenir au moins 10 UGB"
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://draaf.normandie.agriculture.gouv.fr/IMG/pdf/20260212-notice-op-fiche_liaison-2026.pdf",
+        "date": "2026-10-15",
+        "extrait": "Fiche de liaison - Campagne MAEC 2026 [...] La fiche de liaison sera à adresser, par l'opérateur, à la DRAAF et à la DDT(M) dont relève le numéro PACAGE de l'exploitant, avant le 26 mai 2026 [...] Les PSE financés sur des fonds publics (AE, collectivités territoriales etc.) ne sont pas cumulables avec : [...] les MAEC systèmes surfaciques"
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://draaf.normandie.agriculture.gouv.fr/cartes-des-paec-ouverts-pour-la-campagne-2026-a3118.html",
+        "date": "2026-10-15",
+        "extrait": "Cartes des PAEC ouverts pour la campagne 2026 [...] Synthese maec par PAEC 2026"
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://draaf.normandie.agriculture.gouv.fr/notices-des-territoires-des-maec-et-des-paec-2026-r1631.html",
+        "date": "2026-10-15",
+        "extrait": "Notices des territoires des MAEC et des PAEC 2026"
+      },
+      {
+        "champ": "logo_url",
+        "url": "https://draaf.normandie.agriculture.gouv.fr/plugins-dist/agrispip_dsfr/dsfr/dist/favicon/apple-touch-icon.png",
+        "date": "2026-10-15",
+        "extrait": "Icône carrée Marianne (180 x 180 px) déclarée en apple-touch-icon sur le site de la DRAAF Normandie"
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "AIDE_HRB_009",
+    "nom": "Sobriété en eau de l'agriculture, fiche ECO2 (12e programme 2025-2030, Rhône Méditerranée Corse)",
+    "financeur": "Agence de l'eau Rhône Méditerranée Corse",
+    "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792098190/Noe%20assets/logos/AIDE_HRB_009.png",
+    "type": "subvention",
+    "taux": "Études et travaux d'économie d'eau : jusqu'à 70 % sur les secteurs prioritaires du SDAGE pour la gestion quantitative, jusqu'à 50 % ailleurs. Diagnostic territorial et actions de communication et sensibilisation : jusqu'à 70 %. Dans la limite de l'encadrement européen des aides d'État et, le cas échéant, du dispositif régional de la PAC.",
+    "plafond": null,
+    "description": "La fiche ECO2 du 12e programme de l'agence de l'eau Rhône Méditerranée Corse finance la sobriété en eau des exploitations agricoles. Son premier volet aide l'optimisation des équipements : études préalables, dispositifs de récupération d'eau de pluie issue des bâtiments agricoles, travaux de modernisation des réseaux d'irrigation (réparation de fuites, régulation, étanchéification, dispositifs hydroéconomes), outils de pilotage, télégestion ou sectorisation des réseaux. Son second volet aide l'accompagnement du changement de pratiques : études de diagnostic territorial, animation dont conseil agronomique visant la réduction de la consommation en eau, actions de communication et de sensibilisation.",
+    "eligibilite": "Volet équipements : agriculteurs et groupements d'agriculteurs (associations syndicales notamment) des bassins Rhône-Méditerranée et de Corse, ainsi que les gestionnaires de réseaux d'alimentation en eau brute. Le projet doit porter sur un usage existant dont le prélèvement est autorisé et se traduire par une baisse effective des prélèvements dans le milieu, au point de prélèvement. Volet diagnostic territorial, animation et communication : ouvert aussi aux entreprises, coopératives, organismes consulaires, collectivités et associations, sans condition d'aide particulière.",
+    "categories": [
+      "valoriser_reut_eaux_non_conventionnelles",
+      "ameliorer_efficacite_hydrique"
+    ],
+    "secteurs": [
+      "elevage_herbivores"
+    ],
+    "departements": [],
+    "agences": [
+      "AERMC"
+    ],
+    "mesures": [
+      "ACT_AGR_006"
+    ],
+    "infos_complementaires": [
+      {
+        "type": "avertissement",
+        "texte": "La demande d'aide doit être transmise à l'agence avant l'engagement du projet, sinon elle est rejetée, sauf exceptions, notamment un accord écrit préalable de l'agence pour démarrer les travaux avant le dépôt, ou les actions préalables nécessaires à la préparation du dossier ou à la définition des travaux."
+      },
+      {
+        "type": "avertissement",
+        "texte": "Ne sont pas éligibles les compteurs à la parcelle, les travaux visant une utilisation plus importante de la ressource en eau, ni les travaux ayant déjà bénéficié d'une aide au cours des dix dernières années."
+      },
+      {
+        "type": "info",
+        "texte": "Le coût prévisionnel du projet doit dépasser 10 000 €. Le taux applicable dépend du territoire de la ressource prélevée, au point de prélèvement. Il est de 70 % en secteur prioritaire du SDAGE pour la gestion quantitative, 50 % sinon. En Rhône-Méditerranée, ce sont les bassins versants et masses d'eau souterraine que le SDAGE identifie en déséquilibre quantitatif ou en équilibre précaire. En Corse, c'est un secteur où le SDAGE demande l'élaboration d'un PTGE, et une nappe soumise à un prélèvement important d'après l'état des lieux du SDAGE."
+      },
+      {
+        "type": "info",
+        "texte": "Les réparations de fuites et dispositifs hydroéconomes que cite la fiche portent sur les réseaux d'irrigation. Les aides au changement de pratiques agricoles pour réduire les besoins en eau relèvent des fiches AGRI1 à AGRI5 du même programme."
+      },
+      {
+        "type": "info",
+        "texte": "Pour la récupération d'eau de pluie, l'aide exige une baisse effective des prélèvements dans le milieu et un prélèvement autorisé. La fiche ECO2 ne dit pas si remplacer l'eau du réseau public par de l'eau de pluie remplit cette condition : à vérifier auprès de l'agence avant de monter le dossier."
+      },
+      {
+        "type": "ressource",
+        "texte": "Fiche ECO2, sobriété en eau de l'agriculture (version 1 adoptée le 19 décembre 2024)",
+        "lien": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/eco2-sobriete-agriculture.pdf",
+        "lien_label": "Fiche ECO2 (PDF)"
+      },
+      {
+        "type": "ressource",
+        "texte": "Conditions générales d'attribution et de versement des aides du 12e programme",
+        "lien": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-02/conditions-generales.pdf",
+        "lien_label": "Conditions générales (PDF)"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "taux",
+        "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/eco2-sobriete-agriculture.pdf",
+        "date": "2026-10-15",
+        "extrait": "TYPES D'ACTIONS TAUX MAXIMUM [...] Études et travaux d'économie d'eau > Sur les secteurs prioritaires des SDAGE pour la gestion quantitative 70% [...] > Hors secteurs prioritaires des SDAGE pour la gestion quantitative 50%"
+      },
+      {
+        "champ": "taux",
+        "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/eco2-sobriete-agriculture.pdf",
+        "date": "2026-10-15",
+        "extrait": "Diagnostic territorial 70 % [...] Actions de communication et sensibilisation associées aux projets de changement de pratiques et de réduction des besoins en eau 70 % [...] Les modalités d'aide sont appliquées dans la limite du respect de l'encadrement européen des aides d'Etat et le cas échant du respect des modalités du dispositif régional de la PAC."
+      },
+      {
+        "champ": "description, mesures (ACT_AGR_006), categories",
+        "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/eco2-sobriete-agriculture.pdf",
+        "date": "2026-10-15",
+        "extrait": "ACTIONS ET DÉPENSES ÉLIGIBLES • Études préalables aux travaux. • Travaux de modernisation et d'optimisation de réseau d'irrigation : réparation de fuites, mise sous pression/régulateurs, travaux d'étanchéification, régulation des flux, dispositifs hydroéconomes. • Dispositifs de récupération d'eau de pluie issue de bâtiments agricoles. • Mise en place d'outils de pilotage, télégestion ou sectorisation des réseaux."
+      },
+      {
+        "champ": "description",
+        "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/eco2-sobriete-agriculture.pdf",
+        "date": "2026-10-15",
+        "extrait": "2. ACCOMPAGNEMENT DU CHANGEMENT DE PRATIQUES AGRICOLES [...] ACTIONS ET DÉPENSES ÉLIGIBLES • Etudes de diagnostic territorial. • Animation dont conseil agronomique visant la réduction de la consommation en eau. • Actions de communication et sensibilisation."
+      },
+      {
+        "champ": "eligibilite, infos_complementaires",
+        "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/eco2-sobriete-agriculture.pdf",
+        "date": "2026-10-15",
+        "extrait": "BÉNÉFICIAIRES ÉLIGIBLES • Agriculteurs et groupements d’agriculteurs (associations syndicales…) ; • Acteurs économiques non agricoles gestionnaires de réseaux d’alimentation d’eau brute (sociétés, entreprises…) ; • Etablissements publics gestionnaires de réseaux d’alimentation d’eau brute [...] TERRITOIRES ÉLIGIBLES Tous les territoires des bassins Rhône Méditerranée et de Corse. [...] CONDITIONS D’AIDES • Les opérations d’économies d’eau doivent se traduire par une diminution effective des prélèvements dans le milieu, au point de prélèvement. • Tous les projets doivent concerner un usage existant et pour lequel le prélèvement est autorisé."
+      },
+      {
+        "champ": "eligibilite",
+        "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/eco2-sobriete-agriculture.pdf",
+        "date": "2026-10-15",
+        "extrait": "2. ACCOMPAGNEMENT DU CHANGEMENT DE PRATIQUES AGRICOLES [...] BÉNÉFICIAIRES ÉLIGIBLES • Agriculteurs et groupements d'agriculteurs (associations syndicales…) ; • Acteurs économiques non agricoles (sociétés, entreprises, coopératives…) ; • Etablissements publics (organismes consulaires, organisme de recherche, offices de la collectivité de Corse…). • Collectivités territoriales et leurs groupements ; • Associations."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/eco2-sobriete-agriculture.pdf",
+        "date": "2026-10-15",
+        "extrait": "ACTIONS ET DÉPENSES NON ÉLIGIBLES • Travaux visant une utilisation plus importante de la ressource en eau. • Compteurs à la parcelle. [...] Pour déterminer le taux associé au projet, le territoire considéré est celui de la ressource prélevée, au point de prélèvement. [...] Rhône-Méditerranée : bassins versants et masses d'eau souterraine identifiés par le SDAGE comme étant en déséquilibre quantitatif ou en équilibre précaire"
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/eco2-sobriete-agriculture.pdf",
+        "date": "2026-10-15",
+        "extrait": "Les secteurs prioritaires du SDAGE pour la gestion quantitative sont : > Rhône-Méditerranée : bassins versants et masses d’eau souterraine identifiés par le SDAGE comme étant en déséquilibre quantitatif ou en équilibre précaire ; > Corse : secteur identifié dans le SDAGE comme nécessitant l’élaboration d’un PTGE et nappe soumise à un prélèvement important d’après l’état des lieux du SDAGE."
+      },
+      {
+        "champ": "eligibilite",
+        "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/eco2-sobriete-agriculture.pdf",
+        "date": "2026-10-15",
+        "extrait": "ACTIONS ET DÉPENSES ÉLIGIBLES • Etudes de diagnostic territorial. • Animation dont conseil agronomique visant la réduction de la consommation en eau. • Actions de communication et sensibilisation. CONDITIONS D’AIDES • Sans objet."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/eco2-sobriete-agriculture.pdf",
+        "date": "2026-10-15",
+        "extrait": "Changement de pratiques agricoles pour une réduction des besoins en eau cf fiches AGRI1, AGRI2, AGRI3, AGRI4, AGRI5"
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-02/conditions-generales.pdf",
+        "date": "2026-10-15",
+        "extrait": "Une demande d’aide doit être formellement transmise à l’agence avant l’engagement du projet considéré. Le non-respect de cette disposition entraîne le rejet de la demande d’aide, sauf dans les cas suivants : > accord écrit préalable de l’agence pour engager les travaux avant le dépôt formel de la demande ; [...] > actions préalables, nécessaires à la préparation du dossier de demande d’aide, ou à la définition des travaux pour les aides relatives à des travaux ;"
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-02/conditions-generales.pdf",
+        "date": "2026-10-15",
+        "extrait": "Le coût prévisionnel du projet présenté dans la demande d'aide doit être supérieur à 10 000 €. [...] les dépenses pour des travaux ayant déjà bénéficiés d'une aide au cours des dix dernières années ne sont pas éligibles."
+      },
+      {
+        "champ": "nom, taux, description",
+        "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/recueil-fiches.pdf",
+        "date": "2026-10-15",
+        "extrait": "- Version 1 adoptée par le conseil d'administration du 19 décembre 2024 - Délibération 2024-37 Bassin Rhône-Méditerranée Bassin de Corse ECO2 - SOBRIETE EN EAU DE L'AGRICULTURE"
+      },
+      {
+        "champ": "logo_url",
+        "url": "https://www.eaurmc.fr/upload/docs/image/png/2023-10/logo_ae_aout2020_web.png",
+        "date": "2026-10-15",
+        "extrait": "Logo en couleur de l'agence de l'eau Rhône Méditerranée Corse (154 x 209 px), affiché sur la page d'accueil de eaurmc.fr"
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "AIDE_HRB_010",
+    "nom": "Optimiser l'usage de l'eau en élevage (Région Auvergne-Rhône-Alpes)",
+    "financeur": "Région Auvergne-Rhône-Alpes",
+    "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792098142/Noe%20assets/logos/AIDE_HRB_010.png",
+    "type": "subvention",
+    "taux": "40 % du coût HT de l'investissement éligible, compris entre 1 500 € et 10 000 € HT",
+    "plafond": "4 000 € par élevage et par dossier, quelle que soit la forme juridique",
+    "description": "La Région subventionne les équipements et aménagements qui alimentent en eau les élevages hors du réseau d'eau potable. Sont financés le prélèvement (forage, captage de source superficielle, récupération des eaux pluviales et des eaux de toiture), le stockage en cuve ou citerne souple (dimensionnement préconisé : deux mois d'autonomie sur la consommation journalière moyenne), l'abreuvement au pâturage (pompe électrique, solaire, éolienne ou à museau, canalisations, terrassement, abreuvoirs et stabilisation de leurs abords), l'alimentation en eau des bâtiments d'élevage hors réseau pour l'abreuvement et le nettoyage, la filtration et le traitement de l'eau d'abreuvement, et les compteurs d'eau. Le but est de moins puiser dans le réseau potable, de supprimer les trajets pour apporter l'eau au pâturage et de mieux distribuer l'eau à la pâture.",
+    "eligibilite": "Exploitations agricoles d'élevage d'herbivores, dont veaux de boucherie, avec un cheptel minimum de 20 UGB. L'exploitation ne doit pas avoir reçu d'aide régionale pour l'abreuvement (plans de filière bovin lait ou bovin allaitant, Pacte Cantal), ou cette aide doit dater de plus de 3 ans.",
+    "categories": [
+      "ameliorer_efficacite_hydrique",
+      "valoriser_reut_eaux_non_conventionnelles",
+      "suivre_comprendre_maitriser"
+    ],
+    "secteurs": [
+      "elevage_herbivores"
+    ],
+    "departements": [
+      "01",
+      "03",
+      "07",
+      "15",
+      "26",
+      "38",
+      "42",
+      "43",
+      "63",
+      "69",
+      "73",
+      "74"
+    ],
+    "agences": [],
+    "mesures": [
+      "ACT_HRB_003",
+      "ACT_AGR_006",
+      "ACT_AGR_001"
+    ],
+    "infos_complementaires": [
+      {
+        "type": "avertissement",
+        "texte": "Seuil à confirmer pour les ovins et caprins : la page de la Région et la fiche les-aides.fr du réseau des CCI admettent les élevages de petits ruminants à partir de 50 brebis ou 50 chèvres, alors que la chambre d'agriculture de l'Ardèche n'indique qu'un cheptel minimum de 20 UGB. Faites confirmer le seuil auprès de la Région avant de monter votre projet."
+      },
+      {
+        "type": "avertissement",
+        "texte": "Un projet dont la dépense subventionnable dépasse 10 000 € n'est pas éligible à ce dispositif : il est orienté vers la mesure FEADER 201 du Programme stratégique national 2023-27, « investir dans mon exploitation d'élevage »."
+      },
+      {
+        "type": "info",
+        "texte": "Ne sont pas financés : le stockage et les réserves à ciel ouvert, le drainage au-delà de 100 m par abreuvoir, la voirie, les installations d'irrigation, la tonne à eau, le dessouchage et les fossés ouverts, ni les équipements à l'intérieur du bâtiment d'élevage (abreuvoirs individuels ou collectifs, réseaux de distribution de l'eau). Si vous réalisez les travaux vous-même, seuls les matériaux sont pris en compte."
+      },
+      {
+        "type": "info",
+        "texte": "La demande se dépose, directement ou par un intermédiaire, sur le portail des aides de la Région. Pour toute information : abreuvement@auvergnerhonealpes.fr.",
+        "lien": "https://aides.auvergnerhonealpes.fr/aides/#/crauraprod/connecte/F_AGRI_ABREUV/depot/simple",
+        "lien_label": "Déposer une demande sur le portail des aides"
+      },
+      {
+        "type": "ressource",
+        "texte": "Page du dispositif sur le site de la Région",
+        "lien": "https://www.auvergnerhonealpes.fr/aides/optimiser-lusage-de-leau-en-elevage"
+      },
+      {
+        "type": "ressource",
+        "texte": "Synthèse du dispositif par la chambre d'agriculture de l'Ardèche",
+        "lien": "https://ardeche.chambres-agriculture.fr/dossiers/detail-du-dossier/optimiser-lusage-de-leau-en-elevage-1"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "financeur, type, taux, plafond",
+        "url": "https://ardeche.chambres-agriculture.fr/dossiers/detail-du-dossier/optimiser-lusage-de-leau-en-elevage-1",
+        "date": "2026-10-15",
+        "extrait": "Aide de la Région Auvergne-Rhône-Alpes pour acheter des équipements et réaliser des aménagements. [...] Taux de subvention : 40% du coût HT de l'investissement éligible. Investissement minimum = 1 500 € HT / Investissement maximum : 10 000 € [...] Plafond de subvention : 4 000 € par élevage et par dossier quelle que soit la forme juridique"
+      },
+      {
+        "champ": "eligibilite (20 UGB, aide régionale antérieure), infos_complementaires (seuil des petits ruminants)",
+        "url": "https://ardeche.chambres-agriculture.fr/dossiers/detail-du-dossier/optimiser-lusage-de-leau-en-elevage-1",
+        "date": "2026-10-15",
+        "extrait": "Conditions d'éligibilité : Avoir un cheptel minimum de 20 UGB. Une exploitation est éligible si elle n'a pas déjà bénéficié d'une aide régionale pour l'abreuvement (au titre des plans de filière bovin lait ou bovin allaitant ou du Pacte Cantal) ou que cette aide a été attribuée il y a plus de 3 ans."
+      },
+      {
+        "champ": "description, mesures (ACT_HRB_003, ACT_AGR_006, ACT_AGR_001)",
+        "url": "https://ardeche.chambres-agriculture.fr/dossiers/detail-du-dossier/optimiser-lusage-de-leau-en-elevage-1",
+        "date": "2026-10-15",
+        "extrait": "Objectifs : Diminuer l'utilisation de l'eau du réseau potable (pour l'abreuvement et les autres usages) [...] Projets éligibles : Prélèvement d'eau (forage, captage de source superficielle, récupération des eaux pluviales), Stockage d'eau (cuve, puits), Abreuvement au pâturage [...], Alimentation en eau hors réseau d'eau potable des bâtiments d'élevage (abreuvement et nettoyage), Installation de compteurs d'eau. Investissements éligibles : Forage, [...] Pompe électrique, solaire, éolienne, Pompe à museau [...], Récupération des eaux de toiture y compris chenaux, Cuve, citerne souple (remarque : le dimensionnement préconisé est de 2 mois d'autonomie par rapport à la consommation journalière moyenne), Abreuvoirs, Stabilisation des abords de l'abreuvoir, Filtration et traitement de l'eau pour l'abreuvement, Compteur"
+      },
+      {
+        "champ": "infos_complementaires (dépenses exclues, travaux par l'exploitant, projets de plus de 10 000 €)",
+        "url": "https://ardeche.chambres-agriculture.fr/dossiers/detail-du-dossier/optimiser-lusage-de-leau-en-elevage-1",
+        "date": "2026-10-15",
+        "extrait": "Si les travaux sont réalisés par l'exploitant, seuls les coûts de matériaux seront pris en compte. Investissements non-éligibles : Stockage et réserve de surface ouverte, Drainage au-delà de 100m, Travaux de voirie, Installations pour l'irrigation, Tonne à eau, Dessouchage, création ou curage de fossés ouverts, Investissements à l'intérieur du bâtiment d'élevage : abreuvoirs individuels ou collectifs, réseaux de distribution de l'eau à l'intérieur du bâtiment [...] (Les projets dont le montant de dépense subventionnable excède 10 000 € ne sont pas éligibles au présent dispositif, et seront orientés vers la mesure FEADER 201 du Programme stratégique national (PSN) 2023-27 « investir dans mon exploitation d'élevage »)"
+      },
+      {
+        "champ": "infos_complementaires (lien vers la page de la Région, dépôt sur le site de la Région)",
+        "url": "https://ardeche.chambres-agriculture.fr/dossiers/detail-du-dossier/optimiser-lusage-de-leau-en-elevage-1",
+        "date": "2026-10-15",
+        "extrait": "En savoir plus et déposer une demande : Cliquez ici pour déposer votre demande sur le site internet de la Région Auvergne-Rhône-Alpes (lien vers https://www.auvergnerhonealpes.fr/aides/optimiser-lusage-de-leau-en-elevage)"
+      },
+      {
+        "champ": "eligibilite (herbivores, dont veaux de boucherie), infos_complementaires (seuil des petits ruminants)",
+        "url": "https://les-aides.fr/aide/ZgJf3w/region-auvergne-rhone-alpes/optimiser-l-usage-de-l-eau-en-elevage.html",
+        "date": "2026-10-15",
+        "extrait": "Peuvent bénéficier de l'aide les exploitations agricoles d'élevage d'herbivores (dont veaux de boucherie) d'au moins 20 Unités de Gros Bétail (UGB). Pour les petits ruminants, l'exploitation devra détenir au moins 50 brebis ou 50 chèvres."
+      },
+      {
+        "champ": "infos_complementaires (démarche, mail, lien du portail)",
+        "url": "https://les-aides.fr/aide/ZgJf3w/region-auvergne-rhone-alpes/optimiser-l-usage-de-l-eau-en-elevage.html",
+        "date": "2026-10-15",
+        "extrait": "Les éleveurs déposent (directement ou via un intermédiaire) leur demande sur le téléservice du Portail des Aides de la Région (lien vers https://aides.auvergnerhonealpes.fr/aides/#/crauraprod/connecte/F_AGRI_ABREUV/depot/simple). Pour toute information : abreuvement@auvergnerhonealpes.fr."
+      },
+      {
+        "champ": "infos_complementaires (seuil des petits ruminants), eligibilite (herbivores)",
+        "url": "https://www.auvergnerhonealpes.fr/aides/optimiser-lusage-de-leau-en-elevage",
+        "date": "2026-10-15",
+        "extrait": "Cette aide s'adresse aux exploitations agricoles d'élevage d'herbivores sous réserve de respecter les conditions suivantes : Pour les bovins, l'exploitation devra détenir au moins 20 UGB, Pour les petits ruminants, l'exploitation devra détenir au moins 50 brebis ou 50 chèvres. (Page protégée contre les robots, lisible dans un navigateur.)"
+      },
+      {
+        "champ": "logo_url",
+        "url": "https://www.auvergnerhonealpes.fr/themes/custom/aura_region_theme/logo.svg",
+        "date": "2026-10-15",
+        "extrait": "Logo de l'en-tête du site de la Région (balise img alt « Région Auvergne-Rhône-Alpes - Accueil », 225 x 70, en longueur), recadré sur son symbole circulaire bleu (zone 0-48 x 15-63 du même SVG) pour tenir dans un carré. Le favicon du site ne fait que 16 px et il n'y a pas d'apple-touch-icon."
+      }
+    ],
+    "date_maj": "2026-10-15"
+  }
+]

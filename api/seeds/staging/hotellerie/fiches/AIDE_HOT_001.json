@@ -1,0 +1,104 @@
+{
+  "id": "AIDE_HOT_001",
+  "nom": "Soutien à l'hébergement touristique (Région Sud)",
+  "financeur": "Région Provence-Alpes-Côte d'Azur (Région Sud)",
+  "logo_url": null,
+  "type": "subvention",
+  "taux": "50 % des dépenses éligibles",
+  "plafond": "100 000 € de subvention, pour un minimum de 15 000 € de dépenses éligibles",
+  "description": "Subvention d'investissement de la Région Sud aux hébergements touristiques qui engagent des travaux favorisant une meilleure performance environnementale. Sont éligibles les travaux spécifiques ayant trait à la gestion environnementale et à la réduction des consommations de fluides. Le même dispositif finance aussi l'accessibilité, le logement des saisonniers et, à d'autres conditions, la montée en gamme.",
+  "eligibilite": "Établissements recevant du public situés en Provence-Alpes-Côte d'Azur, dont l'hôtellerie traditionnelle indépendante, l'hôtellerie de plein air, les gîtes de groupe et les villages et centres de vacances. Sont exclus les chambres d'hôte, les meublés de tourisme, les gîtes ruraux et les particuliers.",
+  "categories": ["ameliorer_efficacite_hydrique", "valoriser_reut_eaux_non_conventionnelles"],
+  "secteurs": ["hotellerie"],
+  "departements": ["04", "05", "06", "13", "83", "84"],
+  "agences": [],
+  "mesures": ["ACT_HOT_001", "ACT_AGR_006"],
+  "infos_complementaires": [
+    {
+      "type": "avertissement",
+      "texte": "Le dossier doit être déposé sur la plateforme régionale avant le démarrage des travaux et aménagements liés au projet."
+    },
+    {
+      "type": "avertissement",
+      "texte": "Le montant minimum des dépenses éligibles est de 15 000 €. Par déduction (la Région ne le dit pas), un achat isolé de petits équipements hydro-économes risque de ne pas atteindre ce seuil : mieux vaut l'intégrer à un programme de travaux plus large."
+    },
+    {
+      "type": "info",
+      "texte": "Une prime Développement Durable de 5 000 € (subvention inférieure à 50 000 €) ou 10 000 € (subvention supérieure à 50 000 €) peut s'ajouter sur justification de l'obtention ou du renouvellement d'un label environnemental (Clef verte, Ecolabel européen, Green Globe, certifications AFNOR, normes ISO, etc.). Elle est versée au solde du dossier."
+    },
+    {
+      "type": "info",
+      "texte": "Les dossiers se déposent toute l'année et sont instruits par ordre d'arrivée. La Région recommande un échange préalable avec ses services pour vérifier l'éligibilité : 0 805 805 145 (appel gratuit, du lundi au vendredi) ou relationentrepriseusager@maregionsud.fr."
+    },
+    {
+      "type": "ressource",
+      "texte": "Page du dispositif sur le site de la Région Sud",
+      "lien": "https://www.maregionsud.fr/vos-aides/detail/soutien-a-lhebergement-touristique",
+      "lien_label": "Voir le dispositif"
+    },
+    {
+      "type": "ressource",
+      "texte": "Dépôt de la demande sur la plateforme d'aides en ligne de la Région Sud",
+      "lien": "https://aidesenligne.maregionsud.fr/aides/#/crsud/connecte/F_S_I_SOUTHEB/depot/simple",
+      "lien_label": "Faire ma demande"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "taux, plafond (taux retenu)",
+      "url": "https://www.maregionsud.fr/vos-aides/detail/soutien-a-lhebergement-touristique",
+      "date": "2026-09-24",
+      "extrait": "L'aide régionale prend la forme d'une subvention d'investissement plafonnée à 100 000 euros correspondant à 50% du montant total des dépenses éligibles. Le montant minimum des dépenses éligibles est fixé à 15 000 euros"
+    },
+    {
+      "champ": "taux (divergence, non retenu)",
+      "url": "https://mission-transition-ecologique.beta.gouv.fr/aides-entreprise/soutien-hebergement-touristique",
+      "date": "2026-09-24",
+      "extrait": "Jusqu'à 60% des dépenses éligibles, dans un maximum de 100 000 € (la page de la Région, financeur, indique 50 % : c'est ce taux qui est retenu)"
+    },
+    {
+      "champ": "description",
+      "url": "https://www.maregionsud.fr/vos-aides/detail/soutien-a-lhebergement-touristique",
+      "date": "2026-09-24",
+      "extrait": "Sont éligibles, les travaux spécifiques ayant trait à : La gestion environnementale et la réduction des consommations de fluides ainsi que les équipements pour l'accueil des clientèles vélo touristiques"
+    },
+    {
+      "champ": "mesures",
+      "url": "https://mission-transition-ecologique.beta.gouv.fr/aides-entreprise/soutien-hebergement-touristique",
+      "date": "2026-09-24",
+      "extrait": "Quelques projets liés : [...] économiseur d'eau [...] eau de pluie (étiquettes de Mission Transition Écologique ; la page de la Région ne cite que « la réduction des consommations de fluides », sans nommer l'eau)"
+    },
+    {
+      "champ": "eligibilite",
+      "url": "https://www.maregionsud.fr/vos-aides/detail/soutien-a-lhebergement-touristique",
+      "date": "2026-09-24",
+      "extrait": "Sont éligibles les Etablissements Recevant du Public à savoir : L'hôtellerie traditionnelle indépendante, L'hôtellerie de plein air, Les gîtes de groupe [...] Sont exclues : Les chambres d'hôte, Les meublés de tourisme, Les gîtes ruraux, Les particuliers"
+    },
+    {
+      "champ": "departements",
+      "url": "https://mission-transition-ecologique.beta.gouv.fr/aides-entreprise/soutien-hebergement-touristique",
+      "date": "2026-09-24",
+      "extrait": "Secteur géographique : Provence-Alpes-Côte d'Azur"
+    },
+    {
+      "champ": "infos_complementaires",
+      "url": "https://www.maregionsud.fr/vos-aides/detail/soutien-a-lhebergement-touristique",
+      "date": "2026-09-24",
+      "extrait": "Les dossiers de demande doivent être transmis de manière dématérialisée sur la plateforme régionale avant le démarrage des travaux et aménagements liés au projet. [...] Les dossiers peuvent être déposés tout au long de l'année. Leur analyse sera faite chronologiquement, par ordre d'arrivée."
+    },
+    {
+      "champ": "infos_complementaires",
+      "url": "https://www.maregionsud.fr/vos-aides/detail/soutien-a-lhebergement-touristique",
+      "date": "2026-09-24",
+      "extrait": "Prime de 5 000 euros pour les projets bénéficiant d'un montant de subvention inférieur à 50 000 euros. Prime de 10 000 euros pour les projets bénéficiant d'un montant de subvention supérieur à 50 000 euros. Cette prime est versée au moment du solde du dossier"
+    },
+    {
+      "champ": "infos_complementaires",
+      "url": "https://www.maregionsud.fr/vos-aides/detail/soutien-a-lhebergement-touristique",
+      "date": "2026-09-24",
+      "extrait": "Permanence téléphonique du lundi au vendredi de 8h30 à 12h00 et de 13h30 à 17h00 au 0 805 805 145 (services et appels gratuits) ou par courriel à relationentrepriseusager@maregionsud.fr"
+    }
+  ],
+  "date_maj": "2026-09-24"
+}

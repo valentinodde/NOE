@@ -4,22 +4,22 @@
   /* Font */
   --font-sans: 'Inter', ui-sans-serif, system-ui, sans-serif;
 
-  /* Surface hierarchy — tonal layers, no borders needed */
+  /* Surface hierarchy: tonal layers, no borders needed */
   --color-surface: #f9f9ff;
   --color-surface-lowest: #ffffff;
   --color-surface-low: #f1f3fc;
   --color-surface-high: #e8eaf3;
   --color-surface-highest: #e0e2eb;
 
-  /* Primary — The Deep */
+  /* Primary: The Deep */
   --color-primary: #000a43;
   --color-primary-container: #051b71;
 
-  /* Secondary — The Beacon (alerts / high-risk only) */
+  /* Secondary: The Beacon (alerts / high-risk only) */
   --color-secondary: #964900;
   --color-secondary-light: #fe851f;
 
-  /* Tertiary — The Hydro-Scale (water data) */
+  /* Tertiary: The Hydro-Scale (water data) */
   --color-tertiary: #0097d6;
   --color-tertiary-dark: #001421;
 
@@ -35,4 +35,204 @@ body {
   color: #181c22;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+/* ─── Cartes de l'onglet Constat (MapLibre) ─── */
+
+.noe-marqueur {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  pointer-events: none;
+}
+
+.noe-repere {
+  position: relative;
+  display: block;
+  width: 28px;
+  height: 28px;
+  flex-shrink: 0;
+}
+
+.noe-repere-halo {
+  position: absolute;
+  inset: 0;
+  border-radius: 9999px;
+  background: rgba(0, 151, 214, 0.25);
+  animation: noe-pulsation 2.4s ease-out infinite;
+}
+
+.noe-repere-point {
+  position: absolute;
+  inset: 8px;
+  border-radius: 9999px;
+  background: #000a43;
+  box-shadow: 0 0 0 2px #ffffff, 0 2px 8px rgba(0, 10, 67, 0.35);
+}
+
+@keyframes noe-pulsation {
+  0%   { transform: scale(0.6); opacity: 1; }
+  100% { transform: scale(1.6); opacity: 0; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .noe-repere-halo { animation: none; }
+}
+
+.noe-etab {
+  position: relative;
+  width: 28px;
+  height: 28px;
+  pointer-events: none;
+}
+
+.noe-etab-trait {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 1px;
+  height: 1px;
+  overflow: visible;
+}
+
+.noe-etab-trait line {
+  stroke: #000a43;
+  stroke-width: 1.5;
+}
+
+.noe-etab-label {
+  position: absolute;
+}
+
+.noe-etab-label-gauche { transform: translate(-100%, -50%); }
+.noe-etab-label-droite { transform: translate(0, -50%); }
+
+.noe-marqueur-label {
+  background: #000a43;
+  color: #ffffff;
+  border-radius: 8px;
+  padding: 4px 10px;
+  font-family: 'Inter', ui-sans-serif, system-ui, sans-serif;
+  font-size: 0.75rem;
+  font-weight: 600;
+  white-space: nowrap;
+  box-shadow: 0 4px 16px rgba(0, 10, 67, 0.18);
+}
+
+/* Point numéroté et cliquable (débits des cours d'eau). La couleur suit la
+   baisse du débit d'étiage, via la variable --noe-point. */
+.noe-point {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 0;
+  border: 0;
+  background: none;
+  cursor: pointer;
+}
+
+.noe-point-num {
+  width: 26px;
+  height: 26px;
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 9999px;
+  background: var(--noe-point);
+  color: #ffffff;
+  font-family: 'Inter', ui-sans-serif, system-ui, sans-serif;
+  font-size: 0.75rem;
+  font-weight: 800;
+  box-shadow: 0 0 0 2px #ffffff, 0 2px 6px rgba(0, 10, 67, 0.3);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.noe-point-label {
+  background: #ffffff;
+  color: #181c22;
+  border: 1px solid #e0e2eb;
+  border-radius: 8px;
+  padding: 2px 8px;
+  font-family: 'Inter', ui-sans-serif, system-ui, sans-serif;
+  font-size: 0.6875rem;
+  font-weight: 700;
+  white-space: nowrap;
+  box-shadow: 0 2px 8px rgba(0, 10, 67, 0.08);
+}
+
+/* Étiquette à gauche du numéro, quand la droite est encombrée */
+.noe-point-gauche {
+  flex-direction: row-reverse;
+}
+
+/* Calque des superpositions (trait de liaison), sous les marqueurs */
+.noe-calque {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+}
+
+.noe-point:hover .noe-point-num,
+.noe-point:focus-visible .noe-point-num {
+  transform: scale(1.12);
+}
+
+.noe-point[data-actif] .noe-point-num {
+  transform: scale(1.2);
+  box-shadow: 0 0 0 3px #ffffff, 0 0 0 6px var(--noe-point), 0 4px 12px rgba(0, 10, 67, 0.3);
+}
+
+.noe-point[data-actif] .noe-point-label {
+  background: #000a43;
+  border-color: #000a43;
+  color: #ffffff;
+}
+
+.noe-point:focus-visible {
+  outline: none;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .noe-point-num { transition: none; }
+}
+
+.noe-station-point {
+  width: 14px;
+  height: 14px;
+  flex-shrink: 0;
+  border-radius: 9999px;
+  background: #0097d6;
+  box-shadow: 0 0 0 2px #ffffff, 0 1px 4px rgba(0, 10, 67, 0.25);
+}
+
+.noe-station-label {
+  background: #ffffff;
+  color: #181c22;
+  border: 1px solid #e0e2eb;
+  border-radius: 8px;
+  padding: 2px 8px;
+  font-family: 'Inter', ui-sans-serif, system-ui, sans-serif;
+  font-size: 0.6875rem;
+  font-weight: 600;
+  white-space: nowrap;
+  box-shadow: 0 2px 8px rgba(0, 10, 67, 0.08);
+}
+
+.maplibregl-ctrl-attrib {
+  font-size: 0.5625rem;
+}
+
+/* Apparition d'un panneau déplié (onglet Constat) */
+.noe-deplier {
+  animation: noe-deplier 180ms ease-out;
+}
+
+@keyframes noe-deplier {
+  from { opacity: 0; transform: translateY(-4px); }
+  to   { opacity: 1; transform: none; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .noe-deplier { animation: none; }
 }

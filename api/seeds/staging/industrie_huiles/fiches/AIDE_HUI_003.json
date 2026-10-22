@@ -1,0 +1,99 @@
+{
+  "id": "AIDE_HUI_003",
+  "nom": "Sud Prêt Climat (Région Sud et Bpifrance)",
+  "financeur": "Région Sud Provence-Alpes-Côte d'Azur, instruit par Bpifrance",
+  "logo_url": null,
+  "type": "pret",
+  "taux": "Prêt à taux préférentiel, qui ne peut être inférieur à 0,20 %",
+  "plafond": "De 10 000 à 300 000 €, avec un cofinancement obligatoire à raison de 1 pour 1",
+  "description": "Prêt régional à taux préférentiel, sans garantie personnelle ni sûreté réelle, sur 5 ans (dont 1 an de différé d'amortissement en capital) ou 7 ans (dont 2 ans de différé). Il finance les projets qui renforcent au moins une priorité du Plan Climat de la Région, parmi lesquelles les économies d'eau et la prévention et le contrôle des pollutions. La page cite comme éligibles les besoins en fonds de roulement liés à la transition, les investissements immatériels et les coûts de mise aux normes (environnement, sécurité).",
+  "eligibilite": "PME au sens européen (moins de 250 personnes, chiffre d'affaires inférieur à 50 M€ ou total bilan inférieur à 43 M€), de plus de 3 ans ou pouvant fournir deux bilans couvrant au moins 24 mois, exerçant l'essentiel de leur activité en Région Sud ou s'y installant, financièrement saines et éligibles au régime de minimis. Sont exclues notamment les entreprises individuelles, les autoentrepreneurs, les SCI et les secteurs agricole, forestier et de la pêche (NAF A01, A02, A03).",
+  "categories": [
+    "agir_rejets_qualite"
+  ],
+  "secteurs": [
+    "industrie_huiles"
+  ],
+  "departements": [
+    "04",
+    "05",
+    "06",
+    "13",
+    "83",
+    "84"
+  ],
+  "agences": [],
+  "mesures": [],
+  "infos_complementaires": [
+    {
+      "type": "avertissement",
+      "texte": "La page se contredit sur les équipements : l'introduction annonce le financement des « investissements matériels et immatériels nécessaires à leur transition énergétique et écologique », mais la liste des dépenses exclut « Les investissements immobiliers et mobiliers » et ne cite comme éligibles que le fonds de roulement, les investissements immatériels et les coûts de mise aux normes. Avant de compter sur ce prêt pour acheter un équipement, faites confirmer son éligibilité par la Région ou par Bpifrance."
+    },
+    {
+      "type": "avertissement",
+      "texte": "Le cofinancement est obligatoire et ne peut pas être une aide directe. Au-dessus de 50 000 €, il doit porter sur le même programme d'investissement, réalisé depuis moins de 6 mois, et le prêt ne peut dépasser vos fonds propres et quasi-fonds propres. Jusqu'à 50 000 €, un endettement bancaire d'au moins 3 ans et d'un encours au moins égal à 50 % du prêt est exigé."
+    },
+    {
+      "type": "info",
+      "texte": "La demande se fait en ligne sur la plateforme de Bpifrance, qui constitue et instruit le dossier ; les dossiers se déposent toute l'année et sont analysés par ordre d'arrivée. Jusqu'à 50 000 €, le plan d'actions est allégé mais l'Autodiag Climatomètre de Bpifrance est obligatoire. Un échange préalable avec les services de la Région est fortement recommandé (0 805 805 145, appel gratuit)."
+    },
+    {
+      "type": "ressource",
+      "texte": "Page du dispositif sur le site de la Région Sud",
+      "lien": "https://www.maregionsud.fr/vos-aides/detail/sud-pret-climat",
+      "lien_label": "Sud Prêt Climat"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "nom, financeur, description, date de mise à jour",
+      "url": "https://www.maregionsud.fr/vos-aides/detail/sud-pret-climat",
+      "date": "2026-09-27",
+      "extrait": "Mis à jour le 21 janvier 2026. Avec SUD Prêt Climat, et en partenariat avec Bpifrance, la Région Sud entend donc répondre au besoin des PME de financer à faible coût, les investissements matériels et immatériels nécessaires à leur transition énergétique et écologique"
+    },
+    {
+      "champ": "type, taux, plafond",
+      "url": "https://www.maregionsud.fr/vos-aides/detail/sud-pret-climat",
+      "date": "2026-09-27",
+      "extrait": "L'aide régionale prend la forme d'un prêt à taux préférentiel compris entre 10 000 et 300 000 euros octroyé à des conditions plus favorables que les conditions du marché et ne pouvant être inférieur à 0,20%. [...] un partenariat financier est obligatoire à raison de 1 pour 1"
+    },
+    {
+      "champ": "description (durée, garanties)",
+      "url": "https://www.maregionsud.fr/vos-aides/detail/sud-pret-climat",
+      "date": "2026-09-27",
+      "extrait": "5 ans dont un différé d’amortissement en capital de 1 an. 7 ans dont un différé d’amortissement en capital de 2 ans. [...] aucune garantie personnelle ou sûreté réelle n’est exigée."
+    },
+    {
+      "champ": "eligibilite",
+      "url": "https://www.maregionsud.fr/vos-aides/detail/sud-pret-climat",
+      "date": "2026-09-27",
+      "extrait": "De plus de 3 ans ou en capacité de fournir deux bilans couvrant une durée minimum de 24 mois. Quelle que soit leur forme juridique (à l'exclusion des entreprises individuelles et des SCI). [...] Le secteur agricole ayant un code NAF section A01 [...] ou A02 [...] Le secteur de la pêche et de l’aquaculture ayant un code NAF section A03"
+    },
+    {
+      "champ": "departements",
+      "url": "https://www.maregionsud.fr/vos-aides/detail/sud-pret-climat",
+      "date": "2026-09-27",
+      "extrait": "Exerçant l'essentiel de leur activité sur le territoire régional ou s'y installant."
+    },
+    {
+      "champ": "categories",
+      "url": "https://www.maregionsud.fr/vos-aides/detail/sud-pret-climat",
+      "date": "2026-09-27",
+      "extrait": "Les économies d’eau. [...] La prévention et le contrôle des pollutions. [...] Sont éligibles : [...] Les investissements immatériels, les coûts de mise aux normes (environnement, sécurité), de recrutement, de formation"
+    },
+    {
+      "champ": "infos_complementaires (contradiction sur les équipements)",
+      "url": "https://www.maregionsud.fr/vos-aides/detail/sud-pret-climat",
+      "date": "2026-09-27",
+      "extrait": "Sont exclus : [...] Les investissements immobiliers et mobiliers, les acquisitions de titres ou de fonds de commerce."
+    },
+    {
+      "champ": "infos_complementaires (cofinancement, démarche)",
+      "url": "https://www.maregionsud.fr/vos-aides/detail/sud-pret-climat",
+      "date": "2026-09-27",
+      "extrait": "Le cofinancement est obligatoire et doit porter sur le même programme d'investissement réalisé depuis moins de 6 mois [...] Les dossiers peuvent être déposés tout au long de l’année. Leur analyse sera faite chronologiquement, par ordre d’arrivée. Un échange préalable auprès des services de la Région Sud est fortement recommandé"
+    }
+  ],
+  "date_maj": "2026-09-27"
+}

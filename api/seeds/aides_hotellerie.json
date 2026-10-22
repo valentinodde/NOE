@@ -1,0 +1,1030 @@
+[
+  {
+    "id": "AIDE_HOT_001",
+    "nom": "Soutien à l'hébergement touristique (Région Sud)",
+    "financeur": "Région Provence-Alpes-Côte d'Azur (Région Sud)",
+    "logo_url": null,
+    "type": "subvention",
+    "taux": "50 % des dépenses éligibles",
+    "plafond": "100 000 € de subvention, pour un minimum de 15 000 € de dépenses éligibles",
+    "description": "Subvention d'investissement de la Région Sud aux hébergements touristiques qui engagent des travaux favorisant une meilleure performance environnementale. Sont éligibles les travaux spécifiques ayant trait à la gestion environnementale et à la réduction des consommations de fluides. Le même dispositif finance aussi l'accessibilité, le logement des saisonniers et, à d'autres conditions, la montée en gamme.",
+    "eligibilite": "Établissements recevant du public situés en Provence-Alpes-Côte d'Azur, dont l'hôtellerie traditionnelle indépendante, l'hôtellerie de plein air, les gîtes de groupe et les villages et centres de vacances. Sont exclus les chambres d'hôte, les meublés de tourisme, les gîtes ruraux et les particuliers.",
+    "categories": [
+      "ameliorer_efficacite_hydrique",
+      "valoriser_reut_eaux_non_conventionnelles"
+    ],
+    "secteurs": [
+      "hotellerie"
+    ],
+    "departements": [
+      "04",
+      "05",
+      "06",
+      "13",
+      "83",
+      "84"
+    ],
+    "agences": [],
+    "mesures": [
+      "ACT_HOT_001",
+      "ACT_AGR_006"
+    ],
+    "infos_complementaires": [
+      {
+        "type": "avertissement",
+        "texte": "Le dossier doit être déposé sur la plateforme régionale avant le démarrage des travaux et aménagements liés au projet."
+      },
+      {
+        "type": "avertissement",
+        "texte": "Le montant minimum des dépenses éligibles est de 15 000 €. Par déduction (la Région ne le dit pas), un achat isolé de petits équipements hydro-économes risque de ne pas atteindre ce seuil : mieux vaut l'intégrer à un programme de travaux plus large."
+      },
+      {
+        "type": "info",
+        "texte": "Une prime Développement Durable de 5 000 € (subvention inférieure à 50 000 €) ou 10 000 € (subvention supérieure à 50 000 €) peut s'ajouter sur justification de l'obtention ou du renouvellement d'un label environnemental (Clef verte, Ecolabel européen, Green Globe, certifications AFNOR, normes ISO, etc.). Elle est versée au solde du dossier."
+      },
+      {
+        "type": "info",
+        "texte": "Les dossiers se déposent toute l'année et sont instruits par ordre d'arrivée. La Région recommande un échange préalable avec ses services pour vérifier l'éligibilité : 0 805 805 145 (appel gratuit, du lundi au vendredi) ou relationentrepriseusager@maregionsud.fr."
+      },
+      {
+        "type": "ressource",
+        "texte": "Page du dispositif sur le site de la Région Sud",
+        "lien": "https://www.maregionsud.fr/vos-aides/detail/soutien-a-lhebergement-touristique",
+        "lien_label": "Voir le dispositif"
+      },
+      {
+        "type": "ressource",
+        "texte": "Dépôt de la demande sur la plateforme d'aides en ligne de la Région Sud",
+        "lien": "https://aidesenligne.maregionsud.fr/aides/#/crsud/connecte/F_S_I_SOUTHEB/depot/simple",
+        "lien_label": "Faire ma demande"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "taux, plafond (taux retenu)",
+        "url": "https://www.maregionsud.fr/vos-aides/detail/soutien-a-lhebergement-touristique",
+        "date": "2026-09-24",
+        "extrait": "L'aide régionale prend la forme d'une subvention d'investissement plafonnée à 100 000 euros correspondant à 50% du montant total des dépenses éligibles. Le montant minimum des dépenses éligibles est fixé à 15 000 euros"
+      },
+      {
+        "champ": "taux (divergence, non retenu)",
+        "url": "https://mission-transition-ecologique.beta.gouv.fr/aides-entreprise/soutien-hebergement-touristique",
+        "date": "2026-09-24",
+        "extrait": "Jusqu'à 60% des dépenses éligibles, dans un maximum de 100 000 € (la page de la Région, financeur, indique 50 % : c'est ce taux qui est retenu)"
+      },
+      {
+        "champ": "description",
+        "url": "https://www.maregionsud.fr/vos-aides/detail/soutien-a-lhebergement-touristique",
+        "date": "2026-09-24",
+        "extrait": "Sont éligibles, les travaux spécifiques ayant trait à : La gestion environnementale et la réduction des consommations de fluides ainsi que les équipements pour l'accueil des clientèles vélo touristiques"
+      },
+      {
+        "champ": "mesures",
+        "url": "https://mission-transition-ecologique.beta.gouv.fr/aides-entreprise/soutien-hebergement-touristique",
+        "date": "2026-09-24",
+        "extrait": "Quelques projets liés : [...] économiseur d'eau [...] eau de pluie (étiquettes de Mission Transition Écologique ; la page de la Région ne cite que « la réduction des consommations de fluides », sans nommer l'eau)"
+      },
+      {
+        "champ": "eligibilite",
+        "url": "https://www.maregionsud.fr/vos-aides/detail/soutien-a-lhebergement-touristique",
+        "date": "2026-09-24",
+        "extrait": "Sont éligibles les Etablissements Recevant du Public à savoir : L'hôtellerie traditionnelle indépendante, L'hôtellerie de plein air, Les gîtes de groupe [...] Sont exclues : Les chambres d'hôte, Les meublés de tourisme, Les gîtes ruraux, Les particuliers"
+      },
+      {
+        "champ": "departements",
+        "url": "https://mission-transition-ecologique.beta.gouv.fr/aides-entreprise/soutien-hebergement-touristique",
+        "date": "2026-09-24",
+        "extrait": "Secteur géographique : Provence-Alpes-Côte d'Azur"
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.maregionsud.fr/vos-aides/detail/soutien-a-lhebergement-touristique",
+        "date": "2026-09-24",
+        "extrait": "Les dossiers de demande doivent être transmis de manière dématérialisée sur la plateforme régionale avant le démarrage des travaux et aménagements liés au projet. [...] Les dossiers peuvent être déposés tout au long de l'année. Leur analyse sera faite chronologiquement, par ordre d'arrivée."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.maregionsud.fr/vos-aides/detail/soutien-a-lhebergement-touristique",
+        "date": "2026-09-24",
+        "extrait": "Prime de 5 000 euros pour les projets bénéficiant d'un montant de subvention inférieur à 50 000 euros. Prime de 10 000 euros pour les projets bénéficiant d'un montant de subvention supérieur à 50 000 euros. Cette prime est versée au moment du solde du dossier"
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.maregionsud.fr/vos-aides/detail/soutien-a-lhebergement-touristique",
+        "date": "2026-09-24",
+        "extrait": "Permanence téléphonique du lundi au vendredi de 8h30 à 12h00 et de 13h30 à 17h00 au 0 805 805 145 (services et appels gratuits) ou par courriel à relationentrepriseusager@maregionsud.fr"
+      }
+    ],
+    "date_maj": "2026-09-24"
+  },
+  {
+    "id": "AIDE_HOT_002",
+    "nom": "CAP Tourisme, aide aux projets d'hébergements touristiques (Région Centre-Val de Loire)",
+    "financeur": "Région Centre-Val de Loire",
+    "logo_url": null,
+    "type": "subvention",
+    "taux": "20 % du coût éligible pour les travaux relevant d'une démarche écoresponsable",
+    "plafond": "20 000 € pour les travaux relevant d'une démarche écoresponsable ; bonification forfaitaire de 7 000 € pour l'adhésion à un écolabel dans le cadre du projet",
+    "description": "Subvention régionale aux projets de création, rénovation, modernisation ou extension d'hébergements touristiques. Parmi ses postes, le volet « démarche écoresponsable » finance les travaux préconisés par une étude ou un diagnostic environnemental, sur des thèmes qui incluent l'économie d'eau, la biodiversité et l'adaptation au changement climatique. Le même dispositif aide aussi les travaux structurels et les travaux d'amélioration énergétique.",
+    "eligibilite": "TPE et PME exerçant en Centre-Val de Loire et immatriculées au Registre national des entreprises (RNE), hors régime fiscal de la micro-entreprise, pour un hôtel ou un hôtel-restaurant classé après les travaux. Sont exclus les hôtels appartenant à une chaîne intégrée ou à un groupe propriétaire-exploitant de plus de 5 établissements.",
+    "categories": [
+      "ameliorer_efficacite_hydrique"
+    ],
+    "secteurs": [
+      "hotellerie"
+    ],
+    "departements": [
+      "18",
+      "28",
+      "36",
+      "37",
+      "41",
+      "45"
+    ],
+    "agences": [],
+    "mesures": [
+      "ACT_HOT_001"
+    ],
+    "infos_complementaires": [
+      {
+        "type": "info",
+        "texte": "La Région ne cite pas d'équipement précis : le lien avec les équipements hydro-économes repose sur le thème « économie d'eau » du volet écoresponsable. Seuls sont éligibles les travaux que le diagnostic environnemental préconise."
+      },
+      {
+        "type": "avertissement",
+        "texte": "Le diagnostic environnemental préalable est obligatoire et n'est pas financé par le dispositif. Seuls les travaux mentionnés dans son compte-rendu sont éligibles, et vous devez adresser à la Région la liste des actions que vous vous engagez à réaliser dans un délai de 5 ans."
+      },
+      {
+        "type": "avertissement",
+        "texte": "Aucun devis ne doit être signé et aucun acompte versé avant le dépôt du dossier sur le portail AIDEN : tout engagement antérieur rend la demande inéligible. Les devis doivent dater de moins de 6 mois et ne pas être signés."
+      },
+      {
+        "type": "avertissement",
+        "texte": "Les équipements non fixes (petits équipements, mobilier, etc.) et les dépenses d'entretien courant sont exclus des dépenses éligibles."
+      },
+      {
+        "type": "info",
+        "texte": "La démarche commence par un contact avec la chargée ou le chargé de mission Économie de proximité/Tourisme de la Maison de Région de votre département, puis une fiche-contact, un entretien avec la Direction du Tourisme et enfin le dépôt sur le portail AIDEN. Délai de traitement moyen indiqué par la Région : 2 à 3 mois."
+      },
+      {
+        "type": "info",
+        "texte": "Un même bénéficiaire ne peut obtenir qu'une aide de ce dispositif en trois ans, et l'aide n'est pas cumulable avec une autre aide régionale sur les mêmes dépenses. Les hôtels de plus de 30 chambres sont examinés en priorité au titre du programme FEDER."
+      },
+      {
+        "type": "ressource",
+        "texte": "Page du dispositif dans le guide des aides de la Région, avec les coordonnées des référents par département",
+        "lien": "https://www.centre-valdeloire.fr/le-guide-des-aides-de-la-region-centre-val-de-loire/aide-aux-projets-dhebergements-touristiques"
+      },
+      {
+        "type": "ressource",
+        "texte": "Présentation synthétique du dispositif CAP Tourisme 2026 (PDF)",
+        "lien": "https://www.centre-valdeloire.fr/sites/default/files/media/document/2026-06/PRESENTATION%20SYNTHETIQUE%20DISPOSITIF%20CAP%20TOURISME_HEBERGEMENT%20TOURISTIQUE%202026_v2.pdf"
+      },
+      {
+        "type": "ressource",
+        "texte": "Fiche-contact de présentation du projet 2026 (Word)",
+        "lien": "https://www.centre-valdeloire.fr/sites/default/files/media/document/2026-06/FICHE-CONTACT%20PRESENTATION%20PROJET%20D%27HEBERGEMENT%20TOURISTIQUE%202026_v2.docx"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "taux, plafond",
+        "url": "https://www.centre-valdeloire.fr/le-guide-des-aides-de-la-region-centre-val-de-loire/aide-aux-projets-dhebergements-touristiques",
+        "date": "2026-09-24",
+        "extrait": "Travaux relatifs à une démarche écoresponsable (hors travaux d'amélioration thermique et énergétique des bâtiments), préconisés par une étude ou un diagnostic environnemental (non pris en charge par le CAP « Tourisme ») : subvention, plafonnée à 20 000 €, taux de 20 % du coût éligible. Bonification forfaitaire de 7 000 € accordée pour l'adhésion à un écolabel dans le cadre du projet d'hébergement touristique."
+      },
+      {
+        "champ": "description, mesures, infos_complementaires (lien par thème)",
+        "url": "https://www.centre-valdeloire.fr/le-guide-des-aides-de-la-region-centre-val-de-loire/aide-aux-projets-dhebergements-touristiques",
+        "date": "2026-09-24",
+        "extrait": "L'aide aux travaux écoresponsables préconisés par un diagnostic environnemental (non pris en charge par le CAP « Tourisme ») : restauration durable, déchets, biodiversité, économie d'eau, adaptation au changement climatique, etc."
+      },
+      {
+        "champ": "infos_complementaires (travaux du compte-rendu, engagement à 5 ans)",
+        "url": "https://www.centre-valdeloire.fr/sites/default/files/media/document/2026-06/PRESENTATION%20SYNTHETIQUE%20DISPOSITIF%20CAP%20TOURISME_HEBERGEMENT%20TOURISTIQUE%202026_v2.pdf",
+        "date": "2026-09-24",
+        "extrait": "L’étude ou le diagnostic devra comprendre la liste des actions potentielles préconisées, ainsi que la liste des actions que le chef d’entreprise s’engage à réaliser dans un délai de 5 ans et seront à adresser à la Région. ; Sont éligibles : Les travaux/investissements mentionnés dans le compte -rendu du diagnostic/étude environnementale. (texte extrait avec pypdf, pages 3 et 5)"
+      },
+      {
+        "champ": "eligibilite (TPE/PME, activité en région, RNE, hôtellerie classée)",
+        "url": "https://www.centre-valdeloire.fr/le-guide-des-aides-de-la-region-centre-val-de-loire/aide-aux-projets-dhebergements-touristiques",
+        "date": "2026-09-24",
+        "extrait": "TPE/PME* quel que soit son statut, à l'exception des entreprises relevant du régime fiscal de la micro-entreprise ; Le bénéficiaire de l'aide régionale doit exercer son activité en Région Centre-Val de Loire et, pour les entreprises et assimilées, être immatriculé au Registre National des Entreprises (RNE). ; Hôtellerie classée* ; * Classée/Labellisée : après travaux de création/rénovation/modernisation/extension/développement"
+      },
+      {
+        "champ": "eligibilite (exclusion des chaînes et groupes)",
+        "url": "https://www.centre-valdeloire.fr/sites/default/files/media/document/2026-06/PRESENTATION%20SYNTHETIQUE%20DISPOSITIF%20CAP%20TOURISME_HEBERGEMENT%20TOURISTIQUE%202026_v2.pdf",
+        "date": "2026-09-24",
+        "extrait": "Sont exclus du dispositif CAP « Tourisme » : ▪ Les établissements -Hôtellerie, Hôtellerie-Restaurant, Hôtellerie de plein air - appartenant à une chaîne intégrée ou à un groupe propriétaire-exploitant de plus de 5 établissements (texte extrait avec pypdf, page 2)"
+      },
+      {
+        "champ": "infos_complementaires (dépôt avant engagement, devis)",
+        "url": "https://www.centre-valdeloire.fr/le-guide-des-aides-de-la-region-centre-val-de-loire/aide-aux-projets-dhebergements-touristiques",
+        "date": "2026-09-24",
+        "extrait": "L'aide régionale doit être sollicitée avant tout démarrage du projet (signature de devis, versement d'acompte aux entreprises qui réalisent les travaux, démarrage des travaux, etc.) sous peine d'inéligibilité de la demande. ; Le dépôt doit impérativement précéder tout engagement financier et/ou démarrage des travaux (devis de moins de 6 mois, non signés, etc.)"
+      },
+      {
+        "champ": "infos_complementaires (exclusions de dépenses)",
+        "url": "https://www.centre-valdeloire.fr/sites/default/files/media/document/2026-06/PRESENTATION%20SYNTHETIQUE%20DISPOSITIF%20CAP%20TOURISME_HEBERGEMENT%20TOURISTIQUE%202026_v2.pdf",
+        "date": "2026-09-24",
+        "extrait": "Sont exclus des dépenses éligibles : ▪ Les dépenses à caractère obligatoire issues d’une contrainte législative ou réglementaire ainsi que les dépenses d’entretien courant, [...] ▪ Les équipements non fixes (petits équipements, mobilier, literie, penderie, télévision, décoration…), (texte extrait avec pypdf, page 5)"
+      },
+      {
+        "champ": "infos_complementaires (démarche, délai)",
+        "url": "https://www.centre-valdeloire.fr/le-guide-des-aides-de-la-region-centre-val-de-loire/aide-aux-projets-dhebergements-touristiques",
+        "date": "2026-09-24",
+        "extrait": "Étape 1 : Prise de contact avec la Maison de Région Centre-Val de Loire (MRCVL) ; Étape 2 : Entretien avec la Direction du Tourisme (Siège Régional) ; Étape 3 : Dépôt de la demande d'aide financière sur le Portail AIDEN ; Délai de traitement moyen : environ 2 à 3 mois"
+      },
+      {
+        "champ": "infos_complementaires (cumul, FEDER)",
+        "url": "https://www.centre-valdeloire.fr/le-guide-des-aides-de-la-region-centre-val-de-loire/aide-aux-projets-dhebergements-touristiques",
+        "date": "2026-09-24",
+        "extrait": "elle n'est pas cumulable avec une autre aide régionale sur les mêmes dépenses ; Les demandes de financement des projets d'hébergements comportant plus de 30 chambres (hôtellerie) [...] seront prioritairement examinées dans le cadre du programme FEDER"
+      },
+      {
+        "champ": "infos_complementaires (une aide en trois ans)",
+        "url": "https://www.centre-valdeloire.fr/sites/default/files/media/document/2026-06/PRESENTATION%20SYNTHETIQUE%20DISPOSITIF%20CAP%20TOURISME_HEBERGEMENT%20TOURISTIQUE%202026_v2.pdf",
+        "date": "2026-09-24",
+        "extrait": "Les aides régionales ne présentent aucun caractère d’automaticité. Un même bénéficiaire ne peut se voir octroyer qu’une seule aide dans le cadre de ce dispositif dans un délai de trois ans. (texte extrait avec pypdf, page 5)"
+      },
+      {
+        "champ": "departements",
+        "url": "https://www.centre-valdeloire.fr/le-guide-des-aides-de-la-region-centre-val-de-loire/aide-aux-projets-dhebergements-touristiques",
+        "date": "2026-09-24",
+        "extrait": "Le bénéficiaire de l'aide régionale doit exercer son activité en Région Centre-Val de Loire ; il existe une MRCVL par département"
+      }
+    ],
+    "date_maj": "2026-09-24"
+  },
+  {
+    "id": "AIDE_HOT_003",
+    "nom": "Pays de la Loire AGIR Tourisme (Région Pays de la Loire)",
+    "financeur": "Région Pays de la Loire",
+    "logo_url": null,
+    "type": "pret",
+    "taux": "Prêt à 2,4 % TEG sur 24 à 120 mois. Pour un projet de nature à réduire de manière substantielle les consommations en eau, prêt à 1,2 % TEG possible, et subvention possible liée à un prêt régional. Le niveau des taux peut faire l'objet d'une révision.",
+    "plafond": "Prêt à partir de 5 000 €, limité au montant des prêts bancaires obtenus. Hôtels de Nantes, Angers et Le Mans : prêt de 100 000 € au maximum. Plancher de dépenses éligibles : 30 000 € pour l'hôtellerie.",
+    "description": "Soutien régional « sur-mesure » aux projets touristiques de création, d'extension ou de modernisation engagés dans une démarche concrète de transition écologique, prioritairement sous forme de prêts. Un projet par essence « transition écologique », comme des équipements d'économies d'eau et d'énergie, bénéficie d'un soutien optimisé. Un projet de nature à réduire de manière substantielle les consommations en eau peut bénéficier d'un prêt à 1,2 % TEG et d'une subvention liée, après instruction : l'aide n'est jamais attribuée automatiquement.",
+    "eligibilite": "Hôtels et résidences hôtelières des Pays de la Loire classés 2 étoiles minimum (normes 2022, au plus tard 12 mois après la fin des travaux), de 6 chambres au minimum, portés par une TPE, une PME ou une ETI inscrite au RCS, propriétaire du fonds de commerce de l'établissement et organisée sous forme sociétaire « dans un délai minimal de 2 ans » (forme associative possible à défaut). L'hôtellerie « économique » 0 ou 1 étoile n'est pas éligible.",
+    "categories": [
+      "ameliorer_efficacite_hydrique"
+    ],
+    "secteurs": [
+      "hotellerie"
+    ],
+    "departements": [
+      "44",
+      "49",
+      "53",
+      "72",
+      "85"
+    ],
+    "agences": [],
+    "mesures": [
+      "ACT_HOT_001"
+    ],
+    "infos_complementaires": [
+      {
+        "type": "avertissement",
+        "texte": "Le dossier complet doit être déposé sur le portail des aides avant l'engagement des dépenses, et le règlement précise que les investissements ne peuvent être engagés avant l'accord de la Région."
+      },
+      {
+        "type": "info",
+        "texte": "Le plancher de dépenses éligibles est de 30 000 € pour l'hôtellerie : des équipements hydro-économes (mousseurs, douchettes, chasses) se financent en pratique au sein d'un projet de rénovation ou de modernisation plus large atteignant ce montant."
+      },
+      {
+        "type": "info",
+        "texte": "Une étude de faisabilité économique est demandée pour tous les projets, et un diagnostic environnemental est obligatoire au-delà de 500 000 € d'investissement. Une étude confiée à un cabinet extérieur peut être subventionnée à 30 % (15 000 € au maximum) par le dispositif « Pays de la Loire Conseil »."
+      },
+      {
+        "type": "info",
+        "texte": "Le soutien n'est pas cumulable avec un autre dispositif régional sur la même assiette d'investissements. Les soutiens sont priorisés pour les hôtels situés en secteur rural ou littoral."
+      },
+      {
+        "type": "ressource",
+        "texte": "Page du dispositif sur le site de la Région",
+        "lien": "https://www.paysdelaloire.fr/les-aides/pays-de-la-loire-agir-tourisme"
+      },
+      {
+        "type": "ressource",
+        "texte": "Règlement d'intervention AGIR Tourisme 2025",
+        "lien": "https://www.paysdelaloire.fr/sites/default/files/aides/2ae4eace-0470-11ee-baf5-23743e123976/subvention%2Cpret_ri-2025-agir-tourisme_2ae4eace_ri.pdf"
+      },
+      {
+        "type": "ressource",
+        "texte": "Déposer une demande sur le portail des aides de la Région",
+        "lien": "https://les-aides.paysdelaloire.fr/aides/#/prod/connecte/F_AGIR_TOURISME/depot/simple"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "taux, type",
+        "url": "https://www.paysdelaloire.fr/les-aides/pays-de-la-loire-agir-tourisme",
+        "date": "2026-09-24",
+        "extrait": "Bénéficiaires privés : soutien prioritaire par prêts à 2,4% TEG, durées de 24 à 120 mois [...] Soutiens possibles pour les projets [...] proposant un projet de nature à réduire de manière substantielle les consommations en eau [...] Prêt à 1,2% TEG [...] Subvention : liée à un prêt régional"
+      },
+      {
+        "champ": "taux, description",
+        "url": "https://www.paysdelaloire.fr/sites/default/files/aides/2ae4eace-0470-11ee-baf5-23743e123976/subvention%2Cpret_ri-2025-agir-tourisme_2ae4eace_ri.pdf",
+        "date": "2026-09-24",
+        "extrait": "NB : le niveau des taux peut faire l'objet d'une révision. [...] La conformité du projet aux critères d'éligibilité et de sélection n'entraîne pas l'attribution automatique de l'aide sollicitée."
+      },
+      {
+        "champ": "plafond",
+        "url": "https://www.paysdelaloire.fr/sites/default/files/aides/2ae4eace-0470-11ee-baf5-23743e123976/subvention%2Cpret_ri-2025-agir-tourisme_2ae4eace_ri.pdf",
+        "date": "2026-09-24",
+        "extrait": "Montants des prêts régionaux : variables selon les besoins (à partir de 5 000 € [...]) ; Les montants des soutiens régionaux ne peuvent dépasser les montants de prêts bancaires obtenus ; Le soutien des projets hôteliers des grandes métropoles régionales (Nantes, Angers et Le Mans), sera limité à des prêts d'un montant maximum de 100 000 €"
+      },
+      {
+        "champ": "plafond, infos_complementaires",
+        "url": "https://www.paysdelaloire.fr/les-aides/pays-de-la-loire-agir-tourisme",
+        "date": "2026-09-24",
+        "extrait": "Planchers des dépenses éligibles : Hôtellerie, HPA, Gastronomie d'excellence, Centres de vacances, Tourisme équestre, Agritourisme et œnotourisme. 30 000 €"
+      },
+      {
+        "champ": "description, mesures, categories, infos_complementaires",
+        "url": "https://www.paysdelaloire.fr/sites/default/files/aides/2ae4eace-0470-11ee-baf5-23743e123976/subvention%2Cpret_ri-2025-agir-tourisme_2ae4eace_ri.pdf",
+        "date": "2026-09-24",
+        "extrait": "Projet par essence « transition écologique » (ex : isolation thermique, équipements d'économies d'eau et d'énergie…) : soutien optimisé"
+      },
+      {
+        "champ": "description",
+        "url": "https://www.paysdelaloire.fr/les-aides/pays-de-la-loire-agir-tourisme",
+        "date": "2026-09-24",
+        "extrait": "Sont visé des projets de création, d'extension, de modernisation ou de toute autre innovation, portés par les acteurs du tourisme et présentant un engagement dans une démarche concrète de transition écologique."
+      },
+      {
+        "champ": "eligibilite",
+        "url": "https://www.paysdelaloire.fr/sites/default/files/aides/2ae4eace-0470-11ee-baf5-23743e123976/subvention%2Cpret_ri-2025-agir-tourisme_2ae4eace_ri.pdf",
+        "date": "2026-09-24",
+        "extrait": "hôtels et résidences hôtelières classés (niveau de classement 2 étoiles minimum, normes 2022, sous 12 mois maximum après la fin des travaux) de 6 chambres au minimum [...] Ne sont pas éligibles les projets relatifs à l'hôtellerie « économique » 0/1 étoile. [...] TPE, PME au sens de la définition européenne [...] ou ETI"
+      },
+      {
+        "champ": "eligibilite",
+        "url": "https://www.paysdelaloire.fr/sites/default/files/aides/2ae4eace-0470-11ee-baf5-23743e123976/subvention%2Cpret_ri-2025-agir-tourisme_2ae4eace_ri.pdf",
+        "date": "2026-09-24",
+        "extrait": "inscrite au Registre du Commerce et des Sociétés, propriétaire du fonds de commerce de l'établissement concerné par le projet, organisée sous une forme sociétaire dans un délai minimal de 2 ans. [...] possibilité d'organisation sous forme associative (si l'entreprise n'est pas constituée sous forme sociétaire)"
+      },
+      {
+        "champ": "departements",
+        "url": "https://www.paysdelaloire.fr/sites/default/files/aides/2ae4eace-0470-11ee-baf5-23743e123976/subvention%2Cpret_flyer2025_2ae4eace_annexe-2.pdf",
+        "date": "2026-09-24",
+        "extrait": "CONTACT tourisme@paysdelaloire.fr pour le 44-53-72 : 02 28 20 51 41 pour le 49-85 : 02 28 20 59 51"
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.paysdelaloire.fr/les-aides/pays-de-la-loire-agir-tourisme",
+        "date": "2026-09-24",
+        "extrait": "Le dossier complet de demande d'aide doit être déposé sur ce portail des aides avant l'engagement des dépenses. [...] Subvention « Pays de la Loire - Conseil » si expertise extérieure (30% / 15 k€ max)"
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.paysdelaloire.fr/sites/default/files/aides/2ae4eace-0470-11ee-baf5-23743e123976/subvention%2Cpret_ri-2025-agir-tourisme_2ae4eace_ri.pdf",
+        "date": "2026-09-24",
+        "extrait": "Les investissements liés aux projets présentés ne peuvent être engagés avant accord de la Région [...] Cette étude est obligatoire pour les projets supérieurs à 500 000 € [...] Une exclusion de cumul de soutien par ce dispositif et un autre dispositif régional sur la même assiette d'investissements [...] Les soutiens régionaux seront priorisés pour les projets en secteur rural ou littoral"
+      }
+    ],
+    "date_maj": "2026-09-24"
+  },
+  {
+    "id": "AIDE_HOT_004",
+    "nom": "Pass Transformation Écologique (Région Occitanie)",
+    "financeur": "Région Occitanie / Pyrénées-Méditerranée",
+    "logo_url": null,
+    "type": "subvention",
+    "taux": "35 % des dépenses éligibles",
+    "plafond": "Subvention plafonnée à 8 000 €, pour une assiette éligible d'au moins 5 000 € ; chaque dépense doit atteindre 1 000 € HT",
+    "description": "Subvention d'investissement de la Région Occitanie pour les petites entreprises qui engagent des travaux d'amélioration écologique : gestion de l'eau et des déchets, sobriété énergétique, chaleur et froid renouvelables, digitalisation. Côté eau, la liste des dépenses éligibles cite les systèmes de récupération des eaux de pluie et les systèmes de réutilisation des eaux usées. Les entreprises du tourisme ont en plus accès aux dépenses de végétalisation et de désimperméabilisation des sols. Seul le matériel neuf ou d'occasion garanti au moins 6 mois et immobilisable est retenu, dans un programme d'investissement de 12 mois au plus.",
+    "eligibilite": "Entreprises touristiques inscrites au RCS (hors auto-entrepreneurs) d'au moins un salarié et de moins de 50 salariés, ayant un premier bilan sur 12 mois, avec siège ou établissement en Occitanie, hors territoires des Métropoles et hors zones d'activités ou commerciales. Les hôtels doivent être classés au moins 2 étoiles : sont exclus les hôtels non classés ou classés 1 étoile, et les hôtels appartenant à des chaînes intégrées ou franchisés.",
+    "categories": [
+      "valoriser_reut_eaux_non_conventionnelles"
+    ],
+    "secteurs": [
+      "hotellerie"
+    ],
+    "departements": [
+      "09",
+      "11",
+      "12",
+      "30",
+      "31",
+      "32",
+      "34",
+      "46",
+      "48",
+      "65",
+      "66",
+      "81",
+      "82"
+    ],
+    "agences": [],
+    "mesures": [
+      "ACT_AGR_006"
+    ],
+    "infos_complementaires": [
+      {
+        "type": "avertissement",
+        "texte": "La demande doit être déposée sur la plateforme « Mes aides en ligne » avant tout commencement d'exécution de l'opération. L'aide n'est pas automatique : chaque demande passe une expertise technique et dépend des crédits disponibles."
+      },
+      {
+        "type": "avertissement",
+        "texte": "Chaque dépense doit atteindre 1 000 € HT et être immobilisable : les petits équipements achetés à l'unité ne sont pas retenus, pas plus que le crédit-bail. Un seul Pass Transformation Écologique est accordé tous les 3 ans, et il n'est pas cumulable avec le dispositif économie de proximité."
+      },
+      {
+        "type": "info",
+        "texte": "Le dossier est préparé avec un conseiller de l'agence régionale Ad'Occ, qui remet une fiche de qualification à joindre. Pour les dépenses liées à l'eau, vous devez fournir un document justifiant les économies d'eau attendues chaque année en m3. Pièces propres à l'hébergement : attestation de classement à 2 étoiles au minimum, et résultat de l'autodiagnostic Impact score."
+      },
+      {
+        "type": "info",
+        "texte": "Pour les seules entreprises du tourisme, la fiche du dispositif cite aussi les dépenses de végétalisation et de désimperméabilisation des sols ; elle ne cite ni l'arrosage au goutte-à-goutte ni le choix des essences."
+      },
+      {
+        "type": "info",
+        "texte": "La fiche du dispositif mise à jour en juin 2026 fixe le taux à 35 % et le plafond à 8 000 € pour une assiette minimale de 5 000 €. Des pages plus anciennes reprennent la version précédente de la fiche (taux de 50 %, plafond de 10 000 €, assiette minimale de 10 000 €) : fiez-vous à la fiche en vigueur."
+      },
+      {
+        "type": "ressource",
+        "texte": "Page du dispositif sur le site de la Région Occitanie (renseignements au 3010, appel gratuit)",
+        "lien": "https://www.laregion.fr/Pass-Transformation-Ecologique"
+      },
+      {
+        "type": "ressource",
+        "texte": "Fiche détaillée du dispositif sur le Hub Entreprendre Occitanie",
+        "lien": "https://hubentreprendre.laregion.fr/financement/pass-transformation-ecologique"
+      },
+      {
+        "type": "ressource",
+        "texte": "Fiche du dispositif en PDF (mise à jour 06/2026) : dépenses éligibles, exclusions et pièces justificatives",
+        "lien": "https://api.hubentreprendre.laregion.fr/fichiers-dispositifs/ea70243c-22c7-4afe-a37d-09f8a8ff46be",
+        "lien_label": "Télécharger la fiche"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "taux, plafond",
+        "url": "https://api.hubentreprendre.laregion.fr/fichiers-dispositifs/ea70243c-22c7-4afe-a37d-09f8a8ff46be",
+        "date": "2026-09-24",
+        "extrait": "Mise à jour : 06/2026 [...] Taux d'intervention : 35% des dépenses éligibles. Montant : subvention plafonnée à 8 000 € avec une assiette éligible min. de 5 000 €"
+      },
+      {
+        "champ": "description, mesures (ACT_AGR_006)",
+        "url": "https://api.hubentreprendre.laregion.fr/fichiers-dispositifs/ea70243c-22c7-4afe-a37d-09f8a8ff46be",
+        "date": "2026-09-24",
+        "extrait": "Economie circulaire et gestion des déchets : • Système de récupération des eaux de pluie • Système de réutilisation des eaux usées"
+      },
+      {
+        "champ": "description, infos_complementaires (végétalisation)",
+        "url": "https://api.hubentreprendre.laregion.fr/fichiers-dispositifs/ea70243c-22c7-4afe-a37d-09f8a8ff46be",
+        "date": "2026-09-24",
+        "extrait": "Dépenses éligibles complémentaires uniquement pour les entreprises relevant du tourisme : Dépenses de végétalisation et des-imperméabilisation des sols"
+      },
+      {
+        "champ": "description, plafond, infos_complementaires",
+        "url": "https://api.hubentreprendre.laregion.fr/fichiers-dispositifs/ea70243c-22c7-4afe-a37d-09f8a8ff46be",
+        "date": "2026-09-24",
+        "extrait": "Les dépenses éligibles sont constituées des dépenses d'investissement en matériel neuf et/ou d'occasion, garantis 6 mois min. avec un montant minimal unitaire de chaque dépense de 1000 € HT. [...] programme d'investissement de 12 mois max."
+      },
+      {
+        "champ": "eligibilite",
+        "url": "https://api.hubentreprendre.laregion.fr/fichiers-dispositifs/ea70243c-22c7-4afe-a37d-09f8a8ff46be",
+        "date": "2026-09-24",
+        "extrait": "les entreprises touristiques (hors auto-entrepreneurs) enregistrées au Registre du Commerce et des Sociétés dans les secteurs de l'hébergement [...] sont exclus : les hôtels et l'hôtellerie de plein air non classés ou classés 1 étoile au dépôt du dossier, les hôtels appartenant à des chaines intégrées et franchisés [...] les activités situées dans des Zones d'activités et/ou zones commerciales sont également exclues."
+      },
+      {
+        "champ": "eligibilite",
+        "url": "https://www.laregion.fr/Pass-Transformation-Ecologique",
+        "date": "2026-09-24",
+        "extrait": "Entreprises immatriculées et disposant d'un 1er bilan d'activité sur au moins 12 mois, avec au moins un salarié et moins de 50 salariés [...] Les territoires des Métropoles ne sont pas éligibles à ce dispositif."
+      },
+      {
+        "champ": "departements",
+        "url": "https://www.laregion.fr/Pass-Transformation-Ecologique",
+        "date": "2026-09-24",
+        "extrait": "Les entreprises doivent avoir leur siège ou l'établissement concerné sur le territoire Occitanie."
+      },
+      {
+        "champ": "departements",
+        "url": "https://api.hubentreprendre.laregion.fr/dispositifs/slug/pass-transformation-ecologique",
+        "date": "2026-09-24",
+        "extrait": "\"operator\":{\"name\":\"Région Occitanie Montpellier\" [...] \"territories\":[{\"label\":\"11\",\"departments\":\"Aude\"},{\"label\":\"12\",\"departments\":\"Aveyron\"},{\"label\":\"30\",\"departments\":\"Gard\"},{\"label\":\"31\",\"departments\":\"Haute-Garonne\"},{\"label\":\"32\",\"departments\":\"Gers\"},{\"label\":\"46\",\"departments\":\"Lot\"},{\"label\":\"48\",\"departments\":\"Lozère\"},{\"label\":\"66\",\"departments\":\"Pyrénées-Orientales\"},{\"label\":\"81\",\"departments\":\"Tarn\"},{\"label\":\"82\",\"departments\":\"Tarn-et-Garonne\"},{\"label\":\"65\",\"departments\":\"Hautes-Pyrénées\"},{\"label\":\"09\",\"departments\":\"Ariège\"},{\"label\":\"34\",\"departments\":\"Hérault\"}] (champs id et dates omis)"
+      },
+      {
+        "champ": "departements",
+        "url": "https://www.laregion.fr/Profil-geographique-et-administratif-du-territoire",
+        "date": "2026-09-24",
+        "extrait": "Ces derniers sont au nombre de 13 : Ariège, Aude, Aveyron, Gard, Haute-Garonne, Gers, Hérault, Lot, Lozère, Hautes-Pyrénées, Pyrénées-Orientales, Tarn et Tarn-et-Garonne (par ordre alphabétique)."
+      },
+      {
+        "champ": "infos_complementaires (avertissements)",
+        "url": "https://api.hubentreprendre.laregion.fr/fichiers-dispositifs/ea70243c-22c7-4afe-a37d-09f8a8ff46be",
+        "date": "2026-09-24",
+        "extrait": "attribution non automatique de l'aide. Un seul Pass Transformation écologique tous les 3 ans. [...] non cumulable avec le dispositif économie de proximité. [...] Sont exclues : le portage de l'opération en crédit-bail et toutes dépenses non immobilisables comptablement. [...] la demande de financement (date de dépôt sur la plateforme dématérialisée « Mes aides en ligne ») devra être antérieure au commencement d'exécution de l'opération."
+      },
+      {
+        "champ": "infos_complementaires (démarche)",
+        "url": "https://api.hubentreprendre.laregion.fr/fichiers-dispositifs/ea70243c-22c7-4afe-a37d-09f8a8ff46be",
+        "date": "2026-09-24",
+        "extrait": "Pour les dépenses liées à la gestion de l'eau, un document devra être transmis justifiant des économies d'eau attendues annuellement en m3 [...] Pour les entreprises d'hébergement touristique : l'attestation de classement à minimum 2 étoiles [...] Le porteur de projet devra être accompagné par un conseiller de l'agence de développement économique de la Région Ad'Occ"
+      },
+      {
+        "champ": "infos_complementaires (ancienne version)",
+        "url": "https://api.hubentreprendre.laregion.fr/fichiers-dispositifs/735fce67-0154-4e5a-8796-bcfa49102599",
+        "date": "2026-09-24",
+        "extrait": "Le PASS Transformation écologique prend la forme d'une subvention d'investissement proportionnelle avec un taux d'intervention de 50% des dépenses éligibles. La subvention Région est plafonnée à 10 000 € sur un programme de dépenses de 12 mois maximum avec une assiette éligible minimale de 10 000 €."
+      },
+      {
+        "champ": "infos_complementaires (ressource, 3010)",
+        "url": "https://www.laregion.fr/Pass-Transformation-Ecologique",
+        "date": "2026-09-24",
+        "extrait": "Composez le 3010 pour contacter la Région Occitanie / Pyrénées-Méditerranée (service et appel gratuits)"
+      }
+    ],
+    "date_maj": "2026-09-24"
+  },
+  {
+    "id": "AIDE_HOT_006",
+    "nom": "Financement d'équipements pour des économies d'eau (Fonds mutualisé départemental de revitalisation de l'Oise, CCI Oise)",
+    "financeur": "Fonds mutualisé départemental de revitalisation de l'Oise (Préfecture de l'Oise), fonds généraliste géré par la CCI de l'Oise",
+    "logo_url": null,
+    "type": "subvention",
+    "taux": "Jusqu'à 70 % des dépenses éligibles, après un diagnostic eau subventionné 600 € HT",
+    "plafond": "Divergence entre sources : 15 000 € HT d'aide selon la plaquette 2024-2027 de la CCI Oise, 5 000 € HT selon la fiche du dispositif mise à jour le 7 août 2026 (2 lignes d'aide au plus, 700 € HT d'investissement minimum)",
+    "description": "Aide en deux étapes du fonds généraliste géré par la CCI de l'Oise. D'abord un diagnostic eau réalisé par un conseiller de la CCI, qui identifie les axes d'amélioration, construit le plan d'actions et prépare le dossier présenté au comité d'engagement. Ensuite une subvention aux équipements des locaux professionnels, par lignes : petits équipements (mousseurs et réducteurs sous 7 L/min, mitigeurs thermostatiques, pommeaux de douche économes sous 8 L/min, boutons poussoirs, chasses d'eau double flux, compteur divisionnaire), étude d'économie d'eau par un cabinet expert, rénovation du réseau (détection et réparation des fuites), gestion des eaux de pluie (récupérateur, usage pour les WC, douches ou machines à laver) et procédés ou équipements moins consommateurs.",
+    "eligibilite": "TPE dont l'établissement est situé dans l'Oise et qui disposent de locaux professionnels, hors micro-entrepreneurs et entreprises de prestation intellectuelle. Critère de taille divergent selon les sources : moins de 30 salariés ou moins de 3,5 M€ de chiffre d'affaires selon la plaquette 2024-2027, moins de 30 salariés et moins de 3,5 M€ selon la fiche du dispositif mise à jour en août 2026. Le diagnostic préalable avec un conseiller de la CCI est obligatoire.",
+    "categories": [
+      "ameliorer_efficacite_hydrique",
+      "suivre_comprendre_maitriser",
+      "valoriser_reut_eaux_non_conventionnelles"
+    ],
+    "secteurs": [
+      "hotellerie"
+    ],
+    "departements": [
+      "60"
+    ],
+    "agences": [],
+    "mesures": [
+      "ACT_HOT_001",
+      "ACT_AGR_001",
+      "ACT_AGR_002",
+      "ACT_AGR_006"
+    ],
+    "infos_complementaires": [
+      {
+        "type": "avertissement",
+        "texte": "Le projet ne doit être éligible à aucune autre aide existante (Région, ADEME, État), et les équipements ne doivent pas avoir été financés par un autre programme régional ou national au cours des deux dernières années."
+      },
+      {
+        "type": "avertissement",
+        "texte": "Le plafond d'aide diffère selon les documents de la CCI : 15 000 € HT dans la plaquette 2024-2027, 5 000 € HT dans la fiche détaillée du dispositif mise à jour en août 2026, avec des plafonds par ligne (1 000 € HT pour les petits équipements, 2 000 € HT pour l'étude d'économie d'eau, 3 000 € HT pour la rénovation du réseau, 2 000 € HT pour les eaux de pluie, 5 000 € pour les procédés ou équipements moins consommateurs). Faites confirmer le montant par votre conseiller avant de chiffrer le projet."
+      },
+      {
+        "type": "avertissement",
+        "texte": "Le critère de taille diffère lui aussi : la plaquette 2024-2027 vise les TPE de moins de 30 salariés ou de moins de 3,5 M€ de chiffre d'affaires, la fiche détaillée exige moins de 30 salariés et moins de 3,5 M€. Un hôtel qui ne remplit qu'une des deux conditions doit faire confirmer son éligibilité par la CCI."
+      },
+      {
+        "type": "info",
+        "texte": "La demande se fait par mail à revitalisation@cci-oise.fr ou au 03 44 79 80 97. Un conseiller de la CCI réalise le diagnostic, aide à monter le dossier et le présente au comité d'engagement composé des services de l'État. L'installation des petits équipements par vos soins est admise."
+      },
+      {
+        "type": "ressource",
+        "texte": "Page du Fonds mutualisé départemental de revitalisation de l'Oise sur le site des CCI Hauts-de-France",
+        "lien": "https://hautsdefrance.cci.fr/solutions/fonds-mutualise-revitalisation-oise/",
+        "lien_label": "Voir le fonds"
+      },
+      {
+        "type": "ressource",
+        "texte": "Fiche détaillée du dispositif (lignes d'aide et conditions) sur les-aides.fr, portail des CCI",
+        "lien": "https://les-aides.fr/aide/cYSP3w/cci-oise/financement-d-equipements-pour-des-economies-d-eau.html",
+        "lien_label": "Voir le dispositif"
+      },
+      {
+        "type": "ressource",
+        "texte": "Plaquette du fonds généraliste 2024-2027 (CCI Oise)",
+        "lien": "https://hautsdefrance.cci.fr/content/uploads/sites/6/2022/12/depliant-fmdro-1052024-8.pdf",
+        "lien_label": "Télécharger la plaquette"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "financeur, departements, periode",
+        "url": "https://hautsdefrance.cci.fr/solutions/fonds-mutualise-revitalisation-oise/",
+        "date": "2026-09-24",
+        "extrait": "La Préfecture de l'Oise et la CCI Oise ont renouvelé, pour la période 2024-2027, la convention de gestion du Fonds Mutualisé Départemental de Revitalisation de l'Oise (FMDRO). [...] aides aux TPE, PME ( commerce, industrie, services, artisanat, agriculture) sur l'ensemble du département. [...] Financement d'équipement pour des économies d'eau"
+      },
+      {
+        "champ": "infos_complementaires (démarche)",
+        "url": "https://hautsdefrance.cci.fr/solutions/fonds-mutualise-revitalisation-oise/",
+        "date": "2026-09-24",
+        "extrait": "Pour déposer un dossier pour le Fonds Généraliste, prenez contact par mail : revitalisation@cci-oise.fr Selon l'action, un.e conseiller.ère CCI vous accompagnera pour la réalisation du diagnostic, le montage du dossier et le présentera lors du comité d'engagement composé par les services de l'Etat. [...] 03 44 79 80 97"
+      },
+      {
+        "champ": "taux, plafond (15 000 €), eligibilite (TPE, critère « ou »)",
+        "url": "https://hautsdefrance.cci.fr/content/uploads/sites/6/2022/12/depliant-fmdro-1052024-8.pdf",
+        "date": "2026-09-24",
+        "extrait": "A6 : Financement d'équipement pour des économies d'eau [...] L'aide correspondra à 70% du montant et ne peut dépasser 15 000€ HT pour des équipements de locaux professionnels uniquement. Un diagnostic est à réaliser au préalable par un conseiller CCI. S'adresse aux TPE de moins de 30 salariés ou moins de 3.5 millions de CA."
+      },
+      {
+        "champ": "taux, plafond (5 000 €, lignes, minimum)",
+        "url": "https://les-aides.fr/aide/cYSP3w/cci-oise/financement-d-equipements-pour-des-economies-d-eau.html",
+        "date": "2026-09-24",
+        "extrait": "Etape 1 : l'aide prend la forme d'une subvention de 600 € HT par diagnostic réalisé. Étape 2 : [...] (2 lignes d'aides maximum) et correspondra au maximum à 70% du montant total, dans la limite de 5 000 € HT. [...] Le montant minimum d'investissement devra être de 700 € HT."
+      },
+      {
+        "champ": "description, mesures",
+        "url": "https://les-aides.fr/aide/cYSP3w/cci-oise/financement-d-equipements-pour-des-economies-d-eau.html",
+        "date": "2026-09-24",
+        "extrait": "Les petits équipements d'économie d'eau, 1 000 € HT de subvention maximum (auto installation permise) : les mousseurs/réducteurs, le débit devra être < à 7L/min [...] le pommeau de douche économe, le débit devra être < à 8L/min [...] la chasse d'eau double flux, le compteur divisionnaire d'eau [...] La rénovation du réseau d'eau, 3 000 € HT [...] La gestion des eaux de pluie, 2 000 € HT : le récupérateur d'eau de pluie [...] l'installation pour utilisation des eaux de pluie (WC, douches, machine à laver, double réseau, …)"
+      },
+      {
+        "champ": "mesures (ACT_AGR_002), description",
+        "url": "https://les-aides.fr/aide/cYSP3w/cci-oise/financement-d-equipements-pour-des-economies-d-eau.html",
+        "date": "2026-09-24",
+        "extrait": "Étape 1 : un diagnostic Eau de l'entreprise afin de construire un plan d'action pour le maintien et le développement de l'activité : identification des axes d'amélioration, plan d'actions, accompagnement à la mise en place des mesures, identification des financements mobilisables"
+      },
+      {
+        "champ": "eligibilite (critère « et »), infos_complementaires (non-cumul)",
+        "url": "https://les-aides.fr/aide/cYSP3w/cci-oise/financement-d-equipements-pour-des-economies-d-eau.html",
+        "date": "2026-09-24",
+        "extrait": "ne pas faire l'objet d'un financement de ces équipements dans un autre programme régional ou national pendant les 2 dernières années. [...] les travaux devront être effectués dans un établissement situé dans l'Oise, le projet ne devra pas être éligible à d'autres aides existantes (Région, ADEME, Etat...) [...] ne pas être en régime micro-entrepreneur, disposer de locaux professionnels, ne pas être une entreprise de prestation à caractère intellectuel, pour les structures de moins de 30 salariés et moins de 3,5 M de CA."
+      },
+      {
+        "champ": "statut du site les-aides.fr",
+        "url": "https://les-aides.fr/mentions_legales",
+        "date": "2026-09-24",
+        "extrait": "Ce site est édité par la Chambre de commerce et d'industrie Hauts-de-France"
+      },
+      {
+        "champ": "infos_complementaires (plafonds des lignes étude et procédés), description",
+        "url": "https://les-aides.fr/aide/cYSP3w/cci-oise/financement-d-equipements-pour-des-economies-d-eau.html",
+        "date": "2026-09-24",
+        "extrait": "L'étude pour économie d'eau dans l'entreprise, 2 000 € HT de subvention maximum [...] L'économie d'eau pour les procédés/équipement moins consommateurs, 5 000 € de subvention maximum [...] les mitigeurs thermostatiques, le pommeau de douche économe, le débit devra être < à 8L/min après installation"
+      }
+    ],
+    "date_maj": "2026-09-24"
+  },
+  {
+    "id": "AIDE_HOT_007",
+    "nom": "ECODO PRO, accompagnement subventionné aux économies d'eau (CCI de Bretagne)",
+    "financeur": "CCI de Bretagne et partenaires du programme ECODO PRO, animé par Bretagne Compétitivité",
+    "logo_url": null,
+    "type": "accompagnement",
+    "taux": "Reste à charge de 90 € HT par jour d'accompagnement (moins de 50 salariés), 180 € HT (50 à 250 salariés), 240 € HT (plus de 250 salariés), le reste étant soutenu financièrement par les partenaires du programme",
+    "plafond": "Accompagnement de 1 à 4 jours selon la nature du projet",
+    "description": "Programme régional d'accompagnement qui aide les entreprises bretonnes à sécuriser leur approvisionnement en eau par des pratiques hydro-économes. Il comprend un état des lieux avec un diagnostic et des recommandations personnalisées, un accompagnement individuel (réglementation, financements, solutions techniques) et des accompagnements collectifs (ateliers inter-entreprises, webinaires). L'accompagnement est réalisé par un conseiller de Bretagne Compétitivité ou d'une CCI.",
+    "eligibilite": "Entreprises bretonnes de tous secteurs, tourisme compris (industrie, tourisme, bâtiment, services). Les accompagnements sont réservés aux entreprises bretonnes.",
+    "categories": [
+      "suivre_comprendre_maitriser"
+    ],
+    "secteurs": [
+      "hotellerie"
+    ],
+    "departements": [
+      "22",
+      "29",
+      "35",
+      "56"
+    ],
+    "agences": [],
+    "mesures": [
+      "ACT_AGR_002"
+    ],
+    "infos_complementaires": [
+      {
+        "type": "info",
+        "texte": "La candidature se fait en remplissant le formulaire de l'appel à manifestation d'intérêt sur la page du programme. Pour toute question, vous pouvez écrire à ecodo@bretagne-competitivite.fr."
+      },
+      {
+        "type": "info",
+        "texte": "La grille de reste à charge est celle publiée par Bretagne Compétitivité sur la page du programme au 24 septembre 2026. Elle peut évoluer d'un appel à candidatures à l'autre : vérifiez-la au moment de candidater."
+      },
+      {
+        "type": "info",
+        "texte": "Le reste à charge porte sur les jours d'accompagnement. La page du programme renvoie vers les aides financières existantes : les aides de l'agence de l'eau Loire-Bretagne et le Pass transition de la Région Bretagne. La fiche pratique pour les hôtels cite les subventions de l'agence de l'eau Loire-Bretagne pour les investissements importants permettant des économies d'eau."
+      },
+      {
+        "type": "retour_experience",
+        "texte": "Selon le programme, plus de 350 entreprises bretonnes ont été accompagnées en 5 ans, avec en moyenne 13 % d'économie d'eau par entreprise accompagnée."
+      },
+      {
+        "type": "ressource",
+        "texte": "Page du programme ECODO PRO sur le site de Bretagne Compétitivité",
+        "lien": "https://www.bretagne-competitivite.fr/ecodopro/"
+      },
+      {
+        "type": "ressource",
+        "texte": "Formulaire de candidature (appel à manifestation d'intérêt)",
+        "lien": "https://forms.office.com/Pages/ResponsePage.aspx?id=0BXJUzhqikSPHOkE2RgTKzgp2nU6JiRGrWSgn97UbKFUQzlJUlpZSU44V1hSNkhRWVQ0MDg0TUI2TS4u"
+      },
+      {
+        "type": "ressource",
+        "texte": "Fiche pratique « Hydro-économies pour les hôtels » : 7 recommandations et témoignages d'hôtels bretons",
+        "lien": "https://www.bretagne-competitivite.fr/wp-content/uploads/2025/06/ECODO-Fiche-BP_Hotels.pdf"
+      },
+      {
+        "type": "ressource",
+        "texte": "Guide ECODO PRO « Pratiques hydro-économes piscines » : 7 recommandations pour les piscines collectives",
+        "lien": "https://www.bretagne-competitivite.fr/wp-content/uploads/2026/03/Kit-piscine-2026.pdf"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "taux, type, financeur",
+        "url": "https://www.bretagne-competitivite.fr/ecodopro/",
+        "date": "2026-09-24",
+        "extrait": "Le programme est soutenu financièrement par les partenaires d'ECODO PRO, afin que le reste à charge pour les entreprises, soit le moins coûteux possible : 90 € HT / jour d'accompagnement (- de 50 salariés) 180 € HT / jour d'accompagnement (50 à 250 salariés) 240 € HT / jour d'accompagnement (+ de 250 salariés)"
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.bretagne-competitivite.fr/ecodopro/",
+        "date": "2026-09-24",
+        "extrait": "Coût : Le programme est soutenu financièrement par les partenaires d'ECODO PRO, afin que le reste à charge pour les entreprises, soit le moins coûteux possible : 90 € HT / jour d'accompagnement (- de 50 salariés)"
+      },
+      {
+        "champ": "plafond",
+        "url": "https://www.bretagne-competitivite.fr/ecodopro/",
+        "date": "2026-09-24",
+        "extrait": "Durée de l'accompagnement : > De 1 à 4 jours selon la nature des projets."
+      },
+      {
+        "champ": "financeur, description",
+        "url": "https://www.bretagne-competitivite.fr/ecodopro/",
+        "date": "2026-09-24",
+        "extrait": "Les partenaires régionaux d'ECODO PRO, le programme de la CCI de Bretagne, animé par Bretagne Compétitivité [...] Bénéficiez de l'accompagnement d'ECODO PRO par l'un de nos conseillers (Bretagne Compétitive / CCI)"
+      },
+      {
+        "champ": "description, mesures, categories",
+        "url": "https://www.bretagne-competitivite.fr/ecodopro/",
+        "date": "2026-09-24",
+        "extrait": "ECODO PRO, programme d'accompagnement qui permet aux entreprises bretonnes de sécuriser leur approvisionnement en eau grâce à la mise en place de pratiques hydro-économes. [...] Un état des lieux avec un diagnostic et des recommandations personnalisées à mettre en place. Un accompagnement individuel spécifique : réglementation, financements, solutions techniques…. Des accompagnements collectifs pour monter en compétence (ateliers inter-entreprises, webinaires)."
+      },
+      {
+        "champ": "eligibilite, departements",
+        "url": "https://www.bretagne-competitivite.fr/ecodopro/",
+        "date": "2026-09-24",
+        "extrait": "Ce programme est à destination de toutes les entreprises bretonnes (industrie, tourisme, bâtiment, de services …) [...] Accompagnements réservés aux entreprises bretonnes"
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.bretagne-competitivite.fr/ecodopro/",
+        "date": "2026-09-24",
+        "extrait": "en complétant le formulaire de l'appel à manifestation d'intérêt : Je souhaite bénéficier de l'accompagnement [...] mailto:ecodo@bretagne-competitivite.fr [...] Entreprises, découvrez les aides financières existantes : Aides financières de l'Agence de l'Eau Loire Bretagne, Pass transition de la région bretagne"
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.bretagne-competitivite.fr/ecodopro/",
+        "date": "2026-09-24",
+        "extrait": "+ de 350 entreprises bretonnes accompagnées depuis 5 ans. En moyenne, une entreprise accompagnée par le programme, réalise 13% d'économie d'eau."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.bretagne-competitivite.fr/wp-content/uploads/2025/06/ECODO-Fiche-BP_Hotels.pdf",
+        "date": "2026-09-24",
+        "extrait": "PRATIQUES HYDRO-ÉCONOMES HÔTELS. 7 RECOMMANDATIONS POUR RÉDUIRE VOS CONSOMMATIONS D'EAU [...] LES FINANCEMENTS : Investissements importants permettant des économies d'eau : Subventions de l'Agence de l'Eau Loire Bretagne"
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.bretagne-competitivite.fr/wp-content/uploads/2026/03/Kit-piscine-2026.pdf",
+        "date": "2026-09-24",
+        "extrait": "PRATIQUES HYDRO-ÉCONOMES PISCINES O PRO 7 recommandations [...] Les périodes de forte activité des piscines collectives coïncident généralement avec les périodes de sécheresse."
+      }
+    ],
+    "date_maj": "2026-09-24"
+  },
+  {
+    "id": "AIDE_HOT_008",
+    "nom": "Ressourc'Eau, programme de gestion durable de l'eau (CCI Pays de la Loire et agence de l'eau Loire-Bretagne)",
+    "financeur": "CCI des Pays de la Loire, agence de l'eau Loire-Bretagne et FEDER",
+    "logo_url": null,
+    "type": "accompagnement",
+    "taux": "Reste à charge de 30 % du coût de l'accompagnement pour l'entreprise",
+    "plafond": "Accompagnement de 2 250 à 3 750 € HT selon la durée (3 à 5 jours), soit 675 à 1 125 € HT à la charge de l'entreprise",
+    "description": "Accompagnement individuel de 3 à 5 jours par un conseiller eau de la CCI, cofinancé par la CCI des Pays de la Loire et l'agence de l'eau Loire-Bretagne avec le soutien du FEDER. Le parcours comprend un rendez-vous pré-visite, une visite technique du site, l'analyse des données de consommation et la restitution d'un rapport avec une analyse détaillée de la gestion de l'eau et un plan d'action priorisé à court, moyen et long terme. Le conseiller appuie ensuite la mise en œuvre des actions et fait un point de suivi après 6 mois ou un an.",
+    "eligibilite": "Entreprises implantées en Pays de la Loire pour qui l'eau constitue un enjeu de fonctionnement, un facteur de risque ou un levier de compétitivité, et qui veulent mettre en œuvre des actions concrètes à court ou moyen terme. Les candidatures sont sélectionnées par un jury ; la plaquette du programme et Mission Transition Écologique ciblent les entreprises consommant entre 10 000 et 100 000 m3 d'eau par an.",
+    "categories": [
+      "suivre_comprendre_maitriser"
+    ],
+    "secteurs": [],
+    "departements": [
+      "44",
+      "49",
+      "53",
+      "72",
+      "85"
+    ],
+    "agences": [],
+    "mesures": [
+      "ACT_AGR_002"
+    ],
+    "infos_complementaires": [
+      {
+        "type": "avertissement",
+        "texte": "La plaquette du programme (avril 2025) et la fiche Mission Transition Écologique réservent l'accompagnement aux entreprises qui consomment entre 10 000 et 100 000 m3 d'eau par an. L'appel à candidatures 2026 ne reprend pas ce seuil dans ses critères de sélection et indique que « c'est la pertinence de votre projet et l'urgence d'agir qui priment ». Si votre consommation est inférieure à 10 000 m3 par an, faites confirmer la recevabilité de votre candidature par la CCI avant de la déposer."
+      },
+      {
+        "type": "info",
+        "texte": "L'accompagnement n'est pas automatique : il passe par un appel à candidatures. L'appel 2026, publié le 30 janvier 2026, prévoit qu'un jury retienne une soixantaine d'entreprises. Mission Transition Écologique indique un dispositif disponible jusqu'au 31/12/2027 (information lue le 2026-09-24)."
+      },
+      {
+        "type": "info",
+        "texte": "Pour une question ou un devis, écrivez à l'équipe Ressourc'Eau : ressourceau@paysdelaloire.cci.fr. La CCI propose aussi un Flash Diag Eau gratuit pour évaluer en quelques minutes la maturité de votre entreprise sur l'eau avant de candidater."
+      },
+      {
+        "type": "ressource",
+        "texte": "Page du programme Ressourc'Eau sur le site de la CCI Pays de la Loire",
+        "lien": "https://www.paysdelaloire.cci.fr/nantes-saint-nazaire/entreprise/transition-ecologique/programme-ressourceau",
+        "lien_label": "Voir le programme"
+      },
+      {
+        "type": "ressource",
+        "texte": "Appel à candidatures Ressourc'Eau 2026 : critères de sélection, coût et déroulé",
+        "lien": "https://www.paysdelaloire.cci.fr/nantes-saint-nazaire/actualites/appel-candidatures-ressourceau",
+        "lien_label": "Lire l'appel 2026"
+      },
+      {
+        "type": "ressource",
+        "texte": "Formulaire de candidature au programme Ressourc'Eau",
+        "lien": "https://s1.sphinxonline.net/surveyserver/s/CCI-Nantes-StNazaire/Ressourc_Eau/questionnaire.htm",
+        "lien_label": "Déposer ma candidature"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "taux, plafond",
+        "url": "https://www.paysdelaloire.cci.fr/nantes-saint-nazaire/actualites/appel-candidatures-ressourceau",
+        "date": "2026-09-24",
+        "extrait": "Seul un reste à charge de 30% est demandé aux entreprises, variable selon la durée de l'accompagnement : Durée 3 jours : 2 250 € HT, soit 675 € HT [...] Durée 5 jours : 3 750 € HT, soit 1 125 € HT"
+      },
+      {
+        "champ": "plafond, financeur",
+        "url": "https://www.paysdelaloire.cci.fr/nantes-saint-nazaire/entreprise/transition-ecologique/programme-ressourceau",
+        "date": "2026-09-24",
+        "extrait": "3 à 5 jours, selon votre besoin. Tarif de l'offre 675 à 1125 € HT. Prise en charge CCI, AELB et FEDER selon éligibilité. [...] *Programme cofinancé par la CCI des Pays de la Loire et l'Agence de l'Eau Loire-Bretagne, avec le soutien du FEDER."
+      },
+      {
+        "champ": "description, mesures",
+        "url": "https://www.paysdelaloire.cci.fr/nantes-saint-nazaire/entreprise/transition-ecologique/programme-ressourceau",
+        "date": "2026-09-24",
+        "extrait": "Nos conseillers CCI experts sur l'eau vous proposent : Une analyse détaillée de votre gestion de l'eau. Un plan d'action priorisé et personnalisé à court, moyen et long terme. Un appui à la mise en place des actions identifiées. Un échange après 6 mois/1 an pour suivre les actions engagées."
+      },
+      {
+        "champ": "description",
+        "url": "https://www.paysdelaloire.cci.fr/nantes-saint-nazaire/actualites/appel-candidatures-ressourceau",
+        "date": "2026-09-24",
+        "extrait": "parcours d'accompagnement de 3 à 5 jours incluant un rendez-vous pré-visite, une visite technique sur votre site, l'analyse des données et la restitution du plan d'action."
+      },
+      {
+        "champ": "eligibilite, departements",
+        "url": "https://www.paysdelaloire.cci.fr/nantes-saint-nazaire/actualites/appel-candidatures-ressourceau",
+        "date": "2026-09-24",
+        "extrait": "Critères de sélection : Entreprises implantées en Pays de la Loire. Objectif de sécuriser son modèle économique face aux enjeux de l'eau. Volonté de mettre en œuvre des actions concrètes à court/moyen terme. [...] Nouveauté 2026 : Que vous soyez une PME en croissance ou un site industriel majeur, c'est la pertinence de votre projet et l'urgence d'agir qui priment."
+      },
+      {
+        "champ": "eligibilite, departements",
+        "url": "https://www.paysdelaloire.cci.fr/nantes-saint-nazaire/entreprise/transition-ecologique/programme-ressourceau",
+        "date": "2026-09-24",
+        "extrait": "Notre programme s'adresse à toutes les entreprises des Pays de la Loire pour qui l'eau constitue un enjeu de fonctionnement, un facteur de risque ou un levier de compétitivité."
+      },
+      {
+        "champ": "eligibilite, infos_complementaires",
+        "url": "https://www.paysdelaloire.cci.fr/sites/default/files/files/plaquette_ressourc_eau.pdf",
+        "date": "2026-09-24",
+        "extrait": "POUR QUI ? Les entreprises basées en Pays de la Loire qui consomment entre 10 000 et 100 000 m3 d'eau par an. [...] ©CCI Pays de la Loire | Création graphique : Agence Duo | Avril 2025"
+      },
+      {
+        "champ": "eligibilite, secteurs, infos_complementaires",
+        "url": "https://mission-transition-ecologique.beta.gouv.fr/aides-entreprise/ressourc-eau",
+        "date": "2026-09-24",
+        "extrait": "Toutes tailles, Éligible aux micro-entreprises, Pays de la Loire, Tous secteurs d'activité [...] Ce dispositif vise les entreprises basées en Pays de la Loire qui consomment entre 10 000 et 100 000 m3 d'eau par an. [...] Disponible jusqu'au 31/12/2027"
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.paysdelaloire.cci.fr/nantes-saint-nazaire/actualites/appel-candidatures-ressourceau",
+        "date": "2026-09-24",
+        "extrait": "30.01.2026 [...] lancent l'appel à candidatures 2026 du programme Ressourc'Eau. [...] Une soixantaine d'entreprises sera sélectionnée [...] Le jury sélectionne les 60 entreprises retenues. [...] Évaluez gratuitement la maturité de votre entreprise sur la gestion de l'eau et identifiez vos premières pistes de progrès grâce à notre Flash Diag Eau"
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.paysdelaloire.cci.fr/nantes-saint-nazaire/entreprise/transition-ecologique/programme-ressourceau",
+        "date": "2026-09-24",
+        "extrait": "Contactez un conseiller CCI Ressourc'Eau ressourceau@paysdelaloire.cci.fr [...] en répondant à l'appel à candidature"
+      }
+    ],
+    "date_maj": "2026-09-24"
+  },
+  {
+    "id": "AIDE_HOT_009",
+    "nom": "Prise en charge des formations des salariés, branche Hôtels, cafés, restaurants (AKTO)",
+    "financeur": "AKTO (opérateur de compétences)",
+    "logo_url": null,
+    "type": "accompagnement",
+    "taux": "Coûts pédagogiques entièrement pris en charge sur Espace Formation ; hors catalogue, forfaits horaires ou journaliers plafonnés",
+    "plafond": "Hors Espace Formation : 2 000 € par an (moins de 11 salariés), 3 000 € (11 à 25 salariés), 6 000 € (26 à 49 salariés) de coûts pédagogiques. À partir de 50 salariés : 80 % de la contribution conventionnelle de l'entreprise",
+    "description": "AKTO finance la formation des salariés des hôtels, cafés et restaurants selon les règles fixées par la branche. Sur Espace Formation, la plateforme des formations collectives sélectionnées par la branche, les coûts pédagogiques sont entièrement pris en charge. Ce catalogue comprend une thématique « Responsabilité environnementale » avec des formations courtes « La Responsabilité Environnementale dans le secteur HCR » qui visent l'adoption des éco-gestes, dont la réduction de la consommation d'eau, poste par poste (chambres, buanderie, nettoyage, cuisine, bar).",
+    "eligibilite": "Entreprises de la branche Hôtels, cafés, restaurants, de toutes tailles, micro-entreprises comprises. Les formations doivent répondre aux enjeux et priorités de la branche et être réalisées par un organisme déclaré et certifié Qualiopi.",
+    "categories": [
+      "sensibiliser_former"
+    ],
+    "secteurs": [
+      "hotellerie"
+    ],
+    "departements": [],
+    "agences": [],
+    "mesures": [],
+    "infos_complementaires": [
+      {
+        "type": "avertissement",
+        "texte": "Une formation hors catalogue n'est prise en charge que si sa thématique ne figure pas sur Espace Formation. La responsabilité environnementale y figurant, vérifiez d'abord le catalogue avant de commander une formation aux éco-gestes à un autre organisme."
+      },
+      {
+        "type": "avertissement",
+        "texte": "Le financement est accordé sous réserve des fonds disponibles et de la réalisation des actions. La rémunération des salariés formés n'est pas prise en charge, sauf en activité partielle (forfait de 14 € par heure)."
+      },
+      {
+        "type": "info",
+        "texte": "En septembre 2026, Espace Formation proposait pour la branche plusieurs sessions de 4 heures intitulées « La Responsabilité Environnementale dans le secteur HCR », ouvertes à tous les salariés (étage, maintenance, blanchisserie, cuisine, salle). Leurs objectifs : adopter les éco-gestes pour réduire la consommation d'eau et d'électricité, identifier les postes gros consommateurs d'eau et d'énergie et installer des routines au poste. Aucune ne traite spécifiquement de la détection des fuites ni du changement du linge à la demande."
+      },
+      {
+        "type": "info",
+        "texte": "Pour les entreprises de 50 salariés et plus, les formations suivies sur Espace Formation bénéficient de tarifs négociés mais sont déduites du budget annuel, égal à 80 % de la contribution conventionnelle de 0,2 % de la masse salariale."
+      },
+      {
+        "type": "ressource",
+        "texte": "Règles de prise en charge 2026 de la branche Hôtels, cafés, restaurants",
+        "lien": "https://www.akto.fr/regles-de-prise-en-charge-hotels-cafes-restaurants/",
+        "lien_label": "Voir les règles"
+      },
+      {
+        "type": "ressource",
+        "texte": "Catalogue Espace Formation (choisir le secteur Hôtels, cafés, restaurants)",
+        "lien": "https://espaceformation.akto.fr/",
+        "lien_label": "Rechercher une formation"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "taux, description",
+        "url": "https://www.akto.fr/regles-de-prise-en-charge-hotels-cafes-restaurants/",
+        "date": "2026-09-24",
+        "extrait": "Sur Espace Formation, AKTO prend en charge la totalité des coûts de formation. Espace Formation est la plateforme rassemblant l'offre de formations collectives sélectionnées par la branche Hôtels, Cafés, Restaurants. [...] Les coûts pédagogiques sont entièrement pris en charge"
+      },
+      {
+        "champ": "plafond, taux",
+        "url": "https://www.akto.fr/regles-de-prise-en-charge-hotels-cafes-restaurants/",
+        "date": "2026-09-24",
+        "extrait": "Entreprises de moins de 11 salariés : Budget annuel (coûts pédagogiques) : plafond annuel de 2 000 € [...] Entreprises de 11 à 25 salariés : [...] plafond annuel de 3 000 € [...] Entreprises de 26 à 49 salariés : [...] plafond annuel de 6 000 € [...] 1000€/jour au réel plafonné [...] Présentiel : 25€/heure au réel plafonné"
+      },
+      {
+        "champ": "plafond, infos_complementaires",
+        "url": "https://www.akto.fr/regles-de-prise-en-charge-hotels-cafes-restaurants/",
+        "date": "2026-09-24",
+        "extrait": "Budget annuel (coûts pédagogiques + frais annexes) : plafond annuel correspondant à 80% du montant de votre contribution conventionnelle [...] Collecte (0,2%) en 2026 [...] Vous bénéficiez des tarifs négociés dans le marché des Actions Collectives. Ces actions de formation seront déduites de votre budget annuel."
+      },
+      {
+        "champ": "eligibilite, infos_complementaires",
+        "url": "https://www.akto.fr/regles-de-prise-en-charge-hotels-cafes-restaurants/",
+        "date": "2026-09-24",
+        "extrait": "AKTO assure le financement des actions de formation réalisées selon les modalités figurant sur l'accord de prise en charge, sous réserve des fonds disponibles et de réalisation des actions. Les financements sont orientés vers les formations répondant aux enjeux et priorités de la branche Hôtels, Cafés, Restaurants ou liées à ses métiers. Pour être financées, les actions de formation (hors formation interne) doivent impérativement être réalisées par un organisme de formation détenteur d'un numéro de déclaration d'activité valide et disposant de la certification QUALIOPI"
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.akto.fr/regles-de-prise-en-charge-hotels-cafes-restaurants/",
+        "date": "2026-09-24",
+        "extrait": "La rémunération n'est pas prise en charge. [...] Cas particulier en cas d'activité partielle : [...] La rémunération est prise en charge dans la limite d'un forfait de 14 € par heure par salarié formé. [...] Seules les formations dont les thématiques ne figurent pas sur Espace Formation peuvent être prises en charge au titre du plan de développement des compétences."
+      },
+      {
+        "champ": "description, eligibilite",
+        "url": "https://www.akto.fr/besoin-competences-catalogue-espace-formation/",
+        "date": "2026-09-24",
+        "extrait": "Formations propres à la branche Hôtels, Cafés, Restaurants : sécurité alimentaire, cuisine, techniques professionnelles, traiteur- snacking, relation client, permis de former, management, responsabilité environnementale, santé-sécurité."
+      },
+      {
+        "champ": "eligibilite",
+        "url": "https://mission-transition-ecologique.beta.gouv.fr/aides-entreprise/formations-akto",
+        "date": "2026-09-24",
+        "extrait": "Coût restant à charge Gratuit pour les entreprises de moins de 50 salariés [...] Taille de l'entreprise Toutes tailles Éligible aux micro-entreprises [...] Entreprises des secteurs [...] des hôtels, des cafétérias, des restaurants"
+      },
+      {
+        "champ": "description, infos_complementaires",
+        "url": "https://espaceformation.akto.fr/rest/trainings/203315",
+        "date": "2026-09-24",
+        "extrait": "LA RESPONSABILITÉ ENVIRONNEMENTALE DANS LE SECTEUR HCR [durée 4 h, thématique Responsabilité environnementale, Action co HCR 2025_020] Adopter les éco gestes (réduire la consommation d'eau, d'électricité, lutter contre le gaspillage..). [...] Identifier les postes énergivores et hydrovore en HCR (froid, cuisson, buanderie, nettoyage, chambres, bar) [...] Public : Tous salariés HCR (cuisine/production, salle/PDJ/room-service, bar, hébergement/housekeeping, maintenance/blanchisserie, back-office)."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://espaceformation.akto.fr/rest/trainings/203273",
+        "date": "2026-09-24",
+        "extrait": "La Responsabilité Environnementale dans le secteur HCR [durée 4 h] Adopter les éco-gestes (réduire la consommation d'eau, d'électricité, lutter contre le gaspillage..) [...] Présentation des éco-gestes adaptés à chaque poste (cuisine, salle, chambre, réception)."
+      }
+    ],
+    "date_maj": "2026-09-24"
+  }
+]

@@ -1,0 +1,116 @@
+[
+  {
+    "id": "boulanger_novice",
+    "nom": "Boulangerie de village, rien de formalisé",
+    "description": "Boulangerie-pâtisserie de village, le couple et quatre salariés, logement au-dessus du fournil sur le même compteur. Lavage au jet sans raclage, plonge sous l'eau courante, robinetterie d'origine, refroidisseur d'eau et chambres froides jamais vérifiés, pas de séparateur à graisses, aucune démarche auprès du service d'assainissement. Camionnette de tournée lavée au tuyau dans la cour. Suit sa consommation à la facture, jamais de diagnostic, n'a jamais pensé à une coupure d'eau.",
+    "answers": {
+      "art_q01": "facture",
+      "art_q02": "compteur_partage",
+      "art_q03": "jamais",
+      "art_q04": "jet_direct",
+      "art_q05": "eau_courante",
+      "art_q06": "aucun",
+      "art_q07": "jamais_verifie",
+      "art_q08": "aucun",
+      "art_q09": "jamais",
+      "art_q10": "reseau",
+      "art_q11": "jamais_pense",
+      "art_q12": "non"
+    }
+  },
+  {
+    "id": "charcutier_equipe",
+    "nom": "Charcutier-traiteur équipé, en réflexion sur la suite",
+    "description": "Charcutier-traiteur de huit salariés en bourg. A refait son laboratoire il y a trois ans : mousseurs et douchette à gâchette, froid entièrement à air, séparateur à graisses avec contrat de vidange, raclage systématique et plonge au bac. Relève son compteur chaque semaine, diagnostic CMA vieux de six ans. Sait qu'une autorisation de déversement pourrait être exigée sans avoir fait la démarche. Suit les alertes de la mairie sans plan, connaît l'éco-défi de sa CMA sans y participer.",
+    "answers": {
+      "art_q01": "releve_hebdo",
+      "art_q02": "compteur_propre",
+      "art_q03": "ancien",
+      "art_q04": "systematique",
+      "art_q05": "bac",
+      "art_q06": "complet",
+      "art_q07": "sans_eau_perdue",
+      "art_q08": "contrat",
+      "art_q09": "renseigne",
+      "art_q10": "station",
+      "art_q11": "informe",
+      "art_q12": "informe"
+    }
+  },
+  {
+    "id": "patissier_centre_ville",
+    "nom": "Pâtisserie de centre-ville, sans graisses ni extérieurs",
+    "description": "Pâtissier de centre-ville, trois salariés, laboratoire en rez-de-chaussée d'immeuble avec compteur propre. Pas de véhicule ni de cour, froid entièrement à air vérifié à l'installation, service d'assainissement qui n'exige ni séparateur ni autorisation pour son activité. Relève le compteur de temps en temps, quelques mousseurs, raclage quand on y pense, chacun lave à sa façon. Jamais de diagnostic, jamais pensé à une coupure d'eau.",
+    "answers": {
+      "art_q01": "releve_occasionnel",
+      "art_q02": "compteur_propre",
+      "art_q03": "jamais",
+      "art_q04": "parfois",
+      "art_q05": "variable",
+      "art_q06": "partiel",
+      "art_q07": "sans_eau_perdue",
+      "art_q08": "non_exige",
+      "art_q09": "pas_exige",
+      "art_q10": "non_concerne",
+      "art_q11": "jamais_pense",
+      "art_q12": "non"
+    }
+  },
+  {
+    "id": "artisan_avance",
+    "nom": "Boulangerie lauréate d'un éco-défi, pratiques pilotées",
+    "description": "Boulangerie-pâtisserie de douze salariés, deux fois lauréate de l'éco-défi de sa CMA. Sous-compteur sur le laboratoire, relevé hebdomadaire et contrôle des fuites, diagnostic CMA de moins de deux ans suivi, nettoyage à sec affiché et suivi, plonge au lave-batterie, débits vérifiés chaque année, froid à air, séparateur entretenu sous contrat, convention de déversement signée, camionnette lavée à l'eau de pluie, plan écrit en cas de coupure, témoigne aux réunions de la CMA.",
+    "answers": {
+      "art_q01": "releve_et_fuites",
+      "art_q02": "sous_compteur_labo",
+      "art_q03": "recent",
+      "art_q04": "systematique_consigne",
+      "art_q05": "bac_forme",
+      "art_q06": "complet_controle",
+      "art_q07": "sans_eau_perdue",
+      "art_q08": "contrat_suivi",
+      "art_q09": "autorisation",
+      "art_q10": "eau_pluie",
+      "art_q11": "plan_ecrit",
+      "art_q12": "moteur"
+    }
+  },
+  {
+    "id": "vendeuse_ne_sait_pas",
+    "nom": "Vendeuse qui répond pour l'artisan",
+    "description": "Vendeuse d'une boulangerie qui remplit le questionnaire pendant que le patron est au fournil. Sait seulement que l'eau est suivie à la facture ; ne connaît ni les équipements du laboratoire, ni le séparateur, ni les démarches engagées.",
+    "answers": {
+      "art_q01": "facture",
+      "art_q02": "__skip__",
+      "art_q03": "__skip__",
+      "art_q04": "__skip__",
+      "art_q05": "__skip__",
+      "art_q06": "__skip__",
+      "art_q07": "__skip__",
+      "art_q08": "__skip__",
+      "art_q09": "__skip__",
+      "art_q10": "__skip__",
+      "art_q11": "__skip__",
+      "art_q12": "__skip__"
+    }
+  },
+  {
+    "id": "charcuterie_urbaine_conforme",
+    "nom": "Charcuterie urbaine en règle sur ses rejets, rien au-delà",
+    "description": "Charcuterie de 25 salariés dans une grande ville, avec autorisation de déversement et séparateur entretenu sous contrat parce que le règlement d'assainissement l'impose. Raclage systématique et plonge au bac, robinets équipés, mais une vieille cellule de refroidissement à eau perdue. Relève le compteur de temps en temps, jamais de diagnostic, sait quoi arrêter en cas de coupure. Camion de livraison lavé dans la cour à l'eau du réseau.",
+    "answers": {
+      "art_q01": "releve_occasionnel",
+      "art_q02": "compteur_propre",
+      "art_q03": "jamais",
+      "art_q04": "systematique",
+      "art_q05": "bac",
+      "art_q06": "complet",
+      "art_q07": "eau_perdue",
+      "art_q08": "contrat_suivi",
+      "art_q09": "autorisation",
+      "art_q10": "reseau",
+      "art_q11": "consignes",
+      "art_q12": "non"
+    }
+  }
+]

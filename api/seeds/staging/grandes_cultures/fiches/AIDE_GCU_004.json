@@ -1,0 +1,110 @@
+{
+  "id": "AIDE_GCU_004",
+  "nom": "Déconnexion des retenues existantes (agence de l'eau Adour-Garonne, délibération DL/CA/26-18)",
+  "financeur": "Agence de l'eau Adour-Garonne",
+  "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792084779/Noe%20assets/logos/AIDE_GCU_004.png",
+  "type": "subvention",
+  "taux": "70 % des travaux de déconnexion sur les territoires de démarches territoriales de gestion quantitative, 50 % dans les autres cas. Animation de la démarche de déconnexion : 70 % sur tous les territoires.",
+  "plafond": null,
+  "description": "Aide de l'agence de l'eau Adour-Garonne aux travaux de déconnexion de retenues et à l'animation de la démarche de déconnexion, adoptée par son conseil d'administration le 12 mars 2026 dans le cadre du 12e programme (2025-2030). Elle ne porte que sur des retenues existantes, celles que des agriculteurs propriétaires font déconnecter : la création d'une nouvelle infrastructure de stockage est aidée par l'agence à d'autres conditions, dont son intégration dans un PTGE validé. Dans le bassin Adour-Garonne, les services de l'État considèrent comme déconnectée une retenue qui n'est pas liée au réseau hydrographique et hydrogéologique pendant la période de basses eaux, une retenue de substitution dont le remplissage est interdit en basses eaux, ou une retenue collinaire remplie uniquement par ruissellement et eaux de drainage. Les prélèvements dans une retenue déconnectée ne comptent pas parmi les prélèvements directs de la période de basses eaux, puisque son remplissage se fait en dehors de cette période : l'eau pompée l'été dans la retenue a été stockée en hautes eaux.",
+  "eligibilite": "Porteurs de travaux de déconnexion de retenues dans le bassin Adour-Garonne, quel que soit le type de maîtrise d'ouvrage, à trois conditions : une supervision globale du programme de déconnexion par une collectivité territoriale ou un groupement de collectivités en lien avec les services de l'État, ou par ces services directement ; des agriculteurs propriétaires des retenues engagés dans une démarche de transition agroécologique évaluée par un diagnostic préalable ; des volumes de prélèvement autorisés régularisés dans le Plan annuel de répartition (PAR), dans le respect de l'Autorisation unique de prélèvement (AUP).",
+  "categories": [
+    "valoriser_reut_eaux_non_conventionnelles"
+  ],
+  "secteurs": [
+    "grandes_cultures"
+  ],
+  "departements": [],
+  "agences": [
+    "AEAG"
+  ],
+  "mesures": [
+    "ACT_GCU_008"
+  ],
+  "infos_complementaires": [
+    {
+      "type": "avertissement",
+      "texte": "Une retenue ne peut pas être aidée hors d'un programme de déconnexion supervisé par une collectivité territoriale, un groupement de collectivités ou les services de l'État, et l'agriculteur propriétaire doit être engagé dans une démarche de transition agroécologique évaluée par un diagnostic préalable. Rapprochez-vous de la structure qui anime la gestion de l'eau sur votre territoire."
+    },
+    {
+      "type": "avertissement",
+      "texte": "La délibération de mars 2026 ouvre l'aide quel que soit le type de maîtrise d'ouvrage. La délibération générale « Gestion quantitative de la ressource et économies d'eau » (ligne 21, consolidée en juillet 2026) indique toujours que les études et travaux sur des retenues individuelles, dont la déconnexion, doivent s'intégrer dans une démarche collective à une échelle hydrographique cohérente et être portés par une collectivité territoriale. Vérifiez auprès de l'agence qui peut porter le dossier sur votre territoire."
+    },
+    {
+      "type": "info",
+      "texte": "Les volumes de prélèvement autorisés de la retenue déconnectée doivent faire l'objet d'une régularisation réglementaire traduite dans le Plan annuel de répartition (PAR), dans le respect de l'Autorisation unique de prélèvement (AUP)."
+    },
+    {
+      "type": "info",
+      "texte": "Dispositif récent : l'agence prévoit un bilan global de ces opérations au second semestre 2027, présenté à son conseil d'administration pour évaluation (délibération du 12 mars 2026)."
+    },
+    {
+      "type": "ressource",
+      "texte": "Délibération DL/CA/26-18 « Modalités d'accompagnement des projets de déconnexion de retenues » (PDF)",
+      "lien": "https://eau-grandsudouest.fr/sites/default/files/2026-08/18-26-deconnexion-des-retenues.pdf"
+    },
+    {
+      "type": "ressource",
+      "texte": "Note méthodologique de la DREAL Occitanie sur les volumes prélevables du bassin Adour-Garonne, avec la définition d'une retenue déconnectée (PDF)",
+      "lien": "https://www.occitanie.developpement-durable.gouv.fr/IMG/pdf/note_methodologique.pdf"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "nom, financeur, description (objet, date d'adoption)",
+      "url": "https://eau-grandsudouest.fr/sites/default/files/2026-08/18-26-deconnexion-des-retenues.pdf",
+      "date": "2026-10-15",
+      "extrait": "Conseil d'Administration Séance du 12 mars 2026 Délibération n° DL/CA/26-18. MODALITES D'ACCOMPAGNEMENT DES PROJETS DE DECONNEXION DE RETENUES. [...] Vu la délibération n° DL/CA/24-48 adoptant le 12ème programme pluriannuel d'intervention de l'agence de l'eau Adour-Garonne pour les années 2025 à 2030"
+    },
+    {
+      "champ": "eligibilite, description (retenues existantes des agriculteurs propriétaires), infos_complementaires (supervision, transition agroécologique, PAR et AUP)",
+      "url": "https://eau-grandsudouest.fr/sites/default/files/2026-08/18-26-deconnexion-des-retenues.pdf",
+      "date": "2026-10-15",
+      "extrait": "Article 1 : L'agence pourra apporter des aides aux porteurs de travaux de déconnexion de retenues dans la mesure où les conditions suivantes sont satisfaites et ce quel que soit le type de maîtrise d'ouvrage : une supervision globale du programme de déconnexion est assurée par une collectivité territoriale ou un groupement de collectivités en lien avec les services de l'Etat voire directement par ces derniers, les agriculteurs propriétaires des retenues à déconnecter sont engagés dans une démarche de transition agroécologique évaluée par un diagnostic préalable, les volumes de prélèvement autorisés font l'objet d'une régularisation réglementaire traduite dans le Plan Annuel de Répartition (PAR) dans le respect de l'Autorisation Unique de Prélèvement (AUP)."
+    },
+    {
+      "champ": "taux, description (animation)",
+      "url": "https://eau-grandsudouest.fr/sites/default/files/2026-08/18-26-deconnexion-des-retenues.pdf",
+      "date": "2026-10-15",
+      "extrait": "Article 2 : Les taux d'aide pour ces travaux de déconnexion sont de 70% sur les territoires de démarches territoriales de gestion quantitative, et de 50% dans les autres cas. Pour l'animation de la démarche de déconnexion, le taux d'aide est de 70% pour tous les territoires."
+    },
+    {
+      "champ": "infos_complementaires (bilan 2027)",
+      "url": "https://eau-grandsudouest.fr/sites/default/files/2026-08/18-26-deconnexion-des-retenues.pdf",
+      "date": "2026-10-15",
+      "extrait": "Article 3 : Un bilan global de ces opérations de déconnexion sera effectué au second semestre de 2027 et présenté devant le conseil d'administration afin d'en réaliser une évaluation."
+    },
+    {
+      "champ": "description (définition d'une retenue déconnectée), mesures (ACT_GCU_008)",
+      "url": "https://www.occitanie.developpement-durable.gouv.fr/IMG/pdf/note_methodologique.pdf",
+      "date": "2026-10-15",
+      "extrait": "Retenue déconnectée, concerne : les retenues qui ne sont pas liées au réseau hydrographique et hydrogéologique auquel elles se rapportent pendant la période de basses eaux ; les retenues de substitution : il s'agit d'ouvrages artificiels permettant de substituer des volumes prélevés en période de basses eaux par des volumes prélevés en période de hautes eaux. [...] Le remplissage est interdit en période de basses eaux ; les retenues collinaires remplies uniquement par ruissellement et eaux de drainage. Les retenues qui ne répondent à aucun des critères ci-dessus sont considérées comme connectées au milieu naturel."
+    },
+    {
+      "champ": "description (prélèvements hors basses eaux), mesures (ACT_GCU_008)",
+      "url": "https://www.occitanie.developpement-durable.gouv.fr/IMG/pdf/note_methodologique.pdf",
+      "date": "2026-10-15",
+      "extrait": "La notion de « prélèvements directs » fait référence aux prélèvements dans le compartiment des cours d'eau et nappe d'accompagnement pendant la période de basses eaux ; les prélèvements dans les retenues déconnectées en sont exclus puisque le remplissage de ces dernières s'effectue en-dehors de la période de basses eaux."
+    },
+    {
+      "champ": "mesures (ACT_GCU_008), description (retenues existantes, conditions de la création de stockage)",
+      "url": "https://eau-grandsudouest.fr/sites/default/files/2026-08/56-24_l21_gestion_quantitative_12ieme_adapteecvm_0.pdf",
+      "date": "2026-10-15",
+      "extrait": "Objectif opérationnel 4.4 : Réduire la pression des prélèvements, notamment en période d'étiage, en les déplaçant vers une ressource moins sensible ou en les compensant via des actions de type : Optimisation/aménagement des ouvrages agricoles existants dans le cadre de démarches concertées de gestion quantitative conduites avec l'ensemble des acteurs du territoire ; Création de nouvelles infrastructures de stockage dans la mesure où elles sont intégrées dans un PTGE validé et approuvé par la CLE du SAGE lorsqu'elle existe."
+    },
+    {
+      "champ": "infos_complementaires (portage par une collectivité dans la ligne 21), mesures (ACT_GCU_008 : la déconnexion parmi les travaux sur retenues individuelles)",
+      "url": "https://eau-grandsudouest.fr/sites/default/files/2026-08/56-24_l21_gestion_quantitative_12ieme_adapteecvm_0.pdf",
+      "date": "2026-10-15",
+      "extrait": "Délibération n° DL/CA/24-56, consolidée le 3 juillet 2025 par la délibération n° DL/CA/25-22, le 2 juillet 2026 par la délibération n° DL/CA/26-56 [...] Article 24 : Conditions d'éligibilité. Les études et travaux sur des retenues individuelles (à titre d'exemple : déconnexion, mobilisation des volumes non utilisés…) doivent être intégrés dans une démarche collective à une échelle hydrographique cohérente et doivent être portés par une collectivité territoriale."
+    },
+    {
+      "champ": "logo_url",
+      "url": "https://eau-grandsudouest.fr/themes/custom/adour/logo.svg",
+      "date": "2026-10-15",
+      "extrait": "Logo du site de l'agence (alt « Eau Grand Sud-Ouest, agence de l'eau Adour-Garonne »), en-tête de https://eau-grandsudouest.fr/"
+    }
+  ],
+  "date_maj": "2026-10-15"
+}

@@ -1,0 +1,90 @@
+{
+  "id": "PREST_VIA_008",
+  "nom": "Dalkia Froid Solutions",
+  "type": "installateur",
+  "logo_url": null,
+  "siret": "06620112000848",
+  "description": "Filiale de spécialité de Dalkia (groupe EDF), dont le siège est à Verrières-en-Anjou (49), qui conçoit, installe et maintient des installations frigorifiques industrielles à partir d'un réseau de 71 agences en France. Dans la viande, elle a installé chez Maître Jacques à Rennes (préparation de produits élaborés de boucherie) une centrale à l'ammoniac avec deux aéroréfrigérants adiabatiques, une production d'eau glacée de 400 kW pour la Charcuterie du Moulin (72) et des séchoirs pour les salaisons Fernand Dussert (58) ; pour un entrepôt de surgelés à Vannes, elle a conçu et installé une production frigorifique dont le condenseur adiabatique est présenté comme limitant la consommation d'eau. Les demandes de devis se font par le formulaire de contact du site.",
+  "expertises": [
+    "Installations frigorifiques industrielles",
+    "Aéroréfrigérants et condenseurs adiabatiques",
+    "Production d'eau glacée",
+    "Maintenance d'installations frigorifiques"
+  ],
+  "categories": [
+    "ameliorer_efficacite_hydrique"
+  ],
+  "secteurs": ["industrie_viande"],
+  "departements": [],
+  "mesures": [
+    { "id": "ACT_VIA_004", "roles": ["travaux"] }
+  ],
+  "contacts": [
+    { "type": "site_internet", "value": "https://www.dalkiafroidsolutions.com" },
+    { "type": "adresse", "value": "Rue Fabien Cesbron, Saint-Sylvain d'Anjou, 49484 Verrières-en-Anjou" }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, type (activité 33.20B), contacts (adresse du siège)",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Dalkia%20Froid%20Solutions&departement=49",
+      "date": "2026-09-24",
+      "extrait": "DALKIA FROID SOLUTIONS, siren 066201120, siret 06620112000848, siege, SAINT SYLVAIN D'ANJOU RUE FABIEN CESBRON 49112 VERRIERES-EN-ANJOU, activite_principale 33.20B, etat_administratif A, 67 établissements ouverts"
+    },
+    {
+      "champ": "contacts (adresse, site internet), siret",
+      "url": "https://www.dalkiafroidsolutions.com/mentions-legales",
+      "date": "2026-09-24",
+      "extrait": "Il est édité par Dalkia Froid Solutions, Société par action simplifiée au capital de 334 710 euros, immatriculée au RCS d'Angers sous le numéro 066 201 120, dont le siège social est rue Fabien Cesbron, Saint-Sylvain d'Anjou, 49484 Verrières-en-Anjou, France."
+    },
+    {
+      "champ": "description (filiale Dalkia, groupe EDF)",
+      "url": "https://www.dalkiafroidsolutions.com/dalkia-froid-solutions-partenaire-performances-energetiques",
+      "date": "2026-09-24",
+      "extrait": "Filiale de spécialité de Dalkia (groupe EDF) depuis 2015, nous intervenons dans les domaines du froid, du génie climatique, de la cuisine professionnelle et de la boulangerie."
+    },
+    {
+      "champ": "description (conception, installation, maintenance, 71 agences), departements, expertises (installations frigorifiques industrielles, maintenance)",
+      "url": "https://www.dalkiafroidsolutions.com/equipements-et-installations-en-froid-industriel",
+      "date": "2026-09-24",
+      "extrait": "nous sélectionnons, intégrons et maintenons des installations frigorifiques [...] Nos 71 agences, réparties sur le territoire français, nous permettent d'être réactifs (astreinte 4 h) [...] Définition des besoins en froid : pré-étude / chiffrage et étude d'exécution Travaux et mise en service : production frigorifique sur-mesure en salle des machines ou en container, skid, eau glacée"
+    },
+    {
+      "champ": "secteurs (viandes, poissons)",
+      "url": "https://www.dalkiafroidsolutions.com/notre-expertise-detude-pour-l-agroalimentaire",
+      "date": "2026-09-24",
+      "extrait": "Nous proposons un accompagnement complet et une mise en place d'installations frigorifiques pour les différentes filières de l'agroalimentaire : viandes et volailles, poissons, plats cuisinés"
+    },
+    {
+      "champ": "description (Maître Jacques), expertises (aéroréfrigérants adiabatiques), mesures (ACT_VIA_004 travaux)",
+      "url": "https://www.dalkiafroidsolutions.com/installation-frigorifique-evolutive-conteneur-amenage",
+      "date": "2026-09-24",
+      "extrait": "Située à Rennes (35), cette entreprise spécialisée dans la préparation de produits élaborés de boucherie a choisi Dalkia Froid Solutions pour réaliser une installation frigorifique compacte en extérieur [...] Dimensionnement d'une centrale NH 3 au MPG [...] Trois compresseurs à vis Deux aéroréfrigérants adiabatiques"
+    },
+    {
+      "champ": "description (entrepôt de Vannes, condenseur adiabatique et eau), expertises (condenseurs adiabatiques), mesures (ACT_VIA_004 travaux)",
+      "url": "https://www.dalkiafroidsolutions.com/production-frigorifique-performante-au-nh3-pour-un-entrepot-logistique",
+      "date": "2026-09-24",
+      "extrait": "Rouxel stockage [...] s'est doté d'un entrepôt de stockage entièrement dédié aux produits alimentaires surgelés, à Vannes. [...] l'entreprise a fait appel à Dalkia Froid Solutions pour concevoir et installer une production frigorifique adaptée aux besoins du site. [...] Le choix d'un condenseur adiabatique contribue à limiter la consommation d'eau et optimiser les performances de l'installation, en particulier pendant la période estivale."
+    },
+    {
+      "champ": "description (Charcuterie du Moulin), expertises (production d'eau glacée)",
+      "url": "https://www.dalkiafroidsolutions.com/une-nouvelle-installation-de-froid-pour-la-charcuterie-du-moulin",
+      "date": "2026-09-24",
+      "extrait": "La Charcuterie du Moulin a fait confiance à Dalkia Froid Solutions pour l'installation frigorifique de sa nouvelle usine près de la Ferté-Bernard, dans le département de la Sarthe (72). [...] la nouvelle production d'eau glacée (-8/4°C) possède une puissance frigorifique de 400kW."
+    },
+    {
+      "champ": "description (salaisons Fernand Dussert)",
+      "url": "https://www.dalkiafroidsolutions.com/sechoirs-et-etuve-sur-process-de-salaisons",
+      "date": "2026-09-24",
+      "extrait": "Située à Arleuf (58), cette charcuterie a choisi Dalkia Froid Solutions pour augmenter les capacités de son process par l'installation de séchoirs et d'une étuve."
+    },
+    {
+      "champ": "description (demande de devis par formulaire)",
+      "url": "https://www.dalkiafroidsolutions.com/contact",
+      "date": "2026-09-24",
+      "extrait": "Thème Demander un devis Contacter un expert Solliciter un sponsoring Proposer ses services Autre"
+    }
+  ],
+  "date_maj": "2026-09-24"
+}

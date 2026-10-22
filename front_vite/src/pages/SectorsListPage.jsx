@@ -54,7 +54,7 @@ function ecartColor(ecart) {
 }
 
 function ecartLabel(ecart) {
-  if (ecart === null) return '—';
+  if (ecart === null) return '-';
   if (ecart === 0)  return '=';
   return ecart > 0 ? `+${ecart}` : `${ecart}`;
 }
@@ -63,7 +63,7 @@ function ecartLabel(ecart) {
 
 function ScoreChip({ value, muted = false }) {
   if (value === null || value === undefined) {
-    return <span className="text-xs text-on-surface-var">—</span>;
+    return <span className="text-xs text-on-surface-var">-</span>;
   }
   const c = SCORE_COLORS[value];
   return (
@@ -218,10 +218,10 @@ function StatsBar({ sectors }) {
   const disagree = withData.length - agree;
   const manualAvg = withData.length
     ? (withData.reduce((sum, s) => sum + s.operations.quantity.manual_score, 0) / withData.length).toFixed(1)
-    : '—';
+    : '-';
   const cdpAvg = withData.length
     ? (withData.reduce((sum, s) => sum + s.operations.quantity.cdp_score, 0) / withData.length).toFixed(1)
-    : '—';
+    : '-';
 
   return (
     <div className="grid grid-cols-4 gap-3 mb-6">
@@ -323,7 +323,7 @@ export default function SectorsListPage() {
         <div className="mb-6">
           <h1 className="text-2xl font-bold text-primary mb-1">Référentiel sectoriel</h1>
           <p className="text-sm text-on-surface-var">
-            Comparaison des scores <strong>opérations / quantité</strong> — manuel vs CDP
+            Comparaison des scores <strong>opérations / quantité</strong>, manuel vs CDP
           </p>
         </div>
 
@@ -401,7 +401,7 @@ export default function SectorsListPage() {
                     colSpan={4}
                     style={{ borderLeft: '1px solid #dde0ec' }}
                   >
-                    Opérations — Quantité
+                    Opérations / Quantité
                   </th>
                   <th className="text-center px-4 py-3 text-xs font-semibold text-on-surface-var uppercase tracking-wider">
                     Statut
@@ -460,11 +460,11 @@ export default function SectorsListPage() {
                       <td className="px-4 py-3 text-center">
                         <EcartBadge ecart={ecart} />
                       </td>
-                      {/* Final — inline editor */}
+                      {/* Final: inline editor */}
                       <td className="px-3 py-3 text-center" style={{ borderLeft: '1px solid #eef0f8' }}>
                         <InlineFinalScore sectorId={s._id} value={final} updateLocal={updateLocal} />
                       </td>
-                      {/* Statut — inline reviewed toggle */}
+                      {/* Statut: inline reviewed toggle */}
                       <td className="px-4 py-3 text-center">
                         <InlineReviewedToggle sectorId={s._id} reviewed={s.reviewed} toCheck={s.to_check} updateLocal={updateLocal} />
                       </td>

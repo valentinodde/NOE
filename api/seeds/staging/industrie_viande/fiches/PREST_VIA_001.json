@@ -1,0 +1,55 @@
+{
+  "id": "PREST_VIA_001",
+  "nom": "Hypred (groupe Kersia)",
+  "type": "equipementier",
+  "logo_url": null,
+  "siret": "33050741900050",
+  "description": "Fabricant de savons, détergents et produits d'entretien dont le siège et le site de production sont à Dinard (Ille-et-Vilaine), l'une des sociétés qui ont pris le nom unique de Kersia. Un représentant de Kersia a présenté les techniques de nettoyage permettant de réduire la consommation d'eau et d'énergie lors d'une journée technique de l'IFIP consacrée à l'abattage-découpe et à la transformation de viande.",
+  "expertises": [
+    "Fabrication de détergents"
+  ],
+  "categories": [
+    "sensibiliser_former"
+  ],
+  "secteurs": ["industrie_viande"],
+  "departements": ["35"],
+  "mesures": [],
+  "contacts": [
+    { "type": "site_internet", "value": "https://www.kersia-group.com/" },
+    { "type": "adresse", "value": "55 boulevard Jules Verger, 35800 Dinard" }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse, departements, type",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Hypred&departement=35",
+      "date": "2026-09-24",
+      "extrait": "HYPRED, siret 33050741900050, siège, 55 BOULEVARD JULES VERGER 35800 DINARD, activité 20.41Z, état administratif A"
+    },
+    {
+      "champ": "type, description, expertises",
+      "url": "https://industrie.usinenouvelle.com/fiche/etablissement/hypred-47783244",
+      "date": "2026-09-24",
+      "extrait": "HYPRED DINARD 35800 | Hygiène agroalimentaire : produits de nettoyage des matériels de traite, des bâtiments, des circuits thermiques. Produits de soins des animaux. | Siège social | Site de production [...] Code NAF 2041Z - Fabrication de savons, détergents et produits d'entretien"
+    },
+    {
+      "champ": "nom, description (Hypred au sein de Kersia)",
+      "url": "https://www.processalimentaire.com/qualite/kersia-nouvel-acteur-du-nettoyage-et-de-la-desinfection",
+      "date": "2026-09-24",
+      "extrait": "A la suite d’un rassemblement progressif, Hypred, Anti-Germ, Medentech, LCB food safety et G3 prennent le nom unique de Kersia."
+    },
+    {
+      "champ": "contacts (site_internet)",
+      "url": "https://www.bretagnecommerceinternational.com/adhrent/hypred/",
+      "date": "2026-09-24",
+      "extrait": "HYPRED | Déchets, nettoyage, désinfection | Elevage autres (ovin, caprin, cunicole…) | 55 BD JULES VERGER | BP 10180 | 35803 DINARD CEDEX | https://www.kersia-group.com/"
+    },
+    {
+      "champ": "description, categories",
+      "url": "https://ifip.asso.fr/actualites/comment-reduire-les-consommations-deau-et-denergie-en-abattage-decoupe-et-transformation-de-viande/",
+      "date": "2026-09-24",
+      "extrait": "Journée Technique Ifip du Mardi 8 Mars 2022 [...] Techniques de nettoyage permettant de réduire la consommation d’eau et d’énergie, Benoît Estel, Chef de Marché Food, Kersia"
+    }
+  ],
+  "date_maj": "2026-09-24"
+}

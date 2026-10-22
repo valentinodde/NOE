@@ -1,0 +1,99 @@
+{
+  "id": "PREST_HUI_001",
+  "nom": "Alfa Laval France & North West Africa",
+  "type": "installateur",
+  "logo_url": null,
+  "siret": "78826245900175",
+  "description": "Filiale commerciale française, basée à Saint-Priest, du groupe suédois Alfa Laval ; aucune source consultée n'indique de fabrication en France. Pour les moulins, son site français présente des laveuses à olives dont l'eau est recyclée après décantation avec une douche d'eau propre, et des décanteurs deux phases qui ne produisent pas d'eaux noires ; sa brochure française (2014) et le site américain du groupe présentent aussi l'unité BlueVap, qui traite les margines avant rejet en station d'épuration en les séparant en eau claire et en concentré. Pour les raffineries d'huiles, les systèmes de vide et d'utilités sont présentés sur le site américain du groupe : vide à eau glacée ou à condensation par glace, tour de refroidissement en option, pour réduire l'eau consommée, sans mention explicite de circuit fermé ni de condenseurs d'hexane. L'accès se fait par formulaire de contact sur le site.",
+  "expertises": [
+    "Laveuses à olives à eau recyclée",
+    "Décanteurs deux phases",
+    "Traitement des margines BlueVap",
+    "Systèmes de vide de raffinage"
+  ],
+  "categories": [
+    "ameliorer_efficacite_hydrique",
+    "changer_process_pratiques",
+    "agir_rejets_qualite"
+  ],
+  "secteurs": [
+    "industrie_huiles"
+  ],
+  "departements": [],
+  "mesures": [
+    {
+      "id": "ACT_HUI_001",
+      "roles": [
+        "materiel"
+      ]
+    },
+    {
+      "id": "ACT_HUI_003",
+      "roles": [
+        "materiel"
+      ]
+    },
+    {
+      "id": "ACT_HUI_002",
+      "roles": [
+        "materiel"
+      ]
+    },
+    {
+      "id": "ACT_HUI_007",
+      "roles": [
+        "materiel"
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "type": "site_internet",
+      "value": "https://www.alfalaval.fr"
+    },
+    {
+      "type": "adresse",
+      "value": "Immeuble Ilena Park, 117 allée des Parcs, 69800 Saint-Priest"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse, type",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Alfa%20Laval%20France&departement=69",
+      "date": "2026-09-27",
+      "extrait": "ALFA LAVAL FRANCE & NORTH WEST AFRICA SAS, siret 78826245900175, siège, IMMEUBLE ILENA PARK 117 ALLEE DES PARCS 69800 SAINT-PRIEST, activité 46.69B, état A"
+    },
+    {
+      "champ": "expertises, mesures (ACT_HUI_003), description, site_internet",
+      "url": "https://www.alfalaval.fr/produits/solutions-de-process/solutions-pour-huile-dolive/equipements-pour-la-fabrication-d-huile-d-olive/",
+      "date": "2026-09-27",
+      "extrait": "La nouvelle centrifugeuse à deux phases Alfa Laval Sigma 6 [...] consomme beaucoup moins d'eau et d'énergie que les décanteurs triphasés et ne produit pas d'eaux noires"
+    },
+    {
+      "champ": "expertises, mesures (ACT_HUI_001)",
+      "url": "https://www.alfalaval.fr/produits/solutions-de-process/solutions-pour-huile-dolive/laveuses/",
+      "date": "2026-09-27",
+      "extrait": "L'eau de lavage est recyclée après la décantation, et l'eau propre est constamment mélangée dans des proportions prédéfinies. L'eau propre correspondant généralement à 10% du poids des olives est constamment alimentée par la douche de rinçage sur l'écran vibrant."
+    },
+    {
+      "champ": "expertises, mesures (ACT_HUI_007), description",
+      "url": "https://www.alfalaval.fr/globalassets/documents/local/france/industries/food-and-water/alfa-laval---solutions-de-production-dhuile-dolive-fr.pdf",
+      "date": "2026-09-27",
+      "extrait": "PFT00531FR 1404. L'installation compacte BlueVap pré-assemblée transforme les margines en 80% d'eau de process claire qui peut sans risque être rejetée dans la station d'épuration locale, et 20% de concentré [...] BlueVap réduit la charge polluante (DCO) de 99%. Alfa Laval et Atmosphera sont des marques déposées, propriété d'Alfa Laval Corporate AB, Suède."
+    },
+    {
+      "champ": "expertises, mesures (ACT_HUI_007), description",
+      "url": "https://www.alfalaval.us/industries/food-dairy-and-beverage/food-processing/fat-and-oil-processing/olive-oil-processing/waste-handling/",
+      "date": "2026-09-27",
+      "extrait": "Page actuelle du groupe sur BlueVap : turns waste water from olive processing in to clear water that sewage plants will accept, and a concentrate that can be mixed with husk for disposal ; can process as much as 2,500 litres of waste water hourly"
+    },
+    {
+      "champ": "expertises, mesures (ACT_HUI_002), description",
+      "url": "https://www.alfalaval.us/products/process-solutions/vegetable-oil-solutions/utility-process-systems/",
+      "date": "2026-09-27",
+      "extrait": "Optimized vacuum systems (e.g., chilled water or ice condensation), including Alfa Laval heat exchangers. Optional cooling tower supply [...] we develop tailored solutions that lower energy costs, reduce water usage, and minimize emissions"
+    }
+  ],
+  "date_maj": "2026-09-27"
+}

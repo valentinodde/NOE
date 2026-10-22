@@ -1,0 +1,78 @@
+{
+  "id": "PREST_HUI_009",
+  "nom": "ITERG",
+  "type": "organisme_technique",
+  "logo_url": null,
+  "siret": "77566488100122",
+  "description": "Centre technique industriel (CTI) des industries de corps gras et produits apparentés, basé à Canéjan (Gironde) et financé en partie par les cotisations interprofessionnelles de la filière des huiles et protéines végétales. Son unité Environnement réalise sur devis des diagnostics sur site industriel (bilan GES, diagnostics Bpifrance / ADEME « Décarbon'Action »), des analyses de cycle de vie et un accompagnement à l'optimisation des consommations d'énergie, d'eau et de matières premières ; elle a participé au projet de recherche ANR MINIMEAU (2018-2021) sur la minimisation des consommations d'eau en industrie agroalimentaire. La veille réglementaire environnement, qui couvre l'eau et les ICPE, est réservée aux adhérents.",
+  "expertises": [
+    "Diagnostic sur site industriel",
+    "Analyse de cycle de vie",
+    "Veille réglementaire eau et ICPE",
+    "Recherche sur la minimisation de l'eau"
+  ],
+  "categories": [
+    "suivre_comprendre_maitriser"
+  ],
+  "secteurs": ["industrie_huiles"],
+  "departements": [],
+  "mesures": [],
+  "contacts": [
+    { "type": "site_internet", "value": "https://iterg.com" },
+    { "type": "tel", "value": "05 56 36 00 44" },
+    { "type": "mail", "value": "iterg@iterg.com" },
+    { "type": "adresse", "value": "11 rue Gaspard Monge, ZA Pessac-Canéjan, CS 20428, 33612 Canéjan Cedex" }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=ITERG&departement=33",
+      "date": "2026-09-27",
+      "extrait": "ITERG, siret 77566488100122, siège, PARC INDUS BERSOL II 11 RUE GASPARD MONGE 33610 CANEJAN, activité 72.19Z, état administratif A"
+    },
+    {
+      "champ": "nom, type, description, departements",
+      "url": "https://iterg.com/a-propos/",
+      "date": "2026-09-27",
+      "extrait": "ITERG est le Centre Technique Industriel (CTI) des industries de corps gras et produits apparentés [...] Basé à Canéjan [...] ITERG reçoit des cotisations interprofessionnelles (CVO) de la filière des huiles et protéines végétales."
+    },
+    {
+      "champ": "contacts",
+      "url": "https://iterg.com/environnement-et-ecoconception/",
+      "date": "2026-09-27",
+      "extrait": "Contact 11 Rue Gaspard Monge ZA Pessac-Canéjan CS 20428, 33612 Canéjan CEDEX Tél. : 05 56 36 00 44 iterg@iterg.com"
+    },
+    {
+      "champ": "description, expertises, categories",
+      "url": "https://iterg.com/environnement-et-ecoconception/",
+      "date": "2026-09-27",
+      "extrait": "Réduire l'impact sur l'environnement de vos procédés : Optimisez vos consommations d'énergie, d'eau et de matières premières [...] Diagnostics sur site industriel [...] Réalisation de diagnostics BPIfrance/ ADEME « Décarbon'Action ». [...] Objet* Devis Demande de renseignements"
+    },
+    {
+      "champ": "description, expertises",
+      "url": "https://iterg.com/environnement-et-ecoconception/",
+      "date": "2026-09-27",
+      "extrait": "Minimisation des consommations d'eau. ITERG est associé au projet ANR MINIMEAU pour la minimisation des consommations d'eau dans les IAA, par le développement d'une approche intégrée associant empreinte eau et pinch massique."
+    },
+    {
+      "champ": "description",
+      "url": "https://minimeau.fr/",
+      "date": "2026-09-27",
+      "extrait": "Ce projet d'une durée de 4 ans (2018-2021) associe des partenaires académiques [...] plusieurs centres techniques (CTCPA, ITERG, ACTALIA, IFV)"
+    },
+    {
+      "champ": "description, expertises",
+      "url": "https://iterg.com/environnement-et-ecoconception/",
+      "date": "2026-09-27",
+      "extrait": "Veille réglementaire environnement. Elle sélectionne et commente les lois, décrets et arrêtés [...] Les domaines couverts sont : les ICPE, l'énergie [...] les émissions de GES, l'eau, les déchets"
+    },
+    {
+      "champ": "description",
+      "url": "https://iterg.com/audit-conseil/",
+      "date": "2026-09-27",
+      "extrait": "ITERG propose des produits documentaires réguliers dans le cadre de l'Adhésion. [...] Alertes réglementaires et bulletin de veille réglementaire environnement"
+    }
+  ],
+  "date_maj": "2026-09-27"
+}

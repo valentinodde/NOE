@@ -1,0 +1,69 @@
+{
+  "id": "PREST_VIA_005",
+  "nom": "Couédic Madoré Équipement",
+  "type": "equipementier",
+  "logo_url": null,
+  "siret": "34866581100025",
+  "description": "Fabricant d'équipements d'abattage et de découpe installé à Plémet (Côtes-d'Armor), qui conçoit dans son bureau d'études et fabrique dans son usine (chaudronnerie, serrurerie, mécanique) puis installe et met en service ses matériels, en France comme à l'international. Pour les abattoirs de porcins, il propose le transfert pneumatique des sous-produits (canon pour les suifs chauds et les matières stercoraires, aspiration des têtes, pattes et panses) et des tables et tapis de saignée avec récupération du sang en tanks ou en poches.",
+  "expertises": [
+    "Transfert pneumatique des sous-produits",
+    "Tables de saignée",
+    "Récupération du sang",
+    "Lignes d'abattage porcins"
+  ],
+  "categories": [
+    "changer_process_pratiques",
+    "agir_rejets_qualite"
+  ],
+  "secteurs": ["industrie_viande"],
+  "departements": [],
+  "mesures": [
+    { "id": "ACT_VIA_005", "roles": ["materiel"] },
+    { "id": "ACT_VIA_007", "roles": ["materiel"] }
+  ],
+  "contacts": [
+    { "type": "site_internet", "value": "https://www.couedic-madore.fr/" },
+    { "type": "tel", "value": "+33 2 96 66 30 30" },
+    { "type": "adresse", "value": "ZAE du Ridor, CS80100, 22210 Plémet" }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Couedic%20Madore%20Equipement&departement=22",
+      "date": "2026-09-24",
+      "extrait": "COUEDIC MADORE EQUIPEMENT, siret 34866581100025, siège, ZAE DU RIDOR 22210 PLEMET, activité 28.93Z, état administratif A"
+    },
+    {
+      "champ": "contacts",
+      "url": "https://www.couedic-madore.fr/contactez-nous/",
+      "date": "2026-09-24",
+      "extrait": "Appelez-nous au +33(0)2 96 66 30 30. ZAE du Ridor, CS80100, 22 210 PLEMET, France"
+    },
+    {
+      "champ": "type, description, departements",
+      "url": "https://www.couedic-madore.fr/couedic-madore-equipement/lentreprise/",
+      "date": "2026-09-24",
+      "extrait": "Couédic Madoré Equipement déménage dans sa nouvelle usine à Plemet. L'espace industriel façonne vos matériels avec sa complémentarité de métiers : méthode, chaudronnerie, serrurerie, mécanique de précision. Les équipes de techniciens de montage en capacité à régler et à mettre en service l'installation. Solutions industrielles globales adaptées à chaque situation en France comme à l'international"
+    },
+    {
+      "champ": "expertises, mesures (ACT_VIA_005)",
+      "url": "https://www.couedic-madore.fr/process-dabattage/abattage-porc/",
+      "date": "2026-09-24",
+      "extrait": "Le canon pneumatique est utilisé pour des produits compacts comme les suifs chauds et les matières stercoraires. L'autre procédé est l'aspiration qui permet de transporter des produits non liquides comme les têtes, pattes, des panses (tuyauteries jusqu'au diamètre 350mm)."
+    },
+    {
+      "champ": "expertises, mesures (ACT_VIA_005)",
+      "url": "https://www.couedic-madore.fr/nos-produits/",
+      "date": "2026-09-24",
+      "extrait": "Pour limiter les circulations de bacs sur roulettes dans les abattoirs et les découpes, [...] nous avons travaillé sur 2 systèmes de transport par air différents : le canon pneumatique [...] suifs chauds et les matières stercoraires ; l'aspiration [...] têtes, les pattes, les panses, les suifs froids"
+    },
+    {
+      "champ": "expertises, mesures (ACT_VIA_007)",
+      "url": "https://www.couedic-madore.fr/process-dabattage/abattage-porc/",
+      "date": "2026-09-24",
+      "extrait": "Nos tables et tapis de saignée permettent une bonne présentation des porcins au saigneur et une excellente récupération du sang. Pour la saignée au trocard, la récupération du sang peut se faire par lot dans des tanks ou individuellement dans des poches à sang."
+    }
+  ],
+  "date_maj": "2026-09-24"
+}

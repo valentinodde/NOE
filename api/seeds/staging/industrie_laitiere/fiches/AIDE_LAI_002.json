@@ -1,0 +1,126 @@
+{
+  "id": "AIDE_LAI_002",
+  "nom": "Réalisation d'installations de méthanisation (ADEME, dispositif 2026)",
+  "financeur": "ADEME",
+  "logo_url": null,
+  "type": "subvention",
+  "taux": "Forfait de subvention par unité de capacité de production annuelle : 45 €/MWh PCS (pouvoir calorifique supérieur) pour l'injection de biométhane. D'autres modalités de calcul s'appliquent aux projets atypiques ou innovants et aux stations d'épuration urbaines. Aucun montant 2026 n'est publié pour la cogénération.",
+  "plafond": "700 000 € pour un projet d'injection.",
+  "description": "Dispositif ouvert du 1er janvier au 31 décembre 2026. L'ADEME finance l'investissement dans une unité de méthanisation, après une étude de faisabilité favorable. Les équipements soutenus sont les unités de méthanisation avec injection de biométhane (production de biogaz, production de chaleur seule, épuration du biogaz en biométhane, injection dans le réseau public) et la valorisation énergétique du biogaz des stations d'épuration urbaines. La fiche entreprise du dispositif ajoute les unités avec cogénération de moins de 500 kWe. Pour une laiterie ou une fromagerie, c'est le guichet qui finance l'unité de méthanisation valorisant le lactosérum et les pertes de lait détournés du réseau d'effluents, à condition d'être maître d'ouvrage de cette unité.",
+  "eligibilite": "Entreprises, dont les entreprises des secteurs agricole et agroalimentaire, et associations. La fiche entreprise du dispositif indique toutes tailles d'entreprise, micro-entreprises comprises, et tous secteurs d'activité. Les particuliers et les porteurs de projets pouvant bénéficier du crédit d'impôt sont exclus. La réalisation d'une étude de faisabilité préalable est une condition d'éligibilité, et l'opération ne doit pas avoir commencé ni avoir donné lieu à un engagement ferme au moment du dépôt.",
+  "categories": [
+    "agir_rejets_qualite"
+  ],
+  "secteurs": [],
+  "departements": [
+    "01", "02", "03", "07", "09", "11", "12", "14", "15", "16", "17", "18",
+    "19", "21", "23", "24", "25", "26", "27", "28", "30", "31", "32", "33",
+    "34", "36", "37", "38", "39", "40", "41", "42", "43", "44", "45", "46",
+    "47", "48", "49", "50", "53", "58", "59", "60", "61", "62", "63", "64",
+    "65", "66", "69", "70", "71", "72", "73", "74", "75", "76", "77", "78",
+    "79", "80", "81", "82", "85", "86", "87", "89", "90", "91", "92", "93",
+    "94", "95", "2A", "2B", "971", "972", "973", "974", "976"
+  ],
+  "agences": [],
+  "mesures": [
+    "ACT_LAI_007"
+  ],
+  "infos_complementaires": [
+    {
+      "type": "avertissement",
+      "texte": "Le dispositif ferme le 31 décembre 2026. Un projet qui ne serait pas déposé avant cette date devra attendre la publication du dispositif de l'année suivante, dont les taux et les plafonds peuvent changer."
+    },
+    {
+      "type": "avertissement",
+      "texte": "L'opération ne doit pas avoir commencé ni avoir donné lieu à des engagements fermes, sous quelque forme que ce soit : marché signé, commande signée, devis accepté. Un devis accepté avant le dépôt du dossier fait perdre l'aide."
+    },
+    {
+      "type": "avertissement",
+      "texte": "Toutes les régions ne proposent pas ce dispositif : la Bretagne, le Grand Est et la Provence-Alpes-Côte d'Azur ne figurent pas dans la liste 2026, et les départements de ces trois régions sont donc exclus de cette fiche. Un projet qui s'y situe relève d'un autre guichet de l'ADEME : prenez contact avec la direction régionale avant d'engager le montage."
+    },
+    {
+      "type": "avertissement",
+      "texte": "Aucune des sources consultées ne dit qui perçoit l'aide lorsque l'unité de méthanisation et le producteur du substrat sont deux entreprises différentes. Lecture à confirmer auprès de la direction régionale de l'ADEME : l'aide portant sur les équipements de l'unité, elle reviendrait au maître d'ouvrage de l'installation, et un atelier laitier qui se contente de livrer son lactosérum à une unité appartenant à un tiers ne toucherait rien, même s'il tire le bénéfice de l'opération sur ses effluents et sa redevance."
+    },
+    {
+      "type": "avertissement",
+      "texte": "Les sources 2026 ne publient de forfait que pour l'injection de biométhane. Une fromagerie qui viserait une cogénération ne trouve aucun montant 2026 : les 95 €/MWh PCI plafonnés à 200 000 € que l'on lit encore en ligne se rattachent à une version antérieure du dispositif, qui affichait aussi 40 €/MWh PCS et 600 000 € pour l'injection. À faire confirmer avant tout chiffrage."
+    },
+    {
+      "type": "info",
+      "texte": "Les sources divergent sur les bénéficiaires. La fiche Aides-territoires du dispositif 2026 ne liste que des personnes publiques (commune, intercommunalité, département, établissement public, entreprise publique locale), mais cette plateforme s'adresse aux collectivités et affiche la même liste sur d'autres dispositifs ADEME ouverts aux entreprises. Les sources destinées aux entreprises sont concordantes : l'aide est à destination des entreprises, dont agricole et agroalimentaire. Le point est donc tranché en faveur de l'éligibilité des entreprises privées. La situation des collectivités, elle, reste incertaine : une source les cite comme bénéficiaires, une autre renvoie celles qui disposent d'un dispositif spécifique vers ce dernier."
+    },
+    {
+      "type": "info",
+      "texte": "L'étude de faisabilité préalable est une condition d'éligibilité, et l'ADEME la finance par un dispositif distinct : Études préalables à la construction d'une installation de méthanisation, jusqu'à 70 % du coût de l'étude dans la limite de 100 000 €, ouvert aux entreprises du secteur agricole et des industries agroalimentaires. Sa liste de régions est plus large que celle de l'aide à l'investissement et inclut la Bretagne. Les études de faisabilité doivent être réalisées par un bureau d'études certifié Qualimétha ou équivalent.",
+      "lien": "https://mission-transition-ecologique.beta.gouv.fr/aides-entreprise/etude-methanisation",
+      "lien_label": "Dispositif Étude Méthanisation de l'ADEME"
+    },
+    {
+      "type": "info",
+      "texte": "La démarche commence par une vérification d'éligibilité à partir du numéro SIRET, puis par la création d'un compte ADEME pour déposer le dossier (informations administratives, description du projet, détails techniques et financiers). Si la demande est acceptée, l'ADEME adresse un contrat de financement précisant le montant maximal, les conditions et les modalités de versement. La liste de pièces publiée pour une version antérieure du dispositif, à prendre comme indicative, comprenait l'étude de faisabilité ou le prédiagnostic, le devis du constructeur, la situation géographique du site et de la zone d'épandage, le récépissé de demande ICPE ou le permis de construire, le schéma de concept de l'unité, le bilan gaz à effet de serre et un RIB."
+    },
+    {
+      "type": "ressource",
+      "texte": "Fiche du dispositif Investissement Méthanisation sur Mission Transition écologique, le service public de l'ADEME pour les aides aux entreprises (vérification d'éligibilité par SIRET)",
+      "lien": "https://mission-transition-ecologique.beta.gouv.fr/aides-entreprise/investissement-methanisation"
+    },
+    {
+      "type": "ressource",
+      "texte": "Fiche du dispositif sur Aides-territoires : taux, plafond, équipements soutenus et régions proposant l'aide en 2026",
+      "lien": "https://aides-territoires.beta.gouv.fr/aides/realisation-d-installations-de-methanisation/"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "nom, taux, plafond, description (équipements soutenus, calendrier 2026)",
+      "url": "https://aides-territoires.beta.gouv.fr/aides/realisation-d-installations-de-methanisation/",
+      "date": "2026-09-22",
+      "extrait": "Nom initial de l'aide : « Réalisation d'installations de méthanisation ». L'aide de l'ADEME est apportée principalement sous forme de forfait de subvention par unité de capacité de production annuelle (€/MWh) : 45 €/MWh PCS (pouvoir calorifique supérieur) pour l'injection, avec une aide plafonnée à 700 000 €. Pour les projets atypiques et innovants et les projets de station d'épuration urbaine, d'autres modalités de calcul de l'aide sont utilisées. Les équipements soutenus par l'ADEME sont les suivants : unités de méthanisation avec injection de biométhane : production de biogaz ; valorisation énergétique du biogaz : production de chaleur seule, épuration du biogaz en biométhane, injection dans le réseau public ; stations d'épuration urbaines (STEU) : valorisation énergétique du biogaz comprenant l'épuration en biométhane et l'injection dans le réseau public. Porteur(s) d'aide : ADEME. Subvention. Calendrier : Du 1 janvier 2026 au 31 décembre 2026."
+    },
+    {
+      "champ": "departements (régions proposant le dispositif en 2026), infos_complementaires (régions exclues)",
+      "url": "https://aides-territoires.beta.gouv.fr/aides/realisation-d-installations-de-methanisation/",
+      "date": "2026-09-22",
+      "extrait": "Zone géographique couverte par l'aide : Auvergne-Rhône-Alpes, Bourgogne-Franche-Comté, Centre-Val de Loire, Corse, Guadeloupe, Guyane, Hauts-de-France, Île-de-France, La Réunion, Martinique, Mayotte, Normandie, Nouvelle-Aquitaine, Occitanie, Pays de la Loire"
+    },
+    {
+      "champ": "infos_complementaires (bénéficiaires listés par Aides-territoires, à l'origine de la divergence)",
+      "url": "https://aides-territoires.beta.gouv.fr/aides/realisation-d-installations-de-methanisation/",
+      "date": "2026-09-22",
+      "extrait": "Bénéficiaires : Commune, Intercommunalité / Pays, Département, Etablissement public dont services de l'Etat, Entreprise publique locale (Sem, Spl, SemOp)"
+    },
+    {
+      "champ": "eligibilite (entreprises de toutes tailles et tous secteurs), description (cogénération de moins de 500 kWe), infos_complementaires (opération non commencée, démarche et SIRET), departements",
+      "url": "https://mission-transition-ecologique.beta.gouv.fr/aides-entreprise/investissement-methanisation",
+      "date": "2026-09-22",
+      "extrait": "Investissement « Méthanisation ». Taille de l'entreprise : Toutes tailles, Éligible aux micro-entreprises. Secteur d'activité : Tous secteurs d'activité. Secteur géographique : Auvergne-Rhône-Alpes, Bourgogne-Franche-Comté, Centre-Val de Loire, Corse, Guadeloupe, Guyane, Hauts-de-France, Île-de-France, La Réunion, Martinique, Mayotte, Normandie, Nouvelle-Aquitaine, Nouvelle-Calédonie, Occitanie, Pays de la Loire, Polynésie française, Saint-Barthélemy, Saint-Martin. Autres critères d'éligibilité : L'opération pour laquelle vous sollicitez une aide financière ne doit pas avoir commencé ou ne doit pas avoir donné lieu à des engagements fermes (sous quelque forme que ce soit : marché signé, commande signée, devis accepté…). Les équipements financés sont les suivants : Unités de méthanisation avec cogénération (< 500 kWe) ou injection de biométhane [...] La réalisation d'une étude de faisabilité préalable est une condition d'éligibilité. Vérifiez automatiquement l'éligibilité de votre entreprise à l'aide de votre SIRET. Créez un compte ADEME pour pouvoir déposer votre dossier. Date de fin de l'aide : Disponible jusqu'au 31/12/2026."
+    },
+    {
+      "champ": "eligibilite (entreprises dont agricole et agroalimentaire, exclusion des particuliers et du crédit d'impôt), infos_complementaires (date de clôture)",
+      "url": "https://mesaidespubliques.infogreffe.fr/aides/realisation-installations-methanisation-injection-cogeneration-chaleur",
+      "date": "2026-09-22",
+      "extrait": "Réalisation d'installations de méthanisation. Bénéficiaires : Cette aide est à destination des entreprises (dont agricole, agroalimentaire), des collectivités et des associations. Elle ne concerne pas les particuliers, porteurs de projets bénéficiant du crédit d'impôt. Date de clôture : 31/12/2026. Précisions : Installations de méthanisation - Conditions d'éligibilité et de financement - 2026. Source : nos données proviennent de la base officielle de l'État disponible sur aides-entreprises.fr, aides-territoires.beta.gouv.fr, la base les-aides.fr ainsi que les sites officiels des financeurs publics."
+    },
+    {
+      "champ": "eligibilite (entreprises agroalimentaires, cas des collectivités), infos_complementaires (pièces du dossier, version antérieure du dispositif et ses montants)",
+      "url": "https://aides-territoires.beta.gouv.fr/aides/24b3-methaniser-installations-de-methanisation-inj/",
+      "date": "2026-09-22",
+      "extrait": "Dispositif hors périmètre : ce dispositif ne s'adresse pas aux collectivités locales et établissements publics. Bénéficiaires : Toutes entreprises dont le secteur agricole, agroalimentaire et les associations... Sauf projet bénéficiant du crédit d'impôt ainsi que les collectivités qui disposent d'un dispositif spécifique. 95 €/MWh PCI pour la cogénération, avec une aide plafonnée à 200 000 €, 40 €/MWh PCS pour l'injection, avec une aide plafonnée à 600 000 €. [...] assurez-vous de joindre également les pièces suivantes : Etude de faisabilité ou pré-diagnostic, Devis du constructeur, Situation géographique de l'exploitation et zone d'épandage, Récépissé de demande ICPE ou permis de construire, Schéma de concept de l'unité, Bilan gaz à effet de serre, RIB."
+    },
+    {
+      "champ": "infos_complementaires (aide aux études préalables, régions de ce dispositif, certification Qualimétha)",
+      "url": "https://mission-transition-ecologique.beta.gouv.fr/aides-entreprise/etude-methanisation",
+      "date": "2026-09-22",
+      "extrait": "Étude « Méthanisation ». Montant du financement : Jusqu'à 70% du coût de l'étude, dans un maximum de 100 000 €. Secteur d'activité : Activité agricole ou industries agro-alimentaires. Secteur géographique : Auvergne-Rhône-Alpes, Bourgogne-Franche-Comté, Bretagne, Centre-Val de Loire, Corse [...]. Les études de faisabilité devront être réalisées par un bureau d'étude certifié Qualimétha ou équivalent. Date de fin de l'aide : Disponible jusqu'au 31/12/2026."
+    },
+    {
+      "champ": "infos_complementaires (même liste de bénéficiaires publics affichée par Aides-territoires sur un dispositif ADEME ouvert aux entreprises agroalimentaires)",
+      "url": "https://aides-territoires.beta.gouv.fr/aides/etudes-de-diagnostic-et-d-accompagnement-de-projet-d-une-installation-de-methanisation/",
+      "date": "2026-09-22",
+      "extrait": "Études de diagnostic et d'accompagnement de projet d'une installation de méthanisation. Bénéficiaires : Commune, Intercommunalité / Pays, Département, Etablissement public dont services de l'Etat, Entreprise publique locale (Sem, Spl, SemOp)"
+    }
+  ],
+  "date_maj": "2026-09-22"
+}

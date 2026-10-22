@@ -1,0 +1,109 @@
+{
+  "id": "PREST_HOP_007",
+  "nom": "Ubigreen",
+  "type": "solution_numerique",
+  "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792070082/Noe%20assets/logos/PREST_HOP_007.png",
+  "siret": "78891923100076",
+  "description": "Éditeur basé à Labège (31) d'une plateforme en ligne de suivi des consommations multi-fluides (électricité, gaz, chaleur, eau), utilisée par l'AP-HP depuis 2018 sur 38 hôpitaux. Ubigreen ne fournit pas le compteur : elle fournit des modules de télérelève qui se raccordent aux compteurs et sous-compteurs d'eau existants dotés d'une sortie à impulsions, centralise leurs relevés et envoie par courriel ou SMS des alertes sur les consommations d'eau inhabituelles. L'établissement exploite lui-même la plateforme, le premier contact se fait sur rendez-vous avec un expert de l'éditeur.",
+  "expertises": [
+    "Modules de télérelève sur compteurs d'eau",
+    "Suivi du sous-comptage par poste",
+    "Alertes de surconsommation d'eau",
+    "Plateforme de suivi multi-fluides"
+  ],
+  "categories": [
+    "suivre_comprendre_maitriser"
+  ],
+  "secteurs": [
+    "hopitaux"
+  ],
+  "departements": [],
+  "mesures": [
+    {
+      "id": "ACT_AGR_001",
+      "roles": [
+        "materiel"
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "type": "site_internet",
+      "value": "https://www.ubigreen.com/"
+    },
+    {
+      "type": "mail",
+      "value": "sales@ubigreen.com"
+    },
+    {
+      "type": "tel",
+      "value": "04 42 84 10 35"
+    },
+    {
+      "type": "tel",
+      "value": "05 61 80 70 67"
+    },
+    {
+      "type": "adresse",
+      "value": "1000 L'Occitane, 31670 Labège"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Ubigreen&departement=31",
+      "date": "2026-10-15",
+      "extrait": "UBIGREEN, siret 78891923100076, siège, 1000 L'OCCITANE 31670 LABEGE, etat_administratif A"
+    },
+    {
+      "champ": "adresse, contacts (tel du siège)",
+      "url": "https://www.ubigreen.com/mentions-legales/",
+      "date": "2026-10-15",
+      "extrait": "UBIGREEN SAS [...] RCS 788 919 231 Siège social : 1000 L'Occitane, 31670 Labège - Tél. : +33 (0)5 61 80 70 67"
+    },
+    {
+      "champ": "contacts (mail, tel)",
+      "url": "https://www.ubigreen.com/contactez-nous/",
+      "date": "2026-10-15",
+      "extrait": "Contact commercial sales@ubigreen.com 04 42 84 10 35"
+    },
+    {
+      "champ": "description, expertises, secteurs (référence hospitalière, eau suivie, prise de rendez-vous)",
+      "url": "https://www.ubigreen.com/management-energetique-sante/",
+      "date": "2026-10-15",
+      "extrait": "Depuis 2018, l'Assistance Publique, Hôpitaux de Paris (AP-HP) s'appuie sur Ubigreen pour maîtriser, piloter et analyser ses consommations multi-fluides (électricité, gaz, chauffage urbain, biomasse, eau) [...] sur 38 hôpitaux répartis en 6 GHU [...] Prendre RDV avec un de nos experts"
+    },
+    {
+      "champ": "expertises, mesures (ACT_AGR_001)",
+      "url": "https://www.ubigreen.com/management-energetique-sante/",
+      "date": "2026-10-15",
+      "extrait": "Télérelève et sous-comptage : des données fiables, site par site et poste par poste (blocs, blanchisserie, ECS…), pour cibler les bons leviers. Alertes sur dérives : dépassement de seuil, consommation d'eau inhabituelle, compteur muet, donnée incohérente : alertes par email ou SMS."
+    },
+    {
+      "champ": "description, expertises, mesures (ACT_AGR_001)",
+      "url": "https://www.ubigreen.com/capteurs-energie/",
+      "date": "2026-10-15",
+      "extrait": "Capteur d'eau : mesurez votre consommation d'eau [...]. Blue Pulse est une solution de télérelève et d'optimisation des réseaux d'eau compatible avec la plupart des compteurs disposant d'un émetteur d'impulsions (intégré ou couplé au compteur)"
+    },
+    {
+      "champ": "description (pas de fourniture du compteur), expertises, mesures (ACT_AGR_001)",
+      "url": "https://www.ubigreen.com/smartmetering-telerelever-consommations-usage/",
+      "date": "2026-10-15",
+      "extrait": "Faut-il remplacer les compteurs existants ? Pas nécessairement. Ubigreen s'intègre aux équipements et compteurs existants et peut les compléter avec des capteurs, dispositifs de télérelève ou passerelles [...] Le sous-comptage permet de mesurer séparément la consommation d'une zone, d'un usage ou d'un équipement."
+    },
+    {
+      "champ": "departements (plateforme en ligne)",
+      "url": "https://www.ubigreen.com/energy-management/",
+      "date": "2026-10-15",
+      "extrait": "La plateforme est accessible en ligne, sans installation d'un logiciel sur chaque poste utilisateur. [...] permet de suivre plusieurs fluides, notamment l'électricité, le gaz, l'eau et les énergies thermiques"
+    },
+    {
+      "champ": "logo_url",
+      "url": "https://www.ubigreen.com/wp-content/uploads/2023/01/cropped-MicrosoftTeams-image-2-300x300.png",
+      "date": "2026-10-15",
+      "extrait": "apple-touch-icon du site ubigreen.com, symbole carré en couleur"
+    }
+  ],
+  "date_maj": "2026-10-15"
+}

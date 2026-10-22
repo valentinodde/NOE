@@ -1,0 +1,74 @@
+{
+  "id": "PREST_GCU_015",
+  "nom": "Agroof",
+  "type": "bureau_etudes",
+  "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792084322/Noe%20assets/logos/PREST_GCU_015.png",
+  "siret": "51024427000045",
+  "description": "Bureau d'études en agroforesterie constitué en SCOP, installé dans le Gard, qui intervient auprès des agriculteurs, des collectivités et des entreprises du Gard et de la région PACA. Il conçoit les projets de plantation d'arbres en contexte agricole (haies, alignements, bosquets), du diagnostic de la parcelle à la cartographie des aménagements et au choix des espèces, puis peut chercher les financements, suivre le chantier de plantation et établir un plan de gestion des haies existantes. Prestation de base en deux étapes (visite de diagnostic, conception) complétée d'étapes optionnelles, sur demande via le formulaire de contact, et formations à la conception et à la gestion durable des haies, éligibles à une prise en charge OPCO ou France Travail.",
+  "expertises": [
+    "Conception de projets agroforestiers",
+    "Plantation de haies agricoles",
+    "Plan de gestion durable des haies",
+    "Formation à l'agroforesterie"
+  ],
+  "categories": [
+    "agir_grand_cycle"
+  ],
+  "secteurs": ["grandes_cultures"],
+  "departements": ["30", "04", "05", "06", "13", "83", "84"],
+  "mesures": [
+    { "id": "ACT_GCU_010", "roles": ["conseil_etude", "formation"] }
+  ],
+  "contacts": [
+    { "type": "site_internet", "value": "https://agroof.net/conseils/" },
+    { "type": "tel", "value": "04 66 56 85 47" },
+    { "type": "mail", "value": "contact@agroof.net" },
+    { "type": "adresse", "value": "424 route d'Anduze, 30140 Boisset-et-Gaujac" }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Agroof&departement=30",
+      "date": "2026-10-15",
+      "extrait": "AGROOF, siret 51024427000045, siège, 424 ROUTE D'ANDUZE 30140 BOISSET-ET-GAUJAC, activité 71.12B, état administratif A"
+    },
+    {
+      "champ": "type, description, contacts",
+      "url": "https://agroof.net/",
+      "date": "2026-10-15",
+      "extrait": "Bureau d'études spécialisé en Agroforesterie, nous oeuvrons dans la recherche, la formation, le conseil et la mise en place de projet. [...] Agroof SCOP ARL [...] 424 route d'Anduze 30140 Boisset et Gaujac - Gard - Occitanie - Tel : 04 66 56 85 47 - Email : contact [@]agroof.net"
+    },
+    {
+      "champ": "departements, description",
+      "url": "https://agroof.net/conseils/contact/",
+      "date": "2026-10-15",
+      "extrait": "Vous travaillez pour une collectivité, une entreprise, vous êtes agriculteur, en Occitanie ou PACA [...] Si vous êtes situés en dehors du Gard et de la région PACA, vous pouvez chercher une structure plus proche sur le site de l'AFAC-Agroforesteries"
+    },
+    {
+      "champ": "description, expertises, mesures",
+      "url": "https://agroof.net/conseils/nos-services/",
+      "date": "2026-10-15",
+      "extrait": "Nous vous accompagnons dans vos réflexions et vos projets de plantation d'arbres en contexte agricole: alignements d'arbres, haies, bosquets, arbres isolés [...] 1 - Visite de diagnostic [...] 2 - Conception de projet : Organisation et cartographie des aménagements [...] Choix des espèces et fournitures [...] 3 - Recherche de financement [...] 4 - Maitrise d'oeuvre [...] Appui au chantier de plantation [...] Plan de Gestion Durable de Haies"
+    },
+    {
+      "champ": "description, expertises, mesures",
+      "url": "https://agroof.net/formation",
+      "date": "2026-10-15",
+      "extrait": "Conception : Acquérir les connaissances et compétences pratiques pour définir son projet agroforestier [...] Technique : Méthodes et matériel de plantation; Taille en agroforesterie; Gestion durable des haies [...] Public Agris et techniciens [...] Prises en charge par OPCO/ France Travail"
+    },
+    {
+      "champ": "secteurs",
+      "url": "https://agroof.net/recherche",
+      "date": "2026-10-15",
+      "extrait": "recherches appliquées portant principalement sur les performances agronomiques des cultures (céréales, cultures maraichères, PPAM, fruitiers), le développement et la productivité des arbres agroforestiers"
+    },
+    {
+      "champ": "logo_url",
+      "url": "https://agroof.net/scop/images/agroof_logo.jpg",
+      "date": "2026-10-15",
+      "extrait": "logo vertical en couleur du site agroof.net (symbole jaune et vert au-dessus du nom, 1453 x 2265 px), le favicon ne faisant que 16 x 16 px"
+    }
+  ],
+  "date_maj": "2026-10-15"
+}

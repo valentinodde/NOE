@@ -1,0 +1,101 @@
+{
+  "id": "PREST_FRL_006",
+  "nom": "Steriflow",
+  "type": "equipementier",
+  "logo_url": null,
+  "siret": "35296070200012",
+  "description": "Fabricant d'autoclaves de stérilisation et de pasteurisation à ruissellement d'eau surchauffée, conçus et fabriqués dans son usine de Roanne (Loire) et équipés de l'échangeur Platulaire, breveté par la société sœur Barriquand Echangeur et fabriqué sur le même site, qui sépare l'eau de process des circuits de vapeur et d'eau de refroidissement ; ces autoclaves servent notamment aux légumes en boîtes métalliques et en bocaux de verre. Son service de gestion de l'énergie étudie la récupération de l'eau de refroidissement : n'étant pas en contact avec le produit, elle peut être renvoyée vers une tour de refroidissement ou stockée pour préchauffer l'autoclave au cycle suivant, par un refroidissement étagé qui fait travailler la même eau en boucle. Une phase de conseil de 2 à 4 jours établit un bilan sur le site, puis Steriflow conçoit le schéma et spécifie les équipements principaux ; la boucle elle-même est réalisée par l'industriel.",
+  "expertises": [
+    "Autoclaves à ruissellement d'eau",
+    "Bilan énergie et eau de stérilisation",
+    "Récupération de l'eau de refroidissement",
+    "Refroidissement étagé des autoclaves"
+  ],
+  "categories": [
+    "ameliorer_efficacite_hydrique"
+  ],
+  "secteurs": [
+    "industrie_fruits_legumes"
+  ],
+  "departements": [],
+  "mesures": [
+    {
+      "id": "ACT_FRL_004",
+      "roles": [
+        "conseil_etude"
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "type": "site_internet",
+      "value": "https://www.steriflow.com/"
+    },
+    {
+      "type": "tel",
+      "value": "04 77 44 22 10"
+    },
+    {
+      "type": "adresse",
+      "value": "9 à 13 rue Saint-Claude, 42300 Roanne"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, contacts (adresse, code postal SIRENE)",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Steriflow&departement=42",
+      "date": "2026-09-25",
+      "extrait": "STERIFLOW, siret 35296070200012, siège, 9 A 13 9 RUE SAINT-CLAUDE 42300 ROANNE, activité 28.93Z, état administratif A"
+    },
+    {
+      "champ": "type, contacts (site, téléphone), description (fabrication à Roanne)",
+      "url": "https://www.steriflow.com/a-propos-de-steriflow/",
+      "date": "2026-09-25",
+      "extrait": "Notre atelier de fabrication sur le site Barriquand à Roanne est équipé de machines performantes [...] équipes de conception et production situées en France, sur le site de l'usine [...] Usine et siège social 9 à 13 rue Saint Claude F42334 Roanne Tél. : +33 4 77 44 22 10"
+    },
+    {
+      "champ": "type (fabrication à Roanne, version anglaise)",
+      "url": "https://www.steriflow.com/en/company-autoclaves/",
+      "date": "2026-09-25",
+      "extrait": "design and manufacturing teams are located directly in our French plant, in Roanne"
+    },
+    {
+      "champ": "secteurs, description (légumes en conserve et en bocaux)",
+      "url": "https://www.steriflow.com/legumes-conserves/",
+      "date": "2026-09-25",
+      "extrait": "Légumes en conserve et en bocaux en verre. Les légumes en boîtes métalliques et bocaux verre se stérilisent facilement en autoclave Steriflow à ruissellement d'eau surchauffée."
+    },
+    {
+      "champ": "description (échangeur Platulaire fabriqué à Roanne)",
+      "url": "https://www.steriflow.com/echangeur-platulaire/",
+      "date": "2026-09-25",
+      "extrait": "L'échangeur Platulaire® des autoclaves Stériflow a été breveté en 1974 par Barriquand Echangeur, société soeur de Stériflow. [...] Les échangeurs sont fabriqués diretement sur le site, à Roanne. [...] basé sur la séparation du circuit interne d'eau de process et des circuits externes de vapeur et d'eau de refroidissement."
+    },
+    {
+      "champ": "mesures (ACT_FRL_004, conseil_etude), expertises, description (récupération de l'eau de refroidissement, pasteurisation)",
+      "url": "https://www.steriflow.com/services/services-energie/",
+      "date": "2026-09-25",
+      "extrait": "En fonction de la taille de l'installation de stérilisation/pasteurisation, nous pouvons offrir des solutions simples ou complexes. [...] Troisième solution : la récupération de l'eau de refroidissement qui, n'étant pas en contact avec le produit stérilisé [...] peut être recyclée. Elle peut alors soit être renvoyée sur une tour de refroidissement, soit être stockée pour préchauffer l'autoclave lors d'un autre cycle [...] La même eau peut donc être utilisée en boucle pour à la fois préchauffer, puis refroidir l'autoclave."
+    },
+    {
+      "champ": "mesures (conseil_etude), description (phase de conseil, boucle réalisée par l'industriel)",
+      "url": "https://www.steriflow.com/services/services-energie/",
+      "date": "2026-09-25",
+      "extrait": "La phase de conseil a pour principal objectif de trouver la fonction optimale pour la réutilisation de l'eau. Il faut compter entre 2 et 4 jours pour réaliser un bilan. Cette phase terminée, la phase conceptuelle entre en jeu, commençant par l'élaboration du PID, les spécifications des équipements principaux [...] L'évaluation des gains potentiels conduit à la réalisation d'un processus de stérilisation et de récupération d'eau et d'économie d'énergie (réalisée par l'utilisateur)."
+    },
+    {
+      "champ": "annonce du fabricant sur les économies d'eau (non reprise dans la description)",
+      "url": "https://www.steriflow.com/gestion-energie-economies-eau/",
+      "date": "2026-09-25",
+      "extrait": "Optimisation de la récupération des calories de refroidissement, pour les utiliser pour la montée en température d'un cycle suivant [...] Economies potentielles : Eau potable (eau de process): 90% [...] Eau de refroidissement: 95%"
+    },
+    {
+      "champ": "departements (couverture nationale)",
+      "url": "https://www.steriflow.com/a-propos-de-steriflow/",
+      "date": "2026-09-25",
+      "extrait": "Très présente en France et dans toute l'Europe, notre société s'est également implantée dans d'autres parties du monde comme l'Asie, le Moyen-Orient, les USA et l'Afrique."
+    }
+  ],
+  "date_maj": "2026-09-25"
+}

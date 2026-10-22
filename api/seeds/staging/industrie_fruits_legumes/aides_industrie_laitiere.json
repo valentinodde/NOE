@@ -1,0 +1,1237 @@
+[
+  {
+    "id": "AIDE_LAI_001",
+    "nom": "Aide aux économies d'eau des activités économiques hors agricoles (agence de l'eau Artois-Picardie, 12e programme)",
+    "financeur": "Agence de l'eau Artois-Picardie",
+    "logo_url": null,
+    "type": "subvention",
+    "taux": "Subvention, aux taux maximaux suivants : jusqu'à 50 % pour les études, jusqu'à 40 % pour les travaux d'économie d'eau, et jusqu'à 50 % pour les opérations collectives visant des économies d'eau au sein des petites et très petites entreprises.",
+    "plafond": "Travaux : plafond de 6 600 € par m3 d'eau économisé chaque jour. Pour les opérations collectives, le coût moyen journée des actions d'animation réalisées en régie est plafonné à 500 € par jour.",
+    "description": "Volet économies d'eau de la délibération 25-A-036 du 12e programme d'intervention 2025-2030 de l'agence de l'eau Artois-Picardie. L'agence finance côté études les analyses technico-économiques d'optimisation de la gestion globale de l'eau (réduction des consommations à la source, recyclage interne et externe, réutilisation des eaux usées traitées, substitution par une eau non conventionnelle ou de moindre qualité), la mise en place de dispositifs de mesure quantitatifs et qualitatifs ou de recherche de fuite, et les études préalables aux investissements. Côté travaux, elle finance les travaux d'économie d'eau (changement de procédés, réutilisation d'eau de process, recyclage des eaux pluviales ou des eaux usées traitées) ainsi que les ouvrages de réseaux, de stockage et de traitement nécessaires à l'utilisation d'eaux non conventionnelles.",
+    "eligibilite": "Entreprises immatriculées au registre du commerce et des sociétés, chambres consulaires ou tout autre organisme représentatif d'une activité économique industrielle, commerciale ou artisanale, ainsi que collectivités territoriales et associations pour les projets qu'elles portent. Seules sont éligibles les opérations qui permettent d'aller au-delà des normes de portée européenne ou nationale en vigueur et d'améliorer la protection de l'environnement par rapport à l'état initial.",
+    "categories": [
+      "suivre_comprendre_maitriser",
+      "ameliorer_efficacite_hydrique",
+      "valoriser_reut_eaux_non_conventionnelles"
+    ],
+    "secteurs": [
+      "industrie_laitiere",
+      "industrie_viande",
+      "industrie_fruits_legumes"
+    ],
+    "departements": [],
+    "agences": [
+      "AEAP"
+    ],
+    "mesures": [
+      "ACT_AGR_001",
+      "ACT_AGR_002",
+      "ACT_LAI_003",
+      "ACT_LAI_004",
+      "ACT_LAI_006",
+      "ACT_VIA_002",
+      "ACT_VIA_003",
+      "ACT_VIA_004",
+      "ACT_VIA_006",
+      "ACT_FRL_002",
+      "ACT_FRL_003",
+      "ACT_FRL_004",
+      "ACT_FRL_005",
+      "ACT_FRL_006",
+      "ACT_FRL_007"
+    ],
+    "infos_complementaires": [
+      {
+        "type": "avertissement",
+        "texte": "Trois situations rendent l'opération inéligible : l'entreprise en difficulté, sauf si l'aide est apportée dans le cadre du régime de minimis, le renouvellement à l'identique des ouvrages, et l'existence d'une mise en demeure réglementaire au titre de la police de l'eau ou des installations classées."
+      },
+      {
+        "type": "avertissement",
+        "texte": "Les travaux visant à réutiliser les eaux usées traitées ne sont éligibles que si une étude réalisée au préalable démontre l'absence d'impact du projet sur les milieux naturels, en particulier les cours d'eau et les zones humides."
+      },
+      {
+        "type": "info",
+        "texte": "Le volet économies d'eau de la délibération ne fixe pas de seuil de volume économisé, et un dispositif d'opérations collectives d'économies d'eau au sein des petites et très petites entreprises est subventionné à 50 %. Un petit atelier n'est donc pas écarté d'emblée sur ce bassin."
+      },
+      {
+        "type": "info",
+        "texte": "En cas d'augmentation de la capacité de production, les volumes d'eau économisés ne sont pris en compte dans les dépenses finançables que pour la part correspondant aux économies se rapportant à la production initiale."
+      },
+      {
+        "type": "ressource",
+        "texte": "Délibération 25-A-036, modalités et conditions d'attribution des aides pour la lutte contre la pollution des activités économiques hors agricoles (partie 4, économies d'eau)",
+        "lien": "https://www.eau-artois-picardie.fr/sites/default/files/013_25-a-036_lutte_poll_act_hors_agri.pdf"
+      },
+      {
+        "type": "ressource",
+        "texte": "Présentation du 12e programme d'intervention 2025-2030 de l'agence de l'eau Artois-Picardie",
+        "lien": "https://www.eau-artois-picardie.fr/12eme-programme-dintervention-2025-2030"
+      },
+      {
+        "type": "info",
+        "texte": "Transformation du poisson, des crustacés et des mollusques : l'encadrement européen des aides au secteur de la pêche réserve l'aide aux PME, à 50 % au plus, sauf au titre des aides de minimis. Une grande entreprise du secteur ne peut être aidée qu'en de minimis.",
+        "lien": "https://eur-lex.europa.eu/eli/reg/2022/2473/oj",
+        "lien_label": "Règlement (UE) 2022/2473"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "taux, plafond",
+        "url": "https://www.eau-artois-picardie.fr/sites/default/files/013_25-a-036_lutte_poll_act_hors_agri.pdf",
+        "date": "2026-09-22",
+        "extrait": "4-2. Taux d'intervention et assiette. Etudes : Subvention de 50%. Travaux : Subvention de 40%, Plafond de 6 600 € par m3 d'eau économisé chaque jour. Opérations collectives visant des économies d'eau au sein des petites et très petites entreprises : Subvention de 50%, Le « coût moyen journée » des actions d'animation réalisées en régie est plafonné à 500 € par jour."
+      },
+      {
+        "champ": "description, mesures",
+        "url": "https://www.eau-artois-picardie.fr/sites/default/files/013_25-a-036_lutte_poll_act_hors_agri.pdf",
+        "date": "2026-09-22",
+        "extrait": "4-1. Actions éligibles. Pour les études : Les études technico-économiques d'optimisation de la gestion globale de l'eau (réduction des consommations à la source, recyclage interne et externe, réutilisation des eaux usées traitées, substitution par une eau non conventionnelle ou de moindre qualité...) ; La mise en place de dispositifs de mesure (quantitatif et qualitatif) ou de recherche de fuite ; Les études préalables aux investissements. Pour les travaux : Les travaux d'économie d'eau (changement de procédés, réutilisation d'eau de process, recyclage des eaux pluviales ou des eaux usées traitées...) ; Les ouvrages (réseaux, stockage, traitement) nécessaires à l'utilisation d'eaux non conventionnelles."
+      },
+      {
+        "champ": "eligibilite",
+        "url": "https://www.eau-artois-picardie.fr/sites/default/files/013_25-a-036_lutte_poll_act_hors_agri.pdf",
+        "date": "2026-09-22",
+        "extrait": "1-1. Etablissements et opérations éligibles. L'Agence de l'Eau peut apporter une participation financière aux maîtres d'ouvrage des activités économiques hors agricoles suivants : Entreprises immatriculées au registre du commerce et des sociétés, Chambres consulaires ou tout autre organisme représentatif d'une activité économique industrielle, commerciale ou artisanale, Collectivités territoriales et associations, pour les projets qu'elles portent [...] Sont éligibles aux aides de l'Agence de l'Eau les opérations qui permettent aux entreprises d'aller au-delà des normes de portée européenne ou nationale en vigueur, et d'améliorer la protection de l'environnement par rapport à l'état initial."
+      },
+      {
+        "champ": "infos_complementaires (critères d'exclusion, augmentation de capacité)",
+        "url": "https://www.eau-artois-picardie.fr/sites/default/files/013_25-a-036_lutte_poll_act_hors_agri.pdf",
+        "date": "2026-09-22",
+        "extrait": "1-2. Critères d'exclusion. Les opérations réunissant au moins l'un des critères suivants ne sont pas éligibles aux aides de l'Agence de l'Eau : Entreprises en difficulté, sauf si l'aide de l'Agence de l'Eau est apportée dans le cadre du régime de minimis, Renouvellement à l'identique des ouvrages, Existence d'une mise en demeure réglementaire au titre de la police de l'eau ou des installations classées pour la protection de l'environnement. [...] Les volumes d'eau économisés seront pris en compte dans les dépenses finançables pour la part correspondant aux économies d'eau se rapportant à la production initiale."
+      },
+      {
+        "champ": "infos_complementaires (condition REUT)",
+        "url": "https://www.eau-artois-picardie.fr/sites/default/files/013_25-a-036_lutte_poll_act_hors_agri.pdf",
+        "date": "2026-09-22",
+        "extrait": "4-3. Conditions particulières. Les travaux visant à réutiliser les eaux usées traitées sont éligibles aux aides de l'Agence de l'Eau si une étude réalisée au préalable démontre l'absence d'impact du projet sur les milieux naturels, en particulier les cours d'eau et les zones humides."
+      },
+      {
+        "champ": "nom, description (programme et date de publication)",
+        "url": "https://www.eau-artois-picardie.fr/12eme-programme-dintervention-2025-2030",
+        "date": "2026-09-22",
+        "extrait": "12ème programme d'intervention 2025-2030, adopté le 15 octobre 2024 par le conseil d'administration et le comité de bassin, 1,279 milliard d'euros sur six ans. Le programme soutient les actions des industriels pour maîtriser leur consommation hydrique, réutiliser les eaux de process et recycler les eaux pluviales."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://eur-lex.europa.eu/eli/reg/2022/2473/oj",
+        "date": "2022-12-14",
+        "extrait": "Aides en faveur des PME actives dans la production, la transformation et la commercialisation des produits de la pêche et de l'aquaculture."
+      }
+    ],
+    "date_maj": "2026-09-25"
+  },
+  {
+    "id": "AIDE_LAI_002",
+    "nom": "Réalisation d'installations de méthanisation (ADEME, dispositif 2026)",
+    "financeur": "ADEME",
+    "logo_url": null,
+    "type": "subvention",
+    "taux": "Forfait de subvention par unité de capacité de production annuelle : 45 €/MWh PCS (pouvoir calorifique supérieur) pour l'injection de biométhane. D'autres modalités de calcul s'appliquent aux projets atypiques ou innovants et aux stations d'épuration urbaines. Aucun montant 2026 n'est publié pour la cogénération.",
+    "plafond": "700 000 € pour un projet d'injection.",
+    "description": "Dispositif ouvert du 1er janvier au 31 décembre 2026. L'ADEME finance l'investissement dans une unité de méthanisation, après une étude de faisabilité favorable. Les équipements soutenus sont les unités de méthanisation avec injection de biométhane (production de biogaz, production de chaleur seule, épuration du biogaz en biométhane, injection dans le réseau public) et la valorisation énergétique du biogaz des stations d'épuration urbaines. La fiche entreprise du dispositif ajoute les unités avec cogénération de moins de 500 kWe. Pour une laiterie ou une fromagerie, c'est le guichet qui finance l'unité de méthanisation valorisant le lactosérum et les pertes de lait détournés du réseau d'effluents, à condition d'être maître d'ouvrage de cette unité.",
+    "eligibilite": "Entreprises, dont les entreprises des secteurs agricole et agroalimentaire, et associations. La fiche entreprise du dispositif indique toutes tailles d'entreprise, micro-entreprises comprises, et tous secteurs d'activité. Les particuliers et les porteurs de projets pouvant bénéficier du crédit d'impôt sont exclus. La réalisation d'une étude de faisabilité préalable est une condition d'éligibilité, et l'opération ne doit pas avoir commencé ni avoir donné lieu à un engagement ferme au moment du dépôt.",
+    "categories": [
+      "agir_rejets_qualite"
+    ],
+    "secteurs": [],
+    "departements": [
+      "01",
+      "02",
+      "03",
+      "07",
+      "09",
+      "11",
+      "12",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "21",
+      "23",
+      "24",
+      "25",
+      "26",
+      "27",
+      "28",
+      "30",
+      "31",
+      "32",
+      "33",
+      "34",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45",
+      "46",
+      "47",
+      "48",
+      "49",
+      "50",
+      "53",
+      "58",
+      "59",
+      "60",
+      "61",
+      "62",
+      "63",
+      "64",
+      "65",
+      "66",
+      "69",
+      "70",
+      "71",
+      "72",
+      "73",
+      "74",
+      "75",
+      "76",
+      "77",
+      "78",
+      "79",
+      "80",
+      "81",
+      "82",
+      "85",
+      "86",
+      "87",
+      "89",
+      "90",
+      "91",
+      "92",
+      "93",
+      "94",
+      "95",
+      "2A",
+      "2B",
+      "971",
+      "972",
+      "973",
+      "974",
+      "976"
+    ],
+    "agences": [],
+    "mesures": [
+      "ACT_LAI_007"
+    ],
+    "infos_complementaires": [
+      {
+        "type": "avertissement",
+        "texte": "Le dispositif ferme le 31 décembre 2026. Un projet qui ne serait pas déposé avant cette date devra attendre la publication du dispositif de l'année suivante, dont les taux et les plafonds peuvent changer."
+      },
+      {
+        "type": "avertissement",
+        "texte": "L'opération ne doit pas avoir commencé ni avoir donné lieu à des engagements fermes, sous quelque forme que ce soit : marché signé, commande signée, devis accepté. Un devis accepté avant le dépôt du dossier fait perdre l'aide."
+      },
+      {
+        "type": "avertissement",
+        "texte": "Toutes les régions ne proposent pas ce dispositif : la Bretagne, le Grand Est et la Provence-Alpes-Côte d'Azur ne figurent pas dans la liste 2026, et les départements de ces trois régions sont donc exclus de cette fiche. Un projet qui s'y situe relève d'un autre guichet de l'ADEME : prenez contact avec la direction régionale avant d'engager le montage."
+      },
+      {
+        "type": "avertissement",
+        "texte": "Aucune des sources consultées ne dit qui perçoit l'aide lorsque l'unité de méthanisation et le producteur du substrat sont deux entreprises différentes. Lecture à confirmer auprès de la direction régionale de l'ADEME : l'aide portant sur les équipements de l'unité, elle reviendrait au maître d'ouvrage de l'installation, et un atelier laitier qui se contente de livrer son lactosérum à une unité appartenant à un tiers ne toucherait rien, même s'il tire le bénéfice de l'opération sur ses effluents et sa redevance."
+      },
+      {
+        "type": "avertissement",
+        "texte": "Les sources 2026 ne publient de forfait que pour l'injection de biométhane. Une fromagerie qui viserait une cogénération ne trouve aucun montant 2026 : les 95 €/MWh PCI plafonnés à 200 000 € que l'on lit encore en ligne se rattachent à une version antérieure du dispositif, qui affichait aussi 40 €/MWh PCS et 600 000 € pour l'injection. À faire confirmer avant tout chiffrage."
+      },
+      {
+        "type": "info",
+        "texte": "Les sources divergent sur les bénéficiaires. La fiche Aides-territoires du dispositif 2026 ne liste que des personnes publiques (commune, intercommunalité, département, établissement public, entreprise publique locale), mais cette plateforme s'adresse aux collectivités et affiche la même liste sur d'autres dispositifs ADEME ouverts aux entreprises. Les sources destinées aux entreprises sont concordantes : l'aide est à destination des entreprises, dont agricole et agroalimentaire. Le point est donc tranché en faveur de l'éligibilité des entreprises privées. La situation des collectivités, elle, reste incertaine : une source les cite comme bénéficiaires, une autre renvoie celles qui disposent d'un dispositif spécifique vers ce dernier."
+      },
+      {
+        "type": "info",
+        "texte": "L'étude de faisabilité préalable est une condition d'éligibilité, et l'ADEME la finance par un dispositif distinct : Études préalables à la construction d'une installation de méthanisation, jusqu'à 70 % du coût de l'étude dans la limite de 100 000 €, ouvert aux entreprises du secteur agricole et des industries agroalimentaires. Sa liste de régions est plus large que celle de l'aide à l'investissement et inclut la Bretagne. Les études de faisabilité doivent être réalisées par un bureau d'études certifié Qualimétha ou équivalent.",
+        "lien": "https://mission-transition-ecologique.beta.gouv.fr/aides-entreprise/etude-methanisation",
+        "lien_label": "Dispositif Étude Méthanisation de l'ADEME"
+      },
+      {
+        "type": "info",
+        "texte": "La démarche commence par une vérification d'éligibilité à partir du numéro SIRET, puis par la création d'un compte ADEME pour déposer le dossier (informations administratives, description du projet, détails techniques et financiers). Si la demande est acceptée, l'ADEME adresse un contrat de financement précisant le montant maximal, les conditions et les modalités de versement. La liste de pièces publiée pour une version antérieure du dispositif, à prendre comme indicative, comprenait l'étude de faisabilité ou le prédiagnostic, le devis du constructeur, la situation géographique du site et de la zone d'épandage, le récépissé de demande ICPE ou le permis de construire, le schéma de concept de l'unité, le bilan gaz à effet de serre et un RIB."
+      },
+      {
+        "type": "ressource",
+        "texte": "Fiche du dispositif Investissement Méthanisation sur Mission Transition écologique, le service public de l'ADEME pour les aides aux entreprises (vérification d'éligibilité par SIRET)",
+        "lien": "https://mission-transition-ecologique.beta.gouv.fr/aides-entreprise/investissement-methanisation"
+      },
+      {
+        "type": "ressource",
+        "texte": "Fiche du dispositif sur Aides-territoires : taux, plafond, équipements soutenus et régions proposant l'aide en 2026",
+        "lien": "https://aides-territoires.beta.gouv.fr/aides/realisation-d-installations-de-methanisation/"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "nom, taux, plafond, description (équipements soutenus, calendrier 2026)",
+        "url": "https://aides-territoires.beta.gouv.fr/aides/realisation-d-installations-de-methanisation/",
+        "date": "2026-09-22",
+        "extrait": "Nom initial de l'aide : « Réalisation d'installations de méthanisation ». L'aide de l'ADEME est apportée principalement sous forme de forfait de subvention par unité de capacité de production annuelle (€/MWh) : 45 €/MWh PCS (pouvoir calorifique supérieur) pour l'injection, avec une aide plafonnée à 700 000 €. Pour les projets atypiques et innovants et les projets de station d'épuration urbaine, d'autres modalités de calcul de l'aide sont utilisées. Les équipements soutenus par l'ADEME sont les suivants : unités de méthanisation avec injection de biométhane : production de biogaz ; valorisation énergétique du biogaz : production de chaleur seule, épuration du biogaz en biométhane, injection dans le réseau public ; stations d'épuration urbaines (STEU) : valorisation énergétique du biogaz comprenant l'épuration en biométhane et l'injection dans le réseau public. Porteur(s) d'aide : ADEME. Subvention. Calendrier : Du 1 janvier 2026 au 31 décembre 2026."
+      },
+      {
+        "champ": "departements (régions proposant le dispositif en 2026), infos_complementaires (régions exclues)",
+        "url": "https://aides-territoires.beta.gouv.fr/aides/realisation-d-installations-de-methanisation/",
+        "date": "2026-09-22",
+        "extrait": "Zone géographique couverte par l'aide : Auvergne-Rhône-Alpes, Bourgogne-Franche-Comté, Centre-Val de Loire, Corse, Guadeloupe, Guyane, Hauts-de-France, Île-de-France, La Réunion, Martinique, Mayotte, Normandie, Nouvelle-Aquitaine, Occitanie, Pays de la Loire"
+      },
+      {
+        "champ": "infos_complementaires (bénéficiaires listés par Aides-territoires, à l'origine de la divergence)",
+        "url": "https://aides-territoires.beta.gouv.fr/aides/realisation-d-installations-de-methanisation/",
+        "date": "2026-09-22",
+        "extrait": "Bénéficiaires : Commune, Intercommunalité / Pays, Département, Etablissement public dont services de l'Etat, Entreprise publique locale (Sem, Spl, SemOp)"
+      },
+      {
+        "champ": "eligibilite (entreprises de toutes tailles et tous secteurs), description (cogénération de moins de 500 kWe), infos_complementaires (opération non commencée, démarche et SIRET), departements",
+        "url": "https://mission-transition-ecologique.beta.gouv.fr/aides-entreprise/investissement-methanisation",
+        "date": "2026-09-22",
+        "extrait": "Investissement « Méthanisation ». Taille de l'entreprise : Toutes tailles, Éligible aux micro-entreprises. Secteur d'activité : Tous secteurs d'activité. Secteur géographique : Auvergne-Rhône-Alpes, Bourgogne-Franche-Comté, Centre-Val de Loire, Corse, Guadeloupe, Guyane, Hauts-de-France, Île-de-France, La Réunion, Martinique, Mayotte, Normandie, Nouvelle-Aquitaine, Nouvelle-Calédonie, Occitanie, Pays de la Loire, Polynésie française, Saint-Barthélemy, Saint-Martin. Autres critères d'éligibilité : L'opération pour laquelle vous sollicitez une aide financière ne doit pas avoir commencé ou ne doit pas avoir donné lieu à des engagements fermes (sous quelque forme que ce soit : marché signé, commande signée, devis accepté…). Les équipements financés sont les suivants : Unités de méthanisation avec cogénération (< 500 kWe) ou injection de biométhane [...] La réalisation d'une étude de faisabilité préalable est une condition d'éligibilité. Vérifiez automatiquement l'éligibilité de votre entreprise à l'aide de votre SIRET. Créez un compte ADEME pour pouvoir déposer votre dossier. Date de fin de l'aide : Disponible jusqu'au 31/12/2026."
+      },
+      {
+        "champ": "eligibilite (entreprises dont agricole et agroalimentaire, exclusion des particuliers et du crédit d'impôt), infos_complementaires (date de clôture)",
+        "url": "https://mesaidespubliques.infogreffe.fr/aides/realisation-installations-methanisation-injection-cogeneration-chaleur",
+        "date": "2026-09-22",
+        "extrait": "Réalisation d'installations de méthanisation. Bénéficiaires : Cette aide est à destination des entreprises (dont agricole, agroalimentaire), des collectivités et des associations. Elle ne concerne pas les particuliers, porteurs de projets bénéficiant du crédit d'impôt. Date de clôture : 31/12/2026. Précisions : Installations de méthanisation - Conditions d'éligibilité et de financement - 2026. Source : nos données proviennent de la base officielle de l'État disponible sur aides-entreprises.fr, aides-territoires.beta.gouv.fr, la base les-aides.fr ainsi que les sites officiels des financeurs publics."
+      },
+      {
+        "champ": "eligibilite (entreprises agroalimentaires, cas des collectivités), infos_complementaires (pièces du dossier, version antérieure du dispositif et ses montants)",
+        "url": "https://aides-territoires.beta.gouv.fr/aides/24b3-methaniser-installations-de-methanisation-inj/",
+        "date": "2026-09-22",
+        "extrait": "Dispositif hors périmètre : ce dispositif ne s'adresse pas aux collectivités locales et établissements publics. Bénéficiaires : Toutes entreprises dont le secteur agricole, agroalimentaire et les associations... Sauf projet bénéficiant du crédit d'impôt ainsi que les collectivités qui disposent d'un dispositif spécifique. 95 €/MWh PCI pour la cogénération, avec une aide plafonnée à 200 000 €, 40 €/MWh PCS pour l'injection, avec une aide plafonnée à 600 000 €. [...] assurez-vous de joindre également les pièces suivantes : Etude de faisabilité ou pré-diagnostic, Devis du constructeur, Situation géographique de l'exploitation et zone d'épandage, Récépissé de demande ICPE ou permis de construire, Schéma de concept de l'unité, Bilan gaz à effet de serre, RIB."
+      },
+      {
+        "champ": "infos_complementaires (aide aux études préalables, régions de ce dispositif, certification Qualimétha)",
+        "url": "https://mission-transition-ecologique.beta.gouv.fr/aides-entreprise/etude-methanisation",
+        "date": "2026-09-22",
+        "extrait": "Étude « Méthanisation ». Montant du financement : Jusqu'à 70% du coût de l'étude, dans un maximum de 100 000 €. Secteur d'activité : Activité agricole ou industries agro-alimentaires. Secteur géographique : Auvergne-Rhône-Alpes, Bourgogne-Franche-Comté, Bretagne, Centre-Val de Loire, Corse [...]. Les études de faisabilité devront être réalisées par un bureau d'étude certifié Qualimétha ou équivalent. Date de fin de l'aide : Disponible jusqu'au 31/12/2026."
+      },
+      {
+        "champ": "infos_complementaires (même liste de bénéficiaires publics affichée par Aides-territoires sur un dispositif ADEME ouvert aux entreprises agroalimentaires)",
+        "url": "https://aides-territoires.beta.gouv.fr/aides/etudes-de-diagnostic-et-d-accompagnement-de-projet-d-une-installation-de-methanisation/",
+        "date": "2026-09-22",
+        "extrait": "Études de diagnostic et d'accompagnement de projet d'une installation de méthanisation. Bénéficiaires : Commune, Intercommunalité / Pays, Département, Etablissement public dont services de l'Etat, Entreprise publique locale (Sem, Spl, SemOp)"
+      }
+    ],
+    "date_maj": "2026-09-22"
+  },
+  {
+    "id": "AIDE_LAI_003",
+    "nom": "Diag Eco-Flux, diagnostic des flux énergie, eau, matières et déchets (ADEME et Bpifrance)",
+    "financeur": "ADEME et Bpifrance",
+    "logo_url": null,
+    "type": "accompagnement",
+    "taux": "Subvention de 50 % du coût de la prestation",
+    "plafond": "Reste à charge de 3 000 € HT par site",
+    "description": "Diagnostic réalisé sur le site par un consultant indépendant agréé et sélectionné par Bpifrance, selon une méthodologie élaborée avec l'ADEME. Il analyse quatre flux, l'énergie, l'eau, les matières premières et les déchets, repère les pertes et les leviers d'action prioritaires, aboutit à un plan d'action ciblé, puis accompagne le lancement des premières actions de réduction. Le périmètre, la méthode et le calendrier sont définis avec l'expert au cadrage. Le portail Mission Transition écologique annonce 6 à 8 jours de prestation répartis sur 15 à 18 mois.",
+    "eligibilite": "Entreprises de tous secteurs d'activité dont l'établissement compte entre 20 et 250 salariés, en France et dans les territoires d'outre-mer, avec au moins un an d'activité. Les micro-entreprises ne sont pas éligibles.",
+    "categories": [
+      "suivre_comprendre_maitriser"
+    ],
+    "secteurs": [],
+    "departements": [],
+    "agences": [],
+    "mesures": [
+      "ACT_AGR_002"
+    ],
+    "infos_complementaires": [
+      {
+        "type": "avertissement",
+        "texte": "Le dispositif s'adresse aux établissements de 20 à 250 salariés et n'est pas ouvert aux micro-entreprises : les ateliers fromagers de quelques salariés en sont écartés."
+      },
+      {
+        "type": "avertissement",
+        "texte": "Ce diagnostic ne remplace pas un audit eau dédié. L'eau n'est qu'un des quatre flux analysés, aux côtés de l'énergie, des matières et des déchets, sur une prestation de 6 à 8 jours au total. Il donne un état des lieux des pertes et des leviers prioritaires. Un site dont l'eau est l'enjeu central a intérêt à faire porter explicitement le cadrage sur ce poste, puis à engager ensuite une étude eau plus approfondie."
+      },
+      {
+        "type": "avertissement",
+        "texte": "La durée annoncée diffère selon les pages officielles : 6 à 8 jours répartis sur 15 à 18 mois sur le portail Mission Transition écologique, 7 jours répartis sur 10 mois sur la page du catalogue Bpifrance, qui n'a pas pu être relue au contrôle. À faire préciser par le conseiller Bpifrance avant de s'engager."
+      },
+      {
+        "type": "info",
+        "texte": "Les diagnostics du partenariat ADEME et Bpifrance sont financés par l'ADEME et, depuis 2025, par des financements reposant sur les Certificats d'Économies d'Énergie. Le reste à charge de l'entreprise est de 3 000 € HT par site après la subvention de 50 %. Les deux partenaires annoncent viser environ 3 000 entreprises accompagnées par an et au moins 10 000 à l'horizon 2028 : il ne s'agit pas d'un appel à projets ponctuel."
+      },
+      {
+        "type": "info",
+        "texte": "La démarche se fait auprès de Bpifrance : vérification de l'éligibilité à partir du SIRET, formulaire d'intérêt, rappel par un conseiller, puis définition en commun du périmètre du diagnostic, de la méthode et du calendrier avant le lancement avec l'expert."
+      },
+      {
+        "type": "retour_experience",
+        "texte": "Depuis le lancement du dispositif en septembre 2020, les actions recommandées dans le cadre du Diag Eco-Flux ont permis à plus de 1 500 sites accompagnés d'économiser chaque année 2,6 millions de mètres cubes d'eau et 578 GWh d'énergie, et de générer en moyenne plus de 60 000 € d'économies annuelles par site, tous flux confondus."
+      },
+      {
+        "type": "ressource",
+        "texte": "Fiche du dispositif sur le portail Mission Transition écologique, avec vérification d'éligibilité par SIRET",
+        "lien": "https://mission-transition-ecologique.beta.gouv.fr/aides-entreprise/diag-eco-flux"
+      },
+      {
+        "type": "ressource",
+        "texte": "Communiqué de presse ADEME et Bpifrance du 25 juin 2025 sur les diagnostics et leur financement",
+        "lien": "https://presse.bpifrance.fr/bpifrance-et-lademe-renforcent-leur-partenariat-a-travers-leurs-diagnostics-dedies-a-la-transition-energetique-et-ecologique-des-entreprises"
+      },
+      {
+        "type": "ressource",
+        "texte": "Page du dispositif sur le catalogue d'offres de Bpifrance",
+        "lien": "https://www.bpifrance.fr/catalogue-offres/diagnostic-eco-flux"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "nom, description, categories, mesures",
+        "url": "https://mission-transition-ecologique.beta.gouv.fr/aides-entreprise/diag-eco-flux",
+        "date": "2026-09-22",
+        "extrait": "Vous êtes accompagné par un expert référencé par Bpifrance, selon une méthodologie élaborée avec l'ADEME. Analysez vos flux d'énergie, d'eau, de matières premières et de déchets. Repérez les pertes et les leviers d'action prioritaires. Définissez un plan d'action ciblé, simple à mettre en oeuvre. Lancez vos premières actions de réduction des pertes."
+      },
+      {
+        "champ": "taux, plafond, type, durée de la prestation",
+        "url": "https://mission-transition-ecologique.beta.gouv.fr/aides-entreprise/diag-eco-flux",
+        "date": "2026-09-22",
+        "extrait": "Coût restant à charge : 3 000 € HT après subvention de 50%. Prestation : 6 à 8 jours de prestation répartis sur 15 à 18 mois. [...] Lancez le diagnostic avec l'expert, consultant indépendant agréé et sélectionné par Bpifrance."
+      },
+      {
+        "champ": "eligibilite, departements, secteurs, dispositif en vigueur",
+        "url": "https://mission-transition-ecologique.beta.gouv.fr/aides-entreprise/diag-eco-flux",
+        "date": "2026-09-22",
+        "extrait": "Date de fin de l'aide : Aide disponible. Taille de l'entreprise : Entre 20 et 250 salariés, Non éligible aux micro-entreprises. Secteur géographique : France et territoires d'outre-mer. Nombre d'années d'activité : Au moins 1 an d'activité. Secteur d'activité : Tous secteurs d'activité"
+      },
+      {
+        "champ": "infos_complementaires (démarche et cadrage)",
+        "url": "https://mission-transition-ecologique.beta.gouv.fr/aides-entreprise/diag-eco-flux",
+        "date": "2026-09-22",
+        "extrait": "Vérifiez automatiquement l'éligibilité de votre entreprise à l'aide de votre SIRET. [...] Un conseiller vous rappelle pour répondre à vos questions et vous guider dans la constitution de votre demande. Définissez ensemble le périmètre du diagnostic, la méthode et le calendrier."
+      },
+      {
+        "champ": "financeur, mesures, infos_complementaires (financement ADEME et CEE, pérennité)",
+        "url": "https://presse.bpifrance.fr/bpifrance-et-lademe-renforcent-leur-partenariat-a-travers-leurs-diagnostics-dedies-a-la-transition-energetique-et-ecologique-des-entreprises",
+        "date": "2026-09-22",
+        "extrait": "Communiqué du 25 juin 2025 : Le Diag Eco-Flux : réaliser des économies rapides sur ses flux matière, énergie, déchets et eau [...] À partir de 2025, en complément des financements de l'ADEME, il bénéficiera de financements reposant sur les Certificats d'Économies d'Énergie (CEE). [...] Ces diagnostics sont financés par l'ADEME, notamment par le dispositif des CEE. [...] l'ADEME et Bpifrance ambitionnent d'accompagner environ 3 000 entreprises chaque année. À l'horizon 2028, l'objectif fixé est d'atteindre un minimum de 10 000 entreprises accompagnées"
+      },
+      {
+        "champ": "infos_complementaires (retour d'expérience)",
+        "url": "https://presse.bpifrance.fr/bpifrance-et-lademe-renforcent-leur-partenariat-a-travers-leurs-diagnostics-dedies-a-la-transition-energetique-et-ecologique-des-entreprises",
+        "date": "2026-09-22",
+        "extrait": "Depuis le lancement du dispositif en septembre 2020, les actions recommandées dans le cadre du Diag Eco-Flux ont permis à plus de 1 500 sites accompagnés de réaliser des économies annuelles de 578 GWh d'énergie, 2,6 millions de mètres cubes d'eau et plus de 856 000 tonnes de matières et déchets et de générer en moyenne plus de 60 000 euros d'économies annuelles par site."
+      },
+      {
+        "champ": "infos_complementaires (durée annoncée par l'opérateur). Page lue en navigateur mais renvoyant HTTP 403 à l'outil de contrôle : citée uniquement pour signaler la divergence, aucun autre champ ne repose sur elle.",
+        "url": "https://www.bpifrance.fr/catalogue-offres/diagnostic-eco-flux",
+        "date": "2026-09-22",
+        "extrait": "Une démarche simple, 7 jours homme d'intervention sur 10 mois [...] Le reste à charge pour l'entreprise, après subvention, est de : 3 000€ HT par site"
+      }
+    ],
+    "date_maj": "2026-09-22"
+  },
+  {
+    "id": "AIDE_LAI_004",
+    "nom": "Prêt Vert (Bpifrance)",
+    "financeur": "Bpifrance",
+    "logo_url": null,
+    "type": "pret",
+    "taux": "Prêt à taux fixe, avec des frais de dossier de 0,40 % du montant du prêt (ces deux conditions financières ne figurent que sur la page du catalogue de Bpifrance et sur le portail Mes Aides Publiques Infogreffe qui la reprend : faites-les confirmer par le chargé d'affaires avant tout plan de financement). Aucune garantie n'est prise sur les actifs de l'entreprise ni sur le patrimoine du dirigeant : seule une retenue de garantie de 5 % du montant du prêt est prélevée, restituée après complet remboursement et augmentée des intérêts qu'elle a produits. Une assurance décès et perte totale et irréversible d'autonomie sur la tête du dirigeant peut être requise.",
+    "plafond": "De 50 000 € à 5 000 000 €, sur une durée de 2 à 10 ans incluant un différé d'amortissement en capital de 2 ans maximum.",
+    "description": "Prêt de Bpifrance destiné à financer un plan d'actions de transition écologique et énergétique. Le dispositif nomme explicitement l'eau parmi les performances visées, dans la première des quatre puces qui définissent les dépenses soutenues : il finance les investissements qui visent à optimiser les procédés, ou à améliorer la performance en énergie, en eau et en matière, afin de mieux maîtriser ou de diminuer les impacts sur l'environnement, y compris les procédés d'économie circulaire. L'eau revient dans la puce consacrée à l'innovation, parmi les ressources dont la consommation doit baisser. Les deux autres volets portent sur la mobilité zéro carbone et sur l'intégration d'énergies renouvelables. Pour une entreprise laitière, ce prêt s'adresse aux investissements lourds de sobriété hydrique : fermeture des circuits de refroidissement et suppression des tours aéroréfrigérantes, concentration du lactosérum sur site, récupération et réutilisation des eaux issues du lait.",
+    "eligibilite": "Bpifrance décrit la cible comme les TPE, PME et ETI indépendantes de plus de 3 ans d'activité ; le portail d'État précise moins de 5 000 salariés, une implantation en France métropolitaine ou dans les territoires d'outre-mer, et l'inéligibilité des micro-entreprises. Tous les secteurs d'activité sont admis, à l'exception de l'intermédiation financière, de la promotion immobilière et du négoce de biens, des entreprises agricoles de la section NAF A01, et de celles de la section A02 dont le chiffre d'affaires est inférieur à 750 000 €, les codes NAF 02.20Z et 02.40Z des entreprises forestières restant éligibles. Les entreprises en difficulté au sens de la définition européenne sont exclues. Le prêt est obligatoirement associé à un concours bancaire du même montant.",
+    "categories": [
+      "ameliorer_efficacite_hydrique",
+      "changer_process_pratiques",
+      "valoriser_reut_eaux_non_conventionnelles"
+    ],
+    "secteurs": [],
+    "departements": [],
+    "agences": [],
+    "mesures": [
+      "ACT_LAI_004",
+      "ACT_LAI_005",
+      "ACT_LAI_006"
+    ],
+    "infos_complementaires": [
+      {
+        "type": "avertissement",
+        "texte": "Le Prêt Vert ne finance jamais seul un projet : il est obligatoirement associé à un partenariat financier, à raison de 1 pour 1, soit un concours bancaire du même montant. Sans accord préalable d'une banque sur la moitié du plan de financement, le dossier ne peut pas aboutir."
+      },
+      {
+        "type": "avertissement",
+        "texte": "Le taux fixe et les frais de dossier de 0,40 % ne sont publiés que sur la page du catalogue de Bpifrance, que certains outils de consultation automatique ne parviennent pas à ouvrir, et sur le portail Mes Aides Publiques Infogreffe qui la reprend. Le portail d'État Mission Transition écologique et la fiche des chambres de commerce confirment les montants, la durée, le différé et les garanties, mais pas ces deux éléments de coût. Demandez-les par écrit au chargé d'affaires avant d'arbitrer."
+      },
+      {
+        "type": "info",
+        "texte": "Contrairement aux dispositifs strictement orientés énergie et carbone, le Prêt Vert cite l'eau au même rang que l'énergie et la matière dans la définition même des dépenses soutenues. Un investissement dont le bénéfice principal est hydrique, comme la concentration du lactosérum ou la fermeture d'un circuit de refroidissement, entre donc dans le champ du dispositif au titre de l'optimisation des procédés."
+      },
+      {
+        "type": "info",
+        "texte": "Au-delà de 500 000 €, un site industriel peut regarder le Prêt Industrie Verte, ouvert aux TPE, PME et ETI indépendantes des secteurs de l'industrie (codes NAF 10 à 33, qui couvrent la fabrication de produits laitiers) et des services à l'industrie : de 500 000 € à 10 000 000 €, sur 8 à 12 ans avec un différé d'amortissement en capital de 2 ans maximum, à taux fixe bonifié selon le barème en vigueur, avec les mêmes dépenses éligibles en énergie, eau et matière. La page du catalogue de Bpifrance mentionne en outre une prise de sûreté réelle obligatoire, condition que la fiche régionale ne reprend pas : faites préciser ce point, car il distingue nettement ce prêt du Prêt Vert."
+      },
+      {
+        "type": "avertissement",
+        "texte": "Le Prêt Économies d'Énergies de Bpifrance n'est plus proposé : sa page au catalogue des offres affiche « Désolé, cette offre n'est plus disponible », constaté le 22 septembre 2026. Cette page fait partie de celles que certains outils de consultation automatique n'ouvrent pas, et aucune autre source consultée ne confirme la clôture : vérifiez auprès de Bpifrance avant de renoncer à ce dispositif. Ne pas confondre non plus avec le Prêt Vert ADEME, variante conditionnée à un Diag Eco-Flux, affichée comme close depuis le 16 juin 2024."
+      },
+      {
+        "type": "info",
+        "texte": "La démarche passe par une vérification automatique d'éligibilité à partir du SIRET sur le portail Mission Transition écologique, puis un formulaire d'expression d'intérêt adressé à Bpifrance, puis un rendez-vous de financement avec un chargé d'affaires qui instruit la demande."
+      },
+      {
+        "type": "ressource",
+        "texte": "Fiche du Prêt Vert sur le portail d'État Mission Transition écologique, avec le test d'éligibilité par SIRET",
+        "lien": "https://mission-transition-ecologique.beta.gouv.fr/aides-entreprise/pret-vert"
+      },
+      {
+        "type": "ressource",
+        "texte": "Fiche du Prêt Vert sur les-aides.fr, la base des chambres de commerce et d'industrie (montant, durée, garanties, dépenses éligibles)",
+        "lien": "https://les-aides.fr/aide/cmUv3w/bpifrance/pret-vert.html"
+      },
+      {
+        "type": "ressource",
+        "texte": "Page du Prêt Vert au catalogue des offres de Bpifrance",
+        "lien": "https://www.bpifrance.fr/catalogue-offres/pret-vert"
+      },
+      {
+        "type": "ressource",
+        "texte": "Fiche du Prêt Industrie Verte publiée par la Région Occitanie, avec les modalités et les coordonnées des chargés de coordination Climat de Bpifrance",
+        "lien": "https://www.laregion.fr/Pret-Industrie-Verte-Bpifrance"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "plafond, description, mesures (dépenses éligibles nommant l'eau), disponibilité du dispositif",
+        "url": "https://mission-transition-ecologique.beta.gouv.fr/aides-entreprise/pret-vert",
+        "date": "2026-09-22",
+        "extrait": "Montant du prêt : De 50 000 € à 5 000 000 €. Durée du prêt : de 2 à 10 ans, avec un différé d'amortissement en capital de 2 ans maximum. Date de fin de l'aide : Aide disponible. [...] En co-financement avec une banque privée, le prêt Vert soutient les projets visant à : optimiser les procédés, ou améliorer la performance (énergie, eau, matière,) afin de mieux maîtriser ou de diminuer les impacts sur l'environnement, en ce compris des procédés d'économie circulaire ; [...] innover pour mettre sur le marché des produits ou des services en matière de protection de l'environnement, d'économie circulaire et/ou permettant une réduction de la consommation de ressources, renouvelables ou non, (énergie, matières premières, eau, etc. [...])"
+      },
+      {
+        "champ": "eligibilite (taille, ancienneté, secteurs exclus, concours bancaire), infos_complementaires (démarche en trois étapes)",
+        "url": "https://mission-transition-ecologique.beta.gouv.fr/aides-entreprise/pret-vert",
+        "date": "2026-09-22",
+        "extrait": "Taille de l'entreprise : Moins de 5000 salariés. Non éligible aux micro-entreprises. Secteur géographique : France et territoires d'outre-mer. Nombre d'années d'activité : Au moins 3 ans d'activité. Secteur d'activité : Tous secteurs d'activité. Sont exclus : les activités d'intermédiation financière (NAF : section K64 sauf 64-2 pour les achats d'entreprises) ; les activités de promotion immobilière et marchand de biens (NAF : section L68-1, L68-2 et F41-1) ; les entreprises des secteurs agricoles identifiées par les code NAF section A01, et section A02 dont le chiffre d'affaires est inférieur à 750 000 €, à l'exception des codes NAF 02.20Z et 02.40Z (entreprises forestières). Autres critères d'éligibilité : Ce prêt est obligatoirement associé à un concours bancaire du même montant. Sont exclues les entreprises en difficulté au sens de la définition européenne. [...] Vérifiez automatiquement l'éligibilité de votre entreprise à l'aide de votre SIRET. [...] Exprimez votre intérêt pour ce prêt à Bpifrance grâce au formulaire ci-dessous. Obtenez un rendez-vous de financement auprès d'un chargé d'affaires Bpifrance."
+      },
+      {
+        "champ": "taux (partie garanties), plafond, eligibilite (TPE, PME, ETI indépendantes de plus de 3 ans), description, mesures. Page ouvrable, base des chambres de commerce et d'industrie, mise à jour le 12 mai 2026",
+        "url": "https://les-aides.fr/aide/cmUv3w/bpifrance/pret-vert.html",
+        "date": "2026-09-22",
+        "extrait": "Prêt Vert. Investissement − Transition écologique. BPIFRANCE. Mise à jour le 12 mai 2026. [...] Il s'adresse aux TPE, PME ou une ETI indépendantes de plus de 3 ans. [...] Le Prêt Vert finance la mise en œuvre d'un plan d'actions visant à : optimiser les procédés, ou améliorer la performance (énergie, eau, matière) afin de mieux maîtriser ou de diminuer les impacts sur l'environnement, [...] Le montant du prêt peut aller de 50 000 € à 5 M€. Obligatoirement associé à un partenariat financier, à raison de 1 pour 1. Aucune garantie sur les actifs de l'entreprise, ni sur le patrimoine du dirigeant. Seule une retenue de garantie de 5 % du montant du prêt est prélevée. Elle est restituée après complet remboursement du prêt, augmentée des intérêts qu'elle a produit. Une assurance décès/perte totale et irréversible d'autonomie sur la tête du dirigeant peut être requise. La durée du prêt est de 2 à 10 ans."
+      },
+      {
+        "champ": "taux (taux fixe et frais de dossier de 0,40 %, seule page ouvrable qui les publie, en reprise du catalogue de Bpifrance ; réserve signalée dans le champ taux et dans un avertissement). Portail Mes Aides Publiques Infogreffe, mise à jour du 07/09/2025",
+        "url": "https://mesaidespubliques.infogreffe.fr/aides/pret-vert",
+        "date": "2026-09-22",
+        "extrait": "Durée : De 2 à 10 ans. Conditions financières : Taux fixe. Frais de dossier : 0,40% du montant du prêt. Garanties : Aucune garantie sur les actifs de l'entreprise, ni sur le patrimoine du dirigeant. Seule une retenue de garantie de 5 % du montant du prêt est prélevée. Elle est restituée après complet remboursement du prêt, augmentée des intérêts qu'elle a produit. Une assurance décès/perte totale et irréversible d'autonomie sur la tête du dirigeant peut être requise. Partenariats financiers : Obligatoirement associé à un partenariat financier, à raison de 1 pour 1. [...] Date de mise à jour : 07/09/2025"
+      },
+      {
+        "champ": "taux, nom, financeur, description (source d'origine ; attention, www.bpifrance.fr répond 200 à verifier-url et à un navigateur, mais 403 aux récupérateurs de pages sans en-tête de navigateur : le taux fixe et les frais de dossier sont donc doublés sur mesaidespubliques.infogreffe.fr et assortis d'une réserve dans la fiche)",
+        "url": "https://www.bpifrance.fr/catalogue-offres/pret-vert",
+        "date": "2026-09-22",
+        "extrait": "Prêt Vert. Financer le développement d'un projet de transition écologique et énergétique. [...] Votre profil : TPE, PME ou une ETI indépendantes de plus de 3 ans. Modalités : Le Prêt Vert finance la mise en œuvre d'un plan d'actions visant à : optimiser les procédés, ou améliorer la performance (énergie, eau, matière) afin de mieux maîtriser ou de diminuer les impacts sur l'environnement ; [...] Montant : De 50 K€ à 5 000 K€. Durée : De 2 à 10 ans. Conditions financières : Taux fixe. Frais de dossier : 0,40% du montant du prêt. Garanties : Aucune garantie sur les actifs de l'entreprise, ni sur le patrimoine du dirigeant. [...] Partenariats financiers : Obligatoirement associé à un partenariat financier, à raison de 1 pour 1."
+      },
+      {
+        "champ": "infos_complementaires (Prêt Industrie Verte : montant, durée, différé, taux fixe bonifié, codes NAF 10 à 33). Page ouvrable, fiche de la Région Occitanie",
+        "url": "https://www.laregion.fr/Pret-Industrie-Verte-Bpifrance",
+        "date": "2026-09-22",
+        "extrait": "L'offre : Prêt de 500k€ à 10 000k€ permettant de financer les projets de Transition Ecologique et Energétique des PME et ETI industrielles. Le Prêt Industrie Verte finance les dépenses immatérielles, matérielles et le besoin en fonds de roulement généré par la mise en œuvre de plans d'actions visant à : Optimiser les procédés ou améliorer la performance (énergie, eau, matière) pour mieux maîtriser ou diminuer les impacts sur l'environnement, [...] Les modalités : Durée de l'accompagnement : 8 à 12 ans avec un différé d'amortissement en capital de 2 ans max. Public : TPE, PME, ETI indépendante des secteurs « Industrie » (Code NAF 10 à 33) et « Services à l'Industrie (Code NAF 49 à 52). Coût : Taux fixe bonifié selon le barème en vigueur."
+      },
+      {
+        "champ": "infos_complementaires (Prêt Industrie Verte : sûreté réelle obligatoire, condition non reprise par la fiche régionale, réserve signalée dans l'info ; www.bpifrance.fr répond 403 aux récupérateurs sans en-tête de navigateur)",
+        "url": "https://www.bpifrance.fr/catalogue-offres/pret-industrie-verte",
+        "date": "2026-09-22",
+        "extrait": "Prêt Industrie Verte. Prêt de 500 000 € à 10 000 000 € pour financer les projets de Transition Ecologique et Energétique des PME et ETI industrielles. [...] Durée : De 8 à 12 ans incluant un différé d'amortissement en capital de 24 mois maximum. [...] Garanties : Prise d'une sûreté réelle obligatoire. Retenue de garantie de 5% du montant total du prêt, restituée après complet remboursement du prêt et augmentée des intérêts produits."
+      },
+      {
+        "champ": "infos_complementaires (Prêt Économies d'Énergies clos ; seule source, page 403 pour les récupérateurs sans en-tête de navigateur, réserve signalée dans l'avertissement)",
+        "url": "https://www.bpifrance.fr/catalogue-offres/pret-economies-denergies",
+        "date": "2026-09-22",
+        "extrait": "Catalogue des offres / Transition Ecologique et Energétique / Prêt Économies d'Énergies. Désolé, cette offre n'est plus disponible. Consultez nos autres offres."
+      },
+      {
+        "champ": "infos_complementaires (Prêt Vert ADEME, homonyme clos, à ne pas confondre avec le dispositif de cette fiche)",
+        "url": "https://mission-transition-ecologique.beta.gouv.fr/aides-entreprise/pret-vert-ademe",
+        "date": "2026-09-22",
+        "extrait": "Prêt Vert - Ademe. Montant du prêt : De 10 000 € à 1 000 000 €. [...] Disponible jusqu'au 16/06/2024. [...] avoir bénéficié d'un Diag Eco-Flux ou d'une aide de l'ADEME depuis moins de 3 ans."
+      }
+    ],
+    "date_maj": "2026-09-22"
+  },
+  {
+    "id": "AIDE_LAI_005",
+    "nom": "Aide aux économies d'eau et à la réutilisation des activités industrielles et artisanales (agence de l'eau Rhin-Meuse, 12e programme)",
+    "financeur": "Agence de l'eau Rhin-Meuse",
+    "logo_url": null,
+    "type": "subvention",
+    "taux": "Subvention, à des taux de référence que l'agence peut adapter en fonction de l'impact ou de l'ambition du projet. Études hors innovation : jusqu'à 60 % pour une grande entreprise, 70 % pour une moyenne entreprise, 80 % pour une petite entreprise ou une microentreprise. Travaux d'économie d'eau, technologies propres et moyens de mesure et de contrôle : jusqu'à 40 %, 50 % et 60 % selon la même échelle de taille hors zone d'aide à finalité régionale, et jusqu'à 45 %, 55 % et 65 % en zone d'aide à finalité régionale.",
+    "plafond": "La fiche thématique n'affiche pas de montant plafond pour les économies d'eau : l'assiette est retenue en fonction de l'apport environnemental du projet.",
+    "description": "Volet économies d'eau et réutilisation de la fiche thématique sur les pressions générées par les activités économiques industrielles et artisanales, approuvée par la délibération 2025/21 du 12e programme d'intervention 2025-2030 de l'agence de l'eau Rhin-Meuse. Sont éligibles les travaux qui réduisent significativement, directement ou indirectement, les volumes d'eau prélevés dans le milieu naturel, volumes appréciés en m3 rapportés à la production avant et après investissement. Ces projets peuvent porter sur la réutilisation des eaux usées traitées et des eaux non conventionnelles, catégorie qui inclut les eaux issues de process industriels. Les dispositifs de mesure et de suivi des eaux prélevées et des eaux de process, ainsi que les technologies propres faisant partie intégrante de la chaîne de production, relèvent du même barème. L'agence vise 6 millions de m3 d'eau prélevée économisée sur la durée du programme.",
+    "eligibilite": "Activités économiques industrielles et artisanales du bassin Rhin-Meuse. Les investissements doivent respecter le principe de non-dégradation de l'état des eaux, apporter un haut niveau de protection environnementale, et s'inscrire dans les trajectoires de sobriété en eau définies par les démarches de gouvernance de l'eau du territoire lorsqu'une structure porteuse existe. Les microentreprises sont aidées de façon privilégiée dans le cadre d'opérations groupées, territoriales ou sectorielles, qui doivent être portées par une collectivité territoriale, un organisme consulaire ou professionnel ou un autre organisme représentatif des activités économiques.",
+    "categories": [
+      "suivre_comprendre_maitriser",
+      "ameliorer_efficacite_hydrique",
+      "valoriser_reut_eaux_non_conventionnelles"
+    ],
+    "secteurs": [
+      "industrie_laitiere",
+      "industrie_viande",
+      "industrie_fruits_legumes"
+    ],
+    "departements": [],
+    "agences": [
+      "AERM"
+    ],
+    "mesures": [
+      "ACT_AGR_001",
+      "ACT_AGR_002",
+      "ACT_LAI_003",
+      "ACT_LAI_004",
+      "ACT_LAI_006",
+      "ACT_VIA_002",
+      "ACT_VIA_003",
+      "ACT_VIA_004",
+      "ACT_VIA_006",
+      "ACT_FRL_002",
+      "ACT_FRL_003",
+      "ACT_FRL_004",
+      "ACT_FRL_005",
+      "ACT_FRL_006",
+      "ACT_FRL_007"
+    ],
+    "infos_complementaires": [
+      {
+        "type": "avertissement",
+        "texte": "L'agence n'apporte pas d'aide à un projet destiné à répondre à une mise en demeure réglementaire, sauf si la demande d'aide est antérieure à la date de l'arrêté de mise en demeure, ou s'il s'agit d'une étude rendue obligatoire par cet arrêté. Si la mise en demeure porte une échéance, l'établissement est inéligible quelle que soit cette échéance."
+      },
+      {
+        "type": "avertissement",
+        "texte": "Un atelier de taille microentreprise n'est pas exclu mais passe rarement par le guichet individuel : l'agence l'aide de façon privilégiée dans le cadre d'une opération groupée portée par une collectivité, une chambre consulaire ou une organisation professionnelle. Pour la pollution classique, l'accompagnement des microentreprises est même exclusivement groupé sur les secteurs à enjeu."
+      },
+      {
+        "type": "avertissement",
+        "texte": "Pour une activité industrielle soumise au régime de Suivi Régulier des Rejets, l'attribution d'une aide financière est conditionnée à l'obtention de l'agrément, sauf impossibilité technique. Seule fait exception l'aide destinée à mettre en place les moyens nécessaires à cet agrément."
+      },
+      {
+        "type": "info",
+        "texte": "Les taux affichés sont des taux de référence, pas des taux acquis : l'agence est susceptible de proposer une adaptation de l'assiette ou du taux d'aide en fonction de l'impact ou de l'ambition du projet au regard des enjeux environnementaux."
+      },
+      {
+        "type": "info",
+        "texte": "L'aide prend la forme d'une subvention dont le taux de référence est celui permis par le règlement communautaire en vigueur. L'agence se réserve le droit, au cas par cas, de mobiliser des aides sous forme d'avances remboursables."
+      },
+      {
+        "type": "info",
+        "texte": "Les taux gagnent 5 points en zone d'aide à finalité régionale. Ces zones, dites zones c non prédéfinies en France métropolitaine, sont délimitées par l'État : vérifiez le classement de votre commune avant d'estimer le taux applicable."
+      },
+      {
+        "type": "info",
+        "texte": "Les demandes d'aide se formulent sur la plateforme Rivage, accessible du lundi au samedi de 7h30 à 20h. Les équipes de l'agence répondent du lundi au vendredi de 9h à 12h et de 13h30 à 16h30 au numéro vert gratuit 0 800 710 325."
+      },
+      {
+        "type": "ressource",
+        "texte": "Fiche thématique du 12e programme sur les pressions générées par les activités économiques industrielles et artisanales (délibération 2025/21)",
+        "lien": "https://cdi.eau-rhin-meuse.fr/GEIDEFile/Interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales_-_FICHE_THEMATIQUE.pdf?Archive=264992408217&File=interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales___FicHe_THeMaTiQue_pdf"
+      },
+      {
+        "type": "ressource",
+        "texte": "Page Nos aides de l'agence de l'eau Rhin-Meuse, avec le guide des aides aux industriels et l'accès à la plateforme Rivage",
+        "lien": "https://www.eau-rhin-meuse.fr/nos-aides"
+      },
+      {
+        "type": "ressource",
+        "texte": "Les délibérations et fiches thématiques du 12e programme d'intervention Rhin-Meuse",
+        "lien": "https://www.eau-rhin-meuse.fr/nos-deliberations"
+      },
+      {
+        "type": "info",
+        "texte": "Transformation du poisson, des crustacés et des mollusques : l'encadrement européen des aides au secteur de la pêche réserve l'aide aux PME, à 50 % au plus, sauf au titre des aides de minimis. Une grande entreprise du secteur ne peut être aidée qu'en de minimis.",
+        "lien": "https://eur-lex.europa.eu/eli/reg/2022/2473/oj",
+        "lien_label": "Règlement (UE) 2022/2473"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "taux, plafond, type",
+        "url": "https://cdi.eau-rhin-meuse.fr/GEIDEFile/Interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales_-_FICHE_THEMATIQUE.pdf?Archive=264992408217&File=interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales___FicHe_THeMaTiQue_pdf",
+        "date": "2026-09-22",
+        "extrait": "ÉCONOMIES D'EAU. Assiette : En fonction de l'apport environnemental. Taux d'aide de référence : Hors zones d'Aides à Finalité Régionale (AFR) : Grandes entreprises : 40 %, Moyennes entreprises : 50 %, Petites et microentreprises : 60 %. En zones AFR (c) : Grandes entreprises : 45 %, Moyennes entreprises : 55 %, Petites et microentreprises : 65 %. [...] ÉTUDES, hors études d'innovation : Grandes entreprises : 60 %, Moyennes entreprises : 70 %, Petites et microentreprises : 80 %. [...] 3 - NATURE DES AIDES : L'Agence de l'eau intervient sous la forme d'une subvention dont le taux de référence est basé sur les taux d'aides permis par le règlement communautaire en vigueur. L'Agence de l'eau se réserve le droit, au cas par cas, de mobiliser des aides sous forme d'avances remboursables."
+      },
+      {
+        "champ": "description, mesures (économies d'eau, réutilisation)",
+        "url": "https://cdi.eau-rhin-meuse.fr/GEIDEFile/Interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales_-_FICHE_THEMATIQUE.pdf?Archive=264992408217&File=interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales___FicHe_THeMaTiQue_pdf",
+        "date": "2026-09-22",
+        "extrait": "Sont éligibles les travaux permettant de réduire significativement, directement ou indirectement, les volumes d'eau prélevés dans le milieu naturel. Ces volumes d'eau s'apprécient en m3 rapportés à la production avant et après investissement. [...] Ces projets économies d'eau peuvent notamment concerner la Réutilisation des Eaux Usées Traitées (REUT) et des eaux non conventionnelles dans le respect des conditions édictées dans la fiche thématique gestion quantitative de la ressource en eau et de la réglementation afférente en vigueur. [...] L'Agence de l'eau se fixe pour objectif d'atteindre 6 millions de m3 d'eau prélevée économisée au cours du 12e Programme d'intervention."
+      },
+      {
+        "champ": "mesures (compteurs, technologies propres, études)",
+        "url": "https://cdi.eau-rhin-meuse.fr/GEIDEFile/Interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales_-_FICHE_THEMATIQUE.pdf?Archive=264992408217&File=interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales___FicHe_THeMaTiQue_pdf",
+        "date": "2026-09-22",
+        "extrait": "4.3.5. Moyens de mesure et de contrôle : Les travaux éligibles sont les dispositifs permettant la mesure et le suivi des eaux prélevées, des eaux de process et des flux polluants et les dispositifs permettant la surveillance des eaux souterraines. [...] 4.3.3. Technologies propres : Est considéré comme une technologie propre éligible, un investissement de lutte contre la pollution ou contribuant à l'adaptation ou l'atténuation au changement climatique, faisant partie intégrante de la chaine de production. [...] Les études sont éligibles dès lors qu'elles sont nécessaires à la définition, à l'analyse de la faisabilité ou d'opportunité ou à la préparation des investissements ou actions éligibles."
+      },
+      {
+        "champ": "mesures (eaux non conventionnelles)",
+        "url": "https://cdi.eau-rhin-meuse.fr/GEIDEFile/Interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales_-_FICHE_THEMATIQUE.pdf?Archive=264992408217&File=interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales___FicHe_THeMaTiQue_pdf",
+        "date": "2026-09-22",
+        "extrait": "EAUX NON CONVENTIONNELLES : Eaux de pluie récupérées en aval des toitures, eaux grises sortant des douches, lave-linge et lavabo, eaux pluviales ruisselant sur les voiries et surfaces urbaines autres que les toitures, eaux d'exhaure pompées en permanence pour mettre hors d'eau des infrastructures souterraines (parking, stations de métro, ...), eaux issues de process industriels."
+      },
+      {
+        "champ": "eligibilite, infos_complementaires (microentreprises, mise en demeure, SRR)",
+        "url": "https://cdi.eau-rhin-meuse.fr/GEIDEFile/Interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales_-_FICHE_THEMATIQUE.pdf?Archive=264992408217&File=interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales___FicHe_THeMaTiQue_pdf",
+        "date": "2026-09-22",
+        "extrait": "les microentreprises sont aidées de façon privilégiée dans le cadre d'opérations groupées (territoriales ou sectorielles) qui requièrent le portage par des collectivités territoriales, des organismes consulaires et professionnels ou tout autre organisme représentatif des activités économiques industrielles, commerciales ou artisanales. Sur les secteurs où un enjeu relatif à la pollution classique a été démontré, les microentreprises sont exclusivement accompagnées dans le cadre d'opérations groupées. [...] Les investissements doivent [...] Respecter le principe de non-dégradation de l'état des eaux [...] S'inscrire dans les trajectoires de sobriété en eau définies dans le cadre des démarches de gouvernance de l'eau à l'échelle de territoires cohérents [...] Pour une activité industrielle soumise réglementairement au régime de Suivi Régulier des Rejets (SRR), l'attribution d'une aide financière (autre que pour la mise en place des moyens nécessaires à l'obtention de l'agrément SRR) est conditionnée à l'obtention de l'agrément, sauf cas d'impossibilité technique. L'Agence de l'eau n'apportera pas d'aide lorsqu'elle est sollicitée pour accompagner un projet permettant de répondre à une mise en demeure réglementaire, sauf si la demande d'aide relative à ce projet est antérieure à la date de l'arrêté de mise en demeure"
+      },
+      {
+        "champ": "infos_complementaires (zones AFR)",
+        "url": "https://cdi.eau-rhin-meuse.fr/GEIDEFile/Interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales_-_FICHE_THEMATIQUE.pdf?Archive=264992408217&File=interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales___FicHe_THeMaTiQue_pdf",
+        "date": "2026-09-22",
+        "extrait": "ZONES D'AIDES A FINALITE REGIONALE - AFR (C) : les AFR sont des aides qui contribuent au développement économique et social des régions européennes les plus désavantagées. Elles peuvent être octroyées par l'État ou les collectivités territoriales et leurs groupements [...] En France, les zones c non prédéfinies sont situées en métropole (Corse comprise)."
+      },
+      {
+        "champ": "infos_complementaires (dépôt, contact)",
+        "url": "https://www.eau-rhin-meuse.fr/nos-aides",
+        "date": "2026-09-22",
+        "extrait": "Les demandes d'aides sont à formuler sur la plateforme Rivage. La plateforme Rivage est accessible du lundi au samedi de 7h30 à 20h. [...] Les équipes de l'agence de l'eau Rhin-Meuse répondent aux sollicitations du lundi au vendredi de 9h à 12h et de 13h30 à 16h30 au numéro vert gratuit (0 800 710 325)."
+      },
+      {
+        "champ": "taux (caractère adaptable du taux de référence)",
+        "url": "https://cdi.eau-rhin-meuse.fr/GEIDEFile/Interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales_-_FICHE_THEMATIQUE.pdf?Archive=264992408217&File=interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales___FicHe_THeMaTiQue_pdf",
+        "date": "2026-09-22",
+        "extrait": "5 - CONDITIONS D'APPRÉCIATION DES TAUX D'AIDE. L'Agence de l'eau est susceptible de proposer une adaptation de l'assiette ou/et du taux d'aide de référence affichés en fonction de l'impact ou de l'ambition du projet par rapport aux enjeux environnementaux."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://eur-lex.europa.eu/eli/reg/2022/2473/oj",
+        "date": "2022-12-14",
+        "extrait": "Aides en faveur des PME actives dans la production, la transformation et la commercialisation des produits de la pêche et de l'aquaculture."
+      }
+    ],
+    "date_maj": "2026-09-25"
+  },
+  {
+    "id": "AIDE_LAI_006",
+    "nom": "Aide aux économies d'eau et à la réutilisation des eaux non conventionnelles pour les entreprises (agence de l'eau Seine-Normandie, programme Eau, climat et biodiversité 2025-2030)",
+    "financeur": "Agence de l'eau Seine-Normandie",
+    "logo_url": null,
+    "type": "subvention",
+    "taux": "Taux d'aide au maximum autorisé par l'encadrement européen, pour les économies d'eau comme pour les projets de réutilisation des eaux usées traitées et des eaux non conventionnelles. L'agence ne publie pas de pourcentage sur sa page destinée aux entreprises.",
+    "plafond": null,
+    "description": "Volet économies d'eau du programme Eau, climat et biodiversité 2025-2030 de l'agence de l'eau Seine-Normandie, qui met l'accent sur les efforts de sobriété en eau pour contribuer à l'objectif de réduction de 10 % des prélèvements du bassin d'ici 2030. L'agence finance les études et les travaux permettant la réduction significative des prélèvements sur la ressource en eau ou l'amélioration significative du ratio de consommation d'eau par unité de production, ainsi que les études et travaux portant sur la modification des approvisionnements par une ressource de qualité moindre lorsque plusieurs acteurs sont concernés. Sur le volet réutilisation, elle finance les diagnostics, les études de faisabilité technico-économiques et les travaux de traitement, de stockage, de transfert et de distribution. Les eaux non conventionnelles retenues par l'agence incluent explicitement les eaux issues de la matière première, ce qui vise directement les eaux issues des matières premières, comme les condensats et perméats d'un site laitier.",
+    "eligibilite": "Entreprises et artisans du bassin Seine-Normandie. La réutilisation des eaux usées traitées doit constituer un moyen de substitution aux prélèvements dans le milieu naturel et être associée à des mesures visant à réduire la consommation d'eau : elle ne peut se concevoir que dans une démarche plus globale de sobriété.",
+    "categories": [
+      "ameliorer_efficacite_hydrique",
+      "valoriser_reut_eaux_non_conventionnelles",
+      "suivre_comprendre_maitriser"
+    ],
+    "secteurs": [
+      "industrie_laitiere",
+      "industrie_viande",
+      "industrie_fruits_legumes"
+    ],
+    "departements": [],
+    "agences": [
+      "AESN"
+    ],
+    "mesures": [
+      "ACT_AGR_002",
+      "ACT_LAI_003",
+      "ACT_LAI_004",
+      "ACT_LAI_006",
+      "ACT_VIA_002",
+      "ACT_VIA_003",
+      "ACT_VIA_004",
+      "ACT_VIA_006",
+      "ACT_FRL_002",
+      "ACT_FRL_003",
+      "ACT_FRL_004",
+      "ACT_FRL_005",
+      "ACT_FRL_006",
+      "ACT_FRL_007"
+    ],
+    "infos_complementaires": [
+      {
+        "type": "avertissement",
+        "texte": "Un projet de réutilisation présenté seul a peu de chances d'aboutir : l'agence pose comme condition que le recours aux eaux non conventionnelles ou aux eaux usées traitées ne saurait constituer la seule réponse au changement climatique et ne peut se concevoir que dans une démarche plus globale de sobriété, associée à des mesures de réduction de la consommation."
+      },
+      {
+        "type": "avertissement",
+        "texte": "L'agence ne chiffre pas ses taux sur sa page entreprises : elle annonce le taux maximum autorisé par l'encadrement européen, qui dépend de la taille de l'entreprise et du régime d'aide d'État mobilisé. Le taux applicable à votre projet se confirme auprès de la direction territoriale avant tout montage financier."
+      },
+      {
+        "type": "info",
+        "texte": "L'agence applique une date limite annuelle de dépôt pour garantir l'instruction dans l'année. Pour l'instruction 2026, le dossier complet devait être déposé sur Démarche Numérique avant le 30 septembre. Vérifiez la date de l'année en cours avant de caler votre calendrier de travaux."
+      },
+      {
+        "type": "info",
+        "texte": "Le point d'entrée est la direction territoriale de l'agence pour votre secteur. Siège : 12 rue de l'Industrie, CS 80148, 92416 Courbevoie Cedex, téléphone 01 41 20 16 00."
+      },
+      {
+        "type": "ressource",
+        "texte": "Les aides financières destinées aux entreprises, programme Eau, climat et biodiversité 2025-2030",
+        "lien": "https://www.eau-seine-normandie.fr/entreprises/aides-financieres-du-programme-eau-climat-biodiversite"
+      },
+      {
+        "type": "ressource",
+        "texte": "Formulaires de demande d'aide 2025-2030 de l'agence de l'eau Seine-Normandie",
+        "lien": "https://www.eau-seine-normandie.fr/formulaires_aides"
+      },
+      {
+        "type": "info",
+        "texte": "Transformation du poisson, des crustacés et des mollusques : l'encadrement européen des aides au secteur de la pêche réserve l'aide aux PME, à 50 % au plus, sauf au titre des aides de minimis. Une grande entreprise du secteur ne peut être aidée qu'en de minimis.",
+        "lien": "https://eur-lex.europa.eu/eli/reg/2022/2473/oj",
+        "lien_label": "Règlement (UE) 2022/2473"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "nom, description, taux, mesures",
+        "url": "https://www.eau-seine-normandie.fr/entreprises/aides-financieres-du-programme-eau-climat-biodiversite",
+        "date": "2026-09-22",
+        "extrait": "Le 12e programme Eau, climat & biodiversité de l'agence de l'eau met l'accent sur les efforts de sobriété en eau. L'agence de l'eau encourage donc les entreprises à s'engager dans des démarches volontaires de réduction de leur consommation d'eau et favorise la réutilisation des eaux non conventionnelles et des eaux usées traitées (REUT). L'agence de l'eau finance : les études et les travaux permettant la réduction significative des prélèvements sur la ressource en eau ou l'amélioration significative du ratio de consommation d'eau par unité de production ; les études et les travaux portant sur la modification des approvisionnements par une ressource de qualité moindre lorsque plusieurs acteurs sont concernés (collectivité, industriel tiers, agriculteur). Taux d'aide au maximum autorisé par l'encadrement européen"
+      },
+      {
+        "champ": "eligibilite, mesures (eaux issues de la matière première), infos_complementaires",
+        "url": "https://www.eau-seine-normandie.fr/entreprises/aides-financieres-du-programme-eau-climat-biodiversite",
+        "date": "2026-09-22",
+        "extrait": "Le recours aux eaux non conventionnelles ou aux eaux usées traitées ne saurait constituer la seule réponse au changement climatique et ne peut se concevoir que dans une démarche plus globale de sobriété. Les eaux non conventionnelles incluent les eaux qui n'ont pas fait l'objet d'un traitement comme les eaux issues de la matière première, les eaux de pluie issues des toitures non accessibles, les eaux pluviales issues d'un ruissellement, les eaux d'exhaures... La réutilisation des eaux usées traitées (REUT) issues des stations d'épuration urbaines et de stations d'épuration industrielles [...] doit constituer un moyen de substitution aux prélèvements dans le milieu naturel, et associé à des mesures visant à réduire la consommation d'eau. L'agence de l'eau finance les diagnostics, les études de faisabilité qui prennent en compte les aspects technico-économiques [...] ainsi que les travaux à savoir le traitement, le stockage, le transfert et la distribution"
+      },
+      {
+        "champ": "description (objectif du bassin), infos_complementaires (dépôt, contact)",
+        "url": "https://www.eau-seine-normandie.fr/entreprises/aides-financieres-du-programme-eau-climat-biodiversite",
+        "date": "2026-09-22",
+        "extrait": "L'objectif est de réduire globalement de 10 % les prélèvements d'eau d'ici 2030, sur le bassin tous les secteurs confondus [...] Pour avoir l'assurance d'une instruction en 2026, vous devez déposer vos dossiers complets de demande d'aide sur Démarche Numérique avant le 30 septembre. [...] Prenez contact avec la direction de l'agence de l'eau de votre territoire [...] 01 41 20 16 00 [...] 12 rue de l'Industrie CS 80148 92416 Courbevoie Cedex"
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://eur-lex.europa.eu/eli/reg/2022/2473/oj",
+        "date": "2022-12-14",
+        "extrait": "Aides en faveur des PME actives dans la production, la transformation et la commercialisation des produits de la pêche et de l'aquaculture."
+      }
+    ],
+    "date_maj": "2026-09-25"
+  },
+  {
+    "id": "AIDE_LAI_007",
+    "nom": "QUA_1, accélérer les économies d'eau et réduire les prélèvements (agence de l'eau Loire-Bretagne, 12e programme)",
+    "financeur": "Agence de l'eau Loire-Bretagne",
+    "logo_url": null,
+    "type": "subvention",
+    "taux": "Subvention, à des taux maximaux qui peuvent être limités par l'encadrement européen des aides publiques en tenant compte des zones d'aide à finalité régionale. Jusqu'à 70 % pour les études et travaux de réduction des besoins en eau. Jusqu'à 50 % pour les études et travaux de réduction des prélèvements existants, branche qui porte le recyclage d'eau de process, la réutilisation des eaux usées traitées et la récupération d'eau de pluie. Les études préalables aux travaux sont des dépenses éligibles de ces deux mêmes lignes de QUA_1 : elles ne relèvent pas du dispositif IND_1, qui porte à 50 % maximum sur les études de réduction des pollutions et des pressions, un autre sujet.",
+    "plafond": "Travaux d'utilisation ou de réutilisation d'eaux non conventionnelles : coût plafond de 60 € par m3 d'eau substituée annuellement. À compter du 1er janvier 2027, un coût plafond de 60 € par m3 d'eau économisée s'appliquera à toutes les décisions d'aide relatives à des travaux de réduction des besoins en eau pour les industries et les collectivités, sur les demandes déjà déposées comme sur celles à venir, seules les opérations programmées dans des accords de territoire signés en 2025 n'étant pas concernées.",
+    "description": "Dispositif QUA_1 du 12e programme d'intervention 2025-2030 de l'agence de l'eau Loire-Bretagne, fiche action version 1 applicable au 1er janvier 2025. Il se décline en deux branches. La première, la réduction des besoins en eau, vise à abaisser la dépendance du site par un changement de process ou de pratiques et du matériel plus économe en eau. La seconde, la réduction des prélèvements existants, passe par la récupération d'eau de pluie, le recyclage d'eau de process et la réutilisation des eaux usées traitées, dans le cadre d'une approche globale d'économie d'eau. Les dépenses éligibles couvrent le coût des études préalables ou du diagnostic réalisés par un prestataire externe, le coût des études de réduction des prélèvements et des études préalables aux travaux, le coût des travaux avec la maîtrise d'oeuvre, l'assistance à maîtrise d'ouvrage et les équipements dédiés, y compris le matériel de comptage, ainsi que les travaux de traitement, d'équipement de suivi et de comptage et de stockage nécessaires à l'utilisation d'eaux non conventionnelles.",
+    "eligibilite": "Maîtres d'ouvrage publics ou privés, hors activité économique agricole et hors délégataire de service public. Les travaux doivent avoir fait l'objet d'une étude préalable ou d'un diagnostic faisant état d'une réflexion globale sur la réduction potentielle des besoins et des prélèvements en eau, détaillant l'objectif de réduction visé en volume et en ratio de consommation d'eau par tonne de produits finis, et doivent inclure les moyens de contrôle et de suivi des performances, notamment le comptage. Sont exclus les projets de création ou de transfert d'établissement et ceux portant sur des bâtiments neufs. La demande d'aide formelle et complète doit être déposée avant le démarrage du projet, faute de quoi elle est irrecevable.",
+    "categories": [
+      "suivre_comprendre_maitriser",
+      "ameliorer_efficacite_hydrique",
+      "valoriser_reut_eaux_non_conventionnelles"
+    ],
+    "secteurs": [
+      "industrie_laitiere",
+      "industrie_viande",
+      "industrie_fruits_legumes"
+    ],
+    "departements": [],
+    "agences": [
+      "AELB"
+    ],
+    "mesures": [
+      "ACT_AGR_001",
+      "ACT_AGR_002",
+      "ACT_LAI_003",
+      "ACT_LAI_004",
+      "ACT_LAI_006",
+      "ACT_VIA_002",
+      "ACT_VIA_003",
+      "ACT_VIA_004",
+      "ACT_VIA_006",
+      "ACT_FRL_002",
+      "ACT_FRL_003",
+      "ACT_FRL_004",
+      "ACT_FRL_005",
+      "ACT_FRL_006",
+      "ACT_FRL_007"
+    ],
+    "infos_complementaires": [
+      {
+        "type": "avertissement",
+        "texte": "La demande formelle et complète doit être déposée avant le démarrage du projet, sinon elle est irrecevable. Le démarrage s'entend du premier acte juridique qui rend la réalisation irréversible, c'est-à-dire la notification d'un marché ou d'un bon de commande. En revanche, les prestations nécessaires à la faisabilité du projet (études, marché de maîtrise d'oeuvre, sondages de sol, assistance à maîtrise d'ouvrage) ne constituent pas un démarrage."
+      },
+      {
+        "type": "avertissement",
+        "texte": "Le taux dépend de la branche du dispositif : un projet de réutilisation, de recyclage d'eau de process ou de récupération d'eau de pluie relève de la réduction des prélèvements existants, plafonnée à 50 %, et non des 70 % de la réduction des besoins en eau. Ne bâtissez pas un prévisionnel de réutilisation à 70 %."
+      },
+      {
+        "type": "avertissement",
+        "texte": "Le coût plafond de 60 € par m3 d'eau économisée, applicable au 1er janvier 2027, vise aussi les demandes déjà déposées : un dossier déposé en 2026 et décidé en 2027 y sera soumis."
+      },
+      {
+        "type": "avertissement",
+        "texte": "En 2026, la capacité d'intervention de l'agence est annoncée insuffisante face aux demandes de financement. Le conseil d'administration du 12 mars 2026 a décidé de prioriser encore davantage ses interventions, ce qui se traduit par la mise en suspens de certains dispositifs d'aide ou l'application d'un plafond d'aide. Vérifiez l'état du dispositif avant de bâtir un plan de financement."
+      },
+      {
+        "type": "avertissement",
+        "texte": "Les travaux ne sont pas aidés sans étude préalable ou diagnostic amont chiffrant l'objectif de réduction, en volume et en ratio de consommation d'eau par tonne de produits finis. Un an après la réception des travaux, un bilan global des réductions doit être fourni pour démontrer la conformité aux objectifs fixés."
+      },
+      {
+        "type": "avertissement",
+        "texte": "Un projet de réutilisation des eaux usées traitées doit faire l'objet d'une étude d'impact environnemental démontrant l'impact positif sur les masses d'eau, en s'appuyant sur le guide de préconisations de l'agence. Le bilan à un an doit détailler les volumes réutilisés et leurs usages."
+      },
+      {
+        "type": "info",
+        "texte": "Le comptage n'est pas un supplément facultatif : les travaux doivent inclure les moyens nécessaires au contrôle et au suivi des performances, et le matériel de comptage fait partie des dépenses éligibles. Pour la télérelève des plus gros consommateurs, la dépense retenue est le surcoût lié à l'enregistrement automatique et à la télétransmission, ou à défaut 50 % du coût du compteur intelligent."
+      },
+      {
+        "type": "info",
+        "texte": "Les aides de l'agence n'ont pas un caractère systématique : leur attribution dépend des disponibilités financières et de la priorisation des projets, et l'accusé de réception du dépôt ne vaut pas engagement d'attribution. La priorité va aux projets les plus efficients, en euros par mètre cube d'eau économisée, et aux territoires classés en zone de répartition des eaux."
+      },
+      {
+        "type": "info",
+        "texte": "Le dépôt s'effectue sur le téléservice Rivage, thématique « Lutte contre les pressions des activités économiques hors agriculture », dispositifs « Études » et « Travaux d'économie d'eau et de réduction des prélèvements ». L'agence recommande de prendre contact avec sa délégation territoriale avant de déposer."
+      },
+      {
+        "type": "ressource",
+        "texte": "Fiche dispositif QUA_1, études et travaux de réduction des besoins en eau (jusqu'à 70 %)",
+        "lien": "https://aides-redevances.eau-loire-bretagne.fr/home/aides/fiches-dispositif-12e-programme/qua/qua1-etudes-et-travaux-de-reduction-des-besoins-en-eau.html"
+      },
+      {
+        "type": "ressource",
+        "texte": "Fiche dispositif QUA_1, études et travaux de réduction des prélèvements existants (jusqu'à 50 %)",
+        "lien": "https://aides-redevances.eau-loire-bretagne.fr/home/aides/fiches-dispositif-12e-programme/qua/qua1-etudes-et-travaux-de-reduction-des-prelevements-existants.html"
+      },
+      {
+        "type": "ressource",
+        "texte": "Fiche action QUA_1, accélérer les économies d'eau et réduire les prélèvements (version 1, applicable au 1er janvier 2025)",
+        "lien": "https://aides-redevances.eau-loire-bretagne.fr/files/live/sites/aides-redevances/files/Aides-12prog/Fiches-actions/QUA_1.pdf"
+      },
+      {
+        "type": "ressource",
+        "texte": "Fiche dispositif IND_1, études de réduction des pollutions et des pressions (autre ligne d'aide, jusqu'à 50 %)",
+        "lien": "https://aides-redevances.eau-loire-bretagne.fr/home/aides/fiches-dispositif-12e-programme/ind/ind1-etudes-de-reduction-des-pollutions-et-des-pressions-et-etud.html"
+      },
+      {
+        "type": "ressource",
+        "texte": "Aides, mode d'emploi : dépôt sur Rivage et contact avec la délégation territoriale",
+        "lien": "https://aides-redevances.eau-loire-bretagne.fr/home/aides/lessentiel-des-aides---12e-programme/aides-mode-demploi.html"
+      },
+      {
+        "type": "info",
+        "texte": "Transformation du poisson, des crustacés et des mollusques : l'encadrement européen des aides au secteur de la pêche réserve l'aide aux PME, à 50 % au plus, sauf au titre des aides de minimis. Une grande entreprise du secteur ne peut être aidée qu'en de minimis.",
+        "lien": "https://eur-lex.europa.eu/eli/reg/2022/2473/oj",
+        "lien_label": "Règlement (UE) 2022/2473"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "taux (réduction des besoins en eau), plafond, eligibilite, infos_complementaires (priorisation 2026, dépôt)",
+        "url": "https://aides-redevances.eau-loire-bretagne.fr/home/aides/fiches-dispositif-12e-programme/qua/qua1-etudes-et-travaux-de-reduction-des-besoins-en-eau.html",
+        "date": "2026-09-22",
+        "extrait": "QUA_1 Études et travaux de réduction des besoins en eau. Taux d'aide 70 %. Le taux d'aide est un taux maximum. Il peut être limité par l'encadrement européen des aides publiques en tenant compte des zones d'aide à finalité régionales. Les aides de l'agence de l'eau n'ont pas un caractère systématique. Leur attribution est fonction d'une part des disponibilités financières de l'agence de l'eau et d'autre part de la priorisation des projets [...] En 2026, la capacité d'intervention de l'agence de l'eau est insuffisante pour faire face aux demandes inédites de financement. Le conseil d'administration du 12 mars 2026 a décidé de prioriser encore davantage ses interventions. Cela se traduit par l'adoption de mesures, dont la mise en suspens de certains dispositifs d'aide ou l'application d'un plafond d'aide [...] À compter du 1er janvier 2027, un coût plafond de 60 euros par m3 d'eau économisée sera appliqué à toutes les décisions d'aides prises sur les demandes déjà déposées et à venir relatives à des travaux de réduction des besoins en eau pour les industries et les collectivités. Seules les opérations programmées dans des accords de territoire signés en 2025 ne sont pas concernées. [...] Le dépôt s'effectue sur l'outil de téléservice « Rivage ». Thématique : Lutte contre les pressions des activités économiques hors agriculture (réduction des pollutions, économies d'eau et eaux pluviales). Dispositifs : Études ; Travaux d'économie d'eau et de réduction des prélèvements."
+      },
+      {
+        "champ": "taux (réduction des prélèvements existants)",
+        "url": "https://aides-redevances.eau-loire-bretagne.fr/home/aides/fiches-dispositif-12e-programme/qua/qua1-etudes-et-travaux-de-reduction-des-prelevements-existants.html",
+        "date": "2026-09-22",
+        "extrait": "QUA_1 Études et travaux de réduction des prélèvements existants. L'objectif de ce dispositif est de promouvoir une démarche globale de sobriété hydrique, essentielle face à la diminution de la disponibilité en eau, en incitant tous les usagers à adopter des solutions durables et collectives. Taux d'aide 50 %. Le taux d'aide est un taux maximum. Il peut être limité par l'encadrement européen des aides publiques en tenant compte des zones d'aide à finalité régionales."
+      },
+      {
+        "champ": "description (deux branches), mesures, eligibilite (bénéficiaire)",
+        "url": "https://aides-redevances.eau-loire-bretagne.fr/files/live/sites/aides-redevances/files/Aides-12prog/Fiches-actions/QUA_1.pdf",
+        "date": "2026-09-22",
+        "extrait": "QUA_1 - Accélérer les économies d'eau et réduire les prélèvements. Version n°1, applicable au 1er janvier 2025 (CA du 14 novembre 2024). Ce dispositif d'aide vise prioritairement à réduire les prélèvements : par des actions de réduction des besoins en eau afin d'abaisser sa dépendance et s'engager dans une démarche de sobriété hydrique (changement de process ou de pratiques, matériel plus économe en eau, toilettes sèches, etc.) ; par des actions de réduction des prélèvements existants via de la récupération d'eau de pluie, du recyclage d'eau de process, de la réutilisation des eaux usées traitées, etc. dans le cadre d'une approche globale d'économie d'eau. Les dispositifs aidés sont : Études et travaux de réduction des besoins en eau auprès des collectivités et des activités économiques ; Études et travaux de réduction des prélèvements existants auprès des collectivités et activités économiques ; Actions d'animation et communication [...] Bénéficiaire : Public ou privé hors activité économique agricole et hors délégataire de service public."
+      },
+      {
+        "champ": "description (dépenses éligibles dont études préalables), plafond (eaux non conventionnelles), mesures (comptage)",
+        "url": "https://aides-redevances.eau-loire-bretagne.fr/files/live/sites/aides-redevances/files/Aides-12prog/Fiches-actions/QUA_1.pdf",
+        "date": "2026-09-22",
+        "extrait": "Études et travaux de réduction des besoins en eau auprès des collectivités et des activités économiques non agricoles : Coût des études préalables ou du diagnostic réalisés par un prestataire externe. Coûts des travaux ainsi que la maitrise d'oeuvre, l'assistance à maitrise d'ouvrage et les équipements dédiés à la réduction des besoins en eau y compris matériel de comptage. Études et travaux de réduction des prélèvements existants auprès des collectivités et activités économiques non agricoles : Coût des études de réduction des prélèvements et des études préalables aux travaux (études d'acceptabilité du milieu récepteur, études diagnostics, étude de faisabilité et d'aide à la décision, etc.) réalisées par un prestataire externe. Coût des travaux de traitement, d'équipement de suivi et comptage (hors main d'oeuvre interne), de stockage nécessaire à l'utilisation (ou la réutilisation) des eaux non conventionnelles (eau de pluie, eau de process, eaux usées traitées...) dans la limite d'un coût plafond de 60 €/m3 d'eau substituée annuellement. Coût de la mise en place de la télérelève de compteurs pour les plus gros consommateurs : s'il est nécessaire de changer le compteur, la dépense retenue porte sur le surcoût lié à l'enregistrement automatique et la télétransmission des consommations. À défaut de chiffrage de ce surcoût, 50% du coût du compteur intelligent est pris en compte."
+      },
+      {
+        "champ": "eligibilite, infos_complementaires (étude préalable, comptage, REUT, bilan à un an, priorisation)",
+        "url": "https://aides-redevances.eau-loire-bretagne.fr/files/live/sites/aides-redevances/files/Aides-12prog/Fiches-actions/QUA_1.pdf",
+        "date": "2026-09-22",
+        "extrait": "Sont exclus les projets dans le cadre de la création ou d'un transfert d'établissement et dans les bâtiments neufs. [...] Les travaux doivent avoir fait l'objet d'une étude préalable ou d'un diagnostic faisant état d'une réflexion globale sur la réduction potentielle des besoins et des prélèvements en eau détaillant l'objectif de réduction en eau visé (en volume et en ratio de consommation d'eau par tonne de produits finis). Les travaux doivent inclure les moyens nécessaires au contrôle et au suivi des performances relatives à la réduction des prélèvements en eau et notamment le comptage. [...] Les projets de réutilisation des eaux usées traitées doivent faire l'objet d'une étude d'impact environnemental pour démontrer l'impact positif sur la (les) masse(s) d'eau. [...] La priorité est donnée aux projets les plus efficients (en euros par mètre cube d'eau économisée) et sur les territoires classés en zone de répartition des eaux (ZRE). [...] Pour tous les travaux : fourniture d'un bilan global des réductions des besoins ou des prélèvements en eau (en volume et en ratio de consommation d'eau) réalisé un an après la réception des travaux démontrant la conformité avec les objectifs fixés. Pour les projets de réutilisation des eaux usées traitées, ce bilan devra détailler les volumes d'eau réutilisés et les usages qui en sont faits. Pour les projets de réutilisation des eaux usées traitées, l'étude d'impact environnemental du projet doit s'appuyer sur le guide de préconisations de l'agence de l'eau."
+      },
+      {
+        "champ": "type, eligibilite (dépôt avant démarrage), infos_complementaires (premier acte juridique)",
+        "url": "https://aides-redevances.eau-loire-bretagne.fr/files/live/mounts/midas/Aides/12e%20programme/R%c3%a8gles%20g%c3%a9n%c3%a9rales%20d%e2%80%99attri",
+        "date": "2026-09-22",
+        "extrait": "Règles générales d'attribution et de versement des aides du 12e programme d'intervention de l'agence de l'eau Loire-Bretagne. Délibération n° 2024-102 du 14 novembre 2024. Date d'effet : 1er janvier 2025. [...] L'agence de l'eau attribue des aides sous forme de subvention (par application de taux ou de forfait) ou d'avance remboursable. [...] La demande d'aide formelle et complète doit être déposée avant le démarrage du projet ; à défaut elle est irrecevable. Le premier acte juridique de démarrage du projet est celui qui rend irréversible sa réalisation (notification d'un marché ou d'un bon de commande, pour le cas général, l'attestation du bénéficiaire en cas de réalisation en régie). [...] Les prestations dont le bénéficiaire aurait besoin pour assurer la faisabilité du projet (acquisitions de terrains, études, marché de maîtrise d'oeuvre, sondage de sols, assistance à maitrise d'ouvrage [...]) ne constituent pas un démarrage du projet. [...] En aucun cas, l'accusé de réception du dépôt de la demande d'aide ne vaut engagement d'attribution d'une aide de l'agence de l'eau."
+      },
+      {
+        "champ": "taux (dispositif IND_1, autre ligne d'aide)",
+        "url": "https://aides-redevances.eau-loire-bretagne.fr/home/aides/fiches-dispositif-12e-programme/ind/ind1-etudes-de-reduction-des-pollutions-et-des-pressions-et-etud.html",
+        "date": "2026-09-22",
+        "extrait": "IND_1 Études de réduction des pollutions et des pressions et études préalables aux travaux. Taux d'aide 50 %. Le taux d'aide est un taux maximum, il peut être limité par l'encadrement européen des aides publiques. Votre demande d'aide financière doit être déposée avant tout engagement juridique ou début d'exécution."
+      },
+      {
+        "champ": "infos_complementaires (dépôt sur Rivage, contact délégation)",
+        "url": "https://aides-redevances.eau-loire-bretagne.fr/home/aides/lessentiel-des-aides---12e-programme/aides-mode-demploi.html",
+        "date": "2026-09-22",
+        "extrait": "Avant de déposer une demande d'aide, prenez contact avec votre délégation ! Avec ces cinq délégations territoriales, l'agence de l'eau se tient aux côtés des acteurs locaux sur l'ensemble du bassin Loire-Bretagne. [...] À partir du 10 janvier 2025, le dépôt des demandes d'aide s'effectue sur « Rivage » le nouvel outil de téléservice."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://eur-lex.europa.eu/eli/reg/2022/2473/oj",
+        "date": "2022-12-14",
+        "extrait": "Aides en faveur des PME actives dans la production, la transformation et la commercialisation des produits de la pêche et de l'aquaculture."
+      }
+    ],
+    "date_maj": "2026-09-25"
+  },
+  {
+    "id": "AIDE_LAI_008",
+    "nom": "Économiser et recycler l'eau des activités industrielles et de l'artisanat (agence de l'eau Adour-Garonne, programme Eau 2025-2030)",
+    "financeur": "Agence de l'eau Adour-Garonne",
+    "logo_url": null,
+    "type": "subvention",
+    "taux": "Subvention, de 30 % à 80 % selon la nature de l'opération et le statut du bénéficiaire, fourchette annoncée sur le portail public Aides-territoires. Une avance récupérable est également mobilisable. Le détail des taux par type d'opération n'est pas confirmable en ligne et doit être demandé à l'agence.",
+    "plafond": null,
+    "description": "Dispositif du programme Eau 2025-2030 de l'agence de l'eau Adour-Garonne, rattaché à la ligne « Lutte contre les pressions des activités économiques hors agriculture (réduction des pollutions, économies d'eau et eaux pluviales) ». L'agence encourage les entreprises à économiser l'eau, à développer des solutions de recyclage dans leurs activités et à installer des systèmes en circuit fermé pour limiter les prélèvements. Elle soutient les études de connaissance des enjeux quantitatifs des prélèvements intégrant les impacts du changement climatique, et finance les projets de réutilisation des eaux non conventionnelles comme les eaux usées traitées ou les eaux de pluie. Les projets types cités sont les démarches prospectives et diagnostics et les études avant travaux, les travaux d'efficience et d'économie d'eau (mise en circuit fermé, collecte et recyclage des eaux pluviales) et les travaux de transfert de prélèvements vers des ressources moins sensibles.",
+    "eligibilite": "Personnes publiques ou privées exerçant une activité économique à caractère industriel, commercial et artisanal ou en lien avec de telles activités, hors secteur agricole et élevage sauf aquaculture. Les projets doivent permettre une économie de prélèvement d'eau d'au moins 10 % du volume total annuel moyen prélevé dès lors que celui-ci est supérieur à 5 000 m3, ou une économie supérieure à 500 000 m3.",
+    "categories": [
+      "suivre_comprendre_maitriser",
+      "ameliorer_efficacite_hydrique",
+      "valoriser_reut_eaux_non_conventionnelles"
+    ],
+    "secteurs": [
+      "industrie_laitiere",
+      "industrie_viande",
+      "industrie_fruits_legumes"
+    ],
+    "departements": [],
+    "agences": [
+      "AEAG"
+    ],
+    "mesures": [
+      "ACT_AGR_002",
+      "ACT_LAI_003",
+      "ACT_LAI_004",
+      "ACT_LAI_006",
+      "ACT_VIA_002",
+      "ACT_VIA_003",
+      "ACT_VIA_004",
+      "ACT_VIA_006",
+      "ACT_FRL_002",
+      "ACT_FRL_003",
+      "ACT_FRL_004",
+      "ACT_FRL_005",
+      "ACT_FRL_006",
+      "ACT_FRL_007"
+    ],
+    "infos_complementaires": [
+      {
+        "type": "avertissement",
+        "texte": "Les taux détaillés par type d'opération sont à confirmer auprès de l'agence avant tout montage financier. Le site de l'agence, eau-grandsudouest.fr, présente une chaîne de certificat incomplète et n'est pas consultable de façon fiable selon les navigateurs : seule la fourchette de 30 % à 80 % publiée sur le portail public Aides-territoires a pu être vérifiée."
+      },
+      {
+        "type": "avertissement",
+        "texte": "Le seuil d'accès écarte les petits ateliers : le projet doit économiser au moins 10 % du volume annuel moyen prélevé, et encore faut-il que ce volume dépasse 5 000 m3 par an. En dessous, aucune économie ne rend le dossier éligible à ce dispositif."
+      },
+      {
+        "type": "info",
+        "texte": "Le chargé d'intervention industries de l'agence pour l'agroalimentaire est Marc Pinel, 05 61 36 82 19, marc.pinel@eau-adour-garonne.fr. C'est le bon interlocuteur pour faire préciser les taux et l'éligibilité de votre site."
+      },
+      {
+        "type": "info",
+        "texte": "Le dispositif est ouvert du 1er janvier 2025 au 31 décembre 2030 et la demande se dépose sur la plateforme Rivage de l'agence."
+      },
+      {
+        "type": "ressource",
+        "texte": "Fiche du dispositif sur le portail public Aides-territoires (ANCT)",
+        "lien": "https://aides-territoires.beta.gouv.fr/aides/collecter-et-traiter-les-eaux-usees-et-les-eaux-pluviales-2/"
+      },
+      {
+        "type": "ressource",
+        "texte": "Plateforme de dépôt des demandes d'aide Rivage de l'agence de l'eau Adour-Garonne",
+        "lien": "https://rivage.eau-adour-garonne.fr/appli/"
+      },
+      {
+        "type": "info",
+        "texte": "Transformation du poisson, des crustacés et des mollusques : l'encadrement européen des aides au secteur de la pêche réserve l'aide aux PME, à 50 % au plus, sauf au titre des aides de minimis. Une grande entreprise du secteur ne peut être aidée qu'en de minimis.",
+        "lien": "https://eur-lex.europa.eu/eli/reg/2022/2473/oj",
+        "lien_label": "Règlement (UE) 2022/2473"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "nom, description, mesures",
+        "url": "https://aides-territoires.beta.gouv.fr/aides/collecter-et-traiter-les-eaux-usees-et-les-eaux-pluviales-2/",
+        "date": "2026-09-22",
+        "extrait": "Economiser et recycler l'eau des activités industrielles et de l'artisanat. Nom initial de l'aide : « Lutte contre les pressions des activités économiques hors agriculture (réduction des pollutions, économies d'eau et eaux pluviales) ». L'Agence de l'eau encourage les entreprises à économiser l'eau, à développer des solutions de recyclage dans leurs activités et à installer des systèmes en circuit fermé pour limiter les prélèvements en eau. [...] Elle soutient également des études de connaissance des enjeux quantitatifs des prélèvements intégrant les impacts du changement climatique sur la ressource en eau. Enfin, l'Agence finance des projets de réutilisation des eaux non conventionnelles comme les eaux usées traitées, eaux de pluie ou eaux de piscine. [...] Exemples de projets réalisables : Démarches prospectives et diagnostics, études avant travaux ; Travaux d'efficience et économie d'eau (mise en circuit fermé, collecte et recyclage des eaux pluviales...) ; Travaux de transfert de prélèvements vers des ressources moins sensibles"
+      },
+      {
+        "champ": "eligibilite, infos_complementaires (seuils)",
+        "url": "https://aides-territoires.beta.gouv.fr/aides/collecter-et-traiter-les-eaux-usees-et-les-eaux-pluviales-2/",
+        "date": "2026-09-22",
+        "extrait": "Les bénéficiaires sont des personnes publiques ou privées exerçant une activité économique à caractère industriel, commercial et artisanal ou en lien avec de telles activités (hors secteur agricole et élevage sauf aquaculture). Les projets devront permettre une économie de prélèvement d'eau d'au moins 10% du volume total annuel moyen prélevé dès lors que celui-ci est supérieur à 5 000 m3 ou une économie supérieure à 500 000 m3."
+      },
+      {
+        "champ": "taux, type, dates du dispositif",
+        "url": "https://aides-territoires.beta.gouv.fr/aides/collecter-et-traiter-les-eaux-usees-et-les-eaux-pluviales-2/",
+        "date": "2026-09-22",
+        "extrait": "Porteur d'aide : Agence de l'eau Adour-Garonne. Subvention (min : 30% - max : 80%). Avance récupérable. Calendrier : Du 1 janvier 2025 au 31 décembre 2030. Zone géographique couverte par l'aide : Adour-Garonne. Dernière mise à jour : 3 septembre 2026."
+      },
+      {
+        "champ": "infos_complementaires (contact, dépôt)",
+        "url": "https://aides-territoires.beta.gouv.fr/aides/collecter-et-traiter-les-eaux-usees-et-les-eaux-pluviales-2/",
+        "date": "2026-09-22",
+        "extrait": "Secteurs d'activités : Agro-Alimentaires / Golf / Activités commerciales : Marc PINEL - Chargé d'intervention industries Tel direct : 05 61 36 82 19 - marc.pinel@eau-adour-garonne.fr. Candidater : https://rivage.eau-adour-garonne.fr/appli/"
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://eur-lex.europa.eu/eli/reg/2022/2473/oj",
+        "date": "2022-12-14",
+        "extrait": "Aides en faveur des PME actives dans la production, la transformation et la commercialisation des produits de la pêche et de l'aquaculture."
+      }
+    ],
+    "date_maj": "2026-09-25"
+  },
+  {
+    "id": "AIDE_LAI_009",
+    "nom": "ECO3, sobriété en eau des activités industrielles et économiques (agence de l'eau Rhône Méditerranée Corse, 12e programme)",
+    "financeur": "Agence de l'eau Rhône Méditerranée Corse",
+    "logo_url": null,
+    "type": "subvention",
+    "taux": "Subvention, à des taux maximaux. En cadre individuel, jusqu'à 40 % pour les études comme pour les travaux d'économie d'eau portant sur plus de 2 000 m3 par an, et jusqu'à 50 % pour la recherche, le développement et l'innovation sur des dispositifs d'économies d'eau. Ces deux taux sont majorés en fonction de la taille de l'entreprise : +10 % pour les moyennes entreprises, +20 % pour les petites entreprises.",
+    "plafond": "Pour les travaux, l'assiette est plafonnée à 40 € par m3 économisé par an.",
+    "description": "Fiche aide ECO3 du 12e programme de l'agence de l'eau Rhône Méditerranée Corse, version 1 adoptée par le conseil d'administration du 19 décembre 2024 (délibération 2024-38). Elle finance les études, état des lieux et diagnostics sur site des consommations d'eau et études préalables aux travaux, les actions de réduction des pertes en eau (réduction des fuites sur les réseaux, gestion de la pression), la mise en oeuvre de technologies économes en eau (changement de process, recyclage, régulation, modernisation des réseaux et des équipements, dispositifs de pilotage, télégestion et sectorisation incluant des dispositifs hydro-économes et des compteurs), la mise en oeuvre de technologie pour traiter l'eau usée en vue d'une réutilisation, d'un recyclage ou d'un réemploi sur le site industriel en lien avec des économies d'eau, les dispositifs de récupération des eaux pluviales, ainsi que les projets de recherche, de développement ou d'innovation portant sur des dispositifs d'économie d'eau.",
+    "eligibilite": "Acteurs économiques non agricoles (industries, sociétés, entreprises, coopératives) et organismes de recherche, sur tous les territoires des bassins Rhône-Méditerranée et de Corse. Les opérations doivent se traduire par une diminution effective des prélèvements dans le milieu au point de prélèvement ou sur le réseau d'eau potable. En cadre individuel, l'économie visée doit dépasser 2 000 m3 par an ; en deçà, le projet n'est aidé que dans le cadre de démarches collectives de branche ou de filière, via un appel à projets. La demande d'aide doit être formellement transmise à l'agence avant l'engagement du projet, sous peine de rejet.",
+    "categories": [
+      "suivre_comprendre_maitriser",
+      "ameliorer_efficacite_hydrique",
+      "valoriser_reut_eaux_non_conventionnelles"
+    ],
+    "secteurs": [
+      "industrie_laitiere",
+      "industrie_viande",
+      "industrie_fruits_legumes"
+    ],
+    "departements": [],
+    "agences": [
+      "AERMC"
+    ],
+    "mesures": [
+      "ACT_AGR_002",
+      "ACT_LAI_003",
+      "ACT_LAI_004",
+      "ACT_LAI_006",
+      "ACT_VIA_002",
+      "ACT_VIA_003",
+      "ACT_VIA_004",
+      "ACT_VIA_006",
+      "ACT_FRL_002",
+      "ACT_FRL_003",
+      "ACT_FRL_004",
+      "ACT_FRL_005",
+      "ACT_FRL_006",
+      "ACT_FRL_007"
+    ],
+    "infos_complementaires": [
+      {
+        "type": "avertissement",
+        "texte": "Sous 2 000 m3 d'économie par an, un atelier sort du guichet individuel : les actions d'économie d'eau inférieures à ce seuil ne sont aidées que dans le cadre de démarches collectives de branche ou de filière, via un appel à projets. Pour un petit atelier agroalimentaire, la voie d'accès passe donc par une opération portée par la filière ou le territoire."
+      },
+      {
+        "type": "avertissement",
+        "texte": "Poser des compteurs divisionnaires n'est pas finançable en tant que tel sur ce bassin : les dispositifs de comptage seuls, sans lien avec un projet d'étude ou de travaux, figurent parmi les dépenses non éligibles. Les compteurs ne sont pris en charge que comme composante d'un projet plus large de pilotage, de télégestion ou de sectorisation. À l'inverse, l'aide aux travaux est conditionnée à l'existence d'un comptage des prélèvements, ou au dépôt simultané d'une demande d'aide pour l'installer, afin de démontrer à terme l'atteinte de l'objectif d'économie annoncé."
+      },
+      {
+        "type": "avertissement",
+        "texte": "La demande d'aide doit être formellement transmise à l'agence avant l'engagement du projet. Le non-respect de cette disposition entraîne le rejet de la demande, sauf accord écrit préalable de l'agence pour engager les travaux, opération inscrite au plan d'action d'un contrat signé avec l'agence, ou actions préalables nécessaires à la préparation du dossier ou à la définition des travaux."
+      },
+      {
+        "type": "avertissement",
+        "texte": "Le renouvellement des ouvrages à l'identique n'est pas éligible. L'opération doit se traduire par une diminution effective des prélèvements au point de prélèvement ou sur le réseau d'eau potable."
+      },
+      {
+        "type": "info",
+        "texte": "La fiche ECO3 écrit la majoration de taille sous la forme « +10 % » et « +20 % » sans préciser s'il s'agit de points de taux ou d'une majoration proportionnelle. Faites confirmer le calcul par l'agence avant d'arrêter un prévisionnel."
+      },
+      {
+        "type": "info",
+        "texte": "Le taux de 50 % pour la recherche et le développement suppose un lien avec des industriels des bassins Rhône-Méditerranée et Corse. Si le projet est porté par le fournisseur de la solution, l'aide est conditionnée à une participation financière de ces industriels d'au moins 10 % du montant global du projet. S'il est porté par un organisme de recherche, elle est conditionnée à l'association d'un ou plusieurs industriels des bassins."
+      },
+      {
+        "type": "info",
+        "texte": "Quatre types d'opérations relèvent d'autres fiches aides que ECO3 et ne sont pas couverts ici : les actions d'économie d'eau en cadre groupé dans le cadre d'un appel à projets, les projets de substitution, la réutilisation des eaux usées traitées lorsqu'elle profite à des acteurs extérieurs au site, et les têtes de réseau."
+      },
+      {
+        "type": "info",
+        "texte": "Les aides sont attribuées sous forme de subventions. Une partie ou la totalité peut être convertie en avance remboursable à la demande du bénéficiaire, mais ces avances ne sont accordées qu'aux personnes morales de droit public : une entreprise privée n'y a pas accès."
+      },
+      {
+        "type": "info",
+        "texte": "Au solde de l'aide, l'agence demande la publicité de son soutien pour tout projet, et la fourniture du rapport d'étude pour les études."
+      },
+      {
+        "type": "ressource",
+        "texte": "Fiche aide ECO3, sobriété en eau des activités industrielles et économiques (délibération 2024-38)",
+        "lien": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/eco3-sobriete-industriels.pdf"
+      },
+      {
+        "type": "ressource",
+        "texte": "Conditions générales d'attribution et de versement des aides du 12e programme (délibération 2024-77)",
+        "lien": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-02/conditions-generales.pdf"
+      },
+      {
+        "type": "ressource",
+        "texte": "Les aides du 12e programme de l'agence de l'eau Rhône Méditerranée Corse",
+        "lien": "https://www.eaurmc.fr/jcms/pro_127118/fr/les-aides-du-12e-programme"
+      },
+      {
+        "type": "info",
+        "texte": "Transformation du poisson, des crustacés et des mollusques : l'encadrement européen des aides au secteur de la pêche réserve l'aide aux PME, à 50 % au plus, sauf au titre des aides de minimis. Une grande entreprise du secteur ne peut être aidée qu'en de minimis.",
+        "lien": "https://eur-lex.europa.eu/eli/reg/2022/2473/oj",
+        "lien_label": "Règlement (UE) 2022/2473"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "nom, taux, plafond, eligibilite",
+        "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/eco3-sobriete-industriels.pdf",
+        "date": "2026-09-22",
+        "extrait": "ECO3 - Sobriété en eau des activités industrielles et économiques. Version 1 adoptée par le conseil d'administration du 19 décembre 2024, Délibération 2024-38. TYPES D'ACTIONS / TAUX MAXIMUM. Dans un cadre individuel : études et travaux d'économie d'eau supérieure à 2 000 m3/an : 40 % *. Recherche, développement, innovation pour des dispositifs d'économies d'eau : 50 % *. * Majoration en fonction de la taille de l'entreprise : +10 % pour les moyennes entreprises, +20% pour les petites entreprises. [...] Bénéficiaires éligibles : Acteurs économiques non agricoles (industries, sociétés, entreprises, coopératives...) ; Organismes de recherche. Territoires éligibles : Tous les territoires des bassins Rhône Méditerranée et de Corse. [...] Pour les travaux, l'assiette est plafonnée à hauteur de 40 €/m3 économisé/an."
+      },
+      {
+        "champ": "description, mesures",
+        "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/eco3-sobriete-industriels.pdf",
+        "date": "2026-09-22",
+        "extrait": "Actions et dépenses éligibles : Études : état des lieux et diagnostics sur site des consommations d'eau, études préalables aux travaux. Actions de réduction des pertes en eau : réduction des fuites sur les réseaux, gestion de la pression. Mise en oeuvre de technologies économes en eau : changement de process, recyclage, régulation, modernisation des réseaux et des équipements, dispositifs de pilotage, télégestion et sectorisation incluant des dispositifs hydro-économes et des compteurs. Mise en oeuvre de technologie pour traiter l'eau usée pour une réutilisation, recyclage, réemploi sur le site industriel en lien avec des économies d'eau. Dispositifs de récupération des eaux pluviales. Projets de recherche, développement ou innovation pour des dispositifs d'économie d'eau."
+      },
+      {
+        "champ": "eligibilite, infos_complementaires (comptage non éligible seul, seuil, renouvellement)",
+        "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/eco3-sobriete-industriels.pdf",
+        "date": "2026-09-22",
+        "extrait": "Actions et dépenses non éligibles : Dispositifs de comptage seuls (sans lien avec un projet d'étude ou de travaux) ; Renouvellement des ouvrages à l'identique. Conditions d'aides : Les opérations d'économies d'eau doivent se traduire par une diminution effective des prélèvements dans le milieu au point de prélèvement ou sur le réseau d'eau potable. Pour les travaux, les aides sont conditionnées à l'existence de dispositifs de comptage des prélèvements ou à la présentation simultanée d'une demande d'aide pour l'installation d'un tel dispositif, permettant de démontrer à terme l'atteinte de l'objectif d'économie annoncé. Les actions d'économie d'eau inférieures à 2 000 m3/an sont aidées uniquement dans le cadre de démarches collectives de branche ou de filière, via un appel à projets."
+      },
+      {
+        "champ": "infos_complementaires (conditions R&D, autres fiches aides, conditions de solde)",
+        "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/eco3-sobriete-industriels.pdf",
+        "date": "2026-09-22",
+        "extrait": "Les projets R&D doivent être en lien avec des industriels situés sur les bassins Rhône Méditerranée et Corse : En cas de portage du projet par le fournisseur de la solution, l'aide est conditionnée à une participation financière des industriels des bassins Rhône Méditerranée et Corse impliqués dans l'étude, et ce à hauteur minimale de 10% du montant global du projet ; En cas de portage du projet par un organisme de recherche, l'aide est conditionnée à l'association d'un ou plusieurs industriels situés sur les bassins Rhône Méditerranée et Corse. [...] Types d'actions relevant d'autres fiches aides : Actions d'économie d'eau dans un cadre groupé, dans le cadre d'un appel à projets : se référer à la fiche relative aux opérations sectorielles ; Projets de substitution ; Réutilisation des eaux usées traitées (dans le cas de réutilisation par des acteurs extérieurs au site) ; Têtes de réseau : se référer à la fiche relative à la gouvernance locale de l'eau et aux têtes de réseau. [...] Conditions de solde de l'aide. Pour tout projet : Publicité des aides de l'agence [...] Pour les études : Fourniture du rapport d'étude."
+      },
+      {
+        "champ": "type, eligibilite (dépôt avant engagement), infos_complementaires (avances remboursables)",
+        "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-02/conditions-generales.pdf",
+        "date": "2026-09-22",
+        "extrait": "Conditions générales d'attribution et de versement des aides. Version 1 adoptée par le conseil d'administration du 19 décembre 2024, Délibération 2024-77. Les aides sont attribuées sous forme de subventions, soit proportionnelles à l'assiette retenue pour le projet, soit forfaitaires pour les interventions prévues sous cette forme. La totalité ou une partie de l'aide prévue sous forme de subvention peut être convertie en avance remboursable à la demande du bénéficiaire. [...] Une demande d'aide doit être formellement transmise à l'agence avant l'engagement du projet considéré. Le non-respect de cette disposition entraîne le rejet de la demande d'aide, sauf dans les cas suivants : accord écrit préalable de l'agence pour engager les travaux avant le dépôt formel de la demande ; opérations inscrites dans le plan d'action d'un contrat signé avec l'agence [...] ; actions préalables, nécessaires à la préparation du dossier de demande d'aide, ou à la définition des travaux pour les aides relatives à des travaux [...] Les avances remboursables sont accordées uniquement aux personnes morales de droit public."
+      },
+      {
+        "champ": "description (programme en vigueur)",
+        "url": "https://www.eaurmc.fr/jcms/pro_127118/fr/les-aides-du-12e-programme",
+        "date": "2026-09-22",
+        "extrait": "Les aides du 12e programme. Le programme d'action Sauvons l'eau ! s'étale sur 6 ans, avec 50 % des aides du programme consacrées à l'adaptation des territoires face aux effets du changement climatique."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://eur-lex.europa.eu/eli/reg/2022/2473/oj",
+        "date": "2022-12-14",
+        "extrait": "Aides en faveur des PME actives dans la production, la transformation et la commercialisation des produits de la pêche et de l'aquaculture."
+      }
+    ],
+    "date_maj": "2026-09-25"
+  }
+]

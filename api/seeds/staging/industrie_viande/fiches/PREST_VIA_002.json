@@ -1,0 +1,81 @@
+{
+  "id": "PREST_VIA_002",
+  "nom": "REGELAV",
+  "type": "equipementier",
+  "logo_url": null,
+  "siret": "42087469500018",
+  "description": "Constructeur nantais de nettoyeurs haute et moyenne pression créé en 1978, qui conçoit et fabrique en France ses machines, dont des laveurs dédiés : laveur de crochets de ligne d'abattage LDC et tunnels de lavage de caisses (300 à 1200 caisses par heure), qui selon le fabricant intègrent des modules de recyclage de l'eau. Pour les abattoirs, il propose des nettoyeurs haute pression à eau chaude et des canons à mousse, et présente des accessoires économes en eau (lances, buses, régulateurs de débit). Il intervient de la conception à l'installation sur site et à la formation à l'usage de ses matériels, avec un service après-vente sur toute la France.",
+  "expertises": [
+    "Laveurs de crochets d'abattage",
+    "Tunnels de lavage de caisses",
+    "Nettoyeurs haute pression eau chaude",
+    "Canons à mousse"
+  ],
+  "categories": [
+    "valoriser_reut_eaux_non_conventionnelles",
+    "sensibiliser_former"
+  ],
+  "secteurs": ["industrie_viande"],
+  "departements": [],
+  "mesures": [
+    { "id": "ACT_VIA_006", "roles": ["materiel"] },
+    { "id": "ACT_VIA_001", "roles": ["materiel"] }
+  ],
+  "contacts": [
+    { "type": "site_internet", "value": "https://www.regelav.com/" },
+    { "type": "tel", "value": "+33 (0)2 40 49 54 12" },
+    { "type": "adresse", "value": "16 Rue d'Athènes, 44300 Nantes" }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=REGELAV&departement=44",
+      "date": "2026-09-24",
+      "extrait": "REGELAV, siret 42087469500018, siège, NANT EST ENTREPRISES ZI DU BOIS BRIAND 16 RUE D'ATHENES 44300 NANTES, activité 28.29B, état administratif A"
+    },
+    {
+      "champ": "contacts",
+      "url": "https://www.regelav.com/lentreprise-regelav/",
+      "date": "2026-09-24",
+      "extrait": "Coordonnées 16 Rue d'Athènes 44300 Nantes +33 (0)2 40 49 54 12"
+    },
+    {
+      "champ": "type, description, departements",
+      "url": "https://www.regelav.com/lentreprise-regelav/",
+      "date": "2026-09-24",
+      "extrait": "REGELAV, intervient sur tout le process global de la demande client, de la conception en passant par la fabrication jusqu'à l'installation sur site chez ses clients sans oublier la formation à l'usage de ses matériels [...] Nos techniciens vous accompagnent sur toute la France [...] 1978 Notre année de création [...] 100 % Conçu et Fabriqué en France"
+    },
+    {
+      "champ": "expertises, description, mesures (ACT_VIA_006)",
+      "url": "https://www.regelav.com/transitions/machines-speciales-haute-pression-2/",
+      "date": "2026-09-24",
+      "extrait": "TUNNEL DE LAVAGE : Laveuse de caisses, palox bois ou plastiques, [...] laveur de crochet dans le secteur de la viande, laveur de grilles, écloserie. Toutes nos solutions intègrent des modules de recyclage de l'eau pour préserver les consommations"
+    },
+    {
+      "champ": "expertises, description",
+      "url": "https://www.regelav.com/laveur-de-crochets/",
+      "date": "2026-09-24",
+      "extrait": "Le Laveur de crochets de ligne d'abattage LDC, la solution idéale pour le lavage haute pression des crochets de différents formats dans le secteur de l'agro-alimentaire pour les lignes d'abattages notamment."
+    },
+    {
+      "champ": "expertises, description",
+      "url": "https://www.regelav.com/transitions/machines-speciales-haute-pression/",
+      "date": "2026-09-24",
+      "extrait": "Découvrez notre gamme de tunnel de lavage dédié au lavage haute pression de caisses multi-format, une solution puissante pour le nettoyage efficace de 300 à 1200 caisses par heure !"
+    },
+    {
+      "champ": "expertises, description",
+      "url": "https://www.regelav.com/actualites/nettoyer-efficacement-un-abattoir/",
+      "date": "2026-09-24",
+      "extrait": "Dans le secteur agro-alimentaire, et plus particulièrement dans les abattoirs et les élevages, [...] REGELAV [...] offre des équipements adaptés pour répondre à ces exigences strictes. [...] Utilisez nos nettoyeurs haute pression à eau chaude de 80°C [...] L'utilisation d'un canon à mousse REGELAV permet une application uniforme des désinfectants."
+    },
+    {
+      "champ": "description, mesures (ACT_VIA_001, ACT_VIA_006)",
+      "url": "https://www.regelav.com/actualites/comment-economiser-leau-avec-un-nettoyeur-haute-pression-astuces-et-equipements/",
+      "date": "2026-09-24",
+      "extrait": "Nos nettoyeurs haute pression sont conçus pour maximiser les performances tout en réduisant la consommation d'eau. Nos solutions innovantes : Systèmes de récupération d'eau pour les installations fixes. Accessoires économes en eau : lances, buses, et régulateurs de débit."
+    }
+  ],
+  "date_maj": "2026-09-24"
+}

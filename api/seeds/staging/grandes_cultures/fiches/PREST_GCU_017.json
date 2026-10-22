@@ -1,0 +1,139 @@
+{
+  "id": "PREST_GCU_017",
+  "nom": "Rives & Eaux du Sud-Ouest (ex-CACG)",
+  "type": "bureau_etudes",
+  "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792084340/Noe%20assets/logos/PREST_GCU_017.png",
+  "siret": "59278023300017",
+  "description": "Société anonyme d'économie mixte basée à Tarbes, anciennement CACG, qui gère le système Neste et des réserves d'eau en Gascogne et dispose d'un bureau d'études en hydraulique. Pour un irrigant individuel, elle propose des contrats d'accès à l'eau (prélèvement en rivière réalimentée ou sur réseau sous pression), une évaluation des besoins en eau et des conseils pour optimiser le système d'irrigation, et vend et installe du matériel (goutte-à-goutte, pivots, enrouleurs) depuis quatre magasins d'irrigation. Son bureau d'études réalise les études et la maîtrise d'oeuvre d'ouvrages de stockage, dont les retenues de substitution. Prestations sur devis.",
+  "expertises": [
+    "Contrats d'accès à l'eau",
+    "Conseil en efficacité d'irrigation",
+    "Vente et pose de matériel d'irrigation",
+    "Études de retenues de substitution"
+  ],
+  "categories": [
+    "ameliorer_efficacite_hydrique",
+    "valoriser_reut_eaux_non_conventionnelles"
+  ],
+  "secteurs": [
+    "grandes_cultures"
+  ],
+  "departements": [
+    "31",
+    "32",
+    "40",
+    "47",
+    "65",
+    "82"
+  ],
+  "mesures": [
+    {
+      "id": "ACT_GCU_002",
+      "roles": [
+        "conseil_etude"
+      ]
+    },
+    {
+      "id": "ACT_GCU_003",
+      "roles": [
+        "materiel",
+        "travaux"
+      ]
+    },
+    {
+      "id": "ACT_GCU_004",
+      "roles": [
+        "materiel",
+        "travaux"
+      ]
+    },
+    {
+      "id": "ACT_GCU_008",
+      "roles": [
+        "conseil_etude"
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "type": "site_internet",
+      "value": "https://www.riveseteaux.fr/"
+    },
+    {
+      "type": "tel",
+      "value": "05 62 51 71 49"
+    },
+    {
+      "type": "adresse",
+      "value": "Chemin de Lalette, CS 50449, 65004 Tarbes Cedex"
+    },
+    {
+      "type": "linkedin",
+      "value": "https://fr.linkedin.com/company/cacg"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "contacts, departements",
+      "url": "https://www.riveseteaux.fr/nous-sommes/organisation-et-fonctionnement/siege-agences/",
+      "date": "2026-10-15",
+      "extrait": "Siège social Chemin de Lalette CS 50449 65004 Tarbes Cedex Tél. +33(0)5 62 51 71 49. Agence de Castelnau-Magnoac (65230), Magasin d'irrigation. Agence de Cazères-sur-l'Adour (40270), Magasin d'irrigation. Agence de Verdun-sur-Garonne (82600), Magasin d'irrigation. Agence de Bruch-Montesquieu (47130), Magasin d'irrigation."
+    },
+    {
+      "champ": "nom, departements, description",
+      "url": "https://www.riveseteaux.fr/gestion-de-leau/zoom-sur-le-systeme-neste/",
+      "date": "2026-10-15",
+      "extrait": "L'eau des montagnes alimente un territoire à cheval, sur 5 départements : les Hautes-Pyrénées, le Gers, la Haute-Garonne, le Lot-et-Garonne et le Tarn-et-Garonne. Rives & Eaux du Sud-Ouest (anciennement CACG) gère historiquement le débit des rivières toute l'année sur ce territoire"
+    },
+    {
+      "champ": "expertises, description, mesures, departements",
+      "url": "https://www.riveseteaux.fr/nos-activites/services-a-lagriculture/",
+      "date": "2026-10-15",
+      "extrait": "nous offrons aux acteurs du monde agricole (Associations syndicales autorisées (ASA) et irrigants individuels) des solutions adaptées. Depuis 1959, Rives & Eaux pilote la ferme expérimentale de la Mirandette. Située dans le Gers. Chaque irrigant peut souscrire un contrat d'accès à l'eau. Conseil et accompagnement technique : Évaluation des besoins en eau et conseils sur mesure pour optimiser les systèmes d'irrigation. Fourniture de matériels d'irrigation durable : Goutte-à-goutte, micro-aspersion, pivots. Installation et suivi des systèmes d'irrigation."
+    },
+    {
+      "champ": "expertises, mesures, description",
+      "url": "https://www.riveseteaux.fr/nos-activites/services-a-lagriculture/materiel-dirrigation/",
+      "date": "2026-10-15",
+      "extrait": "Nous accompagnons les acteurs du monde agricole (collectifs ASA et irrigants individuels). Nous proposons des conseils et l'accompagnement technique pour maximiser l'efficacité en eau et en énergie de votre système d'irrigation. Grâce à nos 4 magasins d'irrigation, nous proposons une large gamme de solutions d'irrigation : pompage, canalisations enterrées et de surface, goutte-à-goutte, micro-aspersion, filtration, pivots, enrouleurs. Nos équipes techniques assurent l'installation et la mise en service de vos équipements."
+    },
+    {
+      "champ": "expertises, description",
+      "url": "https://www.riveseteaux.fr/nos-activites/services-a-lagriculture/contrats-dacces-a-leau/",
+      "date": "2026-10-15",
+      "extrait": "Nos contrats d'accès à l'eau permettent aux agriculteurs individuels comme aux collectifs d'irrigants de sécuriser leurs activités, que ce soit pour l'irrigation estivale ou la protection contre le gel."
+    },
+    {
+      "champ": "type, expertises, mesures, description",
+      "url": "https://www.riveseteaux.fr/nos-activites/bureau-detude-et-ingenierie/",
+      "date": "2026-10-15",
+      "extrait": "Nos ingénieurs, spécialisés dans les domaines liés à l'eau, à l'environnement et à l'aménagement du territoire, proposent des prestations de conseil, d'expertise et de gestion de projet. notre bureau d'études accompagne ses clients dans toutes les étapes du cycle de vie des ouvrages hydrauliques. Ouvrages de stockage (barrages, retenues de substitution, réservoirs). Nous assurons la maîtrise d'oeuvre complète, de la phase de conception jusqu'à la réception des travaux."
+    },
+    {
+      "champ": "description",
+      "url": "https://www.riveseteaux.fr/mentions-legales/",
+      "date": "2026-10-15",
+      "extrait": "Rives & Eaux du Sud-Ouest, société anonyme d'économie mixte. Siège social : Chemin de Lalette, CS 50449, 65004 TARBES cedex. RCS de Tarbes : B 592 780 233"
+    },
+    {
+      "champ": "siret, adresse",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Rives%20et%20Eaux%20du%20Sud-Ouest&departement=65",
+      "date": "2026-10-15",
+      "extrait": "RIVES & EAUX DU SUD-OUEST, siret 59278023300017, siège, CHEMIN DE LALETTE 65000 TARBES, nature juridique 5515, activité 36.00Z, etat_administratif A"
+    },
+    {
+      "champ": "contacts",
+      "url": "https://www.riveseteaux.fr/",
+      "date": "2026-10-15",
+      "extrait": "Pied de page du site : RIVES & EAUX, Chemin de Lalette CS 50449 65004 Tarbes Cedex, Tél. 05 62 51 71 49, lien LinkedIn https://fr.linkedin.com/company/cacg"
+    },
+    {
+      "champ": "logo_url",
+      "url": "https://www.riveseteaux.fr/wp-content/uploads/2024/06/cropped-favicon-192x192.png",
+      "date": "2026-10-15",
+      "extrait": "Icône du site www.riveseteaux.fr (rel icon 192 x 192, symbole bleu sur fond transparent)"
+    }
+  ],
+  "date_maj": "2026-10-15"
+}

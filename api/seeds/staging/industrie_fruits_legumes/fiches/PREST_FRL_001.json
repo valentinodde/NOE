@@ -1,0 +1,97 @@
+{
+  "id": "PREST_FRL_001",
+  "nom": "FEMIA Industrie",
+  "type": "equipementier",
+  "logo_url": null,
+  "siret": "33334484400092",
+  "description": "Constructeur de machines pour l'agroalimentaire (NAF 28.93Z), spécialisé depuis 1962 dans les légumes verts, qui conçoit dans son bureau d'études et fabrique sur son site de Hallennes-lez-Haubourdin (Nord) des lignes de préparation de fruits et légumes ; il cite Bonduelle et McCain parmi les industriels accompagnés et affiche en France les logos de Bonduelle, Eureden, Greenyard et William Saurin. Pour l'entrée de ligne, il fabrique des tambours nettoyeurs, des séparateurs à air qui éliminent les déchets légers par un courant d'air, sans eau, ainsi que des épierreurs et des laveurs qui recyclent et filtrent leur eau en continu ; pour le traitement thermique, des blancheurs et blancheurs-refroidisseurs sur mesure intégrant la filtration de l'eau. Il livre, installe et raccorde ses équipements sur site, forme les équipes à leur utilisation et propose audit, rénovation et maintenance des lignes existantes.",
+  "expertises": [
+    "Tambours nettoyeurs et épierreurs",
+    "Laveurs à eau recyclée",
+    "Blancheurs-refroidisseurs sur mesure",
+    "Rénovation de lignes existantes"
+  ],
+  "categories": [
+    "ameliorer_efficacite_hydrique"
+  ],
+  "secteurs": [
+    "industrie_fruits_legumes"
+  ],
+  "departements": [],
+  "mesures": [
+    {
+      "id": "ACT_FRL_003",
+      "roles": [
+        "materiel"
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "type": "site_internet",
+      "value": "https://www.femia.fr/"
+    },
+    {
+      "type": "tel",
+      "value": "01 56 83 77 00"
+    },
+    {
+      "type": "adresse",
+      "value": "10 rue Jacques Daguerre, 92500 Rueil-Malmaison"
+    },
+    {
+      "type": "tel",
+      "value": "03 20 07 38 38"
+    },
+    {
+      "type": "adresse",
+      "value": "1 avenue Industrielle, 59320 Hallennes-lez-Haubourdin (site de production)"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, type",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=FEMIA%20Industrie&departement=92",
+      "date": "2026-09-25",
+      "extrait": "FEMIA INDUSTRIE, siret 33334484400092, siège, 10 RUE JACQUES DAGUERRE 92500 RUEIL-MALMAISON, activité 28.93Z, état administratif A, 2 établissements ouverts"
+    },
+    {
+      "champ": "contacts",
+      "url": "https://www.femia.fr/contact/",
+      "date": "2026-09-25",
+      "extrait": "Siège social FEMIA Industrie 10 rue Jacques Daguerre 92500 Rueil-Malmaison +33 (0)1.56.83.77.00. Site de production FEMIA Industrie 1 avenue Industrielle 59320 Hallennes-lez-Haubourdin +33 (0)3.20.07.38.38"
+    },
+    {
+      "champ": "type, description, expertises, mesures (ACT_FRL_003 materiel)",
+      "url": "https://www.femia.fr/lignes-production/nettoyage/",
+      "date": "2026-09-25",
+      "extrait": "Tambour autonettoyant en plusieurs sections pour supprimer les déchets collants, les petits déchets et les gros déchets. [...] Séparateur [...] qui élimine les déchets légers par un courant d'air ascendant contrôlé [...] Laveur polyvalent pour légumes et fruits [...] recycle l'eau dans un tambour épurateur pour une consommation réduite. [...] Epierreur hydraulique [...] Faible consommation d'eau du fait de son recyclage et de la filtration en continu [...] la fabrication est lancée sur notre site de production, au cœur des Hauts-de-France"
+    },
+    {
+      "champ": "description, expertises",
+      "url": "https://www.femia.fr/lignes-production/blanchiment/",
+      "date": "2026-09-25",
+      "extrait": "nos solutions de blanchiment sont entièrement personnalisées [...] Nous intégrons des systèmes de refroidissement avec chiller, de récupération d'énergie, de filtration de l'eau et d'éjection des déchets. [...] Nous assurons la livraison, l'installation et le raccordement de vos équipements directement sur site. [...] Nous formons vos équipes à l'utilisation, à l'entretien et à la maintenance des équipements"
+    },
+    {
+      "champ": "description",
+      "url": "https://www.femia.fr/a-propos-de-nous/lhistoire-de-femia/",
+      "date": "2026-09-25",
+      "extrait": "1962 : notre création [...] en se spécialisant dans les machines pour les légumes verts. 1970 : une croissance rapide [...] Nous avons su accompagner des grands noms de l'industrie agroalimentaire comme Bonduelle ou McCain."
+    },
+    {
+      "champ": "departements, description, secteurs",
+      "url": "https://www.femia.fr/a-propos-de-nous/femia-a-linternational/",
+      "date": "2026-09-25",
+      "extrait": "acteur reconnu sur la scène internationale en matière de conception, de fabrication et d'installation [...] 55 pays dans lesquels nous sommes présents et proposons nos services [...] Ils nous font confiance : logos légendés par pays, dont Nouvelle-Zélande (mccain-foods-logo.png), France (logo-bonduelle), France (GREENYARD_RGB.png), France (EuredenLogoSeul), France (William-Saurin)"
+    },
+    {
+      "champ": "description, expertises",
+      "url": "https://www.femia.fr/optimisation-de-ligne/",
+      "date": "2026-09-25",
+      "extrait": "Nous pouvons faire le point ensemble sur l'état de votre parc actuel et sur vos besoins pour le faire évoluer, le remettre en état et assurer sa maintenance. [...] réaliser des audits, vous proposer des opérations de maintenance ou mettre en place des évolutions techniques."
+    }
+  ],
+  "date_maj": "2026-09-25"
+}

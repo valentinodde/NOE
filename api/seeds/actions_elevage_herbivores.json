@@ -1,0 +1,401 @@
+[
+  {
+    "id": "ACT_HRB_001",
+    "titre": "Équiper et entretenir les abreuvoirs pour supprimer fuites et débordements",
+    "titre_court": "Abreuvoirs entretenus",
+    "description": "Posez une vanne d'arrêt avant chaque abreuvoir pour le vidanger et le brosser, réparez les flotteurs qui gouttent et vérifiez le débit (20 L/min pour un bac, 10 L/min pour un bol). Vous supprimez des pertes continues et les animaux boivent mieux, dans tout élevage en bâtiment.",
+    "categorie": "ameliorer_efficacite_hydrique",
+    "secteurs": [
+      "elevage_herbivores"
+    ],
+    "effort": {
+      "capex": "faible",
+      "opex": "faible",
+      "humain": "faible"
+    },
+    "impact_eau": 2,
+    "facilite": 3,
+    "horizon": "immediat",
+    "image": null,
+    "infos_complementaires": [
+      {
+        "type": "info",
+        "texte": "Une fuite de 100 L/h, peu visible, représente environ 1 000 m³ par an. Les petites fuites de moins de 10 L/h sont fréquentes sur les canalisations enterrées et les abreuvoirs, d'autant que l'eau de puits ou de forage, souvent agressive, corrode les installations.",
+        "lien": "https://climat.lamayenne.fr/wp-content/uploads/2025/02/Fiche-A4-Ecodeau-eleveurs_VF-web.pdf",
+        "lien_label": "GDS 53 et SAGE Mayenne, 2024"
+      },
+      {
+        "type": "info",
+        "texte": "Sur un forage traité (déferrisation, neutralisation), espacer les rétrolavages du filtre à trois jours a économisé environ 360 m³ par an dans un élevage laitier.",
+        "lien": "https://climat.lamayenne.fr/wp-content/uploads/2025/02/Fiche-A4-Ecodeau-eleveurs_VF-web.pdf",
+        "lien_label": "GDS 53 et SAGE Mayenne, 2024"
+      },
+      {
+        "type": "avertissement",
+        "texte": "L'économie vient des pertes, jamais de l'eau bue : rationner l'eau de moitié fait baisser la production laitière de 10 % en un jour et de 20 % en une semaine. Par forte chaleur, prévoyez 10 à 12 cm d'abreuvoir par bovin au lieu de 6.",
+        "lien": "https://bien-etre-animal.chambres-agriculture.fr/fileadmin/user_upload/199_Eve-Bien-Etre-Animal/PJ/Bovins/ABREUVEMENTv4.pdf",
+        "lien_label": "Chambres d'agriculture, Abreuver ses bovins"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "description",
+        "url": "https://climat.lamayenne.fr/wp-content/uploads/2025/02/Fiche-A4-Ecodeau-eleveurs_VF-web.pdf",
+        "extrait": "Vanne d'arrêt avant chaque abreuvoir pour la vidange et le brossage ; débit supérieur à 20 L/min pour un bac."
+      },
+      {
+        "champ": "description",
+        "url": "https://bien-etre-animal.chambres-agriculture.fr/fileadmin/user_upload/199_Eve-Bien-Etre-Animal/PJ/Bovins/ABREUVEMENTv4.pdf",
+        "extrait": "Débit d'au moins 10 L/min pour un bol ; 10 à 12 cm d'abreuvoir par bovin par forte chaleur ; restriction de 50 % : moins 10 % de lait en un jour."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://climat.lamayenne.fr/wp-content/uploads/2025/02/Fiche-A4-Ecodeau-eleveurs_VF-web.pdf",
+        "extrait": "Fuite de 100 L/h : environ 1 000 m³/an ; rétrolavages espacés à trois jours : environ 360 m³/an économisés."
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "ACT_HRB_002",
+    "titre": "Régler le lavage de la machine à traire, du tank et des quais",
+    "titre_court": "Lavage de la traite",
+    "description": "Faites vérifier les programmes de lavage de la machine à traire et du tank, raclez les bouses avant de laver les quais et fixez des gestes communs à tous les trayeurs. Une salle de traite 2 x 6 passe de 680 à 360 m³ par an en mode économe : c'est le second poste d'eau d'un élevage laitier.",
+    "categorie": "ameliorer_efficacite_hydrique",
+    "secteurs": [
+      "elevage_herbivores"
+    ],
+    "effort": {
+      "capex": "faible",
+      "opex": "faible",
+      "humain": "moyen"
+    },
+    "impact_eau": 3,
+    "facilite": 3,
+    "horizon": "immediat",
+    "image": null,
+    "infos_complementaires": [
+      {
+        "type": "info",
+        "texte": "À la ferme expérimentale de La Blanche Maison (Manche), une même traite consomme de 1 760 à 2 580 litres selon le trayeur : les gestes comptent autant que le matériel.",
+        "lien": "https://normandie.chambres-agriculture.fr/sinformer/concilier-agriculture-et-territoires/environnement-et-paysages/eau/gestion-quantitative/detail-gestion-quanti-eau/consommation-deau-en-elevage-laitier-connaitre-ses-consommations-pour-economiser",
+        "lien_label": "Chambres d'agriculture de Normandie, 2025"
+      },
+      {
+        "type": "info",
+        "texte": "Avec un robot de traite, le bloc consomme environ 1 m³ par stalle et par jour, soit 0,6 à 1 m³ pour 1 000 litres de lait selon le volume livré par stalle.",
+        "lien": "https://bretagne.chambres-agriculture.fr/detail-dossier/optimiser-ses-consommations-deau-en-systeme-robot-de-traite",
+        "lien_label": "Chambre d'agriculture de Bretagne, 2026"
+      },
+      {
+        "type": "avertissement",
+        "texte": "Le matériel en contact avec le lait se nettoie à l'eau potable, quelle que soit la destination du lait. Une eau de forage n'est potable qu'avec une autorisation préfectorale et un suivi de qualité.",
+        "lien": "https://info.agriculture.gouv.fr/boagri/instruction-N2012-8186/telechargement",
+        "lien_label": "DGAL, note de service 2012-8186"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "description",
+        "url": "https://bretagne.chambres-agriculture.fr/detail-dossier/optimiser-ses-consommations-deau-en-systeme-robot-de-traite",
+        "extrait": "Salle de traite 2 x 6 en épi : 360 m³/an en mode économe, 680 m³/an sinon ; raclage avant lavage, réglage des programmes."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://normandie.chambres-agriculture.fr/sinformer/concilier-agriculture-et-territoires/environnement-et-paysages/eau/gestion-quantitative/detail-gestion-quanti-eau/consommation-deau-en-elevage-laitier-connaitre-ses-consommations-pour-economiser",
+        "extrait": "Une traite consomme de 1 760 à 2 580 L selon le trayeur."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://info.agriculture.gouv.fr/boagri/instruction-N2012-8186/telechargement",
+        "extrait": "Nettoyage et désinfection du matériel en contact avec le lait avec de l'eau potable."
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "ACT_HRB_003",
+    "titre": "Équiper les pâtures d'un réseau d'abreuvement et d'une réserve de secours",
+    "titre_court": "Abreuvement au pâturage",
+    "description": "Amenez l'eau aux parcelles par canalisation enterrée, avec des abreuvoirs à moins de 200 m des animaux, une pompe solaire ou à museau et une réserve d'environ deux mois de consommation. Vous ne dépendez plus d'une source qui tarit l'été ni des tournées de tonne à eau, pour tout troupeau au pré.",
+    "categorie": "ameliorer_efficacite_hydrique",
+    "secteurs": [
+      "elevage_herbivores"
+    ],
+    "effort": {
+      "capex": "moyen",
+      "opex": "faible",
+      "humain": "moyen"
+    },
+    "impact_eau": 2,
+    "facilite": 2,
+    "horizon": "court_terme",
+    "image": null,
+    "infos_complementaires": [
+      {
+        "type": "info",
+        "texte": "Au pâturage, le point d'eau ne devrait pas être à plus de 200 m des animaux. La chambre d'agriculture de l'Ardèche conseille une réserve dimensionnée pour environ deux mois de consommation.",
+        "lien": "https://ardeche.chambres-agriculture.fr/dossiers/detail-du-dossier/optimiser-lusage-de-leau-en-elevage-1",
+        "lien_label": "Chambre d'agriculture de l'Ardèche, 2024"
+      },
+      {
+        "type": "avertissement",
+        "texte": "Un pompage en rivière suit le niveau de restriction de sa zone d'alerte et tout pompage doit avoir un compteur. Au-delà de 1 000 m³ par an, le prélèvement n'est plus assimilé à un usage domestique déclaré en mairie.",
+        "lien": "https://www.ecologie.gouv.fr/sites/default/files/documents/Guide_circulaire_restriction_usages_eau_secheresse.pdf",
+        "lien_label": "Ministère de la Transition écologique, guide sécheresse 2026"
+      },
+      {
+        "type": "info",
+        "texte": "Les besoins montent vite l'été : une vache allaitante boit environ 100 L par jour en hiver et jusqu'à 200 L en été.",
+        "lien": "https://bretagne.chambres-agriculture.fr/detail-actu/leau-le-premier-aliment-indispensable-au-troupeau-allaitant",
+        "lien_label": "Chambre d'agriculture de Bretagne, 2026"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "description",
+        "url": "https://ardeche.chambres-agriculture.fr/dossiers/detail-du-dossier/optimiser-lusage-de-leau-en-elevage-1",
+        "extrait": "Canalisations, abreuvoirs, pompes solaires, réserve pour environ deux mois de consommation."
+      },
+      {
+        "champ": "description",
+        "url": "https://bien-etre-animal.chambres-agriculture.fr/fileadmin/user_upload/199_Eve-Bien-Etre-Animal/PJ/Bovins/ABREUVEMENTv4.pdf",
+        "extrait": "Point d'eau à moins de 200 m au pâturage."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.ecologie.gouv.fr/sites/default/files/documents/Guide_circulaire_restriction_usages_eau_secheresse.pdf",
+        "extrait": "Prélèvement de moins de 1 000 m³/an assimilé domestique ; tout pompage équipé d'un compteur."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://bretagne.chambres-agriculture.fr/detail-actu/leau-le-premier-aliment-indispensable-au-troupeau-allaitant",
+        "extrait": "Vache allaitante : environ 100 L/j en hiver, jusqu'à 200 L/j en été."
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "ACT_HRB_004",
+    "titre": "Adapter le système fourrager à la sécheresse : herbe, espèces et stocks",
+    "titre_court": "Système fourrager résilient",
+    "description": "Allongez la saison de pâturage, semez des prairies multi-espèces et des fourrages qui supportent la chaleur (luzerne, sorgho, méteils) et gardez un stock de sécurité d'une année sur l'autre. Vous passez l'été sans acheter de fourrage au prix fort, et plus d'herbe pâturée fait boire moins le troupeau.",
+    "categorie": "changer_process_pratiques",
+    "secteurs": [
+      "elevage_herbivores"
+    ],
+    "effort": {
+      "capex": "faible",
+      "opex": "moyen",
+      "humain": "important"
+    },
+    "impact_eau": 3,
+    "facilite": 1,
+    "horizon": "moyen_terme",
+    "image": null,
+    "infos_complementaires": [
+      {
+        "type": "retour_experience",
+        "texte": "Sécheresse de 2022 en Occitanie : pousse de l'herbe nulle tout l'été à l'ouest de la région, plus de 40 % de perte de fourrage dans de nombreuses zones, affouragement dès juillet. Les éleveurs qui avaient gardé le stock de 2021 ont mieux passé l'été.",
+        "lien": "https://draaf.occitanie.agriculture.gouv.fr/bilan-de-conjoncture-2022-entre-secheresse-precoce-et-marches-destabilises-a7953.html",
+        "lien_label": "DRAAF Occitanie, 2023"
+      },
+      {
+        "type": "info",
+        "texte": "Passer de 15 % à 40 % d'herbe pâturée dans la ration réduit l'abreuvement d'environ 600 m³ par an pour 70 vaches laitières : au pâturage une vache boit 40 L par jour, contre 80 L avec une ration à base de maïs ensilage.",
+        "lien": "https://climat.lamayenne.fr/wp-content/uploads/2025/02/Fiche-A4-Ecodeau-eleveurs_VF-web.pdf",
+        "lien_label": "GDS 53 et SAGE Mayenne, 2024"
+      },
+      {
+        "type": "info",
+        "texte": "Le changement climatique déplace la pousse de l'herbe plus qu'il ne la réduit : printemps plus précoce, croissance estivale ralentie voire arrêtée. Le sorgho supporte mieux la chaleur que le maïs.",
+        "lien": "https://productions-animales.org/article/view/9200",
+        "lien_label": "INRAE, Productions Animales, 2025"
+      },
+      {
+        "type": "avertissement",
+        "texte": "L'irrigation des fourrages est la première visée par les arrêtés : aspersion interdite de 11 h à 18 h en alerte, de 9 h à 20 h en alerte renforcée, totalement en crise.",
+        "lien": "https://www.ecologie.gouv.fr/sites/default/files/documents/Guide_circulaire_restriction_usages_eau_secheresse.pdf",
+        "lien_label": "Ministère de la Transition écologique, guide sécheresse 2026"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "description",
+        "url": "https://productions-animales.org/article/view/9200",
+        "extrait": "Prairies multi-espèces, luzerne, sorgho, méteils, stocks de sécurité comme leviers d'adaptation des élevages de ruminants."
+      },
+      {
+        "champ": "description",
+        "url": "https://climat.lamayenne.fr/wp-content/uploads/2025/02/Fiche-A4-Ecodeau-eleveurs_VF-web.pdf",
+        "extrait": "De 15 % à 40 % d'herbe pâturée : moins 600 m³/an d'abreuvement pour 70 vaches."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://draaf.occitanie.agriculture.gouv.fr/bilan-de-conjoncture-2022-entre-secheresse-precoce-et-marches-destabilises-a7953.html",
+        "extrait": "Perte de production fourragère de plus de 40 % ; ceux qui avaient gardé le stock de 2021 ont mieux passé l'été."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.ecologie.gouv.fr/sites/default/files/documents/Guide_circulaire_restriction_usages_eau_secheresse.pdf",
+        "extrait": "Aspersion interdite de 11 h à 18 h en alerte, de 9 h à 20 h en alerte renforcée, totalement en crise."
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "ACT_HRB_005",
+    "titre": "Réutiliser l'eau du prérefroidisseur et des derniers rinçages de la traite",
+    "titre_court": "Eau de la laiterie réutilisée",
+    "description": "Raccordez la sortie du prérefroidisseur de lait à une cuve tampon ou à des abreuvoirs de volume suffisant, et stockez les eaux claires de fin de lavage pour laver les quais. Le prérefroidisseur rend 30 à 60 litres d'eau propre par vache et par jour, de quoi couvrir la moitié ou plus de l'abreuvement.",
+    "categorie": "valoriser_reut_eaux_non_conventionnelles",
+    "secteurs": [
+      "elevage_herbivores"
+    ],
+    "effort": {
+      "capex": "moyen",
+      "opex": "faible",
+      "humain": "faible"
+    },
+    "impact_eau": 3,
+    "facilite": 3,
+    "horizon": "court_terme",
+    "image": null,
+    "infos_complementaires": [
+      {
+        "type": "info",
+        "texte": "Le prérefroidisseur fait passer 1,5 à 2,5 litres d'eau par litre de lait. Cette eau arrive en abondance au moment de la traite et peut être tiède l'été : prévoyez une cuve ou des abreuvoirs assez grands pour l'absorber.",
+        "lien": "https://climat.lamayenne.fr/wp-content/uploads/2025/02/Fiche-A4-Ecodeau-eleveurs_VF-web.pdf",
+        "lien_label": "GDS 53 et SAGE Mayenne, 2024"
+      },
+      {
+        "type": "avertissement",
+        "texte": "L'eau récupérée ne doit jamais servir au lavage de la machine à traire ni du tank : le matériel en contact avec le lait se nettoie à l'eau potable. Elle va à l'abreuvement et au lavage des quais.",
+        "lien": "https://info.agriculture.gouv.fr/boagri/instruction-N2012-8186/telechargement",
+        "lien_label": "DGAL, note de service 2012-8186"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "description",
+        "url": "https://bretagne.chambres-agriculture.fr/detail-dossier/optimiser-ses-consommations-deau-en-systeme-robot-de-traite",
+        "extrait": "Prérefroidisseur : 1,5 à 2,5 L d'eau par litre de lait, soit 30 à 60 L par vache et par jour, 50 à 75 % des besoins d'abreuvement."
+      },
+      {
+        "champ": "description",
+        "url": "https://climat.lamayenne.fr/wp-content/uploads/2025/02/Fiche-A4-Ecodeau-eleveurs_VF-web.pdf",
+        "extrait": "Bac de récupération des eaux triées de la machine à traire, stocké près de la traite pour laver les quais."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://info.agriculture.gouv.fr/boagri/instruction-N2012-8186/telechargement",
+        "extrait": "Eau potable obligatoire pour le matériel en contact avec le lait ; abreuvement et lavage des locaux de stabulation dispensés."
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "ACT_HRB_006",
+    "titre": "Collecter et traiter séparément les eaux blanches et vertes de la traite",
+    "titre_court": "Eaux blanches et vertes",
+    "description": "Séparez les eaux de pluie des effluents, collectez à part les eaux de lavage de la machine à traire et des quais, puis traitez-les par une filière adaptée (filtre planté de roseaux, bassin) au lieu de les mêler au lisier. Vous stockez et épandez moins de volume et protégez les cours d'eau proches.",
+    "categorie": "agir_rejets_qualite",
+    "secteurs": [
+      "elevage_herbivores"
+    ],
+    "effort": {
+      "capex": "important",
+      "opex": "faible",
+      "humain": "faible"
+    },
+    "impact_eau": 2,
+    "facilite": 1,
+    "horizon": "moyen_terme",
+    "image": null,
+    "infos_complementaires": [
+      {
+        "type": "avertissement",
+        "texte": "Pour un élevage bovin classé, les eaux de toiture ne se mélangent jamais aux effluents, aucun effluent non traité ne rejoint un cours d'eau, et les eaux blanches et vertes s'épandent à 50 m des tiers et 35 m des berges (10 m avec une bande enherbée permanente de 10 m).",
+        "lien": "https://aida.ineris.fr/reglementation/arrete-271213-relatif-prescriptions-generales-applicables-installations-relevant",
+        "lien_label": "Arrêté du 27 décembre 2013, AIDA Ineris"
+      },
+      {
+        "type": "info",
+        "texte": "Depuis le décret 2026-46, un élevage de vaches laitières est soumis à déclaration de 50 à 200 vaches, à enregistrement de 201 à 400 et à autorisation au-delà.",
+        "lien": "https://aida.ineris.fr/node/45361",
+        "lien_label": "AIDA Ineris, rubrique 2101"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "description",
+        "url": "https://aida.ineris.fr/reglementation/arrete-271213-relatif-prescriptions-generales-applicables-installations-relevant",
+        "extrait": "Eaux pluviales non mélangées aux effluents ; eaux blanches et vertes non mélangées ; aucun rejet d'effluent non traité dans les eaux superficielles."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://aida.ineris.fr/node/45361",
+        "extrait": "Rubrique 2101 : vaches laitières, déclaration de 50 à 200, enregistrement de 201 à 400, autorisation au-delà de 400."
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "ACT_HRB_007",
+    "titre": "Aménager les points d'abreuvement des pâtures hors du cours d'eau",
+    "titre_court": "Berges protégées",
+    "description": "Reculez la clôture d'un à deux mètres du haut de berge et faites boire les animaux à un abreuvoir gravitaire, une pompe à museau ou une descente empierrée, sans qu'ils entrent dans le lit. Vous protégez la berge et la qualité de l'eau, et limitez piétin et mammites dans le troupeau au pâturage.",
+    "categorie": "agir_rejets_qualite",
+    "secteurs": [
+      "elevage_herbivores"
+    ],
+    "effort": {
+      "capex": "moyen",
+      "opex": "faible",
+      "humain": "moyen"
+    },
+    "impact_eau": 1,
+    "facilite": 2,
+    "horizon": "court_terme",
+    "image": null,
+    "infos_complementaires": [
+      {
+        "type": "avertissement",
+        "texte": "L'aménagement des points d'abreuvement pour éviter la pollution directe des cours d'eau est une obligation des élevages classés, déclarés compris. Une clôture ne doit pas traverser le cours d'eau, et une consolidation de berge non végétale relève de la loi sur l'eau à partir de 20 m.",
+        "lien": "https://www.loir-et-cher.gouv.fr/index.php/contenu/telechargement/16754/107264/file/berges%20protection.pdf",
+        "lien_label": "DDT de Loir-et-Cher"
+      },
+      {
+        "type": "info",
+        "texte": "Le long des cours d'eau de la conditionnalité PAC, une bande tampon enherbée d'au moins 5 m est obligatoire ; elle peut être pâturée sous réserve des règles d'accès des animaux au cours d'eau.",
+        "lien": "https://www.telepac.agriculture.gouv.fr/telepac/pdf/conditionnalite/2024/technique/Conditionnalite-2024_fiche-technique_BCAE4_bandes_tampons.pdf",
+        "lien_label": "Ministère de l'Agriculture, BCAE 4, 2024"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "description",
+        "url": "https://www.loir-et-cher.gouv.fr/index.php/contenu/telechargement/16754/107264/file/berges%20protection.pdf",
+        "extrait": "Clôture reculée de 1 à 2 m du haut de berge ; abreuvoir gravitaire, pompe à museau ou aire empierrée ; limite contamination, érosion et maladies."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://aida.ineris.fr/reglementation/arrete-271213-relatif-prescriptions-generales-applicables-installations-relevant",
+        "extrait": "Points d'abreuvement des bovins au pâturage aménagés pour éviter la pollution directe des cours d'eau."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.telepac.agriculture.gouv.fr/telepac/pdf/conditionnalite/2024/technique/Conditionnalite-2024_fiche-technique_BCAE4_bandes_tampons.pdf",
+        "extrait": "Bande tampon d'au moins 5 m ; pâturage autorisé sous réserve des règles d'accès au cours d'eau."
+      }
+    ],
+    "date_maj": "2026-10-15"
+  }
+]

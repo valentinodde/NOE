@@ -1,0 +1,108 @@
+{
+  "id": "PREST_HOP_005",
+  "nom": "SADE, Compagnie générale de travaux hydrauliques",
+  "type": "installateur",
+  "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792070231/Noe%20assets/logos/PREST_HOP_005.png",
+  "siret": "56207750302584",
+  "description": "Entreprise de travaux publics spécialisée dans la construction et la remise en état des réseaux d'eau, filiale du groupe NGE depuis mars 2024 (auparavant Veolia), organisée en huit directions régionales. Elle pose, renouvelle et répare les canalisations d'eau potable et d'assainissement, y compris sur site hospitalier : en 2024, l'AP-HP lui a confié la réhabilitation du collecteur d'assainissement et le renouvellement des canalisations d'eau potable du site Tenon (marché de 699 518 euros), un renouvellement et non une campagne de recherche de fuites. L'offre d'interventions sur fuites (diagnostic des canalisations, recherche et localisation, réparations planifiées ou urgentes 24 heures sur 24) est publiée par sa direction Île-de-France, et la présence dans les Bouches-du-Rhône passe par la direction Sud (agence à Marseille, antenne à Meyreuil), sans établissement SADE ouvert dans ce département au registre Sirene.",
+  "expertises": [
+    "Renouvellement de canalisations d'eau potable",
+    "Réparation des fuites de réseaux",
+    "Réhabilitation de conduites par éclatement",
+    "Réseaux d'assainissement"
+  ],
+  "categories": [
+    "suivre_comprendre_maitriser"
+  ],
+  "secteurs": [
+    "hopitaux"
+  ],
+  "departements": [],
+  "mesures": [
+    {
+      "id": "ACT_HOP_002",
+      "roles": [
+        "conseil_etude",
+        "travaux"
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "type": "site_internet",
+      "value": "https://www.sade-cgth.fr/"
+    },
+    {
+      "type": "tel",
+      "value": "01 53 75 99 11"
+    },
+    {
+      "type": "adresse",
+      "value": "23-25 avenue du Docteur Lannelongue, 75014 Paris"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=SADE%20compagnie%20generale%20de%20travaux%20hydrauliques&departement=13",
+      "date": "2026-10-15",
+      "extrait": "SADE - COMPAGNIE GENERALE DE TRAVAUX HYDRAULIQUES, siret 56207750302584, siège, 23-25 AV DU DOCTEUR LANNELONGUE 75014 PARIS 14, etat_administratif A, 72 établissements ouverts"
+    },
+    {
+      "champ": "description (aucun établissement ouvert dans le 13)",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=SADE%20COMPAGNIE%20GENERALE%20DE%20TRAVAUX%20HYDRAULIQUES&departement=13&per_page=3",
+      "date": "2026-10-15",
+      "extrait": "SADE - COMPAGNIE GENERALE DE TRAVAUX HYDRAULIQUES, établissement correspondant dans le 13 : 56207750302287, 11 boulevard de la Grande Thumine 13100 Aix-en-Provence, état F, fermé le 2005-03-16. SADERTELEC (792602278), 251 boulevard Mireille Lauze 13010 Marseille, état A"
+    },
+    {
+      "champ": "contacts (tel, adresse), departements",
+      "url": "https://www.sade-cgth.fr/france/",
+      "date": "2026-10-15",
+      "extrait": "SADE 23-25 av. du Docteur Lannelongue 75014 Paris Tél : 01 53 75 99 11. Directions Régionales : DR Centre-Est, DR Grand Est, DR Hauts-de-France, DR Ile-de-France, DR Normandie, DR Ouest, DR Sud, DR Sud-Ouest"
+    },
+    {
+      "champ": "departements",
+      "url": "https://www.sade-cgth.fr/chiffres-cles/",
+      "date": "2026-10-15",
+      "extrait": "100 sites en France"
+    },
+    {
+      "champ": "description (présence dans le 13), expertises",
+      "url": "https://www.sade-cgth.fr/dr-sud/",
+      "date": "2026-10-15",
+      "extrait": "Agence de Marseille 251, boulevard Mireille Lauze 13395 Marseille Tél : 04 91 80 85 57. Antenne de Meyreuil Chemin du Sarret 13590 Meyreuil. La Direction Régionale Sud propose des solutions spécifiques pour la réhabilitation des réseaux par la technique de l'éclatement"
+    },
+    {
+      "champ": "mesures, expertises, description",
+      "url": "https://tabular-api.data.gouv.fr/api/resources/22847056-61df-452d-837d-8b8ceadbfc52/data/?uid__exact=267500452005242539453_45232410",
+      "date": "2026-10-15",
+      "extrait": "DECP consolidées : acheteur ASSISTANCE PUBLIQUE HOPITAUX DE PARIS, titulaire SADE - COMPAGNIE GENERALE DE TRAVAUX HYDRAULIQUES (56207750300125), objet « Réhabilitation du collecteur visitable d'assainissement et renouvellement des canalisations d'eau potable, Site Tenon », montant 699518, type Travaux, notifié le 2024-08-07"
+    },
+    {
+      "champ": "mesures, expertises, description",
+      "url": "https://www.sade-cgth.fr/dr-ile-de-france/interventions-sur-fuites/",
+      "date": "2026-10-15",
+      "extrait": "Effectuer le diagnostic de l'état des canalisations et branchements. Rechercher et localiser les fuites. Réaliser les interventions planifiées ou des réparations urgentes. Mettre en place des moyens d'intervention 24/24 et 7/7"
+    },
+    {
+      "champ": "expertises",
+      "url": "https://www.sade-cgth.fr/eau/eau-potable/",
+      "date": "2026-10-15",
+      "extrait": "Eau potable : Canalisations et branchements. Assainissement : Canalisations"
+    },
+    {
+      "champ": "description (groupe NGE)",
+      "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/BWR/2024/03/FCBWR155433_20240304.pdf",
+      "date": "2026-10-15",
+      "extrait": "Veolia annonce la finalisation de l'acquisition par NGE, groupe indépendant de travaux publics, de SADE-CGTH, sa filiale à 100 % spécialisée dans la construction et la remise en état des réseaux d'eau (communiqué du 4 mars 2024)"
+    },
+    {
+      "champ": "logo_url",
+      "url": "https://www.sade-cgth.fr/wp-content/uploads/2021/01/cropped-favicon_sade-270x270.jpg",
+      "date": "2026-10-15",
+      "extrait": "Icône carrée du site (msapplication-TileImage, 270 x 270)"
+    }
+  ],
+  "date_maj": "2026-10-15"
+}

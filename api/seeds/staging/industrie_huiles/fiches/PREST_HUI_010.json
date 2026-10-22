@@ -1,0 +1,143 @@
+{
+  "id": "PREST_HUI_010",
+  "nom": "CRITT Agroalimentaire Sud (Provence-Alpes-Côte d'Azur)",
+  "type": "organisme_technique",
+  "logo_url": null,
+  "siret": "37763131200057",
+  "description": "Centre régional d'innovation et de transfert de technologies de l'industrie agroalimentaire de Provence-Alpes-Côte d'Azur, basé à Avignon. Son pôle environnement réalise des diagnostics eau sur site (collecte des données, visite, entretiens avec la production et la maintenance) suivis d'un rapport qui analyse les flux d'effluents, chiffre leur coût et propose des pistes d'amélioration, et il aide à rechercher des financements et à monter les dossiers d'aides. Le diagnostic est une prestation payante, à tarif préférentiel pour les adhérents du réseau Food'in Provence-Alpes-Côte d'Azur ; la sensibilisation du personnel qui peut le prolonger est facturée à part et peut être prise en charge par l'OPCO.",
+  "expertises": [
+    "Pré-diagnostic eau",
+    "Économie d'eau et effluents",
+    "Montage de dossiers d'aides",
+    "Veille réglementaire environnement"
+  ],
+  "categories": [
+    "suivre_comprendre_maitriser",
+    "agir_rejets_qualite"
+  ],
+  "secteurs": [
+    "industrie_huiles"
+  ],
+  "departements": [
+    "04",
+    "05",
+    "06",
+    "13",
+    "83",
+    "84"
+  ],
+  "mesures": [
+    {
+      "id": "ACT_AGR_002",
+      "roles": [
+        "conseil_etude"
+      ]
+    },
+    {
+      "id": "ACT_HUI_007",
+      "roles": [
+        "conseil_etude"
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "type": "site_internet",
+      "value": "https://critt-iaa-paca.com"
+    },
+    {
+      "type": "tel",
+      "value": "04 90 31 55 08"
+    },
+    {
+      "type": "mail",
+      "value": "critt@critt-iaa-paca.com"
+    },
+    {
+      "type": "adresse",
+      "value": "Bâtiment Food'in Provence-Alpes-Côte d'Azur, 885 Chemin de la Forêt, 84140 Avignon"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "contacts",
+      "url": "https://critt-iaa-paca.com/environnement/",
+      "date": "2026-09-27",
+      "extrait": "CRITT Agroalimentaire PACA, Bâtiment Food'in Provence-Alpes-Côte d'Azur, 885 Chemin de la Forêt, 84140 Avignon. Tel: 04 90 31 55 08. Mail : critt@critt-iaa-paca.com"
+    },
+    {
+      "champ": "contacts (capture archivée de la même page)",
+      "url": "https://web.archive.org/web/20260312222552/https://critt-iaa-paca.com/environnement/",
+      "date": "2026-09-27",
+      "extrait": "CRITT Agroalimentaire PACA, Bâtiment Food'in Provence-Alpes-Côte d'Azur, 885 Chemin de la Forêt, 84140 Avignon. Tel: 04 90 31 55 08. Mail : critt@critt-iaa-paca.com"
+    },
+    {
+      "champ": "expertises, categories, mesures (ACT_AGR_002, ACT_HUI_007), description",
+      "url": "https://critt-iaa-paca.com/environnement/",
+      "date": "2026-09-27",
+      "extrait": "Economie d'eau et traitement des effluents ; Pré-diagnostics eau/énergie/déchets/éco-conception ; Recherches de financements / Montage de dossiers de demandes d'aides ; Veille réglementaire et technique"
+    },
+    {
+      "champ": "expertises, categories, mesures (ACT_AGR_002, ACT_HUI_007), description (capture archivée de la même page)",
+      "url": "https://web.archive.org/web/20260312222552/https://critt-iaa-paca.com/environnement/",
+      "date": "2026-09-27",
+      "extrait": "Economie d'eau et traitement des effluents ; Pré-diagnostics eau/énergie/déchets/éco-conception ; Recherches de financements / Montage de dossiers de demandes d'aides ; Veille réglementaire et technique"
+    },
+    {
+      "champ": "mesures (ACT_AGR_002, ACT_HUI_007), description",
+      "url": "https://critt-iaa-paca.com/wp-content/uploads/files/Environnement/Diagnostic%20%26%20Accompagnement%20-%20Eau.pdf",
+      "date": "2026-09-27",
+      "extrait": "Objectifs : Mieux connaître les usages et le devenir de l'eau dans son entreprise ; Réduire ses consommations ; Réduire les coûts de ses effluents. Intervention sur site : collecte des données, visite des locaux, entretien avec le personnel (production, maintenance...). Rapport de synthèse : une analyse des flux des effluents, un point sur le coût des effluents, des propositions de pistes d'amélioration, des contacts pour le traitement des effluents ou co-produits. Sensibilisation du personnel non intégrée dans le coût du diagnostic, peut être prise en charge par votre OPCO."
+    },
+    {
+      "champ": "mesures (ACT_AGR_002, ACT_HUI_007), description (capture archivée de la même page)",
+      "url": "https://web.archive.org/web/20230415053237/https://critt-iaa-paca.com/wp-content/uploads/files/Environnement/Diagnostic%20%26%20Accompagnement%20-%20Eau.pdf",
+      "date": "2026-09-27",
+      "extrait": "Objectifs : Mieux connaître les usages et le devenir de l'eau dans son entreprise ; Réduire ses consommations ; Réduire les coûts de ses effluents. Intervention sur site : collecte des données, visite des locaux, entretien avec le personnel (production, maintenance...). Rapport de synthèse : une analyse des flux des effluents, un point sur le coût des effluents, des propositions de pistes d'amélioration, des contacts pour le traitement des effluents ou co-produits. Sensibilisation du personnel non intégrée dans le coût du diagnostic, peut être prise en charge par votre OPCO."
+    },
+    {
+      "champ": "mesures (ACT_HUI_007)",
+      "url": "https://critt-iaa-paca.com/support-individuel/diagnostic-conseil-accompagnement/",
+      "date": "2026-09-27",
+      "extrait": "Chaque année, le CRITT accompagne plus de 100 entreprises, sur des projets tels que : [...] le traitement des effluents"
+    },
+    {
+      "champ": "mesures (ACT_HUI_007) (capture archivée de la même page)",
+      "url": "https://web.archive.org/web/20260211070031/https://critt-iaa-paca.com/support-individuel/diagnostic-conseil-accompagnement/",
+      "date": "2026-09-27",
+      "extrait": "Chaque année, le CRITT accompagne plus de 100 entreprises, sur des projets tels que : [...] le traitement des effluents"
+    },
+    {
+      "champ": "departements, description",
+      "url": "https://critt-iaa-paca.com/presentation-du-critt-agroalimentaire/",
+      "date": "2026-09-27",
+      "extrait": "le CRITT Agroalimentaire Provence-Alpes-Côte d'Azur est l'outil d'innovation et de transfert de technologies spécialisé de l'industrie agroalimentaire régionale [...] aider les entreprises régionales à être durablement performantes"
+    },
+    {
+      "champ": "departements, description (capture archivée de la même page)",
+      "url": "https://web.archive.org/web/20260214195952/https://critt-iaa-paca.com/presentation-du-critt-agroalimentaire/",
+      "date": "2026-09-27",
+      "extrait": "le CRITT Agroalimentaire Provence-Alpes-Côte d'Azur est l'outil d'innovation et de transfert de technologies spécialisé de l'industrie agroalimentaire régionale [...] aider les entreprises régionales à être durablement performantes"
+    },
+    {
+      "champ": "type, description (accès, adhésion)",
+      "url": "https://critt-iaa-paca.com/adherer-au-critt-agroalimentaire/",
+      "date": "2026-09-27",
+      "extrait": "En région Sud l'adhésion au réseau Food'in Provence-Alpes-Côte d'Azur permet d'adhérer simultanément à l'ARIA Sud, au Critt (le centre technique) et à l'IFRIA SUD PACA. Des services à tarifs préférentiels (-30% environ) pour : [...] Un accompagnement personnalisé de vos projets"
+    },
+    {
+      "champ": "type, description (accès, adhésion) (capture archivée de la même page)",
+      "url": "https://web.archive.org/web/20260312222650/https://critt-iaa-paca.com/adherer-au-critt-agroalimentaire/",
+      "date": "2026-09-27",
+      "extrait": "En région Sud l'adhésion au réseau Food'in Provence-Alpes-Côte d'Azur permet d'adhérer simultanément à l'ARIA Sud, au Critt (le centre technique) et à l'IFRIA SUD PACA. Des services à tarifs préférentiels (-30% environ) pour : [...] Un accompagnement personnalisé de vos projets"
+    },
+    {
+      "champ": "siret",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=CRITT%20agroalimentaire&departement=84",
+      "date": "2026-09-27",
+      "extrait": "CENTRE REG INNOV TRANSFERT TECHNO AGROALIMENTAIRE SUD PROVENCE ALPES COTE D AZUR (CRITT AGRO ALIM SUD), siret 37763131200057, siège, 885 CHEMIN DE LA FORET 84000 AVIGNON, état administratif A"
+    }
+  ],
+  "date_maj": "2026-09-27"
+}

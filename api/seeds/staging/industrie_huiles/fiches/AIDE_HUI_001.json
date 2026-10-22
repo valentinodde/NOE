@@ -1,0 +1,129 @@
+{
+  "id": "AIDE_HUI_001",
+  "nom": "CEDRE Premiers pas (Région Sud)",
+  "financeur": "Région Provence-Alpes-Côte d'Azur (Région Sud)",
+  "logo_url": null,
+  "type": "subvention",
+  "taux": "Forfait de 3 000 €, sur une facture de conseil d'au moins 3 750 € HT",
+  "plafond": "3 000 € par structure, une seule fois",
+  "description": "Subvention forfaitaire de la Région Sud qui réduit le coût d'une prestation de conseil en transition écologique réalisée par un accompagnateur-expert référencé par la Région. La Région cite parmi les premières actions visées la réduction des consommations d'eau. Les prestations éligibles comprennent notamment l'adaptation à la raréfaction des ressources (utilisation économe des ressources) et l'adaptation aux conséquences du changement climatique. Les investissements repérés pendant l'accompagnement peuvent ensuite être soutenus par CEDRE Investissement.",
+  "eligibilite": "Entreprises inscrites au RNE et associations à activité marchande dont le siège social ou l'établissement se situe en Provence-Alpes-Côte d'Azur, avec un chiffre d'affaires de 2 millions d'euros au plus, éligibles au régime de minimis et n'ayant pas déjà bénéficié d'un accompagnement de même nature ou d'un dispositif de la gamme CEDRE. Le secteur de l'agriculture, de la sylviculture et de la pêche est exclu, ainsi que les bureaux d'études et cabinets de conseil spécialisés en RSE, transition écologique ou développement durable.",
+  "categories": [
+    "suivre_comprendre_maitriser"
+  ],
+  "secteurs": [
+    "industrie_huiles"
+  ],
+  "departements": [
+    "04",
+    "05",
+    "06",
+    "13",
+    "83",
+    "84"
+  ],
+  "agences": [],
+  "mesures": [
+    "ACT_AGR_002"
+  ],
+  "infos_complementaires": [
+    {
+      "type": "avertissement",
+      "texte": "L'aide se demande après la prestation, sur présentation d'une facture de moins de 6 mois, d'au moins 3 750 € HT, intégralement acquittée à un expert référencé par la Région. Une prestation confiée à un consultant absent de la liste régionale n'est pas éligible."
+    },
+    {
+      "type": "avertissement",
+      "texte": "Le secteur de l'agriculture, de la sylviculture et de la pêche est exclu du dispositif. Vérifiez votre éligibilité auprès de la Région avant d'engager la prestation : 0 805 805 145 (appel gratuit, du lundi au vendredi)."
+    },
+    {
+      "type": "info",
+      "texte": "La demande se dépose en ligne sur la plateforme régionale, toute l'année, et les dossiers sont instruits par ordre d'arrivée. Pièces demandées : extrait RNE, derniers comptes, facture de l'expert, synthèse de l'accompagnement et de son calendrier, attestation de minimis, RIB. La Région recommande un échange préalable avec ses services : 0 805 805 145 (appel gratuit, du lundi au vendredi) ou relationentrepriseusager@maregionsud.fr."
+    },
+    {
+      "type": "info",
+      "texte": "À l'issue de l'accompagnement, CEDRE Investissement peut attribuer une subvention forfaitaire de 7 000 € pour réaliser des investissements identifiés pendant le parcours, avec des dépenses éligibles d'au moins 10 000 € HT."
+    },
+    {
+      "type": "ressource",
+      "texte": "Page du dispositif sur le site de la Région Sud",
+      "lien": "https://www.maregionsud.fr/vos-aides/detail/cedre-premiers-pas",
+      "lien_label": "Voir le dispositif"
+    },
+    {
+      "type": "ressource",
+      "texte": "Liste 2026 des accompagnateurs-experts référencés pour la prestation « Adaptation aux conséquences du changement climatique », dont plusieurs affichent une compétence ressource en eau",
+      "lien": "https://www.maregionsud.fr/fileadmin/user_upload/1-FICHIERS/2-DOCUMENTS/Economie-Emploi/8-Adaptation_aux_consequences_du_changement_climatique_2026.pdf",
+      "lien_label": "Consulter la liste"
+    },
+    {
+      "type": "ressource",
+      "texte": "Dépôt de la demande sur la plateforme d'aides en ligne de la Région Sud",
+      "lien": "https://aidesenligne.maregionsud.fr/aides/#/crsud/connecte/F_CEDRE_1ERPAS/depot/simple",
+      "lien_label": "Faire ma demande"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "taux, plafond",
+      "url": "https://www.maregionsud.fr/vos-aides/detail/cedre-premiers-pas",
+      "date": "2026-09-27",
+      "extrait": "L'aide régionale prend la forme d'une subvention forfaitaire de 3 000 euros, sur présentation d'une facture de moins de 6 mois, d'un montant minimum de 3 750 euros HT, intégralement acquittée à un expert référencé par la Région"
+    },
+    {
+      "champ": "plafond (une seule fois)",
+      "url": "https://www.maregionsud.fr/vos-aides/detail/cedre-premiers-pas",
+      "date": "2026-09-27",
+      "extrait": "Le demandeur ne peut prétendre à cette aide qu'une seule fois."
+    },
+    {
+      "champ": "description, mesures (ACT_AGR_002)",
+      "url": "https://www.maregionsud.fr/vos-aides/detail/cedre-premiers-pas",
+      "date": "2026-09-27",
+      "extrait": "vous souhaitez concrétiser de premières actions de transition écologique (réduction de vos consommation d'eau, d'énergie, de matières premières [...]) ? Avec CEDRE Premiers pas, accédez à une prestation de conseil à un coût réduit avec l'appui d'un accompagnateur-expert retenu par la Région Sud."
+    },
+    {
+      "champ": "description, mesures (ACT_AGR_002)",
+      "url": "https://www.maregionsud.fr/vos-aides/detail/cedre-premiers-pas",
+      "date": "2026-09-27",
+      "extrait": "Réduction de l'impact environnemental des produits et services de l'entreprise et l'adaptation à la raréfaction des ressources (écoconception, [...] utilisation économe des ressources, [...])"
+    },
+    {
+      "champ": "description",
+      "url": "https://www.maregionsud.fr/vos-aides/detail/cedre-premiers-pas",
+      "date": "2026-09-27",
+      "extrait": "Adaptation aux conséquences du changement climatique et à la raréfaction des ressources (déploiement de solutions innovantes et/ou alternatives, changement/évolution des pratiques et procédés de production, actions de prévention des risques, etc.)."
+    },
+    {
+      "champ": "mesures (experts eau référencés)",
+      "url": "https://www.maregionsud.fr/fileadmin/user_upload/1-FICHIERS/2-DOCUMENTS/Economie-Emploi/8-Adaptation_aux_consequences_du_changement_climatique_2026.pdf",
+      "date": "2026-09-27",
+      "extrait": "Scilog accompagne les entreprises et collectivités dans leur transition écologique. Par la sensibilisation, les bilans carbone et la baisse du besoin en eau ; Ecovia : Biodiversité, Ressource en eau"
+    },
+    {
+      "champ": "eligibilite, departements",
+      "url": "https://www.maregionsud.fr/vos-aides/detail/cedre-premiers-pas",
+      "date": "2026-09-27",
+      "extrait": "Réalisant un chiffre d'affaires inférieur ou égal à 2 millions d'euros (SIREN) ; Dont le siège social ou l'établissement se situe en Provence-Alpes-Côte d'Azur ; Eligibles au régime de minimis"
+    },
+    {
+      "champ": "eligibilite (exclusions)",
+      "url": "https://www.maregionsud.fr/vos-aides/detail/cedre-premiers-pas",
+      "date": "2026-09-27",
+      "extrait": "Sont exclus : Les bureaux d'étude et cabinets de conseil spécialisés dans la RSE [...], la transition écologique ou le développement durable ; Le secteur de l'agriculture, de la sylviculture et de la pêche"
+    },
+    {
+      "champ": "infos_complementaires (démarche)",
+      "url": "https://www.maregionsud.fr/vos-aides/detail/cedre-premiers-pas",
+      "date": "2026-09-27",
+      "extrait": "Les dossiers peuvent être déposés tout au long de l'année. Leur analyse sera faite chronologiquement, par ordre d'arrivée. Un échange préalable auprès des services de la Région Sud est fortement recommandé ; 0 805 805 145 (services et appels gratuits) ou par courriel à relationentrepriseusager@maregionsud.fr"
+    },
+    {
+      "champ": "infos_complementaires (CEDRE Investissement)",
+      "url": "https://www.maregionsud.fr/vos-aides/detail/cedre-premiers-pas",
+      "date": "2026-09-27",
+      "extrait": "A l'issue, avec CEDRE Investissement, une subvention forfaitaire de 7 000 euros pourra être attribuée aux structures accompagnées [...] Ces projets devront présenter des dépenses éligibles d'un montant minimum de 10 000 HT."
+    }
+  ],
+  "date_maj": "2026-09-27"
+}

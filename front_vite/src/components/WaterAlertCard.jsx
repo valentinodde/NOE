@@ -1,4 +1,4 @@
-/* No border-b separators — rows use gap + background shifts per the No-Line rule */
+/* No border-b separators: rows use gap + background shifts per the No-Line rule */
 function AlertRow({ label, days, valueColor, bg }) {
   return (
     <div className={`flex items-center justify-between px-4 py-3 rounded-xl ${bg}`}>

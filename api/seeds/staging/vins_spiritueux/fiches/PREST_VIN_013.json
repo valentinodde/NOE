@@ -1,0 +1,93 @@
+{
+  "id": "PREST_VIN_013",
+  "nom": "Vision Ingénierie",
+  "type": "bureau_etudes",
+  "logo_url": "https://visioningenierie.fr/wp-content/uploads/2024/02/logo-vision-ingenierie.svg",
+  "siret": "85131544000020",
+  "description": "Société d'ingénierie et de maîtrise d'oeuvre du bâtiment installée à Bezannes, qui conçoit et suit la construction, l'extension ou la rénovation de cuveries, centres de pressurage, caves et bâtiments de stockage pour des maisons de Champagne et des coopératives. Son ingénierie des fluides intègre le passage du vin au froid et les calculs frigorifiques de la production et du stockage, avec le choix des équipements, et la conception place les points d'eau et les systèmes de récupération des effluents. Mission complète ou par lots séparés, offre personnalisée sans engagement de frais.",
+  "expertises": [
+    "Maîtrise d'oeuvre de cuverie",
+    "Ingénierie des fluides vinicoles",
+    "Calculs frigorifiques de chai",
+    "Économie de la construction"
+  ],
+  "categories": [],
+  "secteurs": [
+    "vins_spiritueux"
+  ],
+  "departements": [
+    "51",
+    "89"
+  ],
+  "mesures": [],
+  "contacts": [
+    {
+      "type": "site_internet",
+      "value": "https://visioningenierie.fr"
+    },
+    {
+      "type": "mail",
+      "value": "contact@visioningenierie.fr"
+    },
+    {
+      "type": "adresse",
+      "value": "6 rue Jules Méline, 51430 Bezannes"
+    },
+    {
+      "type": "linkedin",
+      "value": "https://www.linkedin.com/company/vision-ingenierie/"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Vision%20Ingenierie&departement=51",
+      "date": "2026-09-28",
+      "extrait": "VISION INGENIERIE, siret 85131544000020, siege, 6 RUE JULES MELINE 51430 BEZANNES, activite 71.12B, etat_administratif A"
+    },
+    {
+      "champ": "siret, type",
+      "url": "https://visioningenierie.fr/mentions-legales/",
+      "date": "2026-09-28",
+      "extrait": "Société spécialisée dans la maitrise d'œuvre et ingénierie du bâtiment tous corps d'état séparés. Contact : contact@visioningenierie.fr Siret : 85131544000020"
+    },
+    {
+      "champ": "description, expertises, departements",
+      "url": "https://visioningenierie.fr/ingenierie-viticole-marne/",
+      "date": "2026-09-28",
+      "extrait": "Ayant travaillé pour plusieurs Maisons de Champagne et coopératives [...] il convient de tenir compte de différentes données relatives au passage du vin au froid, à la macération, au pressurage, au stockage [...] Nous procéderons également aux calculs frigorifiques nécessaires pour assurer le maintien d'une température adéquate à la production et au stockage de champagne [...] sélectionnera les bons matériaux et équipements de climatisation [...] La disposition des points énergétiques et des points d'eau et des systèmes de récupération des effluents"
+    },
+    {
+      "champ": "description",
+      "url": "https://visioningenierie.fr/activites/",
+      "date": "2026-09-28",
+      "extrait": "Commercial : Offre sans engagement de frais, Mission personnalisée [...] Consultations : Par corps d'états séparés"
+    },
+    {
+      "champ": "departements, description",
+      "url": "https://visioningenierie.fr/champagne-lallier-2/",
+      "date": "2026-09-28",
+      "extrait": "Maîtrise d'Œuvre complète, Lieu OGER (Côtes des Blancs) [...] Construction d'une nouvelle cuverie 2.0 (Extension capacitaire), d'un chai écrin de la marque, rénovation cuverie tirage"
+    },
+    {
+      "champ": "departements",
+      "url": "https://visioningenierie.fr/domaine-laroche/",
+      "date": "2026-09-28",
+      "extrait": "Vins de Chablis DOMAINE LAROCHE, Maîtrise d'Œuvre complète, Lieu CHABLIS (89800), Extension du site de production par la conception et réalisation d'un bâtiment stockage-expéditions"
+    },
+    {
+      "champ": "contacts",
+      "url": "https://visioningenierie.fr/",
+      "date": "2026-09-28",
+      "extrait": "6 rue Jules Méline, 51430 BEZANNES - contact@visioningenierie.fr ; lien https://www.linkedin.com/company/vision-ingenierie/"
+    },
+    {
+      "champ": "logo_url",
+      "url": "https://visioningenierie.fr/",
+      "date": "2026-09-28",
+      "extrait": "Logo de l'en-tête chargé en différé, visible dans le code HTML de la page et non dans le texte : <img data-src=\"https://visioningenierie.fr/wp-content/uploads/2024/02/logo-vision-ingenierie.svg\" alt=\"logo-svg\" class=\"svg logo-img logo-svg lazyload\">"
+    }
+  ],
+  "date_maj": "2026-09-28"
+}

@@ -1,0 +1,157 @@
+{
+  "id": "AIDE_VIA_008",
+  "nom": "Transformation des produits de la pêche et de l'aquaculture (Région Nouvelle-Aquitaine, FEAMPA)",
+  "financeur": "Région Nouvelle-Aquitaine (crédits européens FEAMPA et crédits régionaux)",
+  "logo_url": null,
+  "type": "subvention",
+  "taux": "25 % maximum du coût de l'investissement",
+  "plafond": "75 000 € d'aides publiques au maximum, 5 000 € au minimum",
+  "description": "Subvention régionale, financée par le FEAMPA (70 %) et la Région (30 %), qui soutient les projets de création, de modernisation, de développement ou d'adaptation des activités de transformation ou de conservation des produits de la pêche et de l'aquaculture. Seuls les frais externes d'investissement (matériel, équipement, travaux) facturés au bénéficiaire et amortis par lui sont éligibles. L'économie d'énergie ou d'eau fait partie des critères de notation des dossiers.",
+  "eligibilite": "Petites entreprises de moins de 10 ETP ayant une activité de mareyage, de transformation ou de conservation des produits de la pêche ou de l'aquaculture, n'ayant pas encore bénéficié d'une aide FEAMPA à l'échelle régionale, pour un site situé en Nouvelle-Aquitaine. L'achat doit être supérieur à 20 000 € HT.",
+  "categories": [],
+  "secteurs": ["industrie_viande"],
+  "departements": ["16", "17", "19", "23", "24", "33", "40", "47", "64", "79", "86", "87"],
+  "agences": [],
+  "mesures": [],
+  "infos_complementaires": [
+    {
+      "type": "avertissement",
+      "texte": "L'aide est réservée aux entreprises ayant une activité de mareyage, de transformation ou de conservation des produits de la pêche ou de l'aquaculture, et seules sont éligibles les opérations portant sur ces activités."
+    },
+    {
+      "type": "avertissement",
+      "texte": "Les dépenses ne sont éligibles qu'à compter de la date de réception de la demande d'aide : tout commencement de l'opération avant cette date, un acompte versé par exemple, rend la dépense concernée inéligible."
+    },
+    {
+      "type": "avertissement",
+      "texte": "Une seule demande d'aide par SIREN est recevable sur la programmation 2021-2027, et le bénéficiaire s'engage à ne pas solliciter d'autres financements publics pour le même projet."
+    },
+    {
+      "type": "avertissement",
+      "texte": "Ne sont notamment pas éligibles : l'entretien courant et le renouvellement à l'identique, le matériel d'occasion ou reconditionné, le leasing et le crédit-bail, l'autoconstruction, les raccordements aux réseaux d'eau, gaz et électricité, les frais de montage de dossier."
+    },
+    {
+      "type": "info",
+      "texte": "Les dossiers sont notés sur une grille (création d'atelier 10 points, projet de recherche, développement ou innovation 10, économie d'énergie ou d'eau 3, valorisation des coproduits ou diminution des déchets 3, sécurité, hygiène et conditions de travail 2, produits pêchés ou élevés principalement en Nouvelle-Aquitaine 2). Le projet doit obtenir au moins 7 points."
+    },
+    {
+      "type": "info",
+      "texte": "Le dépôt se fait en ligne sur Mes Démarches en Nouvelle-Aquitaine (MDNA), au fil de l'eau, les dossiers complets étant instruits par ordre d'arrivée. Date limite de dépôt affichée par la Région au 24 septembre 2026 : 30 juin 2027. Contact : service Pêche et Aquaculture de la Région, peche-aquaculture@nouvelle-aquitaine.fr, ou le service Relation aux usagers au 05 49 38 49 38."
+    },
+    {
+      "type": "ressource",
+      "texte": "Page du dispositif sur le guide des aides de la Région Nouvelle-Aquitaine",
+      "lien": "https://les-aides.nouvelle-aquitaine.fr/economie-et-emploi/transformation-des-produits-de-la-peche-et-de-laquaculture"
+    },
+    {
+      "type": "ressource",
+      "texte": "Texte du dispositif (PDF) : bénéficiaires, dépenses inéligibles, grille de notation",
+      "lien": "https://les-aides.nouvelle-aquitaine.fr/system/files/specific_pj_files/Dispositif_0.pdf"
+    },
+    {
+      "type": "ressource",
+      "texte": "Guide du porteur de projet MDNA sur le site Europe en Nouvelle-Aquitaine : procédure de dépôt de la demande sur Mes Démarches en Nouvelle-Aquitaine",
+      "lien": "https://www.europe-en-nouvelle-aquitaine.eu/fr/le-depot-et-le-suivi-de-mon-dossier.html"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "financeur, description",
+      "url": "https://les-aides.nouvelle-aquitaine.fr/system/files/specific_pj_files/Dispositif_0.pdf",
+      "date": "2026-09-24",
+      "extrait": "Cet accompagnement s'inscrit dans le cadre de l'Objectif Spécifique (OS) 2.2 du Programme National pour la mise en œuvre du Fonds Européen pour les Affaires Maritimes, la Pêche et l'Aquaculture (FEAMPA) [...] Ce dispositif d'aide est financé sur crédits FEAMPA (70%) et Région (30%)."
+    },
+    {
+      "champ": "type, taux, plafond",
+      "url": "https://les-aides.nouvelle-aquitaine.fr/economie-et-emploi/transformation-des-produits-de-la-peche-et-de-laquaculture",
+      "date": "2026-09-24",
+      "extrait": "Taux d'intervention régionale : 25 % des dépenses Montant minimum d'aides publiques : 5 000 € Montant maximum d'aides publiques : 75 000 € [...] La subvention accordée est de 25% maximum du coût de mon investissement et plafonnée à 75 000 € dans la limite de l'enveloppe disponible."
+    },
+    {
+      "champ": "description",
+      "url": "https://les-aides.nouvelle-aquitaine.fr/economie-et-emploi/transformation-des-produits-de-la-peche-et-de-laquaculture",
+      "date": "2026-09-24",
+      "extrait": "Soutenir les projets de création, de modernisation, de développement, d'adaptation des activités de transformation et/ou conservation des produits de la pêche et de l'aquaculture."
+    },
+    {
+      "champ": "description",
+      "url": "https://les-aides.nouvelle-aquitaine.fr/system/files/specific_pj_files/Dispositif_0.pdf",
+      "date": "2026-09-24",
+      "extrait": "Sont éligibles uniquement les frais externes d'investissement (matériel, équipement, travaux), c'est-à-dire les frais faisant l'objet d'une facturation au bénéficiaire et dont le montant est amorti par le bénéficiaire de l'aide."
+    },
+    {
+      "champ": "eligibilite, infos_complementaires",
+      "url": "https://les-aides.nouvelle-aquitaine.fr/economie-et-emploi/transformation-des-produits-de-la-peche-et-de-laquaculture",
+      "date": "2026-09-24",
+      "extrait": "Les petites entreprises (<10 ETP - Equivalent temps plein) ayant une activité de mareyage, de transformation et/ou de conservation des produits de la pêche et/ou de l'aquaculture et n'ayant pas encore bénéficié d'une aide FEAMPA à l'échelle régionale."
+    },
+    {
+      "champ": "eligibilite",
+      "url": "https://les-aides.nouvelle-aquitaine.fr/economie-et-emploi/transformation-des-produits-de-la-peche-et-de-laquaculture",
+      "date": "2026-09-24",
+      "extrait": "Pour être éligible, mon achat doit être supérieur à 20 000 € HT"
+    },
+    {
+      "champ": "eligibilite, departements",
+      "url": "https://les-aides.nouvelle-aquitaine.fr/system/files/specific_pj_files/Dispositif_0.pdf",
+      "date": "2026-09-24",
+      "extrait": "Ce dispositif d'aide concerne uniquement les sites de transformation et/ou de conservation en Nouvelle-Aquitaine."
+    },
+    {
+      "champ": "departements",
+      "url": "https://les-aides.nouvelle-aquitaine.fr/economie-et-emploi/transformation-des-produits-de-la-peche-et-de-laquaculture",
+      "date": "2026-09-24",
+      "extrait": "Charente (16) Charente-Maritime (17) Corrèze (19) Creuse (23) Dordogne (24) Gironde (33) Landes (40) Lot-et-Garonne (47) Pyrénées-Atlantiques (64) Deux-Sèvres (79) Vienne (86) Haute-Vienne (87) Autre (hors Nouvelle-Aquitaine)"
+    },
+    {
+      "champ": "infos_complementaires",
+      "url": "https://les-aides.nouvelle-aquitaine.fr/system/files/specific_pj_files/Dispositif_0.pdf",
+      "date": "2026-09-24",
+      "extrait": "Sont éligibles uniquement les opérations portant sur la création, la modernisation, le développement ou l'adaptation des activités de transformation et/ou de conservation des produits de la pêche et de l'aquaculture et qui permettent un saut qualitatif/stratégique de l'activité de l'entreprise. Une seule demande d'aide par structure (SIREN) sera recevable sur la période de la programmation 2021-2027."
+    },
+    {
+      "champ": "infos_complementaires",
+      "url": "https://les-aides.nouvelle-aquitaine.fr/system/files/specific_pj_files/Dispositif_0.pdf",
+      "date": "2026-09-24",
+      "extrait": "Les dépenses sont éligibles à compter de la date de réception de la demande d'aide. Tout commencement de l'opération (acompte(s) versé(s), etc.) avant la date de début d'éligibilité des dépenses rend la dépense concernée inéligible."
+    },
+    {
+      "champ": "infos_complementaires",
+      "url": "https://les-aides.nouvelle-aquitaine.fr/system/files/specific_pj_files/Dispositif_0.pdf",
+      "date": "2026-09-24",
+      "extrait": "Engagement à ne pas solliciter, pour ce même projet, d'autres financements publics."
+    },
+    {
+      "champ": "infos_complementaires",
+      "url": "https://les-aides.nouvelle-aquitaine.fr/system/files/specific_pj_files/Dispositif_0.pdf",
+      "date": "2026-09-24",
+      "extrait": "Le leasing, crédit-bail et assimilés [...] L'autoconstruction [...] L'entretien courant et le renouvellement à l'identique • Le matériel d'occasion et le matériel reconditionné [...] raccordement aux réseaux d'eau, gaz, électricité [...] Les frais de montage de dossiers"
+    },
+    {
+      "champ": "infos_complementaires",
+      "url": "https://les-aides.nouvelle-aquitaine.fr/system/files/specific_pj_files/Dispositif_0.pdf",
+      "date": "2026-09-24",
+      "extrait": "Les créations d'ateliers de transformation 10 Les projets de RDI donnant naissance à de nouveaux ou meilleurs produits, processus ou systèmes de gestion et d'organisation 10 Economie d'énergie/d'eau 3 Valorisation des co-produits / diminution des déchets 3 Sécurité, hygiène, santé et conditions de travail 2 Les opérations qui concernent la transformation ou la conservation de produits pêchés ou élevés principalement en Nouvelle-Aquitaine 2 Pour être éligible, le projet doit obtenir la note minimum de 7 points."
+    },
+    {
+      "champ": "infos_complementaires",
+      "url": "https://les-aides.nouvelle-aquitaine.fr/system/files/specific_pj_files/Dispositif_0.pdf",
+      "date": "2026-09-24",
+      "extrait": "les dossiers dématérialisés sont à déposer sur la plateforme Mes Démarches en Nouvelle-Aquitaine (MDNA), et seront instruits au fil de l'eau. [...] Le dépôt des demandes d'aide se fait au fil de l'eau. Les dossiers complets sont instruits par ordre d'arrivée. [...] Contacts du service Pêche et Aquaculture de la Région Nouvelle-Aquitaine : peche-aquaculture@nouvelle-aquitaine.fr"
+    },
+    {
+      "champ": "infos_complementaires",
+      "url": "https://les-aides.nouvelle-aquitaine.fr/system/files/specific_pj_files/Dispositif_0.pdf",
+      "date": "2026-09-24",
+      "extrait": "Un « Guide du porteur de projet MDNA » explicite la procédure de dépôt de la demande et est accessible sur le site : https://www.europe-en-nouvelle-aquitaine.eu/fr/le-depot-et-le-suivi-de-mon-dossier.html"
+    },
+    {
+      "champ": "infos_complementaires",
+      "url": "https://les-aides.nouvelle-aquitaine.fr/economie-et-emploi/transformation-des-produits-de-la-peche-et-de-laquaculture",
+      "date": "2026-09-24",
+      "extrait": "Date limite dépôt des dossiers : 30 juin 2027 [...] Direction de l'agriculture des IAA et de la pêche Service Relation aux usagers 05 49 38 49 38"
+    }
+  ],
+  "date_maj": "2026-09-24"
+}

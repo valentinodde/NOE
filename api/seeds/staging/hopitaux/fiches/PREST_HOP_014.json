@@ -1,0 +1,99 @@
+{
+  "id": "PREST_HOP_014",
+  "nom": "Sanivap (groupe Oxy'Pharm)",
+  "type": "equipementier",
+  "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792070180/Noe%20assets/logos/PREST_HOP_014.png",
+  "siret": "39956733800062",
+  "description": "Fabricant de générateurs de vapeur pour le bionettoyage et la désinfection des surfaces, conçus et fabriqués à Lozanne (Rhône), dispositifs médicaux de classe IIa conformes à la norme NF T72-110. En établissement de santé, la vapeur réduit l'usage des produits chimiques : la clinique Saint-Augustin de Bordeaux l'emploie pour son bionettoyage, et une présentation du CPias consacrée au dispositif Sanivap rapporte qu'au CH de Compiègne-Noyon, où l'achat de neuf nettoyeurs vapeur a été subventionné à 25 % par l'agence de l'eau, la vapeur remplace le détergent-désinfectant pour l'entretien des incubateurs. Les appareils s'achètent avec une formation des agents incluse et obligatoire, et la fiche technique de 2019 mentionne un service après-vente et des contrats de maintenance. Le même retour de Compiègne-Noyon nuance le bilan : formation approfondie et accompagnement initial indispensables, échec dans les chambres de sortie des patients en précautions complémentaires faute d'appropriation, et réservoirs d'eau des appareils tous trouvés contaminés, d'où une vidange régulière à prévoir.",
+  "expertises": [
+    "Générateurs de bionettoyage vapeur",
+    "Désinfection des surfaces à la vapeur",
+    "Formation des agents au bionettoyage",
+    "Maintenance des appareils"
+  ],
+  "categories": [
+    "agir_rejets_qualite"
+  ],
+  "secteurs": [
+    "hopitaux"
+  ],
+  "departements": [],
+  "mesures": [
+    {
+      "id": "ACT_HOP_007",
+      "roles": [
+        "materiel"
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "type": "site_internet",
+      "value": "https://www.oxypharm.net/sanivap-bionettoyage/"
+    },
+    {
+      "type": "mail",
+      "value": "info@sanivap.fr"
+    },
+    {
+      "type": "tel",
+      "value": "04 37 22 55 55"
+    },
+    {
+      "type": "adresse",
+      "value": "391 rue Louis Arnal, ZAC des Prés Secs, 69380 Lozanne"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=39956733800062",
+      "date": "2026-10-15",
+      "extrait": "SANIVAP, siret 39956733800062, ZAC DES PRES SECS 391 RUE LOUIS ARNAL 69380 LOZANNE, activite_principale 28.29B, etat_administratif A (siège 39956733800054 à Champigny-sur-Marne, actif)"
+    },
+    {
+      "champ": "type, description (fabrication en France, Lozanne, groupe), expertises",
+      "url": "https://careers.sanivap.fr",
+      "date": "2026-10-15",
+      "extrait": "Conçus et fabriqués 100 % en France, les équipements SANIVAP bénéficient du label Origine France Garantie. Basée à Lozanne, près de Lyon, Sanivap est spécialisée dans la conception et la fabrication de générateurs vapeur dédiés au nettoyage et à la désinfection des surfaces."
+    },
+    {
+      "champ": "description (classe IIa, NF T72-110, formation incluse et obligatoire), expertises, contacts (site_internet)",
+      "url": "https://www.oxypharm.net/sanivap-bionettoyage/",
+      "date": "2026-10-15",
+      "extrait": "Les appareils Sanivap sont des dispositifs médicaux de la Classe IIa. Organisme notifié GMED 0459. Pour toute acquisition de nos appareils, la formation à l'utilisation de nos dispositifs et aux bonnes pratiques du bionettoyage est inclue et obligatoire."
+    },
+    {
+      "champ": "description (service après-vente, contrats de maintenance), expertises, departements",
+      "url": "https://frenchhealthcare.fr/wp-content/uploads/2025/04/FT-SP400-Juillet-2019.pdf",
+      "date": "2026-10-15",
+      "extrait": "Le dispositif SP400 assure le bionettoyage des surfaces au quotidien : locaux, mobilier, équipements, dispositifs médicaux. SAV assuré par SANIVAP et réseau national agréé. Possibilité de contrats de maintenance. CE Dispositif Médical, ISO 13485 : 2016 (logo Origine France Garantie en en-tête)"
+    },
+    {
+      "champ": "contacts (mail, tel, adresse)",
+      "url": "https://www.oxypharm.net/wp-content/uploads/2022/08/doc_sanivap_v2.pdf",
+      "date": "2026-10-15",
+      "extrait": "391 rue Louis Arnal, ZAC des Prés Secs, 69380 Lozanne, France, www.oxypharm.net, info@sanivap.fr, +33 4 37 22 55 55. Établissements de santé, hôpitaux, cliniques, EHPAD. Fabrication 100 % française"
+    },
+    {
+      "champ": "mesures (ACT_HOP_007 materiel), description (CH Compiègne-Noyon : incubateurs, subvention agence de l'eau, limites)",
+      "url": "https://www.cpias.chu-lille.fr/wp-content/uploads/sites/15/2023/10/231017-Dr-Boris-JOLIBOIS-Topo_Sanivap.pdf",
+      "date": "2026-10-15",
+      "extrait": "Titre du fichier : Topo_Sanivap. Achat de 9 nettoyeurs vapeur. Subvention Agence de l'eau (25%). Incubateurs : en remplacement de l'utilisation de Détergent-Désinfectant. Limites : nécessité d'une formation approfondie et d'un accompagnement initial des utilisateurs. Chambres de sortie, patients en précautions complémentaires : Echec, pas d'appropriation. 100% des réservoirs contaminés, 25% des chaudières contaminés, vapeur 100% conforme."
+    },
+    {
+      "champ": "mesures (ACT_HOP_007 materiel), description (clinique Saint-Augustin)",
+      "url": "https://www.elsan.care/fr/presse/la-clinique-saint-augustin-de-bordeaux-le-bio-nettoyage-cest-sans-chimie",
+      "date": "2026-10-15",
+      "extrait": "le dispositif vapeur de Sanivap ; la réduction notable d'utilisation de produits chimiques (communiqué du 15/03/2022)"
+    },
+    {
+      "champ": "logo_url",
+      "url": "https://www.oxypharm.net/wp-content/uploads/2021/10/logo_sanivap_XL.png",
+      "date": "2026-10-15",
+      "extrait": "Logo Sanivap (335 x 100 px) de la page Sanivap du site du groupe Oxy'Pharm, faute de site sanivap.fr en service"
+    }
+  ],
+  "date_maj": "2026-10-15"
+}

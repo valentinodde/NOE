@@ -1,0 +1,124 @@
+{
+  "id": "AIDE_HUI_002",
+  "nom": "CEDRE Investissement (Région Sud)",
+  "financeur": "Région Sud Provence-Alpes-Côte d'Azur",
+  "logo_url": null,
+  "type": "subvention",
+  "taux": "Forfait de 7 000 € (volet Premiers pas) ; jusqu'à 70 % des dépenses éligibles (volet Ambition)",
+  "plafond": "Volet Premiers pas : 7 000 € pour au moins 10 000 € HT de dépenses éligibles. Volet Ambition : subvention comprise entre 10 000 et 100 000 €",
+  "description": "Subvention régionale aux investissements durables engagés à la suite d'un accompagnement CEDRE Premiers pas ou CEDRE Ambition, en cohérence avec le plan d'actions défini pendant cet accompagnement. Parmi les dépenses citées en exemple par la Région figurent les logiciels et travaux permettant la réalisation d'économies d'eau, les équipements économes en ressources et les études préalables à des investissements.",
+  "eligibilite": "Entreprises inscrites au RNE ou associations à activité marchande, dont le siège ou l'établissement est en Provence-Alpes-Côte d'Azur, déjà accompagnées par CEDRE Premiers pas (chiffre d'affaires jusqu'à 2 millions d'euros) ou CEDRE Ambition (PME de moins de 250 personnes, plus de 2 ans d'existence ou un bilan), et éligibles au régime de minimis.",
+  "categories": [
+    "ameliorer_efficacite_hydrique"
+  ],
+  "secteurs": [
+    "industrie_huiles"
+  ],
+  "departements": [
+    "04",
+    "05",
+    "06",
+    "13",
+    "83",
+    "84"
+  ],
+  "agences": [],
+  "mesures": [
+    "ACT_HUI_001",
+    "ACT_HUI_002"
+  ],
+  "infos_complementaires": [
+    {
+      "type": "avertissement",
+      "texte": "L'aide est réservée aux structures déjà accompagnées par CEDRE Premiers pas ou CEDRE Ambition : l'investissement doit être cohérent avec les préconisations de cet accompagnement, justifiées par un descriptif du projet (Premiers pas) ou par le rapport de l'accompagnateur-expert (Ambition)."
+    },
+    {
+      "type": "avertissement",
+      "texte": "Sont notamment exclus l'équipement informatique, les abonnements mensuels pour des licences, les acquisitions par crédit-bail, les travaux d'extension ou de construction de bâtiments, et les dépenses pouvant déjà bénéficier d'un autre financement de la Région. Les travaux d'aménagement ne sont retenus que s'ils favorisent explicitement les économies d'énergie ou d'eau, avec des précisions sur les économies attendues."
+    },
+    {
+      "type": "info",
+      "texte": "Le dossier se dépose en ligne sur la plateforme régionale tout au long de l'année et il est analysé par ordre d'arrivée. La Région recommande fortement un échange préalable avec ses services pour vérifier l'éligibilité : permanence téléphonique gratuite au 0 805 805 145, du lundi au vendredi."
+    },
+    {
+      "type": "info",
+      "texte": "Le matériel d'occasion est éligible s'il est acheté au prix du marché de l'occasion, sur présentation d'une attestation d'achat accompagnée de la facture initiale."
+    },
+    {
+      "type": "ressource",
+      "texte": "Page du dispositif sur le site de la Région Sud",
+      "lien": "https://www.maregionsud.fr/vos-aides/detail/cedre-investissement",
+      "lien_label": "maregionsud.fr"
+    },
+    {
+      "type": "ressource",
+      "texte": "Dépôt de la demande sur la plateforme des aides en ligne de la Région Sud",
+      "lien": "https://aidesenligne.maregionsud.fr/aides/#/crsud/connecte/F_S_I_CEDREINV/depot/simple",
+      "lien_label": "Je fais ma demande"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "description, eligibilite (condition d'accompagnement CEDRE)",
+      "url": "https://www.maregionsud.fr/vos-aides/detail/cedre-investissement",
+      "date": "2026-09-27",
+      "extrait": "vous avez bénéficié du dispositif CEDRE Premiers pas ou CEDRE Ambition et vous portez, suite à cet accompagnement, un projet d'investissement prenant en compte les enjeux de la transition écologique (page mise à jour le 17 avril 2026)"
+    },
+    {
+      "champ": "taux, plafond (volet Premiers pas)",
+      "url": "https://www.maregionsud.fr/vos-aides/detail/cedre-investissement",
+      "date": "2026-09-27",
+      "extrait": "subvention forfaitaire d'investissement de 7 000 euros pour un montant minimum des dépenses éligibles de 10 000 euros HT"
+    },
+    {
+      "champ": "taux, plafond (volet Ambition)",
+      "url": "https://www.maregionsud.fr/vos-aides/detail/cedre-investissement",
+      "date": "2026-09-27",
+      "extrait": "subvention d'investissement comprise entre 10 000 et 100 000 euros avec un taux d'intervention maximum de 70% du montant total des dépenses éligibles"
+    },
+    {
+      "champ": "description, mesures (ACT_HUI_001, ACT_HUI_002), categories",
+      "url": "https://www.maregionsud.fr/vos-aides/detail/cedre-investissement",
+      "date": "2026-09-27",
+      "extrait": "A titre d'exemple (non exhaustif) : Les équipements économes en ressources [...] Les logiciels et travaux permettant la réalisation d'économies d'eau ; Les études préalables à des investissements"
+    },
+    {
+      "champ": "eligibilite",
+      "url": "https://www.maregionsud.fr/vos-aides/detail/cedre-investissement",
+      "date": "2026-09-27",
+      "extrait": "Dont le siège social ou l'établissement se situe en Provence-Alpes-Côte d'Azur ; Eligibles au régime de minimis ; [Premiers pas] chiffre d'affaires inférieur ou égal à 2 millions d'euros ; [Ambition] effectif inférieur à 250 personnes [...] De plus de 2 ans d'existence ou présentant au moins un bilan"
+    },
+    {
+      "champ": "departements (Provence-Alpes-Côte d'Azur, région 93)",
+      "url": "https://geo.api.gouv.fr/regions/93/departements",
+      "date": "2026-09-27",
+      "extrait": "Alpes-de-Haute-Provence 04, Hautes-Alpes 05, Alpes-Maritimes 06, Bouches-du-Rhône 13, Var 83, Vaucluse 84 (codeRegion 93)"
+    },
+    {
+      "champ": "infos_complementaires (accompagnement préalable, pièces)",
+      "url": "https://www.maregionsud.fr/vos-aides/detail/cedre-investissement",
+      "date": "2026-09-27",
+      "extrait": "Le rapport d'expert précisant dans quelle mesure l'investissement est en lien avec le plan d'actions défini avec l'accompagnateur-expert lors de l'accompagnement CEDRE Ambition"
+    },
+    {
+      "champ": "infos_complementaires (exclusions)",
+      "url": "https://www.maregionsud.fr/vos-aides/detail/cedre-investissement",
+      "date": "2026-09-27",
+      "extrait": "Sont exclus : [...] Les travaux d'aménagement sauf ceux favorisant explicitement les économies d'énergie ou d'eau avec des précisions sur les économies attendues [...] Les acquisitions effectuées par crédit-bail ; L'équipement informatique ; Les abonnements mensuels pour des licences"
+    },
+    {
+      "champ": "infos_complementaires (démarche, contact, matériel d'occasion)",
+      "url": "https://www.maregionsud.fr/vos-aides/detail/cedre-investissement",
+      "date": "2026-09-27",
+      "extrait": "Les dossiers peuvent être déposés tout au long de l'année. Leur analyse sera faite chronologiquement, par ordre d'arrivée. [...] Un échange préalable auprès des services de la Région Sud est fortement recommandé [...] 0 805 805 145 (services et appels gratuits) ; Le matériel d'occasion est également éligible s'il est au prix du marché de l'occasion et sur présentation d'une attestation d'achat accompagnée de la facture initiale."
+    },
+    {
+      "champ": "infos_complementaires (lien de dépôt)",
+      "url": "https://www.maregionsud.fr/vos-aides/detail/cedre-investissement",
+      "date": "2026-09-27",
+      "extrait": "Bouton « Je fais ma demande » : https://aidesenligne.maregionsud.fr/aides/#/crsud/connecte/F_S_I_CEDREINV/depot/simple"
+    }
+  ],
+  "date_maj": "2026-09-27"
+}

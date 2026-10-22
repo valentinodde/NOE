@@ -1,0 +1,505 @@
+[
+  {
+    "id": "ACT_AGR_001",
+    "titre": "Installer des sous-compteurs sur les principaux usages de l'eau du site",
+    "titre_court": "Sous-comptage par usage",
+    "description": "Installer des sous-compteurs en aval du compteur général sur les principaux postes (production, nettoyage, cuisine, blanchisserie, chaufferie) et les relever à intervalle fixe, à la main ou par télérelève. Vous voyez où part l'eau, repérez fuites et dérives sans attendre la facture et savez où agir d'abord, sur tout site doté d'un seul compteur.",
+    "categorie": "suivre_comprendre_maitriser",
+    "secteurs": [],
+    "effort": {
+      "capex": "faible",
+      "opex": "faible",
+      "humain": "faible"
+    },
+    "impact_eau": 2,
+    "facilite": 3,
+    "horizon": "immediat",
+    "image": "https://res.cloudinary.com/dc1felxem/image/upload/v1780159376/Noe%20assets/Article_PART_Habitation_compteur-deau_xfd1fs.jpg",
+    "infos_complementaires": [
+      {
+        "type": "avertissement",
+        "texte": "Si le site pompe dans un forage ou un puits, ce pompage doit être équipé d'un compteur d'eau et les relevés conservés trois ans (article L214-8 du code de l'environnement).",
+        "lien": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006833139",
+        "lien_label": "Légifrance, 2026"
+      },
+      {
+        "type": "info",
+        "texte": "Un compteur à relevé manuel posé sur un point de distribution coûte quelques dizaines d'euros, un compteur électronique beaucoup plus. Pour mesurer un poste sans travaux, un débitmètre à ultrasons portable se loue 1 000 à 1 500 € la semaine.",
+        "lien": "https://www.lacooperationagricole.coop/sites/default/files/2024-09/PSH_Plan%20de%20sobri%C3%A9t%C3%A9%20hydrique%20-%20AgroAlimentaire.pdf#page=31",
+        "lien_label": "ANIA et La Coopération Agricole, 2024"
+      },
+      {
+        "type": "retour_experience",
+        "texte": "En 2020, une entreprise agroalimentaire a mis plus d'un mois à trouver l'origine d'une surconsommation vue sur son compteur général : 10 000 m³, près de 15 % de sa consommation annuelle. Elle a depuis posé des compteurs supplémentaires pour suivre et localiser ses consommations.",
+        "lien": "https://reseau-eau.educagri.fr/files/BoiteAOutilsGestionPerformanteDeLEauE_fichierRessource1_guide_eau_iaa.pdf#page=45",
+        "lien_label": "Agria Grand Est et HYDREOS, 2022"
+      },
+      {
+        "type": "ressource",
+        "texte": "Guide Eau et IAA, fiche 8 : mesurer la répartition de la consommation et surveiller son évolution",
+        "lien": "https://reseau-eau.educagri.fr/files/BoiteAOutilsGestionPerformanteDeLEauE_fichierRessource1_guide_eau_iaa.pdf#page=42",
+        "lien_label": "Agria Grand Est et HYDREOS, 2022"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "description",
+        "url": "https://www.lacooperationagricole.coop/sites/default/files/2024-09/PSH_Plan%20de%20sobri%C3%A9t%C3%A9%20hydrique%20-%20AgroAlimentaire.pdf#page=13",
+        "date": "2026-10-15",
+        "extrait": "L'installation de compteurs et de sous-compteurs pour piloter leur consommation d'eau [...] aide à identifier les zones de l'usine où des économies peuvent être réalisées. [...] l'identification de fuites ou l'adaptation de la pression. [...] les compteurs à télérelève permettent une collecte automatique et en temps réel des données"
+      },
+      {
+        "champ": "description",
+        "url": "https://www.ghr.fr/IMG/pdf/charte-dengagements-sobrit-eau_280723.pdf",
+        "date": "2026-10-15",
+        "extrait": "En installant, le cas échéant, des compteurs divisionnaires (ou sous-compteurs) pour un meilleur repérage des éventuelles fuites et un suivi de la consommation par secteur."
+      },
+      {
+        "champ": "description",
+        "url": "https://www.paca.ars.sante.fr/system/files/2024-07/EauVF.pdf",
+        "date": "2026-10-15",
+        "extrait": "Il s'agira de connaitre la consommation et sa répartition sur les différents postes. Pour cela, l'installation de sous-compteurs est à privilégier."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006833139",
+        "date": "2026-10-15",
+        "extrait": "ainsi que toute installation de pompage des eaux souterraines, doivent être pourvues des moyens de mesure ou d'évaluation appropriés [...] de conserver trois ans les données correspondantes [...] Lorsque le prélèvement d'eau est réalisé par pompage, la mesure est effectuée au moyen d'un compteur d'eau."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.lacooperationagricole.coop/sites/default/files/2024-09/PSH_Plan%20de%20sobri%C3%A9t%C3%A9%20hydrique%20-%20AgroAlimentaire.pdf#page=31",
+        "date": "2026-10-15",
+        "extrait": "Des points de distribution d'eau peuvent être équipées de compteurs d'eau, de faibles coûts (quelques dizaines d'euros), mais à relevé manuel. Une autre solution est d'installer des compteurs d'eau électroniques, mais beaucoup plus onéreux. [...] des débitmètres à ultrasons, portables et non intrusifs [...] (1000 à 1500 euros en location par semaine)."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://reseau-eau.educagri.fr/files/BoiteAOutilsGestionPerformanteDeLEauE_fichierRessource1_guide_eau_iaa.pdf#page=45",
+        "date": "2026-10-15",
+        "extrait": "En 2020, une entreprise a constaté une surconsommation au niveau de sa consommation générale. [...] Après plus d'un mois, les recherches ont permis d'identifier un dysfonctionnement. Résultat, une surconsommation de 10 000m3, soit une augmentation de près de 15% de la consommation annuelle de l'entreprise. Depuis, l'entreprise a engagé une campagne d'installation de compteurs supplémentaires afin de mieux suivre et localiser ses consommations."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://reseau-eau.educagri.fr/files/BoiteAOutilsGestionPerformanteDeLEauE_fichierRessource1_guide_eau_iaa.pdf#page=42",
+        "date": "2026-10-15",
+        "extrait": "FICHE N°8. IDENTIFIER LES USAGES DE L'EAU, MESURER LA REPARTITION DE LA CONSOMMATION ET SURVEILLER SON EVOLUTION [...] Réaliser des campagnes de mesure de la consommation d'eau spécifique par poste grâce à l'utilisation de compteurs mobiles"
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "ACT_AGR_002",
+    "titre": "Faire réaliser un audit eau de votre site, usage par usage",
+    "titre_court": "Audit eau",
+    "description": "Faire établir par un prestataire ou vos équipes le schéma du réseau d'eau, les volumes par usage et les fuites, en relevant les compteurs la nuit ou à l'arrêt. Vous obtenez un plan d'action chiffré et priorisé, utile à tout site sans sous-comptage, et l'étude préalable qu'exige par exemple l'agence de l'eau Loire-Bretagne pour aider des travaux.",
+    "categorie": "suivre_comprendre_maitriser",
+    "secteurs": [],
+    "effort": {
+      "capex": "faible",
+      "opex": "faible",
+      "humain": "moyen"
+    },
+    "impact_eau": 2,
+    "facilite": 3,
+    "horizon": "immediat",
+    "image": "https://images.unsplash.com/photo-1776802740593-ab7833cd813a?w=1200&q=80&fm=jpg",
+    "infos_complementaires": [
+      {
+        "type": "retour_experience",
+        "texte": "À l'hôpital Édouard Herriot (Hospices civils de Lyon), un audit des réseaux a révélé environ 5 m³/h de fuites, visibles sur le talon de consommation nocturne. Après rénovation du réseau, la consommation est passée de 144 600 m³ en 2018 à 111 620 m³ en 2019, puis à 80 100 m³ en 2023.",
+        "lien": "https://www.auvergne-rhone-alpes.ars.sante.fr/media/139963/download",
+        "lien_label": "ARS Auvergne-Rhône-Alpes, 2025"
+      },
+      {
+        "type": "ressource",
+        "texte": "Guide Eau et IAA : cartographier le réseau et répartir les consommations par usage (fiches 7 et 8)",
+        "lien": "https://reseau-eau.educagri.fr/files/BoiteAOutilsGestionPerformanteDeLEauE_fichierRessource1_guide_eau_iaa.pdf",
+        "lien_label": "Agria Grand Est et HYDREOS, 2022"
+      },
+      {
+        "type": "ressource",
+        "texte": "Fiche Eau des établissements de santé : audit, sous-comptage et clauses à intégrer aux marchés",
+        "lien": "https://www.paca.ars.sante.fr/system/files/2024-07/EauVF.pdf",
+        "lien_label": "ARS Provence-Alpes-Côte d'Azur, 2024"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "description",
+        "url": "https://www.paca.ars.sante.fr/system/files/2024-07/EauVF.pdf",
+        "date": "2024-06-28",
+        "extrait": "Les établissements peuvent faire appel à un prestataire afin de réaliser un audit sur l'eau. Il s'agira de connaitre la consommation et sa répartition sur les différents postes."
+      },
+      {
+        "champ": "description",
+        "url": "https://reseau-eau.educagri.fr/files/BoiteAOutilsGestionPerformanteDeLEauE_fichierRessource1_guide_eau_iaa.pdf",
+        "date": "2022-05-12",
+        "extrait": "Réaliser un audit du réseau d'eau (et des compteurs) du site en vue d'une cartographie du réseau. [...] Identifier les principaux postes de consommation et définir les postes prioritaires pour réduire la consommation en eau."
+      },
+      {
+        "champ": "description",
+        "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/media/139963/download",
+        "date": "2025-06-05",
+        "extrait": "Etudes de diagnostic interne réalisées via la maîtrise d'œuvre interne des HCL. [...] La mesure du talon de consommation nocturne (très faible dans un centre hospitalier) est une porte d'entrée clef pour estimer l'état du réseau d'adduction."
+      },
+      {
+        "champ": "description",
+        "url": "https://aides-redevances.eau-loire-bretagne.fr/home/aides/fiches-dispositif-12e-programme/qua/qua1-etudes-et-travaux-de-reduction-des-besoins-en-eau.html",
+        "extrait": "Les travaux doivent avoir fait l'objet d'une étude préalable ou d'un diagnostic faisant état d'une réflexion globale sur la réduction potentielle des besoins et des prélèvements en eau détaillant l'objectif de réduction en eau visé."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/media/139963/download",
+        "date": "2025-06-05",
+        "extrait": "La rupture a entraîné la réalisation d'un audit sur les réseaux d'eau réalisé en interne. Cet audit a montré l'étendue des fuites sur le réseau (estimation d'environ 5 m3/h). [...] 2018 (avant travaux) 144 600 m3/an. 2019 (après travaux) 111 620 m3/an. [...] 80 100 m3 en 2023."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://reseau-eau.educagri.fr/files/BoiteAOutilsGestionPerformanteDeLEauE_fichierRessource1_guide_eau_iaa.pdf",
+        "date": "2022-05-12",
+        "extrait": "Fiche n°7. Maîtriser la cartographie du réseau d'eau du site. Fiche n°8. Identifier les usages de l'eau, mesurer la répartition de la consommation et surveiller son évolution."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.paca.ars.sante.fr/system/files/2024-07/EauVF.pdf",
+        "date": "2024-06-28",
+        "extrait": "Recommandations à intégrer dans les marchés. [...] Audit sur la consommation d'eau. [...] l'installation de sous-compteurs est à privilégier."
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "ACT_AGR_006",
+    "titre": "Récupérer l'eau de pluie des toitures pour les usages non alimentaires",
+    "titre_court": "Récupération d'eau de pluie",
+    "description": "Stocker l'eau des toitures dans une cuve filtrée, raccordée à un réseau séparé de l'eau potable, pour alimenter les chasses d'eau, le lavage des sols hors zones alimentaires, le nettoyage des extérieurs et l'arrosage. Vous consommez moins d'eau du réseau pour ces usages, surtout si votre site a une grande toiture et des sanitaires très sollicités.",
+    "categorie": "valoriser_reut_eaux_non_conventionnelles",
+    "secteurs": [],
+    "effort": {
+      "capex": "moyen",
+      "opex": "faible",
+      "humain": "faible"
+    },
+    "impact_eau": 2,
+    "facilite": 2,
+    "horizon": "court_terme",
+    "image": "https://images.pexels.com/photos/13307118/pexels-photo-13307118.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "infos_complementaires": [
+      {
+        "type": "avertissement",
+        "texte": "Là où l'on manipule des denrées, l'eau en contact avec les aliments, les surfaces de travail ou la vaisselle doit rester potable : l'eau de pluie s'y limite aux usages sans lien avec les denrées (sanitaires, extérieurs, refroidissement des machines), sur un réseau séparé.",
+        "lien": "https://info.agriculture.gouv.fr/boagri/instruction-C2005-8008/telechargement",
+        "lien_label": "Circulaire DGS et DGAL, 2005"
+      },
+      {
+        "type": "avertissement",
+        "texte": "Un usage à l'intérieur d'un bâtiment raccordé au réseau d'eau potable se déclare en mairie, et l'eau rejetée ensuite à l'égout paie la redevance d'assainissement. Laver le linge à l'eau de pluie exige en plus une déclaration au préfet (un site ICPE relève de la réglementation des installations classées).",
+        "lien": "https://www.paca.ars.sante.fr/media/138013/download",
+        "lien_label": "Ministère de la Santé (DGS), 2025"
+      },
+      {
+        "type": "avertissement",
+        "texte": "L'arrêté impose un filtre de 1 mm au plus avant la cuve, un appoint d'eau potable par surverse totale avec garde d'air visible et des robinets « eau non potable » verrouillés, en local fermé au public dans un établissement recevant du public (à l'hôpital, l'équipe opérationnelle d'hygiène est informée).",
+        "lien": "https://aida.ineris.fr/reglementation/arrete-120724-relatif-conditions-sanitaires-dutilisation-deaux-impropres-a",
+        "lien_label": "Arrêté du 12 juillet 2024, AIDA"
+      },
+      {
+        "type": "retour_experience",
+        "texte": "Sur neuf installations visitées en Provence-Alpes-Côte d'Azur, aucune n'était strictement conforme, presque toutes dépendaient de l'eau potable en été et l'équilibre financier n'arrivait qu'après 50 à 90 ans. Pour un bureau de 30 salariés, l'étude estime qu'une cuve de 2 m³ couvrirait 60 % des 90 m³ annuels des chasses d'eau en année sèche.",
+        "lien": "https://www.enviroboite.net/IMG/pdf/reutilisation_des_eaux_non_conventionnelles_-version_longue.pdf",
+        "lien_label": "EnvirobatBDM et Inddigo, 2026"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "description",
+        "url": "https://www.paca.ars.sante.fr/media/138013/download",
+        "date": "2025-04-08",
+        "extrait": "LES EAUX DE PLUIE, issues des précipitations atmosphériques, exclusivement collectées à l'aval de surfaces inaccessibles. A partir d'EAUX BRUTES issues du milieu naturel : lavage du linge, lavage des sols intérieurs, évacuation des excreta, nettoyage des surfaces extérieures, arrosage des espaces verts à l'échelle des bâtiments."
+      },
+      {
+        "champ": "description",
+        "url": "https://info.agriculture.gouv.fr/boagri/instruction-C2005-8008/telechargement",
+        "date": "2005-07-06",
+        "extrait": "Le risque de contamination microbiologique doit être particulièrement pris en compte (exemple : contamination des plans de travail par pulvérisation d'eau non potable lors du nettoyage des sols)."
+      },
+      {
+        "champ": "description",
+        "url": "https://www.enviroboite.net/IMG/pdf/reutilisation_des_eaux_non_conventionnelles_-version_longue.pdf",
+        "date": "2026-01-01",
+        "extrait": "L'alimentation des sanitaires reste l'usage privilégié. Cet usage reste l'usage majoritaire de l'eau de pluie (constaté sur 8 des 9 sites de l'étude)."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://info.agriculture.gouv.fr/boagri/instruction-C2005-8008/telechargement",
+        "date": "2005-07-06",
+        "extrait": "Eaux destinées à la consommation humaine : « toutes les eaux utilisées dans les entreprises alimentaires pour la fabrication, la transformation, la conservation ou la commercialisation de produits ». Eau non potable envisageable pour le refroidissement des machines, la lutte contre les incendies, d'autres fins semblables sans rapport avec les denrées alimentaires. Réseaux séparés sans raccordement avec les systèmes d'eau destinée à la consommation humaine."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.paca.ars.sante.fr/media/138013/download",
+        "date": "2025-04-08",
+        "extrait": "L'utilisation des EICH y compris après traitement, reste interdite pour : les usages alimentaires : boisson, préparation et cuisson des aliments, lavage de la vaisselle. Les usages liés à l'hygiène corporelle."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.conseil-etat.fr/fr/arianeweb/CE/decision/2025-05-02/489135",
+        "date": "2025-05-02",
+        "extrait": "Article R. 211-123 du code de l'environnement : les usages domestiques et dans les entreprises alimentaires sont régis exclusivement par les dispositions qui leur sont propres, sur le fondement de l'article L. 1322-14 du code de la santé publique."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.paca.ars.sante.fr/media/138013/download",
+        "date": "2025-04-08",
+        "extrait": "Article L. 2224-9 du CGCT : obligation de déclaration au maire de tout dispositif d'utilisation, à des fins domestiques, d'eau de pluie à l'intérieur d'un bâtiment alimenté par un réseau, public ou privé, d'eau destinée à la consommation humaine. Article R. 2224-19-4 : obligation de déclaration à la mairie en cas de rejet d'eaux dans le réseau d'assainissement collectif provenant d'une source qui ne relève pas d'un service public."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.senat.fr/questions/base/2022/qSEQ220327184.html",
+        "date": "2022-05-19",
+        "extrait": "L'article R 2224-19-4 du CGCT précise que, dans cette configuration, la redevance d'assainissement collectif est calculée soit par mesure directe au moyen de dispositifs de comptage posés et entretenus aux frais de l'usager, soit sur la base de critères définis par l'autorité compétente."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.paca.ars.sante.fr/media/138013/download",
+        "date": "2025-04-08",
+        "extrait": "Déclaration au préfet : les systèmes alimentés par une ou des eaux brutes issues du milieu naturel, lorsque le lavage du linge est réalisé. Exclues du champ (R. 1322-88, 6°) : eaux impropres à la consommation humaine utilisées pour des usages domestiques dans les installations mentionnées à l'article L. 511-1 du code de l'environnement."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://aida.ineris.fr/reglementation/arrete-120724-relatif-conditions-sanitaires-dutilisation-deaux-impropres-a",
+        "date": "2024-07-12",
+        "extrait": "Article 2 : signalétique « eau non potable » au niveau des points de soutirage, dispositif de verrouillage, pour les établissements recevant du public des points de soutirage situés dans un local fermé non accessible au public, information de l'équipe opérationnelle d'hygiène pour les établissements recevant du public sensible, disconnexion de type « surverse totale » avec garde d'air visible. Article 3 : filtration inférieure ou égale à 1 millimètre en amont des réservoirs de stockage."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.enviroboite.net/IMG/pdf/reutilisation_des_eaux_non_conventionnelles_-version_longue.pdf",
+        "date": "2026-01-01",
+        "extrait": "Aucune des installations visitées n'est strictement conforme. La quasi-totalité des installations visitées dépendent de l'appoint en eau potable en été. La plupart des installations atteignent l'équilibre financier sur le long terme (50 à 90 ans). Besoins annuels pour l'évacuation des excrétas : 90 m³. En 2022, l'année la plus sèche, les eaux de pluie assureraient 60 % des besoins."
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "ACT_AGR_009",
+    "titre": "Préparer un plan sécheresse gradué selon les niveaux de restriction",
+    "titre_court": "Plan sécheresse",
+    "description": "Rédiger un plan sécheresse qui classe vos usages d'eau (essentiels ou reportables) et fixe, pour chaque niveau (vigilance, alerte, alerte renforcée, crise), les gestes à déclencher, leur responsable et le message au personnel. Le jour de l'arrêté, vous réduisez sans improviser, un atout pour tout site dont la commune a déjà subi des restrictions.",
+    "categorie": "sensibiliser_former",
+    "secteurs": [],
+    "effort": {
+      "capex": "faible",
+      "opex": "faible",
+      "humain": "moyen"
+    },
+    "impact_eau": 1,
+    "facilite": 2,
+    "horizon": "court_terme",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Dry_Cracked_Mud_%284957b8b2-f52c-43b0-acc2-ead42cf6f03b%29.jpg/1280px-Dry_Cracked_Mud_%284957b8b2-f52c-43b0-acc2-ead42cf6f03b%29.jpg",
+    "infos_complementaires": [
+      {
+        "type": "avertissement",
+        "texte": "Si votre site est une installation classée (autorisation ou enregistrement) qui prélève plus de 10 000 m³ par an, l'arrêté du 30 juin 2023 impose une procédure écrite de sensibilisation affichée dès la vigilance, puis une baisse du prélèvement de 5 % en alerte, 10 % en alerte renforcée et 25 % en crise, à atteindre sous trois jours, sauf exemptions (baisse d'au moins 20 % depuis 2018, par exemple).",
+        "lien": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000047784127",
+        "lien_label": "Légifrance, 2023 (version consolidée 2024)"
+      },
+      {
+        "type": "info",
+        "texte": "Les zones, les seuils et les mesures de chaque niveau sont fixés par l'arrêté-cadre de votre département. En alerte et en alerte renforcée, jusqu'à 50 % d'économie d'eau peuvent être exigés. En crise, l'arrêt des usages non prioritaires s'impose, sauf adaptations prévues : la ressource est réservée à l'eau potable, à la santé, à la salubrité, à la sécurité civile et à la sécurité des installations industrielles.",
+        "lien": "https://www.ecologie.gouv.fr/politiques-publiques/origine-gestion-secheresse",
+        "lien_label": "Ministère de la Transition écologique, 2024"
+      },
+      {
+        "type": "retour_experience",
+        "texte": "En Bretagne, à l'automne 2026, les sites classés (ICPE) sous arrêté sécheresse ont dû réduire de 25 % leur consommation d'eau. Un fabricant de plats cuisinés a baissé sa production de 30 à 35 %. Un crêpier de Lamballe a listé ses points critiques, relevé le seuil d'alerte de ses groupes froids et coupé la climatisation de l'usine.",
+        "lien": "https://www.reussir.fr/articles/secheresse-comment-les-usines-agroalimentaires-bretonnes-gerent-la-penurie-deau",
+        "lien_label": "Réussir Les Marchés, 2026"
+      },
+      {
+        "type": "ressource",
+        "texte": "Recevoir par e-mail les changements de restrictions à l'adresse du site (VigiEau)",
+        "lien": "https://vigieau.gouv.fr/abonnements/nouveau/",
+        "lien_label": "Ministère de la Transition écologique, VigiEau"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "description",
+        "url": "https://www.ecologie.gouv.fr/sites/default/files/documents/Guide_secheresse-2026.pdf",
+        "date": "2026-07-01",
+        "extrait": "Pour garantir une lisibilité et une homogénéité sur le territoire français, les arrêtés cadre respecteront quatre niveaux de gravité : vigilance, alerte, alerte renforcée, crise."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000047784127",
+        "date": "2024-07-07",
+        "extrait": "Le présent arrêté s'applique aux installations classées pour la protection de l'environnement dont le prélèvement d'eau total annuel est supérieur à 10 000 mètres cubes et qui sont soumises soit à autorisation soit à enregistrement."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000047784127",
+        "date": "2024-07-07",
+        "extrait": "vigilance : sensibilisation accrue du personnel aux règles de bon usage et d'économie d'eau selon une procédure écrite affichée sur site"
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000047784127",
+        "date": "2024-07-07",
+        "extrait": "alerte : réduction du prélèvement d'eau de 5 % ; alerte renforcée : réduction du prélèvement d'eau de 10 % ; crise : réduction du prélèvement d'eau de 25 %."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000047784127",
+        "date": "2024-07-07",
+        "extrait": "sont atteintes au plus tard trois jours après le déclenchement du niveau de gravité correspondant"
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000047784127",
+        "date": "2024-07-07",
+        "extrait": "Les exploitants des établissements ayant réduit leur prélèvement d'eau d'au moins 20 % depuis le 1er janvier 2018 ;"
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.ecologie.gouv.fr/sites/default/files/documents/Guide_secheresse-2026.pdf",
+        "date": "2026-07-01",
+        "extrait": "Le contenu des arrêtés cadre départementaux ou interdépartementaux est fondé sur un zonage (zones d'alerte), des niveaux de gravité rattachés à des conditions de déclenchement (seuils de débits, niveaux de nappes d'eau souterraine, [...]) et des mesures de restriction graduées et à prendre selon le niveau de gravité"
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.ecologie.gouv.fr/politiques-publiques/origine-gestion-secheresse",
+        "date": "2024-06-05",
+        "extrait": "Jusqu'à 50 % d'économie d'eau peuvent être exigés."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.ecologie.gouv.fr/sites/default/files/documents/Guide_secheresse-2026.pdf",
+        "date": "2026-07-01",
+        "extrait": "Niveau de crise : il est motivé par la nécessité de réserver les capacités de la ressource pour l'alimentation en eau potable des populations, pour les usages en lien avec la santé, la salubrité publique, la sécurité civile, la sécurité des installations industrielles [...] l'arrêt des usages non prioritaires s'impose sauf en ce qui concerne les adaptations figurant dans le tableau A.2.4, dûment justifiées."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.reussir.fr/articles/secheresse-comment-les-usines-agroalimentaires-bretonnes-gerent-la-penurie-deau",
+        "date": "2026-10-05",
+        "extrait": "Les établissements soumis à la réglementation ICPE (installations classées pour l'environnement) doivent réduire de 25 % leurs consommations d'eau."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.reussir.fr/articles/secheresse-comment-les-usines-agroalimentaires-bretonnes-gerent-la-penurie-deau",
+        "date": "2026-10-05",
+        "extrait": "L'industriel anonyme a réduit sa production de 30 à 35 % [...] Bernard Jarnoux Crêpier, a listé tous les points critiques en matière de consommation d'eau. « Nous avons relevé les systèmes d'alerte des groupes froid de 20 à 30 ° pour limiter la consommation d'eau, stoppé la climatisation dans l'usine pour ne laisser que la ventilation »"
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://vigieau.gouv.fr/abonnements/nouveau/",
+        "date": "2026-10-15",
+        "extrait": "Je souhaite être informé par e-mail des changements de restrictions me concernant et portant sur :"
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.ecologie.gouv.fr/politiques-publiques/origine-gestion-secheresse",
+        "date": "2024-06-05",
+        "extrait": "VigiEau présente les mesures de suspension ou de limitation prises par les préfets"
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "ACT_AGR_010",
+    "titre": "Participer à une démarche collective de gestion de l'eau",
+    "titre_court": "Démarche collective",
+    "description": "Repérer sur Gest'eau le SAGE, le contrat de rivière ou le projet de territoire (PTGE) de votre bassin, suivre leurs travaux et y faire valoir vos besoins, seul ou via votre chambre consulaire ou votre fédération. Vous pesez sur le partage local de l'eau au lieu de le subir, surtout si votre site prélève beaucoup ou se trouve en bassin tendu.",
+    "categorie": "agir_grand_cycle",
+    "secteurs": [],
+    "effort": {
+      "capex": "faible",
+      "opex": "faible",
+      "humain": "moyen"
+    },
+    "impact_eau": 2,
+    "facilite": 2,
+    "horizon": "court_terme",
+    "image": "https://images.unsplash.com/photo-1681659366866-237bc07e7a50?w=1200&q=80&fm=jpg",
+    "infos_complementaires": [
+      {
+        "type": "info",
+        "texte": "Le SAGE est élaboré par une commission locale de l'eau (CLE). Son collège des usagers compte au moins un représentant des chambres de commerce et d'industrie : votre CCI peut y porter les besoins de votre site.",
+        "lien": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050721113",
+        "lien_label": "Légifrance, 2024"
+      },
+      {
+        "type": "avertissement",
+        "texte": "Une fois le SAGE approuvé, son règlement est opposable aux tiers : il s'impose aux prélèvements, rejets et ouvrages soumis à la loi sur l'eau, y compris ceux de votre site.",
+        "lien": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006833024",
+        "lien_label": "Légifrance, 2006"
+      },
+      {
+        "type": "retour_experience",
+        "texte": "Écod'O (Morbihan) : lancé fin 2019 par la préfecture et la CCI, ce programme collectif a offert un diagnostic eau à 31 entreprises industrielles et touristiques, avec un potentiel d'économie de plus d'un million de m³. Il couvre depuis 2022 les quatre départements bretons, piloté par la CCI Bretagne.",
+        "lien": "https://www.normandie.developpement-durable.gouv.fr/IMG/pdf/ecodo-guide-bonnes-pratiques-web.pdf",
+        "lien_label": "Préfecture du Morbihan, 2021"
+      },
+      {
+        "type": "ressource",
+        "texte": "Rechercher le SAGE de votre commune",
+        "lien": "https://www.gesteau.fr/rechercher/sage",
+        "lien_label": "Gest'eau"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "description",
+        "url": "https://www.ecologie.gouv.fr/politiques-publiques/protection-ressource-eau",
+        "extrait": "Il aboutit à un engagement de l'ensemble des usagers d'un territoire (eau potable, agriculture, industries, navigation, énergie, pêche, usages récréatifs, etc.) permettant d'atteindre, dans la durée, un équilibre entre besoins et ressources disponibles."
+      },
+      {
+        "champ": "description",
+        "url": "https://www.gesteau.fr/ptge",
+        "extrait": "Carte de situation des PTGE (...) sur la carte, cliquez sur un PTGE pour afficher des informations complémentaires et accéder à sa fiche descriptive"
+      },
+      {
+        "champ": "description",
+        "url": "https://www.info.gouv.fr/upload/media/content/0001/09/31322d0401c9a078030ea805939ae7ec50999c6e.pdf",
+        "extrait": "Dossier de presse « Plan Eau : bilan des actions menées par l'industrie », synthèse du plan de sobriété hydrique des industries agroalimentaires, p. 26 : « Encourager la participation au dialogue local sur le partage de la ressource »"
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050721113",
+        "date": "2024-12-05",
+        "extrait": "Article R212-30 : « La commission locale de l'eau est composée de trois collèges distincts » (...) « Le collège des usagers, des propriétaires fonciers, des organisations professionnelles et des associations concernées » (...) « un représentant des chambres de commerce et d'industrie territoriales »."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.gesteau.fr/presentation/sage",
+        "extrait": "Le SAGE est élaboré collectivement par les acteurs de l'eau du territoire (...) la CLE, présidée par un élu local (...) les usagers (agriculteurs, industriels, propriétaires fonciers, associations, ...) (...) le règlement est opposable aux tiers."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006833024",
+        "extrait": "Article L212-5-2 : « Lorsque le schéma a été approuvé et publié, le règlement et ses documents cartographiques sont opposables à toute personne publique ou privée pour l'exécution de toute installation, ouvrage, travaux ou activité mentionnés à l'article L. 214-2. »"
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.normandie.developpement-durable.gouv.fr/IMG/pdf/ecodo-guide-bonnes-pratiques-web.pdf",
+        "extrait": "Le 26 novembre 2019, j'ai eu l'honneur d'animer la conférence de lancement (...) 31 entreprises morbihannaises des secteurs « Tourisme » et « Industrie » ont ainsi pu bénéficier d'un diagnostic gratuit et d'un accompagnement personnalisé (...) un potentiel d'économie évalué à plus de 1M de m³. (p. 84 : un dispositif impulsé par la Préfecture du Morbihan, piloté par CCI du Morbihan)"
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.guingamp-paimpol-agglo.bzh/wp-content/uploads/2025/05/ANN-DELBU2025-04-021_Convention-CCI_Ecodo_2024-tampon.pdf",
+        "date": "2025-04-25",
+        "extrait": "En 2022 et 2023, fort des résultats positifs de cette première expérimentation ECOD'O 1 & 2, le projet ECOD'O 3 a prolongé le projet en le déployant sur les 4 départements bretons (...) piloté à l'échelle de la coordination régionale par la CCI Bretagne."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.gesteau.fr/rechercher/sage",
+        "extrait": "Rechercher un SAGE (...) Région / Département / Commune"
+      }
+    ],
+    "date_maj": "2026-10-15"
+  }
+]

@@ -1,0 +1,77 @@
+{
+  "id": "PREST_VIA_017",
+  "nom": "ADRIA (Association pour le développement, la recherche et l'innovation agroalimentaires)",
+  "type": "organisme_technique",
+  "logo_url": null,
+  "siret": "30696427100036",
+  "description": "Association basée à Quimper, qualifiée Institut technique agro-industriel (ITAI) et labellisée Centre de ressources technologiques (CRT), qui intervient sur l'ensemble du territoire auprès des industries agroalimentaires. Pour les projets de réutilisation des eaux (REUSE, REUT), elle propose la cartographie et l'inventaire des flux d'eau de l'usine, l'analyse microbiologique et physico-chimique des eaux recyclées, l'appui réglementaire pour la conformité au décret REUT 2024 et à l'arrêté du 8 juillet 2024, la construction du dossier réglementaire avec l'accompagnement auprès des autorités, l'intégration de la REUSE dans le PMS et l'HACCP et la définition d'un plan de surveillance et de maintenance préventive. Accès en contactant ses experts, qui proposent un diagnostic personnalisé.",
+  "expertises": [
+    "Dossier réglementaire REUSE",
+    "Cartographie des flux d'eau",
+    "Analyses des eaux recyclées",
+    "Intégration REUSE au PMS"
+  ],
+  "categories": [
+    "valoriser_reut_eaux_non_conventionnelles"
+  ],
+  "secteurs": [
+    "industrie_viande"
+  ],
+  "departements": [],
+  "mesures": [
+    {
+      "id": "ACT_VIA_006",
+      "roles": [
+        "conseil_etude"
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "type": "site_internet",
+      "value": "https://www.adria.tm.fr"
+    },
+    {
+      "type": "tel",
+      "value": "02 98 10 18 18"
+    },
+    {
+      "type": "adresse",
+      "value": "ZA Créac'h Gwen, 29000 Quimper"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "nom, siret",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=ADRIA&departement=29",
+      "date": "2026-09-24",
+      "extrait": "ADRIA (ASSOCIATION POUR LE DEVELOPPEMENT, LA RECHERCHE ET L'INNOVATION AGROALIMENTAIRES) (ADRIA), siret 30696427100036, siège, BOULEVARD DE CREAC'H GWEN 29000 QUIMPER, nature juridique 9220, activité 72.19Z, état administratif A"
+    },
+    {
+      "champ": "contacts",
+      "url": "https://www.adria.tm.fr/besoin-de-plus-dinformations/",
+      "date": "2026-09-24",
+      "extrait": "Besoin de plus d'informations ? Contactez-nous ! ADRIA ZA Créac'h Gwen 29000 Quimper Tél.: 02 98 10 18 18"
+    },
+    {
+      "champ": "type, description, departements",
+      "url": "https://www.adria-formationagroalimentaire.fr/adria/qui-sommes-nous-nos-valeurs/",
+      "date": "2026-09-24",
+      "extrait": "Institut Technique Agro-Industriel (ITAI) qualifié par le ministère de l'Agriculture et Centre de Ressources Technologiques (CRT) labellisé par le Ministère de l'Enseignement supérieur et de la recherche, l'ADRIA est une association fédérant plus d'une centaine d'industriels de l'agroalimentaire et des organismes professionnels. [...] L'ADRIA est, à ce titre, également présente sur l'ensemble du territoire pour répondre aux défis nationaux des industries agroalimentaires en matière de qualité et sécurité des aliments."
+    },
+    {
+      "champ": "description, expertises, mesures (ACT_VIA_006)",
+      "url": "https://www.adria.tm.fr/qualite-secu-aliments/reuse-et-reut-accompagner-les-industriels-agroalimentaires-vers-la-sobriete-hydrique/",
+      "date": "2026-09-24",
+      "extrait": "L'accompagnement ADRIA pour sécuriser vos projets REUSE. ADRIA propose un accompagnement complet [...] : Cartographie et inventaire des flux d'eau de l'usine. Analyse microbiologique et physico-chimique des eaux recyclées. Appui réglementaire pour sécuriser la conformité au décret REUT 2024 et à l'arrêté du 8 juillet 2024. Construction du dossier réglementaire et accompagnement auprès des autorités. Intégration de la REUSE dans le PMS et le HACCP. Définition d'un plan de surveillance et de maintenance préventive."
+    },
+    {
+      "champ": "mesures (ACT_VIA_006), description",
+      "url": "https://www.adria.tm.fr/qualite-secu-aliments/reuse-et-reut-accompagner-les-industriels-agroalimentaires-vers-la-sobriete-hydrique/",
+      "date": "2026-09-24",
+      "extrait": "EPR (Eaux de Process Recyclées) [...] : les eaux utilisées lors des opérations de lavage, cuisson, refroidissement… collectées pour être réemployées après traitement éventuel. [...] Contactez nos experts ADRIA pour bénéficier d'un diagnostic personnalisé et construire dès aujourd'hui votre plan d'optimisation hydrique."
+    }
+  ],
+  "date_maj": "2026-09-24"
+}

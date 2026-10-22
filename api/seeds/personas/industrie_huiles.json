@@ -1,0 +1,143 @@
+[
+  {
+    "id": "moulin_novice",
+    "nom": "Moulin à huile d'olive, rien de formalisé",
+    "description": "Moulin familial de trois personnes dans le Var, 900 m³ d'eau du réseau par an concentrés sur la campagne d'hiver. Laveuse à olives en eau courante, décanteur trois phases, margines épandues chez un voisin sans plan d'épandage, nettoyage au jet. Un compteur général jamais relevé, aucun audit, restrictions et démarches locales jamais regardées.",
+    "answers": {
+      "hui_q01": "moulin_olive",
+      "hui_q02": "compteur_general",
+      "hui_q03": ["aep"],
+      "hui_q04": "900",
+      "hui_q05": "jamais",
+      "hui_q06": "jet_sans_raclage",
+      "hui_q07": "eau_courante",
+      "hui_q08": "trois_phases",
+      "hui_q09": "sans_plan",
+      "hui_q13": "non_analyse",
+      "hui_q14": "non"
+    }
+  },
+  {
+    "id": "raffinerie_equipee",
+    "nom": "Usine de trituration et raffinage équipée, en réflexion",
+    "description": "Site de trituration de colza et de raffinage de 80 salariés, 250 000 m³ par an entre réseau public et prise en rivière. Condenseurs en boucle fermée sur tours, prétraitement des effluents avec convention de rejet à jour, compteurs par atelier. Raclage à sec sur une partie des postes seulement, réutilisation des condensats envisagée sans suite, audit de plus de cinq ans, informé des restrictions sans analyse formelle.",
+    "answers": {
+      "hui_q01": "trituration_raffinage",
+      "hui_q02": "par_poste",
+      "hui_q03": ["aep", "surface"],
+      "hui_q04": "250000",
+      "hui_q05": "ancien",
+      "hui_q06": "raclage_partiel",
+      "hui_q10": "circuit_ferme",
+      "hui_q11": "envisage",
+      "hui_q12": "pretraitement_convention",
+      "hui_q13": "informe",
+      "hui_q14": "informe"
+    }
+  },
+  {
+    "id": "huilerie_pression_froid",
+    "nom": "Huilerie de noix par pression à froid, sans eau de process",
+    "description": "Huilerie artisanale de deux personnes en Dordogne, pression à froid de noix et de noisettes, 150 m³ d'eau du réseau par an pour le nettoyage et les sanitaires. Pas de lavage de matière première, pas de refroidissement ni d'effluent de process. Raclage à sec systématique, compteur général, jamais d'audit, restrictions non regardées.",
+    "answers": {
+      "hui_q01": "pression_froid",
+      "hui_q02": "compteur_general",
+      "hui_q03": ["aep"],
+      "hui_q04": "150",
+      "hui_q05": "jamais",
+      "hui_q06": "raclage_systematique",
+      "hui_q13": "non_analyse",
+      "hui_q14": "non"
+    }
+  },
+  {
+    "id": "site_avance",
+    "nom": "Site de trituration avancé, tout est en place",
+    "description": "Grand site de trituration et de raffinage, 400 000 m³ par an entre forage, eau de pluie et eaux usées traitées de la collectivité. Compteurs par poste et ratio par tonne suivis, audit récent, consignes de nettoyage écrites, condenseurs en boucle fermée, réutilisation déclarée des condensats, station sur site avec rétentions. Plan de restriction écrit, engagements chiffrés dans le contrat de nappe.",
+    "answers": {
+      "hui_q01": "trituration_raffinage",
+      "hui_q02": "ratio_tonne",
+      "hui_q03": ["forage", "pluie", "eaux_reutilisees"],
+      "hui_q04": "400000",
+      "hui_q05": "recent",
+      "hui_q06": "consignes_suivies",
+      "hui_q10": "circuit_ferme",
+      "hui_q11": "organise_declare",
+      "hui_q12": "station_confinement",
+      "hui_q13": "plan_formalise",
+      "hui_q14": "pilote"
+    }
+  },
+  {
+    "id": "moulin_ne_sait_pas",
+    "nom": "Moulin, réponses de la secrétaire qui ne sait presque rien",
+    "description": "La comptable d'un moulin coopératif répond à la place du responsable de production. Elle sait que le site est un moulin à huile d'olive et que la facture d'eau tourne autour de 3 000 m³ par an, et ne connaît rien d'autre : compteurs, procédé, margines, audit, restrictions.",
+    "answers": {
+      "hui_q01": "moulin_olive",
+      "hui_q02": "__skip__",
+      "hui_q03": "__skip__",
+      "hui_q04": "3000",
+      "hui_q05": "__skip__",
+      "hui_q06": "__skip__",
+      "hui_q07": "__skip__",
+      "hui_q08": "__skip__",
+      "hui_q09": "__skip__",
+      "hui_q13": "__skip__",
+      "hui_q14": "__skip__"
+    }
+  },
+  {
+    "id": "fondoir_contraint",
+    "nom": "Fondoir sous autorisation, conforme mais sans rien au-delà",
+    "description": "Fondoir de graisses animales de 40 salariés, soumis à autorisation, 120 000 m³ par an entre forage et prise en rivière. Refroidissement en boucle fermée et station d'épuration avec rétentions, comme l'exige l'arrêté, compteurs par atelier, raclage systématique. Aucune réutilisation des condensats, audit de plus de cinq ans, sait ce qui s'arrêterait en crise sans plan écrit, hors de toute démarche collective.",
+    "answers": {
+      "hui_q01": "fonte_animale",
+      "hui_q02": "par_poste",
+      "hui_q03": ["forage", "surface"],
+      "hui_q04": "120000",
+      "hui_q05": "ancien",
+      "hui_q06": "raclage_systematique",
+      "hui_q10": "circuit_ferme",
+      "hui_q11": "non",
+      "hui_q12": "station_confinement",
+      "hui_q13": "evalue",
+      "hui_q14": "non"
+    }
+  },
+  {
+    "id": "moulin_cooperatif_deux_phases",
+    "nom": "Moulin coopératif saisonnier déjà en deux phases",
+    "description": "Moulin coopératif des Alpilles, 2 500 m³ du réseau par an sur trois mois de campagne, décanteur deux phases, laveuse en recirculation avec douche finale, grignons épandus selon un plan à jour. Un compteur général, raclage à sec sur certains postes seulement, audit envisagé, informé des restrictions, participe aux réunions du contrat de rivière.",
+    "answers": {
+      "hui_q01": "moulin_olive",
+      "hui_q02": "compteur_general",
+      "hui_q03": ["aep"],
+      "hui_q04": "2500",
+      "hui_q05": "envisage",
+      "hui_q06": "raclage_partiel",
+      "hui_q07": "recirculation_douche",
+      "hui_q08": "deux_phases",
+      "hui_q09": "plan_epandage",
+      "hui_q13": "informe",
+      "hui_q14": "participe"
+    }
+  },
+  {
+    "id": "margarinerie_tout_reseau",
+    "nom": "Margarinerie tout réseau, refroidissement à l'eau perdue",
+    "description": "Margarinerie de 30 salariés alimentée uniquement par le réseau public, 60 000 m³ par an. Refroidissement de la cristallisation en partie à l'eau perdue, séparateur à graisses seul avant le réseau communal, aucune réutilisation. Compteur général, jamais d'audit, raclage partiel, restrictions non analysées.",
+    "answers": {
+      "hui_q01": "trituration_raffinage",
+      "hui_q02": "compteur_general",
+      "hui_q03": ["aep"],
+      "hui_q04": "60000",
+      "hui_q05": "jamais",
+      "hui_q06": "raclage_partiel",
+      "hui_q10": "mixte",
+      "hui_q11": "non",
+      "hui_q12": "separateur_seul",
+      "hui_q13": "non_analyse",
+      "hui_q14": "non"
+    }
+  }
+]

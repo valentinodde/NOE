@@ -1,0 +1,115 @@
+{
+  "id": "PREST_FRL_002",
+  "nom": "Hubert Process",
+  "type": "equipementier",
+  "logo_url": null,
+  "siret": "34088523500036",
+  "description": "Entreprise de Laval qui conçoit et fabrique dans ses ateliers des lignes de lavage sur mesure pour la 1re gamme (mâche, jeunes pousses, radis, légumes feuilles) et des laveurs polyvalents pour la 4e gamme, avec bac de dessablage, bacs de lavage et de rinçage, tri optique et séchage, de l'étude par son bureau d'études jusqu'à la mise en route et la formation du personnel. Pour le lavage d'entrée, son apport porte sur la régulation de l'eau : sa laveuse de légumes feuilles est équipée de systèmes de contrôle du débit d'eau et de mesure du taux de salissure dans les bacs ; le sable y est retiré dans l'eau, en bac de dessablage, et le site ne présente pas d'équipement de déterrage à sec. Pour les légumes racines, elle annonce des laveurs polyvalents de 4e gamme mais précise ne pas réaliser les laveuses de légumes racines des stations de lavage de maraîchage. Elle se situe « au coeur du Grand Ouest » et ses mises en route se font dans le Nord-Ouest de la France.",
+  "expertises": [
+    "Lignes de lavage de mâche",
+    "Laveuses de légumes feuilles",
+    "Laveurs polyvalents 4e gamme",
+    "Tri optique de légumes feuilles"
+  ],
+  "categories": [
+    "ameliorer_efficacite_hydrique"
+  ],
+  "secteurs": [
+    "industrie_fruits_legumes"
+  ],
+  "departements": [
+    "22",
+    "29",
+    "35",
+    "56",
+    "44",
+    "49",
+    "53",
+    "72",
+    "85"
+  ],
+  "mesures": [
+    {
+      "id": "ACT_FRL_003",
+      "roles": [
+        "materiel"
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "type": "site_internet",
+      "value": "https://www.hubertprocess.com"
+    },
+    {
+      "type": "tel",
+      "value": "02 43 69 62 98"
+    },
+    {
+      "type": "mail",
+      "value": "contact@hubertprocess.com"
+    },
+    {
+      "type": "adresse",
+      "value": "33 rue du Pont au Chat, ZA de la Gaufrie, 53000 Laval"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Hubert%20Process&departement=53",
+      "date": "2026-09-25",
+      "extrait": "HUBERT PROCESS, siret 34088523500036, siège, ZONE D'ACTIVITE DE LA GAUFRIE 33 RUE DU PONT AU CHAT 53000 LAVAL, activité 28.93Z, état administratif A"
+    },
+    {
+      "champ": "contacts",
+      "url": "https://www.hubertprocess.com/contact/",
+      "date": "2026-09-25",
+      "extrait": "33 rue du Pont au Chat, ZA de la Gaufrie, 53000 LAVAL, FRANCE. 02 43 69 62 98. contact@hubertprocess.com"
+    },
+    {
+      "champ": "type, description",
+      "url": "https://www.hubertprocess.com/notre-societe/",
+      "date": "2026-09-25",
+      "extrait": "Nous réalisons l'étude et la fabrication de vos produits dans nos bureaux et ateliers. [...] 1994 : Fabrication et installation de la première ligne de lavage mâche. [...] Installation : Mise en route et formation du personnel"
+    },
+    {
+      "champ": "description, expertises",
+      "url": "https://www.hubertprocess.com/nos-solutions/laveur-de-legumes/",
+      "date": "2026-09-25",
+      "extrait": "Hubert process est spécialisée dans le process de lavage en 1ère gamme [...] lavage de mâche, jeunes pousses, radis, légumes feuilles. Nous réalisons également des laveurs de fruits et légumes polyvalents pour la 4ème gamme pour des légumes racines, des légumes feuillus ou des fruits. [...] Chez Hubert Process, nous ne réalisons pas ce genre de laveuse légumes racines [...] Ces types de laveur de légumes sont utilisés dans les stations de lavage de maraîchage."
+    },
+    {
+      "champ": "mesures (ACT_FRL_003), description",
+      "url": "https://www.hubertprocess.com/avantages-machines-consommation-deau/",
+      "date": "2026-09-25",
+      "extrait": "Hubert Process à mis en place une solution de lavage de légumes feuilles, économique en eau. Équipé de différents systèmes pour contrôler le débit d'eau ainsi que des systèmes de mesure du taux de salissure dans les bacs de lavage."
+    },
+    {
+      "champ": "secteurs, departements",
+      "url": "https://www.hubertprocess.com/votre-secteur-dactivite/agroalimentaire/",
+      "date": "2026-09-25",
+      "extrait": "Nous équipons des usines spécialisées dans la préparation de fruits et légumes de 4ème gamme et 1ère gamme. [...] Situé à Laval, nous sommes positionné au coeur du Grand Ouest ce qui nous permet de faire preuve d'une bonne réactivité."
+    },
+    {
+      "champ": "expertises, description (dessablage)",
+      "url": "https://www.hubertprocess.com/votre-secteur-dactivite/maraichage/",
+      "date": "2026-09-25",
+      "extrait": "Notre trieuse optique est destinée à trier la mâche, les jeunes pousses et autres légumes feuilles ainsi que la pomme de terre. [...] Lors du lavage, le produit est lavé dans un bac de dessablage qui va permettre d'enlever le sable du produit et l'évacuer ensuite."
+    },
+    {
+      "champ": "departements",
+      "url": "https://www.hubertprocess.com/recrutement/",
+      "date": "2026-09-25",
+      "extrait": "Ce poste nécessite des déplacements dans le Nord-Ouest de la France lors des mises en route environ 30 jours par an"
+    },
+    {
+      "champ": "departements",
+      "url": "https://www.hubertprocess.com/nos-solutions/tri-optique/",
+      "date": "2026-09-25",
+      "extrait": "a répondu aux sollicitations de producteurs nantais pour qui il travaillait déjà"
+    }
+  ],
+  "date_maj": "2026-09-25"
+}

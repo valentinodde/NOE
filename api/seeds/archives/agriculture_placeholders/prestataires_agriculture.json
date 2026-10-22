@@ -1,0 +1,358 @@
+[
+  {
+    "id": "PREST_AGR_001",
+    "nom": "Chambre d'Agriculture",
+    "type": "chambre_consulaire",
+    "logo_url": null,
+    "siret": null,
+    "description": "Accompagnement de proximité pour les exploitants agricoles sur la gestion de l'eau, le pilotage de l'irrigation et les pratiques agro-environnementales. Présence dans chaque département.",
+    "expertises": [
+      "Diagnostic eau",
+      "Pilotage irrigation",
+      "Pratiques agro-écologiques",
+      "Conseil réglementaire"
+    ],
+    "categories": [
+      "suivre_comprendre_maitriser",
+      "ameliorer_efficacite_hydrique",
+      "changer_process_pratiques",
+      "agir_grand_cycle"
+    ],
+    "secteurs": [
+      "agriculture"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_AGR_001",
+        "roles": [
+          "conseil_etude"
+        ]
+      },
+      {
+        "id": "ACT_AGR_002",
+        "roles": [
+          "conseil_etude"
+        ]
+      },
+      {
+        "id": "ACT_AGR_003",
+        "roles": [
+          "conseil_etude",
+          "formation"
+        ]
+      },
+      {
+        "id": "ACT_AGR_008",
+        "roles": [
+          "conseil_etude"
+        ]
+      },
+      {
+        "id": "ACT_AGR_009",
+        "roles": [
+          "conseil_etude",
+          "formation"
+        ]
+      },
+      {
+        "id": "ACT_AGR_010",
+        "roles": [
+          "conseil_etude"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://chambres-agriculture.fr"
+      }
+    ],
+    "statut": "publie",
+    "sources": [],
+    "date_maj": "2026-09-22"
+  },
+  {
+    "id": "PREST_AGR_002",
+    "nom": "AquaConseil (bureau d'études eau)",
+    "type": "bureau_etudes",
+    "logo_url": null,
+    "siret": null,
+    "description": "Bureau d'études spécialisé en hydraulique agricole et gestion quantitative de la ressource. Réalise des audits eau, des schémas directeurs d'irrigation et des études de faisabilité de retenues.",
+    "expertises": [
+      "Audit hydraulique",
+      "Schéma directeur irrigation",
+      "Faisabilité retenues collinaires",
+      "Bilan besoins/ressources"
+    ],
+    "categories": [
+      "suivre_comprendre_maitriser",
+      "ameliorer_efficacite_hydrique",
+      "valoriser_reut_eaux_non_conventionnelles"
+    ],
+    "secteurs": [
+      "agriculture"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_AGR_002",
+        "roles": [
+          "conseil_etude"
+        ]
+      },
+      {
+        "id": "ACT_AGR_004",
+        "roles": [
+          "conseil_etude"
+        ]
+      },
+      {
+        "id": "ACT_AGR_005",
+        "roles": [
+          "conseil_etude"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://exemple-aquaconseil.fr"
+      }
+    ],
+    "statut": "publie",
+    "sources": [],
+    "date_maj": "2026-09-22"
+  },
+  {
+    "id": "PREST_AGR_003",
+    "nom": "ARVALIS (Institut du végétal)",
+    "type": "organisme_technique",
+    "logo_url": null,
+    "siret": null,
+    "description": "Institut technique agricole référent sur l'eau et les grandes cultures. Propose des outils de pilotage de l'irrigation (IRRI@, STICS), des formations et un accompagnement agronomique personnalisé.",
+    "expertises": [
+      "Outils OAD irrigation",
+      "Expérimentation variétale",
+      "Conseil agronomique",
+      "Formation terrain"
+    ],
+    "categories": [
+      "ameliorer_efficacite_hydrique",
+      "changer_process_pratiques",
+      "sensibiliser_former"
+    ],
+    "secteurs": [
+      "agriculture"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_AGR_003",
+        "roles": [
+          "conseil_etude",
+          "formation"
+        ]
+      },
+      {
+        "id": "ACT_AGR_008",
+        "roles": [
+          "conseil_etude"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://arvalis.fr"
+      }
+    ],
+    "statut": "publie",
+    "sources": [],
+    "date_maj": "2026-09-22"
+  },
+  {
+    "id": "PREST_AGR_004",
+    "nom": "HydroSolutions (bureau d'études qualité)",
+    "type": "bureau_etudes",
+    "logo_url": null,
+    "siret": null,
+    "description": "Cabinet spécialisé dans la qualité des eaux agricoles, le traitement des effluents d'élevage et la mise en conformité réglementaire. Accompagne aussi les démarches de labellisation environnementale.",
+    "expertises": [
+      "Traitement effluents",
+      "Plan épandage",
+      "Mise en conformité",
+      "Labellisation HVE"
+    ],
+    "categories": [
+      "agir_rejets_qualite",
+      "changer_process_pratiques"
+    ],
+    "secteurs": [
+      "agriculture"
+    ],
+    "departements": [
+      "22",
+      "29",
+      "35",
+      "56",
+      "44",
+      "49",
+      "53",
+      "72",
+      "85"
+    ],
+    "mesures": [],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://exemple-hydrosolutions.fr"
+      }
+    ],
+    "statut": "publie",
+    "sources": [],
+    "date_maj": "2026-09-22"
+  },
+  {
+    "id": "PREST_AGR_005",
+    "nom": "Coopérative de l'Eau",
+    "type": "cooperative",
+    "logo_url": null,
+    "siret": null,
+    "description": "Structure collective portant des projets de stockage mutualisé, de PTGE et de gouvernance concertée de la ressource. Facilite l'accès à des infrastructures partagées (réserves, forages collectifs).",
+    "expertises": [
+      "PTGE / gouvernance",
+      "Stockage collectif",
+      "Montage de dossiers",
+      "Animation territoriale"
+    ],
+    "categories": [
+      "valoriser_reut_eaux_non_conventionnelles",
+      "agir_grand_cycle"
+    ],
+    "secteurs": [
+      "agriculture"
+    ],
+    "departements": [
+      "16",
+      "17",
+      "79",
+      "86"
+    ],
+    "mesures": [
+      {
+        "id": "ACT_AGR_005",
+        "roles": [
+          "conseil_etude",
+          "financement"
+        ]
+      },
+      {
+        "id": "ACT_AGR_010",
+        "roles": [
+          "conseil_etude"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://exemple-coop-eau.fr"
+      }
+    ],
+    "statut": "publie",
+    "sources": [],
+    "date_maj": "2026-09-22"
+  },
+  {
+    "id": "PREST_AGR_006",
+    "nom": "FormAgri",
+    "type": "organisme_formation",
+    "logo_url": null,
+    "siret": null,
+    "description": "Organisme de formation agricole certifié Qualiopi, proposant des modules sur les économies d'eau, la gestion des intrants et les pratiques agroécologiques en présentiel et à distance.",
+    "expertises": [
+      "Formation gestion eau",
+      "Agroécologie",
+      "Certification Qualiopi",
+      "E-learning agricole"
+    ],
+    "categories": [
+      "sensibiliser_former",
+      "changer_process_pratiques"
+    ],
+    "secteurs": [
+      "agriculture"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_AGR_009",
+        "roles": [
+          "formation"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://exemple-formagri.fr"
+      }
+    ],
+    "statut": "publie",
+    "sources": [],
+    "date_maj": "2026-09-22"
+  },
+  {
+    "id": "PREST_AGR_007",
+    "nom": "EcoRecup (récupération eaux pluviales)",
+    "type": "bureau_etudes",
+    "logo_url": null,
+    "siret": null,
+    "description": "Bureau spécialisé dans la conception de systèmes de récupération et de réutilisation des eaux de pluie et de ruissellement. Du dimensionnement au suivi d'installation.",
+    "expertises": [
+      "Récupération eaux pluviales",
+      "Bassins tampons",
+      "Réutilisation eaux process",
+      "Dimensionnement stockage"
+    ],
+    "categories": [
+      "valoriser_reut_eaux_non_conventionnelles"
+    ],
+    "secteurs": [],
+    "departements": [
+      "01",
+      "07",
+      "26",
+      "38",
+      "42",
+      "69",
+      "73",
+      "74"
+    ],
+    "mesures": [
+      {
+        "id": "ACT_AGR_006",
+        "roles": [
+          "conseil_etude",
+          "travaux"
+        ]
+      },
+      {
+        "id": "ACT_AGR_007",
+        "roles": [
+          "conseil_etude"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://exemple-ecorecup.fr"
+      }
+    ],
+    "statut": "publie",
+    "sources": [],
+    "date_maj": "2026-09-22"
+  }
+]

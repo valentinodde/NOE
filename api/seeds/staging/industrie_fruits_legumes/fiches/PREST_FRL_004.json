@@ -1,0 +1,71 @@
+{
+  "id": "PREST_FRL_004",
+  "nom": "Établissements Aubert et Compagnie",
+  "type": "equipementier",
+  "logo_url": null,
+  "siret": "58198015800017",
+  "description": "Constructeur de machines pour l'agroalimentaire implanté en Dordogne depuis 1958, qui conçoit et fabrique deux familles d'équipements en acier inoxydable. D'une part des cuiseurs-blancheurs continus à vis d'Archimède, qui cuisent ou blanchissent le produit dans l'eau chauffée par injection directe de vapeur (300 à 7 000 litres) ; d'autre part des lignes de pelage de châtaignes et de marrons entiers : décortiqueuse par brûlage, brosseuse nettoyeuse et échaudeur continu chauffé à la vapeur. Contact direct pour un devis ou une étude, intervention sur l'ensemble du territoire.",
+  "expertises": [
+    "Cuiseurs-blancheurs continus à vis",
+    "Pelage de châtaignes par brûlage",
+    "Échaudeurs continus de châtaignes"
+  ],
+  "categories": [
+    "changer_process_pratiques"
+  ],
+  "secteurs": ["industrie_fruits_legumes"],
+  "departements": [],
+  "mesures": [],
+  "contacts": [
+    { "type": "site_internet", "value": "https://aubert-construction.fr/" },
+    { "type": "tel", "value": "05 53 53 56 17" },
+    { "type": "mail", "value": "aubert.construction@orange.fr" },
+    { "type": "adresse", "value": "9 avenue de l'Industrie, 24660 Coulounieix-Chamiers" }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Etablissements%20Aubert%20et%20Compagnie&departement=24",
+      "date": "2026-09-25",
+      "extrait": "ETABLISSEMENTS AUBERT ET COMPAGNIE, siret 58198015800017, siège, 17 AVENUE DE L'INDUSTRIE 24660 COULOUNIEIX-CHAMIERS, activité 28.93Z, état administratif A"
+    },
+    {
+      "champ": "contacts",
+      "url": "https://aubert-construction.fr/situation-contact/",
+      "date": "2026-09-25",
+      "extrait": "ETABLISSEMENTS AUBERT ET COMPAGNIE, 9 avenue de l'Industrie, 24660 Coulounieix-Chamiers. Tél. : 05 53 53 56 17, Email : aubert.construction@orange.fr"
+    },
+    {
+      "champ": "type, departements, description",
+      "url": "https://aubert-construction.fr/entreprise-aubert-et-compagnie/",
+      "date": "2026-09-25",
+      "extrait": "La société AUBERT et compagnie, implantée en Dordogne depuis 1958, a fabriqué de très nombreux matériels et équipements de tous types pour l'industrie agroalimentaire. [...] Nous intervenons sur l'ensemble du territoire."
+    },
+    {
+      "champ": "secteurs (références clients)",
+      "url": "https://aubert-construction.fr/entreprise-aubert-et-compagnie/",
+      "date": "2026-09-25",
+      "extrait": "On peut compter parmi eux : MARKAL, WILLIAM-SAURIN, [...] COOPERATIVE DU VAL DE LOIRE, [...] UCA FRANCE CHAMPIGNON, MATERNE, SANOFRUIT, VERFEUILLE, LA FERME DU CHATAIGNIER"
+    },
+    {
+      "champ": "expertises, description (cuiseur-blancheur)",
+      "url": "https://aubert-construction.fr/cuiseur-blancheur-continu/",
+      "date": "2026-09-25",
+      "extrait": "Gamme de cuiseurs blancheurs en continu dont la cuve est solidaire d'une vis d'Archimède pour la cuisson dans l'eau de divers produits [...] Chauffage par nouveau système d'injection directe de vapeur alimentaire. [...] volumes de cuisson de 300 à 7000 litres"
+    },
+    {
+      "champ": "description (blanchiment à l'eau)",
+      "url": "https://aubert-construction.fr/",
+      "date": "2026-09-25",
+      "extrait": "Spécialiste de la cuisson et blanchiment à l'eau en continu de tous types d'aliments."
+    },
+    {
+      "champ": "expertises, description (pelage de châtaignes), type",
+      "url": "https://aubert-construction.fr/decortiqueuse-peleuse-de-chataignes-ou-de-marrons/",
+      "date": "2026-09-25",
+      "extrait": "Cet appareil compact de pelage, décorticage de châtaignes par brûlage permet de les éplucher en continu [...] L'échaudeur nécessite une alimentation de vapeur pour le chauffage. [...] AUBERT et COMPAGNIE conçoit, développe et fabrique des matériels et équipements professionnels dans l'industrie agroalimentaire"
+    }
+  ],
+  "date_maj": "2026-09-25"
+}

@@ -1,0 +1,102 @@
+{
+  "id": "PREST_HOT_018",
+  "nom": "Odalie (groupe Saur)",
+  "type": "installateur",
+  "logo_url": null,
+  "siret": "33937998405975",
+  "description": "Filiale de Saur, installée au siège du groupe à Issy-les-Moulineaux, qui propose aux bâtiments, hôtels compris, des solutions de suivi et de réutilisation de l'eau. Pour le suivi, son offre Mira fournit des sous-compteurs connectés à brancher sans travaux et un réseau de télérelève, puis un tableau de bord qui détaille les consommations par pièce, par bâtiment ou par site, avec alertes de fuite en temps réel et rapports automatisés ; elle propose aussi Aquapod, une unité de traitement des eaux grises pour les chasses d'eau, l'arrosage et le nettoyage extérieur. Offre commerciale, sur contact avec un responsable commercial régional.",
+  "expertises": [
+    "Télérelève des compteurs d'eau",
+    "Sous-compteurs connectés",
+    "Détection de fuites en temps réel",
+    "Recyclage des eaux grises"
+  ],
+  "categories": [
+    "suivre_comprendre_maitriser",
+    "valoriser_reut_eaux_non_conventionnelles"
+  ],
+  "secteurs": [
+    "hotellerie"
+  ],
+  "departements": [],
+  "mesures": [
+    {
+      "id": "ACT_HOT_007",
+      "roles": [
+        "materiel"
+      ]
+    },
+    {
+      "id": "ACT_AGR_001",
+      "roles": [
+        "materiel"
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "type": "site_internet",
+      "value": "https://odalie.eu/"
+    },
+    {
+      "type": "adresse",
+      "value": "11 Chemin de Bretagne, 92130 Issy-les-Moulineaux"
+    },
+    {
+      "type": "linkedin",
+      "value": "https://fr.linkedin.com/company/odalie"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Saur&departement=92",
+      "date": "2026-09-24",
+      "extrait": "SAUR, siren 339379984, siret 33937998405975, siège, 11 CHEMIN DE BRETAGNE 92130 ISSY-LES-MOULINEAUX, activité 36.00Z, état administratif A"
+    },
+    {
+      "champ": "siret (absence d'entité Odalie propre au groupe Saur)",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Odalie&departement=92",
+      "date": "2026-09-24",
+      "extrait": "Recherche « Odalie » dans le 92 : aucun résultat. Recherche « Odalie Saur » : aucun résultat. Recherche « Odalie » sans département : aucune entité à l'adresse de Saur."
+    },
+    {
+      "champ": "siret",
+      "url": "https://odalie.eu/mentions-legales/",
+      "date": "2026-09-24",
+      "extrait": "Société Saur, société par actions simplifiée [...] 339 379 984 RCS Nanterre [...] 11, Chemin de Bretagne, 92130 Issy Les Moulineaux"
+    },
+    {
+      "champ": "contacts, description",
+      "url": "https://odalie.eu/contact/",
+      "date": "2026-09-24",
+      "extrait": "SAUR - Odalie, 11 Chemin de Bretagne, 92130 Issy Les Moulineaux. Responsables commerciaux par région (HDF & IDF, Nord-Ouest, Nouvelle-Aquitaine, Occitanie, PACA, AURA). LinkedIn : fr.linkedin.com/company/odalie"
+    },
+    {
+      "champ": "departements, description (filiale de Saur)",
+      "url": "https://odalie.eu/",
+      "date": "2026-09-24",
+      "extrait": "Odalie est une filiale de Saur [...] accompagne les acteurs du bâtiment dans leur transition hydrique [...] une présence nationale [...] des équipes présentes partout en France"
+    },
+    {
+      "champ": "secteurs, description, expertises, mesures (ACT_HOT_007 materiel), categories",
+      "url": "https://odalie.eu/vos-projets/vos-projets-hotellerie/",
+      "date": "2026-09-24",
+      "extrait": "Mira, suivi des consommations : Détectez les fuites et les surconsommations en temps réel. Suivez vos consommations depuis un tableau de bord personnalisé. Paramétrez vos rapports automatisés et votre budget prévisionnel. Aquapod : réutilisation des eaux grises [...] chasses d'eau, irrigation, nettoyage extérieur"
+    },
+    {
+      "champ": "expertises, mesures (ACT_AGR_001 materiel, ACT_HOT_007 materiel), description, type",
+      "url": "https://odalie.eu/nos-solutions/mira/",
+      "date": "2026-09-24",
+      "extrait": "01 Cartographie. Mise en place de l'infrastructure de collecte des données : Digitalisation du plan de comptage, Installation de sous compteurs, Mise en place du réseau de télérelève. [...] Installation sans travaux dans tout type de bâtiment [...] vue détaillée de vos consommations : par pièce, par bâtiment, ou par site entier. [...] Hôtellerie"
+    },
+    {
+      "champ": "expertises, categories, description",
+      "url": "https://odalie.eu/nos-solutions/aquapod/",
+      "date": "2026-09-24",
+      "extrait": "La récupération des eaux de salles de bains et des piscines [...] pour les usages non destinés à la consommation humaine, à savoir les chasses d'eau, l'arrosage des espaces verts et le nettoyage des espaces extérieurs [...] hôtels ou campings [...] Fabriqué en France"
+    }
+  ],
+  "date_maj": "2026-09-24"
+}

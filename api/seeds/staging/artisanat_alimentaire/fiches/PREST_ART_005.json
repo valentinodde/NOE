@@ -1,0 +1,120 @@
+{
+  "id": "PREST_ART_005",
+  "nom": "ODREO",
+  "type": "bureau_etudes",
+  "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792065044/Noe%20assets/logos/PREST_ART_005.png",
+  "siret": "91241457000016",
+  "description": "Entreprise de recherche de fuites d'eau basée dans le Rhône, qui intervient auprès des particuliers et des professionnels en Auvergne-Rhône-Alpes et en Bourgogne-Franche-Comté. Quand votre compteur tourne alors qu'aucun point d'eau n'est utilisé, elle localise la fuite sans casser (écoute acoustique, gaz traceur, caméra thermique, inspection vidéo des canalisations) sur les réseaux intérieurs comme sur les canalisations enterrées, puis remet un rapport détaillé. Elle ne répare pas elle-même : elle conseille et oriente vers des entreprises de réparation. Intervention sur devis, du lundi au vendredi. Aucune référence dans le commerce alimentaire n'est publiée sur son site.",
+  "expertises": [
+    "Recherche de fuite non destructive",
+    "Fuite sur réseau enterré",
+    "Inspection vidéo de canalisations",
+    "Rapport de localisation de fuite"
+  ],
+  "categories": [
+    "suivre_comprendre_maitriser"
+  ],
+  "secteurs": [
+    "artisanat_alimentaire"
+  ],
+  "departements": [
+    "01",
+    "03",
+    "07",
+    "15",
+    "26",
+    "38",
+    "42",
+    "43",
+    "63",
+    "69",
+    "73",
+    "74",
+    "21",
+    "25",
+    "39",
+    "58",
+    "70",
+    "71",
+    "89",
+    "90"
+  ],
+  "mesures": [
+    {
+      "id": "ACT_ART_002",
+      "roles": [
+        "conseil_etude"
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "type": "site_internet",
+      "value": "https://odreo.fr/"
+    },
+    {
+      "type": "tel",
+      "value": "06 75 58 73 27"
+    },
+    {
+      "type": "mail",
+      "value": "contact@odreo.fr"
+    },
+    {
+      "type": "adresse",
+      "value": "322 Grande Rue, 69770 Montrottier"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, contacts (adresse)",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Odreo&departement=69",
+      "date": "2026-10-15",
+      "extrait": "ODREO, siret 91241457000016, siège, 322 GRANDE RUE 69770 MONTROTTIER, activité 71.20B, état administratif A"
+    },
+    {
+      "champ": "contacts (site, tel, mail), departements, description",
+      "url": "https://odreo.fr/",
+      "date": "2026-10-15",
+      "extrait": "Recherche de fuites pour les particuliers et les professionnels. La mobilité de notre équipe nous permet d'intervenir à Lyon, dans les régions Rhône-Alpes-Auvergne et Bourgogne-Franche-Comté. Téléphone 06 75 58 73 27. Email contact@odreo.fr"
+    },
+    {
+      "champ": "description, expertises",
+      "url": "https://odreo.fr/",
+      "date": "2026-10-15",
+      "extrait": "Conseils et mise en relation avec des spécialistes de la réparation après intervention. Devis en 24h, rendez-vous planifié dans les 48h après validation du devis, rapport détaillé 48h après intervention. ODREO intervient du Lundi au Vendredi de 8h à 18h"
+    },
+    {
+      "champ": "mesures, expertises",
+      "url": "https://odreo.fr/recherche-de-fuite-reseaux-enterres-exterieurs/",
+      "date": "2026-10-15",
+      "extrait": "Vous avez reçu une facture anormalement élevée, votre compteur crédite en l'absence d'utilisation de vos points d'eau. Nous intervenons pour localiser précisément l'emplacement de la fuite d'eau sur votre terrain à l'aide de matériels électro-acoustiques, de matériels de repérage de réseau, techniques de gaz traceur"
+    },
+    {
+      "champ": "mesures, expertises",
+      "url": "https://odreo.fr/recherche-de-fuite-interieur-lyon/",
+      "date": "2026-10-15",
+      "extrait": "Vous subissez une fuite intérieure dans votre logement ou vos locaux à Lyon ? Des contrôles exhaustifs de l'ensemble des réseaux sous pression (eau potable, chauffage), des réseaux gravitaires (EU/EV/EP) et des appareils à effet d'eau permettent d'identifier, sans destruction, l'origine de la fuite."
+    },
+    {
+      "champ": "secteurs",
+      "url": "https://odreo.fr/",
+      "date": "2026-10-15",
+      "extrait": "Recherche de fuites pour les particuliers et les professionnels. Nos Clients : Particuliers, Assureurs & Experts en assurance, Entreprises et Professionnels du bâtiment, Syndics et Administrateurs de biens, Piscinistes"
+    },
+    {
+      "champ": "secteurs",
+      "url": "https://odreo.fr/recherche-de-fuite-interieur-lyon/",
+      "date": "2026-10-15",
+      "extrait": "Vous subissez une fuite intérieure dans votre logement ou vos locaux à Lyon ? ODREO vous assure un service fiable et efficace, minimisant ainsi les interruptions dans votre quotidien ou votre activité professionnelle."
+    },
+    {
+      "champ": "logo_url",
+      "url": "https://odreo.fr/wp-content/uploads/2024/11/logo-Ordeo.png",
+      "date": "2026-10-15",
+      "extrait": "Logo complet en couleur (trois gouttes et nom ODREO), l'icône carrée du site coupe le nom"
+    }
+  ],
+  "date_maj": "2026-10-15"
+}

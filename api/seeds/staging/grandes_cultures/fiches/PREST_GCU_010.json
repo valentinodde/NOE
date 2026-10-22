@@ -1,0 +1,91 @@
+{
+  "id": "PREST_GCU_010",
+  "nom": "RAGT Semences",
+  "type": "equipementier",
+  "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792084196/Noe%20assets/logos/PREST_GCU_010.png",
+  "siret": "43189975600016",
+  "description": "Semencier dont le siège est à Rodez, qui sélectionne et vend des semences de grandes cultures, dont le maïs et le sorgho. Il propose des variétés de sorgho, culture qu'il présente comme peu gourmande en eau, et une gamme de maïs Stressless H2O sélectionnée sur la tolérance au stress hydrique, classées par précocité, avec des conseils de dates de semis par zone. Des experts par espèce, dont le sorgho et le maïs, sont joignables depuis la page contacts du site.",
+  "expertises": [
+    "Variétés de sorgho",
+    "Maïs tolérant au stress hydrique",
+    "Choix de la précocité",
+    "Conseil d'implantation du sorgho"
+  ],
+  "categories": [
+    "changer_process_pratiques"
+  ],
+  "secteurs": [
+    "grandes_cultures"
+  ],
+  "departements": [],
+  "mesures": [
+    {
+      "id": "ACT_GCU_005",
+      "roles": [
+        "materiel",
+        "conseil_etude"
+      ]
+    },
+    {
+      "id": "ACT_GCU_006",
+      "roles": [
+        "materiel",
+        "conseil_etude"
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "type": "site_internet",
+      "value": "https://ragt-seeds.com/fr/"
+    },
+    {
+      "type": "tel",
+      "value": "05 65 73 41 00"
+    },
+    {
+      "type": "adresse",
+      "value": "Rue Emile Singla, 12000 Rodez"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=RAGT%20Semences&departement=12",
+      "date": "2026-10-15",
+      "extrait": "RAGT SEMENCES, siret 43189975600016, siège, SITE DE BOURRAN RUE EMILE SINGLA 12000 RODEZ, etat_administratif A"
+    },
+    {
+      "champ": "contacts",
+      "url": "https://ragt-seeds.com/fr/contacts/",
+      "date": "2026-10-15",
+      "extrait": "Siège social Rue Emile Singla 12000 RODEZ. Bureau : 05 65 73 41 00. Experts par espèce : Colza, Maïs, Seigle hybride, Sorgho, Tournesol"
+    },
+    {
+      "champ": "description, expertises, mesures (ACT_GCU_005, ACT_GCU_006)",
+      "url": "https://ragt-seeds.com/fr/reussir-limplantation-du-sorgho-en-2026-les-conseils-de-nos-experts-ragt-pour-optimiser-votre-rendement/",
+      "date": "2026-10-15",
+      "extrait": "Peu gourmand en eau et en intrants [...] En Zone Sud : La fenêtre s'ouvre généralement autour du 20 avril [...] Précoces, Demi-précoces, Demi-tardives [...] une génétique testée sous stress hydrique pour garantir une stabilité de rendement"
+    },
+    {
+      "champ": "description, expertises, mesures (ACT_GCU_006)",
+      "url": "https://ragt-seeds.com/fr/solution/stressless-h2o/",
+      "date": "2026-10-15",
+      "extrait": "Les variétés identifiées comme porteuses de gènes de tolérance au stress hydrique sont ensuite testées en champs à grande échelle [...] Très précoce - G0 - S0 [...] Demi-tardif - G4 - S4"
+    },
+    {
+      "champ": "description, departements",
+      "url": "https://ragt-seeds.com/fr/societe/",
+      "date": "2026-10-15",
+      "extrait": "RAGT sélectionne, produit et vend des semences dans le monde entier. [...] maïs, sorgho, céréales, oléagineux, protéagineux"
+    },
+    {
+      "champ": "logo_url",
+      "url": "https://ragt-seeds.com/fr/wp-content/uploads/2026/09/cropped-Favicon_RAGT-Seeds-192x192.png",
+      "date": "2026-10-15",
+      "extrait": "Favicon 192 x 192 déclaré dans l'en-tête de https://ragt-seeds.com/fr/"
+    }
+  ],
+  "date_maj": "2026-10-15"
+}

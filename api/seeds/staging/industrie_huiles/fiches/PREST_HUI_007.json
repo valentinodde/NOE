@@ -1,0 +1,67 @@
+{
+  "id": "PREST_HUI_007",
+  "nom": "Delho",
+  "type": "equipementier",
+  "logo_url": null,
+  "siret": "80763728500022",
+  "description": "Entreprise girondine qui conçoit des équipements inox de prétraitement des eaux usées grasses, fabriqués par un atelier de tôlerie de la région bordelaise. Pour les industriels agroalimentaires, dont les huileries, elle propose des bacs séparateurs de graisses et un dégrilleur-débourbeur-régulateur de débit (DD-R) posé hors-sol sur le réseau, sans pompe ni électronique. Diagnostic technique et devis gratuits sur demande, matériel ensuite vendu.",
+  "expertises": [
+    "Bacs séparateurs de graisses",
+    "Dégrilleur-débourbeur-régulateur de débit",
+    "Prétraitement des eaux grasses"
+  ],
+  "categories": [
+    "agir_rejets_qualite"
+  ],
+  "secteurs": ["industrie_huiles"],
+  "departements": [],
+  "mesures": [
+    { "id": "ACT_HUI_007", "roles": ["materiel"] }
+  ],
+  "contacts": [
+    { "type": "site_internet", "value": "https://delho.fr" },
+    { "type": "tel", "value": "06 31 23 00 83" },
+    { "type": "mail", "value": "contact@delho.fr" },
+    { "type": "adresse", "value": "9 rue de la Praya, 33950 Lège-Cap-Ferret" }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Delho&departement=33",
+      "date": "2026-09-27",
+      "extrait": "DELHO, siret 80763728500022, siège, PARC D'ENTREPRISE 9 RUE DE LA PRAYA 33950 LEGE-CAP-FERRET, activité 71.12B, état administratif A"
+    },
+    {
+      "champ": "contacts",
+      "url": "https://delho.fr/contact/",
+      "date": "2026-09-27",
+      "extrait": "06.31.23.00.83 contact@delho.fr 9 Rue de la Praya 33950 Lège - Cap Ferret"
+    },
+    {
+      "champ": "mesures, expertises, description",
+      "url": "https://delho.fr/pretraitement-eaux-laboratoires-agroalimentaires/",
+      "date": "2026-09-27",
+      "extrait": "Les secteurs particulièrement concernés par ces problématiques sont notamment : [...] Les huileries et ateliers de transformation végétale ou animale [...] Le DELHO DD-R, dégrilleur-débourbeur-régulateur de débit [...] s'installe hors-sol directement sur le réseau et ne nécessite aucun pompage"
+    },
+    {
+      "champ": "departements",
+      "url": "https://delho.fr/pretraitement-eaux-laboratoires-agroalimentaires/",
+      "date": "2026-09-27",
+      "extrait": "Des centaines d'acteurs de la filière agroalimentaire nous font déjà confiance, en France et dans les pays francophones limitrophes."
+    },
+    {
+      "champ": "type, description",
+      "url": "https://delho.fr/fabrication-bac-graisse/",
+      "date": "2026-09-27",
+      "extrait": "DELHO fait fabriquer ses produits à proximité de son siège social dans la région bordelaise [...] C'est dans un atelier spécialisé dans le domaine de la tôlerie fine industrielle [...] que sont réalisés les bacs à graisses DELHO."
+    },
+    {
+      "champ": "description",
+      "url": "https://delho.fr/pretraitement-eaux-laboratoires-agroalimentaires/",
+      "date": "2026-09-27",
+      "extrait": "Contactez dès maintenant l'équipe DELHO pour bénéficier d'un diagnostic technique gratuit [...] Demander un devis gratuit"
+    }
+  ],
+  "date_maj": "2026-09-27"
+}

@@ -1,0 +1,61 @@
+{
+  "id": "PREST_GCU_020",
+  "nom": "Tagliaferi et Fils",
+  "type": "installateur",
+  "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792084363/Noe%20assets/logos/PREST_GCU_020.png",
+  "siret": "43988301800012",
+  "description": "Entreprise de terrassement et de travaux publics installée à Lectoure, dans le Gers. Parmi ses travaux de terrassement figurent la création et le curage de réserves d'eau, de lacs collinaires et de bassins, ainsi que les plateformes de bâtiments agricoles. Le devis est gratuit, sur demande par téléphone ou par le formulaire de contact du site.",
+  "expertises": [
+    "Création de réserve d'eau",
+    "Curage de lac collinaire",
+    "Plateformes de bâtiments agricoles"
+  ],
+  "categories": [
+    "valoriser_reut_eaux_non_conventionnelles"
+  ],
+  "secteurs": ["grandes_cultures"],
+  "departements": ["32"],
+  "mesures": [
+    { "id": "ACT_GCU_008", "roles": ["travaux"] }
+  ],
+  "contacts": [
+    { "type": "site_internet", "value": "https://www.tagliaferi.fr/" },
+    { "type": "tel", "value": "06 16 33 89 18" },
+    { "type": "tel", "value": "05 62 68 43 93" },
+    { "type": "adresse", "value": "La Giroflée, Route de Saint Clar, 32700 Lectoure" }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Tagliaferi&departement=32",
+      "date": "2026-10-15",
+      "extrait": "TAGLIAFERI ET FILS SARL, siret 43988301800012, siège, LA GIROFLEE ROUTE DE SAINT CLAR 32700 LECTOURE, activité 43.12A, état administratif A"
+    },
+    {
+      "champ": "contacts",
+      "url": "https://www.tagliaferi.fr/contact/",
+      "date": "2026-10-15",
+      "extrait": "Contact La Giroflée, Route de Saint Clar 32700 Lectoure 06 16 33 89 18 05 62 68 43 93 Contactez-nous et faites votre demande de devis en ligne pour vos projets de voirie, assainissement, location d'engins ou terrassements."
+    },
+    {
+      "champ": "description, expertises, mesures, categories, departements",
+      "url": "https://www.tagliaferi.fr/travaux-terrassement/",
+      "date": "2026-10-15",
+      "extrait": "Travaux de terrassement dans le Gers à Lectoure par Tagliaferi & fils [...] Tous travaux de terrassement, démolition, Travaux Publics, Plateforme bâtiments agricoles, photovoltaïques, industriels [...] Création curage réserve d'eau ou lac collinaire et bassin [...] Votre devis gratuit c'est ici !"
+    },
+    {
+      "champ": "departements",
+      "url": "https://www.tagliaferi.fr/realisations-chantiers/",
+      "date": "2026-10-15",
+      "extrait": "Découvrez nos réalisations à Lectoure et dans le Gers pour nos services en terrassement, location d'engins, assainissement et voirie/vrd."
+    },
+    {
+      "champ": "logo_url",
+      "url": "https://www.tagliaferi.fr/wp-content/uploads/2021/05/cropped-Tagliaferi-Logotype-192x192.jpg",
+      "date": "2026-10-15",
+      "extrait": "icône 192 px du site tagliaferi.fr (symbole carré en couleur : soleil jaune et route bleue)"
+    }
+  ],
+  "date_maj": "2026-10-15"
+}

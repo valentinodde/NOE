@@ -1,0 +1,97 @@
+{
+  "id": "AIDE_VIA_010",
+  "nom": "PASS Compétitivité IAA, investissement dans les industries agroalimentaires bretonnes (Région Bretagne, FEADER)",
+  "financeur": "Région Bretagne (crédits européens FEADER et crédits régionaux)",
+  "logo_url": null,
+  "type": "subvention",
+  "taux": null,
+  "plafond": null,
+  "description": "Subvention à l'investissement des entreprises agroalimentaires qui transforment, conditionnent et commercialisent des matières premières agricoles, pour du matériel productif sur leurs sites bretons. Les exemples de dépenses citent les matériels d'abattage, de découpe, de cuisson, de stérilisation et de lavage, ainsi que le matériel de process permettant des économies d'énergie, d'eau et de déchets.",
+  "eligibilite": "Entreprises agroalimentaires de transformation, de conditionnement ou de commercialisation de produits agricoles ou transformés, créations comprises, dont les produits finis vont majoritairement à l'alimentation humaine ou animale et dont la clientèle de particuliers est minoritaire. L'établissement du projet doit recevoir au moins 70 % de ses matières premières en produits de l'annexe I du TFUE, hors produits de la pêche et de l'aquaculture.",
+  "categories": ["ameliorer_efficacite_hydrique"],
+  "secteurs": ["industrie_viande"],
+  "departements": ["22", "29", "35", "56"],
+  "agences": [],
+  "mesures": [],
+  "infos_complementaires": [
+    {
+      "type": "avertissement",
+      "texte": "Les produits de la pêche et de l'aquaculture sont exclus : ils ne comptent pas dans les 70 % de matières premières de l'annexe I du TFUE exigés pour l'établissement. Un atelier qui transforme surtout du poisson, des crustacés ou des coquillages ne peut donc pas en bénéficier ; la viande (chapitre 2 de l'annexe I) est bien comprise."
+    },
+    {
+      "type": "avertissement",
+      "texte": "Les investissements liés au stockage ne sont pas éligibles."
+    },
+    {
+      "type": "info",
+      "texte": "Pour l'appel à projets n°2 (pré-demandes du 6 janvier 2025 au 30 janvier 2026), l'aide publique totale était comprise entre 150 000 €, ramenés à 100 000 € pour les PME, et 1 000 000 €. Vérifiez les montants et le calendrier de l'édition 2026 sur la page de la Région."
+    },
+    {
+      "type": "info",
+      "texte": "Le dossier se dépose sur Aiden, la plateforme dématérialisée de la Région Bretagne."
+    },
+    {
+      "type": "ressource",
+      "texte": "Page du PASS Compétitivité IAA 2026 sur le site de la Région Bretagne",
+      "lien": "https://www.bretagne.bzh/aides/fiches/pass-iaa-2026/"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "financeur, type",
+      "url": "https://web.archive.org/web/20251112201423/https://www.bretagne.bzh/aides/fiches/pass-competitivite-iaa-investissement-dans-les-industries-agroalimentaires-bretonnes/",
+      "date": "2026-09-24",
+      "extrait": "Type d'aide Subvention Cette aide est financée par les crédits européens sur le Fonds européen agricole pour le développement rural (FEADER) et des crédits régionaux."
+    },
+    {
+      "champ": "description",
+      "url": "https://web.archive.org/web/20251112201423/https://www.bretagne.bzh/aides/fiches/pass-competitivite-iaa-investissement-dans-les-industries-agroalimentaires-bretonnes/",
+      "date": "2026-09-24",
+      "extrait": "Cette aide vise à soutenir la compétitivité des entreprises agroalimentaires qui transforment, conditionnent et commercialisent des matières premières agricoles en leur permettant d'investir dans du matériel productif sur leurs sites bretons."
+    },
+    {
+      "champ": "description, categories",
+      "url": "https://web.archive.org/web/20251112201423/https://www.bretagne.bzh/aides/fiches/pass-competitivite-iaa-investissement-dans-les-industries-agroalimentaires-bretonnes/",
+      "date": "2026-09-24",
+      "extrait": "tels que les matériels d'abattage, de découpe, de cuisson, de filtration, de stérilisation, de lavage [...] le matériel de process permettant des économies d'énergie, d'eau, des déchets"
+    },
+    {
+      "champ": "eligibilite",
+      "url": "https://web.archive.org/web/20251112201423/https://www.bretagne.bzh/aides/fiches/pass-competitivite-iaa-investissement-dans-les-industries-agroalimentaires-bretonnes/",
+      "date": "2026-09-24",
+      "extrait": "Les entreprises agroalimentaires et les structures actives en lien avec les domaines de la transformation et/ou du conditionnement et/ou de la commercialisation de produits agricoles ou transformés (y/compris les créations d'entreprises)."
+    },
+    {
+      "champ": "eligibilite",
+      "url": "https://web.archive.org/web/20251112201423/https://www.bretagne.bzh/aides/fiches/pass-competitivite-iaa-investissement-dans-les-industries-agroalimentaires-bretonnes/",
+      "date": "2026-09-24",
+      "extrait": "les produits finis seront destinés majoritairement à l'alimentation humaine ou animale ; la clientèle de particulier sera minoritaire"
+    },
+    {
+      "champ": "eligibilite, infos_complementaires",
+      "url": "https://web.archive.org/web/20251112201423/https://www.bretagne.bzh/aides/fiches/pass-competitivite-iaa-investissement-dans-les-industries-agroalimentaires-bretonnes/",
+      "date": "2026-09-24",
+      "extrait": "l'établissement où se déroule le projet doit avoir au minimum 70 % des volumes totaux de matières premières entrantes issues de l'annexe 1 du traité sur le fonctionnement de l'Union Européenne (TFUE) à l'exception des produits de la pêche et de l'aquaculture"
+    },
+    {
+      "champ": "infos_complementaires",
+      "url": "https://web.archive.org/web/20251112201423/https://www.bretagne.bzh/aides/fiches/pass-competitivite-iaa-investissement-dans-les-industries-agroalimentaires-bretonnes/",
+      "date": "2026-09-24",
+      "extrait": "Maximum de 1 000 000 € Minimum de 150 000 €, exceptées pour les PME pour lesquelles l'aide publique ne pourra être inférieure à 100 000 €. [...] Les pré-demandes d'aides pourront être déposées entre le 06/01/2025 et le 30/01/2026."
+    },
+    {
+      "champ": "infos_complementaires",
+      "url": "https://web.archive.org/web/20251112201423/https://www.bretagne.bzh/aides/fiches/pass-competitivite-iaa-investissement-dans-les-industries-agroalimentaires-bretonnes/",
+      "date": "2026-09-24",
+      "extrait": "Dépenses non éligibles, notamment : Les investissements liés au stockage. [...] Le dépôt des dossiers se fait via Aiden (plateforme dématérialisée de la Région Bretagne)"
+    },
+    {
+      "champ": "infos_complementaires",
+      "url": "https://web.archive.org/web/20240518011547/https://www.bretagne.bzh/app/uploads/UE27-FEADER-IAA-Annexe-1-du-TFUE.pdf",
+      "date": "2026-09-24",
+      "extrait": "Chapitre 2 Viandes et abats comestibles"
+    }
+  ],
+  "date_maj": "2026-09-24"
+}

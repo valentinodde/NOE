@@ -1,0 +1,527 @@
+[
+  {
+    "id": "AIDE_FRL_001",
+    "nom": "Appel à projets Structuration de filières, AAP PAM 2026 (plan agriculture climat Méditerranée, FranceAgriMer)",
+    "financeur": "FranceAgriMer (fonds de transition et de souveraineté agricole)",
+    "logo_url": null,
+    "type": "subvention",
+    "taux": "Dépenses matérielles : 40 % pour les PME, 25 % pour les grandes entreprises. Dépenses immatérielles : 50 % pour les PME, 40 % pour les grandes entreprises.",
+    "plafond": "2 000 000 € d'aide par projet sur les dépenses matérielles et 400 000 € sur les dépenses immatérielles, soit 2 400 000 € au plus par projet",
+    "description": "Subvention à des projets collectifs de filière qui s'inscrivent dans une démarche territoriale labellisée « aire agricole de résilience climatique » (AARC). L'appel à projets soutient en priorité la structuration aval, la transformation, la logistique et la commercialisation, hors amont agricole et expérimentation. Il finance des investissements à l'aval des filières (collecte, tri, stockage, préparation et transformation des produits agricoles, immobilier lié au projet) et des dépenses immatérielles (personnel du projet, prestations d'études, de diagnostic et de conseil). La réduction de l'utilisation de l'eau fait partie des objectifs environnementaux attendus des projets.",
+    "eligibilite": "Chef de file dont l'objet principal est agricole ou agroalimentaire (entreprise de transformation, coopérative, négoce, collecteur, distributeur, chambre d'agriculture, interprofession, structure fédérative, centre technique), partenaire d'une démarche AARC préalablement labellisée. Projet collectif associant au moins un opérateur de l'amont agricole et une entreprise, mis en œuvre majoritairement dans l'un des 18 départements du plan, avec plus de 100 000 € de dépenses mêlant matériel et immatériel.",
+    "categories": [
+      "suivre_comprendre_maitriser",
+      "ameliorer_efficacite_hydrique",
+      "changer_process_pratiques",
+      "valoriser_reut_eaux_non_conventionnelles"
+    ],
+    "secteurs": [
+      "industrie_fruits_legumes"
+    ],
+    "departements": [
+      "04",
+      "06",
+      "07",
+      "11",
+      "13",
+      "2A",
+      "2B",
+      "26",
+      "30",
+      "31",
+      "32",
+      "34",
+      "47",
+      "66",
+      "81",
+      "82",
+      "83",
+      "84"
+    ],
+    "agences": [],
+    "mesures": [
+      "ACT_AGR_002",
+      "ACT_FRL_003",
+      "ACT_FRL_005",
+      "ACT_FRL_006",
+      "ACT_FRL_007"
+    ],
+    "infos_complementaires": [
+      {
+        "type": "avertissement",
+        "texte": "Le projet doit s'inscrire dans une démarche préalablement labellisée « aire agricole de résilience climatique » (AARC), réserves levées, et le chef de file doit figurer parmi les partenaires de cette démarche. Sans cette labellisation, le dossier n'est pas éligible : un investissement d'économie d'eau porté seul par une conserverie hors AARC ne relève pas de ce dispositif."
+      },
+      {
+        "type": "avertissement",
+        "texte": "Aucun devis ne doit être signé ni aucune commande passée avant l'accusé de réception de la demande par FranceAgriMer : un devis signé avant cette date est inéligible dans son entièreté."
+      },
+      {
+        "type": "avertissement",
+        "texte": "Le projet doit être collectif (au moins un opérateur de l'amont agricole et une entreprise, sauf coopérative ou interprofession seule), dépasser 100 000 € de dépenses et comporter à la fois des dépenses matérielles et immatérielles, chacune au plus 80 % du budget. Les travaux de mise aux normes, le simple renouvellement de matériel et le matériel d'occasion sont exclus."
+      },
+      {
+        "type": "info",
+        "texte": "Les mesures liées à cette aide le sont sous condition. La source ne cite aucun équipement d'économie d'eau : les investissements de lavage, d'épluchage, de recyclage de l'eau ou de valorisation de l'eau de végétation ne sont finançables que comme investissements de préparation ou de transformation, au titre de l'objectif de réduction de l'utilisation de l'eau, dans un projet collectif de filière inscrit dans une AARC et qui comporte à la fois des dépenses matérielles et immatérielles. Un audit eau n'est finançable que comme dépense immatérielle (prestation de diagnostic) d'un tel projet d'investissement, jamais seul. Les travaux de mise aux normes restent exclus."
+      },
+      {
+        "type": "avertissement",
+        "texte": "Sont exclus du bénéfice de l'aide, même s'ils peuvent être partenaires non financés ou prestataires : les exploitations agricoles, les instituts de recherche, les grandes entreprises dont le produit fini est hors annexe I du traité sur le fonctionnement de l'UE, les entreprises dont l'objet n'est pas agricole ou agroalimentaire, les entreprises en difficulté et celles qui ne sont pas à jour de leurs obligations fiscales, sanitaires et environnementales. Un même SIRET ne peut déposer qu'une seule demande, et les devis doivent dater de moins de trois mois avant le dépôt."
+      },
+      {
+        "type": "info",
+        "texte": "Édition 2026 (lue le 25 septembre 2026) : la relève du 11 septembre 2026 est passée ; seule reste celle du 19 octobre 2026, sous réserve de crédits encore disponibles. Le dépôt se fait sur la téléprocédure PAD de FranceAgriMer, par le chef de file uniquement. Enveloppe de 7,5 millions d'euros. Un indicateur d'impact environnemental est obligatoire, par exemple le volume d'eau économisé en m³."
+      },
+      {
+        "type": "info",
+        "texte": "La FAQ de l'appel à projets ne contraint pas FranceAgriMer : en cas de litige, seule la décision du directeur général de FranceAgriMer (INTV-SIIF-2026-37) fait foi."
+      },
+      {
+        "type": "ressource",
+        "texte": "Page de l'appel à projets sur le site de FranceAgriMer",
+        "lien": "https://www.franceagrimer.fr/aides/appel-projets-structuration-de-filieres-aap-pam-2026"
+      },
+      {
+        "type": "ressource",
+        "texte": "Foire aux questions de l'appel à projets",
+        "lien": "https://www.franceagrimer.fr/sites/default/files/2026-08/FAQ_AAP_PAM_2026_0.pdf"
+      },
+      {
+        "type": "ressource",
+        "texte": "Téléprocédure de dépôt (PAD FranceAgriMer)",
+        "lien": "https://padcollecte.franceagrimer.fr/padcollecte-usager/#/detail?cdDispositif=PAM-FILIERES26"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "taux, plafond",
+        "url": "https://www.franceagrimer.fr/aides/appel-projets-structuration-de-filieres-aap-pam-2026",
+        "date": "2026-09-25",
+        "extrait": "L'aide publique aux dépenses matérielles est plafonnée à 40 % maximum du coût total éligible de ces dépenses pour les PME et 25 % maximum pour les GE, dans la limite de 2 000 000 euros par projet."
+      },
+      {
+        "champ": "taux, plafond",
+        "url": "https://www.franceagrimer.fr/aides/appel-projets-structuration-de-filieres-aap-pam-2026",
+        "date": "2026-09-25",
+        "extrait": "L'aide publique aux dépenses immatérielles est plafonnée à 50 % maximum du coût total éligible de ces dépenses pour les PME et 40 % maximum pour les GE, dans la limite de 400 000 euros par projet."
+      },
+      {
+        "champ": "plafond, type",
+        "url": "https://www.franceagrimer.fr/sites/default/files/2026-08/FAQ_AAP_PAM_2026_0.pdf",
+        "date": "2026-09-25",
+        "extrait": "L'aide maximum par projet est de 2 400 000 € (400 000 € sur les dépenses immatérielles + 2 000 000 € sur les dépenses matérielles). [...] L'aide prend la forme d'une subvention."
+      },
+      {
+        "champ": "departements",
+        "url": "https://www.franceagrimer.fr/aides/appel-projets-structuration-de-filieres-aap-pam-2026",
+        "date": "2026-09-25",
+        "extrait": "Alpes-de-Haute-Provence, Alpes-Maritimes, Ardèche, Aude, Bouches-du-Rhône, Corse-du-Sud, Drôme, Gard, Haute-Corse, Haute-Garonne, Gers, Hérault, Lot-et-Garonne, Pyrénées-Orientales, Tarn, Tarn-et-Garonne, Var et Vaucluse."
+      },
+      {
+        "champ": "description, eligibilite, infos_complementaires",
+        "url": "https://www.franceagrimer.fr/sites/default/files/2026-08/FAQ_AAP_PAM_2026_0.pdf",
+        "date": "2026-09-25",
+        "extrait": "Mon projet doit-il obligatoirement être labellisé AARC ? Oui. Le projet doit s'inscrire dans le cadre d'une démarche préalablement labellisée « aire agricole de résilience climatique » (AARC) [...] Sans cette labellisation préalable, le dossier ne sera pas éligible."
+      },
+      {
+        "champ": "eligibilite",
+        "url": "https://www.franceagrimer.fr/aides/appel-projets-structuration-de-filieres-aap-pam-2026",
+        "date": "2026-09-25",
+        "extrait": "Les demandeurs sont des acteurs dont l'objet principal est agricole ou agroalimentaire : collecteur, coopérative, entreprise de transformation agroalimentaire, négoce, distributeur ; chambre d'agriculture ; [...] Le chef de file doit être un des partenaires identifiés dans la démarche labellisée AARC."
+      },
+      {
+        "champ": "eligibilite, infos_complementaires",
+        "url": "https://www.franceagrimer.fr/aides/appel-projets-structuration-de-filieres-aap-pam-2026",
+        "date": "2026-09-25",
+        "extrait": "Les dépenses présentées par projet doivent être supérieures à 100 000 euros. [...] Les projets doivent présenter à la fois des dépenses matérielles et des dépenses immatérielles. [...] Un opérateur de l'amont agricole et une entreprise doivent toujours être représentés dans le partenariat."
+      },
+      {
+        "champ": "description, mesures",
+        "url": "https://www.franceagrimer.fr/aides/appel-projets-structuration-de-filieres-aap-pam-2026",
+        "date": "2026-09-25",
+        "extrait": "le coût des investissements à l'aval des filières (hors production agricole), relatifs par exemple à la collecte, au tri, au commerce de gros, au stockage [...], à la préparation et à la transformation des produits agricoles"
+      },
+      {
+        "champ": "description, mesures",
+        "url": "https://www.franceagrimer.fr/aides/appel-projets-structuration-de-filieres-aap-pam-2026",
+        "date": "2026-09-25",
+        "extrait": "dans les domaines environnemental et sanitaire (transition écologique, adaptation des pratiques au changement climatique, développement des alternatives à l'utilisation des produits phytosanitaires, réduction des émissions des gaz à effet de serre et de l'utilisation de l'eau"
+      },
+      {
+        "champ": "mesures",
+        "url": "https://www.franceagrimer.fr/aides/appel-projets-structuration-de-filieres-aap-pam-2026",
+        "date": "2026-09-25",
+        "extrait": "les prestations extérieures juridiques, financières, informatiques, d'études, de diagnostic et de conseils, directement en lien avec le projet ; ces prestations sont plafonnées à 50 % du coût éligible des dépenses totales du projet."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.franceagrimer.fr/sites/default/files/2026-08/FAQ_AAP_PAM_2026_0.pdf",
+        "date": "2026-09-25",
+        "extrait": "Un devis signé avant l'ACT est-il éligible ? Non. [...] Le devis devient inéligible dans son entièreté."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.franceagrimer.fr/sites/default/files/2026-08/FAQ_AAP_PAM_2026_0.pdf",
+        "date": "2026-09-25",
+        "extrait": "travaux de mise aux normes ; entretien et simple renouvellement des matériels ; [...] matériel d'occasion ou reconditionné"
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.franceagrimer.fr/sites/default/files/2026-08/FAQ_AAP_PAM_2026_0.pdf",
+        "date": "2026-09-25",
+        "extrait": "Au moins un indicateur d'impact environnemental est obligatoire. [...] volume d'eau économisé (m³)"
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.franceagrimer.fr/aides/appel-projets-structuration-de-filieres-aap-pam-2026",
+        "date": "2026-09-25",
+        "extrait": "La période de dépôt des projets ouvre le 29/06/2026. Relèves des dossiers : 11 septembre 2026 et 19 octobre 2026 (cette seconde relève est sous réserve de crédits encore disponibles). [...] L'enveloppe allouée à ce dispositif est de 7,5 millions d'euros d'aide."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.franceagrimer.fr/sites/default/files/2026-08/FAQ_AAP_PAM_2026_0.pdf",
+        "date": "2026-09-25",
+        "extrait": "Cette Foire Aux Questions (FAQ) ne contraint pas FranceAgriMer. En cas de litige, seule la décision du Directeur général de FranceAgriMer publiée au Bulletin Officiel du Ministère en charge de l'agriculture fait foi."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.franceagrimer.fr/sites/default/files/2026-08/FAQ_AAP_PAM_2026_0.pdf",
+        "date": "2026-09-25",
+        "extrait": "Sont exclues du bénéfice de l'aide (mais peuvent être partenaires non financés ou prestataires) : les exploitations agricoles, les instituts de recherche, les grandes entreprises (GE) dont le produit fini est hors annexe I du traité UE, les entreprises dont l'objet n'est pas agricole ou agroalimentaire, les entreprises en difficulté, les entreprises qui ne sont pas à jour de leurs obligations fiscales, sanitaires et environnementales"
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.franceagrimer.fr/sites/default/files/2026-08/FAQ_AAP_PAM_2026_0.pdf",
+        "date": "2026-09-25",
+        "extrait": "Non, un même demandeur (SIRET) ne peut déposer qu'une seule demande d'aide dans le cadre de cet appel à projets."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.franceagrimer.fr/sites/default/files/2026-08/FAQ_AAP_PAM_2026_0.pdf",
+        "date": "2026-09-25",
+        "extrait": "Les devis présentés doivent être datés de moins de 3 mois avant la date de dépôt du dossier (ACT)."
+      },
+      {
+        "champ": "infos_complementaires, mesures",
+        "url": "https://www.franceagrimer.fr/sites/default/files/2026-08/FAQ_AAP_PAM_2026_0.pdf",
+        "date": "2026-09-25",
+        "extrait": "Les projets doivent présenter à la fois des dépenses matérielles et des dépenses immatérielles. À défaut, le projet ne peut pas être considéré comme éligible."
+      }
+    ],
+    "date_maj": "2026-09-25"
+  },
+  {
+    "id": "AIDE_FRL_002",
+    "nom": "Guichet maturation des projets de filières 2026 (plan agriculture climat Méditerranée, FranceAgriMer)",
+    "financeur": "FranceAgriMer",
+    "logo_url": null,
+    "type": "subvention",
+    "taux": "80 % maximum du coût total éligible des dépenses immatérielles",
+    "plafond": "50 000 € d'aide par demande. Dépenses présentées d'au moins 10 000 € HT. Aide de minimis, dans la limite de 300 000 € par entreprise unique sur trois ans.",
+    "description": "Guichet du plan « agriculture climat Méditerranée » (PAM) qui soutient la phase de maturation d'un projet de structuration de filière avant son dépôt à l'appel à projets « structuration de filières, PAM 2026 ». Le projet doit s'inscrire dans une démarche territoriale d'adaptation ou d'atténuation au changement climatique préalablement labellisée « aire agricole de résilience climatique » (AARC). Seules les dépenses immatérielles sont éligibles : salaires et charges du personnel du chef de file ou des partenaires directement impliqué dans le projet, et prestations extérieures juridiques, financières, informatiques, d'études, de formation, de diagnostics environnementaux (analyse du cycle de vie, bilan carbone) et de conseils techniques, ces prestations étant limitées à 60 % du coût éligible. Les investissements matériels sont exclus.",
+    "eligibilite": "Une entreprise de transformation agroalimentaire peut déposer, mais pas seule : le projet doit être collectif, avec au moins deux partenaires indépendants relevant d'au moins deux maillons de la filière, dont obligatoirement un opérateur de l'amont agricole, et être inscrit comme action « Projet de filière » dans une démarche AARC labellisée dont le chef de file est partenaire. Le territoire du projet doit se situer majoritairement dans l'un des 18 départements du périmètre. Seules les coopératives et interprofessions peuvent déposer sans partenaire, à condition que le projet soit transformant pour la filière de l'amont à l'aval et bien ancré dans une démarche territorialisée labellisée AARC.",
+    "categories": [],
+    "secteurs": [
+      "industrie_fruits_legumes"
+    ],
+    "departements": [
+      "04",
+      "06",
+      "13",
+      "83",
+      "84",
+      "2A",
+      "2B",
+      "07",
+      "26",
+      "11",
+      "30",
+      "31",
+      "32",
+      "34",
+      "66",
+      "81",
+      "82",
+      "47"
+    ],
+    "agences": [],
+    "mesures": [],
+    "infos_complementaires": [
+      {
+        "type": "avertissement",
+        "texte": "Toute dépense engagée avant l'accusé de réception du dossier par FranceAgriMer, qui vaut autorisation de commencer les travaux, est inéligible : un devis ou un bon de commande signé avant cette date rend la dépense irrecevable."
+      },
+      {
+        "type": "avertissement",
+        "texte": "Sans courrier de labellisation AARC dont l'annexe intègre une action de type « Projet de filière » correspondant au dossier et identifiant le chef de file parmi les partenaires de la démarche, la demande n'est pas recevable. Une entreprise qui n'est pas partenaire de la démarche AARC ne peut donc ni être chef de file ni déposer la demande, mais elle peut participer au projet comme partenaire financé."
+      },
+      {
+        "type": "info",
+        "texte": "Session 2026 : dépôt du 29 juin au 31 octobre 2026 sur la téléprocédure de FranceAgriMer, enveloppe de 500 000 €, dossiers traités dans l'ordre d'arrivée jusqu'à épuisement des crédits. Un même chef de file ne dépose qu'une demande. Contact : pam-maturation@franceagrimer.fr."
+      },
+      {
+        "type": "ressource",
+        "texte": "Page du dispositif sur le site de FranceAgriMer",
+        "lien": "https://www.franceagrimer.fr/aides/guichet-maturation-des-projets-de-filieres-2026"
+      },
+      {
+        "type": "ressource",
+        "texte": "Décision INTV-SIIF-2026-36 (conditions d'éligibilité, dépenses, périmètre géographique)",
+        "lien": "https://www.franceagrimer.fr/sites/default/files/2026-06/D%C3%A9cision_INTV-SIIF-2026-36_guichet%20maturation_PAM%202026.pdf"
+      },
+      {
+        "type": "ressource",
+        "texte": "Téléprocédure de dépôt",
+        "lien": "https://padcollecte.franceagrimer.fr/padcollecte-usager/#/detail?cdDispositif=PAM-MATURATION26"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "taux, plafond",
+        "url": "https://www.franceagrimer.fr/sites/default/files/2026-06/D%C3%A9cision_INTV-SIIF-2026-36_guichet%20maturation_PAM%202026.pdf",
+        "date": "2026-09-25",
+        "extrait": "L'aide publique aux dépenses immatérielles [...] est plafonnée à 80 % maximum du coût total éligible de ces dépenses, dans la limite de 50 000 euros d'aide par demande d'aide. [...] Le montant minimal des dépenses présentées dans la demande d'aide est fixé à 10 000 euros HT."
+      },
+      {
+        "champ": "plafond (de minimis)",
+        "url": "https://www.franceagrimer.fr/sites/default/files/2026-06/D%C3%A9cision_INTV-SIIF-2026-36_guichet%20maturation_PAM%202026.pdf",
+        "date": "2026-09-25",
+        "extrait": "Les aides accordées à une entreprise unique au titre de ce règlement ne doivent pas excéder un plafond de 300 000 euros par entreprise unique sur une période de trois ans"
+      },
+      {
+        "champ": "description",
+        "url": "https://www.franceagrimer.fr/sites/default/files/2026-06/D%C3%A9cision_INTV-SIIF-2026-36_guichet%20maturation_PAM%202026.pdf",
+        "date": "2026-09-25",
+        "extrait": "Le PAM a pour objectif d'accompagner la structuration et la mise en œuvre de démarches territoriales d'atténuation et/ou d'adaptation de l'agriculture au changement climatique [...] Les projets de filières s'inscrivant dans une démarche préalablement labellisée « aires agricoles de résilience climatiques » (AARC), peuvent être présentés dans le cadre de ce guichet maturation. (Mots-clés : [...] gestion de la ressource en eau, résilience climatique)"
+      },
+      {
+        "champ": "description (dépenses éligibles)",
+        "url": "https://www.franceagrimer.fr/sites/default/files/2026-06/D%C3%A9cision_INTV-SIIF-2026-36_guichet%20maturation_PAM%202026.pdf",
+        "date": "2026-09-25",
+        "extrait": "seules les dépenses immatérielles listées ci-dessous sont éligibles : le salaire brut et les charges patronales [...] du personnel du chef de file ou des partenaires [...] les prestations extérieures juridiques, financières, informatiques, d'études, de formation, de diagnostics environnementaux (analyse du cycle de vie (ACV), bilan carbone...) et de conseils techniques [...] plafonnées à 60 % du coût total éligible [...] Les dépenses inéligibles sont notamment : [...] les investissements matériels"
+      },
+      {
+        "champ": "eligibilite",
+        "url": "https://www.franceagrimer.fr/sites/default/files/2026-06/D%C3%A9cision_INTV-SIIF-2026-36_guichet%20maturation_PAM%202026.pdf",
+        "date": "2026-09-25",
+        "extrait": "Les demandeurs éligibles sont les acteurs suivants : collecteur, coopérative, entreprise de transformation agroalimentaire, négoce, distributeur [...] Le projet déposé doit s'inscrire dans le cadre d'une démarche collective impliquant au moins deux partenaires. [...] Un opérateur de l'amont agricole doit toujours être représenté dans le partenariat. À défaut, le projet ne peut être considéré comme collectif et est inéligible. [...] deux au moins doivent être indépendants, relevant d'au moins deux maillons différents [...] Pour les projets de coopératives ou d'interprofessions, la présence d'un partenaire autre que le porteur de projet n'est pas obligatoire, si le projet est transformant pour la filière de l'amont à l'aval et qu'il est bien ancré dans une démarche territorialisée labellisée AARC."
+      },
+      {
+        "champ": "departements",
+        "url": "https://www.franceagrimer.fr/sites/default/files/2026-06/D%C3%A9cision_INTV-SIIF-2026-36_guichet%20maturation_PAM%202026.pdf",
+        "date": "2026-09-25",
+        "extrait": "Seuls sont éligibles les projets dont le territoire de mise en œuvre se situe majoritairement dans au moins l'un des départements suivants : Alpes-de-Haute-Provence, Alpes-Maritimes, Bouches-du-Rhône, Var, et Vaucluse [...] Corse-du-Sud et Haute-Corse [...] Ardèche et Drôme [...] Aude, Gard, Haute-Garonne, Gers, Hérault, Pyrénées-Orientales, Tarn et Tarn-et-Garonne [...] Lot-et-Garonne"
+      },
+      {
+        "champ": "infos_complementaires (avertissements)",
+        "url": "https://www.franceagrimer.fr/sites/default/files/2026-06/D%C3%A9cision_INTV-SIIF-2026-36_guichet%20maturation_PAM%202026.pdf",
+        "date": "2026-09-25",
+        "extrait": "Toutes les dépenses engagées avant la date d'autorisation de commencer les travaux (ACT), comme par exemple un devis ou un bon de commande signé, sont inéligibles. [...] le courrier de labellisation [...] de la démarche AARC dont l'annexe (i) intègre une action de type « Projet de filière » correspondant au dossier déposé, et (ii) identifie le chef de file comme l'un des partenaires de la démarche labellisée"
+      },
+      {
+        "champ": "infos_complementaires (calendrier, enveloppe, contact, téléprocédure)",
+        "url": "https://www.franceagrimer.fr/aides/guichet-maturation-des-projets-de-filieres-2026",
+        "date": "2026-09-25",
+        "extrait": "Ouverture : 29/06/2026. Clôture : 31/10/2026. [...] Cet accusé de réception vaut autorisation de commencer les travaux (ACT). [...] pam-maturation@franceagrimer.fr"
+      },
+      {
+        "champ": "infos_complementaires (enveloppe, une demande par chef de file)",
+        "url": "https://www.franceagrimer.fr/sites/default/files/2026-06/D%C3%A9cision_INTV-SIIF-2026-36_guichet%20maturation_PAM%202026.pdf",
+        "date": "2026-09-25",
+        "extrait": "Une enveloppe financière de 500 000 euros est dédiée à ce dispositif. Les demandes ne peuvent recevoir une suite favorable que dans la limite des crédits disponibles, sur le principe du « premier arrivé, premier servi ». [...] Un même chef de file ne peut bénéficier que d'une seule aide sur le présent dispositif"
+      },
+      {
+        "champ": "infos_complementaires (chef de file et partenaires financés)",
+        "url": "https://www.franceagrimer.fr/sites/default/files/2026-06/D%C3%A9cision_INTV-SIIF-2026-36_guichet%20maturation_PAM%202026.pdf",
+        "date": "2026-09-25",
+        "extrait": "Les partenaires du projet identifient une structure « chef de file » qui est l'interlocuteur unique de FranceAgriMer. Le chef de file doit être un des partenaires identifiés dans la démarche labellisée AARC. [...] Le chef de file est également responsable de la notification, auprès de ses partenaires financés, du montant d'aide de minimis octroyé pour chacun"
+      }
+    ],
+    "date_maj": "2026-09-25"
+  },
+  {
+    "id": "AIDE_FRL_003",
+    "nom": "Aide aux investissements productifs dans l'agroalimentaire (Région Nouvelle-Aquitaine, crédits régionaux et FEADER)",
+    "financeur": "Région Nouvelle-Aquitaine (crédits régionaux ; pour les projets d'au moins 300 000 € HT, crédits européens FEADER avec la Région et, le cas échéant, les Départements comme cofinanceurs)",
+    "logo_url": null,
+    "type": "subvention",
+    "taux": "Taux modulés selon les critères de sélection. Pour les projets cofinancés par le FEADER : 20 % d'aide publique de base, jusqu'à 40 % avec les bonifications",
+    "plafond": "Projets de 120 000 € à 3 millions d'euros. Volet FEADER : dépenses éligibles plafonnées à 3 000 000 € HT, 5 000 000 € HT pour les projets fortement créateurs d'emplois",
+    "description": "Aide de la Région aux entreprises qui transforment, conditionnent et commercialisent des produits agricoles et portent un projet d'investissements productifs : création, extension ou modernisation des unités de production. Sont éligibles les matériels et équipements neufs, les dépenses immatérielles (logiciels, brevets) et les frais de prestations (maîtrise d'œuvre, diagnostics RSE, études et ingénierie) ; les bâtiments ne le sont que pour l'abattage et la découpe ou pour les entreprises récentes en zone à enjeux. L'aide est versée sous forme de prêt ou de subvention.",
+    "eligibilite": "Entreprises agroalimentaires (sociétés commerciales, coopératives agricoles et leurs unions ou filiales, Cuma, SICA) ayant une activité de stockage-conditionnement, de transformation et de commercialisation de produits agricoles ; groupements d'agriculteurs ou structures collectives majoritairement détenues par des agriculteurs, avec ou sans commercialisation ; sociétés de services qu'ils détiennent. Les produits de la pêche et de l'aquaculture sont exclus. Projet situé en Nouvelle-Aquitaine. Priorité aux PME et ETI ; les entreprises en difficulté sont exclues.",
+    "categories": [],
+    "secteurs": [
+      "industrie_fruits_legumes"
+    ],
+    "departements": [
+      "16",
+      "17",
+      "19",
+      "23",
+      "24",
+      "33",
+      "40",
+      "47",
+      "64",
+      "79",
+      "86",
+      "87"
+    ],
+    "agences": [],
+    "mesures": [],
+    "infos_complementaires": [
+      {
+        "type": "info",
+        "texte": "L'eau n'est pas une dépense ciblée par ce dispositif : c'est une aide générale à l'investissement productif. Le texte FEADER cite l'utilisation efficace de l'énergie et de l'eau parmi les process que le dispositif entend favoriser, et la page de la Région retient la dimension environnementale ou énergétique du projet parmi les critères qui modulent l'aide. Un équipement économe en eau peut donc y entrer s'il fait partie d'un programme d'investissements productifs, sans bonification propre à l'eau."
+      },
+      {
+        "type": "avertissement",
+        "texte": "La date de début d'éligibilité des dépenses est celle de la réception par la Région de la demande préalable datée, complète et signée ; l'accusé de réception de pré-demande vous indique cette date. Tout commencement du projet avant elle (premier devis signé ou bon de commande) rend la dépense inéligible : par prudence, attendez l'accusé de réception avant de vous engager."
+      },
+      {
+        "type": "avertissement",
+        "texte": "Sont exclus notamment le simple remplacement, le matériel d'occasion, les dépenses de mise aux normes ou liées à une obligation réglementaire et les investissements financés en crédit-bail."
+      },
+      {
+        "type": "avertissement",
+        "texte": "Au-delà de 300 000 € d'investissement, une démarche de responsabilité sociétale (RSE) conduite par des experts externes qualifiés ou un pré-diagnostic Usine du Futur est obligatoire ; au-delà de 1,5 million d'euros, la démarche RSE par des experts externes est exigée."
+      },
+      {
+        "type": "info",
+        "texte": "Les projets dont l'assiette éligible est inférieure à 300 000 € HT sont financés sur crédits de la Région seule ; au-delà, le dispositif FEADER 73.03.01 prend le relais, avec un taux de base de 20 % bonifié de 10 points notamment en zone de montagne ou territoire CADET, pour un projet collectif d'agriculteurs ou un projet majoritairement bio (40 % au maximum). Pour être cofinancé par le FEADER, le produit sortant doit relever de l'annexe I du TFUE ; les PME dont les produits sortants n'en relèvent pas sont orientées vers le FEDER. Pour les entreprises dont les produits sortants sont agricoles, les projets dont le coût éligible dépasse un seuil fixé en comité de suivi basculent sur des financements FEDER."
+      },
+      {
+        "type": "info",
+        "texte": "Les dossiers sont étudiés au fil de leur réception. La fiche de demande préalable est à envoyer par mail au service agroalimentaire de la Région (iaa@nouvelle-aquitaine.fr) ; pour le volet FEADER, l'accusé de réception indique ensuite comment déposer le dossier complet sur Mes Démarches en Nouvelle-Aquitaine (MDNA). Renseignements : Direction de l'agriculture, des IAA et de la pêche, service Relation aux usagers, 05 49 38 49 38."
+      },
+      {
+        "type": "ressource",
+        "texte": "Page du dispositif sur le guide des aides de la Région Nouvelle-Aquitaine",
+        "lien": "https://les-aides.nouvelle-aquitaine.fr/economie-et-emploi/aide-aux-investissements-productifs-dans-lagroalimentaire"
+      },
+      {
+        "type": "ressource",
+        "texte": "Fiche de demande préalable (tableur) à renvoyer au service agroalimentaire",
+        "lien": "https://les-aides.nouvelle-aquitaine.fr/system/files/specific_pj_files/Fiche_demande%20%28xls%29.xlsx"
+      },
+      {
+        "type": "ressource",
+        "texte": "Cahier des charges du dispositif FEADER 73.03.01 (version 2.0 du 20 mars 2024) : dépenses éligibles, grille de sélection, taux et bonifications",
+        "lien": "https://www.europe-en-nouvelle-aquitaine.eu/sites/default/files/2024-03/240320_Cahier_charges_IAA_V2.0.pdf"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "description, eligibilite",
+        "url": "https://les-aides.nouvelle-aquitaine.fr/economie-et-emploi/aide-aux-investissements-productifs-dans-lagroalimentaire",
+        "date": "2026-09-25",
+        "extrait": "Renforcer la compétitivité et l’innovation des entreprises agroalimentaires de la Nouvelle-Aquitaine par la création, l’extension et la modernisation des unités de production [...] Structures ayant une activité de stockage-conditionnement, de transformation de produits et de leur commercialisation [...] Priorité aux PME et ETI."
+      },
+      {
+        "champ": "type, taux, plafond, description",
+        "url": "https://les-aides.nouvelle-aquitaine.fr/economie-et-emploi/aide-aux-investissements-productifs-dans-lagroalimentaire",
+        "date": "2026-09-25",
+        "extrait": "Sous forme de prêts ou de subventions avec des taux d’intervention modulés en fonction des critères mentionnés ci-dessus (dans la limite des taux autorisés par les règlements européens et/ou les régimes d’aides d’Etat). [...] Projet de 120 000 € à 3 millions d'euros"
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://les-aides.nouvelle-aquitaine.fr/economie-et-emploi/aide-aux-investissements-productifs-dans-lagroalimentaire",
+        "date": "2026-09-25",
+        "extrait": "Dimension environnementale ou énergétique du projet [...] Projet d'investissement supérieur à 300 000 € : une démarche de responsabilité sociétale par des experts externes qualifiés ou Usine du Futur est obligatoire, Projet d'investissement supérieur à 1,5 millions d’euros : l’entreprise devra réaliser une démarche de responsabilité sociétale par des experts externes qualifiés."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://les-aides.nouvelle-aquitaine.fr/economie-et-emploi/aide-aux-investissements-productifs-dans-lagroalimentaire",
+        "date": "2026-09-25",
+        "extrait": "Etude des dossiers au fil de leur réception [...] Les dossiers sont à envoyer par mail à l'adresse iaa@nouvelle-aquitaine.fr [...] Direction de l’agriculture des IAA et de la pêche Service Relation aux Usagers 05 49 38 49 38"
+      },
+      {
+        "champ": "departements",
+        "url": "https://les-aides.nouvelle-aquitaine.fr/economie-et-emploi/aide-aux-investissements-productifs-dans-lagroalimentaire",
+        "date": "2026-09-25",
+        "extrait": "Charente (16) Charente-Maritime (17) Corrèze (19) Creuse (23) Dordogne (24) Gironde (33) Landes (40) Lot-et-Garonne (47) Pyrénées-Atlantiques (64) Deux-Sèvres (79) Vienne (86) Haute-Vienne (87) Autre (hors Nouvelle-Aquitaine)"
+      },
+      {
+        "champ": "eligibilite, departements",
+        "url": "https://www.europe-en-nouvelle-aquitaine.eu/sites/default/files/2024-03/240320_Cahier_charges_IAA_V2.0.pdf",
+        "date": "2026-09-25",
+        "extrait": "les entreprises agroalimentaires (sociétés commerciales, coopératives agricoles et leurs unions ou filiales, les Cuma, les Sociétés d’Intérêt Collectif Agricole…) [...] Ces bénéficiaires sont éligibles, sous réserve de bénéficier d’une situation financière saine (entreprises qui ne sont pas en difficulté au sens des lignes directrices de l’Union). [...] Le projet d'investissement doit être localisé en Nouvelle-Aquitaine."
+      },
+      {
+        "champ": "description",
+        "url": "https://www.europe-en-nouvelle-aquitaine.eu/sites/default/files/2024-03/240320_Cahier_charges_IAA_V2.0.pdf",
+        "date": "2026-09-25",
+        "extrait": "Investissements matériels et équipements neufs, Investissements bâtiments et aménagements intérieurs pour les seuls projets d’investissements relatifs à l’abattage et/ou à la découpe d’animaux et/ou viandes, ou relatifs à des projets portés par des entreprises créées dans les deux années précédant la date de dépôt de la demande et localisées dans les zones suivantes [...] Dépenses immatérielles : acquisition logiciels informatiques, brevets, licences, droits d’auteur et marques commerciales, Frais de prestations : honoraires d'architecte/Maîtrise d’œuvre, diagnostics RSE, études et ingénierie."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.europe-en-nouvelle-aquitaine.eu/sites/default/files/2024-03/240320_Cahier_charges_IAA_V2.0.pdf",
+        "date": "2026-09-25",
+        "extrait": "A travers son soutien aux projets privilégiant des process ou des itinéraires techniques respectueux de l’environnement (utilisation efficace de l’énergie/eau, valorisation coproduits…) ou intégrant des innovations technologiques et non technologiques, ce dispositif contribue notamment aux objectifs transversaux en matière d’innovation et d’environnement."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.europe-en-nouvelle-aquitaine.eu/sites/default/files/2024-03/240320_Cahier_charges_IAA_V2.0.pdf",
+        "date": "2026-09-25",
+        "extrait": "Après réception de la fiche de demande préalable, la Région Nouvelle-Aquitaine enverra au demandeur un accusé de réception de pré demande indiquant la date de début d’éligibilité des dépenses du projet (date de début d’exécution). Tout commencement du projet avant la date de début d’éligibilité des dépenses rendra la dépense concernée inéligible. Le début d’exécution des opérations se définit comme le premier acte juridique, par exemple un devis signé ou un bon de commande"
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.europe-en-nouvelle-aquitaine.eu/sites/default/files/2024-03/240320_Cahier_charges_IAA_V2.0.pdf",
+        "date": "2026-09-25",
+        "extrait": "Investissements de simple remplacement, les matériels et équipements d’occasion, les équipements mobiles non liés à un outil de production, Dépenses visant la mise aux normes ou obligations réglementaires, [...] Investissements financés en crédit-bail."
+      },
+      {
+        "champ": "taux, plafond, infos_complementaires",
+        "url": "https://www.europe-en-nouvelle-aquitaine.eu/sites/default/files/2024-03/240320_Cahier_charges_IAA_V2.0.pdf",
+        "date": "2026-09-25",
+        "extrait": "Le projet (assiette éligible) doit répondre à un critère de taille minimale de 300 000 € HT. [...] Le plafond de dépenses éligibles est fixé à 3 000 000 € HT . Une majoration de ce plafond à 5 000 000 € HT est prévue pour les projets fortement créateurs d’emplois [...] Le taux d’aide publique de base est de 20 %. [...] Les bonus peuvent être cumulables dans la limite du Taux Maximum d’Aides Publiques de 40 %."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.europe-en-nouvelle-aquitaine.eu/sites/default/files/2024-03/240320_Cahier_charges_IAA_V2.0.pdf",
+        "date": "2026-09-25",
+        "extrait": "Un bonus de 10 % est accordé aux projets en fonction : du territoire de réalisation du projet : Zone de montagne et/ou classé CADET [...] Un bonus supplémentaire de 10 % intervient dans les cas suivants : caractère collaboratif du projet (collectif d’agriculteurs, composé au moins de 3 exploitations agricoles, dont les coopératives agricoles), OU [...] OU projet d’investissement majoritairement dédié à la fabrication de produits certifiés Agriculture Biologique"
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.europe-en-nouvelle-aquitaine.eu/sites/default/files/2024-03/240320_Cahier_charges_IAA_V2.0.pdf",
+        "date": "2026-09-25",
+        "extrait": "Le résultat du processus de production doit être un produit de l’Annexe I du TFUE. [...] Les projets présentés par des PME agroalimentaires dont les produits sortants ne sont pas agricoles (hors annexe 1) sont orientés vers le FEDER. [...] L’accusé de réception de pré-demande précisera les modalités de dépôt de la demande complète qui doit être faite dans l’outil Mes Démarches en Nouvelle-Aquitaine (MDNA)"
+      },
+      {
+        "champ": "financeur, infos_complementaires",
+        "url": "https://www.europe-en-nouvelle-aquitaine.eu/sites/default/files/2025-01/PSR_V4.5.pdf",
+        "date": "2026-09-25",
+        "extrait": "Les projets dont les produits sortants sont des produits agricoles (annexe 1 du TFUE) et dont l’assiette éligible est < 300 000 € HT relèvent des dispositifs financés par les crédits de la Région Nouvelle-Aquitaine, hors PSR [...] Le taux d’aide de base est de 20 % [...] Taux de cofinancement FEADER 60% Type de soutien Subvention"
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.europe-en-nouvelle-aquitaine.eu/sites/default/files/2024-03/240320_Cahier_charges_IAA_V2.0.pdf",
+        "date": "2026-09-25",
+        "extrait": "La date de début d’éligibilité des dépenses est fixée à la date de réception par la Région Nouvelle-Aquitaine d’une demande d’aide datée, complétée et signée par le bénéficiaire*, avec les informations minimales suivantes"
+      },
+      {
+        "champ": "eligibilite",
+        "url": "https://www.europe-en-nouvelle-aquitaine.eu/sites/default/files/2024-03/240320_Cahier_charges_IAA_V2.0.pdf",
+        "date": "2026-09-25",
+        "extrait": "transformation de produits agricoles (à l'exception des produits de la pêche-aquaculture) [...] les groupements d’agriculteurs ou structures collectives majoritairement détenues par des agriculteurs avec une activité de stockage-conditionnement, transformation de produits agricoles, avec ou sans commercialisation (outils en propres ou outils en prestation de services)"
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.europe-en-nouvelle-aquitaine.eu/sites/default/files/2024-03/240320_Cahier_charges_IAA_V2.0.pdf",
+        "date": "2026-09-25",
+        "extrait": "Pour les entreprises dont les produits sortants sont des produits agricoles (annexe 1 du TFUE), une ligne de partage fondée sur un seuil de coût éligible des projets a été définie au-delà duquel, le projet bascule sur des financements du PO FEDER (plafond dont le montant est validé en comité de suivi)."
+      },
+      {
+        "champ": "financeur",
+        "url": "https://www.europe-en-nouvelle-aquitaine.eu/sites/default/files/2025-01/PSR_V4.5.pdf",
+        "date": "2026-09-25",
+        "extrait": "Type de soutien Subvention Top up Oui Co financeurs principaux/ponctuels Région, Département"
+      }
+    ],
+    "date_maj": "2026-09-25"
+  }
+]

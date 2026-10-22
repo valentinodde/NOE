@@ -1,0 +1,104 @@
+{
+  "id": "PREST_HOT_005",
+  "nom": "FairMoove Solutions (ex-Betterfly Tourism)",
+  "type": "bureau_etudes",
+  "logo_url": null,
+  "siret": "53356378900049",
+  "description": "Société de conseil nantaise spécialisée dans le tourisme, issue de Betterfly Tourism (entrée dans le groupe FairMoove en 2023). Pour les hôtels, elle édite FairScore, une notation environnementale par nuitée fondée sur les standards de l'ADEME et la base Empreinte, dont l'un des quatre indicateurs est la consommation d'eau, propose un accompagnement avec visite terrain et plan d'action sur l'énergie, l'eau et les achats, et forme le personnel par son organisme certifié Qualiopi, dont la formation de 3 h 30 du critère 237 du classement hôtelier sur les économies d'eau. Prestations payantes : la formation du critère 237 est affichée à 650 euros HT par session, dans l'établissement ou en visioconférence, avec prise en charge OPCO possible.",
+  "expertises": [
+    "Notation environnementale FairScore",
+    "Consommation d'eau par nuitée",
+    "Visite terrain et plan d'action",
+    "Formation critère 237"
+  ],
+  "categories": [
+    "suivre_comprendre_maitriser",
+    "sensibiliser_former"
+  ],
+  "secteurs": [
+    "hotellerie"
+  ],
+  "departements": [],
+  "mesures": [
+    {
+      "id": "ACT_HOT_007",
+      "roles": [
+        "conseil_etude"
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "type": "site_internet",
+      "value": "https://www.fairmoove-solutions.com/"
+    },
+    {
+      "type": "tel",
+      "value": "+33 (0)2 40 74 69 24"
+    },
+    {
+      "type": "mail",
+      "value": "contact.web@fairmoove-solutions.com"
+    },
+    {
+      "type": "adresse",
+      "value": "28 rue de Strasbourg, 44000 Nantes"
+    },
+    {
+      "type": "linkedin",
+      "value": "https://www.linkedin.com/company/fairmoove-solutions"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse, type",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=FairMoove%20Solutions&departement=44",
+      "date": "2026-09-24",
+      "extrait": "FAIRMOOVE SOLUTIONS, siret 53356378900049, siège, 28 RUE DE STRASBOURG 44000 NANTES, activité 70.22Z, état administratif A"
+    },
+    {
+      "champ": "contacts",
+      "url": "https://www.fairmoove-solutions.com/contact",
+      "date": "2026-09-24",
+      "extrait": "Par téléphone +33 (0)2 40 74 69 24. Par email contact.web@fairmoove-solutions.com [lien LinkedIn linkedin.com/company/fairmoove-solutions en pied de page]"
+    },
+    {
+      "champ": "nom, description",
+      "url": "https://www.fairmoove-solutions.com/qui-sommes-nous",
+      "date": "2026-09-24",
+      "extrait": "Betterfly Tourism devient FairMoove Solutions [...] En 2023, Jean-Pierre Nadir, fondateur de FairMoove [...] fait entrer Betterfly Tourism dans le groupe FairMoove"
+    },
+    {
+      "champ": "description, expertises, secteurs, mesures (ACT_HOT_007 conseil_etude)",
+      "url": "https://www.fairmoove-solutions.com/fairscore",
+      "date": "2026-09-24",
+      "extrait": "4 indicateurs clés pour une mesure précise (par nuitée) - Impact carbone - Consommation d’eau - Épuisement des ressources énergétiques [...] Un référentiel officiel : Basé sur les standards de l’ADEME et la base de données Empreinte® (ex-IMPACTS®) [...] Collecte des données : rassemblement d'informations sur vos consommations (énergie, eau, déchets, services, etc.)"
+    },
+    {
+      "champ": "description, expertises",
+      "url": "https://www.fairmoove-solutions.com/conseil-rse-hospitality",
+      "date": "2026-09-24",
+      "extrait": "Une visite terrain de votre établissement [...] Un plan d'action ciblé sur les principaux leviers : actions à engager sur l'énergie, l'eau, les consommables, les achats ou les pratiques internes [...] Eau : réduire vos consommations d'eau sans dégrader l'expérience client ni l'exploitation."
+    },
+    {
+      "champ": "description, expertises, categories",
+      "url": "https://www.fairmoove-solutions.com/academy",
+      "date": "2026-09-24",
+      "extrait": "FORMATION 3H30 Formation du personnel à la gestion économe de l'énergie, aux mesures d'économie d'eau et à la gestion des déchets (N°237) Financement Prise en charges OPCO possible [...] L'Académie Betterfly Tourism x FairMoove Solutions est un organisme de formation certifié Qualiopi [...] Écogestion responsable de l'eau dans les hébergements touristiques"
+    },
+    {
+      "champ": "description, departements, categories",
+      "url": "https://directus.fairmoove-solutions.com/assets/cd0fb7a8-8de6-4b20-82a2-62ab7a1360cb",
+      "date": "2026-09-24",
+      "extrait": "Formation du personnel à la gestion économe de l'énergie, aux mesures d'économie d'eau et à la gestion des déchets (N°237). 3H30. En présentiel dans votre établissement OU à distance en visioconférence. 650 € HT par session [...] Savoir comment réduire les consommations d'eau, d'énergie et la quantité de déchets dans un établissement hôtelier. Destinée à tout collaborateur travaillant dans le secteur de l'hôtellerie."
+    },
+    {
+      "champ": "departements",
+      "url": "https://landing.fairmoove-solutions.com/",
+      "date": "2026-09-24",
+      "extrait": "L'Académie Digitale | Formation E-Learning Hôtellerie [...] 19 langues [...] La gestion de la ressource en eau [...] une utilisation raisonnée et efficace de l'eau au quotidien"
+    }
+  ],
+  "date_maj": "2026-09-24"
+}

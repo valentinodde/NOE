@@ -1,0 +1,62 @@
+{
+  "id": "PREST_VIA_012",
+  "nom": "Step Concept",
+  "type": "installateur",
+  "logo_url": null,
+  "siret": "80149798300032",
+  "description": "Entreprise d'assainissement basée à Villematier (Haute-Garonne) qui conçoit et réalise des stations de traitement des eaux usées, dont des stations compactes et enterrées à procédé SBR pour les ateliers agroalimentaires, développées en partenariat avec la société ATB. Elle a équipé des abattoirs de volailles en Aveyron et des ateliers d'abattage et de transformation porcine dans le Tarn, et intervient de l'étude dimensionnelle jusqu'à l'entretien et au réglage des installations, avec des contrats d'entretien. La demande de devis est gratuite, par formulaire, téléphone ou courriel.",
+  "expertises": [
+    "Station SBR agroalimentaire",
+    "Étude dimensionnelle de station",
+    "Pose de cuves et équipements",
+    "Contrat d'entretien de station"
+  ],
+  "categories": [
+    "agir_rejets_qualite"
+  ],
+  "secteurs": ["industrie_viande"],
+  "departements": ["09", "11", "12", "15", "19", "24", "30", "31", "32", "34", "46", "48", "63", "65", "66", "81", "82"],
+  "mesures": [
+    { "id": "ACT_VIA_008", "roles": ["travaux", "conseil_etude"] }
+  ],
+  "contacts": [
+    { "type": "site_internet", "value": "https://www.step-concept.fr/" },
+    { "type": "tel", "value": "05 62 78 09 69" },
+    { "type": "mail", "value": "contact@step-concept.fr" },
+    { "type": "adresse", "value": "Zone de Pechnauquier III, 480 rue Pierre Compte, 31340 Villematier" }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Step%20Concept&departement=31",
+      "date": "2026-09-24",
+      "extrait": "STEP CONCEPT, siren 801497983, siret 80149798300032, siège, ZONE DE PECHNAUQUIER III 480 RUE PIERRE COMPTE 31340 VILLEMATIER, activité 71.12B, état administratif A"
+    },
+    {
+      "champ": "contacts (tel, mail), departements",
+      "url": "https://www.step-concept.fr/contact",
+      "date": "2026-09-24",
+      "extrait": "Vous pouvez également nous joindre au 05 62 78 09 69 ou par mail : contact@step-concept.fr [...] Basé à Villematier, dans le Nord de la Haute-Garonne (31), nous intervenons sur toute l'Occitanie ainsi que sur les département limitrophes (Dordogne (24), Cantal (15), Corrèze (19), Puy-de-Dôme (63)."
+    },
+    {
+      "champ": "type, description, contacts (site_internet)",
+      "url": "https://www.step-concept.fr/",
+      "date": "2026-09-24",
+      "extrait": "Situé à Villematier, STEP CONCEPT est votre expert en assainissement individuel et collectif de traitement de l'eau. [...] STEP CONCEPT conçoit et réalise des solutions de stockage et de traitement des effluents d’élevage et de production agroalimentaire."
+    },
+    {
+      "champ": "description, expertises, mesures (ACT_VIA_008)",
+      "url": "https://www.step-concept.fr/references-station-d-epuration-agroalimentaire",
+      "date": "2026-09-24",
+      "extrait": "Depuis plus de 20 ans STEP CONCEPT développe en partenariat avec la société ATB des solutions adaptées au traitement des effluents agroalimentaires. [...] Abattoir de volailles en Aveyron (20m3/j), Atelier de transformation porcine dans le Tarn, Tuerie de volaille en Aveyron, Abattoir et atelier de transformation porcine dans le Tarn ... STEP CONCEPT vous aide dans vos projets, de l'étude dimensionnelle jusqu'à l'entretien et l'exploitation de votre installation. DEMANDE DE DEVIS GRATUITE [...] Notre équipe technique permet d'intervenir afin de régler ou d'entretenir nos système d'épuration, nous pouvons aussi proposer des contrats d’entretiens. Mesure du taux de boues activées lors de l'entretien annuel d'un SBR sur un atelier d'abatage. Contrôle de l’homogénéité de l'aération du bassin tampon."
+    },
+    {
+      "champ": "expertises, mesures (ACT_VIA_008, travaux)",
+      "url": "https://www.step-concept.fr/realisation-d-une-station-de-traitement-sbr-pour-un-atelier-agroalimentaire",
+      "date": "2026-09-24",
+      "extrait": "Réalisation d'une station de traitement SBR pour un atelier de transformation agroalimentaire [...] Les cuves doivent être placées dans un ordre précis déterminé par leur fonction, décanteur/silo à boues, tampon et réacteur biologique. [...] Pompes et aérateurs sont installés dans les cuves."
+    }
+  ],
+  "date_maj": "2026-09-24"
+}

@@ -1,0 +1,85 @@
+{
+  "id": "PREST_HOT_003",
+  "nom": "Les Robinets Presto",
+  "type": "equipementier",
+  "logo_url": null,
+  "siret": "54209143400010",
+  "description": "Fabricant français de robinetterie pour les lieux recevant du public, siège à Montrouge et site de production à Saint-Georges-de-Didonne (17110), avec un second site au Portugal. Pour les hôtels, il fournit des robinets de lavabo temporisés à débit réduit (1,9 ou 3 l/min), des robinetteries de douche temporisées (6, 8 ou 10 l/min), de la robinetterie électronique sans contact et des robinets de chasse directe à double volume réglable, et cite des références comme l'Hôtel Bedford et l'Hôtel Disneyland à Paris. Les produits se vendent par un réseau de distributeurs professionnels ; pour un chantier de plus de 3 000 euros HT en prix public, le chiffrage se demande par mail au service dédié, en indiquant l'installateur.",
+  "expertises": [
+    "Robinetterie temporisée",
+    "Robinetterie électronique sans contact",
+    "Chasse directe double volume"
+  ],
+  "categories": [
+    "ameliorer_efficacite_hydrique"
+  ],
+  "secteurs": ["hotellerie"],
+  "departements": [],
+  "mesures": [
+    { "id": "ACT_HOT_001", "roles": ["materiel"] }
+  ],
+  "contacts": [
+    { "type": "site_internet", "value": "https://presto.fr/" },
+    { "type": "tel", "value": "01 46 12 34 56" },
+    { "type": "mail", "value": "serviceclient@presto-group.com" },
+    { "type": "adresse", "value": "7 rue Racine, 92120 Montrouge" }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Les%20Robinets%20Presto&departement=92",
+      "date": "2026-09-24",
+      "extrait": "SA LES ROBINETS PRESTO, SIRET 54209143400010, siège, 7 RUE RACINE 92120 MONTROUGE, NAF 28.14Z, état administratif A"
+    },
+    {
+      "champ": "contacts, description (chiffrage chantier)",
+      "url": "https://presto.fr/fr/contact/",
+      "date": "2026-09-24",
+      "extrait": "Tél. : +33 (0)1 46 12 34 56 [...] Email : serviceclient@presto-group.com ; Pour établir un chiffrage chantier dont le montant total en prix public est supérieur à 3 000€ HT, veuillez envoyer vos demandes de prix par mail en indiquant : [...] Le nom de l'installateur"
+    },
+    {
+      "champ": "type, description (fabrication en France)",
+      "url": "https://presto.fr/fr/entreprise/organisation/",
+      "date": "2026-09-24",
+      "extrait": "Tous les produits PRESTO sont fabriqués à Saint George-de-Didonne et au Portugal. Avec notre siège social situé à Montrouge, nous employons 220 salariés en France."
+    },
+    {
+      "champ": "type, description (fabricant)",
+      "url": "https://presto.fr/fr/entreprise/charte-dindustriel/",
+      "date": "2026-09-24",
+      "extrait": "PRESTO conçoit et fabrique depuis 100 ans des solutions de robinetteries pour les lieux qui reçoivent du public [...] Fabrication en France et au Portugal"
+    },
+    {
+      "champ": "description, expertises, mesures, secteurs",
+      "url": "https://presto.fr/fr/projet/hotellerie/",
+      "date": "2026-09-24",
+      "extrait": "Les robinets temporisés limitent durablement la consommation d'eau [...] Robinetterie électronique sans contact, détection infrarouge ; Chasse directe à double volume ajustable indépendamment ; Hôtel Bedford, Paris ; Hôtel DisneyLand, Paris ; Le Pas Sage, Royan ; site de production 4 rue Lavoisier, 17110 Saint Georges de Didonne"
+    },
+    {
+      "champ": "mesures, description (lavabo débit réduit)",
+      "url": "https://presto.fr/fr/robinetteries/robinet-temporise-neo/",
+      "date": "2026-09-24",
+      "extrait": "Robinet temporisé NEO, NEO DUO, NEO Sensor ; Débit : 1,9 l/min ou 3 l/min ; Double temporisation assurant une consommation d'eau optimale pour les différents usages"
+    },
+    {
+      "champ": "mesures, description (douche)",
+      "url": "https://presto.fr/fr/robinetteries/prestotem2/",
+      "date": "2026-09-24",
+      "extrait": "Prestotem® | Découvrez notre robinetterie de douche ; Débit : 6 l/min, 8 l/min ou 10 l/min"
+    },
+    {
+      "champ": "mesures, expertises (chasse double volume)",
+      "url": "https://presto.fr/fr/robinetteries/p1000xldva/",
+      "date": "2026-09-24",
+      "extrait": "Double volume d'eau ajustable et système S ; Version économique : grand volume ajustable de 3 à 5 litres et petit volume de 1,5 à 3 litres"
+    },
+    {
+      "champ": "departements, description (distribution)",
+      "url": "https://presto.fr/fr/store-locator/",
+      "date": "2026-09-24",
+      "extrait": "Retrouvez nos produits en distribution professionnelle. Carte de 1 375 points de vente (données de la carte, comptage du rédacteur) dont les codes postaux couvrent les départements 01 à 95, par exemple SIDER LILLE, 59520 Marquette-lez-Lille ; WSL33, 33000 Bordeaux ; SIDER RENNES, 35135 Chantepie ; SIDER LYON, 69120 Vaulx-en-Velin"
+    }
+  ],
+  "date_maj": "2026-09-24"
+}

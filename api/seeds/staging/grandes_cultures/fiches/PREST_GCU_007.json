@@ -1,0 +1,97 @@
+{
+  "id": "PREST_GCU_007",
+  "nom": "Netafim France",
+  "type": "equipementier",
+  "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792084228/Noe%20assets/logos/PREST_GCU_007.png",
+  "siret": "37955519600078",
+  "description": "Filiale française du groupe Netafim, fabricant de matériel d'irrigation fondé en Israël, rattaché au groupe Orbia et doté de 19 usines dans le monde. Elle fournit des gaines de goutte-à-goutte enterré pour les grandes cultures et, avec son réseau de distributeurs, conçoit le réseau, l'installe et en assure le suivi : avec Delta Sud, elle a fourni et monté le réseau d'un essai de goutte-à-goutte enterré sur maïs mené depuis 2012, essai du programme d'appui technique aux irrigants d'Aquitaine, publié par la chambre d'agriculture des Landes. Prise de contact par le formulaire du site (le siège déclaré est à Gardanne), et un service dédié aide à repérer les subventions mobilisables pour le projet.",
+  "expertises": [
+    "Goutte-à-goutte enterré sur maïs",
+    "Conception hydraulique du réseau",
+    "Fourniture et montage du réseau",
+    "Repérage des subventions"
+  ],
+  "categories": [
+    "ameliorer_efficacite_hydrique"
+  ],
+  "secteurs": [
+    "grandes_cultures"
+  ],
+  "departements": [],
+  "mesures": [
+    {
+      "id": "ACT_GCU_004",
+      "roles": [
+        "materiel",
+        "travaux",
+        "conseil_etude"
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "type": "site_internet",
+      "value": "https://www.netafim.fr/"
+    },
+    {
+      "type": "adresse",
+      "value": "Rond Point du Canet, Carrés de l'Arc, Bâtiment A, 13590 Meyreuil"
+    },
+    {
+      "type": "linkedin",
+      "value": "https://www.linkedin.com/company/netafim-france/"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, description",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Netafim%20France&departement=13",
+      "date": "2026-10-15",
+      "extrait": "NETAFIM FRANCE, siret 37955519600078, siège, ZA NOVACTIS 330 CHEMIN DEPARTEMENTAL 60 13120 GARDANNE, activité 46.61Z, état administratif A"
+    },
+    {
+      "champ": "contacts",
+      "url": "https://www.netafim.fr/contactez-nous/",
+      "date": "2026-10-15",
+      "extrait": "Netafim France, Rond Point du Canet, Carrés de l'Arc - Bâtiment A, 13590 Meyreuil. Lien linkedin.com/company/netafim-france. Sujet de la demande : Projet irrigation"
+    },
+    {
+      "champ": "type, description",
+      "url": "https://www.netafim.fr/a-propos-de-nous/",
+      "date": "2026-10-15",
+      "extrait": "Nous avons commencé en 1965, dans le désert du Néguev en Israël [...] Nous possédons 33 filiales et 19 usines de fabrication et 2 usines de recyclage dans le monde. [...] Netafim fait partie d'Orbia"
+    },
+    {
+      "champ": "mesures, expertises, description",
+      "url": "https://landes.chambres-agriculture.fr/fileadmin/user_upload/296_chambre_dagriculture_des_landes/DOCUMENTS/informer/Changement_climatique/rapport_goutte_a_goutte_2024.pdf",
+      "date": "2026-10-15",
+      "extrait": "Dans le cadre du programme régional d'appui technique aux irrigants, il a été proposé de mettre en place un essai irrigation avec du goutte à goutte enterré spécial grandes cultures (matériel de chez Nétafim) [...] intérêt en Aquitaine [...] Ce sont les sociétés Delta Sud et Nétafim qui ont fourni le matériel et assuré le montage du réseau."
+    },
+    {
+      "champ": "mesures, expertises, description",
+      "url": "https://www.netafim.fr/produits-et-solutions-pour-l-agriculture/Plein-champ-et-maraichage/",
+      "date": "2026-10-15",
+      "extrait": "Avec notre réseau de Distributeurs, nous pouvons vous aider à gérer vos projets de bout en bout: définition des besoins, design hydraulique, sélection des produits, installation et suivi après vente, conseils agronomiques pour l'optimisation de l'irrigation."
+    },
+    {
+      "champ": "mesures, expertises",
+      "url": "https://www.netafim.fr/Connaissances-des-cultures/mais/",
+      "date": "2026-10-15",
+      "extrait": "Les systèmes d'irrigation goutte à goutte enterré conviennent mieux aux de champs de maïs à grande échelle. [...] Netafim installe ou fournit des équipements pour plus de 50 000 hectares supplémentaires d'irrigation goutte à goutte dans les champs de maïs du monde entier."
+    },
+    {
+      "champ": "departements, expertises, description",
+      "url": "https://www.netafim.fr/service-aides-subventions-materiel-agricole/",
+      "date": "2026-10-15",
+      "extrait": "Nous vous aidons à identifier si votre projet est subventionnable [...] Type de cultures : GRANDES CULTURES [...] Régions françaises : AUVERGNE-RHONE-ALPES PACA CORSE OCCITANIE NOUVELLE AQUITAINE [...] LA REUNION"
+    },
+    {
+      "champ": "logo_url",
+      "url": "https://www.netafim.fr/favicon/corporate/apple-touch-icon.png",
+      "date": "2026-10-15",
+      "extrait": "apple-touch-icon 180 x 180 déclaré dans l'en-tête de www.netafim.fr"
+    }
+  ],
+  "date_maj": "2026-10-15"
+}

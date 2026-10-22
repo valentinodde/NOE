@@ -1,0 +1,107 @@
+{
+  "id": "PREST_GCU_024",
+  "nom": "Axe Environnement",
+  "type": "installateur",
+  "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792084709/Noe%20assets/logos/PREST_GCU_024.png",
+  "siret": "44422505600043",
+  "description": "Entreprise de Romilly-sur-Seine (Aube) spécialisée dans l'aménagement des exploitations face au risque phytosanitaire, détentrice de deux procédés de traitement des effluents phytopharmaceutiques reconnus efficaces par le ministère chargé de l'environnement, notamment en grandes cultures : BF Bulles (coagulation puis filtration sur charbon actif) pour les gros volumes, et Phytosec (déshydratation et adsorption) pour les petits volumes, avec une capacité de traitement de 1 100 à 1 600 litres par an et par module selon que l'exploitation est au nord ou au sud de la Loire. Elle réalise des aires de lavage et de remplissage individuelles ou collectives, de l'étude à la réalisation clés en main, ces travaux étant menés en partenariat avec la société HP-Concept, et accompagne le volet réglementaire, dont le dossier ICPE 2795 le cas échéant. Les équipements se commandent sur devis ou en ligne, le BF Bulles est aussi proposé en prestation de service sur l'exploitation, et un contact commercial est désigné pour chaque département.",
+  "expertises": [
+    "Traitement des effluents phytosanitaires",
+    "Aire de lavage et de remplissage",
+    "Dossier ICPE 2795",
+    "Prestation de traitement sur l'exploitation"
+  ],
+  "categories": [
+    "agir_rejets_qualite"
+  ],
+  "secteurs": [
+    "grandes_cultures"
+  ],
+  "departements": [],
+  "mesures": [
+    {
+      "id": "ACT_GCU_009",
+      "roles": [
+        "conseil_etude",
+        "travaux",
+        "materiel"
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "type": "site_internet",
+      "value": "https://axe-environnement.eu/fr"
+    },
+    {
+      "type": "tel",
+      "value": "03 25 24 55 00"
+    },
+    {
+      "type": "mail",
+      "value": "contact@axe-environnement.eu"
+    },
+    {
+      "type": "adresse",
+      "value": "237, rue Gornet-Boivin, 10100 Romilly-sur-Seine"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Axe%20Environnement&departement=10",
+      "date": "2026-10-15",
+      "extrait": "AXE ENVIRONNEMENT, siren 444225056, siret 44422505600043, siège, 237 RUE GORNET BOIVIN 10100 ROMILLY-SUR-SEINE, activité 46.90Z, état administratif A, 1 établissement ouvert"
+    },
+    {
+      "champ": "contacts",
+      "url": "https://axe-environnement.eu/fr/contact",
+      "date": "2026-10-15",
+      "extrait": "Axe-environnement 237, rue Gornet-Boivin 10100 Romilly-sur-Seine ( France ) Tel : +33 (0)3 25 24 55 00 Fax : +33 (0)3 25 24 55 01 Email : contact@axe-environnement.eu"
+    },
+    {
+      "champ": "departements, description",
+      "url": "https://axe-environnement.eu/fr/contact",
+      "date": "2026-10-15",
+      "extrait": "Contactez notre équipe commerciale. Sélectionnez un département [liste de 01 - Ain à 95 - Val-d'oise, Corse et outre-mer]. Sélectionnez un département pour afficher la liste de ses responsables commerciaux."
+    },
+    {
+      "champ": "mesures, expertises, description",
+      "url": "https://axe-environnement.eu/fr/boutique/produits/210-systeme-traitement-des-effluents-bf-bulles-8-m3",
+      "date": "2026-10-15",
+      "extrait": "Le système le plus adapté pour le traitement des gros volumes d'effluents - demandez un devis pour une prestation de service ! Utilisation en prestation de services pour traitement sur l'exploitation. Traitement par coagulation-floculation puis ultrafiltration sur charbon actif. Le procédé BFbulles reste un procédé validé par le MEDDTL sous le N° d'enregistrement PT15-001, sur les usages suivants: Arboriculture légumière Grandes cultures Viticulture. AXE-ENVIRONNEMENT accompagne les agriculteurs dans une démarche intégrée de gestion de ceux-ci, en réalisant des aires de lavages individuelles ou collectives, en accompagnant les agriculteurs sur la partie législative du traitement (respect de la loi sur l'eau, de l'arrêté du 12 septembre 2006, constitution avec les agriculteurs des dossiers ICPE 2795 (le cas échéant))."
+    },
+    {
+      "champ": "mesures, description, departements",
+      "url": "https://axe-environnement.eu/fr/boutique/produits/3028-phytosec-traitements-effluents",
+      "date": "2026-10-15",
+      "extrait": "Procédé de traitement des effluents chargés en produits phytopharmaceutiques, par déshydratation / adsorption. Champs d'application du procédé : - Grandes Cultures - Arboriculture fruitière - Viticulture - Cultures légumières - Horticulture - ZNA > Capacité de traitement annuel de 1 100 L (départements situés au nord de la Loire) à 1600 L (départements situés au sud de la Loire)"
+    },
+    {
+      "champ": "mesures, description",
+      "url": "https://www.bulletin-officiel.developpement-durable.gouv.fr/documents/Bulletinofficiel-0030426/met_20180009_0000_0022.pdf",
+      "date": "2026-10-15",
+      "extrait": "Avis du 30 août 2018 relatif à la liste des procédés de traitement des effluents phytopharmaceutiques reconnus comme efficaces par le MTES. Annexe I, tableau scanné, page 4 du BO (transcription) : BFBULLES, détenteur Axe Environnement, ultrafiltration, 2 modèles (BF 8 et BF 16), croix en arboriculture fruitière, grandes cultures et viticulture ; PHYTOSEC, détenteur Axe Environnement, évaporation, 1 modèle, croix en arboriculture fruitière, cultures légumières, grandes cultures, horticulture, viticulture et zones non agricoles."
+    },
+    {
+      "champ": "mesures, expertises, description",
+      "url": "https://axe-environnement.eu/fr/expertise/amenagement-de-lexploitation/realiser-une-aire-de-lavage-et-ou-remplissage-agricole",
+      "date": "2026-10-15",
+      "extrait": "Nos équipes accompagnent les deux types de projets, de l'étude à la réalisation clés en main, en partenariat avec la société HP-Concept. [...] Grace à notre partenariat avec la société HP-Concept , nous pouvons vous proposer une solution clés en main comprenant le lavage et le traitement des effluents."
+    },
+    {
+      "champ": "description",
+      "url": "https://axe-environnement.eu/fr/jobsCarrers/about",
+      "date": "2026-10-15",
+      "extrait": "Notre activité s'articule autour de l'aménagement de l'exploitation (stockage des produits phytopharmaceutiques, station de lavage et remplissage des pulvérisateurs, qualité de pulvérisation, stockage en citernes), des équipements de protection individuelle [...]"
+    },
+    {
+      "champ": "logo_url",
+      "url": "https://static.axe-environnement.eu/assets/img/favicon/apple-touch-icon-f74fca0a23.png",
+      "date": "2026-10-15",
+      "extrait": "apple-touch-icon 180 x 180 déclaré dans l'en-tête de https://axe-environnement.eu/fr"
+    }
+  ],
+  "date_maj": "2026-10-15"
+}

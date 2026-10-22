@@ -1,0 +1,104 @@
+{
+  "id": "PREST_ART_007",
+  "nom": "Pharaon",
+  "type": "installateur",
+  "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792065053/Noe%20assets/logos/PREST_ART_007.png",
+  "siret": "32129060300034",
+  "description": "Entreprise du Nord qui commercialise des aspirateurs industriels et professionnels depuis 1972, avec un bureau d'études intégré qui conçoit des systèmes d'aspiration sur mesure, installés et mis en service clés en main. Son code NAF est celui du commerce de gros et son site n'indique aucun lieu de fabrication, ce qui en fait vraisemblablement un distributeur. Pour la boulangerie et la pâtisserie artisanales, elle vend sur devis un aspirateur à farine (MTL202ACD EPI) fourni avec des kits de nettoyage du four et de l'atelier, présenté comme reconnu par le LEMPA à faible émission de poussière et éligible à une subvention de prévention des risques professionnels. Location longue durée, pièces détachées et service après-vente, seuls les consommables et accessoires se commandant en ligne.",
+  "expertises": [
+    "Aspirateur à farine",
+    "Location d'aspirateurs",
+    "Pièces détachées et SAV"
+  ],
+  "categories": [
+    "changer_process_pratiques"
+  ],
+  "secteurs": [
+    "artisanat_alimentaire"
+  ],
+  "departements": [],
+  "mesures": [
+    {
+      "id": "ACT_ART_005",
+      "roles": [
+        "materiel"
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "type": "site_internet",
+      "value": "https://www.pharaon.fr/"
+    },
+    {
+      "type": "mail",
+      "value": "pharaon@pharaon.fr"
+    },
+    {
+      "type": "tel",
+      "value": "03 27 09 11 11"
+    },
+    {
+      "type": "adresse",
+      "value": "1 rue des 9 Bonniers, PAE Sars et Rosières, 59178 Brillon"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Pharaon&departement=59",
+      "date": "2026-10-15",
+      "extrait": "PHARAON, siret 32129060300034, siège, PAE SARS ET ROSIERES RUE DES 9 BONNIERS 59178 BRILLON, activite_principale 46.69C, etat_administratif A"
+    },
+    {
+      "champ": "siret, contacts",
+      "url": "https://www.pharaon.fr/mentions-legales-s2",
+      "date": "2026-10-15",
+      "extrait": "Raison sociale : PHARAON SIRET : 32129060300034. Contact pharaon@pharaon.fr (+33)3 27 09 11 11 1 rue des 9 Bonniers PAE Sars et Rosières 59178 Brillon"
+    },
+    {
+      "champ": "type, description, expertises",
+      "url": "https://www.pharaon.fr/qui-sommes-nous-s11",
+      "date": "2026-10-15",
+      "extrait": "Pharaon commercialise une large gamme d'aspirateurs industriels et professionnels [...] Grâce à notre bureau d'étude intégré, Pharaon met son expérience et son savoir-faire au service de la conception de solutions sur mesure [...] Nous assurons la réalisation des projets clés-en-main, assurant l'installation du matériel, la formation de vos équipes et la mise en service des équipements. [...] la fourniture de pièces détachées [...] location de matériel de courtes ou de longues durées"
+    },
+    {
+      "champ": "description, expertises, mesures",
+      "url": "https://www.pharaon.fr/aspirateur-industriel-mtl202acd-epi-pour-boulangerie-p157",
+      "date": "2026-10-15",
+      "extrait": "Demande de prix [...] Disponible à la location longue durée. À la suite du test réalisé par le LEMPA, l'aspirateur industriel MTL202ACD EPI est reconnu comme matériel « à faible émission de poussière ». [...] éligible à une subvention dans le cadre de la prévention des risques professionnels. Accessoires fournis : Kit accessoires de nettoyage four"
+    },
+    {
+      "champ": "mesures, expertises",
+      "url": "https://www.pharaon.fr/aspirateur-farine-c60",
+      "date": "2026-10-15",
+      "extrait": "l'utilisation de soufflettes ou de brosses pour éliminer la farine remettrait les poussières en suspension dans l'air [...] L'aspirateur MTL202ACD EPI est la solution idéale et recommandée pour éliminer les poussières de farine dans les boulangeries artisanales."
+    },
+    {
+      "champ": "description",
+      "url": "https://www.pharaon.fr/",
+      "date": "2026-10-15",
+      "extrait": "Commandez dès maintenant vos accessoires Best-Sellers en ligne ! [...] Commandez vos sacs en ligne ! Gamme Kerstar et Longopac. Reconnu par le LEMPA comme équipement à faible émission de farine. Deux kits accessoires inclus pour le nettoyage du four et de l'atelier"
+    },
+    {
+      "champ": "departements",
+      "url": "https://www.pharaon.fr/livraison-s1",
+      "date": "2026-10-15",
+      "extrait": "Pour les commandes effectuées sur le site internet www.pharaon.fr, l'adresse de livraison sera indiquée par le Client lui-même."
+    },
+    {
+      "champ": "departements",
+      "url": "https://www.pharaon.fr/conditions-generales-de-vente-s15",
+      "date": "2026-10-15",
+      "extrait": "Les prix sont exprimés en euros, hors taxes (HT), et seront majorés du taux de TVA applicable (20 % en France, hors exportation et CEE). [...] Les livraisons sont effectuées à l'adresse indiquée sur l'ARC."
+    },
+    {
+      "champ": "logo_url",
+      "url": "https://www.pharaon.fr/img/logo-1727871970.svg",
+      "date": "2026-10-15",
+      "extrait": "Logo du site pharaon.fr (en-tête), version couleur"
+    }
+  ],
+  "date_maj": "2026-10-15"
+}

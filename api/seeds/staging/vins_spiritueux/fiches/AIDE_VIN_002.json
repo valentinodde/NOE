@@ -1,0 +1,158 @@
+{
+  "id": "AIDE_VIN_002",
+  "nom": "Aide au traitement des effluents vinicoles (agence de l'eau Seine-Normandie, programme Eau, climat et biodiversité 2025-2030)",
+  "financeur": "Agence de l'eau Seine-Normandie",
+  "logo_url": null,
+  "type": "subvention",
+  "taux": "Taux maximaux autorisés par l'encadrement européen des aides d'État, règle du chapitre B du programme (dépollution des acteurs économiques). Aucun taux propre aux effluents vinicoles n'est publié.",
+  "plafond": "Assiette limitée par un prix de référence calculé sur les flux de pollution concernés par le projet (MES, DBO5, DCO, azote, phosphore) ; pour la réduction des pollutions, ce prix de référence ne s'applique pas aux projets zéro rejet. Si l'aide est accordée au titre du régime de minimis : 300 000 € d'aides publiques au maximum sur les trois derniers exercices fiscaux, toutes aides publiques cumulées. Projets de moins de 10 000 € TTC non aidés (3 500 € TTC pour les études des acteurs économiques).",
+  "description": "L'agence de l'eau Seine-Normandie finance, au titre du chapitre B de son 12e programme et avec un formulaire de demande propre à la viniculture, les projets de traitement des rejets d'un établissement vinicole : traitement autonome par stockage et épandage agricole, traitement autonome par stockage aéré individuel, prétraitement et raccordement au réseau d'assainissement de la collectivité, ou travaux d'aménagement en vue d'une épuration hors site sur un dispositif de traitement collectif. Le formulaire détaille les travaux de collecte, le prétraitement (dégrillage, tamisage, neutralisation), les capacités de stockage étanches et le matériel d'aération, et chiffre la modification du réseau de collecte interne, les raccordements, le relevage et le prétraitement, ainsi que les études, honoraires et la maîtrise d'œuvre.",
+  "eligibilite": "Entreprises vinicoles du bassin Seine-Normandie, pour le traitement des rejets de leur établissement : simple mise en conformité, mise aux normes lors d'une restructuration ou d'une extension, transfert d'activité ou création d'un nouveau site. Ne sont pas éligibles les projets faisant l'objet d'un arrêté de mise en demeure ; le demandeur certifie que l'entreprise n'est pas en difficulté au sens européen.",
+  "categories": [
+    "agir_rejets_qualite"
+  ],
+  "secteurs": [
+    "vins_spiritueux"
+  ],
+  "departements": [],
+  "agences": [
+    "AESN"
+  ],
+  "mesures": [
+    "ACT_VIN_006"
+  ],
+  "infos_complementaires": [
+    {
+      "type": "avertissement",
+      "texte": "Aucun commencement d'exécution (ordre de service, bon de commande, devis signé) ne doit avoir lieu avant le dépôt d'une demande d'aide formelle auprès de l'agence, sauf autorisation de démarrage anticipé. L'accusé de réception de la demande ne vaut pas décision d'attribution."
+    },
+    {
+      "type": "info",
+      "texte": "Le formulaire l'exige : au terme du projet, la collecte des eaux usées vinicoles doit être exhaustive et séparée de la collecte des eaux pluviales, et les écoulements liés notamment au stockage du marc doivent être maîtrisés."
+    },
+    {
+      "type": "avertissement",
+      "texte": "Création d'un site (installation nouvelle, soit une nouvelle implantation géographique depuis moins de 2 années) : seules les études et les travaux d'épuration qui vont au-delà des exigences de la réglementation applicable sont éligibles, et l'assiette se limite à ces dépenses."
+    },
+    {
+      "type": "info",
+      "texte": "Pièces demandées selon la filière : pour l'épandage, le cas échéant, le contrat de prestation d'épandage, de mise à disposition des parcelles et une attestation que les terrains utilisés sont validés par une étude préalable ; pour un établissement raccordé au réseau communal, l'autorisation ou la convention de rejet ; pour une entreprise soumise à un arrêté ICPE, l'arrêté préfectoral ou l'attestation de déclaration. Le formulaire demande aussi la consommation d'eau totale annuelle et celle liée à l'activité pressurage."
+    },
+    {
+      "type": "info",
+      "texte": "Démarche en trois étapes : présenter le projet au chargé d'opérations de votre direction territoriale, télécharger le formulaire de demande d'aide vinicole, puis déposer le dossier complet sur Démarche Numérique. En septembre 2026, l'agence indiquait : « Pour avoir l'assurance d'une instruction en 2026, vous devez déposer vos dossiers complets de demande d'aide sur Démarche Numérique avant le 30 septembre. » Vérifiez la date de l'année en cours."
+    },
+    {
+      "type": "info",
+      "texte": "En Champagne, le Comité Champagne conseille les établissements sur la collecte et le traitement des effluents ; dans le contrat d'animation 2013-2018 passé avec l'agence, il les assistait aussi pour constituer les dossiers de demande d'aide. Dans le bilan des aides signées en 2025, les dossiers de la Marne et de l'Aisne portent le libellé « CIVC », ceux de l'Yonne non."
+    },
+    {
+      "type": "retour_experience",
+      "texte": "Le bilan des aides signées publié par l'agence au 10 juillet 2025 compte dix subventions portant explicitement sur les effluents vinicoles, de 11 386 € à 123 395 €, pour l'amélioration de la collecte, les réseaux de collecte et le stockage-épandage, attribuées à des entreprises vinicoles de la Marne, de l'Aisne et de l'Yonne.",
+      "lien": "https://www.eau-seine-normandie.fr/sites/public_file/deliberations-commission-des-aides/2025/Bilan_des_aides_signees_juin_2025.pdf",
+      "lien_label": "Bilan des aides signées au 10 juillet 2025"
+    },
+    {
+      "type": "ressource",
+      "texte": "Formulaire de demande d'aide VINICULTURE (chapitre B du programme 2025-2030)",
+      "lien": "https://www.eau-seine-normandie.fr/sites/public_file/12e-programme/FORMULAIRES/12eme_Formulaire_aide_INDUSTRIE_specifique_VINICOLE_VF.docx"
+    },
+    {
+      "type": "ressource",
+      "texte": "Formulaires de demande d'aide et conditions générales d'attribution",
+      "lien": "https://www.eau-seine-normandie.fr/formulaires_aides"
+    },
+    {
+      "type": "ressource",
+      "texte": "Les aides financières destinées aux entreprises, programme Eau, climat et biodiversité 2025-2030",
+      "lien": "https://www.eau-seine-normandie.fr/entreprises/aides-financieres-du-programme-eau-climat-biodiversite"
+    },
+    {
+      "type": "ressource",
+      "texte": "12e programme 2025-2030 de l'agence de l'eau Seine-Normandie (chapitre B, pages 63 à 71)",
+      "lien": "https://economie.eaufrance.fr/sites/default/files/2024-11/doc577-12e_programme_aesn_vf.pdf"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "nom, description (chapitre B, filières), eligibilite (cadre du projet), mesures (ACT_VIN_006)",
+      "url": "https://www.eau-seine-normandie.fr/sites/public_file/12e-programme/FORMULAIRES/12eme_Formulaire_aide_INDUSTRIE_specifique_VINICOLE_VF.docx",
+      "date": "2026-09-28",
+      "extrait": "Chapitre B du programme \"Eau, climat & biodiversité\" 2025-2030 [...] Dans quel cadre s’inscrit votre projet ? [...] Simple mise en conformité pour le traitement des rejets de l’établissement [...] Mise aux normes de votre établissement dans le cadre de travaux de restructuration ou d’extension à préciser [...] Transfert de votre activité sur un autre site [...] Création d’un nouveau site [...] En quoi consiste votre projet ? [...] Mise en place d’un traitement autonome par stockage et épandage agricole [...] Mise en place d’un traitement autonome par stockage aéré individuel [...] Prétraitement, raccordement au réseau d’assainissement de la collectivité [...] Travaux d’aménagement en vue d’une épuration hors site sur un dispositif de traitement collectif"
+    },
+    {
+      "champ": "description (travaux et dépenses)",
+      "url": "https://www.eau-seine-normandie.fr/sites/public_file/12e-programme/FORMULAIRES/12eme_Formulaire_aide_INDUSTRIE_specifique_VINICOLE_VF.docx",
+      "date": "2026-09-28",
+      "extrait": "Dispositifs(s) de prétraitement des rejets envisagé(s) (dégrillage, tamisage, neutralisation, ...) : [...] Mise en place de capacités de stockage étanches pour les rejets vinicoles [...] Matériel d’aération des rejets [...] Modification du réseau de collecte interne [...] Raccordements principaux [...] Relevage, prétraitement des rejets [...] Études, honoraires, maîtrise d’œuvre"
+    },
+    {
+      "champ": "plafond (de minimis), eligibilite (mise en demeure, entreprise en difficulté)",
+      "url": "https://www.eau-seine-normandie.fr/sites/public_file/12e-programme/FORMULAIRES/12eme_Formulaire_aide_INDUSTRIE_specifique_VINICOLE_VF.docx",
+      "date": "2026-09-28",
+      "extrait": "Pour une demande d’aides sollicitée au titre d’un régime dit “de minimis”, précisez si vous avez perçu des aides publiques dit « de minimis » (règlement européen n° 1407/2013 modifié par le règlement n°2023/2391) permettant de recevoir au maximum 300 000 € d’aides publiques durant les 3 derniers exercices fiscaux dont celui en cours à la date de signature de la présente déclaration, toutes aides publiques cumulées, en complétant le tableau ci-dessous : [...] certifie ne pas présenter un projet faisant l’objet d’un arrêté préfectoral de mise en demeure, [...] certifie que l’entreprise bénéficiaire n’est pas en difficulté au sens européen, en référence au règlement (UE) n°651/2014 de la Commission européenne du 17 juin 2014, et notamment qu’elle ne fait pas l’objet d’une procédure collective d’insolvabilité (procédure de sauvegarde, procédure de redressement judiciaire, procédure de liquidation judiciaire),"
+    },
+    {
+      "champ": "infos_complementaires (collecte exhaustive, marc, pièces, consommations)",
+      "url": "https://www.eau-seine-normandie.fr/sites/public_file/12e-programme/FORMULAIRES/12eme_Formulaire_aide_INDUSTRIE_specifique_VINICOLE_VF.docx",
+      "date": "2026-09-28",
+      "extrait": "Au terme du projet, la collecte des eaux usées vinicoles devra être exhaustive et séparée de la collecte des eaux pluviales. [...] Les écoulements liés notamment au stockage du marc devront être maîtrisés. [...] ☐ Pour l’épandage, le cas échéant, contrat de prestation d’épandage, de mise à disposition des parcelles et attestation certifiant que les terrains utilisés sont validés par une étude préalable [...] ☐ Pour les établissements raccordés à un réseau d’assainissement communal, fournir une copie de l’autorisation ou la convention de rejet [...] ☐ Si l’entreprise est soumise à un ou plusieurs arrêtés ICPE, joindre une copie de l’arrêté préfectoral d’autorisation d’exercer ou de l’attestation de déclaration d’activité en préfecture [...] Consommation d’eau totale annuelle [...] Consommation d’eau liée à l’activité pressurage (existence d’un compteur spécifique ?)"
+    },
+    {
+      "champ": "infos_complementaires (démarche, date de dépôt, commencement d'exécution), ressources (formulaire VINICULTURE)",
+      "url": "https://www.eau-seine-normandie.fr/formulaires_aides",
+      "date": "2026-09-28",
+      "extrait": "Pour avoir l'assurance d'une instruction en 2026, vous devez déposer vos dossiers complets de demande d'aide sur Démarche Numérique avant le 30 septembre. [...] Prendre contact avec le chargé d'opérations de la direction territoriale dont vous dépendez [...] aucun commencement d'exécution du projet (émission d'ordre de service ou de bon de commande par exemple) ne peut avoir lieu avant le dépôt d'une demande d'aide formelle [...] Industrie, Artisanat, Activités économiques et assimilés domestiques [...] Formulaire de demande d'aide VINICULTURE"
+    },
+    {
+      "champ": "taux",
+      "url": "https://economie.eaufrance.fr/sites/default/files/2024-11/doc577-12e_programme_aesn_vf.pdf",
+      "date": "2026-09-28",
+      "extrait": "Tableau Niveaux d'aide du chapitre B : Réduction des pollutions / Taux maximaux autorisés par l'encadrement européen / Oui / a = 1,5 et b = 3 / 1311 ; Mesures d'accompagnement [...] Taux maximaux autorisés par l'encadrement européen (pages 69 et 70 du fichier)"
+    },
+    {
+      "champ": "plafond (prix de référence, zéro rejet, seuils plancher), type",
+      "url": "https://economie.eaufrance.fr/sites/default/files/2024-11/doc577-12e_programme_aesn_vf.pdf",
+      "date": "2026-09-28",
+      "extrait": "Le prix de référence (PR) est déterminé en fonction des assiettes de pollution [...] PR = a. [A + PR(MES).(MES) + PR(DB05).(DB05) + PR(DCO).(DCO) + PR(NR).(NR) + PR(P).(P) ...] (page 71) ; Les aides sont accordées par l'agence de l'eau sous forme de subventions ou d'avances remboursables à taux zéro. [...] ne sont pas aidés les projets dont le coût est inférieur à 10 000 €TTC. Par exception, ce seuil est ramené à 3 500 €TTC pour : les études des acteurs économiques (page 29) ; tableau Niveaux d'aide : Réduction des pollutions / Taux maximaux autorisés par l’encadrement européen / Oui / Non si zéro rejet / a = 1,5 et b = 3 / 1311 (page 70)"
+    },
+    {
+      "champ": "infos_complementaires (démarrage anticipé, devis, accusé de réception)",
+      "url": "https://economie.eaufrance.fr/sites/default/files/2024-11/doc577-12e_programme_aesn_vf.pdf",
+      "date": "2026-09-28",
+      "extrait": "Sauf autorisation de démarrage anticipé accordée par l'agence, l'attributaire ne peut pas démarrer l'exécution de l'opération avant le dépôt à l'agence de l'eau d'une demande d'aide formelle. L'agence en accuse réception. Cet accusé de réception ne vaut pas décision d'attribution de l'aide. [...] En cas de contractualisation par acceptation d'un devis, la date de signature du devis. (pages 28 et 29 du fichier)"
+    },
+    {
+      "champ": "description (travaux d'épuration du chapitre B), mesures (ACT_VIN_006)",
+      "url": "https://www.eau-seine-normandie.fr/entreprises/aides-financieres-du-programme-eau-climat-biodiversite",
+      "date": "2026-09-28",
+      "extrait": "L'agence de l'eau consacre 218 millions d'euros (soit 6 % du montant des aides du 12è programme) à la dépollution industrielle pour : [...] les travaux d'épuration : la réduction des pollutions chroniques par la mise en place de dispositifs de collecte, épuration ou prétraitement des effluents pollués et de leurs sous-produits"
+    },
+    {
+      "champ": "infos_complementaires (retour d'expérience, libellés CIVC), mesures (ACT_VIN_006)",
+      "url": "https://www.eau-seine-normandie.fr/sites/public_file/deliberations-commission-des-aides/2025/Bilan_des_aides_signees_juin_2025.pdf",
+      "date": "2026-09-28",
+      "extrait": "BILAN DES AIDES SIGNEES AU 10 JUILLET 2025 [...] SOCIETE CHAMPENOISE DES BARONS ET ASSO [...] CIVC - Réseaux collecte effluents vinicoles DVM 51 (110 217,00) ; SCEV DOMAINE GAUTHERON ALAIN ET CYRIL [...] Stockage épandage effluents vinicoles DSAM 89 (65 623,00) ; BCT DE REKENEIRE [...] CIVC - Amélioration stockage-épandage vinicole DVM 02 (11 386,00) ; SOCIETE AGRO-VITICOLE CHARBAUT [...] CIVC - Amélioration gestion effluents vinicoles DVM 51 (123 395,00)"
+    },
+    {
+      "champ": "infos_complementaires (Comité Champagne, assistance aux dossiers)",
+      "url": "https://levigneronchampenois.comitechampagne.fr/environnement/effluents-vinicoles",
+      "date": "2026-09-28",
+      "extrait": "En 2013, l'agence de l'eau Seine- Normandie et l'Interprofession signaient le contrat d'animation \"vigne, vin et qualité de l'eau en Champagne\". [...] L'objet du nouveau contrat (2013-2018) a donc été orienté vers l'accompagnement des élaborateurs dans la gestion des effluents vinicoles [...] au travers de missions de conseil et d'assistances techniques, mais aussi administratives, pour la constitution des dossiers de demande d'aides financières. [...] Depuis une trentaine d'années, le Comité Champagne accompagne les professionnels désireux d'avoir un conseil technique sur la gestion des effluents. [...] Collecte et traitement des effluents, gestion des résidus de vinification, optimisation du fonctionnement des stockages aérés, et contexte réglementaire font partie du conseil dispensé auprès des établissements vinicoles."
+    },
+    {
+      "champ": "infos_complementaires (installations nouvelles)",
+      "url": "https://economie.eaufrance.fr/sites/default/files/2024-11/doc577-12e_programme_aesn_vf.pdf",
+      "date": "2026-09-28",
+      "extrait": "B.2.2.9. Les installations nouvelles Une installation nouvelle correspond à la création d’une nouvelle implantation géographique depuis moins de 2 années. [...] Pour les installations nouvelles, sont éligibles les études et les travaux liés aux dispositifs d’épuration et aux technologies propres permettant d’aller au-delà des exigences de la règlementation applicable. [...] Le montant des dépenses éligibles correspond aux dépenses qui permettent d’aller au-delà des exigences de la réglementation applicable. (page 68 du fichier)"
+    },
+    {
+      "champ": "eligibilite (entreprises vinicoles)",
+      "url": "https://levigneronchampenois.comitechampagne.fr/environnement/programme-eau-climat-biodiversite-de-lagence-de-leau-seine-normandie",
+      "date": "2026-09-28",
+      "extrait": "Partenaire historique de la filière vinicole, l’agence de l’eau reconduit son programme d’intervention auprès des entreprises vinicoles. [...] L’agence de l’eau Seine-Normandie peut vous accompagner financièrement dans vos actions."
+    }
+  ],
+  "date_maj": "2026-09-28"
+}

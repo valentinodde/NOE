@@ -1,0 +1,206 @@
+{
+  "id": "AIDE_GCU_001",
+  "nom": "Sobriété et économies d'eau en agriculture (agence de l'eau Adour-Garonne, 12e programme)",
+  "financeur": "Agence de l'eau Adour-Garonne",
+  "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792084514/Noe%20assets/logos/AIDE_GCU_001.png",
+  "type": "subvention",
+  "taux": "50 % au maximum. Jusqu'à 70 % pour les opérations au bénéfice d'un périmètre élémentaire prioritaire de la carte C9 du SDAGE, validées dans une démarche territoriale de gestion quantitative (PTGE ou démarche concertée équivalente), et pour les opérations des OUGC sous conditions, hors conseil collectif et diagnostics de réseau d'irrigation. Les matériels hydroéconomes et les MAEC qui relèvent du Plan stratégique national suivent le taux de l'appel à projets régional correspondant.",
+  "plafond": null,
+  "description": "Ligne d'aide de l'agence de l'eau Adour-Garonne pour réduire les prélèvements agricoles, au titre de l'objectif « Promouvoir l'efficience, la sobriété et les économies d'eau en agriculture » du 12e programme (2025-2030). Elle finance les outils de suivi et de gestion collective des prélèvements, un meilleur pilotage de l'irrigation par des matériels hydroéconomes (sondes, stations météo, brise-jets, systèmes de régulation électronique) achetés collectivement, le conseil collectif et le conseil individuel inscrits dans une démarche de gestion quantitative, les réseaux d'échange sur les pratiques économes en eau, ainsi que l'optimisation des ouvrages agricoles existants et la création de stockages intégrés dans un PTGE validé.",
+  "eligibilite": "Collectivités territoriales et leurs groupements ou leurs délégataires, agriculteurs et groupements d'agriculteurs, entreprises, associations et autres personnes morales légitimes à porter le projet, dans le bassin Adour-Garonne. La création d'ouvrages hydrauliques est réservée aux collectivités ou, sur proposition du porteur du PTGE, à une autre structure fondée à agir. Les études et travaux sur des retenues individuelles (déconnexion, mobilisation des volumes non utilisés) doivent être intégrés dans une démarche collective à une échelle hydrographique cohérente et doivent être portés par une collectivité territoriale.",
+  "categories": [
+    "suivre_comprendre_maitriser",
+    "ameliorer_efficacite_hydrique",
+    "valoriser_reut_eaux_non_conventionnelles"
+  ],
+  "secteurs": [
+    "grandes_cultures"
+  ],
+  "departements": [],
+  "agences": [
+    "AEAG"
+  ],
+  "mesures": [
+    "ACT_GCU_001",
+    "ACT_GCU_002",
+    "ACT_GCU_003",
+    "ACT_GCU_008"
+  ],
+  "infos_complementaires": [
+    {
+      "type": "avertissement",
+      "texte": "Le matériel d'irrigation lui-même (pivots, rampes, goutte-à-goutte) n'est pas financé par cette ligne, pas plus que les compteurs de prélèvement. Sont aidés les matériels hydroéconomes de pilotage : sondes, stations météo, brise-jets, systèmes de régulation électronique."
+    },
+    {
+      "type": "avertissement",
+      "texte": "Les matériels hydroéconomes ne sont aidés que dans le cadre d'un achat collectif et d'une démarche menée à une échelle hydrographique cohérente, avec un engagement d'au moins 10 % d'économie d'eau de prélèvement. Un exploitant seul ne dépose donc pas ce type de dossier : rapprochez-vous de la structure collective de votre territoire."
+    },
+    {
+      "type": "avertissement",
+      "texte": "Les études et travaux sur une retenue individuelle (déconnexion, mobilisation de volumes non utilisés) doivent être intégrés dans une démarche collective à une échelle hydrographique cohérente et portés par une collectivité territoriale : un exploitant ne les dépose pas lui-même. L'optimisation des ouvrages agricoles existants (dans une démarche concertée de gestion quantitative) comme la création de stockage (intégrée dans un PTGE validé) doivent être réalisées au bénéfice d'un périmètre élémentaire prioritaire de la carte C9 du SDAGE. L'entretien, le renouvellement et la part des travaux qui développe l'irrigation ne sont pas éligibles."
+    },
+    {
+      "type": "avertissement",
+      "texte": "La demande d'aide doit être adressée à l'agence avant tout commencement d'exécution de l'opération (sauf opérations reconduites chaque année)."
+    },
+    {
+      "type": "info",
+      "texte": "Les aides de l'agence prennent la forme de subventions ou d'avances remboursables. Une subvention n'est pas attribuée en dessous de 2 000 € par dossier (500 € pour les aides aux investissements dans les exploitations agricoles liées à la production primaire), et aucune avance n'est accordée en dessous de 100 000 €."
+    },
+    {
+      "type": "info",
+      "texte": "Le conseil individuel est aidé quand il est réalisé dans une démarche de gestion quantitative, porté sur chaque territoire par le maître d'ouvrage de la démarche territoriale, sur la base d'un diagnostic complet quantité et qualité de l'exploitation (efficience de l'irrigation et transition agroécologique), dans la limite de 4 jours par exploitation. Un conseil sans raisonnement au niveau du système d'exploitation pour la transition agroécologique n'est pas éligible."
+    },
+    {
+      "type": "info",
+      "texte": "Pour toute retenue à vocation agricole unique, les agriculteurs prennent des engagements individuels de pratiques agroécologiques dans le cadre d'un programme de transition agroécologique, joints au dossier de l'ouvrage et suivis par la structure porteuse."
+    },
+    {
+      "type": "info",
+      "texte": "La demande se dépose sur la plateforme Rivage : thématique « Lutte contre les pressions des activités agricoles (réduction des pollutions et prélèvement, sobriété) et accompagnement des filières », puis l'un des dispositifs Études et expérimentations, Conseil agricole, Investissements en faveur des économies d'eau, Accompagnement des OUGC, Travaux de substitution des prélèvements ou Autre."
+    },
+    {
+      "type": "ressource",
+      "texte": "Fiche thématique de l'agence « Sobriété et économies d'eau en agriculture » (PDF, version de novembre 2025)",
+      "lien": "https://eau-grandsudouest.fr/sites/default/files/2025-11/fiche-thematique_gq_sobriete-et-economies-d-eau-en-agriculture_hd_bureau.pdf"
+    },
+    {
+      "type": "ressource",
+      "texte": "Délibération du 12e programme « Gestion quantitative de la ressource et économies d'eau » (ligne 21, version consolidée du 2 juillet 2026, PDF)",
+      "lien": "https://eau-grandsudouest.fr/sites/default/files/2026-08/56-24_l21_gestion_quantitative_12ieme_adapteecvm_0.pdf"
+    },
+    {
+      "type": "ressource",
+      "texte": "Page des aides de l'agence pour la gestion quantitative et les économies d'eau",
+      "lien": "https://eau-grandsudouest.fr/aides-financieres/gestion-quantitative-ressource-economies-eau-pour-tous-usages"
+    },
+    {
+      "type": "ressource",
+      "texte": "Délibération générale du 12e programme sur les modalités d'attribution et de versement des aides (DL/CA/24-51 modifiée le 12 mars 2026, PDF)",
+      "lien": "https://eau-grandsudouest.fr/sites/default/files/2026-08/51-24_deliberation-generale_modifie-consolicee-12-03-26.pdf"
+    },
+    {
+      "type": "ressource",
+      "texte": "Plateforme de dépôt des demandes d'aide Rivage",
+      "lien": "https://rivage.eau-adour-garonne.fr/appli/"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "nom, description (12e programme, période)",
+      "url": "https://eau-grandsudouest.fr/sites/default/files/2026-08/56-24_l21_gestion_quantitative_12ieme_adapteecvm_0.pdf",
+      "date": "2026-10-15",
+      "extrait": "12EME PROGRAMME PLURIANNUEL D'INTERVENTION MODALITES ET CONDITIONS D'ATTRIBUTION DES AIDES « GESTION QUANTITATIVE DE LA RESSOURCE ET ECONOMIES D'EAU » LIGNE 21 POUR LA PERIODE DU 1ER JANVIER 2025 AU 31 DECEMBRE 2030"
+    },
+    {
+      "champ": "nom, description",
+      "url": "https://eau-grandsudouest.fr/aides-financieres/gestion-quantitative-ressource-economies-eau-pour-tous-usages",
+      "date": "2026-10-15",
+      "extrait": "Sobriété et économies d'eau en agriculture. L'Agence encourage la transition agroécologique en agriculture pour réduire les consommations d'eau et promouvoir des pratiques plus sobres et efficaces."
+    },
+    {
+      "champ": "description, mesures (ACT_GCU_001, ACT_GCU_003), infos_complementaires (matériels hydroéconomes, achat collectif, 10 %)",
+      "url": "https://eau-grandsudouest.fr/sites/default/files/2026-08/56-24_l21_gestion_quantitative_12ieme_adapteecvm_0.pdf",
+      "date": "2026-10-15",
+      "extrait": "Un meilleur pilotage et efficience de l'irrigation (matériels hydro-économes de type sondes, stations météo, brise-jets, systèmes de régulation électronique 19) et l'accompagnement individuel induit dans le cadre d'un achat collectif et d'une démarche menée à une échelle hydrographique cohérente permettant d'atteindre a minima 10% d'économies d'eau de prélèvement"
+    },
+    {
+      "champ": "infos_complementaires (matériel d'irrigation exclu)",
+      "url": "https://eau-grandsudouest.fr/sites/default/files/2026-08/56-24_l21_gestion_quantitative_12ieme_adapteecvm_0.pdf",
+      "date": "2026-10-15",
+      "extrait": "19 Hors matériel d'irrigation (pivots, rampes, systèmes de goutte-à-goutte...)"
+    },
+    {
+      "champ": "infos_complementaires (compteurs et conseil non éligibles)",
+      "url": "https://eau-grandsudouest.fr/sites/default/files/2026-08/56-24_l21_gestion_quantitative_12ieme_adapteecvm_0.pdf",
+      "date": "2026-10-15",
+      "extrait": "Article 25 : Opérations non éligibles [...] Les compteurs de prélèvement ; Les opérations de conseil agricole individuel ou collectif qui seraient réalisées en dehors de tout raisonnement au niveau des systèmes d'exploitation pour la transition agroécologique"
+    },
+    {
+      "champ": "description, mesures (ACT_GCU_002), infos_complementaires (conseil individuel)",
+      "url": "https://eau-grandsudouest.fr/sites/default/files/2026-08/56-24_l21_gestion_quantitative_12ieme_adapteecvm_0.pdf",
+      "date": "2026-10-15",
+      "extrait": "Les prestations de conseil individuel 20 réalisées dans le cadre de démarches de gestion quantitative [...] portées sur chaque territoire par le maître d'ouvrage de la démarche territoriale. [Note 20] 4 jours max. pour 1 exploitation [...] Le conseil indviduel doit être mené à l'échelle de l'exploitation agricole sur la base diagnostic complet quantité et qualité (efficience de l'irrigation et transition agro-écologique)."
+    },
+    {
+      "champ": "description (conseil collectif, réseaux d'échange)",
+      "url": "https://eau-grandsudouest.fr/sites/default/files/2026-08/56-24_l21_gestion_quantitative_12ieme_adapteecvm_0.pdf",
+      "date": "2026-10-15",
+      "extrait": "Des prestations de conseil collectif auprès des usagers et les actions de sensibilisation aux économies d'eau (dont les retours d'expériences) ainsi que les formations collectives réalisées à une échelle hydrographique cohérente [...] La coordination et la structuration de réseaux d'échange sur des pratiques économes en eau"
+    },
+    {
+      "champ": "description, mesures (ACT_GCU_008)",
+      "url": "https://eau-grandsudouest.fr/sites/default/files/2026-08/56-24_l21_gestion_quantitative_12ieme_adapteecvm_0.pdf",
+      "date": "2026-10-15",
+      "extrait": "Optimisation/aménagement des ouvrages agricoles existants dans le cadre de démarches concertées de gestion quantitative [...] Création de nouvelles infrastructures de stockage dans la mesure où elles sont intégrées dans un PTGE validé et approuvé par la CLE du SAGE lorsqu'elle existe. Ces ouvrages doivent être réalisés au bénéfice d'un périmètre élémentaire (PE) prioritaire identifié dans la carte C9 du SDAGE"
+    },
+    {
+      "champ": "eligibilite",
+      "url": "https://eau-grandsudouest.fr/sites/default/files/2026-08/56-24_l21_gestion_quantitative_12ieme_adapteecvm_0.pdf",
+      "date": "2026-10-15",
+      "extrait": "Article 23 : Bénéficiaires. Les bénéficiaires sont les collectivités territoriales et leurs groupements ou leurs délégataires, les agriculteurs ou groupements d'agriculteurs, ainsi que les entreprises, les associations ou les autres personnes morales ayant une légitimité à porter les opérations. Pour les opérations relevant de la création d'ouvrages hydrauliques, les bénéficiaires sont les collectivités territoriales ou leurs groupements ou, à défaut, sur proposition du porteur de la démarche PTGE [...] toute autre structure fondée à agir"
+    },
+    {
+      "champ": "eligibilite, infos_complementaires (retenues individuelles)",
+      "url": "https://eau-grandsudouest.fr/sites/default/files/2026-08/56-24_l21_gestion_quantitative_12ieme_adapteecvm_0.pdf",
+      "date": "2026-10-15",
+      "extrait": "Article 24 : Conditions d'éligibilité. Les études et travaux sur des retenues individuelles (à titre d'exemple : déconnexion, mobilisation des volumes non utilisés…) doivent être intégrés dans une démarche collective à une échelle hydrographique cohérente et doivent être portés par une collectivité territoriale."
+    },
+    {
+      "champ": "infos_complementaires (entretien, renouvellement, développement de l'irrigation)",
+      "url": "https://eau-grandsudouest.fr/sites/default/files/2026-08/56-24_l21_gestion_quantitative_12ieme_adapteecvm_0.pdf",
+      "date": "2026-10-15",
+      "extrait": "Article 7 : Opérations non éligibles [...] Les opérations d'entretien ou de renouvellement ; La part des études et travaux relative à du développement de l'irrigation pour les ouvrages hydrauliques"
+    },
+    {
+      "champ": "infos_complementaires (engagements agroécologiques des retenues agricoles)",
+      "url": "https://eau-grandsudouest.fr/sites/default/files/2026-08/56-24_l21_gestion_quantitative_12ieme_adapteecvm_0.pdf",
+      "date": "2026-10-15",
+      "extrait": "Pour les retenues à vocation agricole unique, des engagements individuels des agriculteurs seront pris dans le cadre d'un programme de transition agroécologique. [...] Ils sont joints au dossier de l'ouvrage, et font l'objet d'un suivi de mise en œuvre par la structure porteuse de l'ouvrage"
+    },
+    {
+      "champ": "taux",
+      "url": "https://eau-grandsudouest.fr/sites/default/files/2026-08/56-24_l21_gestion_quantitative_12ieme_adapteecvm_0.pdf",
+      "date": "2026-10-15",
+      "extrait": "Article 26 : Taux [...] 50 % Toutes les opérations sauf les opérations listées ci-dessous. 70 % Les opérations réalisées au bénéfice d'un périmètre élémentaire prioritaire (PE) identifié dans la carte C9 du SDAGE [...] validées dans les démarches territoriales de gestion quantitative [...] Les opérations portées par les OUGC [...] Taux PSN Matériels hydro-économes, MAEC… [Note 22] Le conseil collectif et les diagnostics de réseau d'irrigation ne peuvent bénéficier du taux de 70%."
+    },
+    {
+      "champ": "taux",
+      "url": "https://eau-grandsudouest.fr/sites/default/files/2025-11/fiche-thematique_gq_sobriete-et-economies-d-eau-en-agriculture_hd_bureau.pdf",
+      "date": "2026-10-15",
+      "extrait": "Taux d'aide de 50 à 70 % max. Sauf pour les opérations relevant de conditions spécifiques du Plan Stratégique National (PSN) ou de programmes équivalents"
+    },
+    {
+      "champ": "infos_complementaires (dépôt sur Rivage)",
+      "url": "https://eau-grandsudouest.fr/sites/default/files/2025-11/fiche-thematique_gq_sobriete-et-economies-d-eau-en-agriculture_hd_bureau.pdf",
+      "date": "2026-10-15",
+      "extrait": "COMMENT DÉPOSER UNE AIDE ? 1. Sélectionner la thématique « Lutte contre les pressions des activités agricoles (réduction des pollutions et prélèvement, sobriété) et accompagnement des filières ». 2. Sélectionner l'un des dispositifs d'aide associé [...] Lien vers la plateforme Rivage : rivage.eau-adour-garonne.fr/appli/"
+    },
+    {
+      "champ": "infos_complementaires (dispositifs Rivage)",
+      "url": "https://eau-grandsudouest.fr/aides-financieres/gestion-quantitative-ressource-economies-eau-pour-tous-usages",
+      "date": "2026-10-15",
+      "extrait": "Dispositifs : Études et expérimentations Conseil agricole Investissements en faveur des économies d'eau Accompagnement des OUGC Travaux de substitution des prélèvements Autre"
+    },
+    {
+      "champ": "logo_url",
+      "url": "https://eau-grandsudouest.fr/themes/custom/adour/logo.svg",
+      "date": "2026-10-15",
+      "extrait": "Logo du site de l'agence (alt « Eau Grand Sud-Ouest, agence de l'eau Adour-Garonne »), en-tête de https://eau-grandsudouest.fr/"
+    },
+    {
+      "champ": "type, infos_complementaires (forme et seuils des aides)",
+      "url": "https://eau-grandsudouest.fr/sites/default/files/2026-08/51-24_deliberation-generale_modifie-consolicee-12-03-26.pdf",
+      "date": "2026-10-15",
+      "extrait": "Délibération n° DL/CA/24-51, modifiée par la DL/CA/26-22 du 12 mars 2026 [...] Article 12 - Seuils d'attribution des aides en subvention et en avance remboursable. Les aides se présentent sous la forme de subvention ou d'avance remboursable. [...] L'Agence n'attribue pas d'aide en subvention lorsque le montant total de subvention(s) par dossier est inférieur à 2 000 € [...] pour les dossiers accompagnés via le régime d'Aides aux investissements dans les exploitations agricoles liées à la production primaire [...] ce montant est porté à 500 € [...] Aucune avance ne sera attribuée si elle est inférieure à 100.000 €."
+    },
+    {
+      "champ": "infos_complementaires (demande avant commencement)",
+      "url": "https://eau-grandsudouest.fr/sites/default/files/2026-08/51-24_deliberation-generale_modifie-consolicee-12-03-26.pdf",
+      "date": "2026-10-15",
+      "extrait": "Article 10 - Modalités de dépôt de la demande d'aide [...] La demande d'aide est adressée à l'Agence avant tout commencement d'exécution, à l'exception des opérations récurrentes (portant sur des actions reconduites annuellement)"
+    }
+  ],
+  "date_maj": "2026-10-15"
+}

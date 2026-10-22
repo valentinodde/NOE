@@ -1,0 +1,129 @@
+{
+  "id": "AIDE_HOT_007",
+  "nom": "ECODO PRO, accompagnement subventionné aux économies d'eau (CCI de Bretagne)",
+  "financeur": "CCI de Bretagne et partenaires du programme ECODO PRO, animé par Bretagne Compétitivité",
+  "logo_url": null,
+  "type": "accompagnement",
+  "taux": "Reste à charge de 90 € HT par jour d'accompagnement (moins de 50 salariés), 180 € HT (50 à 250 salariés), 240 € HT (plus de 250 salariés), le reste étant soutenu financièrement par les partenaires du programme",
+  "plafond": "Accompagnement de 1 à 4 jours selon la nature du projet",
+  "description": "Programme régional d'accompagnement qui aide les entreprises bretonnes à sécuriser leur approvisionnement en eau par des pratiques hydro-économes. Il comprend un état des lieux avec un diagnostic et des recommandations personnalisées, un accompagnement individuel (réglementation, financements, solutions techniques) et des accompagnements collectifs (ateliers inter-entreprises, webinaires). L'accompagnement est réalisé par un conseiller de Bretagne Compétitivité ou d'une CCI.",
+  "eligibilite": "Entreprises bretonnes de tous secteurs, tourisme compris (industrie, tourisme, bâtiment, services). Les accompagnements sont réservés aux entreprises bretonnes.",
+  "categories": [
+    "suivre_comprendre_maitriser"
+  ],
+  "secteurs": [
+    "hotellerie"
+  ],
+  "departements": [
+    "22",
+    "29",
+    "35",
+    "56"
+  ],
+  "agences": [],
+  "mesures": [
+    "ACT_AGR_002"
+  ],
+  "infos_complementaires": [
+    {
+      "type": "info",
+      "texte": "La candidature se fait en remplissant le formulaire de l'appel à manifestation d'intérêt sur la page du programme. Pour toute question, vous pouvez écrire à ecodo@bretagne-competitivite.fr."
+    },
+    {
+      "type": "info",
+      "texte": "La grille de reste à charge est celle publiée par Bretagne Compétitivité sur la page du programme au 24 septembre 2026. Elle peut évoluer d'un appel à candidatures à l'autre : vérifiez-la au moment de candidater."
+    },
+    {
+      "type": "info",
+      "texte": "Le reste à charge porte sur les jours d'accompagnement. La page du programme renvoie vers les aides financières existantes : les aides de l'agence de l'eau Loire-Bretagne et le Pass transition de la Région Bretagne. La fiche pratique pour les hôtels cite les subventions de l'agence de l'eau Loire-Bretagne pour les investissements importants permettant des économies d'eau."
+    },
+    {
+      "type": "retour_experience",
+      "texte": "Selon le programme, plus de 350 entreprises bretonnes ont été accompagnées en 5 ans, avec en moyenne 13 % d'économie d'eau par entreprise accompagnée."
+    },
+    {
+      "type": "ressource",
+      "texte": "Page du programme ECODO PRO sur le site de Bretagne Compétitivité",
+      "lien": "https://www.bretagne-competitivite.fr/ecodopro/"
+    },
+    {
+      "type": "ressource",
+      "texte": "Formulaire de candidature (appel à manifestation d'intérêt)",
+      "lien": "https://forms.office.com/Pages/ResponsePage.aspx?id=0BXJUzhqikSPHOkE2RgTKzgp2nU6JiRGrWSgn97UbKFUQzlJUlpZSU44V1hSNkhRWVQ0MDg0TUI2TS4u"
+    },
+    {
+      "type": "ressource",
+      "texte": "Fiche pratique « Hydro-économies pour les hôtels » : 7 recommandations et témoignages d'hôtels bretons",
+      "lien": "https://www.bretagne-competitivite.fr/wp-content/uploads/2025/06/ECODO-Fiche-BP_Hotels.pdf"
+    },
+    {
+      "type": "ressource",
+      "texte": "Guide ECODO PRO « Pratiques hydro-économes piscines » : 7 recommandations pour les piscines collectives",
+      "lien": "https://www.bretagne-competitivite.fr/wp-content/uploads/2026/03/Kit-piscine-2026.pdf"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "taux, type, financeur",
+      "url": "https://www.bretagne-competitivite.fr/ecodopro/",
+      "date": "2026-09-24",
+      "extrait": "Le programme est soutenu financièrement par les partenaires d'ECODO PRO, afin que le reste à charge pour les entreprises, soit le moins coûteux possible : 90 € HT / jour d'accompagnement (- de 50 salariés) 180 € HT / jour d'accompagnement (50 à 250 salariés) 240 € HT / jour d'accompagnement (+ de 250 salariés)"
+    },
+    {
+      "champ": "infos_complementaires",
+      "url": "https://www.bretagne-competitivite.fr/ecodopro/",
+      "date": "2026-09-24",
+      "extrait": "Coût : Le programme est soutenu financièrement par les partenaires d'ECODO PRO, afin que le reste à charge pour les entreprises, soit le moins coûteux possible : 90 € HT / jour d'accompagnement (- de 50 salariés)"
+    },
+    {
+      "champ": "plafond",
+      "url": "https://www.bretagne-competitivite.fr/ecodopro/",
+      "date": "2026-09-24",
+      "extrait": "Durée de l'accompagnement : > De 1 à 4 jours selon la nature des projets."
+    },
+    {
+      "champ": "financeur, description",
+      "url": "https://www.bretagne-competitivite.fr/ecodopro/",
+      "date": "2026-09-24",
+      "extrait": "Les partenaires régionaux d'ECODO PRO, le programme de la CCI de Bretagne, animé par Bretagne Compétitivité [...] Bénéficiez de l'accompagnement d'ECODO PRO par l'un de nos conseillers (Bretagne Compétitive / CCI)"
+    },
+    {
+      "champ": "description, mesures, categories",
+      "url": "https://www.bretagne-competitivite.fr/ecodopro/",
+      "date": "2026-09-24",
+      "extrait": "ECODO PRO, programme d'accompagnement qui permet aux entreprises bretonnes de sécuriser leur approvisionnement en eau grâce à la mise en place de pratiques hydro-économes. [...] Un état des lieux avec un diagnostic et des recommandations personnalisées à mettre en place. Un accompagnement individuel spécifique : réglementation, financements, solutions techniques…. Des accompagnements collectifs pour monter en compétence (ateliers inter-entreprises, webinaires)."
+    },
+    {
+      "champ": "eligibilite, departements",
+      "url": "https://www.bretagne-competitivite.fr/ecodopro/",
+      "date": "2026-09-24",
+      "extrait": "Ce programme est à destination de toutes les entreprises bretonnes (industrie, tourisme, bâtiment, de services …) [...] Accompagnements réservés aux entreprises bretonnes"
+    },
+    {
+      "champ": "infos_complementaires",
+      "url": "https://www.bretagne-competitivite.fr/ecodopro/",
+      "date": "2026-09-24",
+      "extrait": "en complétant le formulaire de l'appel à manifestation d'intérêt : Je souhaite bénéficier de l'accompagnement [...] mailto:ecodo@bretagne-competitivite.fr [...] Entreprises, découvrez les aides financières existantes : Aides financières de l'Agence de l'Eau Loire Bretagne, Pass transition de la région bretagne"
+    },
+    {
+      "champ": "infos_complementaires",
+      "url": "https://www.bretagne-competitivite.fr/ecodopro/",
+      "date": "2026-09-24",
+      "extrait": "+ de 350 entreprises bretonnes accompagnées depuis 5 ans. En moyenne, une entreprise accompagnée par le programme, réalise 13% d'économie d'eau."
+    },
+    {
+      "champ": "infos_complementaires",
+      "url": "https://www.bretagne-competitivite.fr/wp-content/uploads/2025/06/ECODO-Fiche-BP_Hotels.pdf",
+      "date": "2026-09-24",
+      "extrait": "PRATIQUES HYDRO-ÉCONOMES HÔTELS. 7 RECOMMANDATIONS POUR RÉDUIRE VOS CONSOMMATIONS D'EAU [...] LES FINANCEMENTS : Investissements importants permettant des économies d'eau : Subventions de l'Agence de l'Eau Loire Bretagne"
+    },
+    {
+      "champ": "infos_complementaires",
+      "url": "https://www.bretagne-competitivite.fr/wp-content/uploads/2026/03/Kit-piscine-2026.pdf",
+      "date": "2026-09-24",
+      "extrait": "PRATIQUES HYDRO-ÉCONOMES PISCINES O PRO 7 recommandations [...] Les périodes de forte activité des piscines collectives coïncident généralement avec les périodes de sécheresse."
+    }
+  ],
+  "date_maj": "2026-09-24"
+}

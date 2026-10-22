@@ -1,0 +1,115 @@
+{
+  "id": "PREST_GCU_008",
+  "nom": "Agro d'Oc, union des CETA d'Oc",
+  "type": "cooperative",
+  "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792084213/Noe%20assets/logos/PREST_GCU_008.png",
+  "siret": "44198615500014",
+  "description": "Société coopérative agricole de conseil en grandes cultures, basée dans le Gers, qui fédère des CETA (groupes de 15 à 30 agriculteurs animés par des ingénieurs conseils) en Occitanie et en Nouvelle-Aquitaine. Elle conduit des essais sur les parcelles de ses adhérents depuis plus de 25 ans en agriculture de conservation (semis sous couvert, doubles couverts), dont le projet SD EAU sur le semis direct des cultures de printemps face à la gestion quantitative et qualitative de l'eau, mené à partir de 2012 avec des résultats présentés en 2015, cofinancé par l'agence de l'eau Adour-Garonne et la Région Midi-Pyrénées. Le conseil s'adresse aux adhérents de la coopérative, et l'adhésion se demande par le formulaire de contact du site.",
+  "expertises": [
+    "Agriculture de conservation des sols",
+    "Couverts végétaux et semis direct",
+    "Itinéraires culturaux grandes cultures",
+    "Agriculture de précision"
+  ],
+  "categories": [
+    "changer_process_pratiques"
+  ],
+  "secteurs": [
+    "grandes_cultures"
+  ],
+  "departements": [
+    "09",
+    "11",
+    "12",
+    "30",
+    "31",
+    "32",
+    "34",
+    "46",
+    "48",
+    "65",
+    "66",
+    "81",
+    "82",
+    "16",
+    "17",
+    "19",
+    "23",
+    "24",
+    "33",
+    "40",
+    "47",
+    "64",
+    "79",
+    "86",
+    "87"
+  ],
+  "mesures": [
+    {
+      "id": "ACT_GCU_007",
+      "roles": [
+        "conseil_etude"
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "type": "site_internet",
+      "value": "https://www.agrodoc.fr/"
+    },
+    {
+      "type": "tel",
+      "value": "05 62 07 81 50"
+    },
+    {
+      "type": "adresse",
+      "value": "410 chemin des Cardayres, 32490 Monferran-Savès"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Agro%20d%27Oc&departement=32",
+      "date": "2026-10-15",
+      "extrait": "AGRO D'OC UNION DES CETA D'OC, siret 44198615500014, siège, 410 CHEMIN DES CARDAYRES 32490 MONFERRAN-SAVES, nature_juridique 6317, etat_administratif A"
+    },
+    {
+      "champ": "contacts",
+      "url": "https://www.agrodoc.fr/contact",
+      "date": "2026-10-15",
+      "extrait": "410 chemin des Cardayres, 32490 MONFERRAN SAVES. 05 62 07 81 50"
+    },
+    {
+      "champ": "type, departements, description",
+      "url": "https://www.agrodoc.fr/identite",
+      "date": "2026-10-15",
+      "extrait": "AGRO D'OC est une société coopérative agricole (agrément n° 11330). [...] Sa territorialité est régionale, ses adhérents ont leurs exploitations dans les départements des régions Occitanie et Nouvelle Aquitaine. [...] AGRO D'OC fonctionne par, et donc pour, ses adhérents. C'est la garantie d'un conseil objectif, élaboré dans leur seul intérêt."
+    },
+    {
+      "champ": "description",
+      "url": "https://www.agrodoc.fr/ceta",
+      "date": "2026-10-15",
+      "extrait": "les CETA d'AGRO D'OC sont aujourd'hui composés de 15 à 30 agriculteurs qui se réunissent fréquemment sur les sites des exploitations agricoles. Une équipe d'ingénieurs Conseil organise ces réunions et assure le suivi des études"
+    },
+    {
+      "champ": "description, expertises, mesures",
+      "url": "https://www.agrodoc.fr/expertise",
+      "date": "2026-10-15",
+      "extrait": "Zoom sur l'agriculture de conservation : Des travaux d'expérimentation depuis plus de 25 ans. De nombreux adhérents qui pratiquent : Semis sous couvert, technique double couverts, fertilisation localisée, culture de tournesol en ACS. [...] Optimisation des itinéraires culturaux régionaux, conventionnels et biologiques. Agriculture de précision & modulation intra-parcellaire des intrants. [...] Des permanences téléphoniques quotidiennes"
+    },
+    {
+      "champ": "description, mesures",
+      "url": "https://www.agrodoc.fr/projetsCETA?id=2",
+      "date": "2026-10-15",
+      "extrait": "Présentation des principaux résultats du projet CETA mené depuis 2012. [01/12/2015] [...] Projet SD EAU : Techniques de Semis Direct en culture de printemps pour répondre à une problématique quantitative et qualitative de gestion de l'eau. Ce projet CETA, prévu sur 3 ans, est co-financé par l'Agence de l'eau Adour-Garonne et la Région Midi-Pyrénées. [...] Gain de 7 q/ha en moyenne sur 3 ans grâce aux couverts végétaux."
+    },
+    {
+      "champ": "logo_url",
+      "url": "https://www.agrodoc.fr/img/Logo/AOC/AOC-cross152.png",
+      "date": "2026-10-15",
+      "extrait": "apple-touch-icon 152x152 déclarée dans l'en-tête de https://www.agrodoc.fr/"
+    }
+  ],
+  "date_maj": "2026-10-15"
+}

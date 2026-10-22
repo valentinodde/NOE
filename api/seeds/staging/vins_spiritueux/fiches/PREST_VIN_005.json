@@ -1,0 +1,96 @@
+{
+  "id": "PREST_VIN_005",
+  "nom": "INOXPA France",
+  "type": "installateur",
+  "logo_url": null,
+  "siret": "49110397400078",
+  "description": "Filiale française du fabricant espagnol INOXPA (Banyoles), avec des agences à Chambly (Oise), Villefranche-sur-Saône (Rhône) et Alençon (Orne). Le groupe propose des équipements pour les procédés du vin et des boissons alcoolisées, dont des systèmes de raclage de tuyauterie (SilPig) qui récupèrent le produit restant dans les canalisations avant le nettoyage ; il fabrique aussi des systèmes de nettoyage en place (NEP) et en assure l'installation. Une technique de récupération de produit d'INOXPA a été testée dans 16 caves européennes par le projet Winenvironment coordonné par l'IFV.",
+  "expertises": [
+    "Systèmes de raclage de tuyauterie",
+    "Récupération de produit",
+    "Nettoyage en place (NEP)"
+  ],
+  "categories": [
+    "ameliorer_efficacite_hydrique"
+  ],
+  "secteurs": [
+    "vins_spiritueux"
+  ],
+  "departements": [
+    "60",
+    "69",
+    "61"
+  ],
+  "mesures": [
+    {
+      "id": "ACT_VIN_002",
+      "roles": [
+        "materiel"
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "type": "site_internet",
+      "value": "https://www.inoxpa.fr"
+    },
+    {
+      "type": "tel",
+      "value": "01 30 28 91 00"
+    },
+    {
+      "type": "mail",
+      "value": "isf@inoxpa.com"
+    },
+    {
+      "type": "adresse",
+      "value": "ZAE Les Pointes, Route de Gisors, D105, 60230 Chambly"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Inoxpa%20France&departement=60",
+      "date": "2026-09-28",
+      "extrait": "INOXPA FRANCE, siret 49110397400078, siège, D 105 ZAE LES POINTES ROUTE DE GISORS 60230 CHAMBLY, activité 28.29B, état administratif A, 3 établissements ouverts"
+    },
+    {
+      "champ": "contacts, departements (agences de Chambly, Villefranche-sur-Saône, Alençon)",
+      "url": "https://www.inoxpa.fr/entreprise/reseau/france",
+      "date": "2026-09-28",
+      "extrait": "Agences commerciales. INOXPA France SAS - Paris, ZAE Les Pointes Route de Gisors - D105 60230 Chambly France Tel.+33 130289100 isf@inoxpa.com. INOXPA France SAS - Lyon, 60 Avenue Théodore Braun 69400 Villefranche sur Saône. INOXPA FRANCE SAS - ALENÇON, CCI Work Alençon 37 rue Demées 61000 Alençon"
+    },
+    {
+      "champ": "description (fabricant espagnol)",
+      "url": "https://www.inoxpa.fr/entreprise/contact",
+      "date": "2026-09-28",
+      "extrait": "INOXPA S.A.U., Telers, 60, 17820 Banyoles, Spain, +34 972 57 52 00"
+    },
+    {
+      "champ": "description (secteur du vin, fabrication et installation par le groupe), expertises (NEP), mesures (ACT_VIN_002, SilPig présenté pour les boissons)",
+      "url": "https://www.inoxpa.fr/secteurs/boissons",
+      "date": "2026-09-28",
+      "extrait": "Qu'il s'agisse d'une usine complète, d'un équipement ou de la rénovation d'une installation existante, INOXPA propose des solutions pour la plupart des procédés dans le secteur du vin, de la bière et des autres boissons alcoolisées. SilPig Récupération de Produit : Le système SIL PIG est idéal afin de récupérer un produit restant. Outre la fabrication de ces équipements, INOXPA peut offrir le système de nettoyage NEP ainsi que son installation, son automatisation et sa mise en marche."
+    },
+    {
+      "champ": "expertises, mesures (ACT_VIN_002)",
+      "url": "https://www.inoxpa.fr/produits/equipements/recuperation-de-produit",
+      "date": "2026-09-28",
+      "extrait": "Les systèmes de récupération de produit par raclage sont idéaux pour recycler le produit restant dans une tuyauterie suite au process de pompage. INOXPA propose des solutions de récupération de produit par raclage de tuyauterie pour les industries alimentaire, chimique et pharmaceutique."
+    },
+    {
+      "champ": "mesures (ACT_VIN_002, économie d'eau)",
+      "url": "https://www.inoxpa.fr/entreprise/actualite/systemes-pig-de-recuperation-de-produit-des-economies-durables",
+      "date": "2026-09-28",
+      "extrait": "Le PIG est fabriqué à partir de différents matériaux élastiques (silicone, NBR et EPDM), ce qui lui permet de s'adapter parfaitement à l'intérieur des tuyauteries et de récupérer jusqu'à 98 % du produit excédentaire. Une diminution drastique du volume d'eau et de produits de nettoyage."
+    },
+    {
+      "champ": "description (Winenvironment, 16 caves, IFV)",
+      "url": "https://www.vignevin.com/en/european-projects/completed-european-projects/",
+      "date": "2026-09-28",
+      "extrait": "3 eco-innovations tools are tested in 16 cellars: a specific environmental management system, Qualenvi, developed and implemented by the Vignerons Indépendants de France (VIF), a product recovery system technique developed by INOXPA, and an innovative filtration technology by BEGEROW. Coordination: IFV"
+    }
+  ],
+  "date_maj": "2026-09-28"
+}

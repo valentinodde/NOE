@@ -1,0 +1,213 @@
+{
+  "id": "AIDE_GCU_006",
+  "nom": "Pass « Petits investissements dans les exploitations agricoles », volet 2 agroéquipements (Région Occitanie, cofinancé par l'agence de l'eau Adour-Garonne)",
+  "financeur": "Région Occitanie, avec l'agence de l'eau Adour-Garonne sur son périmètre",
+  "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792084808/Noe%20assets/logos/AIDE_GCU_006.png",
+  "type": "subvention",
+  "taux": "30 % des dépenses éligibles pour une exploitation dont le siège est situé dans le périmètre de l'agence de l'eau Adour-Garonne, 20 % ailleurs en Occitanie ou si les crédits de l'agence sont épuisés. Bonification de 10 points pour les bénéficiaires d'une DJA, d'une DNA ou d'un Pass installation (volet trésorerie) dont l'arrêté attributif date de moins de 5 ans au dépôt de la demande, pour les personnes en parcours installation, et pour les sociétés dont un associé exploitant remplit l'un de ces deux critères.",
+  "plafond": "Dépenses présentées strictement inférieures à 20 000 € HT, avec une subvention minimale de 1 000 €",
+  "description": "Subvention de la Région Occitanie aux petits investissements d'agroéquipements qui protègent la ressource en eau et le sol, cofinancée par l'agence de l'eau Adour-Garonne pour les exploitations de son périmètre. Côté eau, elle finance le matériel de pilotage de l'irrigation (logiciel de pilotage, tensiomètres, capteurs sols et plantes, sondes capacitives), les systèmes de régulation électronique sur les matériels d'irrigation et la collecte et le stockage des eaux de pluie des bâtiments agricoles. Côté sol, elle finance le matériel de semis de couverts et de cultures intermédiaires, les semoirs de semis direct et de techniques culturales simplifiées, et le matériel d'implantation, d'entretien ou de destruction des couverts d'interculture (dont rouleau destructeur). Le volet couvre aussi le désherbage mécanique et la meilleure répartition des fertilisants.",
+  "eligibilite": "Exploitants agricoles à titre principal ou secondaire, cotisants solidaires en parcours installation, sociétés agricoles (EARL, GAEC, SCEA, etc.) et autres structures exerçant réellement une activité agricole, dont le siège ou l'établissement porteur du projet est situé en Occitanie. Les CUMA, entreprises de travaux agricoles, collectivités, propriétaires bailleurs, SCI et sociétés coopératives sont exclus.",
+  "categories": [
+    "suivre_comprendre_maitriser",
+    "ameliorer_efficacite_hydrique",
+    "changer_process_pratiques",
+    "valoriser_reut_eaux_non_conventionnelles"
+  ],
+  "secteurs": [
+    "grandes_cultures"
+  ],
+  "departements": [
+    "09",
+    "11",
+    "12",
+    "30",
+    "31",
+    "32",
+    "34",
+    "46",
+    "48",
+    "65",
+    "66",
+    "81",
+    "82"
+  ],
+  "agences": [],
+  "mesures": [
+    "ACT_GCU_001",
+    "ACT_GCU_003",
+    "ACT_GCU_007",
+    "ACT_AGR_006"
+  ],
+  "infos_complementaires": [
+    {
+      "type": "avertissement",
+      "texte": "Déposez votre demande avant tout engagement : un devis signé ou un bon de commande vaut démarrage de l'opération, et la première demande doit être antérieure au commencement d'exécution."
+    },
+    {
+      "type": "avertissement",
+      "texte": "Le matériel d'irrigation lui-même n'est pas éligible : rampes et pivots, canons et canons à retour lent, pompes (hors automatisation et programmation), crépines, variateurs de fréquence, compteurs et abonnements annuels aux outils de pilotage. Pour l'eau de pluie, la collecte et le stockage sont aidés, pas le réseau de distribution de l'eau recueillie des bâtiments."
+    },
+    {
+      "type": "avertissement",
+      "texte": "Une seule demande à la fois : vous ne pouvez pas solliciter en même temps le volet 1 (hors agroéquipements) et le volet 2. Le projet n'est pas éligible si vous avez une aide à l'investissement pour votre exploitation, au titre d'un dispositif de la Région ou du Dispositif unique FEADER 2023-2027, dont le solde n'a pas été demandé. Les aides à la plantation et le dispositif d'hydraulique individuelle ne sont pas concernés par cette règle. Sans CAD validé par la Région, la période 2023-2027 autorise un dossier Dispositif unique ou deux Pass."
+    },
+    {
+      "type": "avertissement",
+      "texte": "Les broyeurs, gyrobroyeurs et broyeurs d'accotement ne sont pas éligibles. Pour un semoir monté sur un outil de travail du sol, l'outil lui-même n'est pas aidé. Un semoir de semis direct doit comporter au minimum un disque ouvreur indépendant, des chasse-débris rotatifs, un coutre fin adapté et une roue de fermeture du sillon, détaillés sur le devis."
+    },
+    {
+      "type": "info",
+      "texte": "Campagne 2026 : dépôt au fil de l'eau sur le portail « Mes aides en ligne » de la Région jusqu'au 30 novembre 2026, avec un devis par investissement. Les dossiers complets sont traités par ordre de dépôt et le dépôt ferme dès que l'enveloppe est épuisée. Les dépenses doivent être réalisées dans les 12 mois suivant le vote."
+    },
+    {
+      "type": "info",
+      "texte": "Contact à la Région : pass_exploitation_agricole@laregion.fr, ou le 3010 (service et appel gratuits)."
+    },
+    {
+      "type": "ressource",
+      "texte": "Page du dispositif sur le site de la Région Occitanie",
+      "lien": "https://www.laregion.fr/Pass-Petits-investissements-dans-les-exploitations-agricoles"
+    },
+    {
+      "type": "ressource",
+      "texte": "Règlement du dispositif 2026, avec la liste des agroéquipements éligibles en annexe 3 (PDF)",
+      "lien": "https://www.laregion.fr/IMG/pdf/7/9/d/annexe_pass_v12-12-2025.pdf"
+    },
+    {
+      "type": "ressource",
+      "texte": "Portail de dépôt « Mes aides en ligne » de la Région Occitanie",
+      "lien": "https://mesaidesenligne.laregion.fr/account-management/croccitanie-demandeurs/ux/#/login?redirectTo=https:%2F%2Fmesaidesenligne.laregion.fr%2Faides%2F%23%2Fcroccitanie%2Fconnecte%2Ftiers-selection&jwtKey=jwt-croccitanie-portail-depot-demande-aides&footer=https:%2F%2Fmesaidesenligne.laregion.fr%2Faides%2F%23%2Fcroccitanie%2Fmentions-legales,Mentions%20l%C3%A9gales,_self"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "nom, financeur, description",
+      "url": "https://www.laregion.fr/IMG/pdf/7/9/d/annexe_pass_v12-12-2025.pdf",
+      "date": "2026-10-15",
+      "extrait": "Volet 2 : Agroéquipements. L'Agence de l'Eau Adour Garonne (AEAG) subventionne les investissements du volet 2 (agroéquipements) acquis par les exploitations agricoles dont le siège social est situé dans le périmètre de l'Agence de l'Eau Adour-Garonne."
+    },
+    {
+      "champ": "nom, description",
+      "url": "https://www.laregion.fr/Pass-Petits-investissements-dans-les-exploitations-agricoles",
+      "date": "2026-10-15",
+      "extrait": "Cette année, le PASS comporte deux volets : Volet 1 : Dépenses Hors Agroéquipements, Volet 2 : Dépenses d'Agroéquipements. Attention : on ne peut déposer qu'une seule demande soit sur le volet 1, soit sur le volet 2."
+    },
+    {
+      "champ": "taux",
+      "url": "https://www.laregion.fr/IMG/pdf/7/9/d/annexe_pass_v12-12-2025.pdf",
+      "date": "2026-10-15",
+      "extrait": "Volet 2 : Avec intervention d'une Agence de l'Eau sur son périmètre d'intervention et siège d'exploitation agricole situé sur ce territoire [...] Taux d'aide de base 30 % / Sans intervention d'une Agence de l'eau [...] 20 %. Bonification du taux de base pour : - Demandeurs ayant bénéficié d'une DJA, d'une DNA ou d'un Pass installation - volet trésorerie dont l'arrêté attributif est daté de moins de 5 ans à la date de dépôt de la demande d'aide - Les personnes en parcours installation (tel que défini au paragraphe « bénéficiaires ») - Ou sociétés ayant un associé exploitant répondant à au moins un des 2 critères ci-dessus. 10 %"
+    },
+    {
+      "champ": "taux",
+      "url": "https://www.laregion.fr/IMG/pdf/7/9/d/annexe_pass_v12-12-2025.pdf",
+      "date": "2026-10-15",
+      "extrait": "ATTENTION : si l'Agence de l'Eau ne peut intervenir faute de disponibilité financière, la Région interviendra alors au taux de base du dispositif, soit 20 % (+bonification le cas échéant) indépendamment de la localisation du siège de d'exploitation agricole."
+    },
+    {
+      "champ": "plafond",
+      "url": "https://www.laregion.fr/IMG/pdf/7/9/d/annexe_pass_v12-12-2025.pdf",
+      "date": "2026-10-15",
+      "extrait": "Plancher de subvention 1 000 € Plafond de dépenses éligibles (montant des devis éligibles présentés) < 20 000 € HT"
+    },
+    {
+      "champ": "plafond",
+      "url": "https://www.laregion.fr/Pass-Petits-investissements-dans-les-exploitations-agricoles",
+      "date": "2026-10-15",
+      "extrait": "Plancher de subvention : 1 000 € Montant de dépenses présenté strictement inférieur à 20 000 € HT"
+    },
+    {
+      "champ": "eligibilite",
+      "url": "https://www.laregion.fr/IMG/pdf/7/9/d/annexe_pass_v12-12-2025.pdf",
+      "date": "2026-10-15",
+      "extrait": "Exploitant individuel - Agriculteur à titre principal ou secondaire - Cotisants solidaires et autre(s) personne(s) s'inscrivant dans le parcours installation [...] Exploitation agricole sous forme sociétaire [...] Autre structure ayant pour objet la mise en valeur d'une exploitation agricole et exerçant réellement une activité agricole (affiliation MSA) [...] Sont notamment exclus : Les Coopératives d'Utilisation de Matériel Agricole (CUMA), Les collectivités territoriales, Les propriétaires bailleurs, Les Sociétés Civiles Immobilières (SCI) et sociétés coopératives, Les entreprises de travaux agricoles"
+    },
+    {
+      "champ": "eligibilite, departements",
+      "url": "https://www.laregion.fr/IMG/pdf/7/9/d/annexe_pass_v12-12-2025.pdf",
+      "date": "2026-10-15",
+      "extrait": "Conditions d'éligibilité : Le siège social du demandeur et/ou l'établissement porteur du projet doit être situé en Occitanie."
+    },
+    {
+      "champ": "departements",
+      "url": "https://geo.api.gouv.fr/regions/76/departements",
+      "date": "2026-10-15",
+      "extrait": "Ariège 09, Aude 11, Aveyron 12, Gard 30, Haute-Garonne 31, Gers 32, Hérault 34, Lot 46, Lozère 48, Hautes-Pyrénées 65, Pyrénées-Orientales 66, Tarn 81, Tarn-et-Garonne 82 (codeRegion 76)"
+    },
+    {
+      "champ": "description, mesures (ACT_GCU_001), infos_complementaires (matériel d'irrigation exclu)",
+      "url": "https://www.laregion.fr/IMG/pdf/7/9/d/annexe_pass_v12-12-2025.pdf",
+      "date": "2026-10-15",
+      "extrait": "Annexe 3 : Agroéquipements. 1.1 Matériel de pilotage de l'irrigation. Dépenses éligibles : Logiciel de pilotage de l'irrigation, Appareils de mesures pour déterminer les besoins en eau (tensiomètres, capteurs sols, capteurs plantes, sondes capacitives). Dépenses non éligibles : Investissements d'irrigation, Pompes et investissements de modification de la station de pompage en dehors de l'automatisation et de la programmation, Crépines, Variateurs de fréquences, Rampes et pivots, Canons et canons à retour lent, Réseau de distribution de l'eau de pluie recueillie des bâtiments, Abonnements annuels pour les outils de pilotage, Compteurs"
+    },
+    {
+      "champ": "description, mesures (ACT_GCU_003, ACT_AGR_006)",
+      "url": "https://www.laregion.fr/IMG/pdf/7/9/d/annexe_pass_v12-12-2025.pdf",
+      "date": "2026-10-15",
+      "extrait": "1.2 Matériels spécifiques économes en eau. Dépenses éligibles : Système de régulation électronique sur les matériels d'irrigation (outils d'automatisation et de programmation) [...] Equipements de collecte et stockage des eaux de drainage des serres, et de récupération des eaux de pluie des serres et des bâtiments agricoles (le traitement des eaux de drainage n'est pas éligible)"
+    },
+    {
+      "champ": "description, mesures (ACT_GCU_007), infos_complementaires (broyeurs, semoirs)",
+      "url": "https://www.laregion.fr/IMG/pdf/7/9/d/annexe_pass_v12-12-2025.pdf",
+      "date": "2026-10-15",
+      "extrait": "2.1 Matériel spécifique pour l'implantation et l'entretien de couverts (dont prairies) : Matériel spécifique pour le semis d'un couvert végétal ou d'une culture intermédiaire dans une culture en place [...] Dépenses non éligibles : Broyeurs, gyrobroyeurs, broyeurs d'accotement… Pour les semoirs adaptés sur des outils de travails du sol, l'outil de travail du sol n'est pas éligible"
+    },
+    {
+      "champ": "description, mesures (ACT_GCU_007), infos_complementaires (semoirs de semis direct)",
+      "url": "https://www.laregion.fr/IMG/pdf/7/9/d/annexe_pass_v12-12-2025.pdf",
+      "date": "2026-10-15",
+      "extrait": "2.3 Matériel permettant la diminution du travail du sol : Matériels de semis adaptés pour le semis de cultures dans un couvert végétal des sols, Semoirs spécifiques destinés au semis direct disposant à minima des éléments suivants (le devis doit être détaillé) : Disque ouvreur indépendant, Chasses débris rotatifs, Coutre fin adapté, Roue de fermeture du sillon pour semis direct, Semoir pour techniques culturales simplifiées"
+    },
+    {
+      "champ": "description, mesures (ACT_GCU_007)",
+      "url": "https://www.laregion.fr/IMG/pdf/7/9/d/annexe_pass_v12-12-2025.pdf",
+      "date": "2026-10-15",
+      "extrait": "3.2 Matériel de substitution [...] Matériel spécifique pour l'implantation, l'entretien ou destruction des couverts végétaux inter-rangs ou intercultures (cultures pérennes ou Grandes cultures) : Dont intercep, tondeuse inter rang et rouleau destructeur de couverts (rolofaca, éco rouleau)."
+    },
+    {
+      "champ": "description (désherbage mécanique, fertilisants)",
+      "url": "https://www.laregion.fr/IMG/pdf/7/9/d/annexe_pass_v12-12-2025.pdf",
+      "date": "2026-10-15",
+      "extrait": "Matériel de lutte mécanique, thermique (y compris électrique) contre les adventices : bineuse, houe rotative [...] 4- Réduction des pollutions des eaux par les fertilisants : Équipements visant à une meilleure répartition des apports"
+    },
+    {
+      "champ": "infos_complementaires (démarrage)",
+      "url": "https://www.laregion.fr/IMG/pdf/7/9/d/annexe_pass_v12-12-2025.pdf",
+      "date": "2026-10-15",
+      "extrait": "La date de démarrage des opérations sera la date de réception de la 1ère demande de financement à la Région. Attention, un devis signé ou un bon de commande vaut démarrage des travaux. [...] La première demande de financement devra être antérieure au commencement d'exécution de l'opération."
+    },
+    {
+      "champ": "infos_complementaires (cumul et récurrence)",
+      "url": "https://www.laregion.fr/IMG/pdf/7/9/d/annexe_pass_v12-12-2025.pdf",
+      "date": "2026-10-15",
+      "extrait": "Le porteur de projet ne peut pas solliciter simultanément une aide au titre du volet 1 et une aide au titre du volet 2. [...] Le projet ne sera pas éligible si le demandeur a bénéficié d'une aide à l'investissement pour son exploitation agricole (hors aide à la plantation) au titre d'un dispositif Région Occitanie ou au titre du Dispositif Unique FEADER 2023-2027 dont la demande de solde n'a pas encore été déposée au service instructeur au moment de la demande d'aide (Hors dispositif hydraulique individuelle). [...] Agriculteurs n'ayant pas de CAD validé par la Région : un seul dossier au titre du dispositif « Investissements dans les exploitations agricoles [...] Dispositif Unique » (FEADER) ou 2 PASS"
+    },
+    {
+      "champ": "infos_complementaires (calendrier et dépôt)",
+      "url": "https://www.laregion.fr/IMG/pdf/7/9/d/annexe_pass_v12-12-2025.pdf",
+      "date": "2026-10-15",
+      "extrait": "Les demandes sont traitées par ordre de dépôt du dossier complet sur le site dédié de la Région « Mes aides en ligne ». Réception des dossiers au fil de l'eau jusqu'au 30/11/2026 pour les Volets 1 et 2. Dès épuisement de l'enveloppe budgétaire, le dépôt de dossier sera fermé [...] Les dépenses devront être réalisées dans un délai maximum de 12 mois après la date de vote. [...] Pièces justificatives des dépenses prévisionnelles 1 seul devis par investissement prévu"
+    },
+    {
+      "champ": "infos_complementaires (contact, portail)",
+      "url": "https://www.laregion.fr/Pass-Petits-investissements-dans-les-exploitations-agricoles",
+      "date": "2026-10-15",
+      "extrait": "Le dépôt des dossiers se fait par le Portail \" Mes Aides en Ligne\". [...] Contact Mail : pass_exploitation_agricole@laregion.fr [...] Composez le 3010 pour contacter la Région Occitanie / Pyrénées-Méditerranée (service et appel gratuits)"
+    },
+    {
+      "champ": "logo_url",
+      "url": "https://www.laregion.fr/plugins/occitanie/squelettes-occitanie/squelettes/apple-icon-180x180.png",
+      "date": "2026-10-15",
+      "extrait": "apple-touch-icon (180 x 180) déclaré dans l'en-tête de https://www.laregion.fr/Pass-Petits-investissements-dans-les-exploitations-agricoles"
+    },
+    {
+      "champ": "infos_complementaires (lien du portail)",
+      "url": "https://www.laregion.fr/Pass-Petits-investissements-dans-les-exploitations-agricoles",
+      "date": "2026-10-15",
+      "extrait": "Lien « Accéder au Portail Mes Aides en Ligne » de la page du dispositif, vers https://mesaidesenligne.laregion.fr/account-management/croccitanie-demandeurs/ux/#/login?redirectTo=https:%2F%2Fmesaidesenligne.laregion.fr%2Faides%2F%23%2Fcroccitanie%2Fconnecte%2Ftiers-selection&jwtKey=jwt-croccitanie-portail-depot-demande-aides&footer=https:%2F%2Fmesaidesenligne.laregion.fr%2Faides%2F%23%2Fcroccitanie%2Fmentions-legales,Mentions%20l%C3%A9gales,_self"
+    }
+  ],
+  "date_maj": "2026-10-15"
+}

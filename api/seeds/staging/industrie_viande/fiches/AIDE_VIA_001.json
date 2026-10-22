@@ -1,0 +1,145 @@
+{
+  "id": "AIDE_VIA_001",
+  "nom": "Aide à la lutte contre les pollutions des activités économiques hors agricoles (agence de l'eau Artois-Picardie, 12e programme)",
+  "financeur": "Agence de l'eau Artois-Picardie",
+  "logo_url": null,
+  "type": "subvention",
+  "taux": "Subvention, aux taux maximaux suivants : 50 % pour les études, 40 % pour les techniques propres, 40 % pour la lutte contre les micropolluants, 30 % pour la lutte contre les macropolluants, 30 % pour la prévention des pollutions accidentelles, 30 % pour le stockage des boues et sous-produits, et 50 % pour les opérations collectives visant une bonne gestion des pollutions au sein des petites et très petites entreprises.",
+  "plafond": "Lutte contre les macropolluants : dépenses finançables plafonnées à la somme des quantités de pollution éliminables multipliées par des coûts unitaires (MES 2 980 €, DCO 3 250 €, DBO5 1 650 €, NGL 6 900 €, MP 86 000 €, par kg.jour). Prévention des pollutions accidentelles : 300 € par m3 de volume de bassin de confinement créé. Stockage des boues et sous-produits, pour les investissements réalisés indépendamment des autres ouvrages d'épuration : 510 € par m2 pour les ouvrages couverts, 340 € par m2 pour les ouvrages non couverts. Opérations collectives : coût moyen journée des actions d'animation réalisées en régie plafonné à 500 € par jour.",
+  "description": "Volet lutte contre les pollutions (partie 2, section 2) de la délibération 25-A-036 du 12e programme d'intervention 2025-2030 de l'agence de l'eau Artois-Picardie, applicable à compter du 1er novembre 2025. L'agence y favorise les solutions de techniques propres de changement de procédés visant à réduire les pollutions à la source. Côté études, elle finance la connaissance de la nature et des flux de polluants émis (y compris les dispositifs d'autosurveillance des rejets), les études préalables aux techniques propres, aux investissements d'épuration et à la restructuration des réseaux de collecte, le dimensionnement des dispositifs contre les pollutions accidentelles, et les études qui accompagnent les autorisations et conventions de raccordement aux réseaux publics. Côté travaux, elle finance les techniques propres, l'épuration proprement dite (y compris le traitement ou la valorisation des sous-produits et déchets de l'épuration), la restructuration des réseaux d'assainissement et des ouvrages de stockage des eaux usées, les modifications de circuits internes d'utilisation d'eau, en particulier pour réduire les débits ou les sous-produits à traiter, la fiabilité ou la sécurité des ouvrages d'épuration existants, la limitation des rejets des établissements raccordés qui perturbent ou surchargent le système d'assainissement collectif, et la prévention des pollutions accidentelles. Les opérations collectives couvrent l'animation et les équipements individuels et collectifs de gestion des pollutions.",
+  "eligibilite": "Entreprises immatriculées au registre du commerce et des sociétés, chambres consulaires ou tout autre organisme représentatif d'une activité économique industrielle, commerciale ou artisanale, ainsi que collectivités territoriales et associations pour les projets qu'elles portent. Seules sont éligibles les opérations qui permettent d'aller au-delà des normes de portée européenne ou nationale en vigueur et d'améliorer la protection de l'environnement par rapport à l'état initial.",
+  "categories": [
+    "agir_rejets_qualite",
+    "changer_process_pratiques"
+  ],
+  "secteurs": [
+    "industrie_viande"
+  ],
+  "departements": [],
+  "agences": [
+    "AEAP"
+  ],
+  "mesures": [
+    "ACT_VIA_008",
+    "ACT_VIA_007",
+    "ACT_VIA_005"
+  ],
+  "infos_complementaires": [
+    {
+      "type": "avertissement",
+      "texte": "Trois situations rendent l'opération inéligible : l'entreprise en difficulté, sauf si l'aide est apportée dans le cadre du régime de minimis, le renouvellement à l'identique des ouvrages, et l'existence d'une mise en demeure réglementaire au titre de la police de l'eau ou des installations classées pour la protection de l'environnement."
+    },
+    {
+      "type": "info",
+      "texte": "Établissement raccordé au réseau d'une collectivité : les parts d'investissement relatives aux effluents des entreprises raccordées sont aidées lorsque leur charge de pollution annuelle correspond individuellement à plus de 10 %, ou collectivement à plus de 30 %, de la charge globale de la station d'épuration publique exprimée en DCO. Le financement de la part liée aux entreprises est apporté soit à la collectivité, soit à chacune des entreprises concernées, sous réserve de la signature d'une convention de déversement ou d'une autorisation de raccordement."
+    },
+    {
+      "type": "info",
+      "texte": "En cas d'augmentation de la capacité de production, les flux de pollution nouveaux à éliminer sont pris en compte dans les dépenses finançables dans la limite de 150 % des flux de pollution initiaux."
+    },
+    {
+      "type": "info",
+      "texte": "L'aide est apportée dans la limite des dotations disponibles et selon des priorités. Sont en priorité 1, entre autres, les techniques propres, la lutte contre les micropolluants, les projets de lutte contre les macropolluants situés en priorité 1 ou 2 du zonage portant sur la lutte contre les macropolluants, et les opérations collectives. Les autres projets sont en priorité 2."
+    },
+    {
+      "type": "info",
+      "texte": "Les opérations collectives ne sont aidées que si elles sont portées par une chambre consulaire ou tout autre organisme représentatif d'une activité économique industrielle, commerciale ou artisanale. Elles couvrent l'animation et les équipements individuels et collectifs de gestion des pollutions, en actions collectives ou en achat groupé."
+    },
+    {
+      "type": "info",
+      "texte": "Transformation des produits de la pêche et de l'aquaculture : parmi les textes visés par la délibération figurent le règlement (UE) n° 2022/2473 et le régime cadre exempté de notification SA.113232, relatif aux aides en faveur des entreprises dans la production, la transformation et la commercialisation des produits de la pêche et de l'aquaculture des agences de l'eau pour la période 2023-2029. Les dispositions de ces règlements précisent les conditions d'attribution (bénéficiaires éligibles, coûts admissibles, règles de cumul) et complètent celles de la délibération."
+    },
+    {
+      "type": "ressource",
+      "texte": "Délibération 25-A-036, modalités et conditions d'attribution des aides pour la lutte contre la pollution des activités économiques hors agricoles (partie 2, section 2, lutte contre les pollutions)",
+      "lien": "https://www.eau-artois-picardie.fr/sites/default/files/013_25-a-036_lutte_poll_act_hors_agri.pdf"
+    },
+    {
+      "type": "ressource",
+      "texte": "Délibérations du 12e programme d'intervention de l'agence de l'eau Artois-Picardie, classées par domaine d'intervention",
+      "lien": "https://www.eau-artois-picardie.fr/les-deliberations-par-domaine-dintervention-12eme-programme-dintervention"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "nom, financeur, description (délibération et date d'application)",
+      "url": "https://www.eau-artois-picardie.fr/sites/default/files/013_25-a-036_lutte_poll_act_hors_agri.pdf",
+      "date": "2026-09-24",
+      "extrait": "12e PROGRAMME D'INTERVENTION 2025-2030 [...] DELIBERATION N° 25-A-036. MODALITES ET CONDITIONS D'ATTRIBUTION DES AIDES POUR LA LUTTE CONTRE LA POLLUTION DES ACTIVITÉS ÉCONOMIQUES HORS AGRICOLES [...] La délibération n°24-A-062 du Conseil d'Administration du 15 octobre 2024 est abrogée et remplacée comme suit, à compter du 1er novembre 2025 (pages 1 et 3)"
+    },
+    {
+      "champ": "type, taux",
+      "url": "https://www.eau-artois-picardie.fr/sites/default/files/013_25-a-036_lutte_poll_act_hors_agri.pdf",
+      "date": "2026-09-24",
+      "extrait": "2-2. Taux d'intervention et assiette. [...] Taux maximal et forme de la participation financière. Etudes : Subvention de 50%. Techniques propres : Subvention de 40%. Lutte contre les micropolluants : Subvention de 40%. Lutte contre les macropolluants : Subvention de 30%. Prévention des pollutions accidentelles : Subvention de 30%. Stockage des boues et sous-produits : Subvention de 30%. Opérations collectives visant une bonne gestion des pollutions au sein des petites et très petites entreprises : Subvention de 50% (page 6)"
+    },
+    {
+      "champ": "plafond",
+      "url": "https://www.eau-artois-picardie.fr/sites/default/files/013_25-a-036_lutte_poll_act_hors_agri.pdf",
+      "date": "2026-09-24",
+      "extrait": "Lutte contre les macropolluants : Les dépenses finançables sont plafonnées selon le calcul suivant : Somme des produits des quantités de pollutions éliminables par les coûts unitaires suivants : MES : 2 980 € par kg.jour, DCO : 3 250 € par kg.jour, DBO5 : 1 650 € par kg.jour, NGL (= NR + NO) : 6 900 € par kg.jour, MP : 86 000 € par kg.jour. Prévention des pollutions accidentelles : Plafond de 300 € par m3 de volume de bassin de confinement créé. Stockage des boues et sous-produits : Pour les investissements réalisés indépendamment des autres ouvrages d'épuration, les dépenses finançables sont plafonnées à : 510€ par m² pour les ouvrages couverts ; 340€ par m² pour les ouvrages non couverts. Opérations collectives [...] : Le « coût moyen journée » des actions d'animation réalisées en régie est plafonné à 500 € par jour. (page 6)"
+    },
+    {
+      "champ": "description, categories (techniques propres)",
+      "url": "https://www.eau-artois-picardie.fr/sites/default/files/013_25-a-036_lutte_poll_act_hors_agri.pdf",
+      "date": "2026-09-24",
+      "extrait": "Au titre de la lutte contre les pollutions. Les interventions de l'Agence de l'Eau visent l'atteinte des objectifs de la Directive Cadre sur l'Eau [...] L'Agence de l'Eau favorise dans ce cadre les solutions de techniques propres de changement de procédés visant à réduire les pollutions à la source. (page 4)"
+    },
+    {
+      "champ": "description (études), mesures (ACT_VIA_008)",
+      "url": "https://www.eau-artois-picardie.fr/sites/default/files/013_25-a-036_lutte_poll_act_hors_agri.pdf",
+      "date": "2026-09-24",
+      "extrait": "2- Lutte contre les pollutions. 2-1. Actions éligibles. Pour les études : Les études d'amélioration de la connaissance de la nature et des flux de polluants émis (y compris les dispositifs d'autosurveillance des rejets, notamment ceux justifiés par la réglementation) ; Les études préalables à la mise en place de techniques propres, aux investissements d'épuration et à la restructuration des réseaux de collecte ; Les études de dimensionnement des dispositifs de lutte contre les pollutions accidentelles ; Les études visant à accompagner la mise en œuvre des autorisations et conventions de raccordement par les collectivités locales, pour la prise en compte des polluants dans les réseaux publics de collecte ; Les études à caractère général visant à définir des actions de lutte contre les pollutions à mener dans une branche industrielle ou une zone géographique. (page 5)"
+    },
+    {
+      "champ": "description (travaux, opérations collectives), mesures (ACT_VIA_008, ACT_VIA_007, ACT_VIA_005)",
+      "url": "https://www.eau-artois-picardie.fr/sites/default/files/013_25-a-036_lutte_poll_act_hors_agri.pdf",
+      "date": "2026-09-24",
+      "extrait": "Pour les travaux : Les techniques propres ; L'épuration proprement dite, y compris le traitement ou la valorisation des sous-produits et déchets de l'épuration, et les acquisitions foncières nécessaires le cas échéant pour réaliser ces investissements ; La restructuration des réseaux d'assainissement et des ouvrages de stockage des eaux usées ; Les modifications de circuits internes d'utilisation d'eau, en particulier dans le but de réduire les débits ou les sous-produits à traiter ; Les opérations permettant une meilleure fiabilité ou sécurité du fonctionnement des ouvrages d'épuration existants ; Pour les établissements raccordés, la limitation des rejets de pollutions lorsqu'ils sont à l'origine d'un dysfonctionnement ou d'une surcharge du système d'assainissement collectif présent ou à venir ; La prévention des pollutions accidentelles. Pour les opérations collectives : L'animation des opérations collectives ; Les équipements individuels et collectifs de gestion des pollutions (actions collectives et/ou achat groupé). (page 6)"
+    },
+    {
+      "champ": "eligibilite",
+      "url": "https://www.eau-artois-picardie.fr/sites/default/files/013_25-a-036_lutte_poll_act_hors_agri.pdf",
+      "date": "2026-09-24",
+      "extrait": "1-1. Etablissements et opérations éligibles. L'Agence de l'Eau peut apporter une participation financière aux maîtres d'ouvrage des activités économiques hors agricoles suivants : Entreprises immatriculées au registre du commerce et des sociétés, Chambres consulaires ou tout autre organisme représentatif d'une activité économique industrielle, commerciale ou artisanale, Collectivités territoriales et associations, pour les projets qu'elles portent dès lors qu'ils répondent aux principes d'intervention définis dans la présente délibération. Sont éligibles aux aides de l'Agence de l'Eau les opérations qui permettent aux entreprises d'aller au-delà des normes de portée européenne ou nationale en vigueur, et d'améliorer la protection de l'environnement par rapport à l'état initial. (page 4)"
+    },
+    {
+      "champ": "infos_complementaires (critères d'exclusion)",
+      "url": "https://www.eau-artois-picardie.fr/sites/default/files/013_25-a-036_lutte_poll_act_hors_agri.pdf",
+      "date": "2026-09-24",
+      "extrait": "1-2. Critères d'exclusion. Les opérations réunissant au moins l'un des critères suivants ne sont pas éligibles aux aides de l'Agence de l'Eau : Entreprises en difficulté, sauf si l'aide de l'Agence de l'Eau est apportée dans le cadre du régime de minimis, Renouvellement à l'identique des ouvrages, Existence d'une mise en demeure réglementaire au titre de la police de l'eau ou des installations classées pour la protection de l'environnement. (page 5)"
+    },
+    {
+      "champ": "infos_complementaires (augmentation de capacité, opérations collectives)",
+      "url": "https://www.eau-artois-picardie.fr/sites/default/files/013_25-a-036_lutte_poll_act_hors_agri.pdf",
+      "date": "2026-09-24",
+      "extrait": "1-3. Cas particuliers. [...] L'Agence de l'Eau peut aider les travaux accompagnant une augmentation de capacité de production dans les conditions suivantes : Les flux de pollution nouveaux à éliminer seront pris en compte dans les dépenses finançables, dans la limite de 150% des flux de pollution initiaux [...] L'Agence de l'Eau peut aider les opérations collectives si elles sont portées par les chambres consulaires ou tout autre organisme représentatif d'une activité économique industrielle, commerciale ou artisanale. (page 5)"
+    },
+    {
+      "champ": "infos_complementaires (établissement raccordé)",
+      "url": "https://www.eau-artois-picardie.fr/sites/default/files/013_25-a-036_lutte_poll_act_hors_agri.pdf",
+      "date": "2026-09-24",
+      "extrait": "2-3. Conditions particulières. Les parts d'investissements relatifs aux effluents des entreprises raccordées aux réseaux d'assainissement de la collectivité territoriale sont aidés par l'Agence de l'Eau selon la présente délibération, lorsque la charge de pollution annuelle de ces entreprises correspond individuellement à plus de 10 %, ou collectivement à plus de 30 %, de la charge globale de la station d'épuration publique exprimée en DCO. Le financement de la part liée aux entreprises (au prorata des charges en DCO et des charges hydrauliques) est apporté selon les dispositions de la présente délibération, soit à la collectivité territoriale, soit à chacune des entreprises concernées, sous réserve de la signature d'une convention de déversement ou d'une autorisation de raccordement. (page 7)"
+    },
+    {
+      "champ": "infos_complementaires (critères de priorité)",
+      "url": "https://www.eau-artois-picardie.fr/sites/default/files/013_25-a-036_lutte_poll_act_hors_agri.pdf",
+      "date": "2026-09-24",
+      "extrait": "7- Critères de priorité. La participation financière de l'Agence de l'Eau est apportée dans la limite des dotations disponibles et selon les priorités exposées ci-après : Priorité 1 : Techniques propres ; Lutte contre les micropolluants ; Projets de lutte contre les macropolluants situés en priorité 1 ou 2 du zonage portant sur la lutte contre les macropolluants ; [...] Opérations collectives ; Actions de communication. Priorité 2 : Autres projets (pages 11 et 12)"
+    },
+    {
+      "champ": "infos_complementaires (produits de la pêche et de l'aquaculture)",
+      "url": "https://www.eau-artois-picardie.fr/sites/default/files/013_25-a-036_lutte_poll_act_hors_agri.pdf",
+      "date": "2026-09-24",
+      "extrait": "Vu l'encadrement communautaire des aides publiques aux entreprises [...] Règlement (UE) n° 2022/2473 de la Commission du 14 décembre 2022 déclarant certaines catégories d'aides aux entreprises actives dans la production, la transformation et la commercialisation des produits de la pêche et de l'aquaculture compatibles avec le marché intérieur [...] ; Régime cadre exempté de notification N°SA. 113232 relatif aux aides en faveur des entreprises dans la production, la transformation et la commercialisation des produits de la pêche et de l'aquaculture des agences de l'eau pour la période 2023-2029 (page 3). 1-4. Encadrement communautaire des aides publiques. [...] Les dispositions de ces règlements précisent les conditions d'attribution (bénéficiaires éligibles, coûts admissibles, règles de cumul...) et les modalités de mise en œuvre spécifiques applicables aux aides de l'Agence de l'Eau et sont complémentaires des conditions de la présente délibération. (page 5)"
+    },
+    {
+      "champ": "infos_complementaires (ressource, page des délibérations)",
+      "url": "https://www.eau-artois-picardie.fr/les-deliberations-par-domaine-dintervention-12eme-programme-dintervention",
+      "date": "2026-09-24",
+      "extrait": "Délibérations générales [...] Lutte contre la pollution des activités économiques hors agricole"
+    }
+  ],
+  "date_maj": "2026-09-24"
+}

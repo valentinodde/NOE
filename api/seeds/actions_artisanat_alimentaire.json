@@ -1,0 +1,366 @@
+[
+  {
+    "id": "ACT_ART_001",
+    "titre": "Former l'équipe aux gestes économes en eau au laboratoire",
+    "titre_court": "Gestes économes",
+    "description": "Montrer à chacun, apprentis compris, les gestes qui comptent : fermer le robinet entre deux rinçages, laver dans un bac plutôt que sous l'eau courante, signaler toute fuite. Ces gestes ne coûtent rien et agissent sur le nettoyage et la plonge, premier poste d'eau du laboratoire.",
+    "categorie": "sensibiliser_former",
+    "secteurs": [
+      "artisanat_alimentaire"
+    ],
+    "effort": {
+      "capex": "faible",
+      "opex": "faible",
+      "humain": "moyen"
+    },
+    "impact_eau": 2,
+    "facilite": 3,
+    "horizon": "immediat",
+    "image": null,
+    "infos_complementaires": [
+      {
+        "type": "info",
+        "texte": "Dans les petits ateliers de transformation, 15 à 40 % du volume d'eau serait facilement économisable, le nettoyage étant le point crucial de la maîtrise des consommations.",
+        "lien": "https://reseau-eau.educagri.fr/files/fichierRessource1_Gest_eau_effluents_Rodez_08_12_09.pdf",
+        "lien_label": "EPLEFPA du Tarn, plateforme GH2O"
+      },
+      {
+        "type": "ressource",
+        "texte": "Métiers de bouche : le guide pour réduire la consommation d'eau (CMA Auvergne-Rhône-Alpes, 2026)",
+        "lien": "https://www.cma-auvergnerhonealpes.fr/nos-publications/metiers-de-bouche-le-guide-pour-reduire-la-consommation-deau/"
+      },
+      {
+        "type": "ressource",
+        "texte": "Guide de la transition écologique dans les métiers de bouche (CGAD)",
+        "lien": "https://www.cgad.fr/app/uploads/2023/06/guide-transition-ecologique-CGAD-avril-2023.pdf"
+      },
+      {
+        "type": "ressource",
+        "texte": "Guide des bonnes pratiques RSE des artisans boulangers-pâtissiers (CNBPF)",
+        "lien": "https://boulangerie.org/wp-content/uploads/Guide_RSE_boulangerie-artisanale_web.pdf"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "description",
+        "url": "https://www.cgad.fr/app/uploads/2023/06/guide-transition-ecologique-CGAD-avril-2023.pdf",
+        "date": "2023-01-01",
+        "extrait": "Éco-gestes recommandés aux métiers de bouche : ne pas laisser couler l'eau, signaler les fuites, afficher les bonnes pratiques."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://reseau-eau.educagri.fr/files/fichierRessource1_Gest_eau_effluents_Rodez_08_12_09.pdf",
+        "date": "2009-01-01",
+        "extrait": "15 à 40 % du volume d'eau facilement économisable dans les petits ateliers agroalimentaires ; le nettoyage, point crucial."
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "ACT_ART_002",
+    "titre": "Relever son compteur chaque semaine et réparer les fuites sans délai",
+    "titre_court": "Relevés et fuites",
+    "description": "Noter l'index du compteur chaque semaine, et le relever un soir puis le lendemain matin sans aucun puisage pour vérifier qu'il ne tourne pas. Une fuite repérée tôt est réparée avant de peser sur la facture : un robinet qui goutte ou une chasse qui fuit coûte des centaines d'euros par an.",
+    "categorie": "suivre_comprendre_maitriser",
+    "secteurs": [
+      "artisanat_alimentaire"
+    ],
+    "effort": {
+      "capex": "faible",
+      "opex": "faible",
+      "humain": "faible"
+    },
+    "impact_eau": 2,
+    "facilite": 3,
+    "horizon": "immediat",
+    "image": null,
+    "infos_complementaires": [
+      {
+        "type": "info",
+        "texte": "Un goutte-à-goutte perd jusqu'à 43 800 litres par an, un mince filet d'eau 130 000 litres et une chasse d'eau qui fuit 220 000 litres, soit environ 190, 560 et 950 euros au prix moyen de 4,30 euros le m³.",
+        "lien": "https://www.cgad.fr/app/uploads/2023/06/guide-transition-ecologique-CGAD-avril-2023.pdf",
+        "lien_label": "CGAD"
+      },
+      {
+        "type": "info",
+        "texte": "Si le compteur dessert aussi la boutique ou votre logement, un sous-compteur sur le laboratoire permet de suivre la production seule (voir la mesure compteur par usage)."
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "description",
+        "url": "https://www.eau-artois-picardie.fr/eco-gestes-comment-economiser-leau",
+        "date": "2021-01-01",
+        "extrait": "Relever le compteur le soir et le matin sans avoir puisé d'eau : s'il a tourné, il y a une fuite."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.cgad.fr/app/uploads/2023/06/guide-transition-ecologique-CGAD-avril-2023.pdf",
+        "date": "2023-01-01",
+        "extrait": "Goutte-à-goutte 43 800 L/an (188 € TTC), mince filet 130 000 L/an (559 €), chasse d'eau qui fuit 220 000 L/an (946 €), au prix moyen de 4,30 €/m³."
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "ACT_ART_003",
+    "titre": "Équiper robinets et plonge de réducteurs de débit",
+    "titre_court": "Réducteurs de débit",
+    "description": "Poser des mousseurs sur les robinets et une douchette de prélavage à gâchette à la plonge, et passer les chasses d'eau en double commande. Pour un investissement modeste, vous réduisez le débit de chaque point d'eau sans perte de pression ni changement d'habitude.",
+    "categorie": "ameliorer_efficacite_hydrique",
+    "secteurs": [
+      "artisanat_alimentaire"
+    ],
+    "effort": {
+      "capex": "faible",
+      "opex": "faible",
+      "humain": "faible"
+    },
+    "impact_eau": 2,
+    "facilite": 3,
+    "horizon": "immediat",
+    "image": null,
+    "infos_complementaires": [
+      {
+        "type": "info",
+        "texte": "Un mousseur réduit le débit d'un robinet de 30 à 50 %, sans perte de pression ressentie.",
+        "lien": "https://www.services.eaufrance.fr/economie-d-eau",
+        "lien_label": "Eaufrance"
+      },
+      {
+        "type": "info",
+        "texte": "Les métiers de bouche sont invités à choisir des chasses d'eau à double commande de 6 litres au plus.",
+        "lien": "https://www.cgad.fr/app/uploads/2023/06/guide-transition-ecologique-CGAD-avril-2023.pdf",
+        "lien_label": "CGAD"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "description",
+        "url": "https://www.cgad.fr/app/uploads/2023/06/guide-transition-ecologique-CGAD-avril-2023.pdf",
+        "date": "2023-01-01",
+        "extrait": "Mousseurs sur les robinets, douchette de prélavage, chasses d'eau double commande d'au plus 6 litres."
+      },
+      {
+        "champ": "description",
+        "url": "https://www.services.eaufrance.fr/economie-d-eau",
+        "extrait": "Les mousseurs réduisent le débit de 30 à 50 %."
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "ACT_ART_004",
+    "titre": "Remplacer les équipements de froid refroidis à eau perdue",
+    "titre_court": "Froid sans eau perdue",
+    "description": "Faire vérifier par votre frigoriste si le refroidisseur d'eau, les chambres froides, les armoires de pousse ou la cellule sont refroidis par de l'eau du réseau rejetée à l'égout, et les passer à l'air ou en boucle fermée. Là où cette installation existe, elle consomme de l'eau en continu, jour et nuit.",
+    "categorie": "ameliorer_efficacite_hydrique",
+    "secteurs": [
+      "artisanat_alimentaire"
+    ],
+    "effort": {
+      "capex": "moyen",
+      "opex": "faible",
+      "humain": "faible"
+    },
+    "impact_eau": 3,
+    "facilite": 2,
+    "horizon": "moyen_terme",
+    "image": null,
+    "infos_complementaires": [
+      {
+        "type": "info",
+        "texte": "Pour les ateliers de produits d'origine animale soumis à enregistrement, la réfrigération en circuit ouvert est déjà interdite : c'est la règle de bonne pratique à suivre, même en dessous de ces seuils.",
+        "lien": "https://aida.ineris.fr/reglementation/arrete-230312-relatif-prescriptions-generales-applicables-installations-relevant",
+        "lien_label": "Arrêté du 23 mars 2012, AIDA"
+      },
+      {
+        "type": "info",
+        "texte": "Le refroidisseur d'eau de coulage peut consommer à lui seul plus d'électricité que le pétrin, la diviseuse et la façonneuse réunis : son remplacement se pense aussi pour la facture d'énergie.",
+        "lien": "https://boulangerie.org/wp-content/uploads/Guide_RSE_boulangerie-artisanale_web.pdf",
+        "lien_label": "CNBPF, guide RSE"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "description",
+        "url": "https://aida.ineris.fr/reglementation/arrete-230312-relatif-prescriptions-generales-applicables-installations-relevant",
+        "date": "2012-03-23",
+        "extrait": "Article 26 : la réfrigération en circuit ouvert est interdite."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://boulangerie.org/wp-content/uploads/Guide_RSE_boulangerie-artisanale_web.pdf",
+        "date": "2024-01-01",
+        "extrait": "Le refroidisseur d'eau peut consommer plus d'électricité que le pétrin, la diviseuse et la façonneuse réunis."
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "ACT_ART_005",
+    "titre": "Passer au nettoyage à sec avant tout lavage à l'eau",
+    "titre_court": "Nettoyage à sec d'abord",
+    "description": "Racler graisses et restes, aspirer la farine, laisser figer les eaux de cuisson et vider les paniers des siphons dans la poubelle avant de laver. Vous utilisez moins d'eau pour nettoyer, et moins de graisses partent vers le séparateur et le réseau.",
+    "categorie": "changer_process_pratiques",
+    "secteurs": [
+      "artisanat_alimentaire"
+    ],
+    "effort": {
+      "capex": "faible",
+      "opex": "faible",
+      "humain": "faible"
+    },
+    "impact_eau": 3,
+    "facilite": 3,
+    "horizon": "immediat",
+    "image": null,
+    "infos_complementaires": [
+      {
+        "type": "info",
+        "texte": "Les graisses animales figées colmatent et corrodent les canalisations : les retirer à sec protège aussi votre branchement.",
+        "lien": "https://cma-grandest.fr/wp-content/uploads/2021/12/F217-Graisses-me%CC%81tiers-de-bouche.pdf",
+        "lien_label": "CMA Grand Est"
+      },
+      {
+        "type": "info",
+        "texte": "En boulangerie, un aspirateur adapté aux poussières de farine remplace le balai et le jet d'eau, et protège la santé des salariés.",
+        "lien": "https://boulangerie.org/wp-content/uploads/Guide_RSE_boulangerie-artisanale_web.pdf",
+        "lien_label": "CNBPF, guide RSE"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "description",
+        "url": "https://www.cgad.fr/app/uploads/2023/06/guide-transition-ecologique-CGAD-avril-2023.pdf",
+        "date": "2023-01-01",
+        "extrait": "Refroidir les eaux de cuisson, retirer les graisses solidifiées, enlever les restes avant lavage."
+      },
+      {
+        "champ": "description",
+        "url": "https://www.grandpoitiers.fr/fileadmin/M%C3%A9dias_par_groupes_de_contributeurs/Economie_emploi_et_entreprises/04-eau_biodiversit%C3%A9/GP_rejet_eau_annexe_preco_tec_m%C3%A9tiers_de_bouche.pdf",
+        "date": "2021-01-01",
+        "extrait": "Vider les siphons de sol dans la poubelle avant lavage."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://cma-grandest.fr/wp-content/uploads/2021/12/F217-Graisses-me%CC%81tiers-de-bouche.pdf",
+        "date": "2021-01-01",
+        "extrait": "Les graisses figées colmatent et corrodent les canalisations."
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "ACT_ART_006",
+    "titre": "Installer et entretenir un séparateur à graisses adapté au laboratoire",
+    "titre_court": "Séparateur à graisses",
+    "description": "Faire dimensionner un séparateur à graisses pour les eaux du laboratoire et de la plonge, puis signer un contrat de vidange et tenir un planning d'entretien. Vous protégez votre branchement du colmatage et vous évitez les pénalités prévues par le règlement d'assainissement.",
+    "categorie": "agir_rejets_qualite",
+    "secteurs": [
+      "artisanat_alimentaire"
+    ],
+    "effort": {
+      "capex": "moyen",
+      "opex": "moyen",
+      "humain": "faible"
+    },
+    "impact_eau": 2,
+    "facilite": 2,
+    "horizon": "court_terme",
+    "image": null,
+    "infos_complementaires": [
+      {
+        "type": "info",
+        "texte": "Le conseiller environnement de votre chambre de métiers peut dimensionner le bac et étudier les aides à l'investissement.",
+        "lien": "https://cma-grandest.fr/wp-content/uploads/2021/12/F217-Graisses-me%CC%81tiers-de-bouche.pdf",
+        "lien_label": "CMA Grand Est"
+      },
+      {
+        "type": "avertissement",
+        "texte": "Certaines collectivités imposent une vidange par une entreprise agréée au moins trois fois par an, interdisent les additifs qui dissolvent les graisses et peuvent doubler la redevance en cas de branchement non conforme. Lisez le règlement d'assainissement de votre commune.",
+        "lien": "https://www.grandpoitiers.fr/fileadmin/M%C3%A9dias_par_groupes_de_contributeurs/Economie_emploi_et_entreprises/04-eau_biodiversit%C3%A9/GP_rejet_eau_annexe_preco_tec_m%C3%A9tiers_de_bouche.pdf",
+        "lien_label": "Exemple de Grand Poitiers"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "description",
+        "url": "https://cma-grandest.fr/wp-content/uploads/2021/12/F217-Graisses-me%CC%81tiers-de-bouche.pdf",
+        "date": "2021-01-01",
+        "extrait": "De plus en plus de règlements d'assainissement imposent un bac à graisses aux métiers de bouche ; le conseiller environnement CMA dimensionne et étudie les aides."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.grandpoitiers.fr/fileadmin/M%C3%A9dias_par_groupes_de_contributeurs/Economie_emploi_et_entreprises/04-eau_biodiversit%C3%A9/GP_rejet_eau_annexe_preco_tec_m%C3%A9tiers_de_bouche.pdf",
+        "date": "2021-01-01",
+        "extrait": "Entretien au moins trois fois par an par une entreprise agréée, additifs interdits, redevance doublée en cas de non-conformité."
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "ACT_ART_007",
+    "titre": "Déclarer son rejet et obtenir l'autorisation de déversement",
+    "titre_court": "Autorisation de déversement",
+    "description": "Demander au service d'assainissement si vos eaux usées sont assimilées à des eaux domestiques, déclarer votre raccordement et obtenir l'autorisation ou la convention de déversement si le règlement l'exige. Vous êtes en règle avant un contrôle, une vente du fonds ou des travaux.",
+    "categorie": "agir_rejets_qualite",
+    "secteurs": [
+      "artisanat_alimentaire"
+    ],
+    "effort": {
+      "capex": "faible",
+      "opex": "faible",
+      "humain": "moyen"
+    },
+    "impact_eau": 1,
+    "facilite": 3,
+    "horizon": "court_terme",
+    "image": null,
+    "infos_complementaires": [
+      {
+        "type": "avertissement",
+        "texte": "Un rejet d'eaux usées autres que domestiques doit être autorisé avant tout déversement. Sans réponse de la collectivité dans les quatre mois, la demande est réputée refusée.",
+        "lien": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023245101",
+        "lien_label": "Code de la santé publique, L1331-10"
+      },
+      {
+        "type": "info",
+        "texte": "Le statut varie d'une commune à l'autre : certaines considèrent les métiers de bouche comme assimilés domestiques sans autorisation, d'autres, comme Paris, exigent une autorisation et un contrat d'entretien du séparateur.",
+        "lien": "https://www.paris.fr/pages/evacuation-des-eaux-usees-non-domestiques-3547",
+        "lien_label": "Ville de Paris"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "description",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029737268",
+        "extrait": "Article L1331-7-1 : droit au raccordement des eaux assimilées domestiques, prescriptions techniques possibles."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023245101",
+        "extrait": "Article L1331-10 : autorisation préalable, silence de quatre mois vaut refus."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://cma-grandest.fr/wp-content/uploads/2021/12/F217-Graisses-me%CC%81tiers-de-bouche.pdf",
+        "date": "2021-01-01",
+        "extrait": "Métiers de bouche considérés comme assimilés domestiques, sans autorisation à demander."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.paris.fr/pages/evacuation-des-eaux-usees-non-domestiques-3547",
+        "extrait": "Charcutiers et traiteurs : déclaration et autorisation de déversement préalable, contrat d'entretien du séparateur."
+      }
+    ],
+    "date_maj": "2026-10-15"
+  }
+]

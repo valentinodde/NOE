@@ -1,0 +1,95 @@
+{
+  "id": "PREST_VIN_019",
+  "nom": "Comité Champagne (Comité interprofessionnel du vin de Champagne, CIVC)",
+  "type": "organisme_technique",
+  "logo_url": null,
+  "siret": "78038582900012",
+  "description": "Interprofession de la filière Champagne, active depuis 1941, qui réunit vignerons et maisons de l'aire d'appellation (Marne, Aube, Aisne, Haute-Marne, Seine-et-Marne). Le Comité conseille lui-même les établissements vinicoles sur la collecte et le traitement des effluents, la gestion des résidus de vinification, le fonctionnement des stockages aérés et la réglementation, et, dans le cadre du contrat « vigne, vin et qualité de l'eau en Champagne » passé avec l'agence de l'eau Seine-Normandie pour 2013-2018, il a aussi assisté les élaborateurs dans la constitution de leurs dossiers d'aide (assistance documentée pour ce seul contrat) ; dans le bilan des aides signées par l'agence en juin 2025, plusieurs aides à des établissements vinicoles pour la collecte et le stockage des effluents ont un intitulé commençant par « CIVC - ». Les modalités d'accès au conseil ne sont pas publiées en accès libre, la revue technique qui les détaille étant réservée aux vignerons et maisons ressortissants du Comité.",
+  "expertises": [
+    "Conseil effluents vinicoles",
+    "Optimisation des stockages aérés",
+    "Gestion des résidus de vinification",
+    "Dossiers d'aide (contrat 2013-2018)"
+  ],
+  "categories": [
+    "agir_rejets_qualite"
+  ],
+  "secteurs": [
+    "vins_spiritueux"
+  ],
+  "departements": [
+    "51",
+    "10",
+    "02",
+    "52",
+    "77"
+  ],
+  "mesures": [
+    {
+      "id": "ACT_VIN_006",
+      "roles": [
+        "conseil_etude"
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "type": "site_internet",
+      "value": "https://www.champagne.fr"
+    },
+    {
+      "type": "tel",
+      "value": "03 26 51 19 30"
+    },
+    {
+      "type": "adresse",
+      "value": "5, rue Henri Martin, CS 30 135, 51204 Épernay"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, type",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Comite%20interprofessionnel%20du%20vin%20de%20Champagne&departement=51",
+      "date": "2026-09-28",
+      "extrait": "COMITE INTERPROFESSIONNEL DU VIN DE CHAMPAGNE (CIVC), siret 78038582900012, siège, 5 RUE HENRI MARTIN 51200 EPERNAY, nature juridique 8470, activité 94.11Z, état administratif A"
+    },
+    {
+      "champ": "type",
+      "url": "https://xml.insee.fr/schema/cj-enum.html",
+      "date": "2026-09-28",
+      "extrait": "8470 : Centre technique industriel ou comité professionnel du développement économique"
+    },
+    {
+      "champ": "contacts, siret",
+      "url": "https://www.champagne.fr/fr/mentionslegales",
+      "date": "2026-09-28",
+      "extrait": "Éditeur Comité interprofessionnel du vin de Champagne (Comité Champagne) 5, rue Henri Martin CS 30 135 51204 Épernay Tél. : +33 (0)3 26 51 19 30 [...] SIRET : 78038582900012"
+    },
+    {
+      "champ": "description",
+      "url": "https://www.champagne.fr/fr/approfondir/filiere-champagne/comite-champagne",
+      "date": "2026-09-28",
+      "extrait": "Le Comité Champagne est l’interprofession de la filière Champagne. C’est l’une des premières interprofessions viticoles à avoir été créée. Depuis 1941, il assure l’intérêt commun des Vignerons et Maisons de Champagne"
+    },
+    {
+      "champ": "departements",
+      "url": "https://www.champagne.fr/en/about-champagne/a-great-blended-wine/the-champagne-region",
+      "date": "2026-09-28",
+      "extrait": "The area under vine extends across five départements: Marne (66% of the area under vine), Aube (23% of the area under vine), Aisne (10% of the area under vine), Haute-Marne, Seine-et-Marne."
+    },
+    {
+      "champ": "description, expertises, mesures (dossiers d'aide : contrat 2013-2018)",
+      "url": "https://levigneronchampenois.comitechampagne.fr/environnement/effluents-vinicoles",
+      "date": "2026-09-28",
+      "extrait": "L'objet du nouveau contrat (2013-2018) a donc été orienté vers l'accompagnement des élaborateurs dans la gestion des effluents vinicoles [...] au travers de missions de conseil et d'assistances techniques, mais aussi administratives, pour la constitution des dossiers de demande d'aides financières. [...] Depuis une trentaine d'années, le Comité Champagne accompagne les professionnels désireux d'avoir un conseil technique sur la gestion des effluents. [...] Collecte et traitement des effluents, gestion des résidus de vinification, optimisation du fonctionnement des stockages aérés, et contexte réglementaire font partie du conseil dispensé auprès des établissements vinicoles."
+    },
+    {
+      "champ": "description",
+      "url": "https://www.eau-seine-normandie.fr/sites/public_file/deliberations-commission-des-aides/2025/Bilan_des_aides_signees_juin_2025.pdf",
+      "date": "2026-09-28",
+      "extrait": "Texte extrait du PDF (pages 2, 3, 13, 14, 32) : « 2025 1110449-1 13 110 217,00 110 217,00 0030479E SOCIETE CHAMPENOISE DES BARONS ET ASSO 44830720700028 CIVC - Réseaux collecte effluents vinicoles DVM 51 » ; « 2025 1111573-1 13 53 436,00 53 436,00 0031032F CHAMPAGNE ROGER POUILLON & FILS 40148426600028 CIVC - Amélioration collecte effluents vinicoles DVM 51 » ; « 2025 1112972-1 13 11 386,00 11 386,00 0030917F BCT DE REKENEIRE 90164690100016 CIVC - Amélioration stockage-épandage vinicole DVM 02 » ; « 2025 1112978-1 13 123 395,00 123 395,00 0030929U SOCIETE AGRO-VITICOLE CHARBAUT 42337337200014 CIVC - Amélioration gestion effluents vinicoles DVM 51 » ; « 2025 1114325-1 13 66 656,00 66 656,00 0033072Y SCV DES VIGNERONS DE BOUZY AU BOUQUET 78036319800018 CIVC - Amélioration collecte effluents vinicoles DVM 51 »"
+    }
+  ],
+  "date_maj": "2026-09-28"
+}

@@ -1,0 +1,129 @@
+{
+  "id": "PREST_LAI_009",
+  "nom": "Les agences de l'eau (six établissements publics de bassin)",
+  "type": "agence_publique",
+  "logo_url": null,
+  "siret": null,
+  "description": "Les agences de l'eau sont six établissements publics de l'État, un par grand bassin hydrographique de métropole, financés par les redevances qu'elles perçoivent auprès des usagers selon les principes de préleveur-payeur et de pollueur-payeur. Pour un site laitier, l'agence n'est pas un bureau d'études et ne réalise pas de diagnostic dans vos ateliers : elle est d'abord votre interlocuteur pour les redevances, avec la déclaration annuelle des volumes prélevés, l'obligation de comptage et de registre des index, et l'agrément du dispositif de suivi régulier de vos rejets qui sert d'assiette à la redevance pollution. Ses délégations régionales apportent ensuite un appui technique et financier aux projets d'économie d'eau et de réduction des rejets, jusqu'au contrat d'entreprise pluriannuel négocié avec les sites industriels les plus concernés. Elle accompagne et finance enfin les démarches collectives du bassin, SAGE, PTGE et contrats de territoire, dont elle publie la liste et la carte, l'animation restant portée par la structure porteuse locale. L'autorisation de déversement dans un réseau collectif, elle, est délivrée par le maire ou le président de l'EPCI, pas par l'agence, et en outre-mer ce sont les offices de l'eau départementaux qui tiennent ce rôle. On entre en relation avec l'agence de son bassin depuis le site commun aux six agences.",
+  "expertises": [
+    "Redevances prélèvement et pollution",
+    "Agrément du suivi des rejets",
+    "Appui aux SAGE et PTGE",
+    "Accompagnement des projets d'entreprise"
+  ],
+  "categories": [
+    "agir_grand_cycle"
+  ],
+  "secteurs": [
+    "industrie_laitiere"
+  ],
+  "departements": [
+    "01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12", "13", "14", "15",
+    "16", "17", "18", "19", "2A", "2B", "21", "22", "23", "24", "25", "26", "27", "28", "29",
+    "30", "31", "32", "33", "34", "35", "36", "37", "38", "39", "40", "41", "42", "43", "44",
+    "45", "46", "47", "48", "49", "50", "51", "52", "53", "54", "55", "56", "57", "58", "59",
+    "60", "61", "62", "63", "64", "65", "66", "67", "68", "69", "70", "71", "72", "73", "74",
+    "75", "76", "77", "78", "79", "80", "81", "82", "83", "84", "85", "86", "87", "88", "89",
+    "90", "91", "92", "93", "94", "95"
+  ],
+  "mesures": [
+    { "id": "ACT_AGR_010", "roles": ["conseil_etude"] }
+  ],
+  "contacts": [
+    { "type": "site_internet", "value": "https://www.lesagencesdeleau.fr" }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "nom, type, description",
+      "url": "https://www.lesagencesdeleau.fr/les-agences-de-leau/priorites-et-missions",
+      "date": "2026-09-22",
+      "extrait": "Les agences de l'eau sont des établissements publics de l'État. Elles assurent une mission d'intérêt général visant à gérer et à préserver les ressources en eau et les milieux aquatiques. Un savoir-faire dans l'accompagnement de proximité des collectivités et des acteurs économiques et non économiques."
+    },
+    {
+      "champ": "nom, description",
+      "url": "https://www.lesagencesdeleau.fr/les-agences-de-leau/organisation-et-fonctionnement",
+      "date": "2026-09-22",
+      "extrait": "Il y a ainsi en France 6 agences de l'eau : Adour-Garonne, Artois-Picardie, Loire-Bretagne, Rhin-Meuse, Rhône Méditerranée Corse, Seine-Normandie. Les comités de bassin rassemblent toutes les parties prenantes (collectivités locales, industriels, agriculteurs, État, consommateurs, ONG) et fixent la stratégie de l'eau et des milieux aquatiques du bassin."
+    },
+    {
+      "champ": "contacts",
+      "url": "https://www.lesagencesdeleau.fr/les-agences-de-leau-vos-cotes",
+      "date": "2026-09-22",
+      "extrait": "Pour toute demande concernant les politiques d'intervention des agences de l'eau, nous vous invitons à prendre contact avec l'agence de l'eau de votre territoire. La page liste les six agences et renvoie vers le formulaire de contact de chacune."
+    },
+    {
+      "champ": "description, expertises",
+      "url": "https://www.lesagencesdeleau.fr/services-en-ligne",
+      "date": "2026-09-22",
+      "extrait": "Portail de télédéclaration des redevances et des primes. Dossiers de demande d'habilitation des organismes réalisant les diagnostics des installations de mesure des prélèvements d'eau et des dispositifs industriels de suivi des rejets."
+    },
+    {
+      "champ": "description, expertises",
+      "url": "https://aides-redevances.eau-loire-bretagne.fr/home/redevances/entreprises/prelevement-de-leau-pour-lindustrie.html",
+      "date": "2026-09-22",
+      "extrait": "Redevance pour prélèvement, industries : redevable à partir de 7 000 m3 prélevés par an dans la ressource. Les volumes prélevés doivent être mesurés ; le registre mentionne la localisation des installations de prélèvement, leurs caractéristiques techniques, les incidents et les volumes d'eau mesurés (relevés mensuels d'index). Déclaration en ligne jusqu'au 31 mars pour les volumes de l'année précédente."
+    },
+    {
+      "champ": "description, expertises",
+      "url": "https://aides-redevances.eau-loire-bretagne.fr/home/redevances/entreprises/pollution-de-leau-dorigine-non-domestique.html",
+      "date": "2026-09-22",
+      "extrait": "La méthode normale de calcul de la redevance repose sur le suivi régulier des rejets, qui nécessite l'agrément de l'agence de l'eau et la transmission des résultats d'analyse via le portail GIDAF. Déclaration en ligne avant le 31 mars."
+    },
+    {
+      "champ": "description, expertises",
+      "url": "https://aides-redevances.eau-loire-bretagne.fr/home/aides/acteurs-eonomiques/aides-pour-les-acteurs-economiques.html",
+      "date": "2026-09-22",
+      "extrait": "Contrat avec l'industriel : l'agence et l'industriel définissent ensemble un programme d'actions sur mesure d'une durée limite de 3 ans. Opérations collectives : les petites entreprises et les artisans peuvent être accompagnés techniquement et financièrement dans ce cadre. Contact 02 38 51 73 73."
+    },
+    {
+      "champ": "description, expertises",
+      "url": "https://www.eau-loire-bretagne.fr/sites/agence/home/bassin-loire-bretagne/nos-dossiers-enjeux-et-actions/entreprises-vos-solutions-pour-leau.html",
+      "date": "2026-09-22",
+      "extrait": "Accompagnement technique et financier apporté par les services de l'agence de l'eau pour réduire simultanément leurs consommations, leurs pollutions. Vos interlocuteurs de proximité : l'agence de l'eau vous invite à vous rapprocher de ses délégations régionales."
+    },
+    {
+      "champ": "mesures, expertises",
+      "url": "https://www.rhone-mediterranee.eaufrance.fr/sobriete-des-usages-et-partage-de-la-ressource/projet-de-territoire-pour-la-gestion-de-leau-ptge",
+      "date": "2026-09-22",
+      "extrait": "Ces démarches territoriales sont accompagnées tout au long de leur mise en place par un préfet référent et ses services, ainsi que par l'agence de l'eau et ses délégations régionales concernées. Le comité de pilotage réunit l'ensemble des acteurs de l'eau du territoire, usagers économiques compris."
+    },
+    {
+      "champ": "mesures, expertises",
+      "url": "https://www.eau-rhin-meuse.fr/les-sage-du-bassin-rhin-meuse",
+      "date": "2026-09-22",
+      "extrait": "L'agence publie la liste des 11 SAGE du bassin avec leur état d'avancement, la carte des SAGE du bassin Rhin-Meuse et les liens vers les structures porteuses. Les partenaires institutionnels (dont l'agence de l'eau) apportent leur concours technique et financier ; les maîtres d'ouvrage du territoire déclinent de manière opérationnelle les orientations du SAGE."
+    },
+    {
+      "champ": "mesures, expertises",
+      "url": "https://www.eau-seine-normandie.fr/domaines-d-action/politique-territoriale",
+      "date": "2026-09-22",
+      "extrait": "L'agence de l'eau Seine-Normandie accompagne des animations pour l'élaboration et la mise en oeuvre d'un SAGE. Les animateurs constituent des relais de terrain importants pour l'agence de l'eau."
+    },
+    {
+      "champ": "description",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006686518",
+      "date": "2026-09-22",
+      "extrait": "Article L1331-10 du code de la santé publique : tout déversement d'eaux usées autres que domestiques dans le réseau public de collecte doit être préalablement autorisé par le maire ou, lorsque la compétence en matière de collecte a été transférée, par le président de l'établissement public compétent. L'agence de l'eau n'est pas l'autorité qui délivre cette autorisation."
+    },
+    {
+      "champ": "departements, description",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033033679",
+      "date": "2026-09-22",
+      "extrait": "Article L213-13 du code de l'environnement : il est créé, dans chacun des départements d'outre-mer, un office de l'eau, établissement public local à caractère administratif, rattaché au département."
+    },
+    {
+      "champ": "departements",
+      "url": "https://www.eau-artois-picardie.fr/sites/default/files/4p-agencedeleau-france_v2.pdf",
+      "date": "2026-09-22",
+      "extrait": "Une mission commune pour l'eau, la biodiversité, le littoral, 6 agences de l'eau. Document commun listant les six agences et leurs sièges : Artois-Picardie (Douai), Rhin-Meuse (Moulins-lès-Metz), Seine-Normandie, Loire-Bretagne (Orléans), Rhône Méditerranée Corse (Lyon), Adour-Garonne (Toulouse), soit une couverture des bassins hydrographiques de la métropole."
+    },
+    {
+      "champ": "siret",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=agence%20de%20l%27eau",
+      "date": "2026-09-22",
+      "extrait": "Six personnes morales distinctes, nature juridique 7385 : Seine-Normandie siren 187500095, Loire-Bretagne 184503019, Adour-Garonne 183100064, Rhône-Méditerranée-Corse 186901559, Rhin-Meuse 185703014, Artois-Picardie 185911781. Aucune entité unique ne regroupe les six agences, donc pas de SIRET pour cette fiche."
+    }
+  ],
+  "date_maj": "2026-09-22"
+}

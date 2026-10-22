@@ -1,0 +1,99 @@
+{
+  "id": "PREST_VIN_003",
+  "nom": "Servinox",
+  "type": "equipementier",
+  "logo_url": null,
+  "siret": "39343379200040",
+  "description": "Fabricant d'équipements en acier inoxydable pour l'agroalimentaire, la brasserie, la cosmétique et la chimie, installé à Trappes (Yvelines) avec bureau d'études et atelier de production, qui cite les vins et spiritueux parmi les produits traités en agroalimentaire. Son système de raclage XSR vide les lignes de transfert avec un obus propulsé au gaz ou au liquide, supprime la dilution due à la pousse à l'eau et réduit les volumes d'effluents et les cycles de lavage ; il se complète de vannes multivoies et d'une régulation de vitesse d'obus. Matériel vendu en direct depuis Trappes ou par un réseau de distributeurs en France et à l'international.",
+  "expertises": [
+    "Système de raclage de lignes",
+    "Régulation de vitesse d'obus",
+    "Vannes multivoies de raclage",
+    "Soupapes de protection de cuves"
+  ],
+  "categories": [
+    "ameliorer_efficacite_hydrique"
+  ],
+  "secteurs": [
+    "vins_spiritueux"
+  ],
+  "departements": [],
+  "mesures": [
+    {
+      "id": "ACT_VIN_002",
+      "roles": [
+        "materiel"
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "type": "site_internet",
+      "value": "https://www.servinox.com/"
+    },
+    {
+      "type": "tel",
+      "value": "01 30 16 15 00"
+    },
+    {
+      "type": "adresse",
+      "value": "34-36 avenue Roger Hennequin, 78190 Trappes"
+    },
+    {
+      "type": "linkedin",
+      "value": "https://www.linkedin.com/company/1286290"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Servinox&departement=78",
+      "date": "2026-09-28",
+      "extrait": "SVX (SERVINOX - HPROCESS), siret 39343379200040, siège, 34 AVENUE ROGER HENNEQUIN 78190 TRAPPES, activité 28.14Z, état administratif A"
+    },
+    {
+      "champ": "nom, siret, contacts (tel, adresse)",
+      "url": "https://www.servinox.com/mentions",
+      "date": "2026-09-28",
+      "extrait": "Éditeur du site : SERVINOX Adresse : 34-36 avenue Roger Hennequin 78190 Trappes | FRANCE Tél. : +33 (0)1.30.16.15.00 [...] immatriculée au RCS de Versailles sous le numéro B 393 433 792"
+    },
+    {
+      "champ": "type (fabrication française), expertises, mesures (ACT_VIN_002, materiel), contacts (linkedin)",
+      "url": "https://www.servinox.com/produit/systeme-de-raclage-xsr",
+      "date": "2026-09-28",
+      "extrait": "Conception et fabrication française de solutions et équipements en acier inoxydable. [...] destiné à valoriser la masse résiduelle récupérée dans la tuyauterie au moyen d'un obus de raclage. L'obus est [...] propulsé dans la tuyauterie par un fluide de pousse (gaz ou liquide)"
+    },
+    {
+      "champ": "description, expertises, mesures (ACT_VIN_002)",
+      "url": "https://www.servinox.com/FICHIERS/produit/2/SERVINOX-Environnement-XSR-systeme%20de%20raclage-23.pdf",
+      "date": "2026-09-28",
+      "extrait": "Suppression du phénomène de dilution induit par la pousse à l'eau sans obus. Réduction des volumes d'effluents à traiter. Réduction de la consommation d'agents nettoyants et des cycles de lavage. [...] complété par des vannes multivoies à passage intégral (MV) [...] platine de régulation de vitesse d'obus (RVO)"
+    },
+    {
+      "champ": "type (atelier de production), description",
+      "url": "https://www.servinox.com/fabricant-solution-raclage",
+      "date": "2026-09-28",
+      "extrait": "Elle dispose d'une structure en région parisienne, regroupant un service technico-commercial, une équipe d'ingénieurs au bureau d'études, un atelier de production"
+    },
+    {
+      "champ": "secteurs (vins et spiritueux), expertises (soupapes)",
+      "url": "https://www.servinox.com/secteurs-activite-agroalimentaire-cosmetique-pharmaceutique-brasserie-chimie/materiel-equipement-industrie-agroalimentaire",
+      "date": "2026-09-28",
+      "extrait": "définir, concevoir et fabriquer des solutions de raclage, des obus de raclage, des vannes multivoies, [...] des soupapes de protection de cuves pression/dépression [...] lait, yaourts, crème, glaces, fromages, vins & spiritueux"
+    },
+    {
+      "champ": "secteurs (références clients du secteur)",
+      "url": "https://www.servinox.com/systeme-raclage-industrie",
+      "date": "2026-09-28",
+      "extrait": "Les entreprises qui nous font confiance : logos nicolas-feuillatte, moet-chandon, hennessy (parmi d'autres)"
+    },
+    {
+      "champ": "departements (couverture nationale), description (distribution)",
+      "url": "https://www.servinox.com/reseau-service-mondial",
+      "date": "2026-09-28",
+      "extrait": "Notre réseau distributeurs en France et à l'international"
+    }
+  ],
+  "date_maj": "2026-09-28"
+}

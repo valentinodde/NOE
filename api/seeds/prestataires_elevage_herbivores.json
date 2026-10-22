@@ -1,0 +1,1577 @@
+[
+  {
+    "id": "PREST_HRB_001",
+    "nom": "Serap Industries",
+    "type": "equipementier",
+    "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792097936/Noe%20assets/logos/PREST_HRB_001.png",
+    "siret": "38975842600024",
+    "description": "Fabricant de refroidisseurs de lait à la ferme (tanks à lait), conçus et fabriqués dans ses ateliers de Gorron en Mayenne. Il propose des prérefroidisseurs de lait (échangeur tubulaire ou à plaques) dont l'eau tiédie est dirigée vers les abreuvoirs en sortie de salle de traite, ainsi que des meubles de lavage du tank et des systèmes de récupération de chaleur. Le matériel est installé par les distributeurs partenaires de la marque, appuyés par l'assistance technique de Serap.",
+    "expertises": [
+      "Tanks à lait",
+      "Prérefroidisseurs de lait",
+      "Meuble de lavage du tank",
+      "Récupération de chaleur du tank"
+    ],
+    "categories": [
+      "valoriser_reut_eaux_non_conventionnelles"
+    ],
+    "secteurs": [
+      "elevage_herbivores"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_HRB_005",
+        "roles": [
+          "materiel"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.groupeserap.fr"
+      },
+      {
+        "type": "tel",
+        "value": "02 43 08 49 49"
+      },
+      {
+        "type": "mail",
+        "value": "serap-industries@serapgroup.com"
+      },
+      {
+        "type": "adresse",
+        "value": "245 route de Fougères, 53120 Gorron"
+      },
+      {
+        "type": "linkedin",
+        "value": "https://www.linkedin.com/company/groupe-serap/"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "siret",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=Serap%20Industries&departement=53",
+        "date": "2026-10-15",
+        "extrait": "SERAP INDUSTRIES, siret 38975842600024, siège, ROUTE DE FOUGERES 53120 GORRON, activité 28.25Z, etat_administratif A"
+      },
+      {
+        "champ": "type, description, contacts",
+        "url": "https://www.groupeserap.fr/tank-a-lait_serap-group_nos-sites-de-production_site-industriel-de-gorron-france.phtml",
+        "date": "2026-10-15",
+        "extrait": "Le site : 3 ateliers de fabrication [...] Activités : Conception, fabrication et vente : Refroidisseurs de lait en vrac [...] SERAP Industries 245, route de Fougères 53120 Gorron - FRANCE Tél : 02 43 08 49 49 serap-industries@serapgroup.com"
+      },
+      {
+        "champ": "description, departements",
+        "url": "https://www.groupeserap.fr/tank-a-lait_serap-group_a-propos.phtml",
+        "date": "2026-10-15",
+        "extrait": "SERAP Group développe, fabrique et commercialise, des refroidisseurs de lait [...] le 1er constructeur mondial de refroidisseurs de lait à la ferme, et leader en France"
+      },
+      {
+        "champ": "expertises, mesures, categories",
+        "url": "https://www.groupeserap.fr/tank-a-lait_refroidissement-du-lait_economies-d-energie-pour-le-refroidissement-du-lait_pre-refroidissement-du-lait.phtml",
+        "date": "2026-10-15",
+        "extrait": "Echangeur Coaxial tubulaire et échangeur à plaques pour le pré-refroidissement du lait [...] L'eau tiédie est dirigée vers les abreuvoirs en sortie de salle de traite"
+      },
+      {
+        "champ": "expertises",
+        "url": "https://www.groupeserap.fr/tank-a-lait_refroidissement-du-lait_meuble-de-lavage-rainbow.phtml",
+        "date": "2026-10-15",
+        "extrait": "Un nettoyage efficace de la cuve pour une qualité de lait irréprochable."
+      },
+      {
+        "champ": "expertises, description",
+        "url": "https://www.groupeserap.fr/tank-a-lait_refroidissement-du-lait_opticool-refroidissez-economisez-preservez.phtml",
+        "date": "2026-10-15",
+        "extrait": "Opticool est le seul groupe frigorifique qui associe au pré-refroidissement du lait, un système [...] de récupération de calories [...] son installation est assurée par un partenaire distributeur SERAP"
+      },
+      {
+        "champ": "description",
+        "url": "https://www.groupeserap.fr/tank-a-lait_service-clients_assistance-technique.phtml",
+        "date": "2026-10-15",
+        "extrait": "L'assistance technique SERAP Group, propose à tous ses clients installateurs et dépanneurs [...] Un accompagnement des techniciens de ses distributeurs sur le terrain"
+      },
+      {
+        "champ": "contacts",
+        "url": "https://www.groupeserap.fr/",
+        "date": "2026-10-15",
+        "extrait": "SERAP GROUP 245 route de Fougères 53120 Gorron TEL. +33 (0)2 43 08 49 49 ; lien https://www.linkedin.com/company/groupe-serap/"
+      },
+      {
+        "champ": "logo_url",
+        "url": "https://www.groupeserap.fr/img/squelette/logo-serap-vertic.png",
+        "date": "2026-10-15",
+        "extrait": "Logo vertical couleur SERAP Group utilisé en pied de page du site (css/styles.css, a#footerLogo)"
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "PREST_HRB_002",
+    "nom": "DeLaval France",
+    "type": "installateur",
+    "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792098000/Noe%20assets/logos/PREST_HRB_002.png",
+    "siret": "40949500900030",
+    "description": "Filiale commerciale française (commerce de gros, code APE 4661Z) du groupe DeLaval, fondé en Suède et membre du groupe Tetra Laval, qui fabrique notamment ses robots de traite dans son usine de Tumba, en Suède. Pour la laiterie, la gamme DeLaval comprend le programmateur de lavage C100E, qui régule la consommation d'eau et de détergents du lavage de la machine à traire, et des échangeurs à plaques de prérefroidissement du lait dont l'eau tiède peut être réutilisée pour abreuver les animaux. La vente et l'installation du matériel sont réalisées par des concessions DeLaval.",
+    "expertises": [
+      "Programmateur de lavage de traite",
+      "Prérefroidisseur de lait à plaques"
+    ],
+    "categories": [
+      "ameliorer_efficacite_hydrique",
+      "valoriser_reut_eaux_non_conventionnelles"
+    ],
+    "secteurs": [
+      "elevage_herbivores"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_HRB_002",
+        "roles": [
+          "materiel"
+        ]
+      },
+      {
+        "id": "ACT_HRB_005",
+        "roles": [
+          "materiel"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.delaval.com/fr/"
+      },
+      {
+        "type": "tel",
+        "value": "01 30 81 81 82"
+      },
+      {
+        "type": "adresse",
+        "value": "Omega Parc, bâtiment 5, 3 boulevard Jean Moulin, 78990 Élancourt"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "siret, adresse",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=DeLaval&departement=78",
+        "date": "2026-10-15",
+        "extrait": "DELAVAL, siren 409495009, siret 40949500900030, siège, BAT 5 OMEGA PARC 3 BOULEVARD JEAN MOULIN 78990 ELANCOURT, activité 46.61Z, état administratif A"
+      },
+      {
+        "champ": "contacts (tel, adresse), description (APE 4661Z, Suède, Tetra Laval, installation par les concessions)",
+        "url": "https://delaval.com/globalassets/france/dernieres-nouvelles/2022/pr-delaval-acquisition-mpes-par-le-groupe-ackermann/communique-de-presse-delaval-acquisition-de-la-concession-directe-delaval-mpes-par-le-groupe-ackermann.pdf",
+        "date": "2026-10-15",
+        "extrait": "DeLaval, OMEGA PARC, Bat 5, CS 40504, 3 bd Jean Moulin, 78997 ELANCOURT CEDEX. Téléphone 01 30 81 81 82. R.C.S. Versailles 409 495 009 code APE 4661Z. La concession MPES basée à Vincey (88) qui réalisait les activités de vente et d'installation des équipements d'élevage et matériels de traite DeLaval dans l'Est. DeLaval fut fondée il y a plus de 135 ans en Suède. DeLaval, aux côtés de Tetra Pak et Sidel, fait partie du groupe Tetra Laval."
+      },
+      {
+        "champ": "description (usine de Tumba, en Suède)",
+        "url": "https://delaval.com/globalassets/france/dernieres-nouvelles/2023/pr-delaval-tumba-factory/communique-de-presse-delaval-investit-dans-son-site-de-production-de-machines-a-traire-automatisees.pdf",
+        "date": "2026-10-15",
+        "extrait": "DeLaval investit dans son site de production de machines à traire automatisées. L'usine de Tumba, en Suède, sera davantage orientée vers le VMS. DeLaval fait partie du groupe Tetra Laval."
+      },
+      {
+        "champ": "description, expertises, mesures (ACT_HRB_002)",
+        "url": "https://www.delaval.com/globalassets/inriverresources/pdfs/p/programmateur-de-lavage-c100e-fr2.pdf",
+        "date": "2026-10-15",
+        "extrait": "Le C100E DeLaval permet également de réguler la consommation d'eau et de détergents, vous faisant réaliser d'importantes économies sur ces deux postes. Le C100E DeLaval utilise par exemple toujours la même quantité d'eau même si la pression d'arrivée d'eau est irrégulière."
+      },
+      {
+        "champ": "description, expertises, mesures (ACT_HRB_005)",
+        "url": "https://www.delaval.com/globalassets/netherlands/onze-oplossingen/koeling/fr/delaval_solutions-de-refroidissement_koeloplossingen_be-fr_lores.pdf",
+        "date": "2026-10-15",
+        "extrait": "Brochure DeLaval Solutions de refroidissement (édition belge en français), p. 11, Échangeur à plaques (PHE) DeLaval : Après le processus de pré-refroidissement, l'eau tiède peut être réutilisée comme eau potable pour vos animaux."
+      },
+      {
+        "champ": "logo_url",
+        "url": "https://www.delaval.com/favicon.ico",
+        "date": "2026-10-15",
+        "extrait": "Favicon du site delaval.com, symbole DeLaval en couleur (triangle bleu et alpha orange), 48 x 48 px"
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "PREST_HRB_003",
+    "nom": "Groupe Lacta-Traite",
+    "type": "installateur",
+    "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792097946/Noe%20assets/logos/PREST_HRB_003.png",
+    "siret": "38514092600036",
+    "description": "Entreprise familiale de la Manche, concessionnaire BouMatic, qui installe et entretient les équipements de traite et d'élevage des exploitations laitières, robots de traite compris. Son service après-vente assure la maintenance et le dépannage des machines à traire, les contrôles Opti'Traite et Certi'traite, et ses techniciens Sani-Star règlent le matériel d'hygiène de traite. Interventions sur demande ou dans le cadre du programme de maintenance Service Star.",
+    "expertises": [
+      "Installation d'équipements de traite",
+      "Maintenance de machines à traire",
+      "Contrôles Opti'Traite et Certi'traite",
+      "Réglage du matériel d'hygiène de traite"
+    ],
+    "categories": [],
+    "secteurs": [
+      "elevage_herbivores"
+    ],
+    "departements": [
+      "14",
+      "22",
+      "35",
+      "50",
+      "53",
+      "61"
+    ],
+    "mesures": [],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.lactatraite.fr/"
+      },
+      {
+        "type": "tel",
+        "value": "02 33 48 75 17"
+      },
+      {
+        "type": "mail",
+        "value": "contact@lactatraite.fr"
+      },
+      {
+        "type": "adresse",
+        "value": "7 rue des Artisans, 50540 Isigny-le-Buat"
+      },
+      {
+        "type": "adresse",
+        "value": "41 route de Granville, 50800 Fleury"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "contacts",
+        "url": "https://www.lactatraite.fr/contact",
+        "date": "2026-10-15",
+        "extrait": "Téléphone Bureaux : 02 33 48 75 17 ... contact@lactatraite.fr ... Siège 7 rue des Artisans 50540 ISIGNY LE BUAT ... Agence secondaire : 41 route de Granville 50800 FLEURY"
+      },
+      {
+        "champ": "siret",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=Lacta-Traite&departement=50",
+        "date": "2026-10-15",
+        "extrait": "GROUPE LACTA-TRAITE, siret 38514092600036, siège, 50540 ISIGNY-LE-BUAT, etat_administratif A"
+      },
+      {
+        "champ": "type, description, expertises",
+        "url": "https://www.lactatraite.fr/technicien-de-maintenance-traite-conventionnelle-h/f",
+        "date": "2026-10-15",
+        "extrait": "Lacta Traite, concessionnaire BouMatic, accompagne les éleveurs laitiers dans l'installation, l'entretien et le dépannage de leurs équipements de traite et d'élevage."
+      },
+      {
+        "champ": "description, expertises",
+        "url": "https://www.lactatraite.fr/nouvelle-page",
+        "date": "2026-10-15",
+        "extrait": "NOS REALISATIONS ... Installation d'un robot de traite Gemini Up BouMatic dans la ferme de nos clients !"
+      },
+      {
+        "champ": "description, expertises",
+        "url": "https://www.lactatraite.fr/service-après-vente",
+        "date": "2026-10-15",
+        "extrait": "Il est possible de faire réaliser un certi'traite (contrôle de la conformité de votre installation de traite) par nos techniciens habilités. Les techniciens sont habilités à faire les contrôles Opti'traite et peuvent faire la maintenance de votre machine en cas de besoin."
+      },
+      {
+        "champ": "description, expertises",
+        "url": "https://www.lactatraite.fr/service-sani-star",
+        "date": "2026-10-15",
+        "extrait": "Réglage : Ils règlent vos matériels d'hygiène de traite. ... Programme Service Star : Dates de maintenances prévues à l'avance"
+      },
+      {
+        "champ": "description",
+        "url": "https://www.lactatraite.fr/about",
+        "date": "2026-10-15",
+        "extrait": "Concessionnaire BouMatic ... Entreprise familiale créée il y a plus de 30 ans"
+      },
+      {
+        "champ": "departements",
+        "url": "https://irp.cdn-website.com/e7153403/dms3rep/multi/opt/zone+chalandise-1408w.JPG",
+        "date": "2026-10-15",
+        "extrait": "Image de la carte « ZONE D'INTERVENTION » de la page /about, sans limites départementales : zone ombrée autour de Granville, Avranches, Vire, Flers, Alençon, Saint-Malo, Dinan, Collinée, au nord de Fougères et de Mayenne (lecture d'après la position des villes)"
+      },
+      {
+        "champ": "logo_url",
+        "url": "https://irp.cdn-website.com/e7153403/site_favicon_16_1716479965952.ico",
+        "date": "2026-10-15",
+        "extrait": "Favicon du site lactatraite.fr (48 x 48 px)"
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "PREST_HRB_004",
+    "nom": "Chambre d'agriculture de Normandie",
+    "type": "chambre_consulaire",
+    "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792097989/Noe%20assets/logos/PREST_HRB_004.png",
+    "siret": "13003150300076",
+    "description": "Établissement public consulaire des Chambres d'agriculture de Normandie, avec un siège régional à Caen et une chambre dans chacun des cinq départements normands. Pour les éleveurs laitiers, sa prestation Certi'Traite est un contrôle de conformité d'une installation de traite neuve, d'occasion, rénovée ou robotisée, qui vise la qualité du lait : examen du montage sur site, diagnostic hors traite selon les protocoles Opti'Traite et Net'Traite, contrôle des paramètres de lavage, bilan avec l'installateur et attestation de conformité. La prestation se déroule à la Chambre ou sur l'exploitation, tarifs et conditions de vente sur demande.",
+    "expertises": [
+      "Certification Certi'Traite",
+      "Diagnostic Opti'Traite et Net'Traite",
+      "Contrôle des paramètres de lavage"
+    ],
+    "categories": [
+      "ameliorer_efficacite_hydrique"
+    ],
+    "secteurs": [
+      "elevage_herbivores"
+    ],
+    "departements": [
+      "14",
+      "27",
+      "50",
+      "61",
+      "76"
+    ],
+    "mesures": [
+      {
+        "id": "ACT_HRB_002",
+        "roles": [
+          "conseil_etude"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://normandie.chambres-agriculture.fr"
+      },
+      {
+        "type": "tel",
+        "value": "02 31 47 22 47"
+      },
+      {
+        "type": "mail",
+        "value": "accueil@normandie.chambagri.fr"
+      },
+      {
+        "type": "adresse",
+        "value": "6 rue des Roquemonts, CS 45346, 14053 Caen Cedex 4"
+      }
+    ],
+    "infos_complementaires": [
+      {
+        "type": "retour_experience",
+        "texte": "Un suivi d'un an publié par les Chambres d'agriculture de Normandie décrit l'EARL de la Landerie (salle de traite 2 x 6, 60 à 120 vaches) : le surplus d'eau du prérefroidisseur non bu par les vaches est stocké dans une cuve de 1 000 L et réemployé pour laver les quais de traite et le parc d'attente. L'économie annuelle est estimée à 365 m³. Avec la récupération des eaux de rinçage de la machine à traire, l'installation a demandé un investissement de 13 233 €.",
+        "lien": "https://normandie.chambres-agriculture.fr/dossiers-1/detail-du-dossier/recycler-et-economiser-leau-en-elevage-laitier",
+        "lien_label": "Recycler et économiser l'eau en élevage laitier (Chambres d'agriculture de Normandie)"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "expertises, mesures, description",
+        "url": "https://normandie.chambres-agriculture.fr/etre-accompagne/pour-agriculteurs-et-agricultrices/detail-de-la-prestation/certitraite-normandie",
+        "date": "2026-10-15",
+        "extrait": "CERTI'TRAITE Bovin lait. Vérifiez la conformité et le bon fonctionnement de votre nouvelle installation de traite. Valider la conformité de votre installation (neuve, d'occasion, rénovée, robots). Assurer la qualité du lait. [...] Un CONTRÔLE des paramètres de lavage. Un BILAN pour échange avec l'installateur [...]. Tarifs et conditions de vente sur demande"
+      },
+      {
+        "champ": "contacts, departements, description",
+        "url": "https://normandie.chambres-agriculture.fr/vos-chambres/nous-contacter",
+        "date": "2026-10-15",
+        "extrait": "Chambre d'agriculture de l'Eure, de l'Orne, de la Manche, de Seine-Maritime, du Calvados. Chambres d'agriculture de Normandie 6 rue des Roquemonts - CS 45346 14053 Caen Cedex 4 Tél. 02 31 47 22 47 accueil@normandie.chambagri.fr"
+      },
+      {
+        "champ": "siret",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=13003150300076",
+        "date": "2026-10-15",
+        "extrait": "CHAMBRE D'AGRICULTURE DE REGION NORMANDIE, SIRET 13003150300076, siège, CITIS 2 10 RUE D'ATALANTE 14200 HEROUVILLE-SAINT-CLAIR, nature juridique 7381, état A"
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://normandie.chambres-agriculture.fr/dossiers-1/detail-du-dossier/recycler-et-economiser-leau-en-elevage-laitier",
+        "date": "2026-10-15",
+        "extrait": "Le surplus d'eau issue du prérefroidisseur, non utilisé pour l'abreuvement, stocké dans une cuve de 1000 L et réemployé pour le nettoyage des quais de traite et du parc d'attente. [...] L'économie annuelle est estimée à 365 m³ d'eau par an. [...] un investissement de 13 233 €"
+      },
+      {
+        "champ": "logo_url",
+        "url": "https://normandie.chambres-agriculture.fr/fileadmin/_processed_/0/6/csm_CSA_NORMANDIE_V_NOIR_405d035fb9.webp",
+        "date": "2026-10-15",
+        "extrait": "Logo vertical noir des Chambres d'agriculture de Normandie, affiché sur normandie.chambres-agriculture.fr"
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "PREST_HRB_005",
+    "nom": "Aquatiris",
+    "type": "installateur",
+    "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792098090/Noe%20assets/logos/PREST_HRB_005.png",
+    "siret": "49903606900056",
+    "description": "Réseau de franchisés spécialisé dans l'assainissement par phytoépuration (jardins d'assainissement), dont la tête de réseau (société SASKIT, Bréal-sous-Montfort) conçoit les filières de traitement. Pour les exploitations d'élevage, son jardin d'assainissement Osier traite les eaux blanches, seules ou en mélange avec les eaux usées de la maison, avec un niveau de rejet conforme à la réglementation de l'exploitation (ICPE, RSD). L'expert local réalise l'étude de conception puis les travaux avec son équipe ou ses installateurs partenaires, sur devis.",
+    "expertises": [
+      "Traitement des eaux blanches",
+      "Jardin d'assainissement Osier",
+      "Étude de conception",
+      "Pose et entretien"
+    ],
+    "categories": [
+      "agir_rejets_qualite"
+    ],
+    "secteurs": [
+      "elevage_herbivores"
+    ],
+    "departements": [
+      "01",
+      "02",
+      "03",
+      "04",
+      "05",
+      "06",
+      "07",
+      "08",
+      "09",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "21",
+      "22",
+      "23",
+      "24",
+      "25",
+      "26",
+      "27",
+      "28",
+      "29",
+      "30",
+      "31",
+      "32",
+      "33",
+      "34",
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45",
+      "46",
+      "47",
+      "48",
+      "49",
+      "50",
+      "53",
+      "54",
+      "56",
+      "57",
+      "58",
+      "59",
+      "60",
+      "61",
+      "62",
+      "63",
+      "64",
+      "65",
+      "66",
+      "67",
+      "68",
+      "69",
+      "70",
+      "71",
+      "72",
+      "73",
+      "74",
+      "76",
+      "77",
+      "79",
+      "81",
+      "82",
+      "83",
+      "84",
+      "85",
+      "86",
+      "87",
+      "88",
+      "89",
+      "90",
+      "91",
+      "95"
+    ],
+    "mesures": [
+      {
+        "id": "ACT_HRB_006",
+        "roles": [
+          "conseil_etude",
+          "travaux"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.aquatiris.com/agricole-et-agroalimentaire/"
+      },
+      {
+        "type": "tel",
+        "value": "0800 300 325"
+      },
+      {
+        "type": "mail",
+        "value": "contact@aquatiris.fr"
+      },
+      {
+        "type": "adresse",
+        "value": "7 rue des Artisans, 35310 Bréal-sous-Montfort"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "siret, adresse",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=Aquatiris&departement=35",
+        "date": "2026-10-15",
+        "extrait": "AQUATIRIS (SASKIT), siret 49903606900056, siège, 7 RUE DES ARTISANS 35310 BREAL-SOUS-MONTFORT, etat_administratif A, activité 42.21Z"
+      },
+      {
+        "champ": "contacts (tel, mail, adresse)",
+        "url": "https://www.aquatiris.com/mentions-legales/",
+        "date": "2026-10-15",
+        "extrait": "Aquatiris, SAS au capital de 18 540€, 0800 300 325 (appel et service gratuits). Siège social : 7 rue des artisans, 35310 BRÉAL-SOUS-MONTFORT. Contact : contact@aquatiris.fr"
+      },
+      {
+        "champ": "description, expertises, mesures (ACT_HRB_006)",
+        "url": "https://www.aquatiris.com/jardin-assainissement-osier/",
+        "date": "2026-10-15",
+        "extrait": "Les exploitations agricoles, agro-alimentaires et industrielles (élevage, transformation, microbrasserie, vinicole…) génèrent des effluents [...] Jardin d'assainissement Osier, Traitement d'effluents agricoles (eaux blanches) et domestiques en mélange, Dpt 29 [...] niveaux de rejet [...] conformes à la réglementation à laquelle est soumise l'activité (réglementation, arrêté préfectoral, ICPE, RSD…)"
+      },
+      {
+        "champ": "description, contacts (site_internet)",
+        "url": "https://www.aquatiris.com/agricole-et-agroalimentaire/",
+        "date": "2026-10-15",
+        "extrait": "qu'il s'agisse de fermes, de vignobles, de laiteries ou d'usines de transformation [...] nos experts sont à votre disposition pour concevoir une solution unique [...] du diagnostic initial à l'installation et au suivi."
+      },
+      {
+        "champ": "mesures (rôles conseil_etude et travaux), expertises",
+        "url": "https://www.aquatiris.com/etapes/",
+        "date": "2026-10-15",
+        "extrait": "Étude de conception [...] Qui ? Étude pouvant être réalisée directement par l'expert Aquatiris ou par un Bureau d'Études en assainissement. Travaux de réalisation [...] Qui ? L'expert Aquatiris avec son équipe et/ou son réseau d'installateurs formés. Entretien [...] par l'expert Aquatiris"
+      },
+      {
+        "champ": "mesures (rôle travaux), expertises",
+        "url": "https://www.aquatiris.com/sur-mesure-agricole-et-agroalimentaire/",
+        "date": "2026-10-15",
+        "extrait": "Que vous soyez un domaine agricole, un vignoble, un industriel agroalimentaire [...] Conception sur-mesure [...] Installation professionnelle : nos équipes qualifiées installent le système"
+      },
+      {
+        "champ": "departements",
+        "url": "https://www.aquatiris.com/expert/",
+        "date": "2026-10-15",
+        "extrait": "La page liste tous les départements (« Aquatiris fonctionne en réseau, sur toute la France et Outre-Mer ») sans dire où il y a un expert. La liste de la fiche résulte du parcours, le 2026-10-15, de chaque page https://www.aquatiris.com/expert/<code>/ : retenus les départements dont la page affiche « N expert(s) en phytoépuration disponible(s) » ; exclus 10, 51, 52, 55, 75, 78, 80, 92, 93, 94, 971 à 974 et 976 (« Aucun expert en phytoépuration disponible »), 2A et 2B (« La page demandée n'existe pas »), 988 (hors référentiel). Le 50, affiché sans expert, est réintégré par la page de l'expert Calvados Manche."
+      },
+      {
+        "champ": "departements (exemple d'exclusion)",
+        "url": "https://www.aquatiris.com/expert/10/",
+        "date": "2026-10-15",
+        "extrait": "Aucun expert en phytoépuration disponible dans l'Aube"
+      },
+      {
+        "champ": "departements (50)",
+        "url": "https://www.aquatiris.com/expert/aquatiris-calvados-manche/",
+        "date": "2026-10-15",
+        "extrait": "Aquatiris Calvados Manche. Expert en phytoépuration dans la Manche et le Calvados. Saint Lô (et 50 kms aux alentours) [...] Dans le Calvados et la Manche, nous intervenons lors de la conception et la mise en place de votre système d'assainissement écologique."
+      },
+      {
+        "champ": "logo_url",
+        "url": "https://www.aquatiris.com/apple-touch-icon.png",
+        "date": "2026-10-15",
+        "extrait": "apple-touch-icon 180 x 180 déclaré dans l'en-tête de www.aquatiris.com"
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "PREST_HRB_006",
+    "nom": "Alistep (INEAUTEC)",
+    "type": "installateur",
+    "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792097960/Noe%20assets/logos/PREST_HRB_006.png",
+    "siret": "80521574600035",
+    "description": "Alistep est l'enseigne de la société INEAUTEC (Couzeix, Haute-Vienne), qui conçoit et vend du matériel pour stations d'épuration par filtres plantés de roseaux. Pour les élevages, elle fournit le matériel de traitement des eaux blanches de traite et des eaux vertes de quai : fosse toutes eaux double paroi de 3 à 10 m³ et cuve d'alimentation à chasse inox. Le matériel est vendu sur devis gratuit, d'après un projet défini par un bureau d'études et validé par la Chambre d'agriculture. Elle est classée ici comme fournisseur qui conçoit et vend le matériel, aucune source vérifiable ne situant sa fabrication.",
+    "expertises": [
+      "Fosses toutes eaux de 3 à 10 m³",
+      "Cuves d'alimentation à chasse inox",
+      "Matériel pour filtres plantés de roseaux"
+    ],
+    "categories": [
+      "agir_rejets_qualite"
+    ],
+    "secteurs": [
+      "elevage_herbivores"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_HRB_006",
+        "roles": [
+          "materiel"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "http://www.alistep.com/"
+      },
+      {
+        "type": "adresse",
+        "value": "ZA Océalim, 13 rue Charles Lindbergh, 87270 Couzeix"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "description, expertises, mesures, categories",
+        "url": "http://www.alistep.com/materiels-assainissement-agricole/",
+        "date": "2026-10-15",
+        "extrait": "Seules les eaux blanches de traite, les eaux vertes de quai et les eaux blanches de fromagerie sont acceptées dans un traitement filtres plantés de roseaux. [...] Alistep propose le matériel nécessaire à la réalisation d'une station : une fosse toutes eaux (décanteur) de 3 à 10 m3 double paroi : selon votre projet défini par un bureau d'études et validé par la Chambre d'Agriculture. [...] Une cuve d'alimentation avec chasse intégrée : la chasse est en inox 304L. [...] Pour toute demande de devis gratuit, n'hésitez pas à nous contacter."
+      },
+      {
+        "champ": "description (conception et vente)",
+        "url": "http://www.alistep.com/eaux-usees/",
+        "date": "2026-10-15",
+        "extrait": "Conception, fabrication et vente de matériels pour stations filtres plantés de roseaux"
+      },
+      {
+        "champ": "departements, contacts (site_internet)",
+        "url": "http://www.alistep.com/",
+        "date": "2026-10-15",
+        "extrait": "Alistep c'est aujourd'hui plus de 500 références en France."
+      },
+      {
+        "champ": "siret (choix de la société)",
+        "url": "http://www.alistep.com/mentions-legales/",
+        "date": "2026-10-15",
+        "extrait": "Le site www.alistep.com est la propriété de la société INWANT (INternational WAter Natural Treatment), SAS [...] SIRET n°45290342000019. Mention non retenue : selon l'API Recherche d'entreprises, INWANT (SIREN 452903420) est cessée depuis le 2019-11-12 et n'a plus d'établissement ouvert, elle ne peut plus vendre. La société active qui porte l'enseigne ALISTEP est INEAUTEC."
+      },
+      {
+        "champ": "siret, adresse",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=ALISTEP&departement=87",
+        "date": "2026-10-15",
+        "extrait": "INEAUTEC, SIRET 80521574600035, siège, enseigne ALISTEP, ZONE D'ACTIVITE OCEALIM 13 RUE CHARLES LINDBERGH 87270 COUZEIX, état A (actif depuis le 2025-12-01). Ancien établissement ALISTEP 80521574600027, 60 RUE PAUL CLAUDEL 87000 LIMOGES, état F (fermé)."
+      },
+      {
+        "champ": "siret (société écartée)",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=452903420",
+        "date": "2026-10-15",
+        "extrait": "INTERNATIONAL NATURAL WATER TREATMENT (INWANT), SIREN 452903420, siège PARC OCEALIM 3 RUE CHARLES LINDBERG 87270 COUZEIX, etat_administratif C, date_fermeture 2019-11-12"
+      },
+      {
+        "champ": "logo_url",
+        "url": "http://www.alistep.com/wp-content/uploads/2015/10/icones-Favcion-01.png",
+        "date": "2026-10-15",
+        "extrait": "apple-touch-icon 144 x 144 du site alistep.com (symbole carré)"
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "PREST_HRB_007",
+    "nom": "La Buvette",
+    "type": "equipementier",
+    "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792097970/Noe%20assets/logos/PREST_HRB_007.png",
+    "siret": "78572001200042",
+    "description": "Fabricant français d'abreuvoirs pour bovins, ovins, caprins et chevaux, dont l'usine est à Charleville-Mézières (Ardennes). Il produit des abreuvoirs pour le bâtiment et le pâturage, des pompes de prairie qui puisent l'eau d'un puits ou d'un cours d'eau, et des stations de pompage solaire SOLAR-FLOW avec bac ou citerne de stockage pour alimenter des abreuvoirs éloignés. Le matériel est vendu par un réseau de distributeurs en France, et les techniciens-conseils de la marque aident par téléphone à choisir et à mettre en marche une installation solaire.",
+    "expertises": [
+      "Abreuvoirs en bâtiment",
+      "Pompes de prairie",
+      "Pompage solaire au pâturage",
+      "Conseil technique d'installation"
+    ],
+    "categories": [
+      "ameliorer_efficacite_hydrique",
+      "agir_rejets_qualite"
+    ],
+    "secteurs": [
+      "elevage_herbivores"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_HRB_001",
+        "roles": [
+          "materiel"
+        ]
+      },
+      {
+        "id": "ACT_HRB_003",
+        "roles": [
+          "materiel"
+        ]
+      },
+      {
+        "id": "ACT_HRB_007",
+        "roles": [
+          "materiel"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.labuvette.fr/"
+      },
+      {
+        "type": "tel",
+        "value": "03 24 52 37 20"
+      },
+      {
+        "type": "adresse",
+        "value": "Rue Maurice Périn, Parc d'Activités Ardennes Emeraude, CS50749 Tournes, 08013 Charleville-Mézières Cedex"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "siret",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=La%20Buvette&departement=08",
+        "date": "2026-10-15",
+        "extrait": "LA BUVETTE, siret 78572001200042, siège, ZONE INDUSTRIELLE RUE MAURICE PERIN 08090 TOURNES, activité 28.30Z, état A"
+      },
+      {
+        "champ": "type, description, departements, contacts (tel, adresse)",
+        "url": "https://www.labuvette.fr/conseils/entreprise",
+        "date": "2026-10-15",
+        "extrait": "LA BUVETTE dispose d'une usine performante et moderne implantée à Charleville-Mézières [...] compte plusieurs milliers de distributeurs en France [...] conçoit et fabrique en grande série tous types d'abreuvoirs [...] Son savoir-faire est multi-espèces et concerne les bovins, les porcins, les ovins, les caprins et les chevaux. [...] Rue Maurice Périn Parc d'Activités Ardennes Emeraude CS50749 Tournes F-08013 CHARLEVILLE-MEZIERES Cedex +33 (0)3 24 52 37 20"
+      },
+      {
+        "champ": "expertises, mesures (ACT_HRB_001)",
+        "url": "https://www.labuvette.fr/conseils/abreuvement-bovins-en-batiment",
+        "date": "2026-10-15",
+        "extrait": "Installer les abreuvoirs à la bonne hauteur. Trop haut ils encouragent le lapage (donc le gaspillage) [...] Nous conseillons de nettoyer les abreuvoirs au moins une fois par semaine. [...] éviter les surpressions qui sont néfastes au bon fonctionnement des robinetteries [...] Au-delà de 5 bars, la pose d'un réducteur de pression professionnel (A406) est obligatoire."
+      },
+      {
+        "champ": "description, expertises, mesures (ACT_HRB_003)",
+        "url": "https://www.labuvette.fr/conseils/abreuvement-solaire-des-bovins",
+        "date": "2026-10-15",
+        "extrait": "les abreuvoirs et stations de pompage autonomes SOLAR-FLOW puisent l'eau jusqu'à 50 m verticalement grâce à une pompe alimentée par des batteries rechargées par des panneaux solaires. [...] il est possible de stocker l'eau dans une citerne et de redistribuer l'eau dans différents bacs éloignés du points de pompage [...] Les techniciens-conseils LA BUVETTE sont disponibles au +33 (0)3 24 52 37 27 pour vous aider à choisir la meilleure installation pour vos animaux et accompagner sa mise en marche."
+      },
+      {
+        "champ": "mesures (ACT_HRB_003)",
+        "url": "https://www.labuvette.fr/bovins/abreuvement-bovins/au-paturage/solutions-solaires-autonomes.html",
+        "date": "2026-10-15",
+        "extrait": "Solutions Solaires autonomes : KIT DE POMPAGE SOLAIRE SOLAR SUPERFLOW 1200 L/h, Abreuvoir à pompe solaire SOLAR-FLOW 900 L, Pompe solaire autonome SOLAR-FLOW STOCKAGE 24 V"
+      },
+      {
+        "champ": "description, expertises, mesures (ACT_HRB_007)",
+        "url": "https://www.labuvette.fr/bovins/abreuvement-bovins/au-paturage/pompes-de-prairie-aquamat/aquamat-2.html",
+        "date": "2026-10-15",
+        "extrait": "Pompe de prairie au mécanisme très doux. Convient aux chevaux et aux bovins [...] Pompe jusqu'à 7 m de profondeur ou 70 m en longueur. Débit : 0,5 l. par poussée. [...] Mode d'approvisionnement en eau : Puits, cours d'eau"
+      },
+      {
+        "champ": "mesures (ACT_HRB_007)",
+        "url": "https://www.labuvette.fr/bovins/abreuvement-bovins/au-paturage/pompes-de-prairie-aquamat.html",
+        "date": "2026-10-15",
+        "extrait": "Pompes de prairie AQUAMAT : Pompe de prairie AQUAMAT II, Pompe de prairie pour mère suitée AQUAMAT II VA, KIT d'ASPIRATION AQUAMAT, CREPINE"
+      },
+      {
+        "champ": "logo_url",
+        "url": "https://www.labuvette.fr/skin/frontend/default/labuvette-revendeur/images/logo.png",
+        "date": "2026-10-15",
+        "extrait": "Logo de l'en-tête du site labuvette.fr (459 x 87) ; seul le symbole carré à droite (tête de vache sur fond jaune) a été recadré, le logo en longueur étant illisible dans un cadre de 40 px"
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "PREST_HRB_008",
+    "nom": "Lacmé",
+    "type": "equipementier",
+    "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792097948/Noe%20assets/logos/PREST_HRB_008.png",
+    "siret": "45123447000016",
+    "description": "Fabricant français de clôture électrique fondé en 1956, qui réunit sur son site de La Flèche (Sarthe) la recherche et développement, la fabrication et l'accompagnement technique. Pour les élevages bovins, il fabrique le matériel de clôture permanente (fil acier High-Tensile du système Protensile, fil aluminium Forceflex), des électrificateurs et des passages de barrière, avec des gammes dédiées aux chevaux, moutons et chèvres : de quoi reculer une clôture de pâture, mais Lacmé ne fournit ni l'aménagement du point d'abreuvement ni le matériel d'abreuvement. Le matériel s'achète chez un distributeur, garanti jusqu'à trois ans, avec un service après-vente à La Flèche.",
+    "expertises": [
+      "Clôture électrique permanente",
+      "Électrificateurs secteur et solaires",
+      "Fils et conducteurs de clôture",
+      "Passages de barrière électrifiés"
+    ],
+    "categories": [
+      "agir_rejets_qualite"
+    ],
+    "secteurs": [
+      "elevage_herbivores"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_HRB_007",
+        "roles": [
+          "materiel"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://lacme.com"
+      },
+      {
+        "type": "tel",
+        "value": "02 43 94 13 45"
+      },
+      {
+        "type": "mail",
+        "value": "contact@lacme.com"
+      },
+      {
+        "type": "adresse",
+        "value": "Les Pelouses, Route du Lude, 72200 La Flèche"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "siret, adresse",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=Lacm%C3%A9&departement=72",
+        "date": "2026-10-15",
+        "extrait": "LACME, siret 45123447000016, établissement siège, LES PELOUSES ROUTE DU LUDE 72200 LA FLECHE, activité de l'établissement siège 27.11Z (unité légale en 28.13Z), etat_administratif A"
+      },
+      {
+        "champ": "contacts, type, description",
+        "url": "https://lacme.com/decouvrez-lacme/",
+        "date": "2026-10-15",
+        "extrait": "LACMÉ est une société à taille humaine qui localise en son site de La Flèche [...] l'intégralité de ses équipes et de ses moyens industriels. De la recherche et développement en passant par la fabrication jusqu'aux services d'accompagnement technique [...] Bureaux et SAV Siège et Usines Les Pelouses Route du Lude 72200 La Flèche 02 43 94 13 45 [...] contact@lacme.com"
+      },
+      {
+        "champ": "departements, description",
+        "url": "https://lacme.com/decouvrez-lacme/",
+        "date": "2026-10-15",
+        "extrait": "Fabricant Français Depuis 1956. Un distributeur à moins de 30 min de chez vous en France. Des produits garantis jusqu'à 3 ans"
+      },
+      {
+        "champ": "expertises",
+        "url": "https://lacme.com/decouvrez-lacme/",
+        "date": "2026-10-15",
+        "extrait": "Électrificateurs Secteur 230 V Électrificateurs Autonomes 12 V Solaires 9 V [...] Conducteurs Fils Cordon [...] Coté clôture électrique, LACMÉ devient une pionnière en matière de technologie solaire."
+      },
+      {
+        "champ": "expertises, mesures, description",
+        "url": "https://lacme.com/lacme/agriculture-elevage/cloture-electrique/elevage/bovins/",
+        "date": "2026-10-15",
+        "extrait": "Clôture électrique Élevage Bovins Chevaux Porcs Moutons Chèvres Volailles [...] Quelle clôture choisir pour l'élevage bovins ? [...] Le système de clôture électrique Lacmé est parfaitement adapté à la contention d'un troupeau. [...] PASSAGE BARRIÈRE Fisol Galva [...] Le système Protensile révolutionne le monde de la clôture permanente."
+      },
+      {
+        "champ": "logo_url",
+        "url": "https://lacme.com/media/logo-lacme.svg",
+        "date": "2026-10-15",
+        "extrait": "Logo couleur de l'en-tête du site lacme.com (seule icône carrée disponible : favicon 16 x 16 px, inexploitable)"
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "PREST_HRB_009",
+    "nom": "Premier Tech Eau et Environnement",
+    "type": "equipementier",
+    "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792097997/Noe%20assets/logos/PREST_HRB_009.png",
+    "siret": "41964609600018",
+    "description": "Filiale française de Premier Tech, groupe canadien basé à Rivière-du-Loup (Québec), installée à Châteauneuf-d'Ille-et-Vilaine, qui se présente comme concepteur et fabricant français de solutions en polyéthylène pour le traitement et la valorisation de l'eau. Sa gamme Calona de matériel d'élevage, conçue et fabriquée en France, comprend des abreuvoirs pour bovins, ovins et caprins : bacs à niveau constant de 8 à 1 100 litres avec robinet flotteur et bouchon de vidange, et bacs d'herbage de 250 à 1 600 litres pour les pâtures. Cette gamme n'est documentée que par une plaquette de 2020, sa disponibilité est à confirmer auprès du fabricant. Sous la marque Rewatec, l'entreprise propose aussi des cuves aériennes de récupération d'eau de pluie de 5 à 20 m³, avec kits de filtration et de pompage.",
+    "expertises": [
+      "Bacs à niveau constant",
+      "Bacs d'herbage",
+      "Cuves aériennes d'eau de pluie"
+    ],
+    "categories": [
+      "ameliorer_efficacite_hydrique",
+      "valoriser_reut_eaux_non_conventionnelles"
+    ],
+    "secteurs": [
+      "elevage_herbivores"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_HRB_001",
+        "roles": [
+          "materiel"
+        ]
+      },
+      {
+        "id": "ACT_HRB_003",
+        "roles": [
+          "materiel"
+        ]
+      },
+      {
+        "id": "ACT_AGR_006",
+        "roles": [
+          "materiel"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.pt-eauenvironnement.fr"
+      },
+      {
+        "type": "tel",
+        "value": "02 99 58 45 55"
+      },
+      {
+        "type": "adresse",
+        "value": "Z.A. de Doslet BP11, 35430 Châteauneuf-d'Ille-et-Vilaine"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "siret, adresse, etat_administratif",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=Premier%20Tech%20Eau%20et%20Environnement&departement=35",
+        "date": "2026-10-15",
+        "extrait": "PREMIER TECH EAU ET ENVIRONNEMENT, siret 41964609600018, siège, ZONE D'ACTIVITE DE DOSLET 35430 CHATEAUNEUF-D'ILLE-ET-VILAINE, etat_administratif A, activité 22.23Z"
+      },
+      {
+        "champ": "description, expertises, mesures (ACT_HRB_001, ACT_HRB_003), type, contacts (adresse, site_internet)",
+        "url": "https://www.premiertechaqua.com/sites/ptwe/files/PDF/FR/Calona_Doc-Pro-Materiel-Elevage_0521_FR-FR.pdf",
+        "date": "2026-10-15",
+        "extrait": "CONÇU ET FABRIQUÉ EN FRANCE. Solutions en polyéthylène conçues pour l'abreuvement des bovins, ovins et caprins. Bac à niveau constant 8 à 1 100 L. Bac d'herbage 200 à 1600 L (tableau des modèles : 250 L à 1 600 L). Robinet flotteur incorrodable. Concepteur et fabricant français de solutions locales durables pour le traitement et la valorisation de l'eau. PT Eau et Environnement, Z.A. de Doslet BP11, 35430 Châteauneuf-d'Ille-et-Vilaine, PT-EauEnvironnement.fr. Calona [...] marques de commerce de Premier Tech ltée. © Premier Tech France S.A.S.U., 2020"
+      },
+      {
+        "champ": "description (cuves Rewatec), expertises, mesures (ACT_AGR_006), contacts (tel, site_internet)",
+        "url": "https://www.premiertechaqua.com/sites/ptwe/files/prospace/FR_FR_DT_REWATEC_PE_STKAERIEN_WEB.pdf",
+        "date": "2026-10-15",
+        "extrait": "Documentation technique. Cuves aériennes de stockage des liquides et de récupération d'eau de pluie, décembre 2025, capacité 5 à 20 m3. Kits pompage, kits aspiration, kits filtre. PT Eau et Environnement, T. + 33 (0)2 99 58 45 55, PT-EauEnvironnement.fr. © 2025 Premier Tech Eau et Environnement S.A.S.U."
+      },
+      {
+        "champ": "description (groupe canadien basé à Rivière-du-Loup)",
+        "url": "https://www.newswire.ca/fr/news-releases/un-pas-de-plus-pour-premier-tech-au-portugal-876584701.html",
+        "date": "2026-10-15",
+        "extrait": "RIVIÈRE-DU-LOUP, QC, le 15 févr. 2021 /CNW Telbec/ [...] Henri Ouellet, président de Premier Tech Eau et Environnement [...] SOURCE Premier Tech ltée"
+      },
+      {
+        "champ": "logo_url",
+        "url": "https://www.premiertechaqua.com/apple-touch-icon.png",
+        "date": "2026-10-15",
+        "extrait": "apple-touch-icon 180 x 180 du site premiertechaqua.com (symbole P de Premier Tech)"
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "PREST_HRB_010",
+    "nom": "CTH (Centre technique d'hygiène)",
+    "type": "equipementier",
+    "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792097955/Noe%20assets/logos/PREST_HRB_010.png",
+    "siret": "32542171700076",
+    "description": "Fabricant drômois de produits et de matériel d'hygiène pour l'élevage (bovins, ovins, caprins), qui annonce quatre sites de production en France. Pour l'eau d'abreuvement, il fournit des pompes doseuses de chlore, des panneaux de filtration et de désinfection UV et un détartrant pour les canalisations, bacs et abreuvoirs : il agit sur la qualité de l'eau bue et l'entartrage du réseau, pas sur les fuites ni les débordements. Matériel proposé sur devis, posé et entretenu par ses techniciens itinérants partout en France, avec contrats de maintenance.",
+    "expertises": [
+      "Chloration de l'eau de boisson",
+      "Filtration et désinfection UV",
+      "Détartrage des abreuvoirs et canalisations",
+      "Installation et maintenance sur site"
+    ],
+    "categories": [],
+    "secteurs": [
+      "elevage_herbivores"
+    ],
+    "departements": [],
+    "mesures": [],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.cth.fr"
+      },
+      {
+        "type": "tel",
+        "value": "04 75 70 71 72"
+      },
+      {
+        "type": "mail",
+        "value": "info@cth.fr"
+      },
+      {
+        "type": "adresse",
+        "value": "128 avenue Château Fleury, 26100 Romans-sur-Isère"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "siret, adresse",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=Centre%20technique%20d%27hygi%C3%A8ne&departement=26",
+        "date": "2026-10-15",
+        "extrait": "CENTRE TECHNIQUE D'HYGIENE, SIRET 32542171700076, siège, 128 AVENUE CHATEAU FLEURY 26100 ROMANS-SUR-ISERE, état administratif A"
+      },
+      {
+        "champ": "contacts",
+        "url": "https://www.cth.fr/nous-contacter",
+        "date": "2026-10-15",
+        "extrait": "04 75 70 71 72, info@cth.fr, 128, avenue Château Fleury 26100 Romans sur Isère"
+      },
+      {
+        "champ": "type, description",
+        "url": "https://www.cth.fr/",
+        "date": "2026-10-15",
+        "extrait": "FABRICANT FRANÇAIS DE SOLUTIONS D'HYGIÈNE GLOBALE. Bovins, Volailles, Ovins, Caprins, Porcins. 4 sites de production sur le territoire français permettent la conception et la fabrication de ses produits et matériels."
+      },
+      {
+        "champ": "departements, type, expertises",
+        "url": "https://www.cth.fr/services/sav-maintenance",
+        "date": "2026-10-15",
+        "extrait": "L'ensemble de notre matériel est conçu, assemblé, testé et installé par nos soins sur notre site drômois. Notre équipe de techniciens itinérants, au nombre de 6, intervient sur site sur l'ensemble du territoire français. [...] contrats de maintenance par typologie de matériel."
+      },
+      {
+        "champ": "description",
+        "url": "https://www.cth.fr/produits/traitement-eau",
+        "date": "2026-10-15",
+        "extrait": "Les animaux boivent en moyenne 2.5 fois plus qu'ils ne mangent d'où l'importance de disposer d'une eau de qualité tant au niveau microbiologique que physico-chimique. [...] nous avons développé du matériel et des produits efficaces"
+      },
+      {
+        "champ": "expertises",
+        "url": "https://www.cth.fr/deta200-decap-tartre.html",
+        "date": "2026-10-15",
+        "extrait": "DECAP TARTRE : Pour le détartrage des bacs, canalisations et abreuvoirs. Permet le détartrage des canalisations des bacs, abreuvoirs en production animale."
+      },
+      {
+        "champ": "expertises",
+        "url": "https://www.cth.fr/21016-dosachlor.html",
+        "date": "2026-10-15",
+        "extrait": "DOSACHLOR : équipement pour la potabilisation de l'eau. GAEC DE LA BOUCHAUDERIE (36) : « L'eau est aussi moins calcaire, ce qui abîme moins notre machine à traire. » La pompe doseuse injecte une solution chlorée dans le bac, assurant ainsi une désinfection durable du circuit d'eau."
+      },
+      {
+        "champ": "expertises",
+        "url": "https://www.cth.fr/uv8000-trio-uv.html",
+        "date": "2026-10-15",
+        "extrait": "TRIO UV : panneau complet pour le traitement ultra-violet de l'eau. 3 actions : la filtration, la purification et la stérilisation. Se branche directement sur le réseau de distribution d'eau."
+      },
+      {
+        "champ": "description",
+        "url": "https://www.reussir.fr/articles/des-solutions-de-traitement-de-leau-adaptees-chaque-situation",
+        "date": "2026-10-15",
+        "extrait": "« La chloration est le traitement bactériologique de l'eau de boisson le moins coûteux. [...] », confirme Laurent Girard, responsable marketing de la société CTH. [...] Sachant que les vaches ont tendance à boire en même temps"
+      },
+      {
+        "champ": "logo_url",
+        "url": "https://www.cth.fr/application/themes/cth/favicon/apple-touch-icon.png",
+        "date": "2026-10-15",
+        "extrait": "apple-touch-icon 180 x 180 du site cth.fr (CTH AGRI)"
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "PREST_HRB_011",
+    "nom": "RAGT Semences",
+    "type": "equipementier",
+    "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792097983/Noe%20assets/logos/PREST_HRB_011.png",
+    "siret": "43189975600016",
+    "description": "Semencier aveyronnais qui sélectionne, produit et vend des semences, dont une gamme fourragère : mélanges prairiaux multi-espèces, luzernes, sorghos fourragers et méteils. Pour un éleveur, il fournit les semences pour implanter des prairies adaptées aux sols séchants ou sécuriser les stocks, par exemple en semant une prairie sous couvert de méteil, et publie des guides techniques sur ces implantations. Un expert local se contacte par département depuis le site, pour des conseils sur le choix des semences.",
+    "expertises": [
+      "Mélanges prairiaux multi-espèces",
+      "Semences de luzerne",
+      "Sorgho fourrager et ensilage",
+      "Prairie sous couvert de méteil"
+    ],
+    "categories": [
+      "changer_process_pratiques"
+    ],
+    "secteurs": [
+      "elevage_herbivores"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_HRB_004",
+        "roles": [
+          "materiel"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://ragt-seeds.com/fr/"
+      },
+      {
+        "type": "tel",
+        "value": "05 65 73 41 00"
+      },
+      {
+        "type": "adresse",
+        "value": "Site de Bourran, rue Emile Singla, 12000 Rodez"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "siret, adresse",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=RAGT%20Semences&departement=12",
+        "date": "2026-10-15",
+        "extrait": "RAGT SEMENCES, siret 43189975600016, siège, SITE DE BOURRAN RUE EMILE SINGLA 12000 RODEZ, etat_administratif A, 7 établissements ouverts"
+      },
+      {
+        "champ": "description, type",
+        "url": "https://ragt-seeds.com/fr/societe/",
+        "date": "2026-10-15",
+        "extrait": "RAGT sélectionne, produit et vend des semences dans le monde entier. [...] maïs, sorgho, céréales, oléagineux, protéagineux, fourragères, plantes de couverture et d'agrément."
+      },
+      {
+        "champ": "type (production en France)",
+        "url": "https://georisques.gouv.fr/webappReport/ws/installations/inspection/s0NVNXTaBmMDJa9Gz1whXHZpdgwSaCHR",
+        "date": "2026-10-15",
+        "extrait": "Le site RAGT SEMENCES des Molinières, créé en 1970, s'étend sur 20 ha [...] Il est dédié au séchage, tri, calibrage, traitement et conditionnement des semences."
+      },
+      {
+        "champ": "mesures, expertises, description",
+        "url": "https://ragt-seeds.com/fr/semis-de-prairie-sous-couvert-de-meteil-la-solution-pour-securiser-vos-stocks-fourragers/",
+        "date": "2026-10-15",
+        "extrait": "Les épisodes climatiques extrêmes qui touchent régulièrement les prairies fragilisent la production fourragère des exploitations d'élevage. [...] RAGT propose plusieurs mélanges adaptés selon les objectifs de l'exploitation."
+      },
+      {
+        "champ": "mesures, expertises",
+        "url": "https://ragt-seeds.com/fr/produit/rgt-multi-pres/",
+        "date": "2026-10-15",
+        "extrait": "RGT MULTI PRES. Bovin lait, Bovin viande, Ovin, Caprin. Composition du mélange [...] Fétuque élevée : graminée adaptée à différentes conditions séchantes. Dactyle : bonne pousse estivale grâce à une excellente valorisation de l'eau."
+      },
+      {
+        "champ": "mesures, expertises",
+        "url": "https://ragt-seeds.com/fr/produit/rgt-stox-luz-trio/",
+        "date": "2026-10-15",
+        "extrait": "Bovin lait, Bovin viande, Ovin, Caprin, Equin. Sol sain, Sol séchant. [...] 3 à 5 fauches sont possibles par an en fonction des conditions climatiques."
+      },
+      {
+        "champ": "expertises",
+        "url": "https://ragt-seeds.com/fr/sorgho/",
+        "date": "2026-10-15",
+        "extrait": "Débouchés : Grain blanc, Grain roux, Ensilage, Fourrager, Méthanisation"
+      },
+      {
+        "champ": "contacts, departements",
+        "url": "https://ragt-seeds.com/fr/contacts/",
+        "date": "2026-10-15",
+        "extrait": "Contactez votre expert local. Choisissez le département souhaité : la liste couvre toute la métropole, de 01 - Ain à 95 - Val-D'Oise, 2A et 2B compris (pas de département d'outre-mer). Siège social Rue Emile Singla 12000 RODEZ. Bureau : 05 65 73 41 00"
+      },
+      {
+        "champ": "logo_url",
+        "url": "https://ragt-seeds.com/fr/wp-content/uploads/2026/09/cropped-Favicon_RAGT-Seeds-192x192.png",
+        "date": "2026-10-15",
+        "extrait": "Icône du site ragt-seeds.com (link rel=icon, 192 x 192)"
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "PREST_HRB_012",
+    "nom": "Cérience",
+    "type": "equipementier",
+    "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792098017/Noe%20assets/logos/PREST_HRB_012.png",
+    "siret": "82247815200017",
+    "description": "Semencier né de la fusion de Terrena Semences et de Jouffray-Drillaud, filiales de la coopérative Terrena, qui sélectionne, produit et conditionne des semences fourragères dans ses usines du Maine-et-Loire et de la Vienne. Pour les éleveurs, il propose des mélanges prairiaux multi-espèces, des variétés de luzerne et des dérobées fourragères, et teste dans ses stations le semis de prairie sous couvert décalé à l'automne pour limiter le stress hydrique de fin d'été. Les semences s'achètent par son réseau commercial, présent sur tout le territoire national.",
+    "expertises": [
+      "Mélanges prairiaux multi-espèces",
+      "Variétés de luzerne",
+      "Prairie semée sous couvert",
+      "Dérobées fourragères hivernales"
+    ],
+    "categories": [
+      "changer_process_pratiques"
+    ],
+    "secteurs": [
+      "elevage_herbivores"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_HRB_004",
+        "roles": [
+          "materiel"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.cerience.fr"
+      },
+      {
+        "type": "tel",
+        "value": "02 41 79 63 20"
+      },
+      {
+        "type": "adresse",
+        "value": "2, route de la Ménitré, Beaufort-en-Vallée, 49250 Beaufort-en-Anjou"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "siret, adresse",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=Cerience&departement=49",
+        "date": "2026-10-15",
+        "extrait": "CERIENCE, siret 82247815200017, siège, BEAUFORT EN VALLEE RTE DE LA MENITRE 49250 BEAUFORT-EN-ANJOU, etat_administratif A"
+      },
+      {
+        "champ": "mesures, expertises, description",
+        "url": "https://web.archive.org/web/20240706113208/https://www.cerience.fr/sites/default/files/2023-05/16mai2023-CP-Cerience-m-valo.pdf",
+        "date": "2026-10-15",
+        "extrait": "Afin de limiter le stress hydrique et favoriser la levée, Cérience l'agronome semencier a validé l'intérêt de la technique qui consiste à semer sous couvert en décalant les chantiers d'un mois. [...] Cérience est née de la fusion de Terrena semences et de Jouffray-Drillaud, deux entités Terrena"
+      },
+      {
+        "champ": "mesures, expertises",
+        "url": "https://web.archive.org/web/20231003005031/https://www.cerience.fr/fr/actualites/implanter-ses-prairies-sous-couvert-quels-benefices-agronomiques",
+        "date": "2026-10-15",
+        "extrait": "Le mois de septembre, idéal auparavant pour implanter sa prairie, présente désormais des conditions séchantes et de fortes températures. Nous avons donc expérimenté dans nos stations de recherche de décaler le semis au mois d'octobre"
+      },
+      {
+        "champ": "mesures, expertises",
+        "url": "https://web.archive.org/web/20221204023537/https://www.cerience.fr/fr/actualites/les-melanges-fourragers-multi-especes-une-priorite-dans-la-selection-de-nos-especes",
+        "date": "2026-10-15",
+        "extrait": "associer plusieurs variétés de la même espèce dans le mélange fourrager, afin de rendre la prairie plus performante et régulière face aux aléas climatiques"
+      },
+      {
+        "champ": "expertises",
+        "url": "https://web.archive.org/web/20221204020146/https://www.cerience.fr/fr/actualites/la-luzerne-une-cuture-fourragere-indispensable",
+        "date": "2026-10-15",
+        "extrait": "Nous proposons une large gamme de luzerne aux dormances très différentes"
+      },
+      {
+        "champ": "type, departements, description",
+        "url": "https://web.archive.org/web/20221204004417/https://www.cerience.fr/fr/chiffres-cles-implantations",
+        "date": "2026-10-15",
+        "extrait": "Nos principaux sites industriels sont situés dans le Maine-et-Loire (49) et la Vienne (86) [...] nous sommes présents sur l'ensemble du territoire national [...] Usine de Cissé : ce site est spécialisé dans la transformation des semences fourragères"
+      },
+      {
+        "champ": "contacts",
+        "url": "https://web.archive.org/web/20231003005031/https://www.cerience.fr/fr/actualites/implanter-ses-prairies-sous-couvert-quels-benefices-agronomiques",
+        "date": "2026-10-15",
+        "extrait": "Siège social 2, route de la Ménitré Beaufort-en-Vallée 49250 BEAUFORT-EN-ANJOU +33 (0)2 41 79 63 20"
+      },
+      {
+        "champ": "logo_url",
+        "url": "https://web.archive.org/web/20221006183357id_/https://www.cerience.fr/themes/custom/cerience/favicon.ico",
+        "date": "2026-10-15",
+        "extrait": "Favicon 256 x 256 du site cerience.fr (symbole C), copie archivée, le site renvoyant 403 aux robots"
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "PREST_HRB_013",
+    "nom": "PâtureSens",
+    "type": "bureau_etudes",
+    "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792097945/Noe%20assets/logos/PREST_HRB_013.png",
+    "siret": "83073352300021",
+    "description": "Cabinet de conseil indépendant spécialisé dans le pâturage tournant dynamique, basé à Ouville (Manche) et doté d'un organisme de formation (raison sociale GMB). Ses consultants accompagnent les éleveurs bovins dans la définition de leurs objectifs, l'organisation du parcellaire, le choix des chemins, clôtures et abreuvement, puis la mesure de l'herbe et l'ajustement de la conduite au fil de la saison, en conseil individuel ou en groupe. Conseil sur rendez-vous, formations finançables par VIVEA pour ses ressortissants, 210 euros la journée pour les salariés agricoles.",
+    "expertises": [
+      "Pâturage tournant dynamique",
+      "Organisation du parcellaire",
+      "Clôtures et abreuvement au pâturage",
+      "Pilotage de la saison de pâturage"
+    ],
+    "categories": [
+      "changer_process_pratiques",
+      "ameliorer_efficacite_hydrique"
+    ],
+    "secteurs": [
+      "elevage_herbivores"
+    ],
+    "departements": [
+      "50",
+      "61",
+      "14",
+      "59",
+      "22",
+      "29",
+      "35",
+      "56",
+      "44",
+      "49",
+      "53",
+      "72",
+      "85"
+    ],
+    "mesures": [
+      {
+        "id": "ACT_HRB_004",
+        "roles": [
+          "conseil_etude",
+          "formation"
+        ]
+      },
+      {
+        "id": "ACT_HRB_003",
+        "roles": [
+          "conseil_etude",
+          "formation"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.paturesens.com/"
+      },
+      {
+        "type": "tel",
+        "value": "02 79 65 32 75"
+      },
+      {
+        "type": "mail",
+        "value": "contact@paturesens.com"
+      },
+      {
+        "type": "adresse",
+        "value": "10 route de l'Abbaye, 50210 Ouville"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "siret, adresse",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=PATURESENS&departement=50",
+        "date": "2026-10-15",
+        "extrait": "GMB (PATURESENS), SIRET 83073352300021, siège, 10 ROUTE DE L'ABBAYE 50210 OUVILLE, état administratif A"
+      },
+      {
+        "champ": "contacts, description",
+        "url": "https://www.paturesens.com/",
+        "date": "2026-10-15",
+        "extrait": "PâtureSens est une entreprise indépendante et spécialisée qui diffuse les techniques d'un pâturage de précision. [...] 02 79 65 32 75 [...] 10 route de l'abbaye 50210 Ouville"
+      },
+      {
+        "champ": "contacts",
+        "url": "https://www.paturesens.com/contact/",
+        "date": "2026-10-15",
+        "extrait": "Soyez accompagné pour passer au pâturage tournant dynamique. 02 79 65 32 75 contact@paturesens.com"
+      },
+      {
+        "champ": "departements",
+        "url": "https://www.paturesens.com/",
+        "date": "2026-10-15",
+        "extrait": "Consultant spécialiste pâturage et production bovine (Bretagne et Pays de Loire) [...] (Nord) [...] (Suisse normande) [...] (Orne) [...] (Manche). PâtureSens accompagne les éleveurs de France et de Belgique."
+      },
+      {
+        "champ": "expertises, mesures (ACT_HRB_003 conseil_etude, ACT_HRB_004 conseil_etude)",
+        "url": "https://www.paturesens.com/accompagnement/",
+        "date": "2026-10-15",
+        "extrait": "Être accompagné-e dans le choix de chemins, clôtures et abreuvement adaptés. [...] Mesurer l'herbe et identifier les stocks disponibles et la croissance des prairies. [...] Ajuster la conduite au plus proche du potentiel de vos prairies."
+      },
+      {
+        "champ": "mesures (ACT_HRB_003 formation), expertises",
+        "url": "https://www.paturesens.com/nos-formations/le-paturage-3-0/",
+        "date": "2026-10-15",
+        "extrait": "Développer les compétences pratiques pour la pose de clôtures et de réseaux d'eau."
+      },
+      {
+        "champ": "mesures (ACT_HRB_004 formation)",
+        "url": "https://www.paturesens.com/nos-formations/optimiser-sa-saison-de-paturage-a-lautomne/",
+        "date": "2026-10-15",
+        "extrait": "Planifier la prochaine saison du système pâturant (gestion de l'herbe et de la conduite du troupeau) au regard de la pousse automnale, des stocks présents (sur pied ou en fourrage)"
+      },
+      {
+        "champ": "mesures (ACT_HRB_004 formation)",
+        "url": "https://www.paturesens.com/nos-formations/organiser-sa-mise-a-lherbe/",
+        "date": "2026-10-15",
+        "extrait": "les éleveurs fixent les objectifs de la mise à l'herbe et trouvent des solutions aux conditions climatiques adverses [...] Décider d'augmenter la proportion de pâturage dans la ration"
+      },
+      {
+        "champ": "description",
+        "url": "https://www.paturesens.com/nos-formations/",
+        "date": "2026-10-15",
+        "extrait": "Les ressortissant(e)s Vivea à jour de leur cotisation MSA peuvent prétendre à la prise en charge des coûts pédagogiques [...] Pour les salariés agricoles, le tarif est de 210 euros la journée. Organisme de Formation GMB PâtureSens"
+      },
+      {
+        "champ": "logo_url",
+        "url": "https://www.paturesens.com/wp-content/uploads/2023/10/cropped-favicon-paturesens-01.png",
+        "date": "2026-10-15",
+        "extrait": "Symbole carré du site (favicon et apple-touch-icon), 512 x 512 px"
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "PREST_HRB_014",
+    "nom": "ESPACE Basse-Normandie",
+    "type": "association",
+    "logo_url": null,
+    "siret": "43806321600032",
+    "description": "Association déclarée basée à Cahagnes (Calvados), titulaire de marchés de restauration de cours d'eau passés par des intercommunalités du Calvados, de la Manche et de l'Orne. Pour les élevages au pâturage, elle pose des clôtures le long des berges, installe des abreuvoirs, des bacs (y compris raccordés au réseau) et des pompes de prairie, et réalise des passerelles et autres franchissements. Elle intervient dans le cadre des programmes de rivière des collectivités, qui portent les travaux : l'éleveur y accède par la collectivité qui conduit le programme sur son bassin versant, comme dans le Cotentin où ces aménagements sont financés à 80 % par l'agence de l'eau Seine-Normandie et à 20 % par l'agglomération. À ne pas confondre avec l'association homonyme ESPACE BASSE NORMANDIE (SIRET 43380993600019, Le Bas Canteloup, Cahagnes).",
+    "expertises": [
+      "Clôtures de berges",
+      "Points d'abreuvement au pâturage",
+      "Franchissements de cours d'eau",
+      "Restauration de cours d'eau"
+    ],
+    "categories": [
+      "agir_rejets_qualite",
+      "agir_grand_cycle"
+    ],
+    "secteurs": [
+      "elevage_herbivores"
+    ],
+    "departements": [
+      "14",
+      "50",
+      "61"
+    ],
+    "mesures": [
+      {
+        "id": "ACT_HRB_007",
+        "roles": [
+          "travaux"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "tel",
+        "value": "02 31 77 37 96"
+      },
+      {
+        "type": "adresse",
+        "value": "Les Bruyères, 14240 Cahagnes"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "siret, adresse, description",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=ESPACE%20Basse-Normandie&departement=14",
+        "date": "2026-10-15",
+        "extrait": "ENTRET SAUVEG PATRIM AMENAG COURS EAU BN, siret 43806321600032, LES BRUYERES 14240 CAHAGNES, nature juridique 9220 (association déclarée), etat_administratif A. Homonyme : ESPACE BASSE NORMANDIE, siret 43380993600019, LE BAS CANTELOUP 14240 CAHAGNES, 94.99Z"
+      },
+      {
+        "champ": "siret, departements, description, expertises, mesures",
+        "url": "https://data.economie.gouv.fr/api/explore/v2.1/catalog/datasets/decp_augmente/records?where=siretetablissement%3D%2243806321600032%22&limit=100",
+        "date": "2026-10-15",
+        "extrait": "Titulaire 43806321600032, « ESPACE Basse Normandie », Cahagnes. Flers Agglo : « Fourniture et mise en place de clôtures, dabreuvoirs, dhydrotubes, de passerelles ». CC Pré-Bocage Intercom : « Lot 2: Fourniture et mise en place d abreuvoirs ». CA du Cotentin : « REALISATION D OUVRAGES DE FRANCHISSEMENT DE LA SAIRE A VOCATION AGRICOLE », « LOT 8 MERDERET ». Acheteurs dans le 14 (Intercom de la Vire au Noireau, CC Pré-Bocage), le 50 (CA du Cotentin, Saint-Lô Agglo) et le 61 (Flers Agglo, CU d'Alençon)"
+      },
+      {
+        "champ": "contacts",
+        "url": "https://www.cahagnes.fr/les-activite-eco/espace-basse-normandie/",
+        "date": "2026-10-15",
+        "extrait": "Espace Basse Normandie, « Les Bruyères » 14240 CAHAGNES, Tél : 02.31.77.37.96"
+      },
+      {
+        "champ": "mesures, expertises, description",
+        "url": "https://parc-cotentin-bessin.fr/sites/default/files/inline-files/CP_20250409_SOUTIEN_ELEVAGE_CAC_CA50_PNR_V01.pdf",
+        "date": "2026-10-15",
+        "extrait": "Il est proposé aux exploitants de mettre en place des aménagements pour l'abreuvement (bac, pompe de prairie, abreuvoir) pour le franchissement (passerelle bétail ou tracteur) ainsi que des clôtures. Ces différents travaux sont effectués par une entreprise sous maîtrise d'ouvrage de la collectivité. Le financement est assuré par l'Agence de l'Eau Seine Normandie à hauteur de 80% et de la CA le Cotentin sur les 20% restants. [...] 12 abreuvoirs, 2 bacs avec raccordement au réseau, 7 franchissements et 1500m de clôture [...] Les prestataires sont ESPACE Basse-normandie et Astre-Environnement"
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "PREST_HRB_015",
+    "nom": "Parc naturel régional des Marais du Cotentin et du Bessin",
+    "type": "collectivite",
+    "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792097992/Noe%20assets/logos/PREST_HRB_015.png",
+    "siret": "25500255200032",
+    "description": "Syndicat mixte qui gère le Parc naturel régional, sur des communes de la Manche et du Calvados. Avec la Chambre d'agriculture, il anime depuis 2019 le programme Élevage & Marais, qui accompagne des éleveurs pâturant en zones humides (mesures agroenvironnementales, Patur'Ajuste, paiements pour services environnementaux financés par l'agence de l'eau Seine-Normandie), et il anime le SAGE Douve Taute et appuie les syndicats de marais qui règlent les niveaux d'eau. Ces actions visent d'abord le maintien des zones humides, de l'élevage extensif et la qualité de l'eau, pas la réduction des volumes consommés par l'exploitation.",
+    "expertises": [
+      "Animation Élevage & Marais",
+      "Paiements pour services environnementaux",
+      "Animation du SAGE Douve Taute",
+      "Appui aux syndicats de marais"
+    ],
+    "categories": [
+      "agir_grand_cycle"
+    ],
+    "secteurs": [
+      "elevage_herbivores"
+    ],
+    "departements": [
+      "50",
+      "14"
+    ],
+    "mesures": [
+      {
+        "id": "ACT_AGR_010",
+        "roles": [
+          "conseil_etude"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://parc-cotentin-bessin.fr"
+      },
+      {
+        "type": "tel",
+        "value": "02 33 71 61 90"
+      },
+      {
+        "type": "mail",
+        "value": "info@parc-cotentin-bessin.fr"
+      },
+      {
+        "type": "adresse",
+        "value": "Maison du Parc, 3 village Ponts d'Ouve, Saint-Côme-du-Mont, 50500 Carentan-les-Marais"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "siret",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=Parc%20naturel%20r%C3%A9gional%20des%20Marais%20du%20Cotentin%20et%20du%20Bessin&departement=50",
+        "date": "2026-10-15",
+        "extrait": "SYND MIXTE GESTION PARC NATUREL REGIONAL, siret 25500255200032, siège, 3 VLGE LES PONTS DOUVE 50480 CARENTAN-LES-MARAIS, nature juridique 7355, état A"
+      },
+      {
+        "champ": "contacts",
+        "url": "https://parc-cotentin-bessin.fr/contact",
+        "date": "2026-10-15",
+        "extrait": "Maison du Parc 3 village Ponts d'Ouve Saint-Côme-du-Mont 50500 CARENTAN-LES-MARAIS ... Contact administratif 02 33 71 61 90 info@parc-cotentin-bessin.fr"
+      },
+      {
+        "champ": "departements",
+        "url": "https://parc-cotentin-bessin.fr/sites/default/files/inline-files/STATUTS_MODIFIES_CS_20250121_VSP.pdf",
+        "date": "2026-10-15",
+        "extrait": "les Conseils Départementaux de la Manche et du Calvados ... les 114 communes du périmètre d'étude suivantes : Manche (93) ... Calvados (21)"
+      },
+      {
+        "champ": "description, expertises, mesures",
+        "url": "https://parc-cotentin-bessin.fr/sites/default/files/inline-files/CP_20250409_SOUTIEN_ELEVAGE_CAC_CA50_PNR_V01.pdf",
+        "date": "2026-10-15",
+        "extrait": "Depuis 2019, le Parc naturel régional des Marais du Cotentin et du Bessin et la Chambre d'agriculture de la Manche animent le projet \"Elevage & Marais\" ... le Parc naturel régional porte une expérimentation de Paiements pour Services Environnementaux, financée par l'Agence de l'Eau Seine-Normandie ... en faveur des zones humides et la qualité de l'eau. 19 fermes sont engagées, pour 5 ans, sur la vallée du Merderet."
+      },
+      {
+        "champ": "description, expertises",
+        "url": "https://parc-cotentin-bessin.fr/sites/default/files/inline-files/07bis_CP_RDV_14JUIN26_0.pdf",
+        "date": "2026-10-15",
+        "extrait": "le Parc naturel régional et les Chambres d'Agriculture de Normandie déploient activement le programme « Élevage et marais », qui accompagne aujourd'hui des fermes exploitant le marais à travers des démarches innovantes (Patur'Ajuste, Mesures AgroEnvironnementales, Paiements pour Services Environnementaux)"
+      },
+      {
+        "champ": "mesures",
+        "url": "https://parc-cotentin-bessin.fr/sites/default/files/inline-files/NOTE_ELEVAGEZH.pdf",
+        "date": "2026-10-15",
+        "extrait": "expérimenter des MAEc collectives en s'appuyant sur la constitution de collectifs d'agriculteurs ... en confortant les accès, la gestion du foncier et la gestion des niveaux d'eau"
+      },
+      {
+        "champ": "description, expertises, mesures",
+        "url": "https://parc-cotentin-bessin.fr/marais-et-eau",
+        "date": "2026-10-15",
+        "extrait": "celui du bassin versant de la Douve et de la Taute animé par le Parc ... la gestion des niveaux d'eau par les syndicats de marais est un enjeu particulier pour le maintien de la zone humide et de l'activité agricole d'élevage ... C'est pourquoi le Parc accompagne ces syndicats."
+      },
+      {
+        "champ": "description",
+        "url": "https://parc-cotentin-bessin.fr/sites/default/files/inline-files/DELIB_20241003_BUR_23_AGRICULTURE_ZONES_HUMIDES_ENJEUX_PERSPECTIVES_VSP.PDF",
+        "date": "2026-10-15",
+        "extrait": "Depuis 2019, ce programme est mené en partenariat avec la Chambre d'Agriculture de la Manche : Poursuite du programme d'accompagnement des éleveurs sur les marais. Expérimentation d'un dispositif de Paiements pour Services Environnementaux."
+      },
+      {
+        "champ": "logo_url",
+        "url": "https://parc-cotentin-bessin.fr/profiles/createur_profil/themes/createur/dist/images/logo-footer.svg",
+        "date": "2026-10-15",
+        "extrait": "Logo du Parc (symbole vert et texte rouge), pied de page du site parc-cotentin-bessin.fr"
+      }
+    ],
+    "date_maj": "2026-10-15"
+  }
+]

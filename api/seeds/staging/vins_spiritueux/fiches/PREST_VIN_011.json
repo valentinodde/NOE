@@ -1,0 +1,78 @@
+{
+  "id": "PREST_VIN_011",
+  "nom": "FORGEL SA",
+  "type": "installateur",
+  "logo_url": "https://www.forgel.com/wp-content/uploads/2024/11/FORGEL-logo-FORGEL.png",
+  "siret": "33558002300059",
+  "description": "Entreprise de froid, climatisation et chauffage installée à Bezannes, qui accompagne les domaines de Champagne et de vins effervescents dans leur thermorégulation (fermentations alcoolique et malolactique, débourbage à froid, conservation des vins). Son bureau d'études conçoit le système de thermorégulation des cuveries, du process et des celliers, ses équipes le fournissent, l'installent et le mettent en service, puis en assurent la maintenance sous contrat d'entretien, avec une intervention 24h/24 en période de vendange. Prestations sur devis.",
+  "expertises": [
+    "Conception de thermorégulation vinicole",
+    "Installation et mise en service",
+    "Contrats de maintenance",
+    "Climatisation de cellier"
+  ],
+  "categories": [],
+  "secteurs": [
+    "vins_spiritueux"
+  ],
+  "departements": [
+    "51"
+  ],
+  "mesures": [],
+  "contacts": [
+    {
+      "type": "site_internet",
+      "value": "https://www.forgel.com"
+    },
+    {
+      "type": "tel",
+      "value": "03 26 48 41 41"
+    },
+    {
+      "type": "mail",
+      "value": "message@forgel.fr"
+    },
+    {
+      "type": "adresse",
+      "value": "16 rue Pierre Salmon, 51430 Bezannes"
+    },
+    {
+      "type": "linkedin",
+      "value": "https://www.linkedin.com/company/forgel"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=FORGEL&departement=51",
+      "date": "2026-09-28",
+      "extrait": "FORGEL SA, siret 33558002300059, siege, 16 RUE PIERRE SALMON 51430 BEZANNES, activite 33.20B, etat_administratif A"
+    },
+    {
+      "champ": "description, expertises, departements",
+      "url": "https://www.forgel.com/le-froid-la-clim-le-chaud/thermoregulation-vinicole/",
+      "date": "2026-09-28",
+      "extrait": "Nous accompagnons notamment les domaines de Champagne et de vins effervescents sur Reims, Epernay, Châlons-en-Champagne [...] Nous sommes capables de concevoir un système pour vos cuveries et également pour le process [...] notre travail d'installation se compose de la mise en place des équipements, de leur mise en marche et d'essais [...] différentes options, sous forme de contrats d'entretien."
+    },
+    {
+      "champ": "expertises, description",
+      "url": "https://www.forgel.com/wp-content/uploads/2026/05/Flyer_vinicole.pdf",
+      "date": "2026-09-28",
+      "extrait": "Co-conception de votre équipement de thermorégulation ; Contrôle thermique des fermentations ; Climatisation de cellier ; Intervention & maintenance 24h/24h en période vendange"
+    },
+    {
+      "champ": "contacts (site, tel, adresse, linkedin), logo_url",
+      "url": "https://www.forgel.com/le-froid-la-clim-le-chaud/thermoregulation-vinicole/",
+      "date": "2026-09-28",
+      "extrait": "FORGEL SA, 16 rue Pierre Salmon, 51430 BEZANNES (FRANCE), Tél. : 03 26 48 41 41 ; lien linkedin.com/company/forgel ; logo FORGEL-logo-FORGEL.png"
+    },
+    {
+      "champ": "contacts (mail)",
+      "url": "https://www.forgel.com/contact/",
+      "date": "2026-09-28",
+      "extrait": "Bloc coordonnées de la page contact, lien mail en clair dans le code de la page : title=\"message@forgel.fr\""
+    }
+  ],
+  "date_maj": "2026-09-28"
+}

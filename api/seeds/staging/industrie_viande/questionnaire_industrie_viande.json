@@ -1,0 +1,824 @@
+{
+  "sector_id": "industrie_viande",
+  "sector_label": "Industrie de la viande et des produits de la mer",
+  "naf_codes": [
+    "10.11Z",
+    "10.12Z",
+    "10.13A",
+    "10.20Z"
+  ],
+  "themes": [
+    {
+      "id": "connaissance",
+      "label": "Connaissance & mesure"
+    },
+    {
+      "id": "pratiques",
+      "label": "Nettoyage & process"
+    },
+    {
+      "id": "valorisation",
+      "label": "Réutilisation & rejets"
+    },
+    {
+      "id": "gouvernance",
+      "label": "Gouvernance & anticipation"
+    }
+  ],
+  "questions": [
+    {
+      "id": "via_q01",
+      "theme": "connaissance",
+      "order": 1,
+      "type": "single_choice",
+      "text": "Comment suivez-vous aujourd'hui la consommation d'eau de votre site ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "aucun_compteur",
+          "text": "Je n'ai pas de compteur, je m'en remets à la facture",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "comptage"
+          ]
+        },
+        {
+          "id": "compteur_general",
+          "text": "Un compteur général en entrée de site, relevé de temps en temps",
+          "maturity_score": 1,
+          "concern_score": 1,
+          "topics": [
+            "comptage"
+          ]
+        },
+        {
+          "id": "par_atelier",
+          "text": "Des compteurs par atelier ou par usage, relevés régulièrement",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        },
+        {
+          "id": "ratio_kilo",
+          "text": "Des compteurs par usage, et un ratio rapporté aux kilos produits",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "via_q02",
+      "theme": "connaissance",
+      "order": 2,
+      "type": "numeric",
+      "text": "Quelle est votre consommation d'eau annuelle, tous usages confondus ?",
+      "condition": null,
+      "input": {
+        "unit": "m³/an",
+        "placeholder": "ex. 40000",
+        "min": 0,
+        "max": 10000000,
+        "integer_only": true
+      },
+      "scoring": {
+        "if_filled": {
+          "maturity_score": 1,
+          "concern_score": 1,
+          "topics": []
+        }
+      }
+    },
+    {
+      "id": "via_q03",
+      "theme": "connaissance",
+      "order": 3,
+      "type": "single_choice",
+      "text": "Avez-vous réalisé un audit eau ou un diagnostic de vos consommations ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "jamais",
+          "text": "Non, jamais",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "audit"
+          ]
+        },
+        {
+          "id": "envisage",
+          "text": "On y a réfléchi, sans le faire",
+          "maturity_score": 0,
+          "concern_score": 2,
+          "topics": [
+            "audit"
+          ]
+        },
+        {
+          "id": "ancien",
+          "text": "Oui, il y a plus de cinq ans",
+          "maturity_score": 1,
+          "concern_score": 2,
+          "topics": [
+            "audit"
+          ]
+        },
+        {
+          "id": "recent",
+          "text": "Oui, il y a moins de trois ans",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "via_q04",
+      "theme": "pratiques",
+      "order": 4,
+      "type": "single_choice",
+      "text": "Comment sont nettoyées vos salles de production en fin de journée ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "jet_sans_raclage",
+          "text": "Au jet, sans raclage ni ramassage à sec préalable",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "nettoyage"
+          ]
+        },
+        {
+          "id": "raclage_partiel",
+          "text": "Raclage à sec sur certains postes, puis lavage au jet",
+          "maturity_score": 1,
+          "concern_score": 1,
+          "topics": [
+            "nettoyage"
+          ]
+        },
+        {
+          "id": "raclage_systematique",
+          "text": "Raclage à sec partout, lances équipées de pistolets",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        },
+        {
+          "id": "consignes_suivies",
+          "text": "Consignes écrites par salle, et volumes de lavage suivis",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "via_q05",
+      "theme": "pratiques",
+      "order": 5,
+      "type": "single_choice",
+      "text": "Comment désinfectez-vous les couteaux aux postes de travail ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "debordement_continu",
+          "text": "Bacs à 82 °C alimentés en continu, qui débordent",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "nettoyage"
+          ]
+        },
+        {
+          "id": "remplissage_temporise",
+          "text": "Bacs à 82 °C à remplissage temporisé ou à la demande",
+          "maturity_score": 1,
+          "concern_score": 1,
+          "topics": [
+            "nettoyage"
+          ]
+        },
+        {
+          "id": "methode_alternative",
+          "text": "Méthode alternative validée (aspersion, température abaissée)",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        },
+        {
+          "id": "sans_objet",
+          "text": "Pas de stérilisateur à couteaux sur le site",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "via_q06",
+      "theme": "pratiques",
+      "order": 6,
+      "type": "single_choice",
+      "text": "Comment évacuez-vous viscères, peaux, parures et déchets de vos lignes ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "entraine_a_l_eau",
+          "text": "Entraînés par l'eau dans des goulottes ou caniveaux",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "dechets_a_sec"
+          ]
+        },
+        {
+          "id": "mixte",
+          "text": "À sec sur une partie des lignes, à l'eau ailleurs",
+          "maturity_score": 1,
+          "concern_score": 1,
+          "topics": [
+            "dechets_a_sec"
+          ]
+        },
+        {
+          "id": "a_sec",
+          "text": "À sec partout : convoyeurs, aspiration ou bacs",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        },
+        {
+          "id": "sans_objet",
+          "text": "Pas de flux de déchets : je travaille des pièces prêtes",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "via_q07",
+      "theme": "pratiques",
+      "order": 7,
+      "type": "single_choice",
+      "text": "Comment refroidissez-vous vos produits et vos installations ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "eau_perdue",
+          "text": "À l'eau perdue, rejetée après usage",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "froid"
+          ]
+        },
+        {
+          "id": "tour_aero",
+          "text": "Tour aéroréfrigérante, avec appoint et purges",
+          "maturity_score": 1,
+          "concern_score": 1,
+          "topics": [
+            "froid"
+          ]
+        },
+        {
+          "id": "circuit_ferme",
+          "text": "Circuits fermés avec échangeur, ou condenseurs secs",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        },
+        {
+          "id": "sans_eau",
+          "text": "Groupes froid à air, sans consommation d'eau",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "via_q08",
+      "theme": "valorisation",
+      "order": 8,
+      "type": "single_choice",
+      "text": "Réutilisez-vous vos eaux de rinçage ou de refroidissement pour d'autres usages ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "non",
+          "text": "Non, toute l'eau part à l'égout après un usage",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "reutilisation"
+          ]
+        },
+        {
+          "id": "envisage",
+          "text": "On y a réfléchi, sans le faire",
+          "maturity_score": 0,
+          "concern_score": 2,
+          "topics": [
+            "reutilisation"
+          ]
+        },
+        {
+          "id": "ponctuel",
+          "text": "Oui, pour quelques usages ponctuels (quais, camions)",
+          "maturity_score": 1,
+          "concern_score": 1,
+          "topics": [
+            "reutilisation"
+          ]
+        },
+        {
+          "id": "organise_declare",
+          "text": "Oui, réutilisation organisée, déclarée et suivie",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "via_q09",
+      "theme": "valorisation",
+      "order": 9,
+      "type": "single_choice",
+      "text": "Que deviennent le sang, les saumures usées et les jus de cuisson du site ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "egout",
+          "text": "Ils partent avec les eaux de lavage",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "coproduits"
+          ]
+        },
+        {
+          "id": "collecte_partielle",
+          "text": "Une partie est collectée à part, le reste part à l'égout",
+          "maturity_score": 1,
+          "concern_score": 1,
+          "topics": [
+            "coproduits"
+          ]
+        },
+        {
+          "id": "collecte_totale",
+          "text": "Tout est collecté à part et repris par une filière",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        },
+        {
+          "id": "sans_objet",
+          "text": "Mon activité n'en produit pas",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "via_q10",
+      "theme": "valorisation",
+      "order": 10,
+      "type": "single_choice",
+      "text": "Comment vos effluents sont-ils traités avant d'être rejetés ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "aucun_traitement",
+          "text": "Aucun traitement, rejet direct",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "effluents"
+          ]
+        },
+        {
+          "id": "raccorde_sans_convention",
+          "text": "Raccordés au réseau collectif, sans convention à jour",
+          "maturity_score": 1,
+          "concern_score": 1,
+          "topics": [
+            "effluents"
+          ]
+        },
+        {
+          "id": "raccorde_convention",
+          "text": "Prétraitement sur site et convention de rejet à jour",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        },
+        {
+          "id": "station_propre",
+          "text": "Station de traitement sur site, avec autosurveillance",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "via_q11",
+      "theme": "gouvernance",
+      "order": 11,
+      "type": "single_choice",
+      "text": "Avez-vous analysé votre exposition aux restrictions d'eau en période de sécheresse ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "non_analyse",
+          "text": "Non, ce n'est pas un sujet que j'ai regardé",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "risque_reglementaire"
+          ]
+        },
+        {
+          "id": "informe",
+          "text": "Je suis informé, sans analyse formelle",
+          "maturity_score": 1,
+          "concern_score": 2,
+          "topics": [
+            "risque_reglementaire"
+          ]
+        },
+        {
+          "id": "evalue",
+          "text": "Oui, je sais ce qui s'arrêterait et dans quel ordre",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        },
+        {
+          "id": "plan_formalise",
+          "text": "Oui, et un plan écrit dit quoi réduire à chaque niveau",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "via_q12",
+      "theme": "gouvernance",
+      "order": 12,
+      "type": "single_choice",
+      "text": "Participez-vous à une démarche collective sur l'eau à l'échelle du territoire ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "non",
+          "text": "Non, aucune",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "collectif"
+          ]
+        },
+        {
+          "id": "informe",
+          "text": "J'en ai entendu parler, sans y prendre part",
+          "maturity_score": 1,
+          "concern_score": 1,
+          "topics": [
+            "collectif"
+          ]
+        },
+        {
+          "id": "participe",
+          "text": "Oui, je participe aux réunions",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        },
+        {
+          "id": "pilote",
+          "text": "Oui, et j'y porte des engagements chiffrés",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    }
+  ],
+  "topics_labels": {
+    "comptage": "Comptage et suivi des volumes",
+    "audit": "Audit eau",
+    "nettoyage": "Nettoyage et désinfection",
+    "dechets_a_sec": "Évacuation des déchets à sec",
+    "froid": "Refroidissement et circuits",
+    "reutilisation": "Réutilisation des eaux",
+    "coproduits": "Sang, saumures et jus de cuisson",
+    "effluents": "Traitement des effluents",
+    "risque_reglementaire": "Anticipation des restrictions",
+    "collectif": "Démarche collective"
+  },
+  "action_plan_config": {
+    "always_include": [],
+    "never_include": [],
+    "filters": [
+      {
+        "id": "f_suivi_absent",
+        "description": "Pas de compteur ou compteur général seul : recommander le comptage par usage",
+        "type": "answer",
+        "questionId": "via_q01",
+        "operator": "in",
+        "value": [
+          "aucun_compteur",
+          "compteur_general"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_AGR_001"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_pas_de_ratio",
+        "description": "Compteur général ou compteurs par atelier sans indicateur rapporté aux kilos : recommander le ratio. Sans aucun compteur, le comptage par usage passe d'abord",
+        "type": "answer",
+        "questionId": "via_q01",
+        "operator": "in",
+        "value": [
+          "compteur_general",
+          "par_atelier"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_VIA_002"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_conso_icpe",
+        "description": "Prélèvement annuel au-dessus de 10 000 m3, seuil de l'arrêté sécheresse ICPE du 30 juin 2023 : un plan de gestion écrit devient nécessaire",
+        "type": "numeric",
+        "questionId": "via_q02",
+        "operator": "gte",
+        "value": 10000,
+        "effect": "add",
+        "measures": [
+          "ACT_AGR_009"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_pas_audit",
+        "description": "Pas d'audit, audit seulement envisagé ou de plus de cinq ans : recommander le diagnostic",
+        "type": "answer",
+        "questionId": "via_q03",
+        "operator": "in",
+        "value": [
+          "jamais",
+          "envisage",
+          "ancien"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_AGR_002"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_audit_inconnu",
+        "description": "Question de l'audit laissée sans réponse : ne pas savoir est le motif même de recommander le diagnostic",
+        "type": "answer",
+        "questionId": "via_q03",
+        "operator": "not_answered",
+        "effect": "add",
+        "measures": [
+          "ACT_AGR_002"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_nettoyage_perfectible",
+        "description": "Lavage au jet sans raclage ou raclage partiel : former les équipes et écrire les consignes de nettoyage",
+        "type": "answer",
+        "questionId": "via_q04",
+        "operator": "in",
+        "value": [
+          "jet_sans_raclage",
+          "raclage_partiel"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_VIA_001"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_couteaux_debordement",
+        "description": "Stérilisateurs à couteaux à 82 °C en débordement ou temporisés : proposer une méthode alternative validée",
+        "type": "answer",
+        "questionId": "via_q05",
+        "operator": "in",
+        "value": [
+          "debordement_continu",
+          "remplissage_temporise"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_VIA_003"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_dechets_a_l_eau",
+        "description": "Déchets entraînés par l'eau sur tout ou partie des lignes : proposer le transport à sec",
+        "type": "answer",
+        "questionId": "via_q06",
+        "operator": "in",
+        "value": [
+          "entraine_a_l_eau",
+          "mixte"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_VIA_005"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_froid_ouvert",
+        "description": "Refroidissement à l'eau perdue ou par tour aéroréfrigérante : recommander la fermeture des circuits",
+        "type": "answer",
+        "questionId": "via_q07",
+        "operator": "in",
+        "value": [
+          "eau_perdue",
+          "tour_aero"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_VIA_004"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_pas_de_reutilisation",
+        "description": "Aucune réutilisation, ou réutilisation seulement envisagée ou ponctuelle : proposer la réutilisation organisée des rinçages et des eaux de refroidissement",
+        "type": "answer",
+        "questionId": "via_q08",
+        "operator": "in",
+        "value": [
+          "non",
+          "envisage",
+          "ponctuel"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_VIA_006"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_pas_d_eau_de_pluie",
+        "description": "Aucune réutilisation, ou réutilisation seulement envisagée : proposer aussi la récupération des eaux de toiture pour le lavage des quais, des camions et des cages",
+        "type": "answer",
+        "questionId": "via_q08",
+        "operator": "in",
+        "value": [
+          "non",
+          "envisage"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_AGR_006"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_coproduits_a_l_egout",
+        "description": "Sang, saumures ou jus de cuisson rejetés en tout ou partie avec les eaux de lavage : les collecter à part",
+        "type": "answer",
+        "questionId": "via_q09",
+        "operator": "in",
+        "value": [
+          "egout",
+          "collecte_partielle"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_VIA_007"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_effluents_fragiles",
+        "description": "Rejet sans traitement, ou raccordement sans convention à jour : fiabiliser le prétraitement et la convention de rejet",
+        "type": "answer",
+        "questionId": "via_q10",
+        "operator": "in",
+        "value": [
+          "aucun_traitement",
+          "raccorde_sans_convention"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_VIA_008"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_risque_non_analyse",
+        "description": "Exposition aux restrictions non analysée ou connue sans formalisation : recommander le plan de gestion",
+        "type": "answer",
+        "questionId": "via_q11",
+        "operator": "in",
+        "value": [
+          "non_analyse",
+          "informe"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_AGR_009"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_plan_deja_formalise",
+        "description": "Plan de gestion de l'eau déjà écrit : ne pas le proposer, même au-dessus du seuil de 10 000 m3",
+        "type": "answer",
+        "questionId": "via_q11",
+        "operator": "eq",
+        "value": "plan_formalise",
+        "effect": "remove",
+        "measures": [
+          "ACT_AGR_009"
+        ],
+        "priority": 2
+      },
+      {
+        "id": "f_petit_volume_sans_reutilisation",
+        "description": "Sous 5 000 m3 par an, un projet de réutilisation déclaré au préfet et intégré au plan de maîtrise sanitaire ne se justifie pas : écarter la réutilisation des rinçages",
+        "type": "numeric",
+        "questionId": "via_q02",
+        "operator": "lt",
+        "value": 5000,
+        "effect": "remove",
+        "measures": [
+          "ACT_VIA_006"
+        ],
+        "priority": 2
+      },
+      {
+        "id": "f_reutiliser_sans_mesurer",
+        "description": "Aucun compteur sur le site : mesurer d'abord, la réutilisation des rinçages et la récupération d'eau de pluie viendront ensuite",
+        "type": "answer",
+        "questionId": "via_q01",
+        "operator": "eq",
+        "value": "aucun_compteur",
+        "effect": "remove",
+        "measures": [
+          "ACT_VIA_006",
+          "ACT_AGR_006"
+        ],
+        "priority": 2
+      },
+      {
+        "id": "f_petit_site_hors_collectif",
+        "description": "Sous 5 000 m3 par an, un atelier n'a pas de volume à défendre dans une instance de territoire : ne pas proposer la démarche collective",
+        "type": "numeric",
+        "questionId": "via_q02",
+        "operator": "lt",
+        "value": 5000,
+        "effect": "remove",
+        "measures": [
+          "ACT_AGR_010"
+        ],
+        "priority": 2
+      },
+      {
+        "id": "f_hors_collectif",
+        "description": "Hors de toute démarche collective de territoire : proposer d'y entrer",
+        "type": "answer",
+        "questionId": "via_q12",
+        "operator": "in",
+        "value": [
+          "non",
+          "informe"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_AGR_010"
+        ],
+        "priority": 1
+      }
+    ]
+  }
+}

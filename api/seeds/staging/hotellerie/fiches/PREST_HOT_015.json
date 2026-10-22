@@ -1,0 +1,80 @@
+{
+  "id": "PREST_HOT_015",
+  "nom": "Sénariz",
+  "type": "installateur",
+  "logo_url": null,
+  "siret": "43125957100013",
+  "description": "Entreprise de paysage basée à Plaisir (Yvelines) qui conçoit, crée et entretient les jardins, terrasses et rooftops d'hôtels à Paris et en Île-de-France depuis plus de 20 ans (références : Hôtel Madame Rêve, terrasse de l'hôtel Citizen M à Paris). Elle installe des systèmes d'arrosage automatique, dont le goutte-à-goutte, conçus et posés par un spécialiste interne, propose la gestion centralisée de l'arrosage avec sondes mesurant les besoins en eau, et pratique le paillage des massifs. Prestations sur devis.",
+  "expertises": [
+    "Arrosage goutte-à-goutte",
+    "Gestion centralisée de l'arrosage",
+    "Entretien de jardins d'hôtels",
+    "Création paysagère"
+  ],
+  "categories": [
+    "changer_process_pratiques"
+  ],
+  "secteurs": ["hotellerie"],
+  "departements": ["75", "77", "78", "91", "92", "93", "94", "95"],
+  "mesures": [
+    { "id": "ACT_HOT_006", "roles": ["travaux"] }
+  ],
+  "contacts": [
+    { "type": "site_internet", "value": "https://www.senariz.fr/" },
+    { "type": "tel", "value": "01 30 54 03 83" },
+    { "type": "mail", "value": "senariz@orange.fr" },
+    { "type": "adresse", "value": "1625 rue de la Boissière, 78370 Plaisir" }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse, type",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Senariz&departement=78",
+      "date": "2026-09-24",
+      "extrait": "SENARIZ, siret 43125957100013, siège, 1625 RUE DE LA BOISSIERE 78370 PLAISIR, activité 81.30Z, état administratif A"
+    },
+    {
+      "champ": "contacts",
+      "url": "https://www.senariz.fr/contact/",
+      "date": "2026-09-24",
+      "extrait": "Sénariz Paris 1625 rue de la Boissière, 78370, Plaisir FRANCE senariz@orange.fr 01 30 54 03 83 [...] Un projet ? Une question ? Un devis ?"
+    },
+    {
+      "champ": "departements, description",
+      "url": "https://www.senariz.fr/",
+      "date": "2026-09-24",
+      "extrait": "Sénariz, localisé à Plaisir, dans les Yvelines, intervient en Ile-de-France et, suivant les projets, partout en France."
+    },
+    {
+      "champ": "description, secteurs, expertises, departements",
+      "url": "https://www.senariz.fr/jardiniers-paysagistes-pour-hotels-a-paris-et-en-ile-de-france/",
+      "date": "2026-09-24",
+      "extrait": "Spécialisée dans la conception paysagère et l'entretien de jardin à Paris et en Ile-de-France, l'entreprise Sénariz accompagne depuis plus de 20 ans les hôteliers, les restaurateurs et tous les professionnels de l'accueil dans la création et l'entretien des jardins et des espaces verts de leur établissement."
+    },
+    {
+      "champ": "description (références hôtelières)",
+      "url": "https://www.senariz.fr/hotel-de-la-poste-madame-reve-paris-01/",
+      "date": "2026-09-24",
+      "extrait": "Création paysagère et entretien Hôtel de La Poste Madame Rêve, à Paris 01. [...] 500m2 de rooftop et 1000m2 d'espaces végétalisés sur trois niveaux"
+    },
+    {
+      "champ": "description (références hôtelières)",
+      "url": "https://www.senariz.fr/entretien-terrasse-hotel-citizen-m-paris-75/",
+      "date": "2026-09-24",
+      "extrait": "Entretien de la terrasse de l'Hôtel Citizen, un établissement de 151 chambres situé à proximité immédiate des Champs-Élysées."
+    },
+    {
+      "champ": "expertises, mesures (ACT_HOT_006 travaux), description",
+      "url": "https://www.senariz.fr/entretien/",
+      "date": "2026-09-24",
+      "extrait": "Arrosage en goutte à goutte pour un système discret, programmé en fonction des besoins de chaque variété et économe en eau. Pour la conception et la mise en place de ces systèmes, nous disposons en interne d'un spécialiste dédié [...] La gestion centralisée de l'arrosage. L'utilisation de sondes pour mesurer en temps réel les besoins en eau. [...] Le paillage des massifs"
+    },
+    {
+      "champ": "mesures (ACT_HOT_006)",
+      "url": "https://www.senariz.fr/lentreprise/nos-engagements/notre-vision-rse/",
+      "date": "2026-09-24",
+      "extrait": "Nous proposons systématiquement à nos clients des systèmes d'éclairage et d'arrosage économes."
+    }
+  ],
+  "date_maj": "2026-09-24"
+}

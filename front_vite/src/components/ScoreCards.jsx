@@ -16,7 +16,7 @@ export default function ScoreCards({ data }) {
           className="bg-surface-low rounded-2xl overflow-hidden"
           style={{ boxShadow: '0 0 48px rgba(0,10,67,0.04)' }}
         >
-          {/* Header band — surface-highest separates label from metrics */}
+          {/* Header band: surface-highest separates label from metrics */}
           <div className="bg-surface-highest px-5 py-3">
             <div className="text-[0.6875rem] font-semibold text-on-surface-var uppercase tracking-widest">
               Horizon {year}

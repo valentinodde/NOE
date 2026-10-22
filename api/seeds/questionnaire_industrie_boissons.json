@@ -1,0 +1,843 @@
+{
+  "sector_id": "industrie_boissons",
+  "sector_label": "Brasserie et boissons sans alcool",
+  "naf_codes": [
+    "11.05Z",
+    "11.06Z",
+    "11.07A",
+    "11.07B"
+  ],
+  "themes": [
+    {
+      "id": "connaissance",
+      "label": "Connaissance & mesure"
+    },
+    {
+      "id": "pratiques",
+      "label": "Nettoyage, pasteurisation & froid"
+    },
+    {
+      "id": "reut_rejets",
+      "label": "Réutilisation & rejets"
+    },
+    {
+      "id": "gouvernance",
+      "label": "Gouvernance & anticipation"
+    }
+  ],
+  "questions": [
+    {
+      "id": "boi_q01",
+      "theme": "connaissance",
+      "order": 1,
+      "type": "single_choice",
+      "text": "Comment suivez-vous aujourd'hui la consommation d'eau de votre site ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "aucun_compteur",
+          "text": "Je n'ai pas de compteur, je m'en remets à la facture",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "comptage"
+          ]
+        },
+        {
+          "id": "compteur_general",
+          "text": "Un compteur général, relevé de temps en temps",
+          "maturity_score": 1,
+          "concern_score": 1,
+          "topics": [
+            "comptage"
+          ]
+        },
+        {
+          "id": "releves_reguliers",
+          "text": "Des relevés réguliers, chaque semaine ou chaque mois",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        },
+        {
+          "id": "ratio_hl",
+          "text": "Des compteurs par usage et un ratio d'eau par hectolitre",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "boi_q02",
+      "theme": "connaissance",
+      "order": 2,
+      "type": "multi_choice",
+      "class": "source_eau",
+      "text": "D'où provient l'eau que vous utilisez sur le site ? (plusieurs réponses possibles)",
+      "condition": null,
+      "options": [
+        {
+          "id": "reseau",
+          "text": "Réseau public d'eau potable",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": []
+        },
+        {
+          "id": "forage",
+          "text": "Forage ou puits propre au site",
+          "maturity_score": 0,
+          "concern_score": 1,
+          "topics": []
+        },
+        {
+          "id": "source_embouteillage",
+          "text": "Source ou nappe exploitée pour l'embouteillage",
+          "maturity_score": 0,
+          "concern_score": 1,
+          "topics": []
+        },
+        {
+          "id": "pluie",
+          "text": "Eau de pluie récupérée sur les toitures",
+          "maturity_score": 2,
+          "concern_score": 3,
+          "topics": []
+        },
+        {
+          "id": "recyclage",
+          "text": "Eaux de rinçage ou de refroidissement réutilisées",
+          "maturity_score": 2,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "boi_q03",
+      "theme": "connaissance",
+      "order": 3,
+      "type": "numeric",
+      "text": "Quelle est votre consommation d'eau annuelle, tous usages du site confondus ?",
+      "condition": null,
+      "input": {
+        "unit": "m³/an",
+        "placeholder": "ex. 3000",
+        "min": 0,
+        "max": 10000000,
+        "integer_only": true
+      },
+      "scoring": {
+        "if_filled": {
+          "maturity_score": 1,
+          "concern_score": 2,
+          "topics": []
+        }
+      }
+    },
+    {
+      "id": "boi_q04",
+      "theme": "connaissance",
+      "order": 4,
+      "type": "single_choice",
+      "text": "Avez-vous réalisé un audit eau ou un diagnostic de vos consommations ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "jamais",
+          "text": "Non, jamais",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "audit"
+          ]
+        },
+        {
+          "id": "envisage",
+          "text": "On y a réfléchi mais pas encore fait",
+          "maturity_score": 0,
+          "concern_score": 2,
+          "topics": [
+            "audit"
+          ]
+        },
+        {
+          "id": "ancien",
+          "text": "Oui, il y a plus de 5 ans",
+          "maturity_score": 1,
+          "concern_score": 2,
+          "topics": [
+            "audit"
+          ]
+        },
+        {
+          "id": "recent",
+          "text": "Oui, récemment (moins de 3 ans)",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "boi_q05",
+      "theme": "pratiques",
+      "order": 5,
+      "type": "single_choice",
+      "text": "Comment nettoyez-vous vos cuves, vos fûts et vos lignes de production ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "manuel_tuyau",
+          "text": "À la main, au tuyau d'eau",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "nettoyage"
+          ]
+        },
+        {
+          "id": "nep_duree_fixe",
+          "text": "Nettoyage en place automatique, rinçages à durée fixe",
+          "maturity_score": 1,
+          "concern_score": 1,
+          "topics": [
+            "nettoyage"
+          ]
+        },
+        {
+          "id": "manuel_equipe",
+          "text": "À la main, avec lances moyenne pression ou boules de lavage",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        },
+        {
+          "id": "nep_optimisee",
+          "text": "Nettoyage en place piloté par conductimètre, rinçage récupéré",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "boi_q06",
+      "theme": "pratiques",
+      "order": 6,
+      "type": "single_choice",
+      "text": "Vos équipes ont-elles des consignes de nettoyage économe (raclage, sécheresse) ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "aucune",
+          "text": "Non",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "nettoyage"
+          ]
+        },
+        {
+          "id": "orales",
+          "text": "Des habitudes transmises à l'oral",
+          "maturity_score": 1,
+          "concern_score": 1,
+          "topics": [
+            "nettoyage"
+          ]
+        },
+        {
+          "id": "ecrites",
+          "text": "Des consignes écrites, affichées aux postes",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        },
+        {
+          "id": "suivies",
+          "text": "Des consignes écrites, suivies avec les relevés d'eau",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "boi_q07",
+      "theme": "pratiques",
+      "order": 7,
+      "type": "single_choice",
+      "text": "Comment vos bouteilles, canettes ou fûts sont-ils pasteurisés ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "tunnel_appoint",
+          "text": "Tunnel de pasteurisation avec appoint d'eau continu",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "pasteurisation"
+          ]
+        },
+        {
+          "id": "tunnel_partiel",
+          "text": "Tunnel avec une partie de l'eau recyclée",
+          "maturity_score": 1,
+          "concern_score": 1,
+          "topics": [
+            "pasteurisation"
+          ]
+        },
+        {
+          "id": "boucle_ou_flash",
+          "text": "Tunnel régulé en boucle fermée, ou pasteurisation flash",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        },
+        {
+          "id": "sans_pasteurisation",
+          "text": "Pas de pasteurisation sur le site",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "boi_q08",
+      "theme": "pratiques",
+      "order": 8,
+      "type": "single_choice",
+      "text": "Comment évacuez-vous la chaleur de vos groupes froids et de vos installations ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "eau_perdue",
+          "text": "Avec de l'eau qui passe une fois puis part à l'égout",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "refroidissement"
+          ]
+        },
+        {
+          "id": "tours_non_suivies",
+          "text": "Tours aéroréfrigérantes, purges non mesurées",
+          "maturity_score": 1,
+          "concern_score": 1,
+          "topics": [
+            "refroidissement"
+          ]
+        },
+        {
+          "id": "tours_pilotees",
+          "text": "Tours aéroréfrigérantes, purges mesurées et automatisées",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        },
+        {
+          "id": "sans_tour",
+          "text": "Groupes froids à air ou refroidisseurs adiabatiques",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "boi_q09",
+      "theme": "reut_rejets",
+      "order": 9,
+      "type": "single_choice",
+      "text": "Que devient l'eau réchauffée en sortie du refroidisseur de moût ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "rejetee",
+          "text": "Elle part à l'égout",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "reutilisation"
+          ]
+        },
+        {
+          "id": "en_partie",
+          "text": "Une partie sert au nettoyage, le reste est rejeté",
+          "maturity_score": 1,
+          "concern_score": 1,
+          "topics": [
+            "reutilisation"
+          ]
+        },
+        {
+          "id": "cuve_eau_chaude",
+          "text": "Elle est stockée en cuve et sert au brassin suivant",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        },
+        {
+          "id": "sans_brassage",
+          "text": "Pas de brassage sur le site (eau, sodas, malt)",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "boi_q10",
+      "theme": "reut_rejets",
+      "order": 10,
+      "type": "single_choice",
+      "text": "Que deviennent vos coproduits (levures, drêches, fonds de cuve) et vos eaux de lavage ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "tout_egout",
+          "text": "Ils partent ensemble à l'égout",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "effluents"
+          ]
+        },
+        {
+          "id": "coproduits_separes",
+          "text": "Coproduits collectés, lavages rejetés sans prétraitement",
+          "maturity_score": 1,
+          "concern_score": 1,
+          "topics": [
+            "effluents"
+          ]
+        },
+        {
+          "id": "pretraitement",
+          "text": "Coproduits collectés, bassin tampon ou prétraitement avant rejet",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        },
+        {
+          "id": "peu_charges",
+          "text": "Pas de coproduits ni de rejet chargé (embouteillage d'eau)",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "boi_q11",
+      "theme": "gouvernance",
+      "order": 11,
+      "type": "single_choice",
+      "text": "Avez-vous analysé votre exposition aux restrictions d'eau (arrêtés sécheresse, baisse d'autorisation) ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "non_analyse",
+          "text": "Non, ce n'est pas quelque chose que j'ai regardé",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "risque_reglementaire"
+          ]
+        },
+        {
+          "id": "informe",
+          "text": "Je suis informé mais sans analyse formelle",
+          "maturity_score": 1,
+          "concern_score": 2,
+          "topics": [
+            "risque_reglementaire"
+          ]
+        },
+        {
+          "id": "evalue",
+          "text": "Oui, j'ai évalué les risques pour mon site",
+          "maturity_score": 2,
+          "concern_score": 3,
+          "topics": []
+        },
+        {
+          "id": "plan_formalise",
+          "text": "Oui, et j'ai une procédure écrite par niveau d'alerte",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "boi_q12",
+      "theme": "gouvernance",
+      "order": 12,
+      "type": "single_choice",
+      "text": "Agissez-vous avec les autres usagers de la ressource en eau de votre territoire ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "non",
+          "text": "Non",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "territoire"
+          ]
+        },
+        {
+          "id": "informe",
+          "text": "Je suis les travaux sans y participer",
+          "maturity_score": 1,
+          "concern_score": 2,
+          "topics": [
+            "territoire"
+          ]
+        },
+        {
+          "id": "participe",
+          "text": "Je participe à une instance (SAGE, PTGE, contrat de nappe)",
+          "maturity_score": 2,
+          "concern_score": 3,
+          "topics": []
+        },
+        {
+          "id": "protection_ressource",
+          "text": "J'ai des conventions de protection de ma ressource",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    }
+  ],
+  "topics_labels": {
+    "comptage": "Comptage & mesure",
+    "audit": "Audit eau",
+    "nettoyage": "Nettoyage économe",
+    "pasteurisation": "Pasteurisation",
+    "refroidissement": "Refroidissement",
+    "reutilisation": "Réutilisation de l'eau chaude",
+    "effluents": "Coproduits et rejets",
+    "risque_reglementaire": "Anticipation des restrictions",
+    "territoire": "Ressource et territoire"
+  },
+  "action_plan_config": {
+    "always_include": [],
+    "never_include": [],
+    "filters": [
+      {
+        "id": "f_suivi_absent",
+        "description": "Pas de compteur ou compteur général seul : recommander le comptage par usage",
+        "type": "answer",
+        "questionId": "boi_q01",
+        "operator": "in",
+        "value": [
+          "aucun_compteur",
+          "compteur_general"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_AGR_001"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_suivi_inconnu",
+        "description": "Suivi de la consommation inconnu : commencer par le compteur par usage",
+        "type": "answer",
+        "questionId": "boi_q01",
+        "operator": "not_answered",
+        "effect": "add",
+        "measures": [
+          "ACT_AGR_001"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_ratio_absent",
+        "description": "Une mesure existe mais n'est pas rapportée à la production : suivre le ratio d'eau par hectolitre",
+        "type": "answer",
+        "questionId": "boi_q01",
+        "operator": "in",
+        "value": [
+          "compteur_general",
+          "releves_reguliers"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_BOI_001"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_preleve_forage",
+        "description": "Prélèvement propre en nappe : la démarche collective de partage de la ressource (PTGE, contrat de nappe, SAGE) le concerne directement",
+        "type": "class",
+        "class": "source_eau",
+        "operator": "includes",
+        "value": "forage",
+        "effect": "add",
+        "measures": [
+          "ACT_AGR_010"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_source_embouteillage",
+        "description": "Source ou nappe exploitée pour l'embouteillage : protéger l'impluvium et participer à la gestion de la nappe",
+        "type": "class",
+        "class": "source_eau",
+        "operator": "includes",
+        "value": "source_embouteillage",
+        "effect": "add",
+        "measures": [
+          "ACT_AGR_010",
+          "ACT_BOI_008"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_conso_icpe",
+        "description": "Consommation annuelle d'au moins 10 000 m³, seuil de l'arrêté sécheresse ICPE du 30 juin 2023 : un plan de gestion écrit devient nécessaire",
+        "type": "numeric",
+        "questionId": "boi_q03",
+        "operator": "gte",
+        "value": 10000,
+        "effect": "add",
+        "measures": [
+          "ACT_AGR_009"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_petit_volume",
+        "description": "Moins de 1 000 m³ par an : un plan de gestion écrit est disproportionné, les consignes sécheresse du nettoyage économe suffisent",
+        "type": "numeric",
+        "questionId": "boi_q03",
+        "operator": "lt",
+        "value": 1000,
+        "effect": "remove",
+        "measures": [
+          "ACT_AGR_009"
+        ],
+        "priority": 2
+      },
+      {
+        "id": "f_pas_audit",
+        "description": "Pas d'audit, audit seulement envisagé ou de plus de cinq ans : recommander le diagnostic",
+        "type": "answer",
+        "questionId": "boi_q04",
+        "operator": "in",
+        "value": [
+          "jamais",
+          "envisage",
+          "ancien"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_AGR_002"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_audit_inconnu",
+        "description": "Question de l'audit laissée sans réponse : ne pas savoir est le motif même de recommander le diagnostic",
+        "type": "answer",
+        "questionId": "boi_q04",
+        "operator": "not_answered",
+        "effect": "add",
+        "measures": [
+          "ACT_AGR_002"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_nettoyage_tuyau",
+        "description": "Nettoyage à la main au tuyau : recommander le raclage, la moyenne pression et les gestes économes",
+        "type": "answer",
+        "questionId": "boi_q05",
+        "operator": "eq",
+        "value": "manuel_tuyau",
+        "effect": "add",
+        "measures": [
+          "ACT_BOI_002"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_nep_duree_fixe",
+        "description": "Nettoyage en place à rinçages de durée fixe : optimiser les phases et récupérer le dernier rinçage",
+        "type": "answer",
+        "questionId": "boi_q05",
+        "operator": "eq",
+        "value": "nep_duree_fixe",
+        "effect": "add",
+        "measures": [
+          "ACT_BOI_003"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_sans_consignes",
+        "description": "Pas de consignes de nettoyage, ou seulement orales : former les équipes aux gestes économes",
+        "type": "answer",
+        "questionId": "boi_q06",
+        "operator": "in",
+        "value": [
+          "aucune",
+          "orales"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_BOI_002"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_nep_pas_manuel",
+        "description": "Lignes nettoyées par NEP : le nettoyage manuel économe ne vise pas ce site, son levier est l'optimisation de la NEP",
+        "type": "answer",
+        "questionId": "boi_q05",
+        "operator": "in",
+        "value": [
+          "nep_duree_fixe",
+          "nep_optimisee"
+        ],
+        "effect": "remove",
+        "measures": [
+          "ACT_BOI_002"
+        ],
+        "priority": 2
+      },
+      {
+        "id": "f_pasteurisateur_ouvert",
+        "description": "Pasteurisateur tunnel en appoint continu ou en recyclage partiel : le passer en boucle régulée",
+        "type": "answer",
+        "questionId": "boi_q07",
+        "operator": "in",
+        "value": [
+          "tunnel_appoint",
+          "tunnel_partiel"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_BOI_004"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_froid_consommateur",
+        "description": "Refroidissement à l'eau perdue ou par tours aux purges non mesurées : réduire les purges ou passer à l'adiabatique",
+        "type": "answer",
+        "questionId": "boi_q08",
+        "operator": "in",
+        "value": [
+          "eau_perdue",
+          "tours_non_suivies"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_BOI_005"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_eau_mout_perdue",
+        "description": "Eau du refroidisseur de moût rejetée en tout ou partie : la stocker pour le brassin suivant et le nettoyage",
+        "type": "answer",
+        "questionId": "boi_q09",
+        "operator": "in",
+        "value": [
+          "rejetee",
+          "en_partie"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_BOI_006"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_rejets_bruts",
+        "description": "Coproduits mêlés aux lavages ou lavages rejetés sans prétraitement : séparer les coproduits et prétraiter",
+        "type": "answer",
+        "questionId": "boi_q10",
+        "operator": "in",
+        "value": [
+          "tout_egout",
+          "coproduits_separes"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_BOI_007"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_risque_non_analyse",
+        "description": "Exposition aux restrictions non analysée ou connue sans formalisation : recommander le plan de gestion",
+        "type": "answer",
+        "questionId": "boi_q11",
+        "operator": "in",
+        "value": [
+          "non_analyse",
+          "informe"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_AGR_009"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_plan_deja_formalise",
+        "description": "Procédure sécheresse déjà écrite : ne pas proposer le plan de gestion, même au-dessus du seuil de 10 000 m³",
+        "type": "answer",
+        "questionId": "boi_q11",
+        "operator": "eq",
+        "value": "plan_formalise",
+        "effect": "remove",
+        "measures": [
+          "ACT_AGR_009"
+        ],
+        "priority": 2
+      },
+      {
+        "id": "f_deja_collectif",
+        "description": "Participe déjà à une instance de bassin, ou protège déjà sa ressource par convention : ne pas proposer la démarche collective",
+        "type": "answer",
+        "questionId": "boi_q12",
+        "operator": "in",
+        "value": [
+          "participe",
+          "protection_ressource"
+        ],
+        "effect": "remove",
+        "measures": [
+          "ACT_AGR_010"
+        ],
+        "priority": 2
+      },
+      {
+        "id": "f_impluvium_deja",
+        "description": "Conventions de protection de la ressource déjà signées : ne pas proposer la protection de l'impluvium",
+        "type": "answer",
+        "questionId": "boi_q12",
+        "operator": "eq",
+        "value": "protection_ressource",
+        "effect": "remove",
+        "measures": [
+          "ACT_BOI_008"
+        ],
+        "priority": 2
+      }
+    ]
+  }
+}

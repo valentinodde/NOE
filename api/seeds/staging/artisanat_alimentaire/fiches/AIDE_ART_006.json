@@ -1,0 +1,142 @@
+{
+  "id": "AIDE_ART_006",
+  "nom": "Prise en charge des formations des chefs d'entreprise artisanale (FAFCEA, secteur Alimentation)",
+  "financeur": "FAFCEA (Fonds d'Assurance Formation des Chefs d'entreprises artisanales)",
+  "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792065107/Noe%20assets/logos/AIDE_ART_006.png",
+  "type": "subvention",
+  "taux": "Coût horaire HT pris en charge au plus, pour une contribution à la formation supérieure à 85 € : 60 € pour un stage technique, 25 € pour un stage transverse (présentiel ou distanciel avec formateur). Stage développement durable : 35 € de l'heure",
+  "plafond": "54 heures par stagiaire et par an (stages techniques et transverses), 14 heures par an pour le développement durable. Si votre contribution à la formation est de 85 € ou moins : 600 € par an et par entreprise pour les formations commençant à compter du 1er septembre 2026",
+  "description": "Le FAFCEA finance la formation professionnelle continue des chefs d'entreprise artisanale, de leurs conjoints collaborateurs ou associés et de leurs auxiliaires familiaux, avec la contribution à la formation que l'artisan verse via l'URSSAF. Il rembourse à l'entreprise, après la formation, une partie des frais pédagogiques dans la limite d'un coût horaire maximum, et les frais annexes (transport, hébergement, restauration) jusqu'à 200 € par stage. Les critères 2026 du secteur Alimentation, qui couvre la charcuterie, la boulangerie, la boulangerie-pâtisserie et la pâtisserie, comptent une ligne de stages « Développement durable ».",
+  "eligibilite": "Chefs d'entreprise artisanale travailleurs non salariés (entrepreneur individuel, gérant majoritaire de SARL, associé gérant d'EURL, associé de SNC) inscrits au Registre national des entreprises, leurs conjoints collaborateurs ou associés et leurs auxiliaires familiaux, dont l'entreprise relève du FAFCEA par son code NAFA et est à jour de sa contribution à la formation professionnelle.",
+  "categories": [
+    "sensibiliser_former"
+  ],
+  "secteurs": [
+    "artisanat_alimentaire"
+  ],
+  "departements": [],
+  "agences": [],
+  "mesures": [],
+  "infos_complementaires": [
+    {
+      "type": "avertissement",
+      "texte": "Le dossier complet doit parvenir au FAFCEA en un seul envoi, au plus tôt 3 mois avant et au plus tard le jour du début de la formation : c'est la date de réception qui compte. Une demande arrivée après le début du stage est refusée."
+    },
+    {
+      "type": "avertissement",
+      "texte": "Les dirigeants assimilés salariés (présidents de SAS et directeurs généraux, gérants minoritaires ou égalitaires de SARL, gérants non associés d'EURL, dirigeants de SA) ne peuvent pas être financés par le FAFCEA. Les salariés et apprentis ne figurent pas non plus parmi ses bénéficiaires."
+    },
+    {
+      "type": "info",
+      "texte": "Les critères 2026 du FAFCEA nomment une catégorie de stages « Développement durable » sans en détailler les thèmes, et le programme de chaque formation est examiné par ses services."
+    },
+    {
+      "type": "info",
+      "texte": "La demande se dépose en ligne dans « Mon espace entreprise », avec le programme pédagogique détaillé, un extrait du Registre national des entreprises de moins d'un an et l'attestation URSSAF de versement de la contribution à la formation. Après la formation, vous réglez l'organisme puis envoyez la facture acquittée et l'attestation de présence au plus tard 2 mois après la fin du stage : le FAFCEA rembourse l'entreprise sur la base du montant hors taxe."
+    },
+    {
+      "type": "info",
+      "texte": "Pour les entreprises dont la contribution à la formation est de 85 € ou moins, le plafond de 600 € par an et par entreprise tient compte des financements accordés pour les formations commencées depuis le 1er janvier 2026 (critères validés par le conseil d'administration du 31 juillet 2026, lus le 15 octobre 2026)."
+    },
+    {
+      "type": "ressource",
+      "texte": "Critères de prise en charge du secteur Alimentation, formations à compter du 1er septembre 2026",
+      "lien": "https://www.fafcea.com/wp-content/uploads/2026/07/Criteres-ALIM-1-Sept-2026.pdf",
+      "lien_label": "Lire les critères"
+    },
+    {
+      "type": "ressource",
+      "texte": "Procédure et dépôt de la demande sur le site du FAFCEA",
+      "lien": "https://www.fafcea.com/je-depose-ma-demande/",
+      "lien_label": "Déposer ma demande"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "financeur",
+      "url": "https://www.fafcea.com/",
+      "date": "2026-10-15",
+      "extrait": "Fonds d'Assurance Formation des Chefs d'entreprises artisanales"
+    },
+    {
+      "champ": "taux, plafond",
+      "url": "https://www.fafcea.com/wp-content/uploads/2026/07/Criteres-ALIM-1-Sept-2026.pdf",
+      "date": "2026-10-15",
+      "extrait": "CRITERES DE PRISE EN CHARGE 2026 SECTEUR ALIMENTATION [...] Durée maximale (par stagiaire et par an) [...] Coût horaire maximum (Hors TVA - non financée) Présentiel et distanciel (avec formateur) [...] Technique 54H 60 € [...] Transverse* et gestion spécifique métiers 25 €"
+    },
+    {
+      "champ": "taux, plafond (développement durable)",
+      "url": "https://www.fafcea.com/wp-content/uploads/2026/07/Criteres-ALIM-1-Sept-2026.pdf",
+      "date": "2026-10-15",
+      "extrait": "STAGES SPECIFIQUES [...] Développement durable : Prise en charge d'un coût horaire maximum de 35€ dans la limite de 14 heures par an"
+    },
+    {
+      "champ": "plafond, infos_complementaires (plafond de 600 €)",
+      "url": "https://www.fafcea.com/wp-content/uploads/2026/07/Criteres-ALIM-1-Sept-2026.pdf",
+      "date": "2026-10-15",
+      "extrait": "AVEC UNE CFP < ou = à 85€ Pour les formations à compter du 1er septembre 2026 * Prise en charge dans la limite de 600€ par an et par entreprise [...] les financements accordés au titre des formations débutées à compter du 1er janvier 2026 sont pris en compte. [...] Validés par le Conseil d'Administration du 31/07/2026"
+    },
+    {
+      "champ": "description (frais annexes)",
+      "url": "https://www.fafcea.com/wp-content/uploads/2026/07/Criteres-ALIM-1-Sept-2026.pdf",
+      "date": "2026-10-15",
+      "extrait": "PRISE EN CHARGE DES FRAIS ANNEXES A HAUTEUR DE 200€ PAR STAGE (transport, hébergement, restauration). Sauf parcours individualisé."
+    },
+    {
+      "champ": "description, eligibilite",
+      "url": "https://www.fafcea.com/le-fafcea/",
+      "date": "2026-10-15",
+      "extrait": "Le FAFCEA a pour mission d'organiser, de développer et de promouvoir la formation des chefs d'entreprises artisanales ainsi que celle de leurs conjoints collaborateurs ou associés, de leurs auxiliaires familiaux [...] Il participe au financement de cette formation."
+    },
+    {
+      "champ": "eligibilite, description (contribution)",
+      "url": "https://www.fafcea.com/je-cotise-quels-sont-mes-droits/",
+      "date": "2026-10-15",
+      "extrait": "Les chefs d'entreprise non salariés exerçant une activité artisanale ; Les conjoints collaborateurs ou associés ; Les auxiliaires familiaux. [...] Si mon entreprise est à jour de sa contribution je peux demander une prise en charge financière de mes formations"
+    },
+    {
+      "champ": "eligibilite, infos_complementaires (dirigeants assimilés salariés)",
+      "url": "https://www.fafcea.com/faq/",
+      "date": "2026-10-15",
+      "extrait": "Les chefs d'entreprise qui sont assimilés salariés sont : Les gérants non associés d'EURL ; Les gérants minoritaires ou égalitaires de SARL ; Les présidents de SAS et les directeurs généraux ; [...] Pour ces chefs d'entreprise, il n'y a pas de financement possible par le FAFCEA. Les chefs d'entreprise qui sont travailleurs non salariés (TNS) sont : Les entrepreneurs individuels ; Les associés gérants d'EURL ; Les gérants majoritaires de SARL ; Les associés de SNC."
+    },
+    {
+      "champ": "eligibilite (Registre national des entreprises)",
+      "url": "https://www.fafcea.com/faq/",
+      "date": "2026-10-15",
+      "extrait": "les chefs d'entreprise exerçant une activité artisanale inscrits au Registre National des entreprises, leurs conjoints collaborateurs inscrits au Registre National des entreprises, leurs auxiliaires familiaux régulièrement déclarés."
+    },
+    {
+      "champ": "description (métiers du secteur Alimentation), secteurs",
+      "url": "https://www.fafcea.com/wp-content/themes/tailpress/json/codes_nafa.json",
+      "date": "2026-10-15",
+      "extrait": "10.13B-Z 'Charcuterie', 'Alimentation' ; 10.71C-A 'Boulangerie', 'Alimentation' ; 10.71C-B 'Boulangerie-pâtisserie', 'Alimentation' ; 10.71D-Z 'Pâtisserie', 'Alimentation' (liste des codes NAFA de l'outil « Vérifiez que vous dépendez bien du FAFCEA »)"
+    },
+    {
+      "champ": "infos_complementaires (date limite, démarche, remboursement)",
+      "url": "https://www.fafcea.com/je-depose-ma-demande/",
+      "date": "2026-10-15",
+      "extrait": "Mon dossier complet parvient au FAFCEA en un seul envoi, 3 mois maximum avant et jusqu'au jour de début de formation. Au-delà, le FAFCEA ne pourrait pas prendre en compte ma demande. C'est la date de réception du dossier par le FAFCEA qui est prise en compte. [...] Le montant de la prise en charge sera réglé par le FAFCEA sur la base du montant Hors Taxe [...] au plus tard 2 mois après la fin du stage."
+    },
+    {
+      "champ": "infos_complementaires (pièces)",
+      "url": "https://www.fafcea.com/je-depose-ma-demande/",
+      "date": "2026-10-15",
+      "extrait": "Chef d'entreprise artisanale, conjoint collaborateur : Mon Extrait d'inscription au registre national des entreprises datant de moins d'un an au jour de début de la formation ; Mon attestation URSSAF de versement de la contribution à la formation de l'année en cours ou à défaut de l'année N-1"
+    },
+    {
+      "champ": "infos_complementaires (examen du programme)",
+      "url": "https://www.fafcea.com/wp-content/uploads/2026/07/Criteres-ALIM-1-Sept-2026.pdf",
+      "date": "2026-10-15",
+      "extrait": "FORMATIONS Critères applicables selon les procédures du FAFCEA en vigueur pour les formations débutant à compter du 15/05//2026 (sous réserve d'examen du programme par les services)"
+    },
+    {
+      "champ": "logo_url",
+      "url": "https://www.fafcea.com/wp-content/uploads/2022/06/cropped-favicon-270x270.png",
+      "date": "2026-10-15",
+      "extrait": "Icône carrée en couleur du site fafcea.com (270 x 270 px)"
+    }
+  ],
+  "date_maj": "2026-10-15"
+}

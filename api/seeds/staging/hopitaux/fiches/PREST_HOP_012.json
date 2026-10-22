@@ -1,0 +1,104 @@
+{
+  "id": "PREST_HOP_012",
+  "nom": "Ecolab",
+  "type": "equipementier",
+  "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792070120/Noe%20assets/logos/PREST_HOP_012.png",
+  "siret": "38174333500220",
+  "description": "Ecolab SNC, basée à Bagneux (Hauts-de-Seine), est l'entité française du groupe américain Ecolab, dont le siège mondial est à Saint Paul (Minnesota). Pour les blanchisseries, elle fournit des produits lessiviels avec matériel de dosage et des systèmes de réutilisation de l'eau des tunnels de lavage propres à la marque. Le groupe déclare trois sites de fabrication en France sans préciser ce qui y est produit, et rien n'indique que ces systèmes y soient fabriqués. À la blanchisserie hospitalière du GCS Santalys (La Garde, Var), son système Water Optimizer Ultimate, installé en avril 2024 sur deux tunnels, filtre l'eau de lavage et la réinjecte dans le circuit : le tunnel 1 est passé de 3,2 à 1,8 litre par kilo de linge et le tunnel 2 de 5,8 à 3,2 litres, et une autre évaluation, présentée par le CTTN, chiffre l'économie à environ 11 700 m³ par an. Elle répond aux appels d'offres des hôpitaux, par exemple pour la fourniture de produits lessiviels avec matériel de dosage à la blanchisserie du centre hospitalier de la Côte basque.",
+  "expertises": [
+    "Recyclage de l'eau des tunnels",
+    "Filtration des eaux de lavage",
+    "Produits lessiviels et dosage"
+  ],
+  "categories": [
+    "ameliorer_efficacite_hydrique"
+  ],
+  "secteurs": [
+    "hopitaux"
+  ],
+  "departements": [],
+  "mesures": [
+    {
+      "id": "ACT_HOP_005",
+      "roles": [
+        "materiel"
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "type": "site_internet",
+      "value": "https://fr-fr.ecolab.com/locations/ecolab-france-paris"
+    },
+    {
+      "type": "mail",
+      "value": "Textile.France@ecolab.com"
+    },
+    {
+      "type": "tel",
+      "value": "01 49 69 67 44"
+    },
+    {
+      "type": "adresse",
+      "value": "10 avenue Aristide Briand, 92220 Bagneux"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Ecolab&departement=92",
+      "date": "2026-10-15",
+      "extrait": "ECOLAB SNC, siren 381743335, siret 38174333500220, siège, 10 AVENUE ARISTIDE BRIAND 92220 BAGNEUX, activité 46.75Z, etat_administratif A"
+    },
+    {
+      "champ": "contacts, description, expertises",
+      "url": "https://www.boamp.fr/telechargements/FILES/PDF/2024/04/24-40342.pdf",
+      "date": "2026-10-15",
+      "extrait": "Avis d'attribution n° 24-40342, acheteur Centre hospitalier de la côte basque : La fourniture de produits lessiviels avec mise à disposition de matériel de dosage pour une blanchisserie hospitalière. Lauréat ECOLAB SNC, 38174333500220, 10 avenue aristide briand, Bagneux, Textile.France@ecolab.com, 0149696744"
+    },
+    {
+      "champ": "description",
+      "url": "https://www.ecolab.com/en-us/about/locations/ecolab-global-headquarters",
+      "date": "2026-10-15",
+      "extrait": "Ecolab Global Headquarters, 1 Ecolab Place, St. Paul, MN 55102-2233"
+    },
+    {
+      "champ": "description, expertises, mesures",
+      "url": "https://achat-logistique.info/logistique/blanchisseries-la-reutilisation-des-eaux-petit-eldorado/",
+      "date": "2026-10-15",
+      "extrait": "La blanchisserie du GCS Santalys, implantée à La Garde dans le Var : chute impressionnante depuis l'installation d'un système Water Optimizer Ultimate (WOU) d'Ecolab en avril 2024. Le dispositif filtre l'eau de lavage et la réinjecte dans le circuit. La consommation atteignait 3,2 litres par kilo entre janvier et mars pour le tunnel 1, elle a décru à 1,8 litre entre mai et décembre. Celle du second tunnel est passée de 5,8 à 3,2 litres dans le même temps."
+    },
+    {
+      "champ": "description, mesures",
+      "url": "https://achat-logistique.info/logistique/blanchisserie-wou-la-solution-qui-fait-gagner-des-sous/",
+      "date": "2026-10-15",
+      "extrait": "Le système WOU pour « Water optimizer ultimate » a permis de réduire de 44% la consommation d'eau. 11.700 m3 d'eau ont été économisés par an. Les résultats ont été présentés par le CTTN, Institut de recherche sur l'entretien et le nettoyage"
+    },
+    {
+      "champ": "expertises",
+      "url": "https://www.ecolab.com/offerings/aquamiser",
+      "date": "2026-10-15",
+      "extrait": "Designed specifically for tunnel washers. Filters solids and lint from the selected wastewater. Manages reuse water at both the front and back of the tunnel."
+    },
+    {
+      "champ": "contacts, description",
+      "url": "https://fr-fr.ecolab.com/locations/ecolab-france-paris",
+      "date": "2026-10-15",
+      "extrait": "Ecolab SNC, 10 Avenue Aristide Briand 92220 BAGNEUX, France. Ecolab est un leader mondial dans le domaine des solutions et services liés à l'eau, à l'hygiène et à la prévention des infections"
+    },
+    {
+      "champ": "departements, description, type",
+      "url": "https://fr-fr.ecolab.com/news/2026/06/choose-france-summit",
+      "date": "2026-10-15",
+      "extrait": "Présente en France depuis plus de 40 ans. L'entreprise dispose de 3 sites de fabrication, 2 de centres de R&D, et de 4 bureaux en France, emploie près de 2 000 collaborateurs au niveau national. Ecolab snc, 10 avenue Aristide Briand, 92 220 BAGNEUX. Choix éditorial pour departements vide (national) : implantation nationale déclarée et marchés hospitaliers attestés hors du siège (64 par l'avis BOAMP, 83 à Santalys), aucune page ne détaille une zone d'intervention."
+    },
+    {
+      "champ": "logo_url",
+      "url": "https://www.ecolab.com/favicon.ico",
+      "date": "2026-10-15",
+      "extrait": "Favicon du site ecolab.com, symbole étoile bleu, 256 x 256 px"
+    }
+  ],
+  "date_maj": "2026-10-15"
+}

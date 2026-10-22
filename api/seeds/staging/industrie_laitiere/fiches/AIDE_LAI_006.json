@@ -1,0 +1,79 @@
+{
+  "id": "AIDE_LAI_006",
+  "nom": "Aide aux économies d'eau et à la réutilisation des eaux non conventionnelles pour les entreprises (agence de l'eau Seine-Normandie, programme Eau, climat et biodiversité 2025-2030)",
+  "financeur": "Agence de l'eau Seine-Normandie",
+  "logo_url": null,
+  "type": "subvention",
+  "taux": "Taux d'aide au maximum autorisé par l'encadrement européen, pour les économies d'eau comme pour les projets de réutilisation des eaux usées traitées et des eaux non conventionnelles. L'agence ne publie pas de pourcentage sur sa page destinée aux entreprises.",
+  "plafond": null,
+  "description": "Volet économies d'eau du programme Eau, climat et biodiversité 2025-2030 de l'agence de l'eau Seine-Normandie, qui met l'accent sur les efforts de sobriété en eau pour contribuer à l'objectif de réduction de 10 % des prélèvements du bassin d'ici 2030. L'agence finance les études et les travaux permettant la réduction significative des prélèvements sur la ressource en eau ou l'amélioration significative du ratio de consommation d'eau par unité de production, ainsi que les études et travaux portant sur la modification des approvisionnements par une ressource de qualité moindre lorsque plusieurs acteurs sont concernés. Sur le volet réutilisation, elle finance les diagnostics, les études de faisabilité technico-économiques et les travaux de traitement, de stockage, de transfert et de distribution. Les eaux non conventionnelles retenues par l'agence incluent explicitement les eaux issues de la matière première, ce qui vise directement les condensats et perméats d'un site laitier.",
+  "eligibilite": "Entreprises et artisans du bassin Seine-Normandie. La réutilisation des eaux usées traitées doit constituer un moyen de substitution aux prélèvements dans le milieu naturel et être associée à des mesures visant à réduire la consommation d'eau : elle ne peut se concevoir que dans une démarche plus globale de sobriété.",
+  "categories": [
+    "ameliorer_efficacite_hydrique",
+    "valoriser_reut_eaux_non_conventionnelles",
+    "suivre_comprendre_maitriser"
+  ],
+  "secteurs": [
+    "industrie_laitiere"
+  ],
+  "departements": [],
+  "agences": [
+    "AESN"
+  ],
+  "mesures": [
+    "ACT_AGR_002",
+    "ACT_LAI_003",
+    "ACT_LAI_004",
+    "ACT_LAI_006"
+  ],
+  "infos_complementaires": [
+    {
+      "type": "avertissement",
+      "texte": "Un projet de réutilisation présenté seul a peu de chances d'aboutir : l'agence pose comme condition que le recours aux eaux non conventionnelles ou aux eaux usées traitées ne saurait constituer la seule réponse au changement climatique et ne peut se concevoir que dans une démarche plus globale de sobriété, associée à des mesures de réduction de la consommation."
+    },
+    {
+      "type": "avertissement",
+      "texte": "L'agence ne chiffre pas ses taux sur sa page entreprises : elle annonce le taux maximum autorisé par l'encadrement européen, qui dépend de la taille de l'entreprise et du régime d'aide d'État mobilisé. Le taux applicable à votre projet se confirme auprès de la direction territoriale avant tout montage financier."
+    },
+    {
+      "type": "info",
+      "texte": "L'agence applique une date limite annuelle de dépôt pour garantir l'instruction dans l'année. Pour l'instruction 2026, le dossier complet devait être déposé sur Démarche Numérique avant le 30 septembre. Vérifiez la date de l'année en cours avant de caler votre calendrier de travaux."
+    },
+    {
+      "type": "info",
+      "texte": "Le point d'entrée est la direction territoriale de l'agence pour votre secteur. Siège : 12 rue de l'Industrie, CS 80148, 92416 Courbevoie Cedex, téléphone 01 41 20 16 00."
+    },
+    {
+      "type": "ressource",
+      "texte": "Les aides financières destinées aux entreprises, programme Eau, climat et biodiversité 2025-2030",
+      "lien": "https://www.eau-seine-normandie.fr/entreprises/aides-financieres-du-programme-eau-climat-biodiversite"
+    },
+    {
+      "type": "ressource",
+      "texte": "Formulaires de demande d'aide 2025-2030 de l'agence de l'eau Seine-Normandie",
+      "lien": "https://www.eau-seine-normandie.fr/formulaires_aides"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "nom, description, taux, mesures",
+      "url": "https://www.eau-seine-normandie.fr/entreprises/aides-financieres-du-programme-eau-climat-biodiversite",
+      "date": "2026-09-22",
+      "extrait": "Le 12e programme Eau, climat & biodiversité de l'agence de l'eau met l'accent sur les efforts de sobriété en eau. L'agence de l'eau encourage donc les entreprises à s'engager dans des démarches volontaires de réduction de leur consommation d'eau et favorise la réutilisation des eaux non conventionnelles et des eaux usées traitées (REUT). L'agence de l'eau finance : les études et les travaux permettant la réduction significative des prélèvements sur la ressource en eau ou l'amélioration significative du ratio de consommation d'eau par unité de production ; les études et les travaux portant sur la modification des approvisionnements par une ressource de qualité moindre lorsque plusieurs acteurs sont concernés (collectivité, industriel tiers, agriculteur). Taux d'aide au maximum autorisé par l'encadrement européen"
+    },
+    {
+      "champ": "eligibilite, mesures (eaux issues de la matière première), infos_complementaires",
+      "url": "https://www.eau-seine-normandie.fr/entreprises/aides-financieres-du-programme-eau-climat-biodiversite",
+      "date": "2026-09-22",
+      "extrait": "Le recours aux eaux non conventionnelles ou aux eaux usées traitées ne saurait constituer la seule réponse au changement climatique et ne peut se concevoir que dans une démarche plus globale de sobriété. Les eaux non conventionnelles incluent les eaux qui n'ont pas fait l'objet d'un traitement comme les eaux issues de la matière première, les eaux de pluie issues des toitures non accessibles, les eaux pluviales issues d'un ruissellement, les eaux d'exhaures... La réutilisation des eaux usées traitées (REUT) issues des stations d'épuration urbaines et de stations d'épuration industrielles [...] doit constituer un moyen de substitution aux prélèvements dans le milieu naturel, et associé à des mesures visant à réduire la consommation d'eau. L'agence de l'eau finance les diagnostics, les études de faisabilité qui prennent en compte les aspects technico-économiques [...] ainsi que les travaux à savoir le traitement, le stockage, le transfert et la distribution"
+    },
+    {
+      "champ": "description (objectif du bassin), infos_complementaires (dépôt, contact)",
+      "url": "https://www.eau-seine-normandie.fr/entreprises/aides-financieres-du-programme-eau-climat-biodiversite",
+      "date": "2026-09-22",
+      "extrait": "L'objectif est de réduire globalement de 10 % les prélèvements d'eau d'ici 2030, sur le bassin tous les secteurs confondus [...] Pour avoir l'assurance d'une instruction en 2026, vous devez déposer vos dossiers complets de demande d'aide sur Démarche Numérique avant le 30 septembre. [...] Prenez contact avec la direction de l'agence de l'eau de votre territoire [...] 01 41 20 16 00 [...] 12 rue de l'Industrie CS 80148 92416 Courbevoie Cedex"
+    }
+  ],
+  "date_maj": "2026-09-22"
+}

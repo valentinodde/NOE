@@ -1,0 +1,112 @@
+{
+  "id": "PREST_HOP_008",
+  "nom": "Hemotech",
+  "type": "installateur",
+  "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792070065/Noe%20assets/logos/PREST_HOP_008.png",
+  "siret": "34821460200024",
+  "description": "Distributeur de produits pour l'hémodialyse basé à Ramonville-Saint-Agne, membre de Pollet Medical Group, dont le bureau d'études traitement d'eau a fêté son 100e projet de traitement d'eau pour dialyse. Il dimensionne, installe, met en service et maintient les systèmes de traitement d'eau des unités de dialyse, de l'autodialyse à la réhabilitation de CHU de plus de 40 postes, avec phasage et systèmes provisoires pendant les travaux, et forme les utilisateurs et les techniciens. Il ne fabrique pas les osmoseurs, produits en Allemagne par HERCO Wassertechnik et distribués en France par Hemotech, et l'offre s'établit après étude du site ou passe par la centrale d'achat UGAP.",
+  "expertises": [
+    "Dimensionnement du traitement d'eau de dialyse",
+    "Installation et mise en service d'osmoseurs",
+    "Maintenance et télésurveillance",
+    "Formation des utilisateurs et techniciens"
+  ],
+  "categories": [
+    "ameliorer_efficacite_hydrique"
+  ],
+  "secteurs": [
+    "hopitaux"
+  ],
+  "departements": [],
+  "mesures": [
+    {
+      "id": "ACT_HOP_004",
+      "roles": [
+        "conseil_etude",
+        "travaux",
+        "materiel",
+        "formation"
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "type": "site_internet",
+      "value": "https://hemotech.fr/"
+    },
+    {
+      "type": "tel",
+      "value": "05 61 75 27 27"
+    },
+    {
+      "type": "mail",
+      "value": "info@hemotech.fr"
+    },
+    {
+      "type": "adresse",
+      "value": "19 avenue de l'Europe, CS 62270, 31522 Ramonville-Saint-Agne Cedex"
+    },
+    {
+      "type": "linkedin",
+      "value": "https://fr.linkedin.com/company/hemotech"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Hemotech&departement=31",
+      "date": "2026-10-15",
+      "extrait": "HEMOTECH, SIRET 34821460200024, siège, CS 62270 19 AVENUE DE L'EUROPE 31520 RAMONVILLE-SAINT-AGNE, état administratif A"
+    },
+    {
+      "champ": "description, expertises, mesures",
+      "url": "https://hemotech.fr/bureau-detudes-traitement-deau/",
+      "date": "2026-10-15",
+      "extrait": "Elle intègre le dimensionnement de systèmes de traitement d'eau pour la dialyse, l'installation, la mise en service et la maintenance associée. [...] L'assurance d'une continuité de service avec des phasages et des systèmes provisoires pendant l'installation. [...] La formation et assistance aux utilisateurs."
+    },
+    {
+      "champ": "description, mesures",
+      "url": "https://hemotech.fr/bureau-detudes-traitement-deau/",
+      "date": "2026-10-15",
+      "extrait": "Nous intervenons sur des grandes structures : création de clinique, réhabilitation de CHU (plus de 40 postes de dialyse), comme sur des petites entités telles les autodialyses. [...] Formation utilisateurs & techniciens"
+    },
+    {
+      "champ": "description, type, mesures",
+      "url": "https://hemotech.fr/bureau-detudes-traitement-deau/",
+      "date": "2026-10-15",
+      "extrait": "Osmoseur. Dispositif médical destiné au traitement des eaux pour dialyse. [...] Fabriqué en Allemagne par HERCO Wassertechnik GmbH. Distribué en France par HEMOTECH SAS."
+    },
+    {
+      "champ": "description",
+      "url": "https://hemotech.fr/bureau-detudes-traitement-deau/",
+      "date": "2026-10-15",
+      "extrait": "une étude du site en amont de l'étude et anticipation des contraintes [...] Le référencement de nos systèmes de traitement d'eau par la centrale d'achat UGAP facilite les démarches des ingénieurs biomédicaux."
+    },
+    {
+      "champ": "description, departements",
+      "url": "https://hemotech.fr/le-100eme/",
+      "date": "2026-10-15",
+      "extrait": "Nous sommes fiers de fêter notre 100ème projet de traitement d'eau pour dialyse. [...] une offre complète dédiée à la dialyse, déployée sur toute la France métropolitaine et les DROM-COM."
+    },
+    {
+      "champ": "contacts",
+      "url": "https://hemotech.fr/bureau-detudes-traitement-deau/",
+      "date": "2026-10-15",
+      "extrait": "Hemotech Toulouse 19 avenue de l'Europe CS 62270 31522 Ramonville St Agne Cedex Tel : 05 61 75 27 27 [...] info@hemotech.fr"
+    },
+    {
+      "champ": "contacts",
+      "url": "https://hemotech.fr/",
+      "date": "2026-10-15",
+      "extrait": "Lien LinkedIn du site : https://fr.linkedin.com/company/hemotech"
+    },
+    {
+      "champ": "logo_url",
+      "url": "https://hemotech.fr/wp-content/uploads/2021/03/cropped-favicon-192x192.png",
+      "date": "2026-10-15",
+      "extrait": "Icône du site hemotech.fr (192 x 192 px)"
+    }
+  ],
+  "date_maj": "2026-10-15"
+}

@@ -1,0 +1,113 @@
+{
+  "id": "AIDE_HOP_003",
+  "nom": "Gestion et préservation de la ressource en eau (Région Sud)",
+  "financeur": "Région Provence-Alpes-Côte d'Azur (Région Sud)",
+  "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792070061/Noe%20assets/logos/AIDE_HOP_003.png",
+  "type": "subvention",
+  "taux": "Taux maximal de 30 %",
+  "plafond": null,
+  "description": "Subvention de la Région Sud aux actions de gestion durable et raisonnée de la ressource en eau, dont l'accompagnement des territoires vers la sobriété des prélèvements et des consommations. Parmi les actions soutenues figurent les audits de bâtiments publics pour définir des mesures de bonne gestion des consommations d'eau, et l'achat et l'installation de petits équipements hydro-économes dans les bâtiments publics. Le dispositif finance aussi des réseaux de suivi, des études de ressource et de pollution et des actions de valorisation et de sensibilisation sur leurs résultats.",
+  "eligibilite": "Structures publiques gestionnaires de milieu aquatique, collectivités et leurs groupements, départements, autres établissements publics, associations et organismes de recherche.",
+  "categories": [
+    "suivre_comprendre_maitriser",
+    "ameliorer_efficacite_hydrique"
+  ],
+  "secteurs": [
+    "hopitaux"
+  ],
+  "departements": [
+    "04",
+    "05",
+    "06",
+    "13",
+    "83",
+    "84"
+  ],
+  "agences": [],
+  "mesures": [
+    "ACT_AGR_002",
+    "ACT_HOP_003"
+  ],
+  "infos_complementaires": [
+    {
+      "type": "avertissement",
+      "texte": "La page de la Région ne cite ni les hôpitaux ni les cliniques. L'audit comme l'achat d'équipements hydro-économes ne sont éligibles que dans des bâtiments publics : un établissement privé, même associatif, n'est pas couvert par ces deux dépenses sur la foi de la page. Pour un établissement public, l'éligibilité est aussi à confirmer auprès de la Région avant de monter le dossier."
+    },
+    {
+      "type": "avertissement",
+      "texte": "La page parle de « petits équipements hydro-économes » sans en donner la liste : ni les brise-jets, ni les commandes au genou, au pied ou au coude, ni les chasses à double commande n'y sont nommés. Faites confirmer par la Région que les équipements retenus avec votre équipe d'hygiène entrent dans cette catégorie."
+    },
+    {
+      "type": "info",
+      "texte": "Les actions réalisées en régie ne sont pas éligibles, sauf pour les bénéficiaires autres que les collectivités territoriales et leurs groupements, dans la limite d'un plafond de dépenses de 400 € par jour."
+    },
+    {
+      "type": "info",
+      "texte": "La demande se fait en ligne depuis la page du dispositif (bouton « Je fais ma demande »), et son suivi sur la plateforme d'aides en ligne de la Région. Les conditions détaillées relèvent du cadre d'intervention régional « Gestion de la ressource en eau »."
+    },
+    {
+      "type": "ressource",
+      "texte": "Page du dispositif sur le site de la Région Sud",
+      "lien": "https://www.maregionsud.fr/vos-aides/detail/gestion-et-preservation-de-la-ressource-en-eau",
+      "lien_label": "Voir le dispositif"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "taux",
+      "url": "https://www.maregionsud.fr/vos-aides/detail/gestion-et-preservation-de-la-ressource-en-eau",
+      "date": "2026-10-15",
+      "extrait": "Quelle est la nature de l'aide ? Subvention à un taux maximal de 30%. (page mise à jour le 22 janvier 2026)"
+    },
+    {
+      "champ": "eligibilite",
+      "url": "https://www.maregionsud.fr/vos-aides/detail/gestion-et-preservation-de-la-ressource-en-eau",
+      "date": "2026-10-15",
+      "extrait": "Pour qui ? Structures publiques gestionnaires de milieu aquatique ; collectivités et leurs groupements ; départements ; autres établissements publics ; associations ; organismes de recherche."
+    },
+    {
+      "champ": "description",
+      "url": "https://www.maregionsud.fr/vos-aides/detail/gestion-et-preservation-de-la-ressource-en-eau",
+      "date": "2026-10-15",
+      "extrait": "Il s'agit d'accompagner la mise en œuvre d'actions en faveur de la gestion durable et raisonnée des ressources en eau à l'échelle des bassins versants [...] en accompagnant les territoires vers une sobriété de prélèvements et de consommations d'eau"
+    },
+    {
+      "champ": "mesures (ACT_AGR_002), categories",
+      "url": "https://www.maregionsud.fr/vos-aides/detail/gestion-et-preservation-de-la-ressource-en-eau",
+      "date": "2026-10-15",
+      "extrait": "audits de bâtiments publics pour la définition de mesures de bonne gestion des consommations d'eau"
+    },
+    {
+      "champ": "mesures (ACT_HOP_003), categories",
+      "url": "https://www.maregionsud.fr/vos-aides/detail/gestion-et-preservation-de-la-ressource-en-eau",
+      "date": "2026-10-15",
+      "extrait": "achat et installation de petits équipements hydro-économes dans les bâtiments publics"
+    },
+    {
+      "champ": "infos_complementaires (régie, démarche)",
+      "url": "https://www.maregionsud.fr/vos-aides/detail/gestion-et-preservation-de-la-ressource-en-eau",
+      "date": "2026-10-15",
+      "extrait": "Les actions réalisées en régie ne sont pas éligibles, sauf pour les bénéficiaires autres que les collectivités territoriales et leurs groupements, et dans la limite d'un montant plafond de dépenses de 400 €/jour. Pour les conditions d'éligibilité, se référer aux dispositifs."
+    },
+    {
+      "champ": "departements (Provence-Alpes-Côte d'Azur, région 93)",
+      "url": "https://geo.api.gouv.fr/regions/93/departements",
+      "date": "2026-10-15",
+      "extrait": "Alpes-de-Haute-Provence 04, Hautes-Alpes 05, Alpes-Maritimes 06, Bouches-du-Rhône 13, Var 83, Vaucluse 84 (codeRegion 93)"
+    },
+    {
+      "champ": "logo_url",
+      "url": "https://www.maregionsud.fr/typo3conf/ext/e_magineurs/region_sud/Resources/Public/Images/Logo.svg",
+      "date": "2026-10-15",
+      "extrait": "Logo de l'en-tête du site maregionsud.fr (le favicon du site ne fait que 16 px, pas d'icône carrée haute définition)"
+    },
+    {
+      "champ": "infos_complementaires (cadre d'intervention non consultable)",
+      "url": "https://aides-territoires.beta.gouv.fr/aides/gestion-et-preservation-de-la-ressource-en-eau-1/",
+      "date": "2026-10-15",
+      "extrait": "Les actions éligibles aux aides de la Région s'inscrivent dans le cadre d'intervention « Gestion de la ressource en eau » [...] Pour les conditions d'éligibilité, se référer aux dispositifs. (aucun lien vers le cadre d'intervention ; le PDF du cadre sur maregionsud.fr renvoie une erreur 404 le 2026-10-15)"
+    }
+  ],
+  "date_maj": "2026-10-15"
+}

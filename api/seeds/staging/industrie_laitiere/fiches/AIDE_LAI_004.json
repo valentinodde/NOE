@@ -1,0 +1,128 @@
+{
+  "id": "AIDE_LAI_004",
+  "nom": "Prêt Vert (Bpifrance)",
+  "financeur": "Bpifrance",
+  "logo_url": null,
+  "type": "pret",
+  "taux": "Prêt à taux fixe, avec des frais de dossier de 0,40 % du montant du prêt (ces deux conditions financières ne figurent que sur la page du catalogue de Bpifrance et sur le portail Mes Aides Publiques Infogreffe qui la reprend : faites-les confirmer par le chargé d'affaires avant tout plan de financement). Aucune garantie n'est prise sur les actifs de l'entreprise ni sur le patrimoine du dirigeant : seule une retenue de garantie de 5 % du montant du prêt est prélevée, restituée après complet remboursement et augmentée des intérêts qu'elle a produits. Une assurance décès et perte totale et irréversible d'autonomie sur la tête du dirigeant peut être requise.",
+  "plafond": "De 50 000 € à 5 000 000 €, sur une durée de 2 à 10 ans incluant un différé d'amortissement en capital de 2 ans maximum.",
+  "description": "Prêt de Bpifrance destiné à financer un plan d'actions de transition écologique et énergétique. Le dispositif nomme explicitement l'eau parmi les performances visées, dans la première des quatre puces qui définissent les dépenses soutenues : il finance les investissements qui visent à optimiser les procédés, ou à améliorer la performance en énergie, en eau et en matière, afin de mieux maîtriser ou de diminuer les impacts sur l'environnement, y compris les procédés d'économie circulaire. L'eau revient dans la puce consacrée à l'innovation, parmi les ressources dont la consommation doit baisser. Les deux autres volets portent sur la mobilité zéro carbone et sur l'intégration d'énergies renouvelables. Pour une entreprise laitière, ce prêt s'adresse aux investissements lourds de sobriété hydrique : fermeture des circuits de refroidissement et suppression des tours aéroréfrigérantes, concentration du lactosérum sur site, récupération et réutilisation des eaux issues du lait.",
+  "eligibilite": "Bpifrance décrit la cible comme les TPE, PME et ETI indépendantes de plus de 3 ans d'activité ; le portail d'État précise moins de 5 000 salariés, une implantation en France métropolitaine ou dans les territoires d'outre-mer, et l'inéligibilité des micro-entreprises. Tous les secteurs d'activité sont admis, à l'exception de l'intermédiation financière, de la promotion immobilière et du négoce de biens, des entreprises agricoles de la section NAF A01, et de celles de la section A02 dont le chiffre d'affaires est inférieur à 750 000 €, les codes NAF 02.20Z et 02.40Z des entreprises forestières restant éligibles. Les entreprises en difficulté au sens de la définition européenne sont exclues. Le prêt est obligatoirement associé à un concours bancaire du même montant.",
+  "categories": [
+    "ameliorer_efficacite_hydrique",
+    "changer_process_pratiques",
+    "valoriser_reut_eaux_non_conventionnelles"
+  ],
+  "secteurs": [],
+  "departements": [],
+  "agences": [],
+  "mesures": [
+    "ACT_LAI_004",
+    "ACT_LAI_005",
+    "ACT_LAI_006"
+  ],
+  "infos_complementaires": [
+    {
+      "type": "avertissement",
+      "texte": "Le Prêt Vert ne finance jamais seul un projet : il est obligatoirement associé à un partenariat financier, à raison de 1 pour 1, soit un concours bancaire du même montant. Sans accord préalable d'une banque sur la moitié du plan de financement, le dossier ne peut pas aboutir."
+    },
+    {
+      "type": "avertissement",
+      "texte": "Le taux fixe et les frais de dossier de 0,40 % ne sont publiés que sur la page du catalogue de Bpifrance, que certains outils de consultation automatique ne parviennent pas à ouvrir, et sur le portail Mes Aides Publiques Infogreffe qui la reprend. Le portail d'État Mission Transition écologique et la fiche des chambres de commerce confirment les montants, la durée, le différé et les garanties, mais pas ces deux éléments de coût. Demandez-les par écrit au chargé d'affaires avant d'arbitrer."
+    },
+    {
+      "type": "info",
+      "texte": "Contrairement aux dispositifs strictement orientés énergie et carbone, le Prêt Vert cite l'eau au même rang que l'énergie et la matière dans la définition même des dépenses soutenues. Un investissement dont le bénéfice principal est hydrique, comme la concentration du lactosérum ou la fermeture d'un circuit de refroidissement, entre donc dans le champ du dispositif au titre de l'optimisation des procédés."
+    },
+    {
+      "type": "info",
+      "texte": "Au-delà de 500 000 €, un site industriel peut regarder le Prêt Industrie Verte, ouvert aux TPE, PME et ETI indépendantes des secteurs de l'industrie (codes NAF 10 à 33, qui couvrent la fabrication de produits laitiers) et des services à l'industrie : de 500 000 € à 10 000 000 €, sur 8 à 12 ans avec un différé d'amortissement en capital de 2 ans maximum, à taux fixe bonifié selon le barème en vigueur, avec les mêmes dépenses éligibles en énergie, eau et matière. La page du catalogue de Bpifrance mentionne en outre une prise de sûreté réelle obligatoire, condition que la fiche régionale ne reprend pas : faites préciser ce point, car il distingue nettement ce prêt du Prêt Vert."
+    },
+    {
+      "type": "avertissement",
+      "texte": "Le Prêt Économies d'Énergies de Bpifrance n'est plus proposé : sa page au catalogue des offres affiche « Désolé, cette offre n'est plus disponible », constaté le 22 septembre 2026. Cette page fait partie de celles que certains outils de consultation automatique n'ouvrent pas, et aucune autre source consultée ne confirme la clôture : vérifiez auprès de Bpifrance avant de renoncer à ce dispositif. Ne pas confondre non plus avec le Prêt Vert ADEME, variante conditionnée à un Diag Eco-Flux, affichée comme close depuis le 16 juin 2024."
+    },
+    {
+      "type": "info",
+      "texte": "La démarche passe par une vérification automatique d'éligibilité à partir du SIRET sur le portail Mission Transition écologique, puis un formulaire d'expression d'intérêt adressé à Bpifrance, puis un rendez-vous de financement avec un chargé d'affaires qui instruit la demande."
+    },
+    {
+      "type": "ressource",
+      "texte": "Fiche du Prêt Vert sur le portail d'État Mission Transition écologique, avec le test d'éligibilité par SIRET",
+      "lien": "https://mission-transition-ecologique.beta.gouv.fr/aides-entreprise/pret-vert"
+    },
+    {
+      "type": "ressource",
+      "texte": "Fiche du Prêt Vert sur les-aides.fr, la base des chambres de commerce et d'industrie (montant, durée, garanties, dépenses éligibles)",
+      "lien": "https://les-aides.fr/aide/cmUv3w/bpifrance/pret-vert.html"
+    },
+    {
+      "type": "ressource",
+      "texte": "Page du Prêt Vert au catalogue des offres de Bpifrance",
+      "lien": "https://www.bpifrance.fr/catalogue-offres/pret-vert"
+    },
+    {
+      "type": "ressource",
+      "texte": "Fiche du Prêt Industrie Verte publiée par la Région Occitanie, avec les modalités et les coordonnées des chargés de coordination Climat de Bpifrance",
+      "lien": "https://www.laregion.fr/Pret-Industrie-Verte-Bpifrance"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "plafond, description, mesures (dépenses éligibles nommant l'eau), disponibilité du dispositif",
+      "url": "https://mission-transition-ecologique.beta.gouv.fr/aides-entreprise/pret-vert",
+      "date": "2026-09-22",
+      "extrait": "Montant du prêt : De 50 000 € à 5 000 000 €. Durée du prêt : de 2 à 10 ans, avec un différé d'amortissement en capital de 2 ans maximum. Date de fin de l'aide : Aide disponible. [...] En co-financement avec une banque privée, le prêt Vert soutient les projets visant à : optimiser les procédés, ou améliorer la performance (énergie, eau, matière,) afin de mieux maîtriser ou de diminuer les impacts sur l'environnement, en ce compris des procédés d'économie circulaire ; [...] innover pour mettre sur le marché des produits ou des services en matière de protection de l'environnement, d'économie circulaire et/ou permettant une réduction de la consommation de ressources, renouvelables ou non, (énergie, matières premières, eau, etc. [...])"
+    },
+    {
+      "champ": "eligibilite (taille, ancienneté, secteurs exclus, concours bancaire), infos_complementaires (démarche en trois étapes)",
+      "url": "https://mission-transition-ecologique.beta.gouv.fr/aides-entreprise/pret-vert",
+      "date": "2026-09-22",
+      "extrait": "Taille de l'entreprise : Moins de 5000 salariés. Non éligible aux micro-entreprises. Secteur géographique : France et territoires d'outre-mer. Nombre d'années d'activité : Au moins 3 ans d'activité. Secteur d'activité : Tous secteurs d'activité. Sont exclus : les activités d'intermédiation financière (NAF : section K64 sauf 64-2 pour les achats d'entreprises) ; les activités de promotion immobilière et marchand de biens (NAF : section L68-1, L68-2 et F41-1) ; les entreprises des secteurs agricoles identifiées par les code NAF section A01, et section A02 dont le chiffre d'affaires est inférieur à 750 000 €, à l'exception des codes NAF 02.20Z et 02.40Z (entreprises forestières). Autres critères d'éligibilité : Ce prêt est obligatoirement associé à un concours bancaire du même montant. Sont exclues les entreprises en difficulté au sens de la définition européenne. [...] Vérifiez automatiquement l'éligibilité de votre entreprise à l'aide de votre SIRET. [...] Exprimez votre intérêt pour ce prêt à Bpifrance grâce au formulaire ci-dessous. Obtenez un rendez-vous de financement auprès d'un chargé d'affaires Bpifrance."
+    },
+    {
+      "champ": "taux (partie garanties), plafond, eligibilite (TPE, PME, ETI indépendantes de plus de 3 ans), description, mesures. Page ouvrable, base des chambres de commerce et d'industrie, mise à jour le 12 mai 2026",
+      "url": "https://les-aides.fr/aide/cmUv3w/bpifrance/pret-vert.html",
+      "date": "2026-09-22",
+      "extrait": "Prêt Vert. Investissement − Transition écologique. BPIFRANCE. Mise à jour le 12 mai 2026. [...] Il s'adresse aux TPE, PME ou une ETI indépendantes de plus de 3 ans. [...] Le Prêt Vert finance la mise en œuvre d'un plan d'actions visant à : optimiser les procédés, ou améliorer la performance (énergie, eau, matière) afin de mieux maîtriser ou de diminuer les impacts sur l'environnement, [...] Le montant du prêt peut aller de 50 000 € à 5 M€. Obligatoirement associé à un partenariat financier, à raison de 1 pour 1. Aucune garantie sur les actifs de l'entreprise, ni sur le patrimoine du dirigeant. Seule une retenue de garantie de 5 % du montant du prêt est prélevée. Elle est restituée après complet remboursement du prêt, augmentée des intérêts qu'elle a produit. Une assurance décès/perte totale et irréversible d'autonomie sur la tête du dirigeant peut être requise. La durée du prêt est de 2 à 10 ans."
+    },
+    {
+      "champ": "taux (taux fixe et frais de dossier de 0,40 %, seule page ouvrable qui les publie, en reprise du catalogue de Bpifrance ; réserve signalée dans le champ taux et dans un avertissement). Portail Mes Aides Publiques Infogreffe, mise à jour du 07/09/2025",
+      "url": "https://mesaidespubliques.infogreffe.fr/aides/pret-vert",
+      "date": "2026-09-22",
+      "extrait": "Durée : De 2 à 10 ans. Conditions financières : Taux fixe. Frais de dossier : 0,40% du montant du prêt. Garanties : Aucune garantie sur les actifs de l'entreprise, ni sur le patrimoine du dirigeant. Seule une retenue de garantie de 5 % du montant du prêt est prélevée. Elle est restituée après complet remboursement du prêt, augmentée des intérêts qu'elle a produit. Une assurance décès/perte totale et irréversible d'autonomie sur la tête du dirigeant peut être requise. Partenariats financiers : Obligatoirement associé à un partenariat financier, à raison de 1 pour 1. [...] Date de mise à jour : 07/09/2025"
+    },
+    {
+      "champ": "taux, nom, financeur, description (source d'origine ; attention, www.bpifrance.fr répond 200 à verifier-url et à un navigateur, mais 403 aux récupérateurs de pages sans en-tête de navigateur : le taux fixe et les frais de dossier sont donc doublés sur mesaidespubliques.infogreffe.fr et assortis d'une réserve dans la fiche)",
+      "url": "https://www.bpifrance.fr/catalogue-offres/pret-vert",
+      "date": "2026-09-22",
+      "extrait": "Prêt Vert. Financer le développement d'un projet de transition écologique et énergétique. [...] Votre profil : TPE, PME ou une ETI indépendantes de plus de 3 ans. Modalités : Le Prêt Vert finance la mise en œuvre d'un plan d'actions visant à : optimiser les procédés, ou améliorer la performance (énergie, eau, matière) afin de mieux maîtriser ou de diminuer les impacts sur l'environnement ; [...] Montant : De 50 K€ à 5 000 K€. Durée : De 2 à 10 ans. Conditions financières : Taux fixe. Frais de dossier : 0,40% du montant du prêt. Garanties : Aucune garantie sur les actifs de l'entreprise, ni sur le patrimoine du dirigeant. [...] Partenariats financiers : Obligatoirement associé à un partenariat financier, à raison de 1 pour 1."
+    },
+    {
+      "champ": "infos_complementaires (Prêt Industrie Verte : montant, durée, différé, taux fixe bonifié, codes NAF 10 à 33). Page ouvrable, fiche de la Région Occitanie",
+      "url": "https://www.laregion.fr/Pret-Industrie-Verte-Bpifrance",
+      "date": "2026-09-22",
+      "extrait": "L'offre : Prêt de 500k€ à 10 000k€ permettant de financer les projets de Transition Ecologique et Energétique des PME et ETI industrielles. Le Prêt Industrie Verte finance les dépenses immatérielles, matérielles et le besoin en fonds de roulement généré par la mise en œuvre de plans d'actions visant à : Optimiser les procédés ou améliorer la performance (énergie, eau, matière) pour mieux maîtriser ou diminuer les impacts sur l'environnement, [...] Les modalités : Durée de l'accompagnement : 8 à 12 ans avec un différé d'amortissement en capital de 2 ans max. Public : TPE, PME, ETI indépendante des secteurs « Industrie » (Code NAF 10 à 33) et « Services à l'Industrie (Code NAF 49 à 52). Coût : Taux fixe bonifié selon le barème en vigueur."
+    },
+    {
+      "champ": "infos_complementaires (Prêt Industrie Verte : sûreté réelle obligatoire, condition non reprise par la fiche régionale, réserve signalée dans l'info ; www.bpifrance.fr répond 403 aux récupérateurs sans en-tête de navigateur)",
+      "url": "https://www.bpifrance.fr/catalogue-offres/pret-industrie-verte",
+      "date": "2026-09-22",
+      "extrait": "Prêt Industrie Verte. Prêt de 500 000 € à 10 000 000 € pour financer les projets de Transition Ecologique et Energétique des PME et ETI industrielles. [...] Durée : De 8 à 12 ans incluant un différé d'amortissement en capital de 24 mois maximum. [...] Garanties : Prise d'une sûreté réelle obligatoire. Retenue de garantie de 5% du montant total du prêt, restituée après complet remboursement du prêt et augmentée des intérêts produits."
+    },
+    {
+      "champ": "infos_complementaires (Prêt Économies d'Énergies clos ; seule source, page 403 pour les récupérateurs sans en-tête de navigateur, réserve signalée dans l'avertissement)",
+      "url": "https://www.bpifrance.fr/catalogue-offres/pret-economies-denergies",
+      "date": "2026-09-22",
+      "extrait": "Catalogue des offres / Transition Ecologique et Energétique / Prêt Économies d'Énergies. Désolé, cette offre n'est plus disponible. Consultez nos autres offres."
+    },
+    {
+      "champ": "infos_complementaires (Prêt Vert ADEME, homonyme clos, à ne pas confondre avec le dispositif de cette fiche)",
+      "url": "https://mission-transition-ecologique.beta.gouv.fr/aides-entreprise/pret-vert-ademe",
+      "date": "2026-09-22",
+      "extrait": "Prêt Vert - Ademe. Montant du prêt : De 10 000 € à 1 000 000 €. [...] Disponible jusqu'au 16/06/2024. [...] avoir bénéficié d'un Diag Eco-Flux ou d'une aide de l'ADEME depuis moins de 3 ans."
+    }
+  ],
+  "date_maj": "2026-09-22"
+}

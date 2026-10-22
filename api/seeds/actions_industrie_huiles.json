@@ -1,0 +1,411 @@
+[
+  {
+    "id": "ACT_HUI_001",
+    "titre": "Recycler l'eau de lavage des olives avec une douche finale à l'eau propre",
+    "titre_court": "Lavage des olives en boucle",
+    "description": "Faire tourner l'eau de la laveuse en circuit avec un renouvellement périodique, et terminer le lavage des olives par une douche à l'eau potable. Vous réduisez le premier prélèvement du moulin sans risque sanitaire, à condition de renouveler l'eau avant qu'elle ne concentre terre et résidus.",
+    "categorie": "ameliorer_efficacite_hydrique",
+    "secteurs": [
+      "industrie_huiles"
+    ],
+    "effort": {
+      "capex": "moyen",
+      "opex": "faible",
+      "humain": "faible"
+    },
+    "impact_eau": 2,
+    "facilite": 2,
+    "horizon": "court_terme",
+    "image": null,
+    "infos_complementaires": [
+      {
+        "type": "avertissement",
+        "texte": "L'eau utilisée pour la trituration et le nettoyage doit être potable, et une réutilisation intensive de l'eau de lavage peut concentrer les résidus de traitements phytosanitaires : le guide d'hygiène de la filière demande un renouvellement périodique et une douche finale à l'eau propre.",
+        "lien": "https://www.franceolive.fr/images/medias/2026/08/25/guide-des-bonnes-pratiques-hygiene-pour-elaboration-de-huile-olive-vierge-maj-2025.pdf",
+        "lien_label": "Guide des bonnes pratiques d'hygiène, France Olive"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "description",
+        "url": "https://www.franceolive.fr/images/medias/2026/08/25/guide-des-bonnes-pratiques-hygiene-pour-elaboration-de-huile-olive-vierge-maj-2025.pdf",
+        "date": "2025-01-01",
+        "extrait": "Réutilisation de l'eau de lavage possible avec renouvellement périodique et douche finale à l'eau propre ; eau potable pour la trituration et le nettoyage."
+      }
+    ],
+    "date_maj": "2026-09-27"
+  },
+  {
+    "id": "ACT_HUI_002",
+    "titre": "Passer le refroidissement des condenseurs en circuit fermé",
+    "titre_court": "Refroidissement en boucle",
+    "description": "Remplacer l'eau perdue des condenseurs (hexane, désodorisation, vide) et des buées de cuisson par une boucle fermée avec tour ou aéroréfrigérant. C'est le premier poste d'eau d'une usine de trituration ou d'un fondoir, et un circuit fermé rend le site bien moins dépendant du débit de la rivière en étiage.",
+    "categorie": "ameliorer_efficacite_hydrique",
+    "secteurs": [
+      "industrie_huiles"
+    ],
+    "effort": {
+      "capex": "important",
+      "opex": "faible",
+      "humain": "moyen"
+    },
+    "impact_eau": 3,
+    "facilite": 1,
+    "horizon": "moyen_terme",
+    "image": null,
+    "infos_complementaires": [
+      {
+        "type": "avertissement",
+        "texte": "La réfrigération en circuit ouvert est interdite aux installations 2240 soumises à enregistrement, et au-delà de 10 m3 par jour pour celles soumises à déclaration.",
+        "lien": "https://aida.ineris.fr/reglementation/arrete-240417-relatif-prescriptions-generales-applicables-installations-relevant",
+        "lien_label": "Arrêté du 24 avril 2017, AIDA"
+      },
+      {
+        "type": "retour_experience",
+        "texte": "À Dieppe, l'usine de trituration Saipol inscrit la baisse de son besoin en eau de refroidissement parmi ses mesures de réduction, pour un prélèvement projeté de 780 000 m3 par an contre 1 200 000 m3 autorisés.",
+        "lien": "https://www.normandie.developpement-durable.gouv.fr/IMG/pdf/a1482_20_119_saipol_dieppe_v3.1_note_de_presentation_non_technique.pdf",
+        "lien_label": "Dossier ICPE Saipol Dieppe, DREAL Normandie"
+      },
+      {
+        "type": "info",
+        "texte": "Une tour aéroréfrigérante relève de la rubrique ICPE 2921 et impose une surveillance des légionelles. Un aéroréfrigérant sec évite cette obligation mais perd en efficacité par forte chaleur.",
+        "lien": "https://aida.ineris.fr/inspection-icpe/air/prevention-legionnellose/tours-aerorefrigerantes",
+        "lien_label": "Tours aéroréfrigérantes, AIDA"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "infos_complementaires",
+        "url": "https://aida.ineris.fr/reglementation/arrete-240417-relatif-prescriptions-generales-applicables-installations-relevant",
+        "extrait": "Enregistrement 2240 : la réfrigération en circuit ouvert est interdite."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://aida.ineris.fr/reglementation/arrete-051216-relatif-prescriptions-applicables-a-certaines-installations-classees",
+        "extrait": "Déclaration : circuits de refroidissement ouverts interdits au-delà de 10 m3/j."
+      },
+      {
+        "champ": "description",
+        "url": "https://www.normandie.developpement-durable.gouv.fr/IMG/pdf/a1482_20_119_saipol_dieppe_v3.1_note_de_presentation_non_technique.pdf",
+        "date": "2020-01-01",
+        "extrait": "780 000 m3/an d'eau de refroidissement prélevée puis restituée à l'Arques, 1 200 000 m3 autorisés ; baisse du besoin en refroidissement parmi les mesures."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://aida.ineris.fr/inspection-icpe/air/prevention-legionnellose/tours-aerorefrigerantes",
+        "extrait": "Tours aéroréfrigérantes, rubrique 2921, prévention de la légionellose."
+      }
+    ],
+    "date_maj": "2026-09-27"
+  },
+  {
+    "id": "ACT_HUI_003",
+    "titre": "Passer au décanteur deux phases pour supprimer l'eau de dilution",
+    "titre_court": "Décanteur deux phases",
+    "description": "Remplacer le décanteur trois phases, qui dilue la pâte d'olive avec de l'eau ajoutée, par un décanteur deux phases qui sépare l'huile sans dilution. Vous supprimez l'eau de process et les margines séparées, au prix de grignons plus humides qu'il faut ensuite épandre ou composter.",
+    "categorie": "changer_process_pratiques",
+    "secteurs": [
+      "industrie_huiles"
+    ],
+    "effort": {
+      "capex": "important",
+      "opex": "faible",
+      "humain": "moyen"
+    },
+    "impact_eau": 3,
+    "facilite": 1,
+    "horizon": "moyen_terme",
+    "image": null,
+    "infos_complementaires": [
+      {
+        "type": "info",
+        "texte": "Un système continu trois phases peut produire jusqu'à 2 m3 de margines par tonne d'olives, contre 0,4 à 0,5 m3 en presse traditionnelle.",
+        "lien": "https://horizon.documentation.ird.fr/exl-doc/pleins_textes/doc34-01/34545.pdf",
+        "lien_label": "Hamdi, ORSTOM, 1991"
+      },
+      {
+        "type": "info",
+        "texte": "En 2012, 45 % des moulins de Provence-Alpes-Côte d'Azur travaillaient déjà en deux phases ou deux phases et demie. Les grignons sortent alors à 60 à 70 % d'humidité, contre 50 à 55 % en trois phases.",
+        "lien": "https://opera-connaissances.chambres-agriculture.fr/doc_num.php?explnum_id=207494",
+        "lien_label": "Chambre d'agriculture PACA, 2012"
+      },
+      {
+        "type": "avertissement",
+        "texte": "La charge polluante par tonne d'olives ne change pas : elle passe des margines aux grignons. Le passage en deux phases se prépare donc avec la filière d'épandage ou de compostage des grignons.",
+        "lien": "https://horizon.documentation.ird.fr/exl-doc/pleins_textes/doc34-01/34545.pdf",
+        "lien_label": "Hamdi, ORSTOM, 1991"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "infos_complementaires",
+        "url": "https://horizon.documentation.ird.fr/exl-doc/pleins_textes/doc34-01/34545.pdf",
+        "date": "1991-01-01",
+        "extrait": "0,4 à 0,5 m3 de margines par tonne en presse, jusqu'à 2 m3/t en système continu ; 45 à 55 kg DBO5 par tonne d'olives quel que soit le procédé."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://opera-connaissances.chambres-agriculture.fr/doc_num.php?explnum_id=207494",
+        "date": "2012-01-01",
+        "extrait": "45 % des moulins en deux phases ou deux phases et demie ; grignons à 60 à 70 % d'humidité contre 50 à 55 % en trois phases ; substantielles économies d'eau."
+      }
+    ],
+    "date_maj": "2026-09-27"
+  },
+  {
+    "id": "ACT_HUI_004",
+    "titre": "Nettoyer à sec avant de rincer et fixer des consignes de nettoyage",
+    "titre_court": "Nettoyage à sec d'abord",
+    "description": "Racler et récupérer les résidus d'huile et de pâte avant tout rinçage, puis rincer au jet haute pression ou à la mousse selon des consignes écrites pour chaque équipement. Vous réduisez à la fois l'eau de nettoyage et la charge grasse envoyée aux effluents, sans investissement lourd.",
+    "categorie": "changer_process_pratiques",
+    "secteurs": [
+      "industrie_huiles"
+    ],
+    "effort": {
+      "capex": "faible",
+      "opex": "faible",
+      "humain": "moyen"
+    },
+    "impact_eau": 2,
+    "facilite": 3,
+    "horizon": "immediat",
+    "image": null,
+    "infos_complementaires": [
+      {
+        "type": "info",
+        "texte": "Le nettoyage à sec préalable, le jet haute pression, la mousse et l'optimisation du nettoyage en place figurent parmi les meilleures techniques disponibles de l'agroalimentaire pour réduire la consommation d'eau.",
+        "lien": "https://www.legislation.gov.uk/eudn/2019/2031/annex",
+        "lien_label": "Conclusions MTD agroalimentaire, 2019"
+      },
+      {
+        "type": "info",
+        "texte": "Dans l'agroalimentaire breton, le nettoyage représente 43 % de l'eau utilisée contre 33 % pour le process, et jusqu'à 80 à 85 % dans certaines entreprises.",
+        "lien": "https://ariaaura.fr/des-solutions-pour-reduire-les-tensions-sur-leau-dans-lagroalimentaire/",
+        "lien_label": "ARIA Auvergne-Rhône-Alpes, 2024"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.legislation.gov.uk/eudn/2019/2031/annex",
+        "date": "2019-11-12",
+        "extrait": "MTD 7 : nettoyage à sec, haute pression, mousse, optimisation du nettoyage en place."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://ariaaura.fr/des-solutions-pour-reduire-les-tensions-sur-leau-dans-lagroalimentaire/",
+        "date": "2024-01-01",
+        "extrait": "Nettoyage 43 % de l'eau utilisée, process 33 %, jusqu'à 80 à 85 % dans certaines entreprises."
+      }
+    ],
+    "date_maj": "2026-09-27"
+  },
+  {
+    "id": "ACT_HUI_005",
+    "titre": "Réutiliser les eaux traitées et les condensats pour les usages sans contact",
+    "titre_court": "Eaux réutilisées",
+    "description": "Faire traiter vos eaux de procédé, vos condensats ou les eaux usées de la station voisine pour alimenter les usages sans contact avec l'huile : chaudière, refroidissement, lavage des sols et des camions. Vous remplacez de l'eau potable ou prélevée par une eau déjà disponible, levier adapté aux usines et aux fondoirs.",
+    "categorie": "valoriser_reut_eaux_non_conventionnelles",
+    "secteurs": [
+      "industrie_huiles"
+    ],
+    "effort": {
+      "capex": "moyen",
+      "opex": "moyen",
+      "humain": "moyen"
+    },
+    "impact_eau": 2,
+    "facilite": 2,
+    "horizon": "moyen_terme",
+    "image": null,
+    "infos_complementaires": [
+      {
+        "type": "avertissement",
+        "texte": "La réutilisation d'eaux dans une entreprise du secteur alimentaire est encadrée par le décret n° 2024-33 : l'usage visé, la qualité exigée et la procédure préfectorale se vérifient avant les travaux.",
+        "lien": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000049010414",
+        "lien_label": "Décret n° 2024-33, Légifrance"
+      },
+      {
+        "type": "retour_experience",
+        "texte": "À Sète, le programme de réutilisation de l'agglomération doit substituer jusqu'à 350 000 m3 d'eau potable par an aux besoins de l'usine Saipol.",
+        "lien": "https://www.agglopole.fr/reutiliser-leau-pour-preserver-lavenir/",
+        "lien_label": "Sète agglopôle méditerranée"
+      },
+      {
+        "type": "retour_experience",
+        "texte": "À Dieppe, Saipol a mené des essais de recyclage de 39 000 m3 par an d'eau de lavage des tourteaux.",
+        "lien": "https://www.normandie.developpement-durable.gouv.fr/IMG/pdf/a1482_20_119_saipol_dieppe_v3.1_note_de_presentation_non_technique.pdf",
+        "lien_label": "Dossier ICPE Saipol Dieppe, DREAL Normandie"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000049010414",
+        "date": "2024-01-24",
+        "extrait": "Décret relatif aux eaux réutilisées dans les entreprises du secteur alimentaire."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.agglopole.fr/reutiliser-leau-pour-preserver-lavenir/",
+        "extrait": "Jusqu'à 350 000 m3/an d'eau potable substitués pour l'usine Saipol."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.normandie.developpement-durable.gouv.fr/IMG/pdf/a1482_20_119_saipol_dieppe_v3.1_note_de_presentation_non_technique.pdf",
+        "date": "2020-01-01",
+        "extrait": "Essais de recyclage de 39 000 m3/an d'eau de lavage des tourteaux."
+      },
+      {
+        "champ": "description",
+        "url": "https://www.senat.fr/rap/r00-321-1/r00-321-16.html",
+        "date": "2001-01-01",
+        "extrait": "Au fondoir, la vapeur de cuisson est recyclée pour alimenter les sécheurs."
+      }
+    ],
+    "date_maj": "2026-09-27"
+  },
+  {
+    "id": "ACT_HUI_006",
+    "titre": "Organiser une filière encadrée pour les margines et les grignons",
+    "titre_court": "Filière margines et grignons",
+    "description": "Établir un plan d'épandage des margines et des grignons avec des agriculteurs voisins, ou les confier à une plateforme de co-compostage avec des déchets verts. Vous sécurisez l'évacuation de l'effluent le plus chargé du moulin, sans rejet au réseau ni au milieu, et vous restez en règle dès 200 kg d'olives par jour.",
+    "categorie": "agir_rejets_qualite",
+    "secteurs": [
+      "industrie_huiles"
+    ],
+    "effort": {
+      "capex": "faible",
+      "opex": "moyen",
+      "humain": "moyen"
+    },
+    "impact_eau": 2,
+    "facilite": 2,
+    "horizon": "court_terme",
+    "image": null,
+    "infos_complementaires": [
+      {
+        "type": "avertissement",
+        "texte": "Au-delà de 200 kg d'olives par jour, le moulin est une installation classée et doit disposer d'un plan d'épandage de ses margines et grignons, avec étude préalable et cahier d'épandage.",
+        "lien": "https://aida.ineris.fr/reglementation/arrete-051216-relatif-prescriptions-applicables-a-certaines-installations-classees",
+        "lien_label": "Arrêté du 5 décembre 2016, AIDA"
+      },
+      {
+        "type": "info",
+        "texte": "Les margines portent 45 à 55 kg de DBO5 par tonne d'olives traitées et peuvent dépasser 100 g/L de DCO, soit plusieurs centaines de fois une eau usée domestique.",
+        "lien": "https://horizon.documentation.ird.fr/exl-doc/pleins_textes/doc34-01/34545.pdf",
+        "lien_label": "Hamdi, ORSTOM, 1991"
+      },
+      {
+        "type": "info",
+        "texte": "Co-compostés avec des déchets verts (environ 3 volumes pour 1 de grignons deux phases, 7 pour 1 de margines), grignons et margines donnent un compost conforme à la norme NF U 44-051, utilisable sans plan d'épandage.",
+        "lien": "https://opera-connaissances.chambres-agriculture.fr/doc_num.php?explnum_id=207494",
+        "lien_label": "Chambre d'agriculture PACA, 2012"
+      },
+      {
+        "type": "ressource",
+        "texte": "Mémento du moulinier, service effluents de France Olive",
+        "lien": "https://www.franceolive.fr/images/medias/2026/06/11/memento-du-moulinier-de-france-olive-2026.pdf",
+        "lien_label": "France Olive, 2026"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "infos_complementaires",
+        "url": "https://opera-connaissances.chambres-agriculture.fr/doc_num.php?explnum_id=207494",
+        "date": "2012-01-01",
+        "extrait": "Plan d'épandage exigé au-delà de 200 kg d'olives par jour ; co-compostage conforme NF U 44-051 ; ratios 3 pour 1 et 7 pour 1."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://aida.ineris.fr/reglementation/arrete-051216-relatif-prescriptions-applicables-a-certaines-installations-classees",
+        "extrait": "Annexe I, point 5.8 : étude préalable, plan et cahier d'épandage."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://horizon.documentation.ird.fr/exl-doc/pleins_textes/doc34-01/34545.pdf",
+        "date": "1991-01-01",
+        "extrait": "45 à 55 kg de DBO5 par tonne d'olives ; DCO des margines pouvant dépasser 100 g/L."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.franceolive.fr/images/medias/2026/06/11/memento-du-moulinier-de-france-olive-2026.pdf",
+        "date": "2026-01-01",
+        "extrait": "Service effluents, analyses de grignons et margines, guide d'élimination des sous-produits."
+      }
+    ],
+    "date_maj": "2026-09-27"
+  },
+  {
+    "id": "ACT_HUI_007",
+    "titre": "Séparer, prétraiter et confiner les effluents gras et acides du site",
+    "titre_court": "Effluents gras prétraités",
+    "description": "Séparer à la source les eaux huileuses, les eaux acides de neutralisation et les condensats chargés, les prétraiter avant rejet, et équiper le site de rétentions et d'obturateurs de réseau. Vous tenez les valeurs limites de rejet, réduisez la redevance pollution et évitez qu'une fuite d'huile ou d'hexane n'atteigne le milieu.",
+    "categorie": "agir_rejets_qualite",
+    "secteurs": [
+      "industrie_huiles"
+    ],
+    "effort": {
+      "capex": "important",
+      "opex": "moyen",
+      "humain": "moyen"
+    },
+    "impact_eau": 2,
+    "facilite": 1,
+    "horizon": "moyen_terme",
+    "image": null,
+    "infos_complementaires": [
+      {
+        "type": "avertissement",
+        "texte": "Une installation 2240 soumise à enregistrement ne peut rejeter plus de 10 mg/L d'hydrocarbures totaux.",
+        "lien": "https://aida.ineris.fr/reglementation/arrete-240417-relatif-prescriptions-generales-applicables-installations-relevant",
+        "lien_label": "Arrêté du 24 avril 2017, AIDA"
+      },
+      {
+        "type": "retour_experience",
+        "texte": "À Dieppe, la station d'épuration de Saipol avec méthanisation élimine plus de 98 % de la DCO et rejette 125 mg/L.",
+        "lien": "https://www.normandie.developpement-durable.gouv.fr/IMG/pdf/a1482_20_119_saipol_dieppe_v3.1_note_de_presentation_non_technique.pdf",
+        "lien_label": "Dossier ICPE Saipol Dieppe, DREAL Normandie"
+      },
+      {
+        "type": "retour_experience",
+        "texte": "Le retour d'expérience des accidents recense 25 000 L d'huile d'olive partis au pluvial puis dans un canal (1992) et 60 m3 d'hexane envoyés vers une station d'épuration (2014).",
+        "lien": "https://www.aria.developpement-durable.gouv.fr/wp-content/uploads/2018/11/La-fabrication-des-huiles-v%C3%A9g%C3%A9tales-VP-Vpublicfinale-2.pdf",
+        "lien_label": "BARPI, 2018"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "infos_complementaires",
+        "url": "https://aida.ineris.fr/reglementation/arrete-240417-relatif-prescriptions-generales-applicables-installations-relevant",
+        "extrait": "Hydrocarbures totaux rejetés limités à 10 mg/L."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.normandie.developpement-durable.gouv.fr/IMG/pdf/a1482_20_119_saipol_dieppe_v3.1_note_de_presentation_non_technique.pdf",
+        "date": "2020-01-01",
+        "extrait": "Station avec méthanisation, plus de 98 % de la DCO épurée, rejet à 125 mg/L."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.aria.developpement-durable.gouv.fr/wp-content/uploads/2018/11/La-fabrication-des-huiles-v%C3%A9g%C3%A9tales-VP-Vpublicfinale-2.pdf",
+        "date": "2018-11-01",
+        "extrait": "25 000 L d'huile d'olive vers le pluvial à Maussane-les-Alpilles (1992), 60 m3 d'hexane vers la station à Sète (2014)."
+      },
+      {
+        "champ": "description",
+        "url": "https://www.legislation.gov.uk/eudn/2019/2031/annex",
+        "date": "2019-11-12",
+        "extrait": "MTD 32 : séparation gravitaire eau et hexane puis distillation de la phase aqueuse."
+      }
+    ],
+    "date_maj": "2026-09-27"
+  }
+]

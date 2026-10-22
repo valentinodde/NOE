@@ -1,0 +1,76 @@
+{
+  "id": "PREST_HOT_001",
+  "nom": "EcoTechniques",
+  "type": "equipementier",
+  "logo_url": null,
+  "siret": "40767775600048",
+  "description": "Entreprise de Longvic (Côte-d'Or) spécialisée depuis 1996 dans l'économie d'eau, qui conçoit et fabrique en France des régulateurs de débit, douchettes et autres économiseurs, et cite des hôtels parmi ses références (hôtels B&B, Accor, Hôtel Clarine, Hôtel Daunou). Elle réalise un audit sur site qui inventorie tous les points d'eau et mesure débits et pressions, fait poser les dispositifs par ses propres techniciens puis suit les consommations pour vérifier les économies. L'audit initial est gratuit et sans engagement, et l'entreprise s'engage par écrit sur le niveau d'économies quand l'installation lui est confiée.",
+  "expertises": [
+    "Audit d'économie d'eau",
+    "Régulateurs et douchettes économes",
+    "Pose de dispositifs hydro-économes",
+    "Suivi des consommations après pose"
+  ],
+  "categories": [
+    "ameliorer_efficacite_hydrique",
+    "suivre_comprendre_maitriser"
+  ],
+  "secteurs": ["hotellerie"],
+  "departements": [],
+  "mesures": [
+    { "id": "ACT_HOT_001", "roles": ["conseil_etude", "travaux", "materiel"] },
+    { "id": "ACT_AGR_002", "roles": ["conseil_etude"] }
+  ],
+  "contacts": [
+    { "type": "site_internet", "value": "https://eco-techniques.fr/" },
+    { "type": "tel", "value": "03 80 52 99 75" },
+    { "type": "mail", "value": "contact@eco-techniques.fr" },
+    { "type": "adresse", "value": "7 Bis Boulevard Eiffel, 21600 Longvic" }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse, type",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=ECO%20TECHNIQUES&departement=21",
+      "date": "2026-09-24",
+      "extrait": "ECO-TECHNIQUES, siret 40767775600048, siège, 7 B BOULEVARD EIFFEL 21600 LONGVIC, activité 28.14Z, état administratif A"
+    },
+    {
+      "champ": "contacts",
+      "url": "https://eco-techniques.fr/contact/",
+      "date": "2026-09-24",
+      "extrait": "7 Bis Boulevard Eiffel, 21600 Longvic. 03 80 52 99 75. contact@eco-techniques.fr"
+    },
+    {
+      "champ": "description, secteurs",
+      "url": "https://eco-techniques.fr/references/",
+      "date": "2026-09-24",
+      "extrait": "Hôtellerie & tourisme : Hôtels B&B, Hôtel Méridien Caraïbes, Hôtel Ambassador (75), Hôtel Clarine (21), Hôtel Daunou (75), CroisiEurope"
+    },
+    {
+      "champ": "description, secteurs",
+      "url": "https://eco-techniques.fr/a-propos/",
+      "date": "2026-09-24",
+      "extrait": "Depuis 1996 [...] Hôtellerie & tourisme : Accor, B&B, Méridien Caraïbes, CroisiEurope. Nos dispositifs français à 98% sont certifiés et garantis 10 ans"
+    },
+    {
+      "champ": "description, expertises, departements, mesures (ACT_AGR_002, ACT_HOT_001 conseil_etude), type",
+      "url": "https://eco-techniques.fr/audit-diagnostic-deconomie-deau/",
+      "date": "2026-09-24",
+      "extrait": "réalise des audits gratuits pour collectivités et entreprises en Bourgogne-Franche-Comté et partout en France [...] inventorier 100 % des points d'eau (robinets, douches, sanitaires…). Débits, pressions et usages sont mesurés [...] rapport clair et chiffré [...] L'audit initial est 100 % gratuit et sans engagement. [...] nous nous engageons par écrit sur le niveau d'économies d'eau prévu dans le diagnostic [...] conçus et fabriqués en France"
+    },
+    {
+      "champ": "expertises, mesures (ACT_HOT_001 materiel)",
+      "url": "https://eco-techniques.fr/dispositifs-hydro-economes/",
+      "date": "2026-09-24",
+      "extrait": "conçoit depuis plus de 25 ans des régulateurs, douchettes et aérateurs fiables, 98 % français [...] Nous proposons aussi des solutions comme les limiteurs de chasse d'eau ou les mousseurs adaptés aux faibles pressions."
+    },
+    {
+      "champ": "expertises, mesures (ACT_HOT_001 travaux), description",
+      "url": "https://eco-techniques.fr/installation-suivi/",
+      "date": "2026-09-24",
+      "extrait": "L'installation est réalisée directement par l'équipe EcoTechniques. Aucun sous-traitant [...] Habitués à équiper tous types de bâtiments [...] publics, hôtels, campings, industries [...] Relevés réguliers des compteurs, comparaison avant/après"
+    }
+  ],
+  "date_maj": "2026-09-24"
+}

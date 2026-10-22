@@ -1,0 +1,92 @@
+{
+  "id": "PREST_LAI_004",
+  "nom": "Institut de l'Élevage (Idele)",
+  "type": "organisme_technique",
+  "logo_url": null,
+  "siret": "30298415800022",
+  "description": "Institut technique des filières d'élevage d'herbivores, qualifié comme tel par le ministère chargé de l'agriculture et membre du réseau ACTA. Il anime depuis 1994 le réseau des techniciens Produits laitiers fermiers, près de 300 personnes dont une vingtaine de spécialistes de la transformation fromagère fermière, et bâtit à partir de leurs remontées des programmes d'étude qui portent notamment sur la gestion des effluents ; il est à ce titre co-auteur, avec la Chambre d'agriculture du Jura, du dossier « Effluents de fromagerie fermière » (16/01/2013) et de l'ouvrage du même nom (28/10/2004), qui comparent les voies de valorisation du lactosérum et les filières de traitement réalisables à l'échelle d'une exploitation. Sur ce sujet son apport est documentaire et gratuit, et non opérationnel : aucune source consultée ne décrit d'étude, de conseil ni d'appui technique qu'un atelier de transformation pourrait lui commander sur les effluents ou le lactosérum, l'accompagnement des producteurs étant assuré par les techniciens du réseau, qui appartiennent à d'autres structures. Son catalogue de près de 200 formations vise les responsables et techniciens des organismes de l'amont et de l'aval des filières d'élevage, un seul module étant ouvert aux industries agroalimentaires (conception hygiénique, nettoyage et désinfection) et sans session programmée à ce jour.",
+  "expertises": [
+    "Effluents de fromagerie fermière",
+    "Valorisation du lactosérum",
+    "Réseau technique Produits laitiers fermiers",
+    "Formations filières lait et élevage"
+  ],
+  "categories": [
+    "agir_rejets_qualite"
+  ],
+  "secteurs": [
+    "industrie_laitiere"
+  ],
+  "departements": [],
+  "mesures": [],
+  "infos_complementaires": [
+    {
+      "type": "ressource",
+      "texte": "Dossier « Effluents de fromagerie fermière », publié le 16/01/2013 : caractérisation des effluents, point réglementaire, valorisation du lactosérum et filières de traitement des effluents en mélange dimensionnées pour un atelier fermier (alimentation animale, épuration par le sol, procédés autonomes).",
+      "lien": "https://idele.fr/detail-dossier/dossier-effluents-de-fromagerie-fermiere",
+      "lien_label": "Dossier Effluents de fromagerie fermière (Idele)"
+    },
+    {
+      "type": "avertissement",
+      "texte": "Ces publications datent de 2013 et de 2004 et traitent de l'échelle fermière : leur point sur la réglementation en vigueur est à revérifier, et les filières décrites ne sont pas transposables à un site industriel, la source précisant elle-même que les solutions industrielles ne conviennent pas aux ateliers fermiers et inversement."
+    }
+  ],
+  "contacts": [
+    { "type": "site_internet", "value": "https://idele.fr" },
+    { "type": "site_internet", "value": "https://formations.idele.fr" },
+    { "type": "mail", "value": "idele.webmestre@idele.fr" },
+    { "type": "adresse", "value": "Maison Nationale des Éleveurs, 149 rue de Bercy, 75595 Paris Cedex 12" }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "type, description, departements",
+      "url": "https://idele.fr/qui-sommes-nous/idele-institut-de-lelevage",
+      "date": "2026-09-22",
+      "extrait": "Un Institut de recherche appliquée indépendant, reconnu et soutenu par les pouvoirs publics, membre du réseau ACTA. [...] Cette charte, qui s'intègre dans notre qualification d'Institut technique attribuée par le ministère en charge de l'Agriculture [...] Nous sommes localisés sur l'ensemble des territoires d'élevage"
+    },
+    {
+      "champ": "siret, contacts",
+      "url": "https://idele.fr/mentions-legales",
+      "date": "2026-09-22",
+      "extrait": "Institut de l'Elevage (idele) SIRET 30298415800022 [...] Siège social : Maison Nationale des Eleveurs 149 rue de Bercy 75595 PARIS CEDEX 12 [...] Email: idele.webmestre(at)idele.fr"
+    },
+    {
+      "champ": "siret",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Institut%20de%20l%27Elevage",
+      "date": "2026-09-22",
+      "extrait": "INSTITUT DE L'ELEVAGE, siren 302984158, siret du siège 30298415800022, 149 RUE DE BERCY 75012 PARIS, 30 établissements ouverts"
+    },
+    {
+      "champ": "description, expertises, infos_complementaires",
+      "url": "https://idele.fr/detail-dossier/dossier-effluents-de-fromagerie-fermiere",
+      "date": "2026-09-22",
+      "extrait": "Dossier : Effluents de fromagerie fermière. Publié le 16/01/2013 par Jacques Capdeville (Institut de l'Elevage), Yves Lefrileux, Cécile Laithier (Institut de l'Elevage), Jean-Luc Ménard, Jean-Yves Blanchin, Aurore Charpiot (C.A. Jura (39)). La fabrication fromagère génère des effluents chargés en matière organique, composés du lactosérum et des eaux de lavage. [...] Les solutions techniques pour gérer ces produits à l'échelle industrielle ne sont pas adaptées à la taille des ateliers fermiers. C'est l'objet de ce dossier qui, au-delà de la caractérisation des effluents et d'un point sur la réglementation en vigueur, vise à inventorier et analyser les possibilités de valorisation du lactosérum et de traitement des effluents en mélange."
+    },
+    {
+      "champ": "description, infos_complementaires",
+      "url": "https://idele.fr/detail-ouvrage/les-effluents-de-fromagerie-fermiere",
+      "date": "2026-09-22",
+      "extrait": "Les effluents de fromagerie fermière. Publié le 28/10/2004. Ce document décrit, analyse et compare, d'un point de vue technique et économique, les différentes filières de traitement et gestion qui peuvent être mises en place à l'échelle d'une exploitation agricole. On aborde successivement : la valorisation en alimentation animale ; les procédés d'épuration par le sol [...] ; les procédés autonomes : procédés Le Pradel, station d'épuration SBR, filtres biologiques avec compost"
+    },
+    {
+      "champ": "description, expertises",
+      "url": "https://idele.fr/detail-article/le-reseau-technique-des-produits-laitiers-fermiers",
+      "date": "2026-09-22",
+      "extrait": "Publié le 06/06/2023. Animé depuis 1994 par l'Institut de l'Élevage, le réseau des techniciens « Produits Laitiers Fermiers » [...] Incluant près de 300 personnes [...] les centres techniques fromagers fermiers et d'une vingtaine de techniciens spécialisés en transformation fromagère fermière [...] C'est par la remontée, à travers le réseau, des besoins de terrain en matière de références que des programmes d'études et de R&D sont bâtis [...] tels que la qualité des produits laitiers fermiers, l'organisation du travail en atelier de transformation, l'économie des exploitations, la gestion des effluents"
+    },
+    {
+      "champ": "description, expertises, contacts",
+      "url": "https://formations.idele.fr",
+      "date": "2026-09-22",
+      "extrait": "L'Institut de l'Elevage - Idele vous propose près de 200 formations sur tous les thèmes de l'élevage des bovins, ovins et caprins. Destinées aux responsables et techniciens des organismes de l'amont et de l'aval des filières d'élevage"
+    },
+    {
+      "champ": "description",
+      "url": "https://formations.idele.fr/formation/244/conception-hygienique-des-equipements-et-installations-pour-les-iaa",
+      "date": "2026-09-22",
+      "extrait": "Public : Industries agro-alimentaires (responsable qualité, responsable de production, travaux neufs, responsable maintenance), fabricants de machines [...] Principes et techniques de nettoyage et désinfection appliqué aux : surfaces ouvertes/fermées, sèches/humides [...] Cette formation n'est pas programmée pour le moment. Si vous êtes responsable formation, vous pouvez faire une requête pour l'organiser en INTRA dans votre entreprise."
+    }
+  ],
+  "date_maj": "2026-09-22"
+}

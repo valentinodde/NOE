@@ -1,0 +1,101 @@
+{
+  "id": "PREST_VIA_013",
+  "nom": "Energiency by EPSA (EPSA ENERGY)",
+  "type": "bureau_etudes",
+  "logo_url": null,
+  "siret": "79263909800062",
+  "description": "Éditeur de logiciel fondé à Rennes en 2013 et intégré au groupe EPSA, Energiency propose aux sites industriels un logiciel d'analyse de l'énergie, du CO2 et de l'eau qui exploite les données de comptage déjà présentes dans l'usine, et accompagne ses clients par des coachs Energy Managers qui configurent l'application. Ses cas clients décrivent pour l'énergie des indicateurs de performance par atelier et un calcul par kilo de produit fini ; la plateforme suit aussi l'eau, par exemple chez Brient (groupe Agrial), où les consommations d'électricité, de gaz et d'eau des sites de Mordelles et Antrain sont gérées au quotidien, et Arnaud Legrand, alors CEO d'Energiency, a présenté ces outils de comptage en temps réel à la journée technique IFIP de 2022 sur l'eau et l'énergie en abattage, découpe et transformation de viande. L'offre se décline en trois formules : le logiciel en autonomie, le logiciel avec des coachs, ou le logiciel avec coachs et intelligence artificielle.",
+  "expertises": [
+    "Suivi temps réel énergie et eau",
+    "Indicateurs de performance par atelier",
+    "Coaching Energy Manager",
+    "Détection d'anomalies de consommation"
+  ],
+  "categories": [
+    "suivre_comprendre_maitriser"
+  ],
+  "secteurs": [
+    "industrie_viande"
+  ],
+  "departements": [],
+  "mesures": [
+    {
+      "id": "ACT_VIA_002",
+      "roles": [
+        "conseil_etude"
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "type": "site_internet",
+      "value": "https://www.energiency.com/fr/"
+    },
+    {
+      "type": "tel",
+      "value": "+33 9 67 59 89 54"
+    },
+    {
+      "type": "adresse",
+      "value": "22 avenue Jules Maniez, 35000 Rennes"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse, description (édition de logiciel)",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Energiency&departement=35",
+      "date": "2026-09-24",
+      "extrait": "EPSA ENERGY, siren 792639098, siret 79263909800062, siège, 22 AVENUE JULES MANIEZ 35000 RENNES, activité 58.29C, état administratif A"
+    },
+    {
+      "champ": "contacts (adresse)",
+      "url": "https://infos.energiency.com/fr/contact",
+      "date": "2026-09-24",
+      "extrait": "France - Siège social : 22 avenue Jules Maniez, 35000 Rennes [...] 62 rue de Bonnel, 69003 Lyon [...] 65 rue d'Anjou, 75008 Paris"
+    },
+    {
+      "champ": "nom, description (création, groupe EPSA), contacts (tel)",
+      "url": "https://www.energiency.com/fr/societe/",
+      "date": "2026-09-24",
+      "extrait": "Fondation d'Energiency à Rennes par 2 ingénieurs Arnaud Legrand et Thierry D'allancé [...] Le groupe EPSA investit dans Energiency [...] Energiency évolue et devient Energiency by EPSA [...] +33967598954"
+    },
+    {
+      "champ": "description (groupe EPSA)",
+      "url": "https://www.energiency.com/fr/presse/energiency-pionnier-de-lia-pour-lanalyse-de-lenergie-dans-lindustrie-rejoint-le-groupe-epsa/",
+      "date": "2026-09-24",
+      "extrait": "6 Mars, 2025, 10:00 CET [...] Energiency [...] rejoint le groupe EPSA [...] cette acquisition marque une nouvelle étape pour EPSA"
+    },
+    {
+      "champ": "description (logiciel, coachs, formules, eau, données existantes), expertises, mesures (ACT_VIA_002 : conseil_etude)",
+      "url": "https://www.energiency.com/fr/offre-efficacite-energetique-industrie/",
+      "date": "2026-09-24",
+      "extrait": "Pilotez votre performance énergétique en temps réel dans notre logiciel [...] Accédez à l'analyse de l'énergie, du CO2 et de l'eau en toute autonomie [...] Approfondissez l'analyse de l'énergie, du CO2 et de l'eau avec nos coachs [...] Accélérez l'analyse de l'énergie, du CO2 et de l'eau grâce à nos coachs et à l'IA [...] Nos coachs Energy Managers configurent l'application [...] Dois-je ajouter des compteurs sur mon site industriel pour tirer toute la valeur de votre offre ? Non, nous sommes habitués à valoriser les données déjà existantes et exploitables dans votre usine."
+    },
+    {
+      "champ": "description (Brient, indicateurs par atelier pour l'énergie, suivi de l'eau), expertises, mesures (ACT_VIA_002)",
+      "url": "https://blog.energiency.com/du-tableur-au-logiciel-4.0-comment-brient-a-reussi-maitriser-sa-consommation-energetique-",
+      "date": "2026-09-24",
+      "extrait": "Afin de pouvoir gérer au quotidien les consommations d'électricité, de gaz et d'eau, les deux sites de Mordelles et Antrain ont été connectés à la plateforme Energiency. Brient reçoit alors les données énergétiques en temps réel, lesquelles sont mises en relation avec les données de production afin de calculer les indicateurs de performance énergétique par atelier, conformément à la certification ISO 50 001."
+    },
+    {
+      "champ": "description (calcul par kilo de produit fini pour l'énergie, logiciel), expertises (détection d'anomalies)",
+      "url": "https://www.energiency.com/fr/cas-usages/analyse-efficacite-energetique-industrie-agroalimentaire/",
+      "date": "2026-09-24",
+      "extrait": "une ligne de production continue à haut rendement est très énergivore (eau + électricité) [...] Nous calculons l'efficacité énergétique par kg de produits finis pour ces 2 lignes [...] la visualisation des indicateurs à un pas de temps plus fin dans notre logiciel de pilotage énergétique a permis de détecter les anomalies"
+    },
+    {
+      "champ": "secteurs, description (journée IFIP 2022)",
+      "url": "https://ifip.asso.fr/actualites/comment-reduire-les-consommations-deau-et-denergie-en-abattage-decoupe-et-transformation-de-viande/",
+      "date": "2026-09-24",
+      "extrait": "Comment réduire les consommations d'eau et d'énergie en abattage-découpe et transformation de viande [...] Journée Technique IFIP du Mardi 8 Mars 2022 [...] Nouveaux outils connectés pour un comptage en temps réel [...] Une start-up spécialiste du comptage en ligne, Arnaud Legrand, CEO de Energiency"
+    },
+    {
+      "champ": "departements",
+      "url": "https://www.energiency.com/fr/presse/epsa-et-energiency-lancent-une-solution-inedite-au-service-de-loptimisation-energetique-des-industriels-05-2021/",
+      "date": "2026-09-24",
+      "extrait": "le secteur industriel français, les ETIs et les grands groupes, dont la facture énergétique s'élève à plus d'1,5 M€ [...] après son lancement dans l'hexagone, Energiency et EPSA ambitionnent de déployer cette offre sur le marché international, notamment en Europe"
+    }
+  ],
+  "date_maj": "2026-09-24"
+}

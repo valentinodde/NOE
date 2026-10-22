@@ -1,0 +1,113 @@
+{
+  "id": "PREST_VIN_017",
+  "nom": "REVICO",
+  "type": "organisme_technique",
+  "logo_url": null,
+  "siret": "90693002900010",
+  "description": "Centre de traitement des vinasses de la filière Cognac, créé en 1969 par les acteurs de la distillation et détenu par ses actionnaires : c'est une société commerciale (SARL selon ses mentions légales, nature juridique 5202 en SIRENE), pas une coopérative ni un bureau d'études. Les distilleries lui apportent leurs vinasses, qu'il traite dans sa propre usine de Saint-Laurent-de-Cognac (concentration, extraction du tartrate de calcium, méthanisation puis traitement biologique aérobie avant rejet) : il reçoit près de 6 millions d'hectolitres par an, soit 55 % des vinasses de Charente et de Charente-Maritime, et traite aussi, en volumes moindres, des eaux de lavage de chais et des vinasses d'autres spiritueux. Sa prestation est ce service de traitement dans son usine, et non des travaux chez l'exploitant. Le traitement est un service payant, dont l'Agence de l'eau Adour-Garonne situe le coût, rapporté à la bouteille, près de celui d'une étiquette.",
+  "expertises": [
+    "Traitement collectif des vinasses",
+    "Traitement des eaux de lavage de chais",
+    "Méthanisation des vinasses"
+  ],
+  "categories": [
+    "agir_rejets_qualite"
+  ],
+  "secteurs": [
+    "vins_spiritueux"
+  ],
+  "departements": [
+    "16",
+    "17"
+  ],
+  "mesures": [
+    {
+      "id": "ACT_VIN_007",
+      "roles": [
+        "travaux"
+      ]
+    },
+    {
+      "id": "ACT_VIN_006",
+      "roles": [
+        "travaux"
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "type": "site_internet",
+      "value": "https://www.revico.fr/"
+    },
+    {
+      "type": "tel",
+      "value": "05 45 82 49 99"
+    },
+    {
+      "type": "adresse",
+      "value": "2, rue des Fosses de Jarnouzeau, 16100 Saint-Laurent-de-Cognac"
+    },
+    {
+      "type": "linkedin",
+      "value": "https://fr.linkedin.com/company/revico-snc"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Revico&departement=16",
+      "date": "2026-09-28",
+      "extrait": "REVICO, siren 906930029, siret 90693002900010, siège, LD LE BUISSON 16100 SAINT-LAURENT-DE-COGNAC, nature juridique 5202, activité 38.21Z, état administratif A"
+    },
+    {
+      "champ": "siret, description (forme juridique)",
+      "url": "https://www.revico.fr/mentions-legales/",
+      "date": "2026-09-28",
+      "extrait": "REVICO, SARL immatriculée au Registre du Commerce et des Sociétés d'Angoulême sous le numéro 906930029, ayant son siège social au 2 rue des Fosses de Jarnouzeau 16100 Saint-Laurent-de-Cognac"
+    },
+    {
+      "champ": "contacts (tel, adresse)",
+      "url": "https://www.revico.fr/contact/",
+      "date": "2026-09-28",
+      "extrait": "appeler notre standard : +33 (0)5 45 82 49 99. 2, rue des Fosses de Jarnouzeau 16100 Saint-Laurent-de-Cognac"
+    },
+    {
+      "champ": "contacts (linkedin)",
+      "url": "https://www.revico.fr/",
+      "date": "2026-09-28",
+      "extrait": "Suivez notre actualité Linkedin (lien https://fr.linkedin.com/company/revico-snc en pied de page)"
+    },
+    {
+      "champ": "description (origine, volumes, actionnaires), mesures (ACT_VIN_007)",
+      "url": "https://www.revico.fr/qui-sommes-nous/",
+      "date": "2026-09-28",
+      "extrait": "les distillateurs de la filière Cognac [...] décident de créer une entité de traitement exclusivement dédiée à cet effluent. [...] l'entreprise reçoit annuellement près de 6 millions d'hectolitres de vinasses, soit 55% du volume total des vinasses charentaises produites."
+    },
+    {
+      "champ": "expertises, description (procédé), mesures (ACT_VIN_007, ACT_VIN_006)",
+      "url": "https://www.revico.fr/expertise/traitement/",
+      "date": "2026-09-28",
+      "extrait": "Le couplage méthanisation + traitements biologiques aérobies permet une élimination des polluants organiques de la vinasse à hauteur de 99% avant le rejet en milieu naturel. [...] REVICO dépollue également, dans des volumes moindres, les eaux de lavage des chais de vinification, les vinasses de whisky, les vinasses de rhum"
+    },
+    {
+      "champ": "departements, description (création, volumes, service payant), mesures (ACT_VIN_007)",
+      "url": "https://eau-grandsudouest.fr/revico-voie-economie-circulaire-pour-eau",
+      "date": "2026-09-28",
+      "extrait": "Fondée en 1969, la société n'a qu'un seul objectif : traiter les vinasses de la filière Cognac [...] en traitant 55 % des vinasses du territoire Charente et Charente-Maritime [...] pour les exploitants, le coût du service à la bouteille est proche de celui d'une étiquette."
+    },
+    {
+      "champ": "type (laboratoire et R&D propres), description (usine)",
+      "url": "https://www.revico.fr/recherche-developpement/",
+      "date": "2026-09-28",
+      "extrait": "REVICO est un centre de valorisation des vinasses charentaises [...] Chaque année, l'équipe R&D teste au laboratoire, à l'échelle pilote ou à l'échelle semi-industrielle des procédés innovants."
+    },
+    {
+      "champ": "departements, description (distillateurs charentais)",
+      "url": "https://www.charente-maritime.gouv.fr/content/download/36834/232955/file/Note%20synth%C3%A9se_17.pdf",
+      "date": "2026-09-28",
+      "extrait": "distillateurs de l'aire d'appellation d'origine contrôlée Cognac exploitants en Charente et en Charente-Maritime [...] REVICO, installation de retraitement via la méthanisation située à St Laurent de Cognac, qui reçoit environ la moitié des vinasses charentaises en volume."
+    }
+  ],
+  "date_maj": "2026-09-28"
+}

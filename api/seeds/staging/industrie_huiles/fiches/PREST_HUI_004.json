@@ -1,0 +1,93 @@
+{
+  "id": "PREST_HUI_004",
+  "nom": "France Olive (Association française interprofessionnelle de l'olive)",
+  "type": "association",
+  "logo_url": null,
+  "siret": "43402717300013",
+  "description": "Interprofession nationale de la filière oléicole, section olive de Terres Univia, qui regroupe la production, la transformation et la commercialisation des olives et des huiles d'olive. Pour les moulins, son pôle process et qualité apporte un appui technique (hygiène, HACCP, matériel) et un conseil sur le traitement des effluents au regard de la loi sur l'eau ; les analyses de laboratoire, dont la teneur en huile des grignons et des margines, sont réalisées et facturées par sa filiale France Olive Process, SAS distincte de l'association (SIRET 93788743800011), et sa journée technique annuelle Techno'Huile a accueilli en 2026 une conférence sur la gestion des effluents. Les conseils techniques sont accessibles gratuitement aux opérateurs de la filière, financés par la cotisation volontaire étendue ; les analyses sont payantes selon le formulaire tarifé du laboratoire.",
+  "expertises": [
+    "Conseil traitement des effluents",
+    "Analyses de résidus (filiale France Olive Process)",
+    "Appui hygiène et process",
+    "Journée technique Techno'Huile"
+  ],
+  "categories": [
+    "agir_rejets_qualite"
+  ],
+  "secteurs": [
+    "industrie_huiles"
+  ],
+  "departements": [],
+  "mesures": [
+    {
+      "id": "ACT_HUI_006",
+      "roles": [
+        "conseil_etude"
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "type": "site_internet",
+      "value": "https://www.franceolive.fr"
+    },
+    {
+      "type": "tel",
+      "value": "04 42 23 01 92"
+    },
+    {
+      "type": "mail",
+      "value": "contact@franceolive.fr"
+    },
+    {
+      "type": "adresse",
+      "value": "Maison des Agriculteurs, 22 avenue Henri Pontier, 13626 Aix-en-Provence"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, type, description (filiale France Olive Process)",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=France%20Olive&departement=13",
+      "date": "2026-09-27",
+      "extrait": "ASSOCIATION FRANCAISE INTERPROFESSIONNELLE DE L'OLIVE (FRANCE OLIVE), siret 43402717300013, siège, MAISON DES AGRICULTEURS 22 AVENUE HENRI PONTIER 13100 AIX-EN-PROVENCE, nature juridique 9220, état administratif A. FRANCE OLIVE PROCESS, siret 93788743800011, siège, 22 AVENUE HENRI PONTIER 13100 AIX-EN-PROVENCE, nature juridique 5710, activité 74.90B, état administratif A"
+    },
+    {
+      "champ": "contacts",
+      "url": "https://www.franceolive.fr/images/medias/2026/06/11/memento-du-moulinier-de-france-olive-2026.pdf",
+      "date": "2026-09-27",
+      "extrait": "France Olive - Association française interprofessionnelle de l'olive, Maison des Agriculteurs, 22 avenue Henri Pontier 13626 Aix-en-Provence. Tél. 04 42 23 01 92 - Mail contact@franceolive.fr, www.franceolive.fr"
+    },
+    {
+      "champ": "departements, description",
+      "url": "https://www.franceolive.fr/categorie/france-olive-et-filiere/role-et-missions",
+      "date": "2026-09-27",
+      "extrait": "France Olive est l'interprofession française dédiée à la filière oléicole. [...] C'est la section spécialisée « olive » de Terres Univia. [...] Transformation : contrôle de la qualité, valorisation et traitement des co-produits issus des moulins à huile, [...] assistance aux professionnels (formations, assistance techniques, etc…)"
+    },
+    {
+      "champ": "mesures (ACT_HUI_006 conseil_etude), expertises, description",
+      "url": "https://www.franceolive.fr/images/medias/2026/06/11/memento-du-moulinier-de-france-olive-2026.pdf",
+      "date": "2026-09-27",
+      "extrait": "Traitement des effluents. En fonction du type de moulin et de sa capacité, il existe des solutions adaptées aux différents effluents pour répondre aux obligations réglementaires vis à vis de la loi sur l'eau (géré par l'Agence de l'eau). [...] Grâce aux CVE, producteurs, transformateurs et metteurs en marché ont accès gratuitement à différents services (conseils techniques, assistance process, qualité, étiquetage...)"
+    },
+    {
+      "champ": "expertises, description",
+      "url": "https://www.franceolive.fr/categorie/qualite-des-produits/laboratoire-oleicole-francais",
+      "date": "2026-09-27",
+      "extrait": "France Olive Process, laboratoire agréé COI, accrédité COFRAC & certifié Qualiopi [...] Laboratoire d'extraction. De septembre à décembre, avant et pendant la récolte, optimisez votre production avec nos analyses sur : [...] Teneur en huile des résidus (grignons, margines). Pour connaître les tarifs, les modalités, les délais, téléchargez le formulaire"
+    },
+    {
+      "champ": "expertises, description",
+      "url": "https://www.franceolive.fr/categorie/transformation-olives-et-huile-d-olive/techno-huile",
+      "date": "2026-09-27",
+      "extrait": "Le rendez-vous annuel des professionnels de l'huile d'olive. Chaque année, les mouliniers et metteurs en marché sont conviés [...] Techno'Huile-Techn'Olive 2026 [...] Gestion des effluents en filière oléicole par Philippe BLIN [...] APAVE"
+    },
+    {
+      "champ": "description",
+      "url": "https://www.franceolive.fr/images/medias/2026/07/24/tkh-tko-2026-pblin-icpeetrejets.pdf",
+      "date": "2026-09-27",
+      "extrait": "Journée filière oléicole, 04 juin 2026. Gestion des effluents en filière oléicole. Intervenant Apave : Philippe BLIN, Chef d'Agence Conseil Occitanie."
+    }
+  ],
+  "date_maj": "2026-09-27"
+}

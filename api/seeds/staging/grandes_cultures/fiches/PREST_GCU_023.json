@@ -1,0 +1,130 @@
+{
+  "id": "PREST_GCU_023",
+  "nom": "Adequabio",
+  "type": "bureau_etudes",
+  "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792084533/Noe%20assets/logos/PREST_GCU_023.png",
+  "siret": "83760857900012",
+  "description": "Bureau d'études de Pertuis (Vaucluse) qui conçoit, livre et installe des aires de lavage et de remplissage des pulvérisateurs, sur une exploitation ou sur un site collectif (CUMA, coopérative, collectivité), avec son procédé PhytoBarre de traitement des effluents phytosanitaires par bactéries et évaporation, sans rejet. PhytoBarre figure sur la liste ministérielle des procédés reconnus efficaces (avis du 30 août 2018) avec les grandes cultures dans son champ d'application, mais les chantiers publiés sur le site sont surtout viticoles et arboricoles. L'entreprise intervient hors de sa région, avec des chantiers publiés dans les Bouches-du-Rhône, le Gard, l'Yonne, le Médoc et à Mittelbergheim (Grand Est), se déplace sur l'exploitation pour l'étude du projet et, agréée Agilor, propose une étude de financement.",
+  "expertises": [
+    "Aire de lavage sur mesure",
+    "Traitement des effluents phytosanitaires",
+    "Étude de projet effluents"
+  ],
+  "categories": [
+    "agir_rejets_qualite"
+  ],
+  "secteurs": [
+    "grandes_cultures"
+  ],
+  "departements": [],
+  "mesures": [
+    {
+      "id": "ACT_GCU_009",
+      "roles": [
+        "conseil_etude",
+        "travaux",
+        "materiel"
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "type": "site_internet",
+      "value": "https://adequabio.fr/"
+    },
+    {
+      "type": "mail",
+      "value": "contact@adequabio.fr"
+    },
+    {
+      "type": "tel",
+      "value": "06 60 15 13 86"
+    },
+    {
+      "type": "adresse",
+      "value": "139 rue Philippe de Girard, 84120 Pertuis"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Adequabio&departement=84",
+      "date": "2026-10-15",
+      "extrait": "ADEQUABIO, siret 83760857900012, siège, PEPINIERES D ENTREPRISES INNOVANTES 139 RUE PHILIPPE DE GIRARD 84120 PERTUIS, activité 71.12B, état administratif A"
+    },
+    {
+      "champ": "contacts",
+      "url": "https://adequabio.fr/contact/",
+      "date": "2026-10-15",
+      "extrait": "139 Rue Philippe de Girard 84120 Pertuis, FRANCE [...] contact@adequabio.fr [...] +33(0) 6 60 15 13 86"
+    },
+    {
+      "champ": "type, description, expertises, mesures (conseil_etude, travaux)",
+      "url": "https://adequabio.fr/bureau-detude/",
+      "date": "2026-10-15",
+      "extrait": "Le Bureau d'études ADEQUABIO vous accompagne de la formalisation de vos besoins à la mise en œuvre de la solution de traitement des effluents [...] Étude de Projet, Conception, Installation, Accompagnement [...] Notre bureau d'études se déplace sur les exploitations. [...] Aire de lavage sur mesure ou solutions clés en main"
+    },
+    {
+      "champ": "description, expertises, mesures, secteurs",
+      "url": "https://adequabio.fr/aire-de-lavage/",
+      "date": "2026-10-15",
+      "extrait": "Elles peuvent aussi être installées dans un cadre mutualisé [...] par des groupements, des CUMA, des associations, des coopératives agricoles ou des collectivités. [...] nos aires de lavage s'adaptent aux différents matériels de pulvérisation (arboriculture, grandes cultures, viticulture, maraîchage, horticulture, pépinières,…) [...] Conçue sur mesure, votre aire de lavage"
+    },
+    {
+      "champ": "description, mesures (travaux, materiel)",
+      "url": "https://adequabio.fr/",
+      "date": "2026-10-15",
+      "extrait": "Systèmes clé en main, Adaptés à tous types de cultures, Modulables & évolutifs, Livrés et installés par nos soins"
+    },
+    {
+      "champ": "description, expertises, mesures (materiel)",
+      "url": "https://adequabio.fr/effluents-phytosanitaires/",
+      "date": "2026-10-15",
+      "extrait": "PhytoBarre [...] allier à la fois l'évaporation de l'eau et la dégradation bactérienne en milieu liquide pour traiter les résidus de produits phytosanitaires. [...] Le système ne génère aucun rejet liquide [...] Les bassins de rétention intégrés dans notre procédé PHYTOBARRE se composent d'une structure légère modulable étanchéifiée par une géomembrane."
+    },
+    {
+      "champ": "description, secteurs",
+      "url": "https://www.bulletin-officiel.developpement-durable.gouv.fr/documents/Bulletinofficiel-0030426/met_20180009_0000_0022.pdf",
+      "date": "2026-10-15",
+      "extrait": "Lecture de l'image de l'annexe I, page 4 (tableau scanné). Ligne PHYTOBARRE, détenteur Adequabio, type de procédé « Biologique et évaporation », prétraitement « déshuilage », appareil « 1 modèle », type de mise en place « propre ». Colonnes du champ d'application (en-tête page 3 : Arboriculture fruitière, Cultures légumières, Grandes cultures, Horticulture, Viticulture, Traitements post récolte, Zones non agricoles) : croix en Arboriculture fruitière, Cultures légumières, Grandes cultures et Viticulture ; cases grisées en Horticulture, Traitements post récolte et Zones non agricoles."
+    },
+    {
+      "champ": "description",
+      "url": "https://aida.ineris.fr/reglementation/avis-300818-relatif-a-liste-procedes-traitement-effluents-phytopharmaceutiques",
+      "date": "2026-10-15",
+      "extrait": "Avis du 30/08/18 relatif à la liste des procédés de traitement des effluents phytopharmaceutiques, reconnus comme efficaces par le MTES. Tableau de l'annexe I non reproduit dans la page, accessible en PDF."
+    },
+    {
+      "champ": "departements, description",
+      "url": "https://adequabio.fr/2025/04/09/activite-de-lannee-2024/",
+      "date": "2026-10-15",
+      "extrait": "Durant l'année 2024, plusieurs lieux ont bénéficié d'une installation de bassins et aires de lavage: Station collective pour les arboriculteurs. Maître d'œuvre: Mairie de Noves (13) Bassin pour un viticulteur à Chablis (89) Aire collective pour les viticulteurs situé à Aubord (30)"
+    },
+    {
+      "champ": "departements, description",
+      "url": "https://adequabio.fr/2025/04/09/installation-de-grands-bassins-une-premiere-pour-adequabio/",
+      "date": "2026-10-15",
+      "extrait": "Dans le Médoc, au château de Meyney, ont été installés pour la première fois des bassins de grande contenance"
+    },
+    {
+      "champ": "departements, description, mesures (travaux)",
+      "url": "https://adequabio.fr/temoignages/",
+      "date": "2026-10-15",
+      "extrait": "Sur la commune de Mittelbergheim, nous recherchions une solution pour lancer le projet de station de lavage collective de pulvérisateurs. [...] Dans le Grand Est, où nous sommes, PhytoBarre, développé par Adéquabio n'est pas encore répandue. [...] « L'entreprise ADEQUABIO [...] a grandement contribué à la réussite de ce projet [construction d'une aire de lavage/remplissage et de traitement des effluents phytosanitaires] qui a été livré dans les temps impartis. » Guy Tezier, Adjoint au DST de la Mairie de Rousset"
+    },
+    {
+      "champ": "description",
+      "url": "https://adequabio.fr/financement/",
+      "date": "2026-10-15",
+      "extrait": "ADEQUABIO est agrée AGILOR. Nous pouvons faire votre étude de financement en quelques minutes."
+    },
+    {
+      "champ": "logo_url",
+      "url": "https://adequabio.fr/wp-content/uploads/2023/04/cropped-cropped-logoweb-seul-192x192.png",
+      "date": "2026-10-15",
+      "extrait": "icône 192 px du site adequabio.fr (symbole carré en couleur : lettre A verte, violette et rouge)"
+    }
+  ],
+  "date_maj": "2026-10-15"
+}

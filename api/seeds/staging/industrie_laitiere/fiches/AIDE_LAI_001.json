@@ -1,0 +1,98 @@
+{
+  "id": "AIDE_LAI_001",
+  "nom": "Aide aux économies d'eau des activités économiques hors agricoles (agence de l'eau Artois-Picardie, 12e programme)",
+  "financeur": "Agence de l'eau Artois-Picardie",
+  "logo_url": null,
+  "type": "subvention",
+  "taux": "Subvention, aux taux maximaux suivants : jusqu'à 50 % pour les études, jusqu'à 40 % pour les travaux d'économie d'eau, et jusqu'à 50 % pour les opérations collectives visant des économies d'eau au sein des petites et très petites entreprises.",
+  "plafond": "Travaux : plafond de 6 600 € par m3 d'eau économisé chaque jour. Pour les opérations collectives, le coût moyen journée des actions d'animation réalisées en régie est plafonné à 500 € par jour.",
+  "description": "Volet économies d'eau de la délibération 25-A-036 du 12e programme d'intervention 2025-2030 de l'agence de l'eau Artois-Picardie. L'agence finance côté études les analyses technico-économiques d'optimisation de la gestion globale de l'eau (réduction des consommations à la source, recyclage interne et externe, réutilisation des eaux usées traitées, substitution par une eau non conventionnelle ou de moindre qualité), la mise en place de dispositifs de mesure quantitatifs et qualitatifs ou de recherche de fuite, et les études préalables aux investissements. Côté travaux, elle finance les travaux d'économie d'eau (changement de procédés, réutilisation d'eau de process, recyclage des eaux pluviales ou des eaux usées traitées) ainsi que les ouvrages de réseaux, de stockage et de traitement nécessaires à l'utilisation d'eaux non conventionnelles.",
+  "eligibilite": "Entreprises immatriculées au registre du commerce et des sociétés, chambres consulaires ou tout autre organisme représentatif d'une activité économique industrielle, commerciale ou artisanale, ainsi que collectivités territoriales et associations pour les projets qu'elles portent. Seules sont éligibles les opérations qui permettent d'aller au-delà des normes de portée européenne ou nationale en vigueur et d'améliorer la protection de l'environnement par rapport à l'état initial.",
+  "categories": [
+    "suivre_comprendre_maitriser",
+    "ameliorer_efficacite_hydrique",
+    "valoriser_reut_eaux_non_conventionnelles"
+  ],
+  "secteurs": [
+    "industrie_laitiere"
+  ],
+  "departements": [],
+  "agences": [
+    "AEAP"
+  ],
+  "mesures": [
+    "ACT_AGR_001",
+    "ACT_AGR_002",
+    "ACT_LAI_003",
+    "ACT_LAI_004",
+    "ACT_LAI_006"
+  ],
+  "infos_complementaires": [
+    {
+      "type": "avertissement",
+      "texte": "Trois situations rendent l'opération inéligible : l'entreprise en difficulté, sauf si l'aide est apportée dans le cadre du régime de minimis, le renouvellement à l'identique des ouvrages, et l'existence d'une mise en demeure réglementaire au titre de la police de l'eau ou des installations classées."
+    },
+    {
+      "type": "avertissement",
+      "texte": "Les travaux visant à réutiliser les eaux usées traitées ne sont éligibles que si une étude réalisée au préalable démontre l'absence d'impact du projet sur les milieux naturels, en particulier les cours d'eau et les zones humides."
+    },
+    {
+      "type": "info",
+      "texte": "Le volet économies d'eau de la délibération ne fixe pas de seuil de volume économisé, et un dispositif d'opérations collectives d'économies d'eau au sein des petites et très petites entreprises est subventionné à 50 %. Un petit atelier n'est donc pas écarté d'emblée sur ce bassin."
+    },
+    {
+      "type": "info",
+      "texte": "En cas d'augmentation de la capacité de production, les volumes d'eau économisés ne sont pris en compte dans les dépenses finançables que pour la part correspondant aux économies se rapportant à la production initiale."
+    },
+    {
+      "type": "ressource",
+      "texte": "Délibération 25-A-036, modalités et conditions d'attribution des aides pour la lutte contre la pollution des activités économiques hors agricoles (partie 4, économies d'eau)",
+      "lien": "https://www.eau-artois-picardie.fr/sites/default/files/013_25-a-036_lutte_poll_act_hors_agri.pdf"
+    },
+    {
+      "type": "ressource",
+      "texte": "Présentation du 12e programme d'intervention 2025-2030 de l'agence de l'eau Artois-Picardie",
+      "lien": "https://www.eau-artois-picardie.fr/12eme-programme-dintervention-2025-2030"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "taux, plafond",
+      "url": "https://www.eau-artois-picardie.fr/sites/default/files/013_25-a-036_lutte_poll_act_hors_agri.pdf",
+      "date": "2026-09-22",
+      "extrait": "4-2. Taux d'intervention et assiette. Etudes : Subvention de 50%. Travaux : Subvention de 40%, Plafond de 6 600 € par m3 d'eau économisé chaque jour. Opérations collectives visant des économies d'eau au sein des petites et très petites entreprises : Subvention de 50%, Le « coût moyen journée » des actions d'animation réalisées en régie est plafonné à 500 € par jour."
+    },
+    {
+      "champ": "description, mesures",
+      "url": "https://www.eau-artois-picardie.fr/sites/default/files/013_25-a-036_lutte_poll_act_hors_agri.pdf",
+      "date": "2026-09-22",
+      "extrait": "4-1. Actions éligibles. Pour les études : Les études technico-économiques d'optimisation de la gestion globale de l'eau (réduction des consommations à la source, recyclage interne et externe, réutilisation des eaux usées traitées, substitution par une eau non conventionnelle ou de moindre qualité...) ; La mise en place de dispositifs de mesure (quantitatif et qualitatif) ou de recherche de fuite ; Les études préalables aux investissements. Pour les travaux : Les travaux d'économie d'eau (changement de procédés, réutilisation d'eau de process, recyclage des eaux pluviales ou des eaux usées traitées...) ; Les ouvrages (réseaux, stockage, traitement) nécessaires à l'utilisation d'eaux non conventionnelles."
+    },
+    {
+      "champ": "eligibilite",
+      "url": "https://www.eau-artois-picardie.fr/sites/default/files/013_25-a-036_lutte_poll_act_hors_agri.pdf",
+      "date": "2026-09-22",
+      "extrait": "1-1. Etablissements et opérations éligibles. L'Agence de l'Eau peut apporter une participation financière aux maîtres d'ouvrage des activités économiques hors agricoles suivants : Entreprises immatriculées au registre du commerce et des sociétés, Chambres consulaires ou tout autre organisme représentatif d'une activité économique industrielle, commerciale ou artisanale, Collectivités territoriales et associations, pour les projets qu'elles portent [...] Sont éligibles aux aides de l'Agence de l'Eau les opérations qui permettent aux entreprises d'aller au-delà des normes de portée européenne ou nationale en vigueur, et d'améliorer la protection de l'environnement par rapport à l'état initial."
+    },
+    {
+      "champ": "infos_complementaires (critères d'exclusion, augmentation de capacité)",
+      "url": "https://www.eau-artois-picardie.fr/sites/default/files/013_25-a-036_lutte_poll_act_hors_agri.pdf",
+      "date": "2026-09-22",
+      "extrait": "1-2. Critères d'exclusion. Les opérations réunissant au moins l'un des critères suivants ne sont pas éligibles aux aides de l'Agence de l'Eau : Entreprises en difficulté, sauf si l'aide de l'Agence de l'Eau est apportée dans le cadre du régime de minimis, Renouvellement à l'identique des ouvrages, Existence d'une mise en demeure réglementaire au titre de la police de l'eau ou des installations classées pour la protection de l'environnement. [...] Les volumes d'eau économisés seront pris en compte dans les dépenses finançables pour la part correspondant aux économies d'eau se rapportant à la production initiale."
+    },
+    {
+      "champ": "infos_complementaires (condition REUT)",
+      "url": "https://www.eau-artois-picardie.fr/sites/default/files/013_25-a-036_lutte_poll_act_hors_agri.pdf",
+      "date": "2026-09-22",
+      "extrait": "4-3. Conditions particulières. Les travaux visant à réutiliser les eaux usées traitées sont éligibles aux aides de l'Agence de l'Eau si une étude réalisée au préalable démontre l'absence d'impact du projet sur les milieux naturels, en particulier les cours d'eau et les zones humides."
+    },
+    {
+      "champ": "nom, description (programme et date de publication)",
+      "url": "https://www.eau-artois-picardie.fr/12eme-programme-dintervention-2025-2030",
+      "date": "2026-09-22",
+      "extrait": "12ème programme d'intervention 2025-2030, adopté le 15 octobre 2024 par le conseil d'administration et le comité de bassin, 1,279 milliard d'euros sur six ans. Le programme soutient les actions des industriels pour maîtriser leur consommation hydrique, réutiliser les eaux de process et recycler les eaux pluviales."
+    }
+  ],
+  "date_maj": "2026-09-22"
+}

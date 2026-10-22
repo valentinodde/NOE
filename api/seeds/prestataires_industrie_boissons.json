@@ -1,0 +1,1775 @@
+[
+  {
+    "id": "PREST_BOI_001",
+    "nom": "IFBM, Institut français des boissons, de la brasserie et de la malterie",
+    "type": "organisme_technique",
+    "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792070090/Noe%20assets/logos/PREST_BOI_001.png",
+    "siret": "78332837000029",
+    "description": "Institut de la brasserie, de la malterie et des boissons sans alcool, installé à Vandœuvre-lès-Nancy, qui conduit des activités de recherche et développement, de formation professionnelle et d'études technologiques. Sa formation « Maîtrise de la qualité en microbrasserie » (3 jours) traite du nettoyage et de la désinfection, dont la conception d'un équipement de nettoyage en place (CIP) et l'optimisation de ses consommations d'eau. Cette formation est payante (1 170 € TTC), et l'équipe de consulting construit sur demande un accompagnement sur mesure, dont un diagnostic brassicole et des plans de nettoyage.",
+    "expertises": [
+      "Formation qualité en microbrasserie",
+      "Conception d'un équipement CIP",
+      "Plans de nettoyage",
+      "Diagnostic brassicole personnalisé"
+    ],
+    "categories": [
+      "changer_process_pratiques"
+    ],
+    "secteurs": [
+      "industrie_boissons"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_BOI_003",
+        "roles": [
+          "formation"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://ifbm.fr/fr"
+      },
+      {
+        "type": "mail",
+        "value": "formation.ifbm@qualtech-groupe.com"
+      },
+      {
+        "type": "tel",
+        "value": "+33 (0)3 83 44 88 00"
+      },
+      {
+        "type": "adresse",
+        "value": "7, rue du Bois de la Champelle, BP 267, 54512 Vandœuvre-lès-Nancy Cedex"
+      },
+      {
+        "type": "linkedin",
+        "value": "https://www.linkedin.com/company/ifbmnancy"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "siret",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=IFBM&departement=54",
+        "date": "2026-10-15",
+        "extrait": "INSTITUT FR BOISSONS BRASSERIE MALTERIE (IFBM), siret 78332837000029, siège, 7 RUE DU BOIS DE LA CHAMPELLE 54500 VANDŒUVRE-LES-NANCY, etat_administratif A"
+      },
+      {
+        "champ": "description, contacts (site_internet, linkedin)",
+        "url": "https://ifbm.fr/fr",
+        "date": "2026-10-15",
+        "extrait": "Nous proposons des formations de tout niveau en brasserie-malterie ; lien LinkedIn linkedin.com/company/ifbmnancy"
+      },
+      {
+        "champ": "description",
+        "url": "https://ifbm.fr/fr/histoire",
+        "date": "2026-10-15",
+        "extrait": "trois piliers d'activité : la recherche et développement, la formation professionnelle, et les études technologiques"
+      },
+      {
+        "champ": "description, expertises, mesures, categories",
+        "url": "https://ifbm.fr/fr/services/formation-brasserie/qualite-microbrasserie",
+        "date": "2026-10-15",
+        "extrait": "Maîtrise de la Qualité en Microbrasserie, 3 jours, 21 heures, 1 170,00 € TTC. Nettoyage et désinfection : Conception d'un équipement CIP et optimisation des consommations d'eau. Mise en place d'un plan de nettoyage"
+      },
+      {
+        "champ": "description, expertises, contacts (mail, tel)",
+        "url": "https://ifbm.fr/fr/services/consulting",
+        "date": "2026-10-15",
+        "extrait": "Diagnostic brassicole personnalisé. Plans de nettoyage et de contrôle microbiologique. Un projet ? Parlons-en ! formation.ifbm@qualtech-groupe.com ou +33 (0)3 83 44 88 00"
+      },
+      {
+        "champ": "contacts (adresse)",
+        "url": "https://ifbm.fr/fr/contact-1-1",
+        "date": "2026-10-15",
+        "extrait": "7, rue du Bois de la Champelle BP 267 54512 Vandoeuvre les Nancy cedex"
+      },
+      {
+        "champ": "logo_url",
+        "url": "https://ifbm.fr/apple-touch-icon.png",
+        "date": "2026-10-15",
+        "extrait": "<link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"/apple-touch-icon.png\">"
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "PREST_BOI_002",
+    "nom": "Elodys International",
+    "type": "bureau_etudes",
+    "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792070086/Noe%20assets/logos/PREST_BOI_002.png",
+    "siret": "50467451600035",
+    "description": "Bureau d'études angevin spécialisé dans le nettoyage en place (NEP) des industries agroalimentaires, qui cite parmi ses références de la rubrique boisson Orangina Suntory France, Coca-Cola, AB InBev, Asahi, Refresco et Monin. Il réalise des audits instrumentés des consommations d'eau (cartographie par usage, pistes de réduction et de réutilisation chiffrées, plan de mesurage et indicateurs de dérive, plans de délestage en sécheresse) et des audits de NEP portant sur l'eau, l'énergie et les détergents, avec son capteur optique OptiClean qui ajuste la durée des séquences de lavage. Il forme aussi les équipes à la maîtrise des nettoyages, en session inter-entreprises à Soulaines-sur-Aubance ou sur le site du client, sur devis.",
+    "expertises": [
+      "Audit d'économies d'eau",
+      "Audit et optimisation de la NEP",
+      "Capteur de lavage OptiClean",
+      "Formation à la maîtrise des nettoyages"
+    ],
+    "categories": [
+      "suivre_comprendre_maitriser",
+      "changer_process_pratiques",
+      "sensibiliser_former"
+    ],
+    "secteurs": [
+      "industrie_boissons"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_BOI_003",
+        "roles": [
+          "conseil_etude",
+          "formation"
+        ]
+      },
+      {
+        "id": "ACT_BOI_001",
+        "roles": [
+          "conseil_etude"
+        ]
+      },
+      {
+        "id": "ACT_AGR_002",
+        "roles": [
+          "conseil_etude"
+        ]
+      },
+      {
+        "id": "ACT_AGR_009",
+        "roles": [
+          "conseil_etude"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.elodys.eu"
+      },
+      {
+        "type": "tel",
+        "value": "02 41 45 38 63"
+      },
+      {
+        "type": "mail",
+        "value": "contact@elodys.eu"
+      },
+      {
+        "type": "adresse",
+        "value": "7 lieu dit Rochambeau, 49610 Soulaines-sur-Aubance"
+      },
+      {
+        "type": "linkedin",
+        "value": "https://www.linkedin.com/company/elodys-international"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "siret, adresse",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=Elodys%20International&departement=49",
+        "date": "2026-10-15",
+        "extrait": "ELODYS INTERNATIONAL, SIRET 50467451600035, siège, 7 ROCHAMBEAU 49610 SOULAINES-SUR-AUBANCE, NAF 71.12B, état administratif A"
+      },
+      {
+        "champ": "contacts",
+        "url": "https://www.elodys.eu/references",
+        "date": "2026-10-15",
+        "extrait": "7 lieu dit Rochambeau 49610 Soulaines sur Aubance France 33 (0)241.453.863 contact@elodys.eu"
+      },
+      {
+        "champ": "contacts (linkedin)",
+        "url": "https://www.elodys.eu/website/social/linkedin",
+        "date": "2026-10-15",
+        "extrait": "Lien LinkedIn du site, redirigé vers https://www.linkedin.com/company/elodys-international"
+      },
+      {
+        "champ": "description (références secteur)",
+        "url": "https://www.elodys.eu/references",
+        "date": "2026-10-15",
+        "extrait": "Rubrique Boisson : logos Monin, Orangina Suntory France, Coca-Cola, Asahi, AB InBev, Castel Frères, Refresco, Arca Continental"
+      },
+      {
+        "champ": "expertises, mesures (ACT_AGR_002, ACT_BOI_001, ACT_AGR_009)",
+        "url": "https://www.elodys.eu/audit",
+        "date": "2026-10-15",
+        "extrait": "Audit d'économies d'eau : cartographie fine des consommations d'eau au plus près des usages [...] établir un plan de mesurage qui permettra à l'entreprise de bâtir un suivi fiable et de disposer d'indicateurs permettant de détecter rapidement les dérives [...] bâtir des plans de délestage des consommations d'eau, notamment en période de sécheresse"
+      },
+      {
+        "champ": "expertises, mesures (ACT_BOI_003 conseil_etude)",
+        "url": "https://www.elodys.eu/audit",
+        "date": "2026-10-15",
+        "extrait": "Audit & Accompagnement : nettoyage en place (NEP / CIP) [...] suivi de la consommation en eau du site et des nettoyages, la consommation en produits chimiques (détergents alcalin et acide), la consommation en énergie"
+      },
+      {
+        "champ": "expertises, description (OptiClean)",
+        "url": "https://www.elodys.eu/opticlean",
+        "date": "2026-10-15",
+        "extrait": "Elodys International a développé un capteur optique : OptiClean [...] l'outil incontournable pour gérer le temps des séquences de lavage au plus près du besoin réel"
+      },
+      {
+        "champ": "expertises, mesures (ACT_BOI_003 formation), description (accès)",
+        "url": "https://www.elodys.eu/formation",
+        "date": "2026-10-15",
+        "extrait": "Proposer et mettre en œuvre des améliorations du protocole de nettoyage et des optimisations des séquences NEP [...] Lieu : Sur site du client Soulaines sur Aubance (49) [...] Tarif : nous consulter"
+      },
+      {
+        "champ": "logo_url",
+        "url": "https://www.elodys.eu/web/image/website/1/logo/Elodys?unique=1df3c6a",
+        "date": "2026-10-15",
+        "extrait": "Logo d'en-tête du site elodys.eu, en couleur, 352 x 210 px"
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "PREST_BOI_003",
+    "nom": "BrewFactory (TBS Distribution)",
+    "type": "installateur",
+    "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792070123/Noe%20assets/logos/PREST_BOI_003.png",
+    "siret": "83924479500010",
+    "description": "BrewFactory est la marque d'équipements brassicoles de TBS Distribution, installée au MIN de Rouen, qui exploite aussi le centre de formation Brew Society. Elle se présente comme fabricant d'équipements en inox sur mesure, sans que le lieu de fabrication soit établi : stations de nettoyage en place (NEP) qui remplacent le nettoyage manuel, livrées, raccordées et accompagnées d'une formation de l'opérateur sur site, ainsi qu'échangeurs à plaques et cuves d'eau chaude qui permettent de réutiliser l'eau du refroidisseur de moût pour le brassin suivant. Elle propose aussi un audit de brasserie qui couvre le nettoyage et les consommations d'eau, sur devis et sans engagement. Pour un projet d'équipement, le premier rendez-vous (téléphone ou visio) est gratuit. Elle intervient en France métropolitaine, en Belgique, au Luxembourg et en Suisse.",
+    "expertises": [
+      "Stations de nettoyage en place",
+      "Échangeurs à plaques et cuves d'eau chaude",
+      "Installation d'équipements brassicoles",
+      "Audit de brasserie"
+    ],
+    "categories": [
+      "changer_process_pratiques",
+      "valoriser_reut_eaux_non_conventionnelles"
+    ],
+    "secteurs": [
+      "industrie_boissons"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_BOI_003",
+        "roles": [
+          "conseil_etude"
+        ]
+      },
+      {
+        "id": "ACT_BOI_006",
+        "roles": [
+          "materiel"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.brewfactory.fr/"
+      },
+      {
+        "type": "tel",
+        "value": "06 63 71 48 37"
+      },
+      {
+        "type": "mail",
+        "value": "hello@brewfactory.fr"
+      },
+      {
+        "type": "adresse",
+        "value": "M.I.N de Rouen, Avenue Bernard Bicheray, 76000 Rouen"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "siret, adresse du siège",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=TBS%20Distribution&departement=76",
+        "date": "2026-10-15",
+        "extrait": "TBS DISTRIBUTION (THE BREW SOCIETY), siret 83924479500010, siège, 26 RUE MARECHAL JOFFRE 76130 MONT-SAINT-AIGNAN, etat_administratif A, activité 11.05Z"
+      },
+      {
+        "champ": "nom, description (rattachement à TBS Distribution)",
+        "url": "https://www.brewfactory.fr/mentions-legales/",
+        "date": "2026-10-15",
+        "extrait": "TBS DISTRIBUTION, Adresse : 26 RUE DU MARECHAL JOFFRE 76130 MONT-SAINT-AIGNAN"
+      },
+      {
+        "champ": "contacts, departements, description (installation et formation des NEP, premier rendez-vous gratuit sur un projet, zone d'intervention)",
+        "url": "https://www.brewfactory.fr/",
+        "date": "2026-10-15",
+        "extrait": "M.I.N de Rouen, Avenue Bernard Bicheray, 76000 Rouen. Téléphone 06.63.71.48.37. Salles de brassage, Fermenteurs, CIP, équipements brassicoles professionnels sur mesure en inox 316/304L, installation et formation incluses. Nous organisons un premier rendez-vous gratuit (téléphone ou visio) pour comprendre votre projet. BrewFactory intervient en France métropolitaine, en Belgique, au Luxembourg et en Suisse. BrewFactory est une marque de TBS DISTRIBUTION, SIREN 839 244 795"
+      },
+      {
+        "champ": "contacts (mail)",
+        "url": "https://www.brewfactory.fr/",
+        "date": "2026-10-15",
+        "extrait": "Adresse protégée dans le pied de page (data-cfemail), décodée : hello@brewfactory.fr"
+      },
+      {
+        "champ": "expertises, description (NEP qui remplacent le nettoyage manuel)",
+        "url": "https://www.brewfactory.fr/cip/",
+        "date": "2026-10-15",
+        "extrait": "une station CIP automatique 100 L réalise le même cycle en 12 à 18 minutes, avec environ 40 % d'eau en moins. Installation incluse : raccordements hydrauliques et électriques, formation opérateur sur site, 4 jours minimum"
+      },
+      {
+        "champ": "expertises, mesures (ACT_BOI_006 materiel)",
+        "url": "https://www.brewfactory.fr/gamme/echangeurs-a-plaques/",
+        "date": "2026-10-15",
+        "extrait": "L'eau qui traverse l'échangeur en ressort chaude. Envoyée dans une cuve d'eau chaude, elle sert à l'empâtage ou au rinçage du brassin suivant."
+      },
+      {
+        "champ": "type, expertises, mesures (ACT_BOI_006 materiel)",
+        "url": "https://www.brewfactory.fr/gamme/cuves-auxiliaires/",
+        "date": "2026-10-15",
+        "extrait": "cuves d'eau chaude pour l'empâtage et le rinçage. BrewFactory fabrique toutes ces cuves en inox 316L isolé, dimensionnées à votre process. (Aucune page consultée n'indique le lieu de fabrication.)"
+      },
+      {
+        "champ": "type",
+        "url": "https://www.brewfactory.fr/contact/",
+        "date": "2026-10-15",
+        "extrait": "BrewFactory conçoit et fabrique des équipements brassicoles sur mesure en inox 304L et 316L. Chaque équipement est fabriqué à la commande selon votre cahier des charges. (Lieu de fabrication non indiqué, d'où le type installateur.)"
+      },
+      {
+        "champ": "expertises, mesures (ACT_BOI_003 conseil_etude), description (audit sur devis)",
+        "url": "https://www.brewfactory.fr/audit-de-brasserie/",
+        "date": "2026-10-15",
+        "extrait": "Un audit passe en revue votre production réelle : process de brassage, rendements, nettoyage, consommations d'eau et d'énergie, organisation de l'atelier, et en tire un plan d'actions chiffré, sur site ou à distance. Axes : Nettoyage / CIP, Eau & énergie. Devis sur demande, sans engagement."
+      },
+      {
+        "champ": "description (centre de formation Brew Society)",
+        "url": "https://brewsociety.fr/formations/formation-titre-brasseur/",
+        "date": "2026-10-15",
+        "extrait": "Centre de formation Brassage, Zythologie, Distillation, Cidrerie, Boissons sans alcool et Mixologie. Avenue Bernard Bicheray, 76000 Rouen. © 2026 TBS Distribution"
+      },
+      {
+        "champ": "logo_url",
+        "url": "https://www.brewfactory.fr/wp-content/uploads/2022/12/cropped-facivon-180x180.png",
+        "date": "2026-10-15",
+        "extrait": "apple-touch-icon du site brewfactory.fr (pictogramme de cuve, 180 x 180)"
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "PREST_BOI_004",
+    "nom": "ETA",
+    "type": "equipementier",
+    "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792070110/Noe%20assets/logos/PREST_BOI_004.png",
+    "siret": "60372026900019",
+    "description": "Chaudronnier industriel installé à Rians (Cher), qui conçoit et fabrique dans son atelier des cuves inox de stockage et de process et des stations de nettoyage en place (NEP). Sa station NEP automatisée se dimensionne avec un compartiment par produit de lavage, dont un compartiment d'eau réutilisée, et l'entreprise cite la brasserie parmi les applications. Matériel vendu sur devis, avec bureau d'études, montage et mise en service sur site.",
+    "expertises": [
+      "Station de nettoyage en place",
+      "Cuves de stockage pour NEP",
+      "Cuves inox de stockage et process",
+      "Montage et mise en service"
+    ],
+    "categories": [
+      "changer_process_pratiques"
+    ],
+    "secteurs": [
+      "industrie_boissons"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_BOI_003",
+        "roles": [
+          "materiel"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://eta.fr/"
+      },
+      {
+        "type": "mail",
+        "value": "contact@eta.fr"
+      },
+      {
+        "type": "tel",
+        "value": "02 48 66 21 00"
+      },
+      {
+        "type": "adresse",
+        "value": "Route des Aix, 18220 Rians"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "siret, adresse",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=Soci%C3%A9t%C3%A9%20ETA&departement=18",
+        "date": "2026-10-15",
+        "extrait": "SOCIETE ETA SA, siret 60372026900019, siège, ROUTE DES AIX 18220 RIANS, activité 25.29Z, état A, 1 établissement ouvert"
+      },
+      {
+        "champ": "type, description, expertises",
+        "url": "https://eta.fr/eta/",
+        "date": "2026-10-15",
+        "extrait": "Création d'un atelier industriel de chaudronnerie pour la fabrication des citernes, cuves et NEP ... Un bureau d'études ... Montage et mise en service sur site"
+      },
+      {
+        "champ": "mesures, description, expertises",
+        "url": "https://eta.fr/the-cup-cleaning-station/?lang=en",
+        "date": "2026-10-15",
+        "extrait": "whether it is in food processing (dairy, brewery, for example) ... Definition of the compartments according to the cleaning products used (acid, soda, disinfectant, water, reused water, oil, etc.)"
+      },
+      {
+        "champ": "mesures, expertises",
+        "url": "https://eta.fr/produits/cuves-pour-nep/",
+        "date": "2026-10-15",
+        "extrait": "NEP (Nettoyage En Place) ou CIP ... Stockage d'eau ... Stockage d'eau récupérée"
+      },
+      {
+        "champ": "expertises, contacts",
+        "url": "https://eta.fr/produits/station-nettoyage-nep-cip/",
+        "date": "2026-10-15",
+        "extrait": "La station NEP, monobloc, entièrement automatisée ... Dans le cadre de la réduction des rejets d'effluents ... 02 48 66 21 00"
+      },
+      {
+        "champ": "contacts, departements",
+        "url": "https://eta.fr/",
+        "date": "2026-10-15",
+        "extrait": "Spécialiste de la cuve de stockage et de process, ETA est aujourd'hui leader en France et en Europe ... contact@eta.fr ... Ils nous font confiance (logos Danone, Sirops Monin)"
+      },
+      {
+        "champ": "logo_url",
+        "url": "https://eta.fr/wp-content/uploads/2022/06/eta-logo.png",
+        "date": "2026-10-15",
+        "extrait": "apple-touch-icon du site eta.fr"
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "PREST_BOI_005",
+    "nom": "Christeyns France",
+    "type": "solution_numerique",
+    "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792070130/Noe%20assets/logos/PREST_BOI_005.png",
+    "siret": "32130268900013",
+    "description": "Filiale française, établie à Vertou (44), du groupe belge Christeyns, dont le siège est à Gand. Elle est déclarée comme fabricant de détergents (code NAF 20.41Z), et pour les brasseries et les sites de boissons, son offre liée à l'eau est le logiciel Insite-CIP de contrôle, de vérification et d'optimisation automatisés des nettoyages en place (NEP), présenté comme réduisant la consommation d'eau. La fiche la classe donc en solution numérique : le site ne dit ni que ses équipements de nettoyage sont fabriqués en France ni que la filiale les installe. Elle propose aussi des détergents, des systèmes de nettoyage centralisés ou décentralisés, des conseils et des audits d'hygiène sur site. Accès sur prise de contact avec l'équipe française, sans tarif publié. Le site n'affiche à ce jour aucune session de formation ouverte en France pour l'agroalimentaire.",
+    "expertises": [
+      "Systèmes de nettoyage centralisés",
+      "Suivi et optimisation des NEP",
+      "Audits d'hygiène sur site",
+      "Formation à l'hygiène alimentaire"
+    ],
+    "categories": [
+      "changer_process_pratiques"
+    ],
+    "secteurs": [
+      "industrie_boissons"
+    ],
+    "departements": [
+      "44"
+    ],
+    "mesures": [
+      {
+        "id": "ACT_BOI_003",
+        "roles": [
+          "materiel"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.christeyns.com/fr-fr/"
+      },
+      {
+        "type": "tel",
+        "value": "+33 2 40 80 27 27"
+      },
+      {
+        "type": "mail",
+        "value": "info@christeyns.fr"
+      },
+      {
+        "type": "adresse",
+        "value": "31 rue de la Maladrie, 44120 Vertou"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "siret, adresse, departements, type",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=Christeyns%20France&departement=44",
+        "date": "2026-10-15",
+        "extrait": "CHRISTEYNS FRANCE, siret 32130268900013, siège, 31 RUE DE LA MALADRIE 44120 VERTOU, departement 44, activite_principale 20.41Z, etat_administratif A"
+      },
+      {
+        "champ": "contacts, description (groupe belge)",
+        "url": "https://www.christeyns.com/fr-fr/contact/",
+        "date": "2026-10-15",
+        "extrait": "Belgique Christeyns HQ Afrikalaan 182 9000 Gent Belgium [...] France Christeyns France 31 rue de la Maladrie 44 120 Vertou France info@christeyns.fr +33 2 40 80 27 27"
+      },
+      {
+        "champ": "description, expertises",
+        "url": "https://www.christeyns.com/fr-fr/secteurs-dactivites/industrie-agroalimentaire-vente-au-detail/boissons-et-brasserie/",
+        "date": "2026-10-15",
+        "extrait": "des systèmes de nettoyage et de désinfection centralisés et décentralisés [...] L'outil INSITE entièrement automatisé contrôle vos installations NEP (Nettoyage En Place) [...] La Christeyns Academy propose des formations pratiques et théoriques aux professionnels de l'hygiène dans votre secteur."
+      },
+      {
+        "champ": "type, mesures (ACT_BOI_003, materiel), expertises",
+        "url": "https://www.christeyns.com/fr-fr/solutions/controle-aise/",
+        "date": "2026-10-15",
+        "extrait": "Insite-CIP Logiciels spécialisés pour le contrôle, la vérification et l'optimisation automatisés de systèmes CIP dans les environnements alimentaires. [...] Réduit la consommation d'eau et l'empreinte écologique"
+      },
+      {
+        "champ": "expertises, description (conseils et audits)",
+        "url": "https://www.christeyns.com/fr-fr/solutions/conseils-professionnels/",
+        "date": "2026-10-15",
+        "extrait": "Nos experts sont à vos côtés avec des conseils personnalisés, des programmes d'hygiène dédiés et des audits sur site"
+      },
+      {
+        "champ": "description (formations en France)",
+        "url": "https://www.christeyns.com/fr-fr/formations/formation-relative-a-lindustrie-agroalimentaire/",
+        "date": "2026-10-15",
+        "extrait": "Il n'y a actuellement aucun cours disponible pour cette industrie dans votre pays. Veuillez nous contacter pour plus d'informations."
+      },
+      {
+        "champ": "logo_url",
+        "url": "https://www.christeyns.com/wp-content/themes/christeyns/assets/images/icons/christeyns-180-180.png",
+        "date": "2026-10-15",
+        "extrait": "apple-touch-icon 180x180 du site christeyns.com"
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "PREST_BOI_006",
+    "nom": "Newasys (Strane Innovation)",
+    "type": "bureau_etudes",
+    "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792070120/Noe%20assets/logos/PREST_BOI_006.png",
+    "siret": "79222817300045",
+    "description": "Activité de conseil en sobriété hydrique et réutilisation des eaux du groupe Strane Innovation, basée à Massy, indépendante des fournisseurs de traitement de l'eau. Pour un site industriel, elle caractérise les consommations de chaque procédé, propose un plan de suivi des consommations et un plan de réduction, puis étudie la faisabilité du recyclage ou de la réutilisation d'eaux non conventionnelles, eaux de pluie comprises. Chez Bio Brasseurs à Strasbourg, son audit en trois temps (collecte des données, visite, préconisations) a porté sur le lavage des cuves, le refroidissement et la préparation des boissons. Demande par le formulaire du site ou par courriel.",
+    "expertises": [
+      "Audit eau et plan de réduction",
+      "Plan de suivi des consommations",
+      "Faisabilité de réutilisation des eaux",
+      "Récupération des eaux de pluie"
+    ],
+    "categories": [
+      "suivre_comprendre_maitriser",
+      "valoriser_reut_eaux_non_conventionnelles",
+      "changer_process_pratiques"
+    ],
+    "secteurs": [
+      "industrie_boissons"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_AGR_002",
+        "roles": [
+          "conseil_etude"
+        ]
+      },
+      {
+        "id": "ACT_BOI_001",
+        "roles": [
+          "conseil_etude"
+        ]
+      },
+      {
+        "id": "ACT_AGR_006",
+        "roles": [
+          "conseil_etude"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://newasys.com/"
+      },
+      {
+        "type": "mail",
+        "value": "contact@newasys.com"
+      },
+      {
+        "type": "adresse",
+        "value": "2-12 rue du chemin des femmes, 91300 Massy"
+      },
+      {
+        "type": "linkedin",
+        "value": "https://www.linkedin.com/company/newasys/"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "contacts",
+        "url": "https://newasys.com/contact",
+        "date": "2026-10-15",
+        "extrait": "Email contact @ newasys.com. Adresse 2-12 rue du chemin des femmes, 91300 Massy"
+      },
+      {
+        "champ": "contacts (linkedin), nom, description",
+        "url": "https://newasys.com/",
+        "date": "2026-10-15",
+        "extrait": "NEWASYS, une marque du Groupe Strane Innovation, 2-12 rue du chemin des femmes, 91300 Massy. Nous ne sommes liés à aucun fournisseur de traitement de l'eau."
+      },
+      {
+        "champ": "siret, nom",
+        "url": "https://newasys.com/a-propos",
+        "date": "2026-10-15",
+        "extrait": "NEWASYS est l'activité eau du Groupe Strane Innovation. Alexandre BREDIMAS, Fondateur de Strane Innovation et de son activité NEWASYS"
+      },
+      {
+        "champ": "siret, adresse, type",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=Strane%20Innovation&departement=91",
+        "date": "2026-10-15",
+        "extrait": "STRANE INNOVATION, SIRET 79222817300045, siège, 2-12 RUE DU CHEMIN DES FEMMES 91300 MASSY, NAF 70.22Z, état administratif A"
+      },
+      {
+        "champ": "expertises, mesures (ACT_AGR_002, ACT_BOI_001, ACT_AGR_006), categories",
+        "url": "https://newasys.com/nos-services",
+        "date": "2026-10-15",
+        "extrait": "Industriels : Analyse des consommations d'eau et plan de réduction. Caractérisation des consommations de chaque procédé industriel. Plan de monitoring des consommations. Pistes d'optimisation des procédés industriels. Pistes de recyclage des eaux / réutilisation des eaux. Récupération et réutilisation des eaux de pluie et eaux grises dans un bâtiment/un ilot"
+      },
+      {
+        "champ": "mesures (ACT_AGR_002, ACT_BOI_001), description",
+        "url": "https://newasys.com/reference-bio-brasseurs",
+        "date": "2026-10-15",
+        "extrait": "audit exhaustif en trois temps : collecte des données, visite de site, puis analyse et préconisations [...] du lavage des cuves au refroidissement et préparation des boissons. [...] des actions simples de suivi et de maintenance jusqu'à des solutions plus structurantes de recyclage permettant jusqu'à 30% de réduction de la consommation d'eau"
+      },
+      {
+        "champ": "departements, description",
+        "url": "https://newasys.com/references-temoignages",
+        "date": "2026-10-15",
+        "extrait": "Audit d'efficacité hydrique - Bio Brasseurs, Strasbourg (67). Missions à Vert-le-Grand, Dunkerque (59), Tours Métropole (37), Grand Nancy (54), Metz (57), Gueugnon (71), Saintes (17), Béthune-Bruay (62), Mayotte (976). Récupération des eaux de pluie et des eaux grises, SPL Deux Rives"
+      },
+      {
+        "champ": "logo_url",
+        "url": "https://newasys.com/wp-content/uploads/2024/05/cropped-Newasys-192x192.jpg",
+        "date": "2026-10-15",
+        "extrait": "Icône du site (link rel=icon 192x192)"
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "PREST_BOI_007",
+    "nom": "INGETECH Solutions",
+    "type": "bureau_etudes",
+    "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792070088/Noe%20assets/logos/PREST_BOI_007.png",
+    "siret": "80320494000057",
+    "description": "Bureau d'études indépendant basé à Arcachon, spécialisé dans la partie eau des installations classées (ICPE) et titulaire de la qualification 0803 (étude d'assainissement et de protection des milieux récepteurs). Pour une brasserie, il réalise le diagnostic des réseaux et le comptage par usage, une campagne de mesures et le bilan des flux polluants, compare et dimensionne les filières de traitement (réduction à la source, égalisation des débits, régulation du pH) et mène l'échange technique avec le gestionnaire de l'assainissement. Prestations payantes, sur devis forfaitaire pour la plupart des missions, avec des interventions dans toute la France.",
+    "expertises": [
+      "Diagnostic réseaux et comptage par usage",
+      "Bilan des flux polluants",
+      "Dimensionnement du prétraitement",
+      "Étude des économies d'eau"
+    ],
+    "categories": [
+      "agir_rejets_qualite",
+      "suivre_comprendre_maitriser"
+    ],
+    "secteurs": [
+      "industrie_boissons"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_BOI_007",
+        "roles": [
+          "conseil_etude"
+        ]
+      },
+      {
+        "id": "ACT_AGR_002",
+        "roles": [
+          "conseil_etude"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.ingetech-solutions.com/"
+      },
+      {
+        "type": "tel",
+        "value": "05 56 22 94 21"
+      },
+      {
+        "type": "adresse",
+        "value": "4 Quai de Goslar, Pôle Nautique, 33120 Arcachon"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "siret, adresse",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=INGETECH&departement=33",
+        "date": "2026-10-15",
+        "extrait": "INGETECH, siret 80320494000057, siège, POLE NAUTIQUE 4 QUAI DE GOSLAR 33120 ARCACHON, activité 71.12B, etat_administratif A"
+      },
+      {
+        "champ": "contacts",
+        "url": "https://www.ingetech-solutions.com/",
+        "date": "2026-10-15",
+        "extrait": "4 Quai de Goslar « Pôle Nautique » 33120 Arcachon, +33 (0)5 56 22 94 21"
+      },
+      {
+        "champ": "departements, description",
+        "url": "https://www.ingetech-solutions.com/",
+        "date": "2026-10-15",
+        "extrait": "Intervenez-vous partout en France ? Oui. Nous sommes basés à Arcachon, en Gironde, mais nous intervenons sur tout le territoire. De plus, pour la plupart des missions, nous proposons un devis forfaitaire."
+      },
+      {
+        "champ": "type, description",
+        "url": "https://www.ingetech-solutions.com/",
+        "date": "2026-10-15",
+        "extrait": "Bureau d'ingénierie indépendant, spécialisé dans la conformité des rejets aqueux des sites ICPE. Qualification 0803 : étude d'assainissement et de protection des milieux récepteurs"
+      },
+      {
+        "champ": "secteurs, mesures (ACT_BOI_007)",
+        "url": "https://www.ingetech-solutions.com/",
+        "date": "2026-10-15",
+        "extrait": "Brasseries. Nous dimensionnons le prétraitement et l'épuration adaptés à la charge organique de vos eaux de process et de nettoyage."
+      },
+      {
+        "champ": "expertises, description, mesures (ACT_BOI_007, ACT_AGR_002)",
+        "url": "https://www.ingetech-solutions.com/traitement-eaux-usees-brasserie/",
+        "date": "2026-10-15",
+        "extrait": "Les missions possibles d'INGETECH : Diagnostic des réseaux et comptage par usage. Campagne de mesures et bilan des flux polluants. Échange technique avec le gestionnaire de l'assainissement. Comparaison et dimensionnement des filières. Étude des économies d'eau et des usages réutilisables."
+      },
+      {
+        "champ": "mesures (ACT_BOI_007)",
+        "url": "https://www.ingetech-solutions.com/traitement-eaux-usees-brasserie/",
+        "date": "2026-10-15",
+        "extrait": "INGETECH compare les besoins de réduction à la source, d'égalisation des débits, de régulation du pH et, lorsque l'analyse l'impose, d'un traitement complémentaire."
+      },
+      {
+        "champ": "mesures (ACT_AGR_002)",
+        "url": "https://www.ingetech-solutions.com/traitement-eaux-usees-brasserie/",
+        "date": "2026-10-15",
+        "extrait": "Enfin, un comptage par poste permet d'identifier les pertes et de prioriser les économies sans compromettre l'hygiène. 01 · Identifier : Usages d'eau, nettoyage et points de rejet."
+      },
+      {
+        "champ": "logo_url",
+        "url": "https://www.ingetech-solutions.com/wp-content/uploads/2020/03/cropped-ingetech-solutions_LOGO-favicon-270x270.png",
+        "date": "2026-10-15",
+        "extrait": "Icône du site (msapplication-TileImage, 270 x 270)"
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "PREST_BOI_008",
+    "nom": "Clauger",
+    "type": "equipementier",
+    "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792070120/Noe%20assets/logos/PREST_BOI_008.png",
+    "siret": "97150619100024",
+    "description": "Fabricant et installateur de froid industriel et de traitement d'air fondé en 1971 près de Lyon, présent par une cinquantaine d'implantations sur tout le territoire national et l'outre-mer. Pour une brasserie, il audite, conçoit, installe et maintient les systèmes de production d'eau glacée et d'eau glycolée qui refroidissent le moût et la fermentation, ainsi que la production d'eau chaude de brassage et la récupération de chaleur. Il fabrique ses skids de production de froid dans des ateliers situés en France, en Espagne, en Italie et au Mexique. Il conçoit et fabrique aussi des refroidisseurs à condensation par air, avec condenseur sec ou adiabatique, présentés comme une façon de réduire l'eau consommée par le froid, y compris en période de restriction. Prise de contact par le formulaire du site ou par le standard du siège.",
+    "expertises": [
+      "Audit des utilités froid",
+      "Production d'eau glycolée",
+      "Refroidisseur à condensation par air",
+      "Maintenance des installations frigorifiques"
+    ],
+    "categories": [
+      "ameliorer_efficacite_hydrique"
+    ],
+    "secteurs": [
+      "industrie_boissons"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_BOI_005",
+        "roles": [
+          "conseil_etude",
+          "travaux",
+          "materiel"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.clauger.com/fr/"
+      },
+      {
+        "type": "tel",
+        "value": "04 72 31 52 00"
+      },
+      {
+        "type": "adresse",
+        "value": "PA les Vallières, 7 rue de l'Industrie, 69530 Brignais"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "siret, adresse",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=Clauger&departement=69",
+        "date": "2026-10-15",
+        "extrait": "CLAUGER, siret 97150619100024, siège, PARC D'ACTIVITE LES VALLIERES 7 RUE DE L'INDUSTRIE 69530 BRIGNAIS, activité 33.20B, etat_administratif A, 81 établissements ouverts"
+      },
+      {
+        "champ": "contacts",
+        "url": "https://www.clauger.com/fr/les-mentions-legales/",
+        "date": "2026-10-15",
+        "extrait": "CLAUGER, société par actions simplifiée [...] ayant son siège social situé au PA les Vallières, 7, rue de l'Industrie 69530 BRIGNAIS. Webmaster : CLAUGER, 7 rue de l'industrie, 69530 BRIGNAIS, Tél : +33 (0)4 72 31 52 00"
+      },
+      {
+        "champ": "description",
+        "url": "https://www.clauger.com/fr/contact-fr/",
+        "date": "2026-10-15",
+        "extrait": "Contact. N'hésitez pas à nous contacter. Nous avons besoin de quelques renseignements pour pouvoir répondre à votre demande."
+      },
+      {
+        "champ": "departements, description",
+        "url": "https://www.clauger.com/fr/regions/france/",
+        "date": "2026-10-15",
+        "extrait": "Clauger en France, c'est aujourd'hui 1300 collaborateurs répartis au sein d'une cinquantaines d'implantations, couvrant tout le territoire national et l'outre-mer."
+      },
+      {
+        "champ": "secteurs, expertises, description, mesures (ACT_BOI_005)",
+        "url": "https://www.clauger.com/fr/sector/brasserie/",
+        "date": "2026-10-15",
+        "extrait": "Clauger audite, conçoit, installe et assure la maintenance : des systèmes de production d'eau glacée et d'eau glycolée négative pour le refroidissement du moût et la fermentation, [...] De solutions de production d'eau chaude industrielle pour les processus de brassage et d'ébullition. [...] des systèmes de récupération de chaleur sur différentes sources"
+      },
+      {
+        "champ": "expertises, description, mesures (ACT_BOI_005, rôle materiel)",
+        "url": "https://www.clauger.com/fr/products/n-pac-air-dual/",
+        "date": "2026-10-15",
+        "extrait": "La N-PAC Air Dual est un refroidisseur de liquide avec condensation à air embarqué. [...] Condenseur à air sec ou adiabatique micro-canaux avec ventilateurs EC [...] -8°C/+4°C pour l'eau glycolée"
+      },
+      {
+        "champ": "description, mesures (ACT_BOI_005, rôles conseil_etude et materiel)",
+        "url": "https://www.clauger.com/fr/froid-industriel-agroalimentaire-une-solution-a-lammoniac-performante-et-econome-en-eau/",
+        "date": "2026-10-15",
+        "extrait": "Dernière illustration : la conception et fabrication d'une N-PAC AIR DUAL adiabatique sur-mesure, dédiée à la production d'eau glycolée pour un site agroalimentaire. [...] un condenseur adiabatique surdimensionné [...] Réduction significative de la consommation d'eau. Adaptation aux contextes de restriction d'usage de l'eau"
+      },
+      {
+        "champ": "type",
+        "url": "https://www.clauger.com/fr/nos-metiers/",
+        "date": "2026-10-15",
+        "extrait": "Fabriquer des équipements industriels. Au cœur de nos ateliers de production, nous fabriquons des équipements spécifiques qui répondent à un besoin spécifique et unique. Les skids de production d'énergie frigorifique et calorifique HEE (Haute Efficacité Energétique) pour tous les types d'industries."
+      },
+      {
+        "champ": "type, description, mesures (ACT_BOI_005, rôle materiel)",
+        "url": "https://www.clauger.com/fr/products/skids-production-energie/",
+        "date": "2026-10-15",
+        "extrait": "En fonction d'un niveau de température souhaité, d'une puissance et d'une application (refroidissement de liquide, distribution de fluide, production de chaleur), Clauger conçoit et fabrique la meilleure solution adaptée à votre besoin. [...] Skid N-PAC HT [...] Nous fabriquons aujourd'hui en Espagne, en France, en Italie et au Mexique, au plus proche de nos clients."
+      },
+      {
+        "champ": "logo_url",
+        "url": "https://www.clauger.com/wp-media/uploads/2026/08/Capture-decran-2026-08-27-092609.png",
+        "date": "2026-10-15",
+        "extrait": "Icône du site (apple-touch-icon, symbole Clauger, 69 x 60)"
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "PREST_BOI_009",
+    "nom": "EWK France",
+    "type": "installateur",
+    "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792070079/Noe%20assets/logos/PREST_BOI_009.png",
+    "siret": "44511981100021",
+    "description": "Filiale française fondée en 2003, installée à Neyron (Ain), qui commercialise des tours aéroréfrigérantes ouvertes et fermées, des condenseurs évaporatifs et des aéroréfrigérants adiabatiques. Elle se présente comme concepteur et fabricant, sans indiquer de site de production, et son code d'activité (46.69B) relève du commerce de gros. Elle a fourni en 2021 deux tours fermées à une usine d'eaux minérales, propose l'installation, la révision et la réparation de ses aéroréfrigérants adiabatiques, et rénove ou remplace des tours existantes. Elle réalise aussi des audits sur site, sur devis, de tours EWK et d'autres fabricants.",
+    "expertises": [
+      "Tours aéroréfrigérantes fermées",
+      "Aéroréfrigérants adiabatiques",
+      "Audit de tour aéroréfrigérante",
+      "Rénovation de tours"
+    ],
+    "categories": [
+      "ameliorer_efficacite_hydrique"
+    ],
+    "secteurs": [
+      "industrie_boissons"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_BOI_005",
+        "roles": [
+          "materiel",
+          "travaux",
+          "conseil_etude"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.ewkfrance.com/"
+      },
+      {
+        "type": "tel",
+        "value": "04 72 00 89 11"
+      },
+      {
+        "type": "mail",
+        "value": "contact@ewkfrance.fr"
+      },
+      {
+        "type": "adresse",
+        "value": "3 Porte du Grand Lyon, 01700 Neyron"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "siret, adresse",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=EWK%20France&departement=01",
+        "date": "2026-10-15",
+        "extrait": "EWK FRANCE, SIRET 44511981100021, siège, 3 ZA PORTE DU GRAND LYON 01700 NEYRON, activité 46.69B, état A, 1 établissement ouvert"
+      },
+      {
+        "champ": "contacts",
+        "url": "https://www.ewkfrance.com/nous-contacter/",
+        "date": "2026-10-15",
+        "extrait": "3 Prt du Grd Lyon, 01700 Neyron. 04 72 00 89 11. contact@ewkfrance.fr"
+      },
+      {
+        "champ": "description, type",
+        "url": "https://www.ewkfrance.com/notre-histoire/",
+        "date": "2026-10-15",
+        "extrait": "Fondée en 2003, la filiale française ... Spécialisée dans la conception et la fabrication de tours de refroidissement. Seule adresse donnée : 3 Prt Du Grd Lyon, 01700 Neyron, aucun site de production cité"
+      },
+      {
+        "champ": "type, description",
+        "url": "https://www.ewkfrance.com/",
+        "date": "2026-10-15",
+        "extrait": "EWK est fabricant de tours aéroréfrigérantes ouvertes, de tours de refroidissement fermées ..., condenseurs évaporatifs et d'aéroréfrigérants adiabatiques. Aucun lieu de fabrication indiqué ; NAF 46.69B (commerce de gros) selon l'API Recherche d'entreprises : type installateur faute de preuve d'une production en France"
+      },
+      {
+        "champ": "departements",
+        "url": "https://www.ewkfrance.com/projects/tour-mirabeau-paris/",
+        "date": "2026-10-15",
+        "extrait": "2006, 3 Tours aéroréfrigérantes EWK 900/09, Paris, 4 200 kW. Couverture nationale déduite : siège dans l'Ain, référence à Paris, vente d'équipements livrés sur site ; aucune page ne déclare de zone d'intervention"
+      },
+      {
+        "champ": "expertises, mesures (materiel), description",
+        "url": "https://www.ewkfrance.com/projects/tours-aerorefrigerantes-fermees-ewk-i/",
+        "date": "2026-10-15",
+        "extrait": "2 tours aéroréfrigérantes fermées EWK-I 680 ... dans une usine d'eaux minérales (2021) ... fonctionnent en circuit fermé ... en évitant l'évaporation de grandes quantités d'eau"
+      },
+      {
+        "champ": "expertises, mesures (materiel, travaux), description",
+        "url": "https://www.ewkfrance.com/refroidisseur-adiabatique/",
+        "date": "2026-10-15",
+        "extrait": "ce type de système de refroidissement consomme peu d'eau, il n'y a donc pas de traitement d'eau. ... nous vous proposons l'installation, la révision, et la réparation de vos équipements"
+      },
+      {
+        "champ": "expertises, mesures (conseil_etude), description",
+        "url": "https://www.ewkfrance.com/audit-et-diagnostic-de-tour-aerorefrigerante-expertise-tar-ewk-france/",
+        "date": "2026-10-15",
+        "extrait": "Nous réalisons des audits sur les équipements EWK ainsi que sur les installations d'autres fabricants ... obtenir un devis personnalisé et planifier un audit sur site ... Réduction des pertes d'eau"
+      },
+      {
+        "champ": "expertises, mesures (travaux), description",
+        "url": "https://www.ewkfrance.com/remplacement-et-renovation-de-tour-de-refroidissement/",
+        "date": "2026-10-15",
+        "extrait": "Le remplacement permet alors de repartir sur une installation dimensionnée selon les besoins actuels du site."
+      },
+      {
+        "champ": "logo_url",
+        "url": "https://7851a4f8.delivery.rocketcdn.me/wp-content/uploads/2024/01/favlogo-fr.png",
+        "date": "2026-10-15",
+        "extrait": "Favicon du site ewkfrance.com (symbole EWK carré, 91 x 90 px)"
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "PREST_BOI_010",
+    "nom": "Eloy Water France",
+    "type": "installateur",
+    "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792070145/Noe%20assets/logos/PREST_BOI_010.png",
+    "siret": "51540925800032",
+    "description": "Société française du groupe Eloy, dont le site principal est à Sprimont (Belgique) et dont l'activité en France a été créée en 2009. Installée à Tourcoing (Nord) et déclarée comme intermédiaire du commerce, elle commercialise en France les filières de traitement des eaux usées que le groupe conçoit et fabrique, et qu'il présente comme un « produit belge ». Pour les brasseries, elle propose un prétraitement (relevage, tamis rotatif qui sépare les drêches pour les valoriser, décanteur pour les levures et la terre de diatomée, tampon aéré qui abaisse la température et ajuste pH, azote et phosphore), suffisant quand la brasserie est raccordée au réseau collectif, complété sinon par un traitement biologique (boue activée, SBR ou bioréacteur à membrane). Elle étudie et dimensionne la filière, fournit les modules, supervise le chantier réalisé par l'installateur du client, forme les équipes et propose des contrats d'exploitation et d'entretien, sur devis. Classée installateur faute de type pour un distributeur : aucune source ne la dit fabricante en France, et elle ne réalise pas elle-même la pose. La brasserie Lupulus figure parmi ses clients cités.",
+    "expertises": [
+      "Prétraitement des eaux de brasserie",
+      "Séparation des drêches par tamisage",
+      "Traitement biologique SBR ou MBR",
+      "Contrat d'exploitation et d'entretien"
+    ],
+    "categories": [
+      "agir_rejets_qualite"
+    ],
+    "secteurs": [
+      "industrie_boissons"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_BOI_007",
+        "roles": [
+          "materiel",
+          "conseil_etude"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.eloywater.com/fr/"
+      },
+      {
+        "type": "tel",
+        "value": "01 80 96 38 40"
+      },
+      {
+        "type": "mail",
+        "value": "info@eloywater.fr"
+      },
+      {
+        "type": "adresse",
+        "value": "445 boulevard Gambetta, 59200 Tourcoing"
+      },
+      {
+        "type": "linkedin",
+        "value": "https://www.linkedin.com/company/eloy-water/"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "siret, adresse, description, type",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=Eloy%20Water%20France&departement=59",
+        "date": "2026-10-15",
+        "extrait": "ELOY WATER FRANCE, SIRET 51540925800032, siège, 445 BOULEVARD GAMBETTA 59200 TOURCOING, activité 46.19A, état A, 1 établissement ouvert"
+      },
+      {
+        "champ": "contacts",
+        "url": "https://www.eloywater.com/fr/contact/",
+        "date": "2026-10-15",
+        "extrait": "Boulevard Gambetta 445 - 59200 Tourcoing tél. +33 1 80 96 38 40 - info@eloywater.fr (adresse protégée par Cloudflare dans la page, décodée), lien LinkedIn linkedin.com/company/eloy-water"
+      },
+      {
+        "champ": "departements",
+        "url": "https://www.eloywater.com/fr/contact/",
+        "date": "2026-10-15",
+        "extrait": "Fort de notre réseau de concessionnaire, nous couvrons l'entièreté du territoire français."
+      },
+      {
+        "champ": "description, type",
+        "url": "https://www.eloy.be/corporate/contexte-et-historique/",
+        "date": "2026-10-15",
+        "extrait": "Depuis 1965, actif dans les secteurs de la construction et du traitement des eaux. [...] 1992 : la société déménage et s'installe dans le zoning de Damré à Sprimont. Ce site est toujours aujourd'hui le site principal de la société. [...] 2009 : L'activité en France est créée."
+      },
+      {
+        "champ": "description, type",
+        "url": "https://www.eloywater.com/fr/a-propos/",
+        "date": "2026-10-15",
+        "extrait": "Tous nos produits sont conçus, fabriqués, distribués et entretenus par nos soins. [...] Grâce à nos 6 concessionnaires agréés, nos Opérateurs Certifiés et nos stocks délocalisés, jamais un produit belge ne s'était senti aussi français."
+      },
+      {
+        "champ": "description, expertises, mesures",
+        "url": "https://www.eloywater.com/fr/blog/traitement-des-eaux-de-brasserie/",
+        "date": "2026-10-15",
+        "extrait": "Tamis rotatif : va permettre aux drêches d'être séparées des eaux par tamisage. [...] Si la brasserie est raccordée à un système d'assainissement collectif, notre travail s'arrête là"
+      },
+      {
+        "champ": "description, expertises, mesures",
+        "url": "https://www.eloywater.com/wp-content/uploads/sites/4/2023/02/0123_eloyw_brochure_brasserie_web.pdf",
+        "date": "2026-10-15",
+        "extrait": "Dans le décanteur, les levures et la terre de diatomée vont lentement se déposer sur le fond de la cuve. [...] Cette filière de pré-traitement est suffisante si votre brasserie est raccordée au réseau d'égouttage. [...] conseils, dimensionnement, installation, exploitation et entretien [...] Éditeur responsable : eloy water S.A. - rue des Spinettes 13, BE-4140 Sprimont"
+      },
+      {
+        "champ": "description, expertises, mesures, type",
+        "url": "https://www.eloywater.com/pro/secteurs/brasserie/",
+        "date": "2026-10-15",
+        "extrait": "Étape 1 Étude et dossier [...] Étape 2 Conception et fabrication : dans notre site de production, nous fabriquons l'ensemble des modules [...] Étape 3 Installation et démarrage : nous travaillons en étroite collaboration avec votre installateur. Nous supervisons les étapes du chantier [...] Pierre Gobron, administrateur gérant de la brasserie Lupulus"
+      },
+      {
+        "champ": "logo_url",
+        "url": "https://www.eloywater.com/fr/wp-content/uploads/sites/4/2022/09/cropped-80x80-1-180x180.png",
+        "date": "2026-10-15",
+        "extrait": "apple-touch-icon 180 x 180 du site eloywater.com/fr"
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "PREST_BOI_011",
+    "nom": "ATB France",
+    "type": "installateur",
+    "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792070104/Noe%20assets/logos/PREST_BOI_011.png",
+    "siret": "50284179400030",
+    "description": "Filiale française du groupe allemand ATB Water, installée à Ballots (Mayenne), qui conçoit, développe et commercialise des micro-stations d'épuration biologiques (procédé SBR, de 1 à 5 000 équivalents habitants). Elle se présente comme fabricant, mais ni elle ni le groupe n'indiquent de site de production en France, d'où son classement en installateur. Pour les brasseries, elle dimensionne une micro-station AQUAMAX Professional adaptée à leurs effluents, propose un prétraitement biologique des effluents agroalimentaires avant rejet au réseau, puis assure l'entretien et le dépannage, avec une référence à la Brasserie La Gaultoise (Marne). La pose peut passer par un partenaire de son réseau régional, ATB France ne chiffrant pas elle-même l'installation. Prestations sur devis.",
+    "expertises": [
+      "Micro-station pour effluents de brasserie",
+      "Prétraitement biologique avant réseau",
+      "Installation de micro-stations",
+      "Entretien et dépannage"
+    ],
+    "categories": [
+      "agir_rejets_qualite"
+    ],
+    "secteurs": [
+      "industrie_boissons"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_BOI_007",
+        "roles": [
+          "materiel",
+          "travaux"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.micro-station-atb.fr/"
+      },
+      {
+        "type": "tel",
+        "value": "02 43 06 61 20"
+      },
+      {
+        "type": "mail",
+        "value": "info.france@atbwater.com"
+      },
+      {
+        "type": "adresse",
+        "value": "61 chemin de l'Orgerie, 53350 Ballots"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "siret, adresse",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=ATB%20France&departement=53",
+        "date": "2026-10-15",
+        "extrait": "ATB FRANCE, siret 50284179400030, siège, 61 CHEMIN DE L'ORGERIE 53350 BALLOTS, activité 46.73B, état administratif A"
+      },
+      {
+        "champ": "contacts",
+        "url": "https://www.micro-station-atb.fr/",
+        "date": "2026-10-15",
+        "extrait": "61 Chemin de l'Orgerie, 53350 Ballots (Mayenne). Par téléphone au +33 (0)2 43 06 61 20 ou par courriel à info.france@atbwater.com."
+      },
+      {
+        "champ": "type, description, departements",
+        "url": "https://www.micro-station-atb.fr/installateur-micro-station-epuration-france",
+        "date": "2026-10-15",
+        "extrait": "ATB France est une succursale du groupe allemand ATB WATER, société fondée en 1999 en Allemagne. L'entreprise est spécialisée dans le développement, la production et la commercialisation de micro-stations d'épuration biologiques (processus SBR). ATB France conçoit, développe et installe vos micro-stations d'épuration de 1 à 5.000 EH partout en France."
+      },
+      {
+        "champ": "type, mesures, description",
+        "url": "https://www.micro-station-atb.fr/",
+        "date": "2026-10-15",
+        "extrait": "Les micro-stations d'épuration SBR conçues et développées par ATB France. En tant que fabricant, ATB France ne propose pas de devis d'installation, nous vous mettrons en relation avec notre réseau de partenaires en région."
+      },
+      {
+        "champ": "expertises, mesures, description",
+        "url": "https://www.micro-station-atb.fr/projet-assainissement-non-collectif-micro-station/effluents-speciaux/brasserie",
+        "date": "2026-10-15",
+        "extrait": "Certaines industries, comme les brasseries, ont besoin d'un traitement spécial pour l'assainissement de leurs eaux usées. En fonction de vos besoins et des effluents que produit votre brasserie, nous installons la station d'épuration la plus adaptée. ATB France vous conseille, installe et assure l'entretien et le dépannage de votre station d'épuration."
+      },
+      {
+        "champ": "expertises, mesures",
+        "url": "https://www.micro-station-atb.fr/pretraitement-biologique-eau-agroalimentaire",
+        "date": "2026-10-15",
+        "extrait": "Les effluents de l'industrie agroalimentaire sont généralement très facilement biodégradables, qu'il s'agisse de l'industrie de la boisson, du lait ou des aliments préparés. Chez ATB France, nous proposons des solutions de prétraitement."
+      },
+      {
+        "champ": "description, mesures",
+        "url": "https://www.micro-station-atb.fr/projet-assainissement-non-collectif-micro-station",
+        "date": "2026-10-15",
+        "extrait": "Brasserie La Gaultoise à Le Gault-Soigny (51). Fabrication de bières de qualité à la ferme. Installation d'une micro-station pour brasserie."
+      },
+      {
+        "champ": "logo_url",
+        "url": "https://www.micro-station-atb.fr/wp-content/uploads/2019/10/cropped-logo-atb-favicon-270x270.png",
+        "date": "2026-10-15",
+        "extrait": "Icône du site (goutte bleue et verte), déclarée en icon et apple-touch-icon sur la page d'accueil"
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "PREST_BOI_012",
+    "nom": "Géonord",
+    "type": "bureau_etudes",
+    "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792070092/Noe%20assets/logos/PREST_BOI_012.png",
+    "siret": "50379114700021",
+    "description": "Bureau d'études indépendant d'ingénieurs agronomes installé à Anzin-Saint-Aubin (Pas-de-Calais), qui travaille depuis 2008 pour des agriculteurs, des collectivités et des industries, principalement dans le bassin Artois-Picardie. Il délimite les aires d'alimentation de captage et cartographie leur vulnérabilité, diagnostique les pressions agricoles, élabore puis anime les plans d'actions avec les exploitants (opérations de reconquête de la qualité de l'eau, suivi agronomique pour Noréade), et participe en 2026 et 2027 au déploiement des paiements pour services environnementaux de l'agence de l'eau Artois-Picardie. Ses références publiées sont des collectivités et des syndicats d'eau potable, aucune ne concerne un embouteilleur, et ses conditions tarifaires ne sont pas publiées : contact par téléphone ou par mail.",
+    "expertises": [
+      "Étude d'aire d'alimentation de captage",
+      "Diagnostic des pressions agricoles",
+      "Animation de plans d'actions agricoles",
+      "Suivi agronomique des exploitations"
+    ],
+    "categories": [
+      "agir_grand_cycle"
+    ],
+    "secteurs": [
+      "industrie_boissons"
+    ],
+    "departements": [
+      "02",
+      "59",
+      "60",
+      "62",
+      "80"
+    ],
+    "mesures": [
+      {
+        "id": "ACT_BOI_008",
+        "roles": [
+          "conseil_etude"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.geonord.fr/"
+      },
+      {
+        "type": "tel",
+        "value": "03 21 71 91 64"
+      },
+      {
+        "type": "mail",
+        "value": "contact@geonord.fr"
+      },
+      {
+        "type": "adresse",
+        "value": "18 rue du Maréchal Haig, 62223 Anzin-Saint-Aubin"
+      },
+      {
+        "type": "linkedin",
+        "value": "https://www.linkedin.com/company/geonord1"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "siret, adresse",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=Geonord&departement=62",
+        "date": "2026-10-15",
+        "extrait": "GEONORD, siret 50379114700021, siège, 18 RUE DU MARECHAL HAIG 62223 ANZIN-SAINT-AUBIN, activité 71.12B, etat_administratif A"
+      },
+      {
+        "champ": "contacts",
+        "url": "https://www.geonord.fr/",
+        "date": "2026-10-15",
+        "extrait": "18 Rue du Maréchal Haig, 62223 Anzin-Saint-Aubin, France. contact@geonord.fr. 03 21 71 91 64. linkedin.com/company/geonord1"
+      },
+      {
+        "champ": "type, description, departements",
+        "url": "https://www.geonord.fr/",
+        "date": "2026-10-15",
+        "extrait": "Géonord est un bureau d'études indépendant basé en Hauts-de-France. Depuis 2008, Géonord est au service des agriculteurs, des collectivités et des industries, principalement au sein du bassin Artois Picardie."
+      },
+      {
+        "champ": "expertises, mesures (ACT_BOI_008), departements",
+        "url": "https://www.geonord.fr/nos-projets",
+        "date": "2026-10-15",
+        "extrait": "Définition de l'Aire d'Alimentation du captage et de la zone de vulnérabilité - Diagnostic territorial multi-pressions et plan d'actions. NOREADE : Accompagnement individuel et suivi agronomiques des exploitations (ORQUE Inchy-Troisvilles, Neuvilly-Solesmes-Croix Caluyau, Sud Avesnois). Animation du programme d'actions ORQUE Potte & Morchain"
+      },
+      {
+        "champ": "expertises",
+        "url": "https://www.geonord.fr/agronomie",
+        "date": "2026-10-15",
+        "extrait": "Préservation de la ressource en eau potable. Vulnérabilité des Aires d'Alimentation de Captage. Accompagnement des agriculteurs sur la gestion de la fertilisation"
+      },
+      {
+        "champ": "description, mesures (ACT_BOI_008)",
+        "url": "https://solagro.org/fiche-pdf-reference-346",
+        "date": "2026-10-15",
+        "extrait": "Solagro, la Chambre d'agriculture Nord Pas-de-Calais et le bureau d'études Géonord se sont constitués en groupement pour assurer en 2026 et en 2027 la promotion et le déploiement du dispositif porté par l'Agence de l'Eau Artois-Picardie."
+      },
+      {
+        "champ": "logo_url",
+        "url": "https://static.wixstatic.com/media/f4f7ef_cde919a1055e44a39d2b261530ce3bb9~mv2.png",
+        "date": "2026-10-15",
+        "extrait": "Logo de l'en-tête et apple-touch-icon du site geonord.fr"
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "PREST_BOI_013",
+    "nom": "Solagro",
+    "type": "bureau_etudes",
+    "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792070199/Noe%20assets/logos/PREST_BOI_013.png",
+    "siret": "32451090800050",
+    "description": "Structure d'ingénierie conseil, de recherche prospective et de formation née en 1981 à Toulouse sous forme d'association, devenue en 2026 société coopérative d'intérêt collectif, qui travaille en agroécologie, énergie et climat depuis Toulouse et Lyon. Sur la ressource en eau, elle a préfiguré en 2020 des paiements pour services environnementaux (PSE) sur trois aires d'alimentation de captage de l'Ouest Saône-et-Loire (diagnostic du territoire, enquêtes auprès des agriculteurs, choix des indicateurs et des montants, projet finalement non retenu par l'agence de l'eau Loire-Bretagne), et déploie en 2026 et 2027 avec la Chambre d'agriculture Nord-Pas-de-Calais et Géonord le dispositif expérimental de PSE de l'agence de l'eau Artois-Picardie, avec un accompagnement individuel des agriculteurs. Ses références eau sont des collectivités et des agences de l'eau, aucune ne concerne un minéralier ou un embouteilleur, et ses conditions tarifaires ne sont pas publiées : contact par téléphone ou par mail.",
+    "expertises": [
+      "Conception de PSE",
+      "Diagnostic d'aire de captage",
+      "Animation agricole territoriale",
+      "Accompagnement individuel des agriculteurs"
+    ],
+    "categories": [
+      "agir_grand_cycle"
+    ],
+    "secteurs": [
+      "industrie_boissons"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_BOI_008",
+        "roles": [
+          "conseil_etude"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://solagro.org/"
+      },
+      {
+        "type": "tel",
+        "value": "05 67 69 69 69"
+      },
+      {
+        "type": "mail",
+        "value": "solagro@solagro.org"
+      },
+      {
+        "type": "adresse",
+        "value": "75 Voie du TOEC, CS 27608, 31076 Toulouse Cedex 3"
+      },
+      {
+        "type": "adresse",
+        "value": "13 ter, place Jules Ferry, 69006 Lyon"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "siret",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=Solagro&departement=31",
+        "date": "2026-10-15",
+        "extrait": "SOLAGRO, siret 32451090800050, siège, CS 27608 75 VOIE DU TOEC 31300 TOULOUSE, nature juridique 9220, activité 74.90B, etat_administratif A"
+      },
+      {
+        "champ": "contacts",
+        "url": "https://solagro.org/contact",
+        "date": "2026-10-15",
+        "extrait": "Solagro, 75 Voie du TOEC, CS 27608, 31076 TOULOUSE Cedex 3. Solagro, 13 ter, place Jules Ferry, 69006 LYON. 05 67 69 69 69. solagro@solagro.org. Retrouvez-nous à Toulouse ou à Lyon"
+      },
+      {
+        "champ": "type, description",
+        "url": "https://solagro.org/focus/solagro-devient-societe-cooperative-d-interet-collectif",
+        "date": "2026-10-15",
+        "extrait": "Association depuis sa création en 1981, Solagro change de statut. Solagro devient donc une Société Coopérative d'Intérêt Collectif (SCIC SAS à capital variable)."
+      },
+      {
+        "champ": "type, description",
+        "url": "https://solagro.org/qui-sommes-nous/le-projet",
+        "date": "2026-10-15",
+        "extrait": "Solagro est née en 1981 à Toulouse. Métiers : Ingénierie conseil, Recherche prospective, Formation animation. Accompagnement de réalisations (études et assistance à maîtrise d'ouvrage)"
+      },
+      {
+        "champ": "expertises, mesures (ACT_BOI_008), description, departements",
+        "url": "https://solagro.org/travaux-et-productions/references/etude-de-prefiguration-de-paiements-pour-services-environnementaux-pse-sur-les-aires-dalimentation-de-captage-en-plan-deau-de-louest-saone-et-loire",
+        "date": "2026-10-15",
+        "extrait": "Étude de préfiguration de PSE sur les aires d'alimentation de captage en plan d'eau de l'Ouest Saône-et-Loire. Communauté urbaine Le Creusot-Montceau-les-Mines, 2020. Diagnostic synthétique du territoire, animation territoriale, définition des PSE : indicateurs, seuils et montants. Projet non retenu par l'Agence de l'Eau Loire-Bretagne."
+      },
+      {
+        "champ": "expertises, mesures (ACT_BOI_008), description, departements",
+        "url": "https://solagro.org/fiche-pdf-reference-346",
+        "date": "2026-10-15",
+        "extrait": "Pour : Agence de l'Eau Artois-Picardie. Date : 2026 - En cours. Solagro, la Chambre d'agriculture Nord Pas-de-Calais et le bureau d'études Géonord se sont constitués en groupement pour assurer en 2026 et en 2027 la promotion et le déploiement du dispositif. Les agriculteurs volontaires bénéficient d'un accompagnement individuel pour étudier la faisabilité technique et économique d'une contractualisation"
+      },
+      {
+        "champ": "logo_url",
+        "url": "https://solagro.org/images/apple-touch-icon.png",
+        "date": "2026-10-15",
+        "extrait": "apple-touch-icon du site solagro.org, 114 x 114 px"
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "PREST_BOI_014",
+    "nom": "Antea Group (Antea France)",
+    "type": "bureau_etudes",
+    "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792070104/Noe%20assets/logos/PREST_BOI_014.png",
+    "siret": "39320673500598",
+    "description": "Bureau d'études en ingénierie et conseil en environnement, implanté en métropole et outre-mer. Son pôle eau évalue les ressources souterraines sensibles comme les eaux minérales et les eaux embouteillées, étudie les périmètres de protection et les aires d'alimentation de captage, réalise des diagnostics territoriaux des pressions sur la ressource et suit son évolution. Prise de contact par le formulaire « Poser une question » du site.",
+    "expertises": [
+      "Évaluation des eaux minérales",
+      "Études de périmètres de protection",
+      "Aires d'alimentation de captage",
+      "Suivi des ressources en eau"
+    ],
+    "categories": [
+      "agir_grand_cycle"
+    ],
+    "secteurs": [
+      "industrie_boissons"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_BOI_008",
+        "roles": [
+          "conseil_etude"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.anteagroup.fr"
+      },
+      {
+        "type": "adresse",
+        "value": "ZAC du Moulin, 803 boulevard Duhamel du Monceau, 45160 Olivet"
+      },
+      {
+        "type": "linkedin",
+        "value": "https://www.linkedin.com/company/antea"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "siret, adresse",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=Antea%20France&departement=45",
+        "date": "2026-10-15",
+        "extrait": "ANTEA FRANCE (ANTEA GROUP), SIRET 39320673500598, siège, ZAC DU MOULIN 803 BOULEVARD DUHAMEL DU MONCEAU 45160 OLIVET, NAF 71.12B, état A, 34 établissements ouverts"
+      },
+      {
+        "champ": "description, expertises, mesures, categories",
+        "url": "https://www.anteagroup.fr/services/exploitation-valorisation-eaux-souterraines-surface",
+        "date": "2026-10-15",
+        "extrait": "ressources très sensibles comme les eaux minérales, les eaux thermales et les eaux embouteillées (caractériser, homologuer et permettre l'exploitation commerciale de ces ressources) [...] Nos savoir-faire portent sur l'étude des périmètres de protection, d'aires d'alimentation de captage, et sur des diagnostics territoriaux multi-pressions [...] prestations de suivi de l'évolution des ressources en eau"
+      },
+      {
+        "champ": "secteurs (référence du secteur)",
+        "url": "https://www.reunion.gouv.fr/contenu/telechargement/17254/156319/file/a83530_e2_dossier_autorisation_emn_cilaos.pdf",
+        "date": "2026-10-15",
+        "extrait": "Eau Minérale Naturelle « Cilaos ». Régularisation de la Demande d'autorisation d'exploiter une eau minérale naturelle pour le conditionnement d'eau. Mars 2018. Sarl CILAOS [...] Présenté par Antea Group, Agence de la Réunion"
+      },
+      {
+        "champ": "departements",
+        "url": "https://www.anteagroup.fr/nos-implantations",
+        "date": "2026-10-15",
+        "extrait": "Découvrez nos implantations en France métropolitaine et territoires d'outre-mer."
+      },
+      {
+        "champ": "contacts (site_internet, linkedin), description (accès par formulaire)",
+        "url": "https://www.anteagroup.fr/services/eau",
+        "date": "2026-10-15",
+        "extrait": "Poser une question (formulaire : domaine d'intérêt, nom, prénom, entité, département, e-mail, téléphone, message) ; lien LinkedIn linkedin.com/company/antea"
+      },
+      {
+        "champ": "logo_url",
+        "url": "https://www.anteagroup.fr/favicons/apple-icon-180x180.png",
+        "date": "2026-10-15",
+        "extrait": "apple-touch-icon 180x180 du site anteagroup.fr"
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "PREST_BOI_015",
+    "nom": "CCI de région Hauts-de-France",
+    "type": "chambre_consulaire",
+    "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792070117/Noe%20assets/logos/PREST_BOI_015.png",
+    "siret": "13002271800014",
+    "description": "Établissement consulaire de région auquel sont rattachées les sept CCI des Hauts-de-France, qui accompagne les entreprises dans leur transition écologique au sein de la démarche rev3. Son accompagnement à la gestion de l'eau, réalisé par un conseiller spécialisé, commence par une visite du site et un diagnostic de la gestion de l'eau, propose des actions à court, moyen et long terme, peut inclure une étude d'opportunité et de faisabilité sur la récupération d'eau de pluie, la réutilisation des eaux usées ou leur traitement par les plantes, et identifie les aides de l'agence de l'eau, de l'ADEME et de la Région. La prestation est sur devis, ouverte à toute entreprise régionale, plus particulièrement celles de l'industrie, et se conclut par un rapport de recommandations.",
+    "expertises": [
+      "Diagnostic de la gestion de l'eau",
+      "Étude récupération d'eau de pluie",
+      "Étude de réutilisation des eaux usées",
+      "Identification des aides eau"
+    ],
+    "categories": [
+      "suivre_comprendre_maitriser",
+      "valoriser_reut_eaux_non_conventionnelles",
+      "agir_rejets_qualite"
+    ],
+    "secteurs": [
+      "industrie_boissons"
+    ],
+    "departements": [
+      "02",
+      "59",
+      "60",
+      "62",
+      "80"
+    ],
+    "mesures": [
+      {
+        "id": "ACT_AGR_002",
+        "roles": [
+          "conseil_etude"
+        ]
+      },
+      {
+        "id": "ACT_AGR_006",
+        "roles": [
+          "conseil_etude"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://hautsdefrance.cci.fr/solutions/accompagnement-gestion-eau/"
+      },
+      {
+        "type": "mail",
+        "value": "r.zaitzev@hautsdefrance.cci.fr"
+      },
+      {
+        "type": "tel",
+        "value": "07 60 11 30 56"
+      },
+      {
+        "type": "adresse",
+        "value": "299 boulevard de Leeds, 59031 Lille cedex"
+      },
+      {
+        "type": "linkedin",
+        "value": "https://www.linkedin.com/company/cci-hauts-de-france"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "description, expertises, mesures, categories",
+        "url": "https://hautsdefrance.cci.fr/solutions/accompagnement-gestion-eau/",
+        "date": "2026-10-15",
+        "extrait": "Réalisé par un conseiller spécialisé, l'accompagnement à la gestion de l'eau se déroule en 5 étapes : Visite de l'entreprise et diagnostic de la gestion de l'eau. [...] étude d'opportunité et de faisabilité pour : la récupération de l'eau de pluie (conseil technique et analyse économique), la réutilisation des eaux usées (REUT), le traitement des eaux usées par les plantes. [...] Tarif : Sur devis. Public : Toute entreprise régionale, plus particulièrement celles des secteurs industrie et services à l'industrie"
+      },
+      {
+        "champ": "contacts (site_internet, mail, tel)",
+        "url": "https://hautsdefrance.cci.fr/solutions/accompagnement-gestion-eau/",
+        "date": "2026-10-15",
+        "extrait": "Contacts : Raphaël Zaïtzev, Hauts-de-France, 07 60 11 30 56, Contacter par email (r.zaitzev@hautsdefrance.cci.fr)"
+      },
+      {
+        "champ": "departements, contacts (adresse), description",
+        "url": "https://hautsdefrance.cci.fr/cci-hauts-de-france/agences/",
+        "date": "2026-10-15",
+        "extrait": "le réseau des Chambres de commerce et d'industrie s'articule autour de la CCI de région Hauts-de-France, à laquelle sont rattachées les CCI Aisne, Amiens-Picardie, Artois, Grand Lille, Grand Hainaut, Littoral Hauts-de-France, Oise. [...] CCI Hauts-de-France, 299 boulevard de Leeds, 59031 Lille cedex"
+      },
+      {
+        "champ": "contacts (linkedin)",
+        "url": "https://hautsdefrance.cci.fr/",
+        "date": "2026-10-15",
+        "extrait": "lien de pied de page vers https://www.linkedin.com/company/cci-hauts-de-france"
+      },
+      {
+        "champ": "siret",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=13002271800014",
+        "date": "2026-10-15",
+        "extrait": "CHAMBRE DE COMMERCE ET D'INDUSTRIE DE REGION HAUTS-DE-FRANCE (CCIR), siret 13002271800014, siège, 299 BOULEVARD DE LEEDS 59777 LILLE, état administratif A"
+      },
+      {
+        "champ": "logo_url",
+        "url": "https://hautsdefrance.cci.fr/content/themes/cci-uas-hdf/assets/img/favicons/apple-touch-icon.png",
+        "date": "2026-10-15",
+        "extrait": "apple-touch-icon 180 x 180 du site hautsdefrance.cci.fr"
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "PREST_BOI_016",
+    "nom": "Ecopal",
+    "type": "association",
+    "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792070093/Noe%20assets/logos/PREST_BOI_016.png",
+    "siret": "43878369800048",
+    "description": "Association d'écologie industrielle et territoriale née en 2001 sur le bassin dunkerquois, avec des antennes à Dunkerque et à Lille. Pour ses adhérents, elle réalise un diagnostic eau sur site (visite d'une à deux heures des points d'eau, recherche de fuites, repérage des plus gros postes et des produits chimiques les plus polluants), suivi d'un rapport avec état des lieux, schémas des circuits d'eau et axes d'amélioration. Le diagnostic eau est gratuit mais réservé aux adhérents, il n'est pas proposé en prestation aux non-adhérents. Les ateliers de détection de synergies entre entreprises sont proposés sur devis.",
+    "expertises": [
+      "Diagnostic eau sur site",
+      "Recherche de fuites",
+      "Substitution des produits polluants",
+      "Ateliers de détection de synergies"
+    ],
+    "categories": [
+      "suivre_comprendre_maitriser",
+      "agir_rejets_qualite"
+    ],
+    "secteurs": [
+      "industrie_boissons"
+    ],
+    "departements": [
+      "59",
+      "62"
+    ],
+    "mesures": [
+      {
+        "id": "ACT_AGR_002",
+        "roles": [
+          "conseil_etude"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.ecopal.org/fr/"
+      },
+      {
+        "type": "tel",
+        "value": "03 28 51 01 18"
+      },
+      {
+        "type": "adresse",
+        "value": "Bâtiment ÉcosystèmeD, 60 route du Pertuis du môle 2, 59140 Dunkerque"
+      },
+      {
+        "type": "linkedin",
+        "value": "https://www.linkedin.com/company/ecopal/"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "siret, adresse",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=Ecopal&departement=59",
+        "date": "2026-10-15",
+        "extrait": "ECONOM ECOLOGIE PARTENAI ACTION LOCALE (ECOPAL), siret 43878369800048, siège, 60 ROUTE DU PERTUIS DU MOLE 2 59140 DUNKERQUE, nature juridique 9220, état A"
+      },
+      {
+        "champ": "expertises, mesures, description",
+        "url": "https://www.ecopal.org/fr/services/diagnostics-dechets-et-eau/",
+        "date": "2026-10-15",
+        "extrait": "Les diagnostics eau sont un service gratuit pour les adhérents [...] les diagnostics eau ne sont pas disponibles en prestation. [...] La visite sur site, qui se déroule sur une ou deux heures, nous permet de voir tous les points d'eau, de vérifier s'il n'y a pas de fuites et de comprendre d'où provient la plus grande consommation d'eau. Nous regardons les produits chimiques ou biologiques utilisés [...] nous rédigeons un rapport complet qui va comprendre un état des lieux, les schémas des circuits d'eau, les axes d'améliorations"
+      },
+      {
+        "champ": "expertises, description",
+        "url": "https://www.ecopal.org/fr/services/notre-offre/",
+        "date": "2026-10-15",
+        "extrait": "Je suis adhérent Ecopal [...] Diagnostic \"eau\" gratuit de votre structure. [...] Prestations sur-mesure et sur devis [...] Ateliers de détection de synergies (territoires, club d'entreprises, zones d'activités)."
+      },
+      {
+        "champ": "description, departements",
+        "url": "https://www.ecopal.org/fr/association/",
+        "date": "2026-10-15",
+        "extrait": "une association engagée et dynamique, née en 2001 sur le bassin dunkerquois [...] notre influence s'étend à travers toute la région Hauts-de-France (et au-delà) [...] 2014 Collaboration avec les clubs d'entreprises de la CCI Côte d'Opale."
+      },
+      {
+        "champ": "departements, description",
+        "url": "https://www.ecopal.org/fr/",
+        "date": "2026-10-15",
+        "extrait": "Antenne Ecopal concernée (Dunkerque ou Lille)"
+      },
+      {
+        "champ": "departements",
+        "url": "https://www.ecopal.org/fr/services/prestations-sur-mesure/",
+        "date": "2026-10-15",
+        "extrait": "Nous avons, par exemple, déjà soutenu la zone Capécure à Boulogne-sur-Mer avec succès."
+      },
+      {
+        "champ": "contacts",
+        "url": "https://www.ecopal.org/fr/contact/",
+        "date": "2026-10-15",
+        "extrait": "Association ECOPAL Bâtiment ÉcosystèmeD 60 route du Pertuis du môle 2 59140 DUNKERQUE 03 28 51 01 18"
+      },
+      {
+        "champ": "contacts",
+        "url": "https://www.ecopal.org/fr/",
+        "date": "2026-10-15",
+        "extrait": "Restons connectés LinkedIn (lien vers linkedin.com/company/ecopal/)"
+      },
+      {
+        "champ": "logo_url",
+        "url": "https://www.ecopal.org/files/2022/10/cropped-favicon-ecopal-180x180.png",
+        "date": "2026-10-15",
+        "extrait": "apple-touch-icon du site ecopal.org, 180 x 180"
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "PREST_BOI_017",
+    "nom": "Chambre d'agriculture du Nord-Pas de Calais",
+    "type": "chambre_consulaire",
+    "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792070191/Noe%20assets/logos/PREST_BOI_017.png",
+    "siret": "13001354300033",
+    "description": "Établissement public consulaire interdépartemental qui conseille les agriculteurs du Nord et du Pas-de-Calais et travaille avec les collectivités sur la gestion de l'espace. Sur les aires d'alimentation des captages prioritaires du bassin Artois-Picardie, elle fait connaître aux exploitants le paiement expérimental de l'agence de l'eau, les accompagne (réunions d'information, simulations des trajectoires de pratiques) et les aide à déposer leur dossier, avec les bureaux d'études Géonord et Solagro. Pour un embouteilleur ou un brasseur qui veut protéger l'impluvium de sa source, c'est l'interlocuteur pour mobiliser les agriculteurs du secteur, les conditions d'accès et de tarif n'étant pas précisées sur les pages consultées.",
+    "expertises": [
+      "Animation agricole des aires de captage",
+      "Accompagnement aux paiements pour services environnementaux",
+      "Simulation des trajectoires de pratiques",
+      "Appui au dossier agence de l'eau"
+    ],
+    "categories": [
+      "agir_grand_cycle"
+    ],
+    "secteurs": [
+      "industrie_boissons"
+    ],
+    "departements": [
+      "59",
+      "62"
+    ],
+    "mesures": [
+      {
+        "id": "ACT_BOI_008",
+        "roles": [
+          "conseil_etude"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://hautsdefrance.chambres-agriculture.fr/votre-chambre/qui-sommes-nous/nos-etablissements/chambre-agriculture-interdepartementale-du-nord-pas-de-calais"
+      },
+      {
+        "type": "mail",
+        "value": "contact@npdc.chambagri.fr"
+      },
+      {
+        "type": "tel",
+        "value": "03 21 60 57 57"
+      },
+      {
+        "type": "adresse",
+        "value": "56 avenue Roger Salengro, BP 80039, 62051 Saint-Laurent-Blangy Cedex"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "contacts, departements, description",
+        "url": "https://hautsdefrance.chambres-agriculture.fr/votre-chambre/qui-sommes-nous/nos-etablissements/chambre-agriculture-interdepartementale-du-nord-pas-de-calais",
+        "date": "2026-10-15",
+        "extrait": "Chambre interdépartementale d'agriculture de Nord-Pas de Calais [...] 56 Avenue Roger Salengro - BP80039 62051 Saint Laurent Blangy Cedex contact@npdc.chambagri.fr Tél. 03 21 60 57 57 [...] acteurs de l'agriculture et l'agroalimentaire du Nord et du Pas-de-Calais [...] Son action s'inscrit à l'échelle du Nord-Pas de Calais"
+      },
+      {
+        "champ": "siret",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=Chambre%20d%27agriculture%20Nord-Pas%20de%20Calais&departement=62",
+        "date": "2026-10-15",
+        "extrait": "CHAMBRE D'AGRICULTURE DU NORD PAS DE CALAIS, SIRET 13001354300033, siège, 299 boulevard de Leeds 59777 Lille, état administratif A"
+      },
+      {
+        "champ": "expertises, mesures, description",
+        "url": "https://hautsdefrance.chambres-agriculture.fr/actualites/actualite/deploiement-dun-pse-experimental-pour-les-captages-ultra-prioritaires",
+        "date": "2026-10-15",
+        "extrait": "La protection des Aires d'Alimentation des Captages (AAC) est un enjeu majeur sur le bassin Artois Picardie [...] La Chambre d'agriculture Nord - Pas de Calais est mobilisée pour promouvoir et accompagner les exploitations dans ce dispositif, en collaboration avec les bureaux d'études, GEONORD et SOLAGRO."
+      },
+      {
+        "champ": "expertises, mesures",
+        "url": "https://hautsdefrance.chambres-agriculture.fr/actualites/actualite/nouvelle-mesure-experimentale-captages-quel-bilan-apres-les-reunions-dinformation",
+        "date": "2026-10-15",
+        "extrait": "L'accompagnement des exploitations va se poursuivre jusqu'à cet été : Prise de contact ciblée avec les agriculteurs intéressés ; Relance téléphonique des exploitations recensées sur les AAC ; Réalisation de simulations et calculs des trajectoires ; Accompagnement au dépôt du dossier auprès de l'Agence de l'Eau, si souscription."
+      },
+      {
+        "champ": "logo_url",
+        "url": "https://hautsdefrance.chambres-agriculture.fr/fileadmin/user_upload/FAL_COMMUN/Logos_CA/CRA_HAUTS_FRANCE/Chambre_Nord-Pas_de_Calais/CA_NORD-PAS-DE-CALAIS_H_RVB.png",
+        "date": "2026-10-15",
+        "extrait": "Logo couleur de la Chambre d'agriculture Nord-Pas-de-Calais (537 x 211), page établissement du site hautsdefrance.chambres-agriculture.fr"
+      }
+    ],
+    "date_maj": "2026-10-15"
+  }
+]

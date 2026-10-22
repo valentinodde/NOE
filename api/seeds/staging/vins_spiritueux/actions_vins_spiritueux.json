@@ -1,0 +1,378 @@
+[
+  {
+    "id": "ACT_VIN_001",
+    "titre": "Former les équipes de chai aux nettoyages économes en eau",
+    "titre_court": "Nettoyages économes",
+    "description": "Former chaque année l'équipe et les saisonniers aux gestes économes : raclette avant le jet, rinçage des cuves aussitôt vidées, robinets fermés, procédure écrite avec contrôle du rinçage au pH. Ces gestes réduisent de 10 à 20 % l'eau de nettoyage sans aucun investissement.",
+    "categorie": "sensibiliser_former",
+    "secteurs": [
+      "vins_spiritueux"
+    ],
+    "effort": {
+      "capex": "faible",
+      "opex": "faible",
+      "humain": "moyen"
+    },
+    "impact_eau": 2,
+    "facilite": 3,
+    "horizon": "immediat",
+    "image": null,
+    "infos_complementaires": [
+      {
+        "type": "info",
+        "texte": "L'hygiène des équipements et des locaux représente 70 à 90 % de l'eau consommée par une cave : c'est là que se jouent les économies.",
+        "lien": "https://www.vignevin-occitanie.com/wp-content/uploads/2019/10/Optimisation-de-lutilisation-de-leau-au-chai.pdf",
+        "lien_label": "IFV, 2019"
+      },
+      {
+        "type": "retour_experience",
+        "texte": "Dans le projet Vin'Eau, les caves coopératives du Vaucluse visent 20 à 30 % d'économie sans investissement lourd en combinant ces gestes, le nettoyage à sec, l'eau chaude et les canons à mousse.",
+        "lien": "https://projetvineau.fr/economies-deau-dans-les-caves-vinicoles-enjeux-et-solutions/",
+        "lien_label": "Projet Vin'Eau"
+      },
+      {
+        "type": "info",
+        "texte": "Le renfort saisonnier des vendanges change l'équipe chaque année : prévoyez une courte session au démarrage de la campagne plutôt qu'une formation unique."
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "description",
+        "url": "https://www.vignevin-occitanie.com/wp-content/uploads/2019/10/Optimisation-de-lutilisation-de-leau-au-chai.pdf",
+        "extrait": "Ces gestes limitent à eux seuls la consommation de 10 à 20 %."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://projetvineau.fr/economies-deau-dans-les-caves-vinicoles-enjeux-et-solutions/",
+        "extrait": "20 à 30 % d'économie sans investissement lourd."
+      }
+    ],
+    "date_maj": "2026-09-28"
+  },
+  {
+    "id": "ACT_VIN_002",
+    "titre": "Équiper les transferts de vin d'un système de raclage des canalisations",
+    "titre_court": "Raclage des canalisations",
+    "description": "Vider les canalisations de vendange, de moût et de vin avec un obus poussé au gaz avant de les rincer, plutôt que de pousser le produit à l'eau. Vous récupérez du vin, vous économisez 50 à 80 % de l'eau des transferts et vous allégez nettement la charge des effluents.",
+    "categorie": "ameliorer_efficacite_hydrique",
+    "secteurs": [
+      "vins_spiritueux"
+    ],
+    "effort": {
+      "capex": "moyen",
+      "opex": "faible",
+      "humain": "faible"
+    },
+    "impact_eau": 3,
+    "facilite": 2,
+    "horizon": "court_terme",
+    "image": null,
+    "infos_complementaires": [
+      {
+        "type": "info",
+        "texte": "La pousse à l'eau peut représenter à elle seule plus de 30 % des volumes consommés dans certaines caves.",
+        "lien": "https://www.vignevin-occitanie.com/wp-content/uploads/2019/10/Optimisation-de-lutilisation-de-leau-au-chai.pdf",
+        "lien_label": "IFV, 2019"
+      },
+      {
+        "type": "avertissement",
+        "texte": "Le raclage demande un réseau adapté : vannes à passage intégral, gares d'introduction et de récupération de l'obus. Faites vérifier le réseau existant avant de commander."
+      },
+      {
+        "type": "ressource",
+        "texte": "Bonnes pratiques pour une utilisation durable des ressources (IFV, projet Vineco)",
+        "lien": "https://www.vignevin.com/wp-content/uploads/2019/03/AE45_Vineco_2014.pdf"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "description",
+        "url": "https://www.vignevin.com/wp-content/uploads/2019/03/AE45_Vineco_2014.pdf",
+        "extrait": "50 à 80 % d'eau en moins lors des transferts de vin."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.vignevin-occitanie.com/wp-content/uploads/2019/10/Optimisation-de-lutilisation-de-leau-au-chai.pdf",
+        "extrait": "La pousse à l'eau peut représenter plus de 30 % des volumes ; installations adaptées nécessaires (vannes à passage intégral, gares)."
+      }
+    ],
+    "date_maj": "2026-09-28"
+  },
+  {
+    "id": "ACT_VIN_003",
+    "titre": "Moderniser le nettoyage des cuves et concevoir un chai facile à nettoyer",
+    "titre_court": "Nettoyage des cuves",
+    "description": "Équiper le chai d'une centrale de nettoyage, de têtes de lavage rotatives, d'eau chaude et d'un canon à mousse, et choisir des cuves et des surfaces qui se vidangent totalement lors de chaque renouvellement. Le nettoyage des cuves, premier poste d'une cave, peut baisser de moitié.",
+    "categorie": "ameliorer_efficacite_hydrique",
+    "secteurs": [
+      "vins_spiritueux"
+    ],
+    "effort": {
+      "capex": "important",
+      "opex": "faible",
+      "humain": "moyen"
+    },
+    "impact_eau": 3,
+    "facilite": 1,
+    "horizon": "moyen_terme",
+    "image": null,
+    "infos_complementaires": [
+      {
+        "type": "info",
+        "texte": "À la conception, un inox recuit brillant réduit de plus de 50 % l'eau de nettoyage des cuves par rapport à un état de surface standard (2B).",
+        "lien": "https://www.vignevin-occitanie.com/wp-content/uploads/2019/10/Optimisation-de-lutilisation-de-leau-au-chai.pdf",
+        "lien_label": "IFV, 2019"
+      },
+      {
+        "type": "info",
+        "texte": "Une pente de 2 à 3 % en fond de cuve permet une vidange totale et limite l'eau nécessaire au rinçage.",
+        "lien": "https://www.ifpc.eu/wp-content/uploads/2024/12/Pres-Hygiene-en-cidrerie-diagnostics-essais-et-pistes-damelioration-2023.pdf",
+        "lien_label": "IFPC, 2023"
+      },
+      {
+        "type": "avertissement",
+        "texte": "Tout changement de procédure de nettoyage doit rester conforme à votre plan d'hygiène : vérifiez l'efficacité du nouveau cycle avant de l'adopter en routine."
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "description",
+        "url": "https://www.vignevin-occitanie.com/wp-content/uploads/2019/10/Optimisation-de-lutilisation-de-leau-au-chai.pdf",
+        "extrait": "L'inox recuit brillant réduit de plus de 50 % l'eau de nettoyage des cuves par rapport à un état de surface 2B."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.ifpc.eu/wp-content/uploads/2024/12/Pres-Hygiene-en-cidrerie-diagnostics-essais-et-pistes-damelioration-2023.pdf",
+        "extrait": "Boules ou têtes de lavage rotatives, ballon d'eau chaude, pente de 2 à 3 % en fond de cuve."
+      }
+    ],
+    "date_maj": "2026-09-28"
+  },
+  {
+    "id": "ACT_VIN_004",
+    "titre": "Passer le refroidissement des alambics et des cuves en circuit fermé",
+    "titre_court": "Refroidissement en circuit fermé",
+    "description": "Remplacer l'eau perdue qui refroidit les serpentins d'alambic, les cuves ou les pompes à vide par une boucle fermée avec aéroréfrigérant ou groupe froid, et récupérer la chaleur pour préchauffer le vin. Pour une distillerie, c'est souvent le premier poste d'eau qui disparaît.",
+    "categorie": "ameliorer_efficacite_hydrique",
+    "secteurs": [
+      "vins_spiritueux"
+    ],
+    "effort": {
+      "capex": "moyen",
+      "opex": "moyen",
+      "humain": "faible"
+    },
+    "impact_eau": 3,
+    "facilite": 2,
+    "horizon": "court_terme",
+    "image": null,
+    "infos_complementaires": [
+      {
+        "type": "avertissement",
+        "texte": "Le circuit ouvert est interdit pour les caves soumises à enregistrement (rubrique 2251) et plafonné à 10 m3 par jour pour les distilleries déclarées (30 m3 si elles fonctionnent moins de six mois par an).",
+        "lien": "https://aida.ineris.fr/reglementation/arrete-250512-relatif-prescriptions-generales-applicables-installations-classees",
+        "lien_label": "Arrêté du 25 mai 2012"
+      },
+      {
+        "type": "avertissement",
+        "texte": "Une tour aéroréfrigérante relève de la rubrique ICPE 2921 et de ses obligations de prévention des légionelles : un aéroréfrigérant sec ou un groupe froid l'évite.",
+        "lien": "https://aida.ineris.fr/reglementation/2921-refroidissement-evaporatif-dispersion-deau-flux-dair-genere-ventilation",
+        "lien_label": "Rubrique 2921"
+      },
+      {
+        "type": "info",
+        "texte": "Dans la distillation charentaise, l'eau chauffée dans le refroidisseur sert de plus en plus à préchauffer le vin par un échangeur.",
+        "lien": "https://extranet.inao.gouv.fr/fichier/COMNAT-CST-20210118-Projet-Rapport-distillation-Cognac.pdf",
+        "lien_label": "INAO, 2021"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "description",
+        "url": "https://www.vignevin-occitanie.com/wp-content/uploads/2019/10/Optimisation-de-lutilisation-de-leau-au-chai.pdf",
+        "extrait": "Refroidissement des pompes à vide très consommateur s'il n'est pas recyclé ; boucle fermée recommandée."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://aida.ineris.fr/reglementation/arrete-250512-relatif-prescriptions-generales-applicables-installations-classees",
+        "extrait": "Refroidissement en circuit ouvert interdit au-delà de 10 m3 par jour (30 m3 pour une installation fonctionnant moins de six mois par an)."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://aida.ineris.fr/reglementation/arrete-261112-relatif-prescriptions-generales-applicables-installations-relevant-0",
+        "extrait": "Réfrigération en circuit ouvert interdite pour les installations enregistrées sous la rubrique 2251."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://extranet.inao.gouv.fr/fichier/COMNAT-CST-20210118-Projet-Rapport-distillation-Cognac.pdf",
+        "extrait": "Récupération de l'eau chaude du refroidisseur pour préchauffer le vin."
+      }
+    ],
+    "date_maj": "2026-09-28"
+  },
+  {
+    "id": "ACT_VIN_005",
+    "titre": "Réutiliser en cascade les eaux de rinçage et de refroidissement",
+    "titre_court": "Réutilisation en cascade",
+    "description": "Garder le dernier rinçage d'une cuve pour le prérinçage de la suivante, et renvoyer l'eau propre des pompes à vide ou du refroidissement vers le lavage des sols et des extérieurs. La même eau sert deux fois, sans traitement lourd, dans toutes les tailles de cave.",
+    "categorie": "valoriser_reut_eaux_non_conventionnelles",
+    "secteurs": [
+      "vins_spiritueux"
+    ],
+    "effort": {
+      "capex": "faible",
+      "opex": "faible",
+      "humain": "moyen"
+    },
+    "impact_eau": 2,
+    "facilite": 2,
+    "horizon": "court_terme",
+    "image": null,
+    "infos_complementaires": [
+      {
+        "type": "avertissement",
+        "texte": "Depuis 2024, réutiliser des eaux de processus recyclées dans une entreprise alimentaire relève d'une déclaration au préfet et doit être intégré au plan de maîtrise sanitaire.",
+        "lien": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000049010414",
+        "lien_label": "Décret n° 2024-33"
+      },
+      {
+        "type": "info",
+        "texte": "Toute eau de nettoyage susceptible d'entrer en contact avec le vin doit rester d'une qualité suffisante pour éviter les contaminations croisées : réservez les eaux les moins propres aux sols et aux extérieurs.",
+        "lien": "https://www.vignevin-occitanie.com/wp-content/uploads/2019/10/Optimisation-de-lutilisation-de-leau-au-chai.pdf",
+        "lien_label": "IFV, 2019"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "description",
+        "url": "https://www.vignevin-occitanie.com/wp-content/uploads/2019/10/Optimisation-de-lutilisation-de-leau-au-chai.pdf",
+        "extrait": "Dernier rinçage réemployé en prérinçage ; eau des pompes à vide et de refroidissement renvoyée vers le lavage des sols."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000049010414",
+        "date": "2024-01-24",
+        "extrait": "Eaux de processus recyclées dans les entreprises du secteur alimentaire : déclaration."
+      }
+    ],
+    "date_maj": "2026-09-28"
+  },
+  {
+    "id": "ACT_VIN_006",
+    "titre": "Réduire la charge des effluents et dimensionner leur traitement sur les vendanges",
+    "titre_court": "Effluents vinicoles",
+    "description": "Retirer bourbes, lies, tartre et solutions de détartrage du caniveau, puis choisir un stockage et une filière de traitement (stockage aéré, épandage, évaporation, station communale) calés sur la pointe des vendanges. Vous évitez les rejets non conformes et un ouvrage surdimensionné.",
+    "categorie": "agir_rejets_qualite",
+    "secteurs": [
+      "vins_spiritueux"
+    ],
+    "effort": {
+      "capex": "important",
+      "opex": "moyen",
+      "humain": "moyen"
+    },
+    "impact_eau": 2,
+    "facilite": 1,
+    "horizon": "moyen_terme",
+    "image": null,
+    "infos_complementaires": [
+      {
+        "type": "info",
+        "texte": "Une cave rejette 30 à 250 litres d'effluents par hectolitre de vin élaboré, dont 40 à 60 % pendant les vendanges, avec une DCO de 3 000 à 20 000 mg/l.",
+        "lien": "https://www.graie.org/graie/graiedoc/doc_telech/biblio_hors_graie/racc-biblio/cisalb2010fiches/01-Activitevinicole/bibliographie/01.03.ITVfrance2007_GestionGlobaledesEffluentsVinicoles.pdf",
+        "lien_label": "ITV France, 2007"
+      },
+      {
+        "type": "info",
+        "texte": "Le coût du stockage va de 30 à 75 € par m3 en géomembrane à 300 à 450 € par m3 en béton enterré.",
+        "lien": "https://www.vignevin-occitanie.com/fiches-pratiques/la-gestion-des-effluents-vinicoles/",
+        "lien_label": "IFV Occitanie"
+      },
+      {
+        "type": "avertissement",
+        "texte": "Rejetés sans adaptation dans une station communale, les effluents vinicoles en déséquilibrent le fonctionnement pendant des semaines : le raccordement passe par une autorisation de déversement de la collectivité."
+      },
+      {
+        "type": "retour_experience",
+        "texte": "En Champagne, un contrat entre l'agence de l'eau Seine-Normandie et l'interprofession a permis près de 350 conseils individuels sur les effluents entre 2013 et 2018.",
+        "lien": "https://levigneronchampenois.comitechampagne.fr/environnement/effluents-vinicoles",
+        "lien_label": "Comité Champagne"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "description",
+        "url": "https://www.graie.org/graie/graiedoc/doc_telech/biblio_hors_graie/racc-biblio/cisalb2010fiches/01-Activitevinicole/bibliographie/01.03.ITVfrance2007_GestionGlobaledesEffluentsVinicoles.pdf",
+        "extrait": "Retrait des sous-produits, premier levier de réduction de la charge ; filières stockage aéré, épandage, évaporation naturelle, station communale."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.vignevin-occitanie.com/fiches-pratiques/la-gestion-des-effluents-vinicoles/",
+        "extrait": "Stockage : 30 à 75 € par m3 en géomembrane, 300 à 450 € par m3 en béton enterré."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://levigneronchampenois.comitechampagne.fr/environnement/effluents-vinicoles",
+        "extrait": "Contrat vigne, vin et qualité de l'eau 2013-2018, près de 350 conseils individuels."
+      }
+    ],
+    "date_maj": "2026-09-28"
+  },
+  {
+    "id": "ACT_VIN_007",
+    "titre": "Sécuriser le stockage et la filière de traitement des vinasses",
+    "titre_court": "Filière des vinasses",
+    "description": "Disposer d'un stockage étanche d'au moins la moitié du vin distillé dans la campagne, d'un plan d'épandage tenu à jour et d'une filière de secours, ou apporter les vinasses à un traitement collectif. La campagne de distillation n'est plus suspendue à la météo ou à un épandage refusé.",
+    "categorie": "agir_rejets_qualite",
+    "secteurs": [
+      "vins_spiritueux"
+    ],
+    "effort": {
+      "capex": "important",
+      "opex": "moyen",
+      "humain": "moyen"
+    },
+    "impact_eau": 2,
+    "facilite": 1,
+    "horizon": "moyen_terme",
+    "image": null,
+    "infos_complementaires": [
+      {
+        "type": "info",
+        "texte": "Dans le procédé charentais, un hectolitre de vin distillé donne environ 0,9 hl de vinasses, très acides (pH proche de 3,4) : le volume à gérer est presque celui du vin.",
+        "lien": "https://www.charente.gouv.fr/content/download/33178/206116/file/DOSSIER%20PLAN%20EPANDAGE.pdf",
+        "lien_label": "Chambre d'agriculture de la Charente, 2018"
+      },
+      {
+        "type": "avertissement",
+        "texte": "Pour les distilleries déclarées ou enregistrées (rubrique 2250), le stockage des vinasses destinées à l'épandage doit couvrir 50 % du vin distillé dans la campagne.",
+        "lien": "https://aida.ineris.fr/reglementation/arrete-250512-relatif-prescriptions-generales-applicables-installations-classees",
+        "lien_label": "Arrêté du 25 mai 2012"
+      },
+      {
+        "type": "info",
+        "texte": "En Charentes, l'épandage des vinasses est limité à 600 hl par hectare et par an, et déconseillé sur vigne de novembre à janvier."
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "description",
+        "url": "https://aida.ineris.fr/reglementation/arrete-250512-relatif-prescriptions-generales-applicables-installations-classees",
+        "extrait": "Stockage des vinasses destinées à l'épandage couvrant 50 % du vin distillé dans la campagne."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.charente.gouv.fr/content/download/33178/206116/file/DOSSIER%20PLAN%20EPANDAGE.pdf",
+        "extrait": "0,9 hl de vinasses par hl de vin distillé ; pH de l'ordre de 3,4 ; 600 hl par hectare et par an (accord Lamorlette) ; épandage déconseillé de novembre à janvier sur vigne."
+      }
+    ],
+    "date_maj": "2026-09-28"
+  }
+]

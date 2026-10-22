@@ -1,0 +1,79 @@
+{
+  "id": "PREST_LAI_002",
+  "nom": "Cniel (Centre national interprofessionnel de l'économie laitière)",
+  "type": "association",
+  "logo_url": null,
+  "siret": "30081795400062",
+  "description": "Le Cniel est l'association interprofessionnelle de la filière laitière, qui regroupe les organisations de producteurs de lait de vache, les entreprises laitières privées, les coopératives et les acteurs du commerce et de la distribution. Sur l'eau, il produit des références collectives pour les sites de transformation plutôt qu'un accompagnement individuel : il a initié et cofinancé avec les agences de l'eau Loire-Bretagne et Seine-Normandie le projet AQUAREL, mené avec Actalia, qui a documenté la réutilisation des eaux issues du lait, les bonnes pratiques de gestion de l'eau et le traitement des effluents à partir d'une enquête auprès des sites laitiers, et il porte auprès des pouvoirs publics l'évolution de la réglementation sur la réutilisation de ces eaux. L'accès se fait par ses publications : livrables d'AQUAREL téléchargeables chez Actalia, portail documentaire cniel-infos.com en accès libre, documents réservés et veille sectorielle pour les professionnels identifiés.",
+  "expertises": [
+    "Références de filière sur l'eau",
+    "Réutilisation des eaux issues du lait",
+    "Veille scientifique et technologique",
+    "Portail documentaire laitier"
+  ],
+  "categories": [
+    "valoriser_reut_eaux_non_conventionnelles"
+  ],
+  "secteurs": ["industrie_laitiere"],
+  "departements": [],
+  "mesures": [
+    { "id": "ACT_LAI_006", "roles": ["conseil_etude"] }
+  ],
+  "contacts": [
+    { "type": "site_internet", "value": "https://www.cniel.com" },
+    { "type": "tel", "value": "01 49 70 71 11" },
+    { "type": "adresse", "value": "Maison du lait, 42 rue de Châteaudun, 75314 Paris Cedex 9" }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "nom, type, description",
+      "url": "https://www.cniel.com/",
+      "date": "2026-09-22",
+      "extrait": "Le Centre national interprofessionnel de l'économie laitière est l'association qui regroupe les organisations représentant les producteurs de lait de vache, les entreprises laitières privées, les coopératives laitières, et les acteurs du commerce, de la distribution et de la restauration collective."
+    },
+    {
+      "champ": "siret",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=CNIEL",
+      "date": "2026-09-22",
+      "extrait": "CENTRE NAT INTERPRO ECONOMIE LAITIERE (CNIEL), siret 30081795400062, siege, 42 RUE DE CHATEAUDUN 75009 PARIS, nature juridique 9220, activite principale 94.99Z"
+    },
+    {
+      "champ": "contacts",
+      "url": "https://www.cniel.com/contacter-le-cniel",
+      "date": "2026-09-22",
+      "extrait": "Maison du lait, 42 rue de Châteaudun, 75314 Paris Cedex 9. +33(1) 49 70 71 11. Ouverte de 9h à 18h du lundi au jeudi, et de 9h à 17h le vendredi"
+    },
+    {
+      "champ": "description, expertises, mesures, categories",
+      "url": "https://www.actalia.eu/wp-content/uploads/2018/10/AQUAREL_2018_R%C3%A9utilisation-des-eaux-issues-du-lait_document-g%C3%A9n%C3%A9ral.pdf",
+      "date": "2026-09-22",
+      "extrait": "Les informations contenues dans cette publication ont été obtenues dans le cadre d'un Projet de recherche initié par le CNIEL, mené conjointement avec ACTALIA, grâce au soutien financier du CNIEL et des Agences de l'Eau Seine-Normandie et Loire-Bretagne."
+    },
+    {
+      "champ": "description, mesures",
+      "url": "https://franceterredelait.fr/pierre-barrucand-il-existe-encore-un-gros-potentiel-de-valorisation-de-leau-disponible-dans-les-laiteries",
+      "date": "2026-09-22",
+      "extrait": "Le Cniel s'était engagé dans son plan de filière 2017 à accompagner la mise en oeuvre d'ici 5 ans des recommandations issues du programme AQUAREL dans les laiteries, programme portant sur les économies d'eau à la source et la possibilité de réutiliser l'eau sur les sites de transformation du lait. Site édité par le Cniel (mentions légales franceterredelait.fr)."
+    },
+    {
+      "champ": "description, expertises",
+      "url": "https://cniel-infos.com/main.htm",
+      "date": "2026-09-22",
+      "extrait": "Le portail documentaire de référence de la filière laitière française. Il regroupe l'ensemble des publications, études, indicateurs économiques et contenus techniques du Cniel. Accès libre à l'ensemble des ressources accessibles à tous, et aux professionnels identifiés un accès à des documents réservés ainsi qu'à la veille sectorielle."
+    },
+    {
+      "champ": "expertises",
+      "url": "https://www.cniel.com/le-cniel-en-actions/qualite-du-lait-et-des-produits-laitiers/sciences-et-technologies-laitieres",
+      "date": "2026-09-22",
+      "extrait": "Grâce à une veille approfondie du Cniel, les professionnels de la filière laitière reçoivent tous les mois une synthèse de l'actualité scientifique et technologique."
+    },
+    {
+      "champ": "departements",
+      "url": "https://www.cniel.com/le-cniel-en-region",
+      "date": "2026-09-22",
+      "extrait": "Véritable ancrage interprofessionel dans les territoires français, les Criel mettent en oeuvre et déploient la stratégie nationale dans les régions."
+    }
+  ],
+  "date_maj": "2026-09-22"
+}

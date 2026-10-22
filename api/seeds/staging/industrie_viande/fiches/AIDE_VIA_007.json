@@ -1,0 +1,158 @@
+{
+  "id": "AIDE_VIA_007",
+  "nom": "Prise en charge des formations du catalogue de l'offre régionale OCAPIAT, dont la réduction et la réutilisation de l'eau",
+  "financeur": "OCAPIAT, opérateur de compétences (OPCO) de la coopération agricole, de l'agriculture, de la pêche, de l'industrie agroalimentaire et des territoires",
+  "logo_url": null,
+  "type": "subvention",
+  "taux": "100 % des coûts pédagogiques pour les entreprises de moins de 50 salariés ; jusqu'à 100 % pour les entreprises du secteur alimentaire de 50 salariés et plus",
+  "plafond": "Entreprises de 50 salariés et plus : 5 stagiaires par an et par entreprise pour les demandes reçues à compter du 13 mai 2026. Moins de 50 salariés : sans quota de stagiaires, dans la limite des fonds disponibles",
+  "description": "OCAPIAT finance, sur ses fonds mutualisés au titre du plan de développement des compétences, plus de 3 500 formations courtes de son catalogue régional, en présentiel, à distance ou en format mixte. Le catalogue comprend des formations sur l'eau en industrie agroalimentaire : « Réduction et réutilisation de l'eau dans les industries agroalimentaires » et « Réduction et réutilisation de l'eau », d'une durée de 7 heures, qui portent sur le diagnostic eau de l'entreprise, les opérations de nettoyage, la réutilisation de l'eau et la mise en place d'un plan de sobriété eau.",
+  "eligibilite": "Entreprises relevant du périmètre d'OCAPIAT, c'est-à-dire d'une branche professionnelle adhérente (dont les industries des viandes, les industries charcutières, les industries de la volaille, les exploitations frigorifiques et les coopératives bétail et viande). Priorité aux entreprises de moins de 50 salariés ; accès sur contribution volontaire pour les entreprises de 50 salariés et plus.",
+  "categories": ["sensibiliser_former"],
+  "secteurs": ["industrie_viande"],
+  "departements": [],
+  "agences": [],
+  "mesures": ["ACT_VIA_001", "ACT_AGR_009"],
+  "infos_complementaires": [
+    {
+      "type": "avertissement",
+      "texte": "Le catalogue n'est accessible qu'aux entreprises du périmètre d'OCAPIAT, déterminé par la convention collective. Vérifiez votre code IDCC sur le site d'OCAPIAT avant toute inscription.",
+      "lien": "https://www.ocapiat.fr/verifier-par-secteur-lappartenance-dune-entreprise-a-ocapiat/",
+      "lien_label": "Vérifier l'appartenance à OCAPIAT"
+    },
+    {
+      "type": "avertissement",
+      "texte": "Entreprises de 50 salariés et plus du secteur alimentaire : pour toute demande reçue à compter du 13 mai 2026, la prise en charge au titre du catalogue est limitée à 5 stagiaires par an et par entreprise (contre 20 auparavant). Réservez ces places aux formations les plus utiles, par exemple celles sur l'eau.",
+      "lien": "https://www.ocapiat.fr/formations-catalogue-secteur-alimentaire-entreprises-50-salaries-et-plus-le-financement-evolue/",
+      "lien_label": "Annonce d'OCAPIAT du 21 mai 2026"
+    },
+    {
+      "type": "info",
+      "texte": "Formations sur l'eau référencées au catalogue : « Réduction et réutilisation de l'eau dans les industries agroalimentaires » (CTCPA Paris, Île-de-France) et « Réduction et réutilisation de l'eau » (ISARA et CRITT Agro-Alimentaire PACA, Provence-Alpes-Côte d'Azur). Leurs programmes couvrent le diagnostic eau de l'entreprise, un focus sur les opérations de nettoyage et la mise en place d'un plan de sobriété eau. Vérifiez les sessions ouvertes sur le portail avant de vous organiser."
+    },
+    {
+      "type": "info",
+      "texte": "Vous recherchez la formation sur le portail de l'offre régionale, puis vous inscrivez en ligne votre salarié, ou vous mandatez un centre de formation référencé, sous réserve de son accord. Si la formation recherchée n'est pas au catalogue, votre conseiller OCAPIAT peut étudier d'autres solutions."
+    },
+    {
+      "type": "info",
+      "texte": "Pour les salariés de 50 ans et plus, OCAPIAT prend aussi en charge la rémunération à hauteur de 12 € stagiaire, dans la limite du montant des coûts pédagogiques pris en charge."
+    },
+    {
+      "type": "ressource",
+      "texte": "Page du catalogue de formations et de son financement sur le site d'OCAPIAT",
+      "lien": "https://www.ocapiat.fr/catalogue-de-formations-et-financement/"
+    },
+    {
+      "type": "ressource",
+      "texte": "Portail de recherche et d'inscription de l'offre régionale OCAPIAT",
+      "lien": "https://offredeformation.ocapiat.fr/catalogui/#/home"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "financeur",
+      "url": "https://www.ocapiat.fr/catalogue-de-formations-et-financement/",
+      "date": "2026-09-24",
+      "extrait": "OCAPIAT est l’Opérateur de Compétences (OPCO) pour la Coopération agricole, l’Agriculture, la Pêche, l’Industrie Agroalimentaire et les Territoires."
+    },
+    {
+      "champ": "eligibilite",
+      "url": "https://www.ocapiat.fr/catalogue-de-formations-et-financement/",
+      "date": "2026-09-24",
+      "extrait": "Le catalogue de formation de l’offre régionale est accessible : Uniquement aux entreprises du périmètre d’OCAPIAT. Prioritairement aux entreprises < 50 salariés. Sur contribution volontaire, aux entreprises de 50 salariés et plus."
+    },
+    {
+      "champ": "type, taux, description",
+      "url": "https://www.ocapiat.fr/catalogue-de-formations-et-financement/",
+      "date": "2026-09-24",
+      "extrait": "Financement sur fonds mutualisés d’OCAPIAT au titre du dispositif plan de développement des compétences. Coûts pédagogiques financés à 100 % pour les entreprises de moins de 50 salariés."
+    },
+    {
+      "champ": "infos_complementaires",
+      "url": "https://www.ocapiat.fr/catalogue-de-formations-et-financement/",
+      "date": "2026-09-24",
+      "extrait": "Prise en charge de la rémunération pour les salariés expérimentés (50 ans et plus) à hauteur de 12€ stagiaire. Prise en charge des salaires plafonnée au montant des coûts pédagogiques pris en charge par l’OPCO."
+    },
+    {
+      "champ": "description",
+      "url": "https://www.ocapiat.fr/catalogue-de-formations-et-financement/",
+      "date": "2026-09-24",
+      "extrait": "D’accéder à plus de 3 500 formations de courte durée sélectionnées par OCAPIAT. [...] Sous différents formats : présentiel, distanciel ou mixte (présentiel + distanciel)."
+    },
+    {
+      "champ": "infos_complementaires",
+      "url": "https://www.ocapiat.fr/catalogue-de-formations-et-financement/",
+      "date": "2026-09-24",
+      "extrait": "J’inscris en ligne mon salarié via le portail de l’offre régionale ou j’ai la possibilité de mandater un centre de formation référencé sur l’offre régionale sous réserve de son accord. [...] L’entreprise peut contacter son conseiller OCAPIAT pour explorer d’autres solutions ou formations non listées dans le catalogue."
+    },
+    {
+      "champ": "taux, plafond, infos_complementaires",
+      "url": "https://www.ocapiat.fr/formations-catalogue-secteur-alimentaire-entreprises-50-salaries-et-plus-le-financement-evolue/",
+      "date": "2026-09-24",
+      "extrait": "Parmi les dispositifs proposés, la prise en charge jusqu’à 100 % des coûts pédagogiques au titre du catalogue OCAPIAT, dans la limite de 20 salariés par entreprise et par an, rencontre un franc succès."
+    },
+    {
+      "champ": "plafond, infos_complementaires",
+      "url": "https://www.ocapiat.fr/formations-catalogue-secteur-alimentaire-entreprises-50-salaries-et-plus-le-financement-evolue/",
+      "date": "2026-09-24",
+      "extrait": "Pour toute demande effectuée par une entreprise de 50 salariés et plus, reçue à compter du 13 mai 2026, un nouveau plafond de 5 stagiaires par an et par entreprise s’applique (contre 20 salariés auparavant)."
+    },
+    {
+      "champ": "plafond",
+      "url": "https://www.ocapiat.fr/formations-catalogue-secteur-alimentaire-entreprises-50-salaries-et-plus-le-financement-evolue/",
+      "date": "2026-09-24",
+      "extrait": "Les entreprises de moins de 50 salariés ne sont pas concernées par cette limitation et peuvent continuer à utiliser le catalogue dans la limite des fonds disponibles au titre du plan de développement des compétences, et sans limitation ou quota de stagiaires bénéficiaires."
+    },
+    {
+      "champ": "eligibilite, infos_complementaires",
+      "url": "https://www.ocapiat.fr/verifier-par-secteur-lappartenance-dune-entreprise-a-ocapiat/",
+      "date": "2026-09-24",
+      "extrait": "Votre n° de convention collective relève-t-il du champ de compétences d'OCAPIAT ? Saisissez votre code IDCC : [...] Toute entreprise, salarié, association, syndicat… appartenant à nos branches professionnelles adhérentes peut bénéficier des services d’OCAPIAT."
+    },
+    {
+      "champ": "eligibilite",
+      "url": "https://www.ocapiat.fr/verifier-par-secteur-lappartenance-dune-entreprise-a-ocapiat/",
+      "date": "2026-09-24",
+      "extrait": "Secteur alimentaire [...] Industries Charcutières Industries Exploitations frigorifiques [...] Industries Volaille Industries Viandes [...] Coopératives Bétail et Viande"
+    },
+    {
+      "champ": "description, infos_complementaires",
+      "url": "https://mission-transition-ecologique.beta.gouv.fr/aides-entreprise/formations-ocapiat",
+      "date": "2026-09-24",
+      "extrait": "Formez vos salariés à la transition écologique [...] Au programme : Maîtrise des épandages organiques. De la vigne aux vins bio. Découvrir l'agroforesterie en cultures et en élevage. Réduction et réutilisation de l'eau."
+    },
+    {
+      "champ": "description, infos_complementaires",
+      "url": "https://wspub.ocapiat.fr/wsapicatalog/api/Formations/40937",
+      "date": "2026-09-24",
+      "extrait": "\"libelle\":\"Réduction et réutilisation de l 'eau dans les industries agroalimentaires\" [...] \"libelle\":\"CTCPA PARIS\" [...] \"region\":{\"id\":11,\"libelle\":\"Île-de-France\"} [...] \"duree\":7.0"
+    },
+    {
+      "champ": "description, infos_complementaires, mesures (ACT_VIA_001, ACT_AGR_009)",
+      "url": "https://wspub.ocapiat.fr/wsapicatalog/api/Formations/39464",
+      "date": "2026-09-24",
+      "extrait": "Recueillir des informations sur la consommation d'eau : quel niveau de détail, par atelier ?, par activité ?. Focus sur les opérations de nettoyage. [...] Recherche en transversal dans l'entreprise de solutions d'amélioration du bilan eau (fuites, consommations excessives, réutilisation possible, [...] Présentation du plan d'actions établi pendant la formation."
+    },
+    {
+      "champ": "description, infos_complementaires",
+      "url": "https://wspub.ocapiat.fr/wsapicatalog/api/Formations/39464",
+      "date": "2026-09-24",
+      "extrait": "\"libelle\":\"Réduction et réutilisation de l 'eau\" [...] \"libelle\":\"ISARA\" [...] \"region\":{\"id\":93,\"libelle\":\"Provence-Alpes-Côte d'Azur\"} [...] \"duree\":7.0"
+    },
+    {
+      "champ": "description, infos_complementaires, mesures (ACT_AGR_009)",
+      "url": "https://wspub.ocapiat.fr/wsapicatalog/api/Formations/42750",
+      "date": "2026-09-24",
+      "extrait": "Réaliser un diagnostic eau, connaître le contexte règlementaire de l'utilisation et de la réutilisation de l'eau dans les entreprises Mettre en place et piloter un plan de sobriété eau"
+    },
+    {
+      "champ": "infos_complementaires",
+      "url": "https://wspub.ocapiat.fr/wsapicatalog/api/Formations/42750",
+      "date": "2026-09-24",
+      "extrait": "\"libelle\":\"CRITT AGRO ALIMENTAIRE PACA\" [...] \"region\":{\"id\":93,\"libelle\":\"Provence-Alpes-Côte d'Azur\"} [...] \"duree\":7.0"
+    }
+  ],
+  "date_maj": "2026-09-24"
+}

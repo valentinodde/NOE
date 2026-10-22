@@ -1,0 +1,94 @@
+{
+  "id": "PREST_VIN_015",
+  "nom": "Clairéo",
+  "type": "installateur",
+  "logo_url": null,
+  "siret": "84100036700018",
+  "description": "Entreprise bordelaise spécialisée dans le traitement des effluents vinicoles, de distillerie et de brasserie par stockage aéré par micro-bullage (lagune, cuves enterrées ou aériennes) puis filtres plantés de roseaux avant rejet au milieu naturel. Elle conçoit le système selon la propriété, le réalise avec sa propre équipe, propose une supervision à distance et des contrats de maintenance annuels ou pluriannuels, et a codéveloppé avec Adequabio l'Effluchai, version modulaire hors sol pour les domaines produisant 150 à 200 m3 d'effluents par an. Contact direct par téléphone, courriel ou formulaire ; une visite gratuite avec rapport d'état est proposée aux caves déjà équipées d'une station, de Clairéo ou d'un autre constructeur.",
+  "expertises": [
+    "Conception de station d'effluents",
+    "Réalisation de lits plantés de roseaux",
+    "Supervision à distance",
+    "Maintenance de station d'effluents"
+  ],
+  "categories": [
+    "agir_rejets_qualite"
+  ],
+  "secteurs": [
+    "vins_spiritueux"
+  ],
+  "departements": [],
+  "mesures": [
+    {
+      "id": "ACT_VIN_006",
+      "roles": [
+        "conseil_etude",
+        "travaux"
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "type": "site_internet",
+      "value": "https://www.claireo.io/"
+    },
+    {
+      "type": "tel",
+      "value": "+33 5 35 54 71 60"
+    },
+    {
+      "type": "mail",
+      "value": "contact@claireo.io"
+    },
+    {
+      "type": "adresse",
+      "value": "39 rue Marceau, 33000 Bordeaux"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Claireo&departement=33",
+      "date": "2026-09-28",
+      "extrait": "CLAIREO, siret 84100036700018, siège, 39 RUE MARCEAU 33000 BORDEAUX, etat_administratif A"
+    },
+    {
+      "champ": "contacts",
+      "url": "https://www.claireo.io/nous-contacter/",
+      "date": "2026-09-28",
+      "extrait": "Adresse 39 rue Marceau 33000 Bordeaux France. Téléphone +33 (0)5 35 54 71 60. Email contact@claireo.io"
+    },
+    {
+      "champ": "description, expertises, mesures, type",
+      "url": "https://www.claireo.io/traitement-des-effluents-vinicoles/",
+      "date": "2026-09-28",
+      "extrait": "Systèmes de traitement des effluents Vinicoles, de Distillerie et de Brasserie. Conception, mise en oeuvre, assistance à l’exploitation, maintenance. Nous assurons la conception de votre système de traitement des effluents. Nous réalisons entièrement le système de traitement grâce à notre équipe."
+    },
+    {
+      "champ": "departements",
+      "url": "https://www.claireo.io/traitement-des-effluents-vinicoles/",
+      "date": "2026-09-28",
+      "extrait": "Le système de traitement des effluents Clairéo est aujourd’hui exploité en France à l’international par plus de 100 propriétés viticoles."
+    },
+    {
+      "champ": "departements",
+      "url": "https://www.claireo.io/2022/08/22/derniere-station-de-traitement-des-effluents-vinicoles-mise-en-service-dans-le-vaucluse/",
+      "date": "2026-09-28",
+      "extrait": "Clairéo a récemment mis en service une nouvelle station de traitement des effluents vinicoles au sein du Domaine du Coulet Rouge, dans le Vaucluse."
+    },
+    {
+      "champ": "description, expertises",
+      "url": "https://www.claireo.io/2026/01/20/nouvelle-station-efflu-chai-2025/",
+      "date": "2026-09-28",
+      "extrait": "Déjà partenaires sur les projets de traitement de l’eau, les entreprises Clairéo et Adequabio ont codéveloppé cette solution. « Effluchai est étudié pour des domaines produisant entre 150 et 200 m’ d’effluents vinicoles par an »"
+    },
+    {
+      "champ": "description",
+      "url": "https://www.claireo.io/traitement-des-effluents-vinicoles/",
+      "date": "2026-09-28",
+      "extrait": "Si vous possedez déjà un système de traitement des effluents Clairéo ou d’un autre constructeur, bénéficiez gratuitement d’une visite pour établir un rapport détaillé sur l’état de votre système."
+    }
+  ],
+  "date_maj": "2026-09-28"
+}

@@ -3,8 +3,8 @@
  * 
  * Prend en entrée :
  *   - answers        : { [questionId]: string | string[] | number }
- *   - constructor    : action_plan_constructor_*.json
- *   - measures       : measures.json (bibliothèque globale)
+ *   - constructor    : action_plan_config du referentiel (GET /questionnaire/<naf>)
+ *   - measures       : bibliothèque de mesures du referentiel
  *   - scores         : { maturityLevel, concernLevel, topics[] }  (sortie du scoring questionnaire)
  *   - questions      : questionnaire complet (pour résoudre les classes)
  * 
@@ -12,8 +12,10 @@
  */
 
 // ─── Évaluation d'un filtre ───────────────────────────────────────────────
+// Exporté pour le script de simulation (scripts/simuler_referentiel.mjs), qui
+// compte les déclenchements de chaque filtre sur des profils synthétiques.
 
-function evaluateFilter(filter, { answers, scores, questions }) {
+export function evaluateFilter(filter, { answers, scores, questions }) {
   switch (filter.type) {
 
     case 'answer': {
@@ -66,7 +68,17 @@ function evaluateFilter(filter, { answers, scores, questions }) {
   }
 }
 
+function isUnanswered(answer) {
+  return answer === undefined || answer === null || answer === ''
+    || (Array.isArray(answer) && answer.length === 0);
+}
+
 function evaluateOperator(operator, answer, value) {
+  // Une question sans réponse ne déclenche aucun filtre, sauf not_answered :
+  // sinon les opérateurs de différence (neq, nin, not_includes) la prendraient
+  // pour une réponse qui ne correspond pas.
+  if (isUnanswered(answer)) return operator === 'not_answered';
+
   // answer peut être un tableau (multi_choice) ou un scalaire
   const isArray = Array.isArray(answer);
 
@@ -83,10 +95,8 @@ function evaluateOperator(operator, answer, value) {
       return isArray ? answer.includes(value) : answer === value;
     case 'not_includes':
       return isArray ? !answer.includes(value) : answer !== value;
-    case 'answered':
-      return answer !== undefined && answer !== null && answer !== '' && !(isArray && answer.length === 0);
-    case 'not_answered':
-      return answer === undefined || answer === null || answer === '' || (isArray && answer.length === 0);
+    case 'answered':     return true;
+    case 'not_answered': return false;
     default: return false;
   }
 }
@@ -95,8 +105,8 @@ function evaluateOperator(operator, answer, value) {
 
 /**
  * @param {Object} answers        - réponses du questionnaire
- * @param {Object} constructor    - action_plan_constructor_*.json
- * @param {Array}  measures       - bibliothèque globale measures.json
+ * @param {Object} constructor    - action_plan_config du referentiel
+ * @param {Array}  measures       - bibliothèque de mesures du referentiel
  * @param {Object} scores         - { maturityLevel, concernLevel, topics }
  * @param {Array}  questions      - questions du questionnaire (pour résoudre les classes)
  * @returns {Array}               - mesures filtrées et enrichies, triées par pertinence
@@ -151,9 +161,7 @@ export function buildActionPlan({ answers, constructor, measures, scores, questi
     }
 
     // Score de pertinence = impact_eau × facilite (quick wins en premier)
-    // Bonus si le tag de la mesure est dans les topics identifiés par le scoring
-    const topicBonus = measure.tags?.some(t => scores?.topics?.includes(t)) ? 2 : 0;
-    const relevanceScore = (measure.impact_eau ?? 1) * (measure.facilite ?? 1) + topicBonus;
+    const relevanceScore = (measure.impact_eau ?? 1) * (measure.facilite ?? 1);
 
     result.push({ ...measure, relevanceScore });
   }

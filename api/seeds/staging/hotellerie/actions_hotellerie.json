@@ -1,0 +1,395 @@
+[
+  {
+    "id": "ACT_HOT_001",
+    "titre": "Équiper les chambres de douchettes, mousseurs et chasses économes",
+    "titre_court": "Équipements hydro-économes",
+    "description": "Poser des mousseurs et des douchettes à débit limité, remplacer les chasses anciennes par des chasses à double commande et supprimer les points d'eau peu utilisés. Vous réduisez le premier poste d'eau de l'hôtel, la salle de bains, sans perte de confort pour le client.",
+    "categorie": "ameliorer_efficacite_hydrique",
+    "secteurs": [
+      "hotellerie"
+    ],
+    "effort": {
+      "capex": "moyen",
+      "opex": "faible",
+      "humain": "faible"
+    },
+    "impact_eau": 3,
+    "facilite": 3,
+    "horizon": "immediat",
+    "image": null,
+    "infos_complementaires": [
+      {
+        "type": "info",
+        "texte": "Une douchette économe descend à 8 à 10 litres par minute contre 15 à 20 pour une pomme classique, avec un retour sur investissement de moins de six mois. Au-delà de 3 bars de pression, un réducteur fait aussi économiser.",
+        "lien": "https://www.jeconomiseleau.org/wp-content/uploads/2023/03/Guide-Hotelier.pdf",
+        "lien_label": "SMEGREG, guide hôtelier"
+      },
+      {
+        "type": "avertissement",
+        "texte": "Mousseurs et douchettes doivent entrer dans le programme de prévention des légionelles : détartrage et désinfection au moins tous les six mois. On ne baisse jamais la température de l'eau chaude pour économiser.",
+        "lien": "https://www.iledefrance.ars.sante.fr/system/files/2024-05/Plaquette-l%C3%A9gionellose-destination-%C3%A9tablissements-touristiques-A5.pdf",
+        "lien_label": "ARS Île-de-France"
+      },
+      {
+        "type": "info",
+        "texte": "Supprimer les bras morts et les points d'eau rarement utilisés sert deux fois : moins d'eau stagnante pour le risque légionelles, moins de purges à faire.",
+        "lien": "https://www.iledefrance.ars.sante.fr/system/files/2024-05/Plaquette-l%C3%A9gionellose-destination-%C3%A9tablissements-touristiques-A5.pdf",
+        "lien_label": "ARS Île-de-France"
+      },
+      {
+        "type": "ressource",
+        "texte": "Critères de l'Écolabel européen hébergement touristique (débits et chasses de référence)",
+        "lien": "https://susproc.jrc.ec.europa.eu/product-bureau/sites/default/files/2025-06/TAS_JRC133332_FINAL_0.pdf"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "description",
+        "url": "https://www.jeconomiseleau.org/wp-content/uploads/2023/03/Guide-Hotelier.pdf",
+        "extrait": "Les consommations des chambres représentent en moyenne 80 % de la consommation totale d'un hôtel ; chasse à double commande jusqu'à 50 % d'économie."
+      },
+      {
+        "champ": "description",
+        "url": "https://www.services.eaufrance.fr/economie-d-eau",
+        "extrait": "Les mousseurs réduisent le débit de 30 à 50 %."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.iledefrance.ars.sante.fr/system/files/2024-05/Plaquette-l%C3%A9gionellose-destination-%C3%A9tablissements-touristiques-A5.pdf",
+        "extrait": "Détartrer mousseurs et douchettes au moins tous les six mois ; supprimer les bras morts."
+      }
+    ],
+    "date_maj": "2026-09-24"
+  },
+  {
+    "id": "ACT_HOT_002",
+    "titre": "Former le personnel d'étage et de maintenance au repérage des fuites",
+    "titre_court": "Chasse aux fuites",
+    "description": "Apprendre aux équipes d'étage à repérer une chasse qui coule ou un robinet qui goutte, organiser le signalement à la maintenance et contrôler la robinetterie chaque année. Une fuite repérée le jour même au lieu du relevé trimestriel pèse vite sur un parc de dizaines de salles de bains.",
+    "categorie": "sensibiliser_former",
+    "secteurs": [
+      "hotellerie"
+    ],
+    "effort": {
+      "capex": "faible",
+      "opex": "faible",
+      "humain": "moyen"
+    },
+    "impact_eau": 2,
+    "facilite": 3,
+    "horizon": "immediat",
+    "image": null,
+    "infos_complementaires": [
+      {
+        "type": "info",
+        "texte": "Une chasse défectueuse peut perdre 600 litres par jour, un robinet qui fuit jusqu'à 120 litres.",
+        "lien": "https://www.services.eaufrance.fr/economie-d-eau",
+        "lien_label": "Eaufrance"
+      },
+      {
+        "type": "info",
+        "texte": "L'entretien semestriel des douchettes imposé par la prévention des légionelles est le bon créneau pour le contrôle de la robinetterie.",
+        "lien": "https://www.iledefrance.ars.sante.fr/system/files/2024-05/Plaquette-l%C3%A9gionellose-destination-%C3%A9tablissements-touristiques-A5.pdf",
+        "lien_label": "ARS Île-de-France"
+      },
+      {
+        "type": "ressource",
+        "texte": "Guide pratique des économies d'eau pour les hôtels (SMEGREG)",
+        "lien": "https://www.jeconomiseleau.org/wp-content/uploads/2023/03/Guide-Hotelier.pdf"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "description",
+        "url": "https://www.jeconomiseleau.org/wp-content/uploads/2023/03/Guide-Hotelier.pdf",
+        "extrait": "Former quelques personnes (employés de chambres, techniciens) aux vérifications du réseau ; diagnostic annuel de la robinetterie."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.services.eaufrance.fr/economie-d-eau",
+        "extrait": "Une chasse défectueuse peut gaspiller 600 litres par jour, un robinet qui fuit 120 litres."
+      }
+    ],
+    "date_maj": "2026-09-24"
+  },
+  {
+    "id": "ACT_HOT_003",
+    "titre": "Changer draps et serviettes à la demande plutôt que chaque jour",
+    "titre_court": "Linge à la demande",
+    "description": "Proposer au client de garder draps et serviettes plus d'une nuit, l'expliquer en chambre et à la réception, et former les équipes d'étage à respecter son choix. Vous réduisez à la fois le volume de linge lavé et le temps de ménage, que le linge soit lavé sur place ou chez un blanchisseur.",
+    "categorie": "changer_process_pratiques",
+    "secteurs": [
+      "hotellerie"
+    ],
+    "effort": {
+      "capex": "faible",
+      "opex": "faible",
+      "humain": "faible"
+    },
+    "impact_eau": 2,
+    "facilite": 3,
+    "horizon": "immediat",
+    "image": null,
+    "infos_complementaires": [
+      {
+        "type": "info",
+        "texte": "Le changement moins fréquent que quotidien, sauf demande du client, est un critère obligatoire de l'Écolabel européen hébergement touristique.",
+        "lien": "https://susproc.jrc.ec.europa.eu/product-bureau/sites/default/files/2025-06/TAS_JRC133332_FINAL_0.pdf",
+        "lien_label": "Commission européenne, JRC"
+      },
+      {
+        "type": "info",
+        "texte": "94 % des hôtels interrogés disent déjà sensibiliser leur clientèle : l'enjeu est moins l'affichage que le respect du choix du client par les équipes.",
+        "lien": "https://www.entreprises.gouv.fr/files/files/Publications/2024/Etudes/synthese-etude-gestion-eau.pdf",
+        "lien_label": "DGE, 2024"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "description",
+        "url": "https://susproc.jrc.ec.europa.eu/product-bureau/sites/default/files/2025-06/TAS_JRC133332_FINAL_0.pdf",
+        "extrait": "Draps et serviettes changés moins souvent que chaque jour, sauf demande du client."
+      },
+      {
+        "champ": "description",
+        "url": "https://www.jeconomiseleau.org/wp-content/uploads/2023/03/Guide-Hotelier.pdf",
+        "extrait": "Garder serviettes et draps une journée supplémentaire."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.entreprises.gouv.fr/files/files/Publications/2024/Etudes/synthese-etude-gestion-eau.pdf",
+        "extrait": "94 % des hôtels sensibilisent leur clientèle."
+      }
+    ],
+    "date_maj": "2026-09-24"
+  },
+  {
+    "id": "ACT_HOT_004",
+    "titre": "Choisir des lave-linge et lave-vaisselle professionnels économes en eau",
+    "titre_court": "Lavage économe",
+    "description": "Au renouvellement, retenir des lave-linge et lave-vaisselle professionnels à faible consommation par kilo ou par cycle, avec dosage automatique des lessives. Pour un linge confié à un blanchisseur, faire de sa consommation d'eau un critère d'achat.",
+    "categorie": "ameliorer_efficacite_hydrique",
+    "secteurs": [
+      "hotellerie"
+    ],
+    "effort": {
+      "capex": "moyen",
+      "opex": "faible",
+      "humain": "faible"
+    },
+    "impact_eau": 2,
+    "facilite": 2,
+    "horizon": "court_terme",
+    "image": null,
+    "infos_complementaires": [
+      {
+        "type": "info",
+        "texte": "Repère de l'Écolabel : 7 litres par kilo de linge au plus pour une machine professionnelle, contre 25 à 30 litres pour une laveuse-essoreuse classique.",
+        "lien": "https://susproc.jrc.ec.europa.eu/product-bureau/sites/default/files/2025-06/TAS_JRC133332_FINAL_0.pdf",
+        "lien_label": "Commission européenne, JRC"
+      },
+      {
+        "type": "info",
+        "texte": "Le dosage automatique des lessives selon la dureté de l'eau évite les surdosages qui imposent des rinçages supplémentaires et limite la charge des eaux usées.",
+        "lien": "https://susproc.jrc.ec.europa.eu/product-bureau/sites/default/files/2025-06/TAS_JRC133332_FINAL_0.pdf",
+        "lien_label": "Commission européenne, JRC"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "description",
+        "url": "https://www.jeconomiseleau.org/wp-content/uploads/2023/03/Guide-Hotelier.pdf",
+        "extrait": "Un matériel économe peut faire gagner jusqu'à 50 % par rapport à un équipement classique."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.graie.org/graie/graiedoc/doc_telech/biblio_hors_graie/racc-biblio/cisalb2010fiches/03-Blanchisserie/bibliographie/Livret_Blanchisseries%20AE%20seine%20normandie.pdf",
+        "extrait": "Une laveuse-essoreuse consomme 25 à 30 litres par kg de linge."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://susproc.jrc.ec.europa.eu/product-bureau/sites/default/files/2025-06/TAS_JRC133332_FINAL_0.pdf",
+        "extrait": "7 litres par kg de linge ; dosage automatique des détergents."
+      }
+    ],
+    "date_maj": "2026-09-24"
+  },
+  {
+    "id": "ACT_HOT_005",
+    "titre": "Couvrir la piscine, optimiser et recycler l'eau de lavage des filtres",
+    "titre_court": "Piscine économe",
+    "description": "Couvrir les bassins la nuit, déclencher le lavage des filtres sur mesure de colmatage plutôt qu'à heure fixe, doser le chlore automatiquement et réutiliser l'eau de lavage pour l'arrosage ou les chasses. Le lavage des filtres pèse 40 à 50 % de l'eau d'un espace aquatique : c'est lui qu'on vise.",
+    "categorie": "ameliorer_efficacite_hydrique",
+    "secteurs": [
+      "hotellerie"
+    ],
+    "effort": {
+      "capex": "moyen",
+      "opex": "faible",
+      "humain": "moyen"
+    },
+    "impact_eau": 2,
+    "facilite": 2,
+    "horizon": "court_terme",
+    "image": null,
+    "infos_complementaires": [
+      {
+        "type": "avertissement",
+        "texte": "Le renouvellement d'au moins 30 litres d'eau par baigneur et par jour, enregistré sur un compteur dédié, et la vidange annuelle restent obligatoires : le levier ne porte pas sur eux.",
+        "lien": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043535330",
+        "lien_label": "Arrêté du 26 mai 2021"
+      },
+      {
+        "type": "info",
+        "texte": "Les eaux de piscine peuvent servir aux chasses d'eau, au nettoyage extérieur et à l'arrosage, sur simple déclaration au préfet depuis les textes du 12 juillet 2024.",
+        "lien": "https://bonnespratiques-eau.fr/2024/07/18/textes-du-12-juillet-2024-relatifs-utilisations-deaux-impropres-a-la-consommation-humaine/",
+        "lien_label": "Services de l'État, bassin Adour-Garonne"
+      },
+      {
+        "type": "retour_experience",
+        "texte": "Dans un camping, le traitement et la réutilisation des eaux de rinçage des filtres fait économiser près de 60 m3 par jour pendant la saison.",
+        "lien": "https://www.entreprises.gouv.fr/files/files/presse/2025/410%20-%20DP%20-%20Plan%20eau%20-%20Engagement%20du%20secteur%20du%20tourisme%20pour%20pr%C3%A9server%20l%E2%80%99eau.pdf",
+        "lien_label": "DGE, Plan eau tourisme 2025"
+      },
+      {
+        "type": "info",
+        "texte": "Un arrêté sécheresse peut interdire le remplissage des piscines collectives dès l'alerte renforcée, sauf remise à niveau ou raison sanitaire.",
+        "lien": "https://regleau.s3.gra.perf.cloud.ovh.net/arrete-restriction/37738/9a93b3d7-d15c-456a-9c1b-d083f21f2b18/SE_ACA_VRAA_AP_78-2026-08-14-00001_20260811_AP_%20ALERTE_RENF_A_V_V3.pdf",
+        "lien_label": "Exemple : arrêté des Yvelines, 2026"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "description",
+        "url": "https://www.entreprises.gouv.fr/files/files/Publications/2024/Etudes/synthese-etude-gestion-eau.pdf",
+        "extrait": "Lavage des filtres 40 à 50 % de l'eau d'un espace aquatique ; couvrir les bassins ; récupérer l'eau de lavage des filtres."
+      },
+      {
+        "champ": "description",
+        "url": "https://susproc.jrc.ec.europa.eu/product-bureau/sites/default/files/2025-06/TAS_JRC133332_FINAL_0.pdf",
+        "extrait": "Couvrir la nuit les bassins chauffés ; dosage optimisé du chlore."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043535330",
+        "extrait": "30 litres par baigneur, compteur dédié, vidange annuelle."
+      }
+    ],
+    "date_maj": "2026-09-24"
+  },
+  {
+    "id": "ACT_HOT_006",
+    "titre": "Adapter les espaces verts au climat local et arroser au goutte-à-goutte",
+    "titre_court": "Espaces verts sobres",
+    "description": "Remplacer les plantations gourmandes par des essences adaptées au climat, passer l'arrosage au goutte-à-goutte ou au tuyau microporeux et planter des arbres d'ombrage. Le jardin reste présentable pendant les restrictions, qui interdisent l'arrosage des espaces verts dès l'alerte renforcée.",
+    "categorie": "changer_process_pratiques",
+    "secteurs": [
+      "hotellerie"
+    ],
+    "effort": {
+      "capex": "moyen",
+      "opex": "faible",
+      "humain": "moyen"
+    },
+    "impact_eau": 2,
+    "facilite": 2,
+    "horizon": "moyen_terme",
+    "image": null,
+    "infos_complementaires": [
+      {
+        "type": "avertissement",
+        "texte": "L'arrosage des pelouses et massifs est typiquement limité dès l'alerte puis interdit en alerte renforcée, hors arbres plantés depuis moins de deux ans. Chaque département a son arrêté-cadre.",
+        "lien": "https://regleau.s3.gra.perf.cloud.ovh.net/arrete-restriction/37738/9a93b3d7-d15c-456a-9c1b-d083f21f2b18/SE_ACA_VRAA_AP_78-2026-08-14-00001_20260811_AP_%20ALERTE_RENF_A_V_V3.pdf",
+        "lien_label": "Exemple : arrêté des Yvelines, 2026"
+      },
+      {
+        "type": "retour_experience",
+        "texte": "Un hôtel 5 étoiles breton arrose son parc à l'eau de pluie et réemploie ses eaux de lavage pour les aromatiques.",
+        "lien": "https://www.entreprises.gouv.fr/files/files/presse/2025/410%20-%20DP%20-%20Plan%20eau%20-%20Engagement%20du%20secteur%20du%20tourisme%20pour%20pr%C3%A9server%20l%E2%80%99eau.pdf",
+        "lien_label": "DGE, Plan eau tourisme 2025"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "description",
+        "url": "https://www.entreprises.gouv.fr/files/files/Publications/2024/Etudes/synthese-etude-gestion-eau.pdf",
+        "extrait": "Choisir les plantes selon le climat ; arroser par tuyaux microporeux."
+      },
+      {
+        "champ": "description",
+        "url": "https://www.entreprises.gouv.fr/files/files/presse/2025/410%20-%20DP%20-%20Plan%20eau%20-%20Engagement%20du%20secteur%20du%20tourisme%20pour%20pr%C3%A9server%20l%E2%80%99eau.pdf",
+        "extrait": "Planter des arbres d'ombrage."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://regleau.s3.gra.perf.cloud.ovh.net/arrete-restriction/37738/9a93b3d7-d15c-456a-9c1b-d083f21f2b18/SE_ACA_VRAA_AP_78-2026-08-14-00001_20260811_AP_%20ALERTE_RENF_A_V_V3.pdf",
+        "extrait": "Arrosage des espaces verts interdit en alerte renforcée et en crise."
+      }
+    ],
+    "date_maj": "2026-09-24"
+  },
+  {
+    "id": "ACT_HOT_007",
+    "titre": "Suivre la consommation d'eau en litres par nuitée chaque mois",
+    "titre_court": "Ratio litres par nuitée",
+    "description": "Relever le compteur chaque mois, rapporter le volume au nombre de nuitées et comparer le résultat aux repères de votre gamme. Vous voyez une dérive ou une fuite en quelques semaines et vous mesurez l'effet de chaque action engagée.",
+    "categorie": "suivre_comprendre_maitriser",
+    "secteurs": [
+      "hotellerie"
+    ],
+    "effort": {
+      "capex": "faible",
+      "opex": "faible",
+      "humain": "faible"
+    },
+    "impact_eau": 2,
+    "facilite": 3,
+    "horizon": "immediat",
+    "image": null,
+    "infos_complementaires": [
+      {
+        "type": "info",
+        "texte": "Repères nationaux : 240 litres par nuitée en hôtel 1 à 3 étoiles, 323 litres en 4 et 5 étoiles, 439 litres en village de vacances avec espace aquatique.",
+        "lien": "https://www.entreprises.gouv.fr/files/files/Publications/2024/Etudes/synthese-etude-gestion-eau.pdf",
+        "lien_label": "DGE, 2024"
+      },
+      {
+        "type": "retour_experience",
+        "texte": "Programme ECOD'O de la CCI du Morbihan : 27 entreprises industrielles et touristiques, dont un village de vacances, ont économisé près de 10 % de leur consommation en un an en suivant un indicateur comme les litres par nuitée.",
+        "lien": "https://www.club-ecodeau.fr/wp-content/uploads/2022/11/CCI-Morbihan.pdf",
+        "lien_label": "CCI Morbihan"
+      },
+      {
+        "type": "info",
+        "texte": "Le suivi de la consommation par nuitée est un critère obligatoire de l'Écolabel européen hébergement touristique.",
+        "lien": "https://susproc.jrc.ec.europa.eu/product-bureau/sites/default/files/2025-06/TAS_JRC133332_FINAL_0.pdf",
+        "lien_label": "Commission européenne, JRC"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "description",
+        "url": "https://www.jeconomiseleau.org/wp-content/uploads/2023/03/Guide-Hotelier.pdf",
+        "extrait": "Relever le compteur chaque mois, demander la télérelève."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.entreprises.gouv.fr/files/files/Publications/2024/Etudes/synthese-etude-gestion-eau.pdf",
+        "extrait": "240 litres par nuitée (1 à 3 étoiles), 323 litres (4 et 5 étoiles), 439 litres avec espace aquatique."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.club-ecodeau.fr/wp-content/uploads/2022/11/CCI-Morbihan.pdf",
+        "extrait": "27 entreprises, près de 10 % d'économie en un an."
+      }
+    ],
+    "date_maj": "2026-09-24"
+  }
+]

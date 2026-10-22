@@ -1,0 +1,114 @@
+{
+  "id": "PREST_LAI_001",
+  "nom": "Actalia",
+  "type": "organisme_technique",
+  "logo_url": null,
+  "siret": "32534654200153",
+  "description": "Actalia est un centre technique labellisé Institut Technique Agro-Industriel par le ministère de l'Alimentation, de l'Agriculture et de la Pêche, organisé en pôles d'expertise dont un pôle Produits laitiers de 22 collaborateurs réparti sur quatre sites. Pour les transformateurs laitiers, industriels comme artisanaux ou fermiers, il réalise des prestations sur mesure de technologie et d'environnement (ingénierie de procédés, traitement et valorisation du lactosérum, évaluation de l'efficacité des procédures de nettoyage et de désinfection avec audit et formation sur site, analyses de laboratoire), et il a mené pour le Cniel le projet AQUAREL sur la réutilisation des eaux issues du lait, le traitement des effluents laitiers et les bonnes pratiques de gestion de l'eau. Ces prestations sont confidentielles, personnalisées et encadrées par des conditions générales de vente, à demander aux experts du pôle concerné, tandis que les livrables du projet AQUAREL sont téléchargeables librement sur la page Téléchargements du site.",
+  "expertises": [
+    "Eaux issues du lait",
+    "Traitement des effluents laitiers",
+    "Traitement et valorisation du lactosérum",
+    "Validation des procédures de nettoyage"
+  ],
+  "categories": [
+    "sensibiliser_former",
+    "ameliorer_efficacite_hydrique",
+    "changer_process_pratiques",
+    "valoriser_reut_eaux_non_conventionnelles",
+    "agir_rejets_qualite"
+  ],
+  "secteurs": ["industrie_laitiere"],
+  "departements": [],
+  "mesures": [
+    { "id": "ACT_LAI_001", "roles": ["conseil_etude", "formation"] },
+    { "id": "ACT_LAI_003", "roles": ["conseil_etude"] },
+    { "id": "ACT_LAI_005", "roles": ["conseil_etude"] },
+    { "id": "ACT_LAI_006", "roles": ["conseil_etude"] },
+    { "id": "ACT_LAI_007", "roles": ["conseil_etude"] },
+    { "id": "ACT_LAI_008", "roles": ["conseil_etude"] }
+  ],
+  "contacts": [
+    { "type": "site_internet", "value": "https://www.actalia.eu" },
+    { "type": "mail", "value": "information@actalia.eu" },
+    { "type": "tel", "value": "02 33 06 71 71" },
+    { "type": "adresse", "value": "310 rue Popielujko, 50000 Saint-Lô" },
+    { "type": "linkedin", "value": "https://fr.linkedin.com/company/actalia-centretechnique" }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "nom, type, description",
+      "url": "https://www.actalia.eu/",
+      "date": "2026-09-22",
+      "extrait": "Centre technique expertise agroalimentaire. Audit - Conseil - Etude - Analyse - Formation - Recherche - Veille. ACTALIA est labellisé Institut Technique Agro-Industriel par le ministère de l'Alimentation, de l'Agriculture et de la Pêche."
+    },
+    {
+      "champ": "siret",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=ACTALIA",
+      "date": "2026-09-22",
+      "extrait": "ACTALIA, siren 325346542, siret du siège 32534654200153, 310 RUE POPIELUJKO 50000 SAINT-LO, departement 50, nature juridique 9220, activité principale 72.11Z, 11 établissements ouverts."
+    },
+    {
+      "champ": "contacts, departements",
+      "url": "https://www.actalia.eu/contact/",
+      "date": "2026-09-22",
+      "extrait": "ACTALIA Siège social, 310 rue Popielujko, 50 000 SAINT-LÔ, Tél. : +33 (02) 33 06 71 71. La carte des localisations porte treize implantations : Saint-Lô, Villers-Bocage, Le Chaffaut-Saint-Jurson, La Roche-sur-Foron, Bourg-en-Bresse, Poligny, Mamirolle, Maisons-Alfort, Rennes (trois adresses), Surgères et Paris."
+    },
+    {
+      "champ": "contacts",
+      "url": "https://www.actalia.eu/actalia/nous-retrouver/",
+      "date": "2026-09-22",
+      "extrait": "Sur notre page Linkedin : https://fr.linkedin.com/company/actalia-centretechnique"
+    },
+    {
+      "champ": "description, expertises, mesures",
+      "url": "https://www.actalia.eu/poles-d-expertise/pole-produits-laitiers/prestations/",
+      "date": "2026-09-22",
+      "extrait": "Avec une équipe pluridisciplinaire de 22 collaborateurs répartie sur 4 sites, ACTALIA Produits laitiers développe et propose des compétences uniques en technologie laitière et fromagère. ACTALIA intègre dans ses travaux la dimension environnementale pour les ateliers et industries laitières. Que vous soyez transformateurs laitiers (groupe industriel, PME, TPE, fermiers) [...] ACTALIA Produits laitiers vous accompagne [...] Diagnostics et solutions des problèmes technologiques dans vos ateliers de fabrication (industriels, artisanaux, fermiers) ; Ingénierie de procédés ; Transfert de technologies ; [...] Traitement et valorisation du lactosérum ; Valorisation des protéines laitières. [...] Les formations « sur-mesure » intra-entreprise : à la demande du client nous proposons un programme exclusif sur-mesure, sur un ou plusieurs jours, en mobilisant un seul ou plusieurs de nos spécialistes ACTALIA."
+    },
+    {
+      "champ": "description, mesures",
+      "url": "https://www.actalia.eu/poles-d-expertise/pole-produits-laitiers/recherche/",
+      "date": "2026-09-22",
+      "extrait": "La mission principale de l'Unité ACTALIA Produits laitiers est de mettre en oeuvre des projets de recherche appliquée, et des prestations sur mesure, portant depuis le lait de traite (vache et petits ruminants) jusqu'à la transformation du lait ainsi qu'à l'affinage, jusqu'au consommateur, en incluant les problématiques de la sécurité sanitaire du lait et des produits laitiers ainsi que celles de l'environnement."
+    },
+    {
+      "champ": "expertises, mesures, categories",
+      "url": "https://www.actalia.eu/reutilisation-des-eaux-issues-du-lait-publication-des-livrables-du-projet-aquarel/",
+      "date": "2026-09-22",
+      "extrait": "Lancé en 2015 par l'interprofession laitière (CNIEL) et soutenu financièrement par les agences de l'eau Loire-Bretagne et Seine-Normandie, le projet AQUAREL avait pour principaux objectifs d'établir un état des lieux des pratiques de gestion de l'eau et des effluents dans les usines laitières et de mettre en évidence les technologies permettant de traiter et de valoriser sur site les eaux issues du lait (perméats d'osmose inverse et condensats d'évapo-concentrateurs). [...] des synthèses bibliographiques portant respectivement sur la réutilisation des eaux issues du lait, les réglementations liées à l'eau utilisée dans l'usine laitière, les bonnes pratiques de gestion de la ressource et le traitement des effluents laitiers ; une synthèse de l'enquête sectorielle menée auprès de 58 sites ; une synthèse de recommandations générales pour traiter et réutiliser les eaux issues du lait ; un recueil de fiches techniques sur les technologies de traitement des eaux issues du lait et des effluents. Tous les documents sont consultables sur notre page Téléchargements."
+    },
+    {
+      "champ": "mesures",
+      "url": "https://www.actalia.eu/wp-content/uploads/2018/10/AQUAREL_2018_Synth%C3%A8se_bonnes-pratiques-de-gestion-de-leau.pdf",
+      "date": "2026-09-22",
+      "extrait": "AQUAREL, Bonnes pratiques de gestion de l'eau en transformation laitière, Février 2018, Brice Bourbon, ACTALIA. Optimiser l'exploitation des unités NEP de façon à favoriser les récupérations et les recyclages d'eau et de détergents et donc à limiter leur consommation. [...] Munir les flexibles de poignée pistolet pour augmenter l'action mécanique du jet tout en diminuant le débit d'eau. [...] Récupérer et valoriser le lactosérum. [...] Récupérer le condensat généré par les systèmes de production de vapeur et le réutiliser."
+    },
+    {
+      "champ": "expertises, mesures",
+      "url": "https://www.actalia.eu/poles-d-expertise/pole-securite-des-aliments/offre-et-services/",
+      "date": "2026-09-22",
+      "extrait": "Hygiène des équipements : [...] Caractérisation de la nettoyabilité des équipements de conception ouverte (piètements, caniveaux, visserie...). Évaluation de l'efficacité de traitements (formulations, procédés, procédures de nettoyage & désinfection). Audit et formation sur site. Prestations confidentielles et sur mesure : offres personnalisées et adaptées à vos besoins et vos problématiques. Contactez nos experts."
+    },
+    {
+      "champ": "expertises, mesures",
+      "url": "https://www.actalia.eu/poles-d-expertise/pole-controle-et-qualite/prestations/",
+      "date": "2026-09-22",
+      "extrait": "ACTALIA Contrôle et qualité associe des laboratoires d'analyses et des compétences en management [...] Validation du plan de nettoyage."
+    },
+    {
+      "champ": "mesures",
+      "url": "https://www.actalia.eu/environnement-effluent-industrie-laitiere-actalia/",
+      "date": "2026-09-22",
+      "extrait": "L'expertise et les travaux menés par le service Environnement d'ACTALIA Produits Laitiers ont été présentés par Pierre Barrucand. Lors d'une conférence dédiée aux solutions de réduction de la pollution environnementale, il a présenté, en particulier, les travaux menés au niveau de la gestion des effluents de l'industrie laitière."
+    },
+    {
+      "champ": "description",
+      "url": "https://www.actalia.eu/cgv/",
+      "date": "2026-09-22",
+      "extrait": "Conditions générales de vente. Consultez nos Conditions générales de vente (CGV) en téléchargeant le fichier."
+    }
+  ],
+  "date_maj": "2026-09-22"
+}

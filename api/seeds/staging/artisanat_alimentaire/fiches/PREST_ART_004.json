@@ -1,0 +1,89 @@
+{
+  "id": "PREST_ART_004",
+  "nom": "Lyon Froid Cuisines",
+  "type": "installateur",
+  "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792064994/Noe%20assets/logos/PREST_ART_004.png",
+  "siret": "89490464800025",
+  "description": "Entreprise de froid commercial et de cuisine professionnelle installée à Chaponost, dans le Rhône. Elle installe, renouvelle, entretient et dépanne les équipements frigorifiques des bouchers, charcutiers, traiteurs, boulangers et pâtissiers : chambres froides positives et négatives, chambres de pousse, vitrines et armoires réfrigérées, cellules de refroidissement. Interventions sur demande de devis, avec un service de dépannage annoncé 7j/7 et 24h/24.",
+  "expertises": [
+    "Installation de chambres froides",
+    "Chambres de pousse",
+    "Renouvellement du matériel réfrigéré",
+    "Maintenance et dépannage frigorifique"
+  ],
+  "categories": [],
+  "secteurs": [
+    "artisanat_alimentaire"
+  ],
+  "departements": [
+    "01",
+    "03",
+    "07",
+    "15",
+    "26",
+    "38",
+    "42",
+    "43",
+    "63",
+    "69",
+    "73",
+    "74"
+  ],
+  "mesures": [],
+  "contacts": [
+    {
+      "type": "site_internet",
+      "value": "https://lyon-froid-cuisines.fr/"
+    },
+    {
+      "type": "tel",
+      "value": "06 03 58 69 89"
+    },
+    {
+      "type": "mail",
+      "value": "contact@lyon-froid-cuisines.fr"
+    },
+    {
+      "type": "adresse",
+      "value": "ZI de Taffignon, Route des Aqueducs, 69630 Chaponost"
+    },
+    {
+      "type": "linkedin",
+      "value": "https://www.linkedin.com/in/lyon-froid-cuisines-96b899210/"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, contacts (adresse)",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Lyon%20Froid%20Cuisines&departement=69",
+      "date": "2026-10-15",
+      "extrait": "LYON FROID CUISINES, siret 89490464800025, siège, ZI DE TAFFIGNON ROUTE DES AQUEDUCS 69630 CHAPONOST, activité 33.12Z, état administratif A"
+    },
+    {
+      "champ": "contacts (tel, mail, adresse)",
+      "url": "https://lyon-froid-cuisines.fr/mentions-legales/",
+      "date": "2026-10-15",
+      "extrait": "06 03 58 69 89. ZI de Taffignon, Route des Aqueducs 69630 CHAPONOST. contact@lyon-froid-cuisines.fr"
+    },
+    {
+      "champ": "contacts (site_internet, linkedin), departements, description, expertises",
+      "url": "https://lyon-froid-cuisines.fr/",
+      "date": "2026-10-15",
+      "extrait": "LYON FROID CUISINES s'occupe de l'installation, la maintenance, et le dépannage des équipements professionnels pour boucher, charcutier, traiteur, boulangerie, métiers de bouche, café, hôtel, restaurant (CHR), et collectivités en région Auvergne Rhône-Alpes. Notre service maintenance et dépannage intervient auprès des professionnels de la restauration, boulangers, pâtissiers, bouchers 7j/7 et 24h/24."
+    },
+    {
+      "champ": "expertises, description",
+      "url": "https://lyon-froid-cuisines.fr/froid-commercial/",
+      "date": "2026-10-15",
+      "extrait": "En boucherie, charcuterie, fromagerie ou encore en traiteur [...] En boulangerie ou pâtisserie, nous vous fournissons des chambres de pousse [...] Que vous souhaitiez vous équiper de matériel réfrigéré pour votre activité professionnelle ou que ce soit pour le renouveler, nous intervenons pour l'installation, l'aménagement et la maintenance de votre commerce. Contactez-nous pour toute demande d'informations ou de devis pour réaliser votre projet."
+    },
+    {
+      "champ": "logo_url",
+      "url": "https://lyon-froid-cuisines.fr/wp-content/uploads/2021/05/LYON_FROID_CUISINES_favicon.png",
+      "date": "2026-10-15",
+      "extrait": "apple-touch-icon du site, 115 x 115 px, en couleur"
+    }
+  ],
+  "date_maj": "2026-10-15"
+}

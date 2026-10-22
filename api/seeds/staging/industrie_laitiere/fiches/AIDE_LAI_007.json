@@ -1,0 +1,145 @@
+{
+  "id": "AIDE_LAI_007",
+  "nom": "QUA_1, accélérer les économies d'eau et réduire les prélèvements (agence de l'eau Loire-Bretagne, 12e programme)",
+  "financeur": "Agence de l'eau Loire-Bretagne",
+  "logo_url": null,
+  "type": "subvention",
+  "taux": "Subvention, à des taux maximaux qui peuvent être limités par l'encadrement européen des aides publiques en tenant compte des zones d'aide à finalité régionale. Jusqu'à 70 % pour les études et travaux de réduction des besoins en eau. Jusqu'à 50 % pour les études et travaux de réduction des prélèvements existants, branche qui porte le recyclage d'eau de process, la réutilisation des eaux usées traitées et la récupération d'eau de pluie. Les études préalables aux travaux sont des dépenses éligibles de ces deux mêmes lignes de QUA_1 : elles ne relèvent pas du dispositif IND_1, qui porte à 50 % maximum sur les études de réduction des pollutions et des pressions, un autre sujet.",
+  "plafond": "Travaux d'utilisation ou de réutilisation d'eaux non conventionnelles : coût plafond de 60 € par m3 d'eau substituée annuellement. À compter du 1er janvier 2027, un coût plafond de 60 € par m3 d'eau économisée s'appliquera à toutes les décisions d'aide relatives à des travaux de réduction des besoins en eau pour les industries et les collectivités, sur les demandes déjà déposées comme sur celles à venir, seules les opérations programmées dans des accords de territoire signés en 2025 n'étant pas concernées.",
+  "description": "Dispositif QUA_1 du 12e programme d'intervention 2025-2030 de l'agence de l'eau Loire-Bretagne, fiche action version 1 applicable au 1er janvier 2025. Il se décline en deux branches. La première, la réduction des besoins en eau, vise à abaisser la dépendance du site par un changement de process ou de pratiques et du matériel plus économe en eau. La seconde, la réduction des prélèvements existants, passe par la récupération d'eau de pluie, le recyclage d'eau de process et la réutilisation des eaux usées traitées, dans le cadre d'une approche globale d'économie d'eau. Les dépenses éligibles couvrent le coût des études préalables ou du diagnostic réalisés par un prestataire externe, le coût des études de réduction des prélèvements et des études préalables aux travaux, le coût des travaux avec la maîtrise d'oeuvre, l'assistance à maîtrise d'ouvrage et les équipements dédiés, y compris le matériel de comptage, ainsi que les travaux de traitement, d'équipement de suivi et de comptage et de stockage nécessaires à l'utilisation d'eaux non conventionnelles.",
+  "eligibilite": "Maîtres d'ouvrage publics ou privés, hors activité économique agricole et hors délégataire de service public. Les travaux doivent avoir fait l'objet d'une étude préalable ou d'un diagnostic faisant état d'une réflexion globale sur la réduction potentielle des besoins et des prélèvements en eau, détaillant l'objectif de réduction visé en volume et en ratio de consommation d'eau par tonne de produits finis, et doivent inclure les moyens de contrôle et de suivi des performances, notamment le comptage. Sont exclus les projets de création ou de transfert d'établissement et ceux portant sur des bâtiments neufs. La demande d'aide formelle et complète doit être déposée avant le démarrage du projet, faute de quoi elle est irrecevable.",
+  "categories": [
+    "suivre_comprendre_maitriser",
+    "ameliorer_efficacite_hydrique",
+    "valoriser_reut_eaux_non_conventionnelles"
+  ],
+  "secteurs": [
+    "industrie_laitiere"
+  ],
+  "departements": [],
+  "agences": [
+    "AELB"
+  ],
+  "mesures": [
+    "ACT_AGR_001",
+    "ACT_AGR_002",
+    "ACT_LAI_003",
+    "ACT_LAI_004",
+    "ACT_LAI_006"
+  ],
+  "infos_complementaires": [
+    {
+      "type": "avertissement",
+      "texte": "La demande formelle et complète doit être déposée avant le démarrage du projet, sinon elle est irrecevable. Le démarrage s'entend du premier acte juridique qui rend la réalisation irréversible, c'est-à-dire la notification d'un marché ou d'un bon de commande. En revanche, les prestations nécessaires à la faisabilité du projet (études, marché de maîtrise d'oeuvre, sondages de sol, assistance à maîtrise d'ouvrage) ne constituent pas un démarrage."
+    },
+    {
+      "type": "avertissement",
+      "texte": "Le taux dépend de la branche du dispositif : un projet de réutilisation, de recyclage d'eau de process ou de récupération d'eau de pluie relève de la réduction des prélèvements existants, plafonnée à 50 %, et non des 70 % de la réduction des besoins en eau. Ne bâtissez pas un prévisionnel de réutilisation à 70 %."
+    },
+    {
+      "type": "avertissement",
+      "texte": "Le coût plafond de 60 € par m3 d'eau économisée, applicable au 1er janvier 2027, vise aussi les demandes déjà déposées : un dossier déposé en 2026 et décidé en 2027 y sera soumis."
+    },
+    {
+      "type": "avertissement",
+      "texte": "En 2026, la capacité d'intervention de l'agence est annoncée insuffisante face aux demandes de financement. Le conseil d'administration du 12 mars 2026 a décidé de prioriser encore davantage ses interventions, ce qui se traduit par la mise en suspens de certains dispositifs d'aide ou l'application d'un plafond d'aide. Vérifiez l'état du dispositif avant de bâtir un plan de financement."
+    },
+    {
+      "type": "avertissement",
+      "texte": "Les travaux ne sont pas aidés sans étude préalable ou diagnostic amont chiffrant l'objectif de réduction, en volume et en ratio de consommation d'eau par tonne de produits finis. Un an après la réception des travaux, un bilan global des réductions doit être fourni pour démontrer la conformité aux objectifs fixés."
+    },
+    {
+      "type": "avertissement",
+      "texte": "Un projet de réutilisation des eaux usées traitées doit faire l'objet d'une étude d'impact environnemental démontrant l'impact positif sur les masses d'eau, en s'appuyant sur le guide de préconisations de l'agence. Le bilan à un an doit détailler les volumes réutilisés et leurs usages."
+    },
+    {
+      "type": "info",
+      "texte": "Le comptage n'est pas un supplément facultatif : les travaux doivent inclure les moyens nécessaires au contrôle et au suivi des performances, et le matériel de comptage fait partie des dépenses éligibles. Pour la télérelève des plus gros consommateurs, la dépense retenue est le surcoût lié à l'enregistrement automatique et à la télétransmission, ou à défaut 50 % du coût du compteur intelligent."
+    },
+    {
+      "type": "info",
+      "texte": "Les aides de l'agence n'ont pas un caractère systématique : leur attribution dépend des disponibilités financières et de la priorisation des projets, et l'accusé de réception du dépôt ne vaut pas engagement d'attribution. La priorité va aux projets les plus efficients, en euros par mètre cube d'eau économisée, et aux territoires classés en zone de répartition des eaux."
+    },
+    {
+      "type": "info",
+      "texte": "Le dépôt s'effectue sur le téléservice Rivage, thématique « Lutte contre les pressions des activités économiques hors agriculture », dispositifs « Études » et « Travaux d'économie d'eau et de réduction des prélèvements ». L'agence recommande de prendre contact avec sa délégation territoriale avant de déposer."
+    },
+    {
+      "type": "ressource",
+      "texte": "Fiche dispositif QUA_1, études et travaux de réduction des besoins en eau (jusqu'à 70 %)",
+      "lien": "https://aides-redevances.eau-loire-bretagne.fr/home/aides/fiches-dispositif-12e-programme/qua/qua1-etudes-et-travaux-de-reduction-des-besoins-en-eau.html"
+    },
+    {
+      "type": "ressource",
+      "texte": "Fiche dispositif QUA_1, études et travaux de réduction des prélèvements existants (jusqu'à 50 %)",
+      "lien": "https://aides-redevances.eau-loire-bretagne.fr/home/aides/fiches-dispositif-12e-programme/qua/qua1-etudes-et-travaux-de-reduction-des-prelevements-existants.html"
+    },
+    {
+      "type": "ressource",
+      "texte": "Fiche action QUA_1, accélérer les économies d'eau et réduire les prélèvements (version 1, applicable au 1er janvier 2025)",
+      "lien": "https://aides-redevances.eau-loire-bretagne.fr/files/live/sites/aides-redevances/files/Aides-12prog/Fiches-actions/QUA_1.pdf"
+    },
+    {
+      "type": "ressource",
+      "texte": "Fiche dispositif IND_1, études de réduction des pollutions et des pressions (autre ligne d'aide, jusqu'à 50 %)",
+      "lien": "https://aides-redevances.eau-loire-bretagne.fr/home/aides/fiches-dispositif-12e-programme/ind/ind1-etudes-de-reduction-des-pollutions-et-des-pressions-et-etud.html"
+    },
+    {
+      "type": "ressource",
+      "texte": "Aides, mode d'emploi : dépôt sur Rivage et contact avec la délégation territoriale",
+      "lien": "https://aides-redevances.eau-loire-bretagne.fr/home/aides/lessentiel-des-aides---12e-programme/aides-mode-demploi.html"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "taux (réduction des besoins en eau), plafond, eligibilite, infos_complementaires (priorisation 2026, dépôt)",
+      "url": "https://aides-redevances.eau-loire-bretagne.fr/home/aides/fiches-dispositif-12e-programme/qua/qua1-etudes-et-travaux-de-reduction-des-besoins-en-eau.html",
+      "date": "2026-09-22",
+      "extrait": "QUA_1 Études et travaux de réduction des besoins en eau. Taux d'aide 70 %. Le taux d'aide est un taux maximum. Il peut être limité par l'encadrement européen des aides publiques en tenant compte des zones d'aide à finalité régionales. Les aides de l'agence de l'eau n'ont pas un caractère systématique. Leur attribution est fonction d'une part des disponibilités financières de l'agence de l'eau et d'autre part de la priorisation des projets [...] En 2026, la capacité d'intervention de l'agence de l'eau est insuffisante pour faire face aux demandes inédites de financement. Le conseil d'administration du 12 mars 2026 a décidé de prioriser encore davantage ses interventions. Cela se traduit par l'adoption de mesures, dont la mise en suspens de certains dispositifs d'aide ou l'application d'un plafond d'aide [...] À compter du 1er janvier 2027, un coût plafond de 60 euros par m3 d'eau économisée sera appliqué à toutes les décisions d'aides prises sur les demandes déjà déposées et à venir relatives à des travaux de réduction des besoins en eau pour les industries et les collectivités. Seules les opérations programmées dans des accords de territoire signés en 2025 ne sont pas concernées. [...] Le dépôt s'effectue sur l'outil de téléservice « Rivage ». Thématique : Lutte contre les pressions des activités économiques hors agriculture (réduction des pollutions, économies d'eau et eaux pluviales). Dispositifs : Études ; Travaux d'économie d'eau et de réduction des prélèvements."
+    },
+    {
+      "champ": "taux (réduction des prélèvements existants)",
+      "url": "https://aides-redevances.eau-loire-bretagne.fr/home/aides/fiches-dispositif-12e-programme/qua/qua1-etudes-et-travaux-de-reduction-des-prelevements-existants.html",
+      "date": "2026-09-22",
+      "extrait": "QUA_1 Études et travaux de réduction des prélèvements existants. L'objectif de ce dispositif est de promouvoir une démarche globale de sobriété hydrique, essentielle face à la diminution de la disponibilité en eau, en incitant tous les usagers à adopter des solutions durables et collectives. Taux d'aide 50 %. Le taux d'aide est un taux maximum. Il peut être limité par l'encadrement européen des aides publiques en tenant compte des zones d'aide à finalité régionales."
+    },
+    {
+      "champ": "description (deux branches), mesures, eligibilite (bénéficiaire)",
+      "url": "https://aides-redevances.eau-loire-bretagne.fr/files/live/sites/aides-redevances/files/Aides-12prog/Fiches-actions/QUA_1.pdf",
+      "date": "2026-09-22",
+      "extrait": "QUA_1 - Accélérer les économies d'eau et réduire les prélèvements. Version n°1, applicable au 1er janvier 2025 (CA du 14 novembre 2024). Ce dispositif d'aide vise prioritairement à réduire les prélèvements : par des actions de réduction des besoins en eau afin d'abaisser sa dépendance et s'engager dans une démarche de sobriété hydrique (changement de process ou de pratiques, matériel plus économe en eau, toilettes sèches, etc.) ; par des actions de réduction des prélèvements existants via de la récupération d'eau de pluie, du recyclage d'eau de process, de la réutilisation des eaux usées traitées, etc. dans le cadre d'une approche globale d'économie d'eau. Les dispositifs aidés sont : Études et travaux de réduction des besoins en eau auprès des collectivités et des activités économiques ; Études et travaux de réduction des prélèvements existants auprès des collectivités et activités économiques ; Actions d'animation et communication [...] Bénéficiaire : Public ou privé hors activité économique agricole et hors délégataire de service public."
+    },
+    {
+      "champ": "description (dépenses éligibles dont études préalables), plafond (eaux non conventionnelles), mesures (comptage)",
+      "url": "https://aides-redevances.eau-loire-bretagne.fr/files/live/sites/aides-redevances/files/Aides-12prog/Fiches-actions/QUA_1.pdf",
+      "date": "2026-09-22",
+      "extrait": "Études et travaux de réduction des besoins en eau auprès des collectivités et des activités économiques non agricoles : Coût des études préalables ou du diagnostic réalisés par un prestataire externe. Coûts des travaux ainsi que la maitrise d'oeuvre, l'assistance à maitrise d'ouvrage et les équipements dédiés à la réduction des besoins en eau y compris matériel de comptage. Études et travaux de réduction des prélèvements existants auprès des collectivités et activités économiques non agricoles : Coût des études de réduction des prélèvements et des études préalables aux travaux (études d'acceptabilité du milieu récepteur, études diagnostics, étude de faisabilité et d'aide à la décision, etc.) réalisées par un prestataire externe. Coût des travaux de traitement, d'équipement de suivi et comptage (hors main d'oeuvre interne), de stockage nécessaire à l'utilisation (ou la réutilisation) des eaux non conventionnelles (eau de pluie, eau de process, eaux usées traitées...) dans la limite d'un coût plafond de 60 €/m3 d'eau substituée annuellement. Coût de la mise en place de la télérelève de compteurs pour les plus gros consommateurs : s'il est nécessaire de changer le compteur, la dépense retenue porte sur le surcoût lié à l'enregistrement automatique et la télétransmission des consommations. À défaut de chiffrage de ce surcoût, 50% du coût du compteur intelligent est pris en compte."
+    },
+    {
+      "champ": "eligibilite, infos_complementaires (étude préalable, comptage, REUT, bilan à un an, priorisation)",
+      "url": "https://aides-redevances.eau-loire-bretagne.fr/files/live/sites/aides-redevances/files/Aides-12prog/Fiches-actions/QUA_1.pdf",
+      "date": "2026-09-22",
+      "extrait": "Sont exclus les projets dans le cadre de la création ou d'un transfert d'établissement et dans les bâtiments neufs. [...] Les travaux doivent avoir fait l'objet d'une étude préalable ou d'un diagnostic faisant état d'une réflexion globale sur la réduction potentielle des besoins et des prélèvements en eau détaillant l'objectif de réduction en eau visé (en volume et en ratio de consommation d'eau par tonne de produits finis). Les travaux doivent inclure les moyens nécessaires au contrôle et au suivi des performances relatives à la réduction des prélèvements en eau et notamment le comptage. [...] Les projets de réutilisation des eaux usées traitées doivent faire l'objet d'une étude d'impact environnemental pour démontrer l'impact positif sur la (les) masse(s) d'eau. [...] La priorité est donnée aux projets les plus efficients (en euros par mètre cube d'eau économisée) et sur les territoires classés en zone de répartition des eaux (ZRE). [...] Pour tous les travaux : fourniture d'un bilan global des réductions des besoins ou des prélèvements en eau (en volume et en ratio de consommation d'eau) réalisé un an après la réception des travaux démontrant la conformité avec les objectifs fixés. Pour les projets de réutilisation des eaux usées traitées, ce bilan devra détailler les volumes d'eau réutilisés et les usages qui en sont faits. Pour les projets de réutilisation des eaux usées traitées, l'étude d'impact environnemental du projet doit s'appuyer sur le guide de préconisations de l'agence de l'eau."
+    },
+    {
+      "champ": "type, eligibilite (dépôt avant démarrage), infos_complementaires (premier acte juridique)",
+      "url": "https://aides-redevances.eau-loire-bretagne.fr/files/live/mounts/midas/Aides/12e%20programme/R%c3%a8gles%20g%c3%a9n%c3%a9rales%20d%e2%80%99attri",
+      "date": "2026-09-22",
+      "extrait": "Règles générales d'attribution et de versement des aides du 12e programme d'intervention de l'agence de l'eau Loire-Bretagne. Délibération n° 2024-102 du 14 novembre 2024. Date d'effet : 1er janvier 2025. [...] L'agence de l'eau attribue des aides sous forme de subvention (par application de taux ou de forfait) ou d'avance remboursable. [...] La demande d'aide formelle et complète doit être déposée avant le démarrage du projet ; à défaut elle est irrecevable. Le premier acte juridique de démarrage du projet est celui qui rend irréversible sa réalisation (notification d'un marché ou d'un bon de commande, pour le cas général, l'attestation du bénéficiaire en cas de réalisation en régie). [...] Les prestations dont le bénéficiaire aurait besoin pour assurer la faisabilité du projet (acquisitions de terrains, études, marché de maîtrise d'oeuvre, sondage de sols, assistance à maitrise d'ouvrage [...]) ne constituent pas un démarrage du projet. [...] En aucun cas, l'accusé de réception du dépôt de la demande d'aide ne vaut engagement d'attribution d'une aide de l'agence de l'eau."
+    },
+    {
+      "champ": "taux (dispositif IND_1, autre ligne d'aide)",
+      "url": "https://aides-redevances.eau-loire-bretagne.fr/home/aides/fiches-dispositif-12e-programme/ind/ind1-etudes-de-reduction-des-pollutions-et-des-pressions-et-etud.html",
+      "date": "2026-09-22",
+      "extrait": "IND_1 Études de réduction des pollutions et des pressions et études préalables aux travaux. Taux d'aide 50 %. Le taux d'aide est un taux maximum, il peut être limité par l'encadrement européen des aides publiques. Votre demande d'aide financière doit être déposée avant tout engagement juridique ou début d'exécution."
+    },
+    {
+      "champ": "infos_complementaires (dépôt sur Rivage, contact délégation)",
+      "url": "https://aides-redevances.eau-loire-bretagne.fr/home/aides/lessentiel-des-aides---12e-programme/aides-mode-demploi.html",
+      "date": "2026-09-22",
+      "extrait": "Avant de déposer une demande d'aide, prenez contact avec votre délégation ! Avec ces cinq délégations territoriales, l'agence de l'eau se tient aux côtés des acteurs locaux sur l'ensemble du bassin Loire-Bretagne. [...] À partir du 10 janvier 2025, le dépôt des demandes d'aide s'effectue sur « Rivage » le nouvel outil de téléservice."
+    }
+  ],
+  "date_maj": "2026-09-22"
+}

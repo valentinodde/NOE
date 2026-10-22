@@ -1,0 +1,86 @@
+{
+  "id": "PREST_VIA_009",
+  "nom": "JACIR (Cofinair by Jacir)",
+  "type": "equipementier",
+  "logo_url": null,
+  "siret": "78625049800015",
+  "description": "Fabricant de tours de refroidissement, de refroidisseurs et de condenseurs adiabatiques, marque du groupe Cofinair, avec un siège à Pontault-Combault et des sites de production en Normandie (Martin-Église, Hautot-sur-Mer). Ses refroidisseurs adiabatiques TOPAZ NEO et condenseurs adiabatiques ONYX fonctionnent en mode sec et n'humidifient l'air qu'aux fortes charges thermiques, l'eau d'humidification excédentaire étant recyclée ; en agroalimentaire, il a notamment remplacé les tours aéroréfrigérantes d'un refroidissement d'autoclaves par un dry adiabatique TOPAZ NEO et installé trois refroidisseurs adiabatiques TOPAZ dans une laiterie de Loire-Atlantique, qui a pu se séparer de ses condenseurs évaporatifs. Il assure aussi l'expertise, la maintenance, la réhabilitation et la location de tours de refroidissement ; le contact se prend par téléphone, courriel ou formulaire en ligne.",
+  "expertises": [
+    "Refroidisseurs adiabatiques",
+    "Condenseurs adiabatiques",
+    "Tours de refroidissement",
+    "Maintenance et réhabilitation de tours"
+  ],
+  "categories": [
+    "ameliorer_efficacite_hydrique"
+  ],
+  "secteurs": ["industrie_viande"],
+  "departements": [],
+  "mesures": [
+    { "id": "ACT_VIA_004", "roles": ["materiel"] }
+  ],
+  "contacts": [
+    { "type": "site_internet", "value": "https://www.jacir.fr/fr/" },
+    { "type": "tel", "value": "01 64 43 53 20" },
+    { "type": "mail", "value": "contact@jacir.fr" },
+    { "type": "adresse", "value": "11 rue Jean Moulin, 77340 Pontault-Combault" }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=JACIR&departement=77",
+      "date": "2026-09-24",
+      "extrait": "JACIR (JACIR), siret 78625049800015, siège, 11 RUE JEAN MOULIN 77340 PONTAULT-COMBAULT, activité 28.29B, état administratif A"
+    },
+    {
+      "champ": "type, description, expertises",
+      "url": "https://www.jacir.fr/fr/presentation-entreprise-jacir/",
+      "date": "2026-09-24",
+      "extrait": "A COFINAIR GROUP BRAND [...] JACIR : votre expert en fabrication de tours de refroidissement. [...] une gamme extrêmement diversifiée de tours de refroidissement, de refroidisseurs et condenseurs adiabatiques. [...] Au delà de l'offre d'une gamme complète fabriquée en France, Jacir accompagne ses clients dans le suivi et la maintenance de ses équipements. [...] 2021 Fusion de Jacir et Cofinair Industrie. [...] Services [...] Réhabilitation majeure. Location de tours de refroidissement. Expertise et maintenance"
+    },
+    {
+      "champ": "type, description",
+      "url": "https://www.jacir.fr/fr/nos-sites-de-production/",
+      "date": "2026-09-24",
+      "extrait": "De la conception à la livraison, JACIR développe en Normandie, depuis plus de 60 ans, son savoir-faire et son outil de travail, dans le domaine du travail des métaux. [...] Répartis sur deux sites de production, à Martin-Église et Hautôt-sur-Mer"
+    },
+    {
+      "champ": "contacts (adresse), departements, description",
+      "url": "https://www.jacir.fr/fr/contact-htm/",
+      "date": "2026-09-24",
+      "extrait": "Contactez-nous. [...] Région: Antilles Françaises, Aquitaine, Auvergne-Rhône Alpes, Basse Normandie, Bretagne, Centre - Ouest, Est, Haute Normandie, Hauts de France, Ile-de-France, PACA, Sud Ouest. Siège social Jacir 11, rue Jean Moulin 77340 Pontault Combault France. Site de production Hautôt-sur-Mer Jacir 63, rue de Bernouville 76550 Hautot-sur-Mer. Site de production Martin-Eglise Jacir Cours Bourbon 76370 MARTIN EGLISE"
+    },
+    {
+      "champ": "contacts (tel, mail)",
+      "url": "https://www.jacir.fr/wp-content/uploads/2022/10/Brochure-TN-4-voletsJacir_FR-29-08-22-BD.pdf",
+      "date": "2026-09-24",
+      "extrait": "JACIR S.A.S 11, rue Jean Moulin - 77348 Pontault-Combault Cedex - France Tél : + 33 (0) 1 64 43 53 20 - Fax : +33 (0) 1 64 43 53 21 contact@jacir.fr - www.jacir.fr"
+    },
+    {
+      "champ": "mesures (ACT_VIA_004), expertises, description",
+      "url": "https://www.jacir.fr/fr/categories/refroidisseurs-adiabatiques/",
+      "date": "2026-09-24",
+      "extrait": "Les refroidisseurs adiabatiques résultent de l'association d'un aéroréfrigérant sec et d'une section de pré-refroidissement d'air. Ils fonctionnent majoritairement en mode sec puis en mode adiabatique, lorsque la charge thermique est maximale [...] L'eau d'humidification excédentaire est ainsi collectée dans un bac en acier inox, puis recyclée. L'économie d'eau est alors majeure, sans risque de propagation de bactéries. [...] Consommation d'eau très faible grâce au système de récupération d'eau avec pompe"
+    },
+    {
+      "champ": "mesures (ACT_VIA_004), expertises, description",
+      "url": "https://www.jacir.fr/fr/categories/condenseurs-adiabatiques/",
+      "date": "2026-09-24",
+      "extrait": "Nos condenseurs adiabatiques ONYX sont des échangeurs de chaleur dédiés au fluide frigorigène NH3 en standard. Les calories sont rejetées en sec dans l'atmosphère. Dès que les conditions climatiques augmentent, nos échangeurs utilisent l'évaporation de l'eau. [...] Notre solution de condensation adiabatique résulte de l'association d'un condenseur sec et d'une section de pré-refroidissement adiabatique"
+    },
+    {
+      "champ": "mesures (ACT_VIA_004), description",
+      "url": "https://www.jacir.fr/fr/realisations/systeme-de-refroidissement-dautoclaves/",
+      "date": "2026-09-24",
+      "extrait": "Dans le cadre d'un projet de rénovation et d'amélioration d'une installation de refroidissement d'autoclaves aux Seychelles, le choix de notre client s'est porté sur un dry adiabatique TOPAZ NEO® en remplacement de ses tours aéroréfrigérantes vieillissantes. [...] Recirculation d'eau assurant la plus faible consommation contrairement à des machines « eau perdue »"
+    },
+    {
+      "champ": "description",
+      "url": "https://www.jacir.fr/fr/realisations/refroidisseurs-adiabatique-pour-une-laiterie/",
+      "date": "2026-09-24",
+      "extrait": "la Laiterie Saint-Père en Loire-Atlantique a récemment fait appel à JACIR pour l'installation de 3 refroidisseurs adiabatiques TOPAZ (3TH9 E08 D3). La mise en place de ces appareils a notamment permis à notre client de ne plus être soumis à la rubrique 2921, de pouvoir se séparer de ses vieux condenseurs évaporatifs ainsi que d'éviter l'utilisation de traitements."
+    }
+  ],
+  "date_maj": "2026-09-24"
+}

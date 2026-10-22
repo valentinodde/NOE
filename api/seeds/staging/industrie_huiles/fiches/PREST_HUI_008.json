@@ -1,0 +1,77 @@
+{
+  "id": "PREST_HUI_008",
+  "nom": "GEA Process Engineering",
+  "type": "installateur",
+  "logo_url": null,
+  "siret": "42085622100015",
+  "description": "Société installée à Montigny-le-Bretonneux, dont l'activité déclarée est l'installation de machines et équipements mécaniques ; la page France du groupe GEA (maison mère GEA Group AG, Düsseldorf, Allemagne) place son site principal à la même adresse et publie l'index égalité d'une entité « Process Engineering », mais aucune source consultée ne rattache explicitement ce SIRET à l'offre décrite ici. Pour les raffineries d'huiles, GEA propose pour la désodorisation un vide à condensation sèche (la vapeur est condensée en glace), en usine neuve ou en modernisation, qui n'utilise que 0,1 % de l'eau d'un vide humide à éjecteurs et condenseurs. Ce n'est pas la boucle fermée avec tour ou aéroréfrigérant de la mesure, mais une autre technique qui supprime presque toute l'eau perdue du vide : sur l'exemple de la brochure, 0,8 m3/h d'eau au condenseur frigorifique contre 17 + 2 m3/h en vide humide. La brochure est éditée par GEA Wiegand (Ettlingen, Allemagne), contact indiqué pour ce produit ; demande de devis par le formulaire du site.",
+  "expertises": [
+    "Vide à condensation sèche",
+    "Modernisation du vide de désodorisation"
+  ],
+  "categories": [
+    "ameliorer_efficacite_hydrique"
+  ],
+  "secteurs": [
+    "industrie_huiles"
+  ],
+  "departements": [],
+  "mesures": [
+    {
+      "id": "ACT_HUI_002",
+      "roles": [
+        "materiel"
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "type": "site_internet",
+      "value": "https://www.gea.com/fr/products/vacuum-systems/vacuum-systems/dry-condensing-vacuum-systems/"
+    },
+    {
+      "type": "adresse",
+      "value": "4 rue Jean-Pierre Timbaud, 78180 Montigny-le-Bretonneux"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse, description (activité)",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=GEA%20Process%20Engineering&departement=78",
+      "date": "2026-09-27",
+      "extrait": "GEA PROCESS ENGINEERING, SIRET 42085622100015, siège, 4 RUE JEAN-PIERRE TIMBAUD 78180 MONTIGNY-LE-BRETONNEUX, NAF 33.20B, état administratif A"
+    },
+    {
+      "champ": "description (lien avec le groupe GEA en France)",
+      "url": "https://www.gea.com/fr/france/",
+      "date": "2026-09-27",
+      "extrait": "GEA FRANCE, Notre emplacement principal, 4 rue Jean-Pierre Timbaud - B.P. 80, 78185 Montigny le Bretonneux [...] GEA France - INDEX ÉGALITÉ HOMME-FEMME 2025 : WESTFALIA SEPARATOR, FOOD SOLUTIONS, PROCESS ENGINEERING"
+    },
+    {
+      "champ": "contacts (site_internet), description, expertises, mesures",
+      "url": "https://www.gea.com/fr/products/vacuum-systems/vacuum-systems/dry-condensing-vacuum-systems/",
+      "date": "2026-09-27",
+      "extrait": "La désodorisation de l'huile est un processus en aval clé de la transformation des huiles alimentaires [...] n'utilise que 10 à 20 % de l'énergie et 0,1 % de l'eau nécessaires avec les systèmes [...] Nos systèmes peuvent être utilisés pour moderniser une installation existante"
+    },
+    {
+      "champ": "description, mesures",
+      "url": "https://www.gea.com/en/products/vacuum-systems/vacuum-systems/dry-condensing-vacuum-systems/",
+      "date": "2026-09-27",
+      "extrait": "Oil deodorization is a key downstream process in edible oil manufacture [...] just 0.1% of the water required by conventional 'wet' vacuum systems. Our systems can be retrofit into an existing plant"
+    },
+    {
+      "champ": "description (vide humide contre condensation sèche, éditeur GEA Wiegand), mesures",
+      "url": "https://www.gea.com/en/assets/170680/",
+      "date": "2026-09-27",
+      "extrait": "Cooling water 17 m3/h [...] Cooling water 2 m3/h [vide humide] ; Refrigerant condenser Water 0.8 m3/h [...] © GEA Wiegand GmbH [...] GEA Wiegand, Am Hardtwald 1, 76275 Ettlingen, Germany"
+    },
+    {
+      "champ": "description (groupe allemand)",
+      "url": "https://www.gea.com/fr/legal/imprint-and-website-terms-of-use/",
+      "date": "2026-09-27",
+      "extrait": "GEA Group Aktiengesellschaft (hereinafter referred to as GEA Group), a corporation incorporated under the laws of Germany, having its principle office in Düsseldorf, Germany."
+    }
+  ],
+  "date_maj": "2026-09-27"
+}

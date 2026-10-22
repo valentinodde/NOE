@@ -1,0 +1,88 @@
+{
+  "id": "PREST_ART_002",
+  "nom": "Chefneux Assainissement",
+  "type": "installateur",
+  "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792064997/Noe%20assets/logos/PREST_ART_002.png",
+  "siret": "33100471300037",
+  "description": "Entreprise d'assainissement installée à Montagny (Rhône), agréée vidangeur, qui intervient dans le Rhône, l'Isère, la Loire et l'Ain. Pour les boulangeries, pâtisseries, boucheries et charcuteries, elle vidange les bacs à graisse (pompage des graisses et des boues, nettoyage haute pression, contrôle du séparateur) et remet à chaque passage un bordereau de suivi des déchets, un certificat de vidange et un rapport d'intervention. Intervention sur devis ou dans le cadre d'un contrat d'entretien mensuel à trimestriel, son site ne présente pas de pose de bacs neufs.",
+  "expertises": [
+    "Vidange de bacs à graisse",
+    "Contrat d'entretien bac à graisse",
+    "Contrôle du séparateur",
+    "Bordereau de suivi des déchets"
+  ],
+  "categories": [
+    "agir_rejets_qualite"
+  ],
+  "secteurs": [
+    "artisanat_alimentaire"
+  ],
+  "departements": [
+    "01",
+    "38",
+    "42",
+    "69"
+  ],
+  "mesures": [
+    {
+      "id": "ACT_ART_006",
+      "roles": [
+        "travaux"
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "type": "site_internet",
+      "value": "https://www.chefneux.com/"
+    },
+    {
+      "type": "tel",
+      "value": "04 78 73 02 65"
+    },
+    {
+      "type": "adresse",
+      "value": "ZAC du Baconnet, 57 allée des Érables, 69700 Montagny"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "description, expertises, mesures, categories",
+      "url": "https://www.chefneux.com/services/bac-graisse",
+      "date": "2026-10-15",
+      "extrait": "Pompage intégral des graisses et boues. Nettoyage haute pression du bac. Contrôle de l'état du séparateur. [...] Bordereau de suivi des déchets (BSD). Certificat de vidange. Rapport d'intervention détaillé. [...] Contrats disponibles pour [...] Mensuel à trimestriel"
+    },
+    {
+      "champ": "secteurs",
+      "url": "https://www.chefneux.com/services/bac-graisse",
+      "date": "2026-10-15",
+      "extrait": "Qui est concerné ? Restaurants et brasseries [...] Boulangeries et pâtisseries [...] Boucheries et charcuteries"
+    },
+    {
+      "champ": "departements, contacts",
+      "url": "https://www.chefneux.com/services/bac-graisse",
+      "date": "2026-10-15",
+      "extrait": "Rhône (69) Isère (38) Loire (42) Ain (01). Contact 04 78 73 02 65, ZAC du Baconnet 57 Allée des Érables 69700 Montagny"
+    },
+    {
+      "champ": "siret, description",
+      "url": "https://www.chefneux.com/mentions-legales",
+      "date": "2026-10-15",
+      "extrait": "Propriétaire du site : CHEFNEUX ASSAINISSEMENT [...] SIRET : 331 004 713 00037 [...] N° d'agrément vidangeur : 2020-NS-069-0001"
+    },
+    {
+      "champ": "siret, adresse",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Thierry%20Chefneux%20Assainissement&departement=69",
+      "date": "2026-10-15",
+      "extrait": "THIERRY CHEFNEUX ASSAINISSEMENT, siret 33100471300037, siège, ZAC DU BACONNET 57 ALLEE DES ERABLES 69700 MONTAGNY, activité 37.00Z, état administratif A"
+    },
+    {
+      "champ": "logo_url",
+      "url": "https://www.chefneux.com/apple-touch-icon.png",
+      "date": "2026-10-15",
+      "extrait": "apple-touch-icon 180 x 180 déclarée dans l'en-tête du site"
+    }
+  ],
+  "date_maj": "2026-10-15"
+}

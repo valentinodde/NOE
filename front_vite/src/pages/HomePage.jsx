@@ -28,15 +28,8 @@ export default function HomePage() {
       <main className="flex-1 flex flex-col items-center justify-center px-4">
         <div className="w-full max-w-md">
 
-          {/* Hero — asymmetric left padding for editorial feel */}
+          {/* Hero: asymmetric left padding for editorial feel */}
           <div className="mb-12 pl-2">
-            <div
-              className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full mb-6 text-[0.6875rem] font-medium tracking-widest uppercase"
-              style={{ background: 'rgba(0,10,67,0.06)', color: '#000a43' }}
-            >
-              <span className="w-1.5 h-1.5 rounded-full bg-tertiary inline-block" />
-              Water Risk Intelligence
-            </div>
             <h1
               className="text-[2.5rem] font-bold text-primary leading-tight mb-3"
               style={{ letterSpacing: '-0.02em' }}
@@ -48,7 +41,7 @@ export default function HomePage() {
             </p>
           </div>
 
-          {/* Search card — tonal layering, no border */}
+          {/* Search card: tonal layering, no border */}
           <div
             className="bg-surface-low rounded-2xl p-8"
             style={{ boxShadow: '0 0 48px rgba(0,10,67,0.04)' }}

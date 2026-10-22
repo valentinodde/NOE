@@ -1,0 +1,83 @@
+{
+  "id": "PREST_HOT_009",
+  "nom": "Winterhalter France",
+  "type": "installateur",
+  "logo_url": null,
+  "siret": "34314790600055",
+  "description": "Filiale française, créée en 1987 et installée à Chaponost (Rhône), du fabricant allemand Winterhalter, dont les machines sont produites en Allemagne et en Suisse : elle ne fabrique pas en France. Elle distribue la marque auprès d'un réseau national d'installateurs et de professionnels de la cuisine, et propose aux hôtels des lave-vaisselle frontaux, à capot, lave-ustensiles et à avancement automatique (2,2 litres d'eau de rinçage par cycle annoncés pour la gamme à capot PT, avec doseur de produit de rinçage intégré), les produits lessiviels, la location de machines et des forfaits d'entretien avec intervention de techniciens sur site ; la pose des machines par la filiale elle-même n'est pas décrite. Prestations payantes, à l'achat, à la location ou sous forfait d'entretien.",
+  "expertises": [
+    "Lave-vaisselle professionnels",
+    "Dosage des produits lessiviels",
+    "Location de lave-vaisselle",
+    "Entretien sur site"
+  ],
+  "categories": [
+    "ameliorer_efficacite_hydrique"
+  ],
+  "secteurs": [
+    "hotellerie"
+  ],
+  "departements": [],
+  "mesures": [
+    {
+      "id": "ACT_HOT_004",
+      "roles": [
+        "materiel"
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "type": "site_internet",
+      "value": "https://www.winterhalter.com/fr-fr/"
+    },
+    {
+      "type": "tel",
+      "value": "+33 4 81 76 76 00"
+    },
+    {
+      "type": "adresse",
+      "value": "46 route de Brignais, 69630 Chaponost"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Winterhalter%20France&departement=69",
+      "date": "2026-09-24",
+      "extrait": "WINTERHALTER FRANCE SAS, siret 34314790600055, siège, 46 ROUTE DE BRIGNAIS 69630 CHAPONOST, etat_administratif A"
+    },
+    {
+      "champ": "type, description, departements",
+      "url": "https://www.winterhalter.com/fr-fr/a-propos/",
+      "date": "2026-09-24",
+      "extrait": "La fabrication est toujours allemande et suisse [...] une maison-mère à Meckenbeuren (Allemagne) et des filiales et partenaires partout à travers le monde. [...] Créée en 1987, Winterhalter France est située à Chaponost, près de Lyon. [...] La filiale représente et distribue la marque Winterhalter auprès d'un réseau national d'installateurs et de professionnels de la cuisine. [...] Winterhalter France emploie plus de 90 commerciaux, techniciens et administratifs, à travers tout le pays."
+    },
+    {
+      "champ": "description, expertises, mesures",
+      "url": "https://www.winterhalter.com/fr-fr/secteurs/hotellerie/",
+      "date": "2026-09-24",
+      "extrait": "SOLUTIONS DE LAVAGE POUR HÔTELS [...] Grâce à des technologies avancées, ces machines réduisent également la consommation d'eau et d'énergie, vous permettant de réaliser des économies tout en contribuant à la protection de l'environnement. (menu de la page : Location de lave-vaisselle professionnels, Technologie de dosage)"
+    },
+    {
+      "champ": "description, mesures",
+      "url": "https://www.winterhalter.com/fr-fr/produits/lave-vaisselle-a-capot/gamme-pt/",
+      "date": "2026-09-24",
+      "extrait": "son système de lavage performant utilise seulement 2,2 litres d'eau de rinçage par cycle tout en garantissant des résultats de lavage irréprochables. [...] Un doseur de produit de rinçage intégré fait partie des équipements de série : il garantit un dosage précis et économe pour un résultat de lavage et de séchage parfait."
+    },
+    {
+      "champ": "expertises, description",
+      "url": "https://www.winterhalter.com/fr-fr/services/",
+      "date": "2026-09-24",
+      "extrait": "nos techniciens interviennent sur site dans les meilleurs délais ; Nos forfaits d'entretien vous garantissent une plus grande sécurité"
+    },
+    {
+      "champ": "contacts",
+      "url": "https://www.winterhalter.com/fr-fr/contact/",
+      "date": "2026-09-24",
+      "extrait": "Winterhalter France SAS, 46 route de Brignais, 69630 Chaponost, France. +33 481 76 76 00"
+    }
+  ],
+  "date_maj": "2026-09-24"
+}

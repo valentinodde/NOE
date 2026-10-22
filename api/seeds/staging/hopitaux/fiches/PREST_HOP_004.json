@@ -1,0 +1,106 @@
+{
+  "id": "PREST_HOP_004",
+  "nom": "Société des Eaux de Marseille",
+  "type": "bureau_etudes",
+  "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792070081/Noe%20assets/logos/PREST_HOP_004.png",
+  "siret": "05780615000488",
+  "description": "Exploitant des réseaux d'eau de la région marseillaise (plus de 5 000 km gérés pour des collectivités), la Société des Eaux de Marseille intervient ici en étude et diagnostic pour les établissements, dont les hôpitaux : recherche de fuites sur réseaux publics ou privés (corrélateurs acoustiques, sectorisation, compteurs connectés) avec rapport de diagnostic et actions correctives, et prévention du risque légionelles sur les réseaux d'eau chaude sanitaire, retenue par l'AP-HM. En 2025, elle a mené avec la Société du Canal de Provence l'étude de réutilisation des eaux de dialyse de l'hôpital de la Conception (AP-HM) : caractérisation du gisement (23 000 m³ par an potentiellement réutilisables), analyses dont les médicaments, et scénarios d'usage chiffrés pour les rejets des osmoseurs. Ancrée en région marseillaise, elle annonce intervenir sans contrainte géographique. Demande par téléphone, par mail ou par formulaire de rappel sur son site.",
+  "expertises": [
+    "Recherche de fuites",
+    "Diagnostic des pertes en eau",
+    "Étude de réutilisation des eaux",
+    "Prévention du risque légionelles"
+  ],
+  "categories": [
+    "suivre_comprendre_maitriser",
+    "valoriser_reut_eaux_non_conventionnelles"
+  ],
+  "secteurs": [
+    "hopitaux"
+  ],
+  "departements": [],
+  "mesures": [
+    {
+      "id": "ACT_HOP_002",
+      "roles": [
+        "conseil_etude"
+      ]
+    },
+    {
+      "id": "ACT_HOP_006",
+      "roles": [
+        "conseil_etude"
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "type": "site_internet",
+      "value": "https://www.eauxdemarseille.fr"
+    },
+    {
+      "type": "tel",
+      "value": "0 969 39 41 51"
+    },
+    {
+      "type": "mail",
+      "value": "communication@eauxdemarseille.fr"
+    },
+    {
+      "type": "adresse",
+      "value": "78 boulevard Lazer, 13010 Marseille"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Soci%C3%A9t%C3%A9%20des%20Eaux%20de%20Marseille&departement=13",
+      "date": "2026-10-15",
+      "extrait": "SOCIETE DES EAUX DE MARSEILLE (S.E.M.), siret 05780615000488, siège, 78 BOULEVARD LAZER 13010 MARSEILLE, etat_administratif A"
+    },
+    {
+      "champ": "expertises, mesures (ACT_HOP_002), description",
+      "url": "https://www.eauxdemarseille.fr/nos-offres/recherche-et-detection-de-fuites/",
+      "date": "2026-10-15",
+      "extrait": "Syndics, copropriétés, particuliers, collectivités, régies, industries, centres commerciaux, hôpitaux … tous font appel à nos spécialistes en recherche de fuites. Étude et diagnostic pour la diminution des pertes (identification des anomalies, interprétation des résultats, rapport de diagnostic et proposition d'actions correctives)."
+    },
+    {
+      "champ": "contacts",
+      "url": "https://www.eauxdemarseille.fr/nos-offres/recherche-et-detection-de-fuites/",
+      "date": "2026-10-15",
+      "extrait": "Par téléphone 0 969 39 41 51 (Appel non surtaxé). Par mail (mailto:communication@eauxdemarseille.fr). Laissez vos coordonnées, un expert va vous rappeler."
+    },
+    {
+      "champ": "departements",
+      "url": "https://www.eauxdemarseille.fr/nos-offres/recherche-et-detection-de-fuites/",
+      "date": "2026-10-15",
+      "extrait": "Un expert ou une équipe qui interviennent sans contrainte géographique et d'horaire, sur tous types de sites : industriels, entreprises, particuliers, communes et communautés de communes avec la compétence Eau potable. (Aucune limite de zone publiée : departements vide, choix éditorial.)"
+    },
+    {
+      "champ": "type, description",
+      "url": "https://www.eauxdemarseille.fr/nos-offres/recherche-et-detection-de-fuites/",
+      "date": "2026-10-15",
+      "extrait": "La recherche de fuites est un des métiers phares de la Société des Eaux de Marseille qui gère plus de 5 000 km de réseaux d'eaux pour le compte de collectivités. Étude et diagnostic pour la diminution des pertes (identification des anomalies, interprétation des résultats, rapport de diagnostic et proposition d'actions correctives)."
+    },
+    {
+      "champ": "expertises, description",
+      "url": "https://www.eauxdemarseille.fr/nos-offres/maitrise-des-risques-sanitaires/",
+      "date": "2026-10-15",
+      "extrait": "Son offre de service permet de lutter contre la prolifération des légionelles dans les réseaux d'eau chaude sanitaire pour tous les établissements recevant du public, notamment dans le secteur hospitalier. Pour leur sécurité sanitaire, l'Assistance Publique-Hôpitaux de Marseille ainsi que l'hôpital Européen ont choisi la Société des Eaux de Marseille."
+    },
+    {
+      "champ": "expertises, mesures (ACT_HOP_006), description",
+      "url": "https://www.reset-bfc.fr/fileadmin/mediatheque_reset/actualites/20251113-3eme_rencontre_regionale/20251113_presentation_recuperation_eau_dialyse.pdf",
+      "date": "2026-10-15",
+      "extrait": "Étude de la réutilisation des eaux issues de la dialyse, Hôpital de la Conception. Prestataire : Société des Eaux de Marseille (SEM) et le canal de Provence (SCP). 23 000 m3/an potentiellement réutilisable. Osmoseur/adoucisseur : pour réutiliser ces eaux, il faudrait mettre en place un système de traitement simple de 10 m3/h."
+    },
+    {
+      "champ": "logo_url",
+      "url": "https://www.eauxdemarseille.fr/app/uploads/2022/12/cropped-favicon-eaux-de-marseille-144x144-v5-180x180.png",
+      "date": "2026-10-15",
+      "extrait": "apple-touch-icon du site eauxdemarseille.fr, 180 x 180"
+    }
+  ],
+  "date_maj": "2026-10-15"
+}

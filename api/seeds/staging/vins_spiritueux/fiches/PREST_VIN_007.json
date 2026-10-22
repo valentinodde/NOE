@@ -1,0 +1,122 @@
+{
+  "id": "PREST_VIN_007",
+  "nom": "HERIC Distribution",
+  "type": "installateur",
+  "logo_url": "https://www.hericdistribution.com/sites/all/themes/heric/logo.png",
+  "siret": "47922964300032",
+  "description": "Distributeur de matériel vinicole installé à Oiry, dans la Marne, qui équipe les caves en cuverie inox (marques CHALVIGNAC, METALINOX, INOXESS), en cuves de stockage d'effluents en fibre de verre ou PEHD et en matériel de nettoyage et de détartrage (têtes de lavage GEA, centrales de nettoyage Diversey). Pour la cuverie, il établit le cahier des charges, la livre et la met en place, et son équipe de tuyauteurs pose la tuyauterie inox d'eau et de vin des cuveries. Son atelier fabrique aussi des cuves de petit volume (belons, cuves tampon, cuves à liqueur).",
+  "expertises": [
+    "Cuverie inox sur mesure",
+    "Tuyauterie inox de cuverie",
+    "Têtes de lavage et détartrage",
+    "Cuves de stockage d'effluents"
+  ],
+  "categories": [
+    "ameliorer_efficacite_hydrique",
+    "agir_rejets_qualite"
+  ],
+  "secteurs": [
+    "vins_spiritueux"
+  ],
+  "departements": [
+    "51"
+  ],
+  "mesures": [
+    {
+      "id": "ACT_VIN_003",
+      "roles": [
+        "materiel",
+        "travaux"
+      ]
+    },
+    {
+      "id": "ACT_VIN_006",
+      "roles": [
+        "materiel",
+        "travaux"
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "type": "site_internet",
+      "value": "https://www.hericdistribution.com"
+    },
+    {
+      "type": "tel",
+      "value": "03 26 32 37 67"
+    },
+    {
+      "type": "mail",
+      "value": "contact@hericdistribution.com"
+    },
+    {
+      "type": "adresse",
+      "value": "ZI de Oiry, Avenue Pierre et Marie Curie, 51530 Oiry"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Heric%20Distribution&departement=51",
+      "date": "2026-09-28",
+      "extrait": "HERIC DISTRIBUTION, siret 47922964300032, siege, ZI DE OIRY 977 AVENUE PIERRE ET MARIE CURIE 51530 OIRY, activite 46.61Z, etat_administratif A"
+    },
+    {
+      "champ": "contacts",
+      "url": "https://www.hericdistribution.com/contactez-nous",
+      "date": "2026-09-28",
+      "extrait": "par mail : contact@hericdistribution.com. HERIC Distribution, ZI de Oiry, Avenue Pierre et Marie Curie, 51530 OIRY, Tél. 03 26 32 37 67"
+    },
+    {
+      "champ": "description, expertises, mesures (ACT_VIN_003), logo_url, departements",
+      "url": "https://www.hericdistribution.com/cuves/cuves-inox",
+      "date": "2026-09-28",
+      "extrait": "HERIC Distribution, cuves inox. Etude sur mesure. Chaudronnerie. Marne. Champagne. Ambonnay [...] Etude sur mesure toutes cuves inox, CHALVIGNAC, METALINOX, INOXESS. [...] Un cahier des charges est établi pour définir précisément le descriptif technique qui correspond à vos besoins."
+    },
+    {
+      "champ": "departements, description",
+      "url": "https://www.hericdistribution.com/references/cuverie-de-stockage-et-vinification-avize",
+      "date": "2026-09-28",
+      "extrait": "Cuverie de stockage et vinification à AVIZE. Livraison et mise en place d'une cuverie paralélépipédique à flancs galbés compartimentées et mono compartiment pour stockage et vinification."
+    },
+    {
+      "champ": "expertises, mesures (ACT_VIN_003)",
+      "url": "https://www.hericdistribution.com/produits/mat%C3%A9riel-vinicole/d%C3%A9tartrage/t%C3%AAte",
+      "date": "2026-09-28",
+      "extrait": "Tête de lavage GEA. Tête de lavage rotative : pour un lavage 360°. [...] Nos têtes sont dimensionnées spécifiquement en fonction du dimensionnel de la cuve"
+    },
+    {
+      "champ": "mesures (ACT_VIN_003)",
+      "url": "https://www.hericdistribution.com/produits/mat%C3%A9riel-vinicole/materiel-de-nettoyage-diversey",
+      "date": "2026-09-28",
+      "extrait": "Centrale de Nettoyage moyenne pression VOYAGER : autonome pompe intégrée [...] Économie d'eau occasionnée par le gain de temps"
+    },
+    {
+      "champ": "expertises, description, mesures (ACT_VIN_003)",
+      "url": "https://www.hericdistribution.com/produits/pr%C3%A9station-inox/tuyauterie/tuyauterie-inox",
+      "date": "2026-09-28",
+      "extrait": "Nos tuyauteries réalisées par notre équipe de tuyauteurs, sont toutes soudées tig sous gaz inerte [...] Applications : induction d'eau, pluvial, vinaire, transfert ou quai de dépotage"
+    },
+    {
+      "champ": "mesures (ACT_VIN_003)",
+      "url": "https://www.hericdistribution.com/prestation-inox/modification-de-cuves",
+      "date": "2026-09-28",
+      "extrait": "Nous assurons la fourntiture et pose de tous les équipements sur cuves inox : boitard, piquage de vidande totale"
+    },
+    {
+      "champ": "description",
+      "url": "https://www.hericdistribution.com/produits/pr%C3%A9station-inox/fabrication-de-cuves",
+      "date": "2026-09-28",
+      "extrait": "Fabrication en atelier de cuves petits volume, faible série ou unitaire. Dimensionnement sur mesure. belon, bac de soutirage, de decuvage ou de vidange, cuve à liqueur, cuve tampon"
+    },
+    {
+      "champ": "expertises, mesures (ACT_VIN_006)",
+      "url": "https://www.hericdistribution.com/cuves/cuves-effluents",
+      "date": "2026-09-28",
+      "extrait": "Construites en fibre de verre ou PEHD qualité alimentaire [...] pour les unités vinicoles ayant l'obligation de stocker leurs rejets pour traitement. Nous assurons la définition technique des produits, le transport et la mise en place."
+    }
+  ],
+  "date_maj": "2026-09-28"
+}

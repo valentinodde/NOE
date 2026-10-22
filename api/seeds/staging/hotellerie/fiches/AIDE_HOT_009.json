@@ -1,0 +1,104 @@
+{
+  "id": "AIDE_HOT_009",
+  "nom": "Prise en charge des formations des salariés, branche Hôtels, cafés, restaurants (AKTO)",
+  "financeur": "AKTO (opérateur de compétences)",
+  "logo_url": null,
+  "type": "accompagnement",
+  "taux": "Coûts pédagogiques entièrement pris en charge sur Espace Formation ; hors catalogue, forfaits horaires ou journaliers plafonnés",
+  "plafond": "Hors Espace Formation : 2 000 € par an (moins de 11 salariés), 3 000 € (11 à 25 salariés), 6 000 € (26 à 49 salariés) de coûts pédagogiques. À partir de 50 salariés : 80 % de la contribution conventionnelle de l'entreprise",
+  "description": "AKTO finance la formation des salariés des hôtels, cafés et restaurants selon les règles fixées par la branche. Sur Espace Formation, la plateforme des formations collectives sélectionnées par la branche, les coûts pédagogiques sont entièrement pris en charge. Ce catalogue comprend une thématique « Responsabilité environnementale » avec des formations courtes « La Responsabilité Environnementale dans le secteur HCR » qui visent l'adoption des éco-gestes, dont la réduction de la consommation d'eau, poste par poste (chambres, buanderie, nettoyage, cuisine, bar).",
+  "eligibilite": "Entreprises de la branche Hôtels, cafés, restaurants, de toutes tailles, micro-entreprises comprises. Les formations doivent répondre aux enjeux et priorités de la branche et être réalisées par un organisme déclaré et certifié Qualiopi.",
+  "categories": ["sensibiliser_former"],
+  "secteurs": ["hotellerie"],
+  "departements": [],
+  "agences": [],
+  "mesures": [],
+  "infos_complementaires": [
+    {
+      "type": "avertissement",
+      "texte": "Une formation hors catalogue n'est prise en charge que si sa thématique ne figure pas sur Espace Formation. La responsabilité environnementale y figurant, vérifiez d'abord le catalogue avant de commander une formation aux éco-gestes à un autre organisme."
+    },
+    {
+      "type": "avertissement",
+      "texte": "Le financement est accordé sous réserve des fonds disponibles et de la réalisation des actions. La rémunération des salariés formés n'est pas prise en charge, sauf en activité partielle (forfait de 14 € par heure)."
+    },
+    {
+      "type": "info",
+      "texte": "En septembre 2026, Espace Formation proposait pour la branche plusieurs sessions de 4 heures intitulées « La Responsabilité Environnementale dans le secteur HCR », ouvertes à tous les salariés (étage, maintenance, blanchisserie, cuisine, salle). Leurs objectifs : adopter les éco-gestes pour réduire la consommation d'eau et d'électricité, identifier les postes gros consommateurs d'eau et d'énergie et installer des routines au poste. Aucune ne traite spécifiquement de la détection des fuites ni du changement du linge à la demande."
+    },
+    {
+      "type": "info",
+      "texte": "Pour les entreprises de 50 salariés et plus, les formations suivies sur Espace Formation bénéficient de tarifs négociés mais sont déduites du budget annuel, égal à 80 % de la contribution conventionnelle de 0,2 % de la masse salariale."
+    },
+    {
+      "type": "ressource",
+      "texte": "Règles de prise en charge 2026 de la branche Hôtels, cafés, restaurants",
+      "lien": "https://www.akto.fr/regles-de-prise-en-charge-hotels-cafes-restaurants/",
+      "lien_label": "Voir les règles"
+    },
+    {
+      "type": "ressource",
+      "texte": "Catalogue Espace Formation (choisir le secteur Hôtels, cafés, restaurants)",
+      "lien": "https://espaceformation.akto.fr/",
+      "lien_label": "Rechercher une formation"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "taux, description",
+      "url": "https://www.akto.fr/regles-de-prise-en-charge-hotels-cafes-restaurants/",
+      "date": "2026-09-24",
+      "extrait": "Sur Espace Formation, AKTO prend en charge la totalité des coûts de formation. Espace Formation est la plateforme rassemblant l'offre de formations collectives sélectionnées par la branche Hôtels, Cafés, Restaurants. [...] Les coûts pédagogiques sont entièrement pris en charge"
+    },
+    {
+      "champ": "plafond, taux",
+      "url": "https://www.akto.fr/regles-de-prise-en-charge-hotels-cafes-restaurants/",
+      "date": "2026-09-24",
+      "extrait": "Entreprises de moins de 11 salariés : Budget annuel (coûts pédagogiques) : plafond annuel de 2 000 € [...] Entreprises de 11 à 25 salariés : [...] plafond annuel de 3 000 € [...] Entreprises de 26 à 49 salariés : [...] plafond annuel de 6 000 € [...] 1000€/jour au réel plafonné [...] Présentiel : 25€/heure au réel plafonné"
+    },
+    {
+      "champ": "plafond, infos_complementaires",
+      "url": "https://www.akto.fr/regles-de-prise-en-charge-hotels-cafes-restaurants/",
+      "date": "2026-09-24",
+      "extrait": "Budget annuel (coûts pédagogiques + frais annexes) : plafond annuel correspondant à 80% du montant de votre contribution conventionnelle [...] Collecte (0,2%) en 2026 [...] Vous bénéficiez des tarifs négociés dans le marché des Actions Collectives. Ces actions de formation seront déduites de votre budget annuel."
+    },
+    {
+      "champ": "eligibilite, infos_complementaires",
+      "url": "https://www.akto.fr/regles-de-prise-en-charge-hotels-cafes-restaurants/",
+      "date": "2026-09-24",
+      "extrait": "AKTO assure le financement des actions de formation réalisées selon les modalités figurant sur l'accord de prise en charge, sous réserve des fonds disponibles et de réalisation des actions. Les financements sont orientés vers les formations répondant aux enjeux et priorités de la branche Hôtels, Cafés, Restaurants ou liées à ses métiers. Pour être financées, les actions de formation (hors formation interne) doivent impérativement être réalisées par un organisme de formation détenteur d'un numéro de déclaration d'activité valide et disposant de la certification QUALIOPI"
+    },
+    {
+      "champ": "infos_complementaires",
+      "url": "https://www.akto.fr/regles-de-prise-en-charge-hotels-cafes-restaurants/",
+      "date": "2026-09-24",
+      "extrait": "La rémunération n'est pas prise en charge. [...] Cas particulier en cas d'activité partielle : [...] La rémunération est prise en charge dans la limite d'un forfait de 14 € par heure par salarié formé. [...] Seules les formations dont les thématiques ne figurent pas sur Espace Formation peuvent être prises en charge au titre du plan de développement des compétences."
+    },
+    {
+      "champ": "description, eligibilite",
+      "url": "https://www.akto.fr/besoin-competences-catalogue-espace-formation/",
+      "date": "2026-09-24",
+      "extrait": "Formations propres à la branche Hôtels, Cafés, Restaurants : sécurité alimentaire, cuisine, techniques professionnelles, traiteur- snacking, relation client, permis de former, management, responsabilité environnementale, santé-sécurité."
+    },
+    {
+      "champ": "eligibilite",
+      "url": "https://mission-transition-ecologique.beta.gouv.fr/aides-entreprise/formations-akto",
+      "date": "2026-09-24",
+      "extrait": "Coût restant à charge Gratuit pour les entreprises de moins de 50 salariés [...] Taille de l'entreprise Toutes tailles Éligible aux micro-entreprises [...] Entreprises des secteurs [...] des hôtels, des cafétérias, des restaurants"
+    },
+    {
+      "champ": "description, infos_complementaires",
+      "url": "https://espaceformation.akto.fr/rest/trainings/203315",
+      "date": "2026-09-24",
+      "extrait": "LA RESPONSABILITÉ ENVIRONNEMENTALE DANS LE SECTEUR HCR [durée 4 h, thématique Responsabilité environnementale, Action co HCR 2025_020] Adopter les éco gestes (réduire la consommation d'eau, d'électricité, lutter contre le gaspillage..). [...] Identifier les postes énergivores et hydrovore en HCR (froid, cuisson, buanderie, nettoyage, chambres, bar) [...] Public : Tous salariés HCR (cuisine/production, salle/PDJ/room-service, bar, hébergement/housekeeping, maintenance/blanchisserie, back-office)."
+    },
+    {
+      "champ": "infos_complementaires",
+      "url": "https://espaceformation.akto.fr/rest/trainings/203273",
+      "date": "2026-09-24",
+      "extrait": "La Responsabilité Environnementale dans le secteur HCR [durée 4 h] Adopter les éco-gestes (réduire la consommation d'eau, d'électricité, lutter contre le gaspillage..) [...] Présentation des éco-gestes adaptés à chaque poste (cuisine, salle, chambre, réception)."
+    }
+  ],
+  "date_maj": "2026-09-24"
+}

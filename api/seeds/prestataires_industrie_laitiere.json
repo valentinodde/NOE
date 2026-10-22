@@ -1,0 +1,1124 @@
+[
+  {
+    "id": "PREST_LAI_001",
+    "nom": "Actalia",
+    "type": "organisme_technique",
+    "logo_url": null,
+    "siret": "32534654200153",
+    "description": "Actalia est un centre technique labellisé Institut Technique Agro-Industriel par le ministère de l'Alimentation, de l'Agriculture et de la Pêche, organisé en pôles d'expertise dont un pôle Produits laitiers de 22 collaborateurs réparti sur quatre sites. Pour les transformateurs laitiers, industriels comme artisanaux ou fermiers, il réalise des prestations sur mesure de technologie et d'environnement (ingénierie de procédés, traitement et valorisation du lactosérum, évaluation de l'efficacité des procédures de nettoyage et de désinfection avec audit et formation sur site, analyses de laboratoire), et il a mené pour le Cniel le projet AQUAREL sur la réutilisation des eaux issues du lait, le traitement des effluents laitiers et les bonnes pratiques de gestion de l'eau. Ces prestations sont confidentielles, personnalisées et encadrées par des conditions générales de vente, à demander aux experts du pôle concerné, tandis que les livrables du projet AQUAREL sont téléchargeables librement sur la page Téléchargements du site.",
+    "expertises": [
+      "Eaux issues du lait",
+      "Traitement des effluents laitiers",
+      "Traitement et valorisation du lactosérum",
+      "Validation des procédures de nettoyage"
+    ],
+    "categories": [
+      "sensibiliser_former",
+      "ameliorer_efficacite_hydrique",
+      "changer_process_pratiques",
+      "valoriser_reut_eaux_non_conventionnelles",
+      "agir_rejets_qualite"
+    ],
+    "secteurs": [
+      "industrie_laitiere"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_LAI_001",
+        "roles": [
+          "conseil_etude",
+          "formation"
+        ]
+      },
+      {
+        "id": "ACT_LAI_003",
+        "roles": [
+          "conseil_etude"
+        ]
+      },
+      {
+        "id": "ACT_LAI_005",
+        "roles": [
+          "conseil_etude"
+        ]
+      },
+      {
+        "id": "ACT_LAI_006",
+        "roles": [
+          "conseil_etude"
+        ]
+      },
+      {
+        "id": "ACT_LAI_007",
+        "roles": [
+          "conseil_etude"
+        ]
+      },
+      {
+        "id": "ACT_LAI_008",
+        "roles": [
+          "conseil_etude"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.actalia.eu"
+      },
+      {
+        "type": "mail",
+        "value": "information@actalia.eu"
+      },
+      {
+        "type": "tel",
+        "value": "02 33 06 71 71"
+      },
+      {
+        "type": "adresse",
+        "value": "310 rue Popielujko, 50000 Saint-Lô"
+      },
+      {
+        "type": "linkedin",
+        "value": "https://fr.linkedin.com/company/actalia-centretechnique"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "nom, type, description",
+        "url": "https://www.actalia.eu/",
+        "date": "2026-09-22",
+        "extrait": "Centre technique expertise agroalimentaire. Audit - Conseil - Etude - Analyse - Formation - Recherche - Veille. ACTALIA est labellisé Institut Technique Agro-Industriel par le ministère de l'Alimentation, de l'Agriculture et de la Pêche."
+      },
+      {
+        "champ": "siret",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=ACTALIA",
+        "date": "2026-09-22",
+        "extrait": "ACTALIA, siren 325346542, siret du siège 32534654200153, 310 RUE POPIELUJKO 50000 SAINT-LO, departement 50, nature juridique 9220, activité principale 72.11Z, 11 établissements ouverts."
+      },
+      {
+        "champ": "contacts, departements",
+        "url": "https://www.actalia.eu/contact/",
+        "date": "2026-09-22",
+        "extrait": "ACTALIA Siège social, 310 rue Popielujko, 50 000 SAINT-LÔ, Tél. : +33 (02) 33 06 71 71. La carte des localisations porte treize implantations : Saint-Lô, Villers-Bocage, Le Chaffaut-Saint-Jurson, La Roche-sur-Foron, Bourg-en-Bresse, Poligny, Mamirolle, Maisons-Alfort, Rennes (trois adresses), Surgères et Paris."
+      },
+      {
+        "champ": "contacts",
+        "url": "https://www.actalia.eu/actalia/nous-retrouver/",
+        "date": "2026-09-22",
+        "extrait": "Sur notre page Linkedin : https://fr.linkedin.com/company/actalia-centretechnique"
+      },
+      {
+        "champ": "description, expertises, mesures",
+        "url": "https://www.actalia.eu/poles-d-expertise/pole-produits-laitiers/prestations/",
+        "date": "2026-09-22",
+        "extrait": "Avec une équipe pluridisciplinaire de 22 collaborateurs répartie sur 4 sites, ACTALIA Produits laitiers développe et propose des compétences uniques en technologie laitière et fromagère. ACTALIA intègre dans ses travaux la dimension environnementale pour les ateliers et industries laitières. Que vous soyez transformateurs laitiers (groupe industriel, PME, TPE, fermiers) [...] ACTALIA Produits laitiers vous accompagne [...] Diagnostics et solutions des problèmes technologiques dans vos ateliers de fabrication (industriels, artisanaux, fermiers) ; Ingénierie de procédés ; Transfert de technologies ; [...] Traitement et valorisation du lactosérum ; Valorisation des protéines laitières. [...] Les formations « sur-mesure » intra-entreprise : à la demande du client nous proposons un programme exclusif sur-mesure, sur un ou plusieurs jours, en mobilisant un seul ou plusieurs de nos spécialistes ACTALIA."
+      },
+      {
+        "champ": "description, mesures",
+        "url": "https://www.actalia.eu/poles-d-expertise/pole-produits-laitiers/recherche/",
+        "date": "2026-09-22",
+        "extrait": "La mission principale de l'Unité ACTALIA Produits laitiers est de mettre en oeuvre des projets de recherche appliquée, et des prestations sur mesure, portant depuis le lait de traite (vache et petits ruminants) jusqu'à la transformation du lait ainsi qu'à l'affinage, jusqu'au consommateur, en incluant les problématiques de la sécurité sanitaire du lait et des produits laitiers ainsi que celles de l'environnement."
+      },
+      {
+        "champ": "expertises, mesures, categories",
+        "url": "https://www.actalia.eu/reutilisation-des-eaux-issues-du-lait-publication-des-livrables-du-projet-aquarel/",
+        "date": "2026-09-22",
+        "extrait": "Lancé en 2015 par l'interprofession laitière (CNIEL) et soutenu financièrement par les agences de l'eau Loire-Bretagne et Seine-Normandie, le projet AQUAREL avait pour principaux objectifs d'établir un état des lieux des pratiques de gestion de l'eau et des effluents dans les usines laitières et de mettre en évidence les technologies permettant de traiter et de valoriser sur site les eaux issues du lait (perméats d'osmose inverse et condensats d'évapo-concentrateurs). [...] des synthèses bibliographiques portant respectivement sur la réutilisation des eaux issues du lait, les réglementations liées à l'eau utilisée dans l'usine laitière, les bonnes pratiques de gestion de la ressource et le traitement des effluents laitiers ; une synthèse de l'enquête sectorielle menée auprès de 58 sites ; une synthèse de recommandations générales pour traiter et réutiliser les eaux issues du lait ; un recueil de fiches techniques sur les technologies de traitement des eaux issues du lait et des effluents. Tous les documents sont consultables sur notre page Téléchargements."
+      },
+      {
+        "champ": "mesures",
+        "url": "https://www.actalia.eu/wp-content/uploads/2018/10/AQUAREL_2018_Synth%C3%A8se_bonnes-pratiques-de-gestion-de-leau.pdf",
+        "date": "2026-09-22",
+        "extrait": "AQUAREL, Bonnes pratiques de gestion de l'eau en transformation laitière, Février 2018, Brice Bourbon, ACTALIA. Optimiser l'exploitation des unités NEP de façon à favoriser les récupérations et les recyclages d'eau et de détergents et donc à limiter leur consommation. [...] Munir les flexibles de poignée pistolet pour augmenter l'action mécanique du jet tout en diminuant le débit d'eau. [...] Récupérer et valoriser le lactosérum. [...] Récupérer le condensat généré par les systèmes de production de vapeur et le réutiliser."
+      },
+      {
+        "champ": "expertises, mesures",
+        "url": "https://www.actalia.eu/poles-d-expertise/pole-securite-des-aliments/offre-et-services/",
+        "date": "2026-09-22",
+        "extrait": "Hygiène des équipements : [...] Caractérisation de la nettoyabilité des équipements de conception ouverte (piètements, caniveaux, visserie...). Évaluation de l'efficacité de traitements (formulations, procédés, procédures de nettoyage & désinfection). Audit et formation sur site. Prestations confidentielles et sur mesure : offres personnalisées et adaptées à vos besoins et vos problématiques. Contactez nos experts."
+      },
+      {
+        "champ": "expertises, mesures",
+        "url": "https://www.actalia.eu/poles-d-expertise/pole-controle-et-qualite/prestations/",
+        "date": "2026-09-22",
+        "extrait": "ACTALIA Contrôle et qualité associe des laboratoires d'analyses et des compétences en management [...] Validation du plan de nettoyage."
+      },
+      {
+        "champ": "mesures",
+        "url": "https://www.actalia.eu/environnement-effluent-industrie-laitiere-actalia/",
+        "date": "2026-09-22",
+        "extrait": "L'expertise et les travaux menés par le service Environnement d'ACTALIA Produits Laitiers ont été présentés par Pierre Barrucand. Lors d'une conférence dédiée aux solutions de réduction de la pollution environnementale, il a présenté, en particulier, les travaux menés au niveau de la gestion des effluents de l'industrie laitière."
+      },
+      {
+        "champ": "description",
+        "url": "https://www.actalia.eu/cgv/",
+        "date": "2026-09-22",
+        "extrait": "Conditions générales de vente. Consultez nos Conditions générales de vente (CGV) en téléchargeant le fichier."
+      }
+    ],
+    "date_maj": "2026-09-22"
+  },
+  {
+    "id": "PREST_LAI_002",
+    "nom": "Cniel (Centre national interprofessionnel de l'économie laitière)",
+    "type": "association",
+    "logo_url": null,
+    "siret": "30081795400062",
+    "description": "Le Cniel est l'association interprofessionnelle de la filière laitière, qui regroupe les organisations de producteurs de lait de vache, les entreprises laitières privées, les coopératives et les acteurs du commerce et de la distribution. Sur l'eau, il produit des références collectives pour les sites de transformation plutôt qu'un accompagnement individuel : il a initié et cofinancé avec les agences de l'eau Loire-Bretagne et Seine-Normandie le projet AQUAREL, mené avec Actalia, qui a documenté la réutilisation des eaux issues du lait, les bonnes pratiques de gestion de l'eau et le traitement des effluents à partir d'une enquête auprès des sites laitiers, et il porte auprès des pouvoirs publics l'évolution de la réglementation sur la réutilisation de ces eaux. L'accès se fait par ses publications : livrables d'AQUAREL téléchargeables chez Actalia, portail documentaire cniel-infos.com en accès libre, documents réservés et veille sectorielle pour les professionnels identifiés.",
+    "expertises": [
+      "Références de filière sur l'eau",
+      "Réutilisation des eaux issues du lait",
+      "Veille scientifique et technologique",
+      "Portail documentaire laitier"
+    ],
+    "categories": [
+      "valoriser_reut_eaux_non_conventionnelles"
+    ],
+    "secteurs": [
+      "industrie_laitiere"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_LAI_006",
+        "roles": [
+          "conseil_etude"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.cniel.com"
+      },
+      {
+        "type": "tel",
+        "value": "01 49 70 71 11"
+      },
+      {
+        "type": "adresse",
+        "value": "Maison du lait, 42 rue de Châteaudun, 75314 Paris Cedex 9"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "nom, type, description",
+        "url": "https://www.cniel.com/",
+        "date": "2026-09-22",
+        "extrait": "Le Centre national interprofessionnel de l'économie laitière est l'association qui regroupe les organisations représentant les producteurs de lait de vache, les entreprises laitières privées, les coopératives laitières, et les acteurs du commerce, de la distribution et de la restauration collective."
+      },
+      {
+        "champ": "siret",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=CNIEL",
+        "date": "2026-09-22",
+        "extrait": "CENTRE NAT INTERPRO ECONOMIE LAITIERE (CNIEL), siret 30081795400062, siege, 42 RUE DE CHATEAUDUN 75009 PARIS, nature juridique 9220, activite principale 94.99Z"
+      },
+      {
+        "champ": "contacts",
+        "url": "https://www.cniel.com/contacter-le-cniel",
+        "date": "2026-09-22",
+        "extrait": "Maison du lait, 42 rue de Châteaudun, 75314 Paris Cedex 9. +33(1) 49 70 71 11. Ouverte de 9h à 18h du lundi au jeudi, et de 9h à 17h le vendredi"
+      },
+      {
+        "champ": "description, expertises, mesures, categories",
+        "url": "https://www.actalia.eu/wp-content/uploads/2018/10/AQUAREL_2018_R%C3%A9utilisation-des-eaux-issues-du-lait_document-g%C3%A9n%C3%A9ral.pdf",
+        "date": "2026-09-22",
+        "extrait": "Les informations contenues dans cette publication ont été obtenues dans le cadre d'un Projet de recherche initié par le CNIEL, mené conjointement avec ACTALIA, grâce au soutien financier du CNIEL et des Agences de l'Eau Seine-Normandie et Loire-Bretagne."
+      },
+      {
+        "champ": "description, mesures",
+        "url": "https://franceterredelait.fr/pierre-barrucand-il-existe-encore-un-gros-potentiel-de-valorisation-de-leau-disponible-dans-les-laiteries",
+        "date": "2026-09-22",
+        "extrait": "Le Cniel s'était engagé dans son plan de filière 2017 à accompagner la mise en oeuvre d'ici 5 ans des recommandations issues du programme AQUAREL dans les laiteries, programme portant sur les économies d'eau à la source et la possibilité de réutiliser l'eau sur les sites de transformation du lait. Site édité par le Cniel (mentions légales franceterredelait.fr)."
+      },
+      {
+        "champ": "description, expertises",
+        "url": "https://cniel-infos.com/main.htm",
+        "date": "2026-09-22",
+        "extrait": "Le portail documentaire de référence de la filière laitière française. Il regroupe l'ensemble des publications, études, indicateurs économiques et contenus techniques du Cniel. Accès libre à l'ensemble des ressources accessibles à tous, et aux professionnels identifiés un accès à des documents réservés ainsi qu'à la veille sectorielle."
+      },
+      {
+        "champ": "expertises",
+        "url": "https://www.cniel.com/le-cniel-en-actions/qualite-du-lait-et-des-produits-laitiers/sciences-et-technologies-laitieres",
+        "date": "2026-09-22",
+        "extrait": "Grâce à une veille approfondie du Cniel, les professionnels de la filière laitière reçoivent tous les mois une synthèse de l'actualité scientifique et technologique."
+      },
+      {
+        "champ": "departements",
+        "url": "https://www.cniel.com/le-cniel-en-region",
+        "date": "2026-09-22",
+        "extrait": "Véritable ancrage interprofessionel dans les territoires français, les Criel mettent en oeuvre et déploient la stratégie nationale dans les régions."
+      }
+    ],
+    "date_maj": "2026-09-22"
+  },
+  {
+    "id": "PREST_LAI_003",
+    "nom": "Réseau des ENIL - ANFOPEIL",
+    "type": "organisme_formation",
+    "logo_url": "https://anfopeil-enil.fr/wp-content/uploads/2017/05/cropped-cropped-Anfopeil-L1-SIMPLE-NEW-2.png",
+    "siret": "77841316100010",
+    "description": "L'ANFOPEIL est l'association qui porte la formation continue du réseau des ENIL : elle regroupe les écoles nationales d'industrie laitière et leurs amicales d'anciens élèves, le centre technique Actalia et la profession laitière, s'appuie sur six centres de formation (Aurillac, La Roche-sur-Foron, Mamirolle, Poligny, Saint-Lô et Surgères) et sur plus de cinquante formateurs, et est certifiée Qualiopi au titre des actions de formation. Pour un transformateur laitier, elle organise une soixantaine de formations courtes inter-entreprises réparties en dix domaines dont l'environnement, où trois stages portent sur la conduite d'une station d'épuration d'effluents laitiers et alimentaires (caractéristiques des effluents, principes du traitement biologique, indicateurs et paramètres de suivi, traitement des dysfonctionnements), ainsi que des formations intra-entreprise sur mesure dans vos locaux ou dans ses écoles, des CQP de la branche laitière et des modules en ligne. Chaque stage se pré-réserve sur le site au tarif hors taxes affiché par participant, son ouverture est soumise à un nombre minimum de stagiaires, et les chargés d'ingénierie de chaque centre construisent une réponse sur mesure, la demande passant par accueil@anfopeil-enil.fr.",
+    "expertises": [
+      "Conduite de station d'épuration",
+      "Traitement des effluents laitiers",
+      "Formations courtes inter-entreprises",
+      "Formation intra-entreprise sur mesure"
+    ],
+    "categories": [
+      "sensibiliser_former",
+      "agir_rejets_qualite"
+    ],
+    "secteurs": [
+      "industrie_laitiere"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_LAI_008",
+        "roles": [
+          "formation"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://anfopeil-enil.fr"
+      },
+      {
+        "type": "mail",
+        "value": "accueil@anfopeil-enil.fr"
+      },
+      {
+        "type": "adresse",
+        "value": "BP 10025, Place du Champ de Foire, 39801 Poligny Cedex"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "nom, type, description, logo_url",
+        "url": "https://anfopeil-enil.fr/lanfopeil/",
+        "date": "2026-09-22",
+        "extrait": "Votre partenaire de formation en transformation laitière. Depuis plus de 50 ans, l'ANFOPEIL s'est imposée comme la référence incontestée en matière de formation dans le secteur de la transformation laitière. Notre association, regroupant les Ecoles Nationales d'Industrie Laitière (ENIL), leurs amicales d'anciens élèves, ACTALIA et la profession laitière, s'engage à promouvoir, coordonner et harmoniser la formation professionnelle dans ce domaine. Notre réseau de plus de 50 formateurs spécialisés offre une couverture nationale. 2070 stagiaires formés en 2024. Le logo retenu est celui de l'en-tête du site."
+      },
+      {
+        "champ": "type, contacts, description",
+        "url": "https://anfopeil-enil.fr/wp-content/uploads/2025/08/928099-40507-Certificat-Qualiopi-renouvellement-ANFOPEIL.pdf",
+        "date": "2026-09-22",
+        "extrait": "Certificat Apave n° 928099/r3 : Apave Certification certifie que le processus mis en place par ANFOPEIL, sur le site suivant BP 10025 Place du Champ de Foire, 39801 Poligny Cédex France, n° de déclaration d'activité 27390109139, n° SIREN 778413161, pour les activités suivantes : Actions de formation, a été évalué conforme. Valable du 23/07/2024 au 22/07/2027. Certificat téléchargeable depuis la page L'ANFOPEIL."
+      },
+      {
+        "champ": "siret, contacts",
+        "url": "https://anfopeil-enil.fr/mentions-legales/",
+        "date": "2026-09-22",
+        "extrait": "Propriétaire : ANFOPEIL - 77841316100010 - BP 100025 39801 POLIGNY. Responsable publication : Jehan MOREAU, Président de l'ANFOPEIL - accueil@anfopeil-enil.fr"
+      },
+      {
+        "champ": "siret",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=ANFOPEIL&departement=39",
+        "date": "2026-09-22",
+        "extrait": "RESEAU DES ENIL - ANFOPEIL (ANFOPEIL-ENILS), siren 778413161, siret du siège 77841316100010, RUE DU CHAMP DE FOIRE 39800 POLIGNY, departement 39, nature juridique 9220, activité principale 85.59B, 1 établissement ouvert."
+      },
+      {
+        "champ": "contacts",
+        "url": "https://anfopeil-enil.fr/nous-contacter/",
+        "date": "2026-09-22",
+        "extrait": "Nous contacter : accueil@anfopeil-enil.fr. La page ne donne aucun numéro de téléphone ni adresse postale, le courriel est le seul canal proposé."
+      },
+      {
+        "champ": "departements, description, expertises",
+        "url": "https://anfopeil-enil.fr/les-actions-intra-entreprise/",
+        "date": "2026-09-22",
+        "extrait": "Formation intra-entreprise : des formations sur mesure, directement dans votre entreprise ou dans nos écoles. Formation inter-entreprise : nos formations courtes sont organisées tout au long de l'année dans les ENIL. 60 formations courtes. Des domaines variés : lait et préparation des laits, auxiliaires technologiques, fromage, produits frais, crèmes glacées, produits secs, laboratoire, hygiène et qualité, environnement, outils et installations. 6 centres de formation : Aurillac, La Roche sur Foron, Mamirolle, Poligny, Saint-Lô, Surgères."
+      },
+      {
+        "champ": "description",
+        "url": "https://anfopeil-enil.fr/centres-de-formation/",
+        "date": "2026-09-22",
+        "extrait": "Dans chacun de nos centres de formation, vous pouvez accéder à l'ensemble de notre offre : formations courtes, en intra ou CQP, en présentiel ou en ligne. Chaque site dispose de ses propres infrastructures ainsi que de chargés d'ingénierie pour construire avec vous la réponse la plus adaptée à vos besoins."
+      },
+      {
+        "champ": "description",
+        "url": "https://anfopeil-enil.fr/distanciel/",
+        "date": "2026-09-22",
+        "extrait": "Se former en ligne. Formation courte en ligne : formations en visio, animées en direct par nos formateurs experts du secteur laitier et agroalimentaire. Webalim : plateforme en ligne pour se former à son rythme, plus de 100 modules de formation."
+      },
+      {
+        "champ": "expertises, mesures ACT_LAI_008",
+        "url": "https://anfopeil-enil.fr/categorie-produit/environnement/",
+        "date": "2026-09-22",
+        "extrait": "Domaine L. Environnement, 7 stages, dont N°49 Station d'épuration dans la transformation laitière et alimentaire 1350 euros, N°50 Fonctionnement d'une station d'épuration (NIVEAU 1) : principes de base 1160 euros, N°51 Fonctionnement d'une station d'épuration (NIVEAU 2) : les dysfonctionnements 1160 euros."
+      },
+      {
+        "champ": "mesures ACT_LAI_008, expertises",
+        "url": "https://anfopeil-enil.fr/produit/n50-fonctionnement-dune-station-depuration-niveau-1-principes-de-base-2026-mamirolle/",
+        "date": "2026-09-22",
+        "extrait": "N°50/ Fonctionnement d'une station d'épuration (NIVEAU 1) : principes de base/ 2026 (Mamirolle). Description du stage, contenu général : caractéristiques des effluents alimentaires ; principes de fonctionnement des systèmes de traitement biologique ; indicateurs et paramètres de suivi ; analyse des principaux types de dysfonctionnements, visites techniques. Publics ciblés : salariés avec expérience (personnel de production, techniciens qualité / laboratoire). 1160 euros HT, tarif TTC 1 392 euros. Date : S13 - 24/03/2026 au 26/03/2026, session déjà passée au 22/09/2026."
+      },
+      {
+        "champ": "mesures ACT_LAI_008",
+        "url": "https://anfopeil-enil.fr/produit/n51-fonctionnement-dune-station-depuration-niveau-2-les-dysfonctionnements-2026-mamirolle/",
+        "date": "2026-09-22",
+        "extrait": "N°51/ Fonctionnement d'une station d'épuration (NIVEAU 2) : les dysfonctionnements/ 2026 (Mamirolle). Contenu général : rappels caractéristiques effluents, principes de pilotage de station ; clef de détermination des dysfonctionnements d'origine hydraulique ou biologique, départs de boues, bactéries filamenteuses ; prévention des dysfonctionnements. Publics ciblés : responsables techniques, techniciens R&D, responsables qualité. 1160 euros HT. Date : S41 - 07/10/2026 (8h00) au 08/10/2026 (17h00), session à venir. L'ouverture des stages est soumise à un nombre minimum de stagiaire."
+      },
+      {
+        "champ": "mesures ACT_LAI_008",
+        "url": "https://anfopeil-enil.fr/produit/n58-station-depuration-dans-la-transformation-laitiere-et-alimentaire-2026-mamirolle/",
+        "date": "2026-09-22",
+        "extrait": "N°49/ Station d'épuration dans la transformation laitière et alimentaire/ 2026 (Mamirolle). Contenu général : fonctionnement d'une station de traitement des effluents de type biologiques ; paramètre de conduite ; adaptation en fonction des effluents ; gestion des dysfonctionnements. Publics ciblés : responsables qualité, environnement, maintenance, conducteurs de station d'épuration. 1350 euros HT, tarif TTC 1 620 euros. Dates : semaine 21 à 24, 1 jour de formation par semaine ; semaine 45 à 48, 1 jour de formation par semaine, session à venir."
+      },
+      {
+        "champ": "point de verification, stage n°46 non retenu",
+        "url": "https://anfopeil-enil.fr/produit/n46-optimisation-des-nettoyage-2026/",
+        "date": "2026-09-22",
+        "extrait": "N°46/ Optimisation des nettoyages dans la transformation laitière et alimentaire/ 2026, 460 euros, 2 x 0,5 jour, sessions du 23 au 24 avril 2026 et du 26 au 27 novembre 2026. Mais la description du stage sur cette page ne porte pas sur le nettoyage : contenu général, l'analyse du Cycle de Vie et son application au secteur laitier ; réglementation ; principes et outils de calcul de score. Publics ciblés : responsables environnement, RSE, développement durable, personnel encadrant, ou avoir suivi le module 1 L'Analyse du cycle de vie. Le titre et le programme de cette page se contredisent : aucun lien de mesure n'est fondé dessus."
+      }
+    ],
+    "date_maj": "2026-09-22"
+  },
+  {
+    "id": "PREST_LAI_004",
+    "nom": "Institut de l'Élevage (Idele)",
+    "type": "organisme_technique",
+    "logo_url": null,
+    "siret": "30298415800022",
+    "description": "Institut technique des filières d'élevage d'herbivores, qualifié comme tel par le ministère chargé de l'agriculture et membre du réseau ACTA. Il anime depuis 1994 le réseau des techniciens Produits laitiers fermiers, près de 300 personnes dont une vingtaine de spécialistes de la transformation fromagère fermière, et bâtit à partir de leurs remontées des programmes d'étude qui portent notamment sur la gestion des effluents ; il est à ce titre co-auteur, avec la Chambre d'agriculture du Jura, du dossier « Effluents de fromagerie fermière » (16/01/2013) et de l'ouvrage du même nom (28/10/2004), qui comparent les voies de valorisation du lactosérum et les filières de traitement réalisables à l'échelle d'une exploitation. Sur ce sujet son apport est documentaire et gratuit, et non opérationnel : aucune source consultée ne décrit d'étude, de conseil ni d'appui technique qu'un atelier de transformation pourrait lui commander sur les effluents ou le lactosérum, l'accompagnement des producteurs étant assuré par les techniciens du réseau, qui appartiennent à d'autres structures. Son catalogue de près de 200 formations vise les responsables et techniciens des organismes de l'amont et de l'aval des filières d'élevage, un seul module étant ouvert aux industries agroalimentaires (conception hygiénique, nettoyage et désinfection) et sans session programmée à ce jour.",
+    "expertises": [
+      "Effluents de fromagerie fermière",
+      "Valorisation du lactosérum",
+      "Réseau technique Produits laitiers fermiers",
+      "Formations filières lait et élevage"
+    ],
+    "categories": [
+      "agir_rejets_qualite"
+    ],
+    "secteurs": [
+      "industrie_laitiere"
+    ],
+    "departements": [],
+    "mesures": [],
+    "infos_complementaires": [
+      {
+        "type": "ressource",
+        "texte": "Dossier « Effluents de fromagerie fermière », publié le 16/01/2013 : caractérisation des effluents, point réglementaire, valorisation du lactosérum et filières de traitement des effluents en mélange dimensionnées pour un atelier fermier (alimentation animale, épuration par le sol, procédés autonomes).",
+        "lien": "https://idele.fr/detail-dossier/dossier-effluents-de-fromagerie-fermiere",
+        "lien_label": "Dossier Effluents de fromagerie fermière (Idele)"
+      },
+      {
+        "type": "avertissement",
+        "texte": "Ces publications datent de 2013 et de 2004 et traitent de l'échelle fermière : leur point sur la réglementation en vigueur est à revérifier, et les filières décrites ne sont pas transposables à un site industriel, la source précisant elle-même que les solutions industrielles ne conviennent pas aux ateliers fermiers et inversement."
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://idele.fr"
+      },
+      {
+        "type": "site_internet",
+        "value": "https://formations.idele.fr"
+      },
+      {
+        "type": "mail",
+        "value": "idele.webmestre@idele.fr"
+      },
+      {
+        "type": "adresse",
+        "value": "Maison Nationale des Éleveurs, 149 rue de Bercy, 75595 Paris Cedex 12"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "type, description, departements",
+        "url": "https://idele.fr/qui-sommes-nous/idele-institut-de-lelevage",
+        "date": "2026-09-22",
+        "extrait": "Un Institut de recherche appliquée indépendant, reconnu et soutenu par les pouvoirs publics, membre du réseau ACTA. [...] Cette charte, qui s'intègre dans notre qualification d'Institut technique attribuée par le ministère en charge de l'Agriculture [...] Nous sommes localisés sur l'ensemble des territoires d'élevage"
+      },
+      {
+        "champ": "siret, contacts",
+        "url": "https://idele.fr/mentions-legales",
+        "date": "2026-09-22",
+        "extrait": "Institut de l'Elevage (idele) SIRET 30298415800022 [...] Siège social : Maison Nationale des Eleveurs 149 rue de Bercy 75595 PARIS CEDEX 12 [...] Email: idele.webmestre(at)idele.fr"
+      },
+      {
+        "champ": "siret",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=Institut%20de%20l%27Elevage",
+        "date": "2026-09-22",
+        "extrait": "INSTITUT DE L'ELEVAGE, siren 302984158, siret du siège 30298415800022, 149 RUE DE BERCY 75012 PARIS, 30 établissements ouverts"
+      },
+      {
+        "champ": "description, expertises, infos_complementaires",
+        "url": "https://idele.fr/detail-dossier/dossier-effluents-de-fromagerie-fermiere",
+        "date": "2026-09-22",
+        "extrait": "Dossier : Effluents de fromagerie fermière. Publié le 16/01/2013 par Jacques Capdeville (Institut de l'Elevage), Yves Lefrileux, Cécile Laithier (Institut de l'Elevage), Jean-Luc Ménard, Jean-Yves Blanchin, Aurore Charpiot (C.A. Jura (39)). La fabrication fromagère génère des effluents chargés en matière organique, composés du lactosérum et des eaux de lavage. [...] Les solutions techniques pour gérer ces produits à l'échelle industrielle ne sont pas adaptées à la taille des ateliers fermiers. C'est l'objet de ce dossier qui, au-delà de la caractérisation des effluents et d'un point sur la réglementation en vigueur, vise à inventorier et analyser les possibilités de valorisation du lactosérum et de traitement des effluents en mélange."
+      },
+      {
+        "champ": "description, infos_complementaires",
+        "url": "https://idele.fr/detail-ouvrage/les-effluents-de-fromagerie-fermiere",
+        "date": "2026-09-22",
+        "extrait": "Les effluents de fromagerie fermière. Publié le 28/10/2004. Ce document décrit, analyse et compare, d'un point de vue technique et économique, les différentes filières de traitement et gestion qui peuvent être mises en place à l'échelle d'une exploitation agricole. On aborde successivement : la valorisation en alimentation animale ; les procédés d'épuration par le sol [...] ; les procédés autonomes : procédés Le Pradel, station d'épuration SBR, filtres biologiques avec compost"
+      },
+      {
+        "champ": "description, expertises",
+        "url": "https://idele.fr/detail-article/le-reseau-technique-des-produits-laitiers-fermiers",
+        "date": "2026-09-22",
+        "extrait": "Publié le 06/06/2023. Animé depuis 1994 par l'Institut de l'Élevage, le réseau des techniciens « Produits Laitiers Fermiers » [...] Incluant près de 300 personnes [...] les centres techniques fromagers fermiers et d'une vingtaine de techniciens spécialisés en transformation fromagère fermière [...] C'est par la remontée, à travers le réseau, des besoins de terrain en matière de références que des programmes d'études et de R&D sont bâtis [...] tels que la qualité des produits laitiers fermiers, l'organisation du travail en atelier de transformation, l'économie des exploitations, la gestion des effluents"
+      },
+      {
+        "champ": "description, expertises, contacts",
+        "url": "https://formations.idele.fr",
+        "date": "2026-09-22",
+        "extrait": "L'Institut de l'Elevage - Idele vous propose près de 200 formations sur tous les thèmes de l'élevage des bovins, ovins et caprins. Destinées aux responsables et techniciens des organismes de l'amont et de l'aval des filières d'élevage"
+      },
+      {
+        "champ": "description",
+        "url": "https://formations.idele.fr/formation/244/conception-hygienique-des-equipements-et-installations-pour-les-iaa",
+        "date": "2026-09-22",
+        "extrait": "Public : Industries agro-alimentaires (responsable qualité, responsable de production, travaux neufs, responsable maintenance), fabricants de machines [...] Principes et techniques de nettoyage et désinfection appliqué aux : surfaces ouvertes/fermées, sèches/humides [...] Cette formation n'est pas programmée pour le moment. Si vous êtes responsable formation, vous pouvez faire une requête pour l'organiser en INTRA dans votre entreprise."
+      }
+    ],
+    "date_maj": "2026-09-22"
+  },
+  {
+    "id": "PREST_LAI_005",
+    "nom": "ADEME - Agence de la transition écologique",
+    "type": "agence_publique",
+    "logo_url": null,
+    "siret": "38529030900454",
+    "description": "Établissement public de l'État chargé de la transition écologique et énergétique, avec un siège à Angers et une trentaine d'établissements ouverts en région. Les recherches menées sur le catalogue de ses aides recensé par Aides-territoires, sur le portail d'État Mission Transition écologique et sur sa librairie n'ont pas permis de trouver de dispositif ADEME couvrant l'eau pour une entreprise privée : l'appel à projets Innov Eau réserve ses bénéficiaires aux collectivités et aux entreprises publiques locales, et les aides aux économies d'eau dans l'industrie sont portées par les agences de l'eau. La seule prestation ADEME touchant l'eau identifiée est le diagnostic multiflux Diag Eco-Flux, dont la source écarte un rôle opérationnel de l'agence : Bpifrance en est l'opérateur et verse la subvention de 50 pour cent, l'ADEME n'ayant coécrit que la méthodologie.",
+    "expertises": [
+      "Méthodologie Diag Eco-Flux",
+      "Publications et retours d'expérience"
+    ],
+    "categories": [
+      "suivre_comprendre_maitriser"
+    ],
+    "secteurs": [
+      "industrie_laitiere"
+    ],
+    "departements": [],
+    "mesures": [],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.ademe.fr/"
+      },
+      {
+        "type": "tel",
+        "value": "02 41 20 41 20"
+      },
+      {
+        "type": "adresse",
+        "value": "20 avenue du Grésillé, BP 90406, 49004 Angers Cedex 01"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "siret, type, departements",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=ADEME",
+        "date": "2026-09-22",
+        "extrait": "AGENCE DE L ENVIRONNEMENT ET DE LA MAITRISE DE L ENERGIE (ADEME), siren 385290309, siret 38529030900454, 20 AVENUE DU GRESILLE 49000 ANGERS, nature_juridique 4110, activite_principale 84.13Z, nombre_etablissements_ouverts 30"
+      },
+      {
+        "champ": "nom, contacts",
+        "url": "https://lannuaire.service-public.gouv.fr/gouvernement/98505403-46c6-4d6c-9766-6c58bce9a221",
+        "date": "2026-09-22",
+        "extrait": "ADEME - Agence de la transition écologique. 20, avenue du Grésillé, BP 90406, 49004 Angers Cedex 01. Téléphone : 02 41 20 41 20. Site internet : https://www.ademe.fr/"
+      },
+      {
+        "champ": "description, expertises, categories, mesures",
+        "url": "https://mission-transition-ecologique.beta.gouv.fr/aides-entreprise/diag-eco-flux",
+        "date": "2026-09-22",
+        "extrait": "Vous êtes accompagné par un expert référencé par Bpifrance, selon une méthodologie élaborée avec l'ADEME. Diagnostic des flux d'énergie, d'eau, de matières premières et de déchets. Opérateur affiché Bpifrance, subvention de 50 % versée par Bpifrance, reste à charge 3 000 € HT par site, sites de 20 à 250 salariés. L'ADEME n'est citée que pour la méthodologie, ni comme opérateur ni comme financeur."
+      },
+      {
+        "champ": "description, mesures",
+        "url": "https://aides-territoires.beta.gouv.fr/aides/c2c4-innov-eau/",
+        "date": "2026-09-22",
+        "extrait": "Innov Eau, porteur ADEME. Bénéficiaires : Commune, Intercommunalité / Pays, Département, Etablissement public dont services de l'Etat, Entreprise publique locale (Sem, Spl, SemOp). Les entreprises privées ne figurent pas parmi les bénéficiaires."
+      },
+      {
+        "champ": "description",
+        "url": "https://aides-territoires.beta.gouv.fr/partenaires/22-ademe/",
+        "date": "2026-09-22",
+        "extrait": "Page du partenaire ADEME sur Aides-territoires, 122 aides listées. Titres visibles en tête de liste : Intégrer le rafraîchissement urbain ; Réaliser des économies d'énergie sur l'éclairage public ; Accélérer la rénovation énergétique des bâtiments publics ; Accompagner les maîtrises d'ouvrage publiques ; Conseil en énergie partagée (CEP)."
+      },
+      {
+        "champ": "description",
+        "url": "https://mission-transition-ecologique.beta.gouv.fr/aides-entreprise/economies-recyclage-eau-activites-industrielles-artisanat",
+        "date": "2026-09-22",
+        "extrait": "Économiser et recycler l'eau dans l'industrie et l'artisanat : opérateur Agence de l'eau, 30 à 80 % de l'étude ou de l'investissement selon projet (mise en circuit fermé, recyclage, économies d'eau)."
+      },
+      {
+        "champ": "expertises",
+        "url": "https://librairie.ademe.fr/",
+        "date": "2026-09-22",
+        "extrait": "Rubriques de la librairie ADEME : Guides grand public, Retours d'expérience (Les acteurs témoignent de leurs expériences et partagent leur savoir-faire), Magazines, Études."
+      }
+    ],
+    "date_maj": "2026-09-22"
+  },
+  {
+    "id": "PREST_LAI_006",
+    "nom": "CCI France (réseau des chambres de commerce et d'industrie)",
+    "type": "chambre_consulaire",
+    "logo_url": null,
+    "siret": "18750002000073",
+    "description": "CCI France fédère et anime les 126 chambres de commerce et d'industrie, établissements publics nationaux, régionaux et locaux. Sur l'eau, l'intervention est portée par la chambre territoriale : un conseiller environnement réalise une visite du site et un diagnostic de la gestion de l'eau, propose un plan d'actions à court, moyen et long terme, identifie les aides financières mobilisables et accompagne le dépôt du dossier de demande auprès de l'agence de l'eau du bassin. Cette fiche ne couvre que les territoires où un programme eau a été trouvé et sourcé, et les modalités y diffèrent : visite eau et montage de dossier entièrement pris en charge en Bourgogne-Franche-Comté, pré-diagnostic gratuit dans l'Yonne avec l'agence de l'eau Seine-Normandie, accompagnement sur devis en Hauts-de-France, programme Ressourc'Eau sur appel à candidature et de 675 à 1 125 euros hors taxes en Pays de la Loire. Vous vous adressez à la chambre de votre département, l'offre eau étant délivrée localement. Le réseau porte par ailleurs ClimaDiag Expert, programme national soutenu par l'ADEME, un diagnostic de vulnérabilité aux aléas climatiques dont la sécheresse, restitué sous forme de plan d'actions hiérarchisé.",
+    "expertises": [
+      "Diagnostic eau du site",
+      "Identification des aides financières",
+      "Montage des dossiers d'aide",
+      "Diagnostic de vulnérabilité climatique"
+    ],
+    "categories": [
+      "suivre_comprendre_maitriser"
+    ],
+    "secteurs": [
+      "industrie_laitiere"
+    ],
+    "departements": [
+      "02",
+      "21",
+      "25",
+      "39",
+      "44",
+      "49",
+      "53",
+      "58",
+      "59",
+      "60",
+      "62",
+      "70",
+      "71",
+      "72",
+      "80",
+      "85",
+      "89",
+      "90"
+    ],
+    "mesures": [
+      {
+        "id": "ACT_AGR_002",
+        "roles": [
+          "conseil_etude"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.cci.fr"
+      },
+      {
+        "type": "adresse",
+        "value": "8-10 rue Pierre Brossolette, 92300 Levallois-Perret"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "nom, type, description, contacts (site internet uniquement)",
+        "url": "https://lannuaire.service-public.gouv.fr/gouvernement/f0d4fc00-c3c4-4a8c-8c31-5b01fc8fd556",
+        "date": "2026-09-22",
+        "extrait": "CCI France (Chambres de Commerce et d'Industrie). CCI France est l'établissement national fédérateur et animateur des 126 Chambres de Commerce et d'Industrie, établissements publics nationaux, régionaux et locaux. Site internet : https://www.cci.fr [note de saisie : l'adresse postale et le téléphone portés par cette fiche annuaire, 46 avenue de la Grande-Armée 75858 Paris Cedex 17 et 01 40 69 37 00, ne sont pas retenus, la base Sirene situant le siège à Levallois-Perret ; cette source ne justifie que le site internet]"
+      },
+      {
+        "champ": "siret, contacts (adresse)",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=CCI%20France",
+        "date": "2026-09-22",
+        "extrait": "CCI FRANCE, siret 18750002000073, siege, 8-10 8 RUE PIERRE BROSSOLETTE 92300 LEVALLOIS-PERRET, departement 92, nature juridique 7381, activite principale 94.11Z, etat administratif A"
+      },
+      {
+        "champ": "description, expertises, mesures, departements",
+        "url": "https://environnement.bfc.cci.fr/accompagnement_eau/",
+        "date": "2026-09-22",
+        "extrait": "Un conseiller expert réalise une visite pour identifier les usages de l'eau dans votre activité et détecter des pistes d'amélioration. La CCI identifie pour vous les aides financières disponibles pour vos projets de gestion durable de l'eau. La CCI vous accompagne également dans le dépôt de dossier de demande d'aide auprès de l'agence de l'eau. La Visite eau et le montage de dossier d'aides sont totalement pris en charge par les agences de l'eau et les CCI de Bourgogne Franche-Comté. Formulaire de contact, champ Département : 21 - Côte-d'Or, 25 - Doubs, 39 - Jura, 58 - Nièvre, 70 - Haute-Saône, 71 - Saône-et-Loire, 89 - Yonne, 90 - Territoire de Belfort"
+      },
+      {
+        "champ": "description, expertises, mesures, departements",
+        "url": "https://hautsdefrance.cci.fr/solutions/accompagnement-gestion-eau/",
+        "date": "2026-09-22",
+        "extrait": "Visite de l'entreprise et diagnostic de la gestion de l'eau. Identification des aides et financements existants. Toute entreprise régionale, plus particulièrement celles des secteurs industrie et services à l'industrie. Sur devis. Contacts : Raphaël Zaïtzev (Hauts-de-France), Badr Chamseddine El Idrissi (Aisne), Denis Weiss (Grand Hainaut), Oriane Guidot (Grand Lille)"
+      },
+      {
+        "champ": "description, mesures, departements",
+        "url": "https://www.cci89.fr/developper-son-entreprise/developpement-durable/eau/",
+        "date": "2026-09-22",
+        "extrait": "Votre conseiller environnement effectue un pré-diagnostic gratuit (la visite eau), sur site. En partenariat avec l'agence de l'eau de Seine-Normandie (AESN), la CCI de l'Yonne vous accompagne afin de mener à bien vos projets ou vous mettre en conformité réglementaire."
+      },
+      {
+        "champ": "description, mesures, departements",
+        "url": "https://www.paysdelaloire.cci.fr/nantes-saint-nazaire/entreprise/transition-ecologique/programme-ressourceau",
+        "date": "2026-09-22",
+        "extrait": "Une analyse détaillée de votre gestion de l'eau. Un plan d'action priorisé et personnalisé à court, moyen et long terme. Un appui à la mise en place des actions identifiées. Un échange après 6 mois/1 an pour suivre les actions engagées. Destiné à toutes les entreprises des Pays de la Loire pour qui l'eau constitue un enjeu de fonctionnement. Programme cofinancé par la CCI des Pays de la Loire et l'Agence de l'Eau Loire-Bretagne, avec le soutien du FEDER. 675 à 1125 euros HT."
+      },
+      {
+        "champ": "description, expertises",
+        "url": "https://www.cote-azur.cci.fr/solutions/climadiag-expert/",
+        "date": "2026-09-22",
+        "extrait": "ClimaDiag Expert s'inscrit dans le programme national porté par le réseau des CCI avec le soutien de l'ADEME. Canicules, inondations, sécheresses, épisodes méditerranéens intenses. Un plan d'actions opérationnel et hiérarchisé. Suivi à 6 mois."
+      }
+    ],
+    "date_maj": "2026-09-22"
+  },
+  {
+    "id": "PREST_LAI_007",
+    "nom": "Cemafroid",
+    "type": "organisme_technique",
+    "logo_url": null,
+    "siret": "43251189700048",
+    "description": "Société d'expertise indépendante de la chaîne du froid, implantée à Fresnes, dont les missions affichées sont de « tester, vérifier, évaluer, qualifier et certifier les équipements et les solutions, former les femmes et les hommes et garantir la conformité », et qui, « depuis 2009, dans le cadre d'une délégation de service public, délivre, pour le compte du Ministère en charge de l'agriculture, les attestations de conformité technique des engins de transport sous température dirigée ». Son offre ne se limite pas au contrôle réglementaire : la rubrique Expertise liste l'audit froid, l'audit CVC, l'audit énergétique, les études énergétiques, la modélisation, l'assistance à maîtrise d'ouvrage et le contrôle des installations ICPE pour les métiers du froid et du conditionnement d'air ; la société Cemafroid Formation, qui déclare la même adresse à Fresnes, propose le module FE6 « Réglementation ICPE appliquée aux installations de froid ». En revanche, aucune des pages consultées, expertise, essais et étalonnages, inspection, délégation de service public et catalogue de formation, ne mentionne les tours aéroréfrigérantes, les condenseurs refroidis à l'eau, la consommation d'eau de refroidissement ni les légionelles : dans le groupe, le contrôle périodique de la rubrique ICPE 2921 relève de Tecnea Inspection, personne morale distincte, seule inscrite à ce titre sur la liste des organismes agréés du ministère. Le volet eau du refroidissement n'étant pas affiché dans l'offre de Cemafroid, la mesure sur la fermeture des circuits de froid n'est pas rattachée à cette fiche. Le site ne publie ni tarif ni adresse mail générale : une demande passe par le formulaire de contact ou par le téléphone.",
+    "expertises": [
+      "Audit froid et audit énergétique",
+      "Études énergétiques et modélisation",
+      "Assistance à maîtrise d'ouvrage",
+      "Contrôle ICPE des installations de froid"
+    ],
+    "categories": [],
+    "secteurs": [
+      "industrie_laitiere"
+    ],
+    "departements": [],
+    "mesures": [],
+    "infos_complementaires": [
+      {
+        "type": "avertissement",
+        "texte": "Les prestations publiées par Cemafroid portent sur la performance thermique et énergétique des installations frigorifiques, pas sur leur consommation d'eau : ni les tours aéroréfrigérantes, ni les condenseurs à eau, ni les légionelles n'apparaissent dans ses pages d'expertise, d'essais, d'inspection ou de formation. Avant de l'engager sur un projet de passage en boucle fermée ou en condenseur sec, faites préciser par écrit si l'étude couvre bien le circuit de refroidissement et son appoint en eau."
+      },
+      {
+        "type": "info",
+        "texte": "Pour le contrôle périodique réglementaire d'une tour aéroréfrigérante existante (rubrique ICPE 2921, groupe légionelle), l'organisme agréé du groupe est Tecnea Inspection, société distincte de Cemafroid. Elle figure sur la liste des organismes agréés du ministère pour cette rubrique, aux côtés d'Apave, de Bureau Veritas Exploitation, de Capsis, de Dekra Industrial et de Socotec.",
+        "lien": "https://aida.ineris.fr/reglementation/liste-organismes-agrees-rubriques-icpe-voir-point-4",
+        "lien_label": "Liste des organismes agréés par rubrique ICPE (AIDA, Ineris)"
+      },
+      {
+        "type": "ressource",
+        "texte": "Liste des prestations d'expertise : audit froid, audit CVC, audit énergétique, études énergétiques, modélisation, assistance à maîtrise d'ouvrage, contrôle des installations ICPE pour les métiers du froid et du conditionnement d'air.",
+        "lien": "https://www.cemafroid.fr/prestations/expertise-et-innovation",
+        "lien_label": "Expertise et innovation (Cemafroid)"
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.cemafroid.fr/contact"
+      },
+      {
+        "type": "site_internet",
+        "value": "https://www.cemafroid-formation.com/formations"
+      },
+      {
+        "type": "tel",
+        "value": "+33 (0)1 49 84 84 84"
+      },
+      {
+        "type": "adresse",
+        "value": "5 avenue des Prés, CS 20029, 94266 Fresnes"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "description, expertises, infos_complementaires, mesures",
+        "url": "https://www.cemafroid.fr/prestations/expertise-et-innovation",
+        "date": "2026-09-22",
+        "extrait": "Réalisation de l'audit froid ; Réalisation de l'audit CVC ; Évaluation du respect de la chaîne du froid alimentaire ; Audit d'installations de traitement d'air dans les établissements de santé ; Mise en conformité de votre parc d'équipements frigorifiques sous pression ESP ; Contrôle des installations ICPE pour les métiers du froid et du conditionnement d'air ; Audit énergétique ; Étanchéité des installations frigorifiques et climatiques ; Assistance à Maîtrise d'Ouvrage (AMO) ; Etudes énergétiques ; Modélisation. Aucune des lignes de cette liste ne nomme les tours aéroréfrigérantes, les condenseurs à eau, la consommation d'eau ni les légionelles, et aucune ne renvoie vers une page de détail."
+      },
+      {
+        "champ": "nom, type, description",
+        "url": "https://www.cemafroid.fr/",
+        "date": "2026-09-22",
+        "extrait": "Cemafroid Groupe Tecnea, « L'expert indépendant de la chaîne du froid ». Prestations : essais et étalonnages, expertise, certification, inspection, délégation de service public, formation."
+      },
+      {
+        "champ": "type, description, departements",
+        "url": "https://www.cemafroid.fr/qui-sommes-nous",
+        "date": "2026-09-22",
+        "extrait": "Nos missions : tester, vérifier, évaluer, qualifier et certifier les équipements et les solutions, former les femmes et les hommes et garantir la conformité. Plus de 8.000 clients dans plus de 40 pays du monde."
+      },
+      {
+        "champ": "description",
+        "url": "https://www.cemafroid.fr/prestations/service-public",
+        "date": "2026-09-22",
+        "extrait": "Depuis 2009, dans le cadre d'une délégation de service public, le Cemafroid délivre, pour le compte du Ministère en charge de l'agriculture, les attestations de conformité technique des engins de transport sous température dirigée."
+      },
+      {
+        "champ": "mesures",
+        "url": "https://www.cemafroid.fr/prestations/inspection",
+        "date": "2026-09-22",
+        "extrait": "Le Cemafroid et le groupe Tecnea, à travers la filiale Tecnea Inspection, proposent des prestations d'inspection en relation avec les réglementations en vigueur : ESP (Équipements Sous Pression), Vérification des appareils de levage avec la marque Hydrotest, etc. Ni la rubrique ICPE 2921, ni les tours aéroréfrigérantes, ni les légionelles ne sont citées."
+      },
+      {
+        "champ": "mesures",
+        "url": "https://www.cemafroid.fr/prestations/essais-et-etalonnages/prestations",
+        "date": "2026-09-22",
+        "extrait": "Essais ATP et coefficient K, caractérisations d'enceintes climatiques, essais d'emballages isothermes, étalonnages de thermomètres, mesure de puissance frigorifique et de consommation, mesures aérauliques, essais de meubles frigorifiques, essais acoustiques, essais de consommation en gasoil, en électricité, en fluides frigorigènes. Aucun essai portant sur un condenseur à eau, une tour aéroréfrigérante ou une consommation d'eau."
+      },
+      {
+        "champ": "siret, adresse",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=Cemafroid",
+        "date": "2026-09-22",
+        "extrait": "CEMAFROID, siren 432511897, siret du siège 43251189700048, 5-13 5 AVENUE DES PRES 94260 FRESNES, nature juridique 5710 (SAS), activité principale de l'unité légale 71.12B (ingénierie, études techniques) et de l'établissement siège 82.99Z, 5 établissements ouverts. CEMAFROID FORMATION est une unité légale distincte, siren 529307985."
+      },
+      {
+        "champ": "contacts",
+        "url": "https://www.cemafroid.fr/contact",
+        "date": "2026-09-22",
+        "extrait": "Cemafroid - Groupe Tecnea, 5 Avenue des Prés, CS 20029, 94266 - Fresnes, France. +33 (0) 1 49 84 84 84. Formulaire de contact en ligne. Aucune adresse mail générale ni mention de devis ou de tarif."
+      },
+      {
+        "champ": "description, contacts",
+        "url": "https://www.cemafroid-formation.com/formations",
+        "date": "2026-09-22",
+        "extrait": "Modules classés en six familles (MG maîtrise générale de la chaîne du froid, CF chaîne du froid et hygiène alimentaire, PS produits de santé, ME métrologie, FE froid et environnement, CH vérification des appareils de levage). FE2 - Amélioration de l'efficacité énergétique des installations de froid et de climatisation. Aucun module sur les tours aéroréfrigérantes, les condenseurs, l'eau ou les légionelles."
+      },
+      {
+        "champ": "description, mesures",
+        "url": "https://www.cemafroid.fr/media/c21e861e-786e-11ec-abe5-0242ac130008/a20382ee-69d5-11ee-9192-0242ac14000d/fe6.pdf",
+        "date": "2026-09-22",
+        "extrait": "FE6 Règlementation ICPE appliquée aux installations de froid. Objectifs : connaître la règlementation ICPE applicable aux installations de froid ; être capable de constituer et mettre à jour le dossier ICPE de votre installation pour les rubriques concernées ; connaître le périmètre des inspections pour les installations soumises au régime de déclaration avec contrôle périodique. Le programme ne nomme aucune rubrique, ni les tours aéroréfrigérantes, ni les légionelles. Organisme de formation : CEMAFROID FORMATION SAS, 5 avenue des Prés 94266 Fresnes Cedex."
+      },
+      {
+        "champ": "mesures, infos_complementaires",
+        "url": "https://aida.ineris.fr/sites/default/files/2025-12/Liste%20OA%20version%20%202025_2.pdf",
+        "date": "2026-09-22",
+        "extrait": "MTE - DGPR - BEI, version 2025, liste des organismes agréés par rubrique ICPE. Ligne « 8 Tours aéroréfrigérantes 2921 » : organismes cochés APAVE, BUREAU VERITAS EXPLOITATION, CAPSIS, DEKRA IND., SOCOTEC, TECNEA INSPECTION. CEMAFROID ne figure pas dans la liste."
+      }
+    ],
+    "date_maj": "2026-09-22"
+  },
+  {
+    "id": "PREST_LAI_008",
+    "nom": "Plateforme Lait de l'UMR STLO (INRAE, Institut Agro Rennes-Angers)",
+    "type": "organisme_technique",
+    "logo_url": null,
+    "siret": "18007003902033",
+    "description": "La Plateforme Lait est l'installation expérimentale de 1 000 m² adossée à l'UMR 1253 STLO, unité mixte de recherche INRAE et Institut Agro Rennes-Angers implantée 65 rue de Saint-Brieuc à Rennes, qui met en oeuvre à l'échelle pilote les opérations de transformation du lait et de ses coproduits : séparation membranaire de la microfiltration à l'osmose inverse, concentration par évaporation sous vide, séchage par atomisation, traitements thermiques et séparation centrifuge. Sa mission affichée est de mettre ses compétences et ses équipements à disposition des entreprises, des centres techniques et des organismes de recherche ou d'enseignement dans le cadre de projets de recherche, de prestations de services ou de formation, avec un système d'information qui met les données des équipements instrumentés à disposition des utilisateurs en toute confidentialité. Ce n'est pas un prestataire commercial ordinaire : on s'adresse à la responsable de la plateforme pour toute demande de collaboration de recherche, de prestation ou de formation, et ce qu'elle réalise est un essai pilote dans ses locaux de Rennes, en amont d'un investissement, pas un diagnostic ni une installation sur votre site.",
+    "expertises": [
+      "Essais pilotes de procédés laitiers",
+      "Concentration par évaporation sous vide",
+      "Séparation membranaire des lactosérums",
+      "Valorisation des coproduits du lait"
+    ],
+    "categories": [
+      "changer_process_pratiques"
+    ],
+    "secteurs": [
+      "industrie_laitiere"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_LAI_005",
+        "roles": [
+          "conseil_etude"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://stlo.rennes.hub.inrae.fr/plateformes/plateforme-lait"
+      },
+      {
+        "type": "mail",
+        "value": "gaelle.tanguy@inrae.fr"
+      },
+      {
+        "type": "tel",
+        "value": "02 23 48 53 29"
+      },
+      {
+        "type": "adresse",
+        "value": "UMR 1253 INRAE Institut Agro STLO, 65 rue de Saint-Brieuc, 35042 Rennes Cedex"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "nom, type, description, expertises, departements, categories, mesure ACT_LAI_005",
+        "url": "https://stlo.rennes.hub.inrae.fr/plateformes/plateforme-lait",
+        "date": "2026-09-22",
+        "extrait": "C'est une installation unique de 1000m² dédiée au lait et à ses dérivés. Elle permet la conduite d'essais jusqu'à l'échelle pilote, étape indispensable à la validation et au transfert. Elle dispose d'un système d'information qui stocke les données produites par les équipements instrumentés et les met à disposition des utilisateurs en toute confidentialité. La plateforme est adossée à l'unité mixte de recherche Science et Technologie du Lait et de l'Oeuf INRAE / Institut Agro Rennes-Angers (UMR STLO). Missions : mettre ses compétences et ses équipements à disposition des entreprises, des centres techniques, des organismes de recherche ou d'enseignement dans le cadre de projets de recherche, de prestations de services ou de formation. Quatre procédés font l'objet d'études spécifiques au sein de la plateforme : Séparation membranaire, Technologies laitières et fromagères, Concentration par évaporation sous vide, Séchage par atomisation. Quelques exemples de projets menés sur la plateforme : Préparation de concentrés et de poudres ; Valorisation de coproduits du lait (sérums, babeurres, perméats, ...)."
+      },
+      {
+        "champ": "expertises, mesure ACT_LAI_005",
+        "url": "https://stlo.rennes.hub.inrae.fr/plateformes/plateforme-lait/separation-membranaire",
+        "date": "2026-09-22",
+        "extrait": "De la microfiltration à l'osmose inverse. Microfiltration, 0,1 µm : concentration des caséines, obtention de phosphocaséine natif (PPCN), délipidation des lactosérums. Ultrafiltration, 5 - 8 - 10 kDa : concentration totale des protéines du lait, de microfiltrat (0,1 µm) et des lactosérums (protéines sériques incluses)."
+      },
+      {
+        "champ": "expertises, mesure ACT_LAI_005",
+        "url": "https://stlo.rennes.hub.inrae.fr/plateformes/plateforme-lait/concentration-par-evaporation-sous-vide",
+        "date": "2026-09-22",
+        "extrait": "Pilote Évaporateur à flot tombant. Caractéristiques du pilote : flot tombant sans recirculation forcée ; capacité évaporatoire : 27 kg d'eau/heure ; débit : 60-80 kg/heure."
+      },
+      {
+        "champ": "contacts",
+        "url": "https://stlo.rennes.hub.inrae.fr/plateformes/plateforme-lait",
+        "date": "2026-09-22",
+        "extrait": "Nous contacter pour tout renseignement complémentaire ou toute demande de collaboration de recherche, prestation, formation. Gaëlle Tanguy, gaelle.tanguy@inrae.fr, 02 23 48 53 29."
+      },
+      {
+        "champ": "contacts",
+        "url": "https://stlo.rennes.hub.inrae.fr/contact",
+        "date": "2026-09-22",
+        "extrait": "UMR 1253 INRAE - INSTITUT AGRO, STLO Science et Technologie du Lait et de l'Oeuf, 65 rue de Saint-Brieuc, 35042 Rennes Cedex."
+      },
+      {
+        "champ": "nom, description",
+        "url": "https://stlo.rennes.hub.inrae.fr/umr-stlo/presentation",
+        "date": "2026-09-22",
+        "extrait": "L'UMR STLO a pour objectif de produire des connaissances sur les constituants du lait et de l'oeuf, puis sur leur transformation en ingrédients ou produits finis pour l'alimentation humaine. Organisation : 78 permanents dont 35 scientifiques, 4000 m² de laboratoires. Deux plateformes sont au coeur de notre dispositif : la Plateforme Lait, dédiée au lait et à ses multiples transformations ; le CIRM - Bactéries d'Intérêt Alimentaire."
+      },
+      {
+        "champ": "nom, type",
+        "url": "https://annuaire.inrae.fr/structure/1253",
+        "date": "2026-09-22",
+        "extrait": "UMR 1253 STLO | Science et Technologie du Lait et de l'Oeuf, laboratoire. Directeur : Yves Le Loir. INRAE - Rennes - Agrocampus Ouest, 65 rue de Saint-Brieuc, Bâtiment 32, 35042 Rennes Cedex."
+      },
+      {
+        "champ": "siret",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=INRAE&code_postal=35000",
+        "date": "2026-09-22",
+        "extrait": "INSTITUT NATIONAL DE RECHERCHE POUR L'AGRICULTURE L'ALIMENTATION ET L'ENVIRONNEMENT (INRAE), siren 180070039, nature juridique 7389. Établissement correspondant : siret 18007003902033, enseigne INRAE BRETAGNE-NORMANDIE RENNES, 65 RUE DE SAINT-BRIEUC 35000 RENNES, état administratif A."
+      }
+    ],
+    "date_maj": "2026-09-22"
+  },
+  {
+    "id": "PREST_LAI_009",
+    "nom": "Les agences de l'eau (six établissements publics de bassin)",
+    "type": "agence_publique",
+    "logo_url": null,
+    "siret": null,
+    "description": "Les agences de l'eau sont six établissements publics de l'État, un par grand bassin hydrographique de métropole, financés par les redevances qu'elles perçoivent auprès des usagers selon les principes de préleveur-payeur et de pollueur-payeur. Pour un site laitier, l'agence n'est pas un bureau d'études et ne réalise pas de diagnostic dans vos ateliers : elle est d'abord votre interlocuteur pour les redevances, avec la déclaration annuelle des volumes prélevés, l'obligation de comptage et de registre des index, et l'agrément du dispositif de suivi régulier de vos rejets qui sert d'assiette à la redevance pollution. Ses délégations régionales apportent ensuite un appui technique et financier aux projets d'économie d'eau et de réduction des rejets, jusqu'au contrat d'entreprise pluriannuel négocié avec les sites industriels les plus concernés. Elle accompagne et finance enfin les démarches collectives du bassin, SAGE, PTGE et contrats de territoire, dont elle publie la liste et la carte, l'animation restant portée par la structure porteuse locale. L'autorisation de déversement dans un réseau collectif, elle, est délivrée par le maire ou le président de l'EPCI, pas par l'agence, et en outre-mer ce sont les offices de l'eau départementaux qui tiennent ce rôle. On entre en relation avec l'agence de son bassin depuis le site commun aux six agences.",
+    "expertises": [
+      "Redevances prélèvement et pollution",
+      "Agrément du suivi des rejets",
+      "Appui aux SAGE et PTGE",
+      "Accompagnement des projets d'entreprise"
+    ],
+    "categories": [
+      "agir_grand_cycle"
+    ],
+    "secteurs": [
+      "industrie_laitiere"
+    ],
+    "departements": [
+      "01",
+      "02",
+      "03",
+      "04",
+      "05",
+      "06",
+      "07",
+      "08",
+      "09",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "2A",
+      "2B",
+      "21",
+      "22",
+      "23",
+      "24",
+      "25",
+      "26",
+      "27",
+      "28",
+      "29",
+      "30",
+      "31",
+      "32",
+      "33",
+      "34",
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45",
+      "46",
+      "47",
+      "48",
+      "49",
+      "50",
+      "51",
+      "52",
+      "53",
+      "54",
+      "55",
+      "56",
+      "57",
+      "58",
+      "59",
+      "60",
+      "61",
+      "62",
+      "63",
+      "64",
+      "65",
+      "66",
+      "67",
+      "68",
+      "69",
+      "70",
+      "71",
+      "72",
+      "73",
+      "74",
+      "75",
+      "76",
+      "77",
+      "78",
+      "79",
+      "80",
+      "81",
+      "82",
+      "83",
+      "84",
+      "85",
+      "86",
+      "87",
+      "88",
+      "89",
+      "90",
+      "91",
+      "92",
+      "93",
+      "94",
+      "95"
+    ],
+    "mesures": [
+      {
+        "id": "ACT_AGR_010",
+        "roles": [
+          "conseil_etude"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.lesagencesdeleau.fr"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "nom, type, description",
+        "url": "https://www.lesagencesdeleau.fr/les-agences-de-leau/priorites-et-missions",
+        "date": "2026-09-22",
+        "extrait": "Les agences de l'eau sont des établissements publics de l'État. Elles assurent une mission d'intérêt général visant à gérer et à préserver les ressources en eau et les milieux aquatiques. Un savoir-faire dans l'accompagnement de proximité des collectivités et des acteurs économiques et non économiques."
+      },
+      {
+        "champ": "nom, description",
+        "url": "https://www.lesagencesdeleau.fr/les-agences-de-leau/organisation-et-fonctionnement",
+        "date": "2026-09-22",
+        "extrait": "Il y a ainsi en France 6 agences de l'eau : Adour-Garonne, Artois-Picardie, Loire-Bretagne, Rhin-Meuse, Rhône Méditerranée Corse, Seine-Normandie. Les comités de bassin rassemblent toutes les parties prenantes (collectivités locales, industriels, agriculteurs, État, consommateurs, ONG) et fixent la stratégie de l'eau et des milieux aquatiques du bassin."
+      },
+      {
+        "champ": "contacts",
+        "url": "https://www.lesagencesdeleau.fr/les-agences-de-leau-vos-cotes",
+        "date": "2026-09-22",
+        "extrait": "Pour toute demande concernant les politiques d'intervention des agences de l'eau, nous vous invitons à prendre contact avec l'agence de l'eau de votre territoire. La page liste les six agences et renvoie vers le formulaire de contact de chacune."
+      },
+      {
+        "champ": "description, expertises",
+        "url": "https://www.lesagencesdeleau.fr/services-en-ligne",
+        "date": "2026-09-22",
+        "extrait": "Portail de télédéclaration des redevances et des primes. Dossiers de demande d'habilitation des organismes réalisant les diagnostics des installations de mesure des prélèvements d'eau et des dispositifs industriels de suivi des rejets."
+      },
+      {
+        "champ": "description, expertises",
+        "url": "https://aides-redevances.eau-loire-bretagne.fr/home/redevances/entreprises/prelevement-de-leau-pour-lindustrie.html",
+        "date": "2026-09-22",
+        "extrait": "Redevance pour prélèvement, industries : redevable à partir de 7 000 m3 prélevés par an dans la ressource. Les volumes prélevés doivent être mesurés ; le registre mentionne la localisation des installations de prélèvement, leurs caractéristiques techniques, les incidents et les volumes d'eau mesurés (relevés mensuels d'index). Déclaration en ligne jusqu'au 31 mars pour les volumes de l'année précédente."
+      },
+      {
+        "champ": "description, expertises",
+        "url": "https://aides-redevances.eau-loire-bretagne.fr/home/redevances/entreprises/pollution-de-leau-dorigine-non-domestique.html",
+        "date": "2026-09-22",
+        "extrait": "La méthode normale de calcul de la redevance repose sur le suivi régulier des rejets, qui nécessite l'agrément de l'agence de l'eau et la transmission des résultats d'analyse via le portail GIDAF. Déclaration en ligne avant le 31 mars."
+      },
+      {
+        "champ": "description, expertises",
+        "url": "https://aides-redevances.eau-loire-bretagne.fr/home/aides/acteurs-eonomiques/aides-pour-les-acteurs-economiques.html",
+        "date": "2026-09-22",
+        "extrait": "Contrat avec l'industriel : l'agence et l'industriel définissent ensemble un programme d'actions sur mesure d'une durée limite de 3 ans. Opérations collectives : les petites entreprises et les artisans peuvent être accompagnés techniquement et financièrement dans ce cadre. Contact 02 38 51 73 73."
+      },
+      {
+        "champ": "description, expertises",
+        "url": "https://www.eau-loire-bretagne.fr/sites/agence/home/bassin-loire-bretagne/nos-dossiers-enjeux-et-actions/entreprises-vos-solutions-pour-leau.html",
+        "date": "2026-09-22",
+        "extrait": "Accompagnement technique et financier apporté par les services de l'agence de l'eau pour réduire simultanément leurs consommations, leurs pollutions. Vos interlocuteurs de proximité : l'agence de l'eau vous invite à vous rapprocher de ses délégations régionales."
+      },
+      {
+        "champ": "mesures, expertises",
+        "url": "https://www.rhone-mediterranee.eaufrance.fr/sobriete-des-usages-et-partage-de-la-ressource/projet-de-territoire-pour-la-gestion-de-leau-ptge",
+        "date": "2026-09-22",
+        "extrait": "Ces démarches territoriales sont accompagnées tout au long de leur mise en place par un préfet référent et ses services, ainsi que par l'agence de l'eau et ses délégations régionales concernées. Le comité de pilotage réunit l'ensemble des acteurs de l'eau du territoire, usagers économiques compris."
+      },
+      {
+        "champ": "mesures, expertises",
+        "url": "https://www.eau-rhin-meuse.fr/les-sage-du-bassin-rhin-meuse",
+        "date": "2026-09-22",
+        "extrait": "L'agence publie la liste des 11 SAGE du bassin avec leur état d'avancement, la carte des SAGE du bassin Rhin-Meuse et les liens vers les structures porteuses. Les partenaires institutionnels (dont l'agence de l'eau) apportent leur concours technique et financier ; les maîtres d'ouvrage du territoire déclinent de manière opérationnelle les orientations du SAGE."
+      },
+      {
+        "champ": "mesures, expertises",
+        "url": "https://www.eau-seine-normandie.fr/domaines-d-action/politique-territoriale",
+        "date": "2026-09-22",
+        "extrait": "L'agence de l'eau Seine-Normandie accompagne des animations pour l'élaboration et la mise en oeuvre d'un SAGE. Les animateurs constituent des relais de terrain importants pour l'agence de l'eau."
+      },
+      {
+        "champ": "description",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006686518",
+        "date": "2026-09-22",
+        "extrait": "Article L1331-10 du code de la santé publique : tout déversement d'eaux usées autres que domestiques dans le réseau public de collecte doit être préalablement autorisé par le maire ou, lorsque la compétence en matière de collecte a été transférée, par le président de l'établissement public compétent. L'agence de l'eau n'est pas l'autorité qui délivre cette autorisation."
+      },
+      {
+        "champ": "departements, description",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033033679",
+        "date": "2026-09-22",
+        "extrait": "Article L213-13 du code de l'environnement : il est créé, dans chacun des départements d'outre-mer, un office de l'eau, établissement public local à caractère administratif, rattaché au département."
+      },
+      {
+        "champ": "departements",
+        "url": "https://www.eau-artois-picardie.fr/sites/default/files/4p-agencedeleau-france_v2.pdf",
+        "date": "2026-09-22",
+        "extrait": "Une mission commune pour l'eau, la biodiversité, le littoral, 6 agences de l'eau. Document commun listant les six agences et leurs sièges : Artois-Picardie (Douai), Rhin-Meuse (Moulins-lès-Metz), Seine-Normandie, Loire-Bretagne (Orléans), Rhône Méditerranée Corse (Lyon), Adour-Garonne (Toulouse), soit une couverture des bassins hydrographiques de la métropole."
+      },
+      {
+        "champ": "siret",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=agence%20de%20l%27eau",
+        "date": "2026-09-22",
+        "extrait": "Six personnes morales distinctes, nature juridique 7385 : Seine-Normandie siren 187500095, Loire-Bretagne 184503019, Adour-Garonne 183100064, Rhône-Méditerranée-Corse 186901559, Rhin-Meuse 185703014, Artois-Picardie 185911781. Aucune entité unique ne regroupe les six agences, donc pas de SIRET pour cette fiche."
+      }
+    ],
+    "date_maj": "2026-09-22"
+  }
+]

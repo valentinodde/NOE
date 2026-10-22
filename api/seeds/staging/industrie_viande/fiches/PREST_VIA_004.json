@@ -1,0 +1,114 @@
+{
+  "id": "PREST_VIA_004",
+  "nom": "Termet (Termet Solefi)",
+  "type": "equipementier",
+  "logo_url": null,
+  "siret": "35371092400039",
+  "description": "Filiale depuis 1990 du groupe Bobet, Termet Solefi est installé à Champagné (Sarthe) : il fabrique depuis 1930 le pistolet d'abattage Le Matador (activité déclarée 28.93Z, fabrication de machines pour l'industrie agroalimentaire) et distribue aussi des équipements pour les industriels de la viande, notamment des marques FAN, Ibex et Ollari & Conti. Pour les abattoirs, il propose des stérilisateurs d'outils à aspersion d'eau chaude à déclenchement automatique, du matériel de récupération du sang à la saignée (trocarts, pompe à sang, défibrineur) et des presses et cyclones qui collectent les matières stercoraires transportées par canon pneumatique ou convoyeur, en projet clé en main incluant étude, circuit matière, installation et mise en service. Les demandes d'information, de conception ou de devis passent par le formulaire du site, le standard ou les technico-commerciaux de secteur.",
+  "expertises": [
+    "Stérilisateurs à aspersion",
+    "Matériel de récupération du sang",
+    "Cyclones de décompression pour matières stercoraires",
+    "Presses à matières stercoraires"
+  ],
+  "categories": [
+    "ameliorer_efficacite_hydrique",
+    "agir_rejets_qualite",
+    "changer_process_pratiques"
+  ],
+  "secteurs": ["industrie_viande"],
+  "departements": [],
+  "mesures": [
+    { "id": "ACT_VIA_003", "roles": ["materiel"] },
+    { "id": "ACT_VIA_007", "roles": ["materiel"] },
+    { "id": "ACT_VIA_005", "roles": ["materiel", "travaux"] }
+  ],
+  "contacts": [
+    { "type": "site_internet", "value": "https://www.termet.fr/" },
+    { "type": "tel", "value": "02 43 54 10 30" },
+    { "type": "mail", "value": "commercial@termet.fr" },
+    { "type": "adresse", "value": "Z.A. La Forêt, 72470 Champagné" }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse, type (activité 28.93Z)",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=TERMET%20SOLEFI&departement=72",
+      "date": "2026-09-24",
+      "extrait": "TERMET SOLEFI, siren 353710924, établissement siret 35371092400039, ZA DE LA FORET 72470 CHAMPAGNE, est_siege false, activité 28.93Z, état administratif A (siège actif : 35371092400047, 38 RUE DES MATHURINS 75008 PARIS, 70.10Z)"
+    },
+    {
+      "champ": "siret, type, description (distribution et activité 28.93Z)",
+      "url": "https://www.termet.fr/mentions-legales-expert-materiel-abattage.html",
+      "date": "2026-09-24",
+      "extrait": "TERMET SOLEFI, distributeur d'équipement pour industriels de la viande. Raison sociale : TERMET SOLEFI. Forme juridique : SASU. Adresse : Z.A. La Forêt 72470 Champagné. Activité (Code NAF ou APE) : Fabrication de machines pour l'industrie agro-alimentaire (2893Z). Siret : 353 710 924 00039"
+    },
+    {
+      "champ": "description (groupe Bobet)",
+      "url": "https://www.termet.fr/groupe-bobet-equipement-industriel-viande.html",
+      "date": "2026-09-24",
+      "extrait": "TERMET est depuis 1990 filiale du groupe BOBET, spécialiste en équipements pour l'agro-alimentaire. Au sein du groupe de 250 personnes, Termet peut se concentrer sur son métier \"les équipements pour la viande\""
+    },
+    {
+      "champ": "description (marques distribuées)",
+      "url": "https://www.termet.fr/materiel-abattage-marques-industrie-viande.html",
+      "date": "2026-09-24",
+      "extrait": "TERMET distribue aujourd'hui les équipements nécessaires aux lignes d'abttages issus des plus grandes marques : Ollari & Conti, Ibex, Caps, Argus Real Cold, Gozlin, FAN, FT2A"
+    },
+    {
+      "champ": "contacts, departements, description (accès)",
+      "url": "https://www.termet.fr/contact-devis-expert-materiel-abattage.html",
+      "date": "2026-09-24",
+      "extrait": "Pour tout besoin d'informations, demande de conception ou devis, n'hésitez pas à formuler votre demande via le formulaire de contact ci-dessous. [...] TERMET SOLEFI Adresse Z.A. La Forêt 72470 Champagné France Contacts Tél. : 02 43 54 10 30 [...] Technico-commercial secteur Sud-Est [...] Technico-commercial Secteur Nord [...] Technico-commercial Secteur Sud-Ouest"
+    },
+    {
+      "champ": "type, description (fabrication du Matador), departements",
+      "url": "https://www.termet.fr/vente-materiel-abattage-industrie-viande.html",
+      "date": "2026-09-24",
+      "extrait": "Leader sur le marché français depuis 1930 avec la fabrication du pistolet d'abattage LE MATADOR®, TERMET a su au cours des dernières années diversifier son activité"
+    },
+    {
+      "champ": "contacts (mail), expertises, mesures (ACT_VIA_003)",
+      "url": "https://www.termet.fr/sterilisateur-couteau-circulaire.html",
+      "date": "2026-09-24",
+      "extrait": "Tous les stérilisateurs à aspersion sont construits en inox et disposent d'un déclenchement automatique grâce à un capteur inductif. Le cycle et la température de stérilisation sont réglables selon le rythme et le type de travail. Vous réaliserez ainsi des économies d'eau et d'énergie importantes. [...] > Stérilisation par aspersion d'eau de 65 à 90°C [...] Z.A. La Forêt 72470 Champagné 02 43 54 10 30 (lien mailto:commercial@termet.fr)"
+    },
+    {
+      "champ": "expertises, mesures (ACT_VIA_007)",
+      "url": "https://www.termet.fr/trocart-bovin.html",
+      "date": "2026-09-24",
+      "extrait": "Accueil / Nos produits / Hygiène / Récupération du sang / Trocart bovin. Ce produit est spécialement conçu pour la saignée des bovins. Il permet de récupérer le sang."
+    },
+    {
+      "champ": "expertises, mesures (ACT_VIA_007)",
+      "url": "https://www.termet.fr/pompe-a-sang.html",
+      "date": "2026-09-24",
+      "extrait": "Ce produit est destiné pour la pompage de liquide. Il existe en version Inox (tuyauterie en contact avec le sang) pour la récupération du sang alimentaire ou en version aluminium pour l'équarissage."
+    },
+    {
+      "champ": "description, mesures (ACT_VIA_007)",
+      "url": "https://www.termet.fr/vente-systeme-recuperation-sang-abattoir.html",
+      "date": "2026-09-24",
+      "extrait": "Récupération du sang sur lignes d'abattage. Défibrineur [...] Pompe à sang 1\" [...] Trocart bovin [...] Trocart porcin"
+    },
+    {
+      "champ": "expertises, mesures (ACT_VIA_005, rôles materiel et travaux)",
+      "url": "https://www.termet.fr/presse-matieres-stercoraires-pms400.html",
+      "date": "2026-09-24",
+      "extrait": "Permet la collecte des matières stercoraires transportées par canon pneumatique ou convoyeur. Utilisation d'une presse à vis pour extraire les jus et séparer les matières solides. Projet clef en main incluant : - Etude - Circuit matière - Cyclone efficace et sans éclaboussure - Installation et mise en service"
+    },
+    {
+      "champ": "expertises, mesures (ACT_VIA_005)",
+      "url": "https://www.termet.fr/cyclone-de-decompression2.html",
+      "date": "2026-09-24",
+      "extrait": "Cyclone de décompression Inox. Permet la collecte des matières stercoraires transportées par canon pneumatique ou convoyeur [...] Projet clef en main incluant : - Etude - Circuit matière - Cyclone efficace et sans éclaboussure - Installation et mise en service"
+    },
+    {
+      "champ": "description",
+      "url": "https://www.termet.fr/equipement-traitement-dechets-abattoir.html",
+      "date": "2026-09-24",
+      "extrait": "Termet, distributeur de matériel pour industriels de la viande, propose des équipements nécessaires au traitement des déchets sur chaînes d'abattage tels que : séparateur FAN ; traitement des matières stercoraires."
+    }
+  ],
+  "date_maj": "2026-09-24"
+}

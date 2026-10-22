@@ -1,0 +1,173 @@
+[
+  {
+    "id": "abattoir_novice",
+    "nom": "Abattoir de porcs, rien de formalisé",
+    "description": "Abattoir-découpe de porcs de 25 salariés, eau du réseau, environ 18 000 m³ par an. Salles lavées au jet sans raclage, stérilisateurs à couteaux à 82 °C qui débordent en continu, viscères entraînés à l'eau vers la grille, refroidissement à l'eau perdue. Le sang est collecté en partie seulement, raccordement au réseau sans convention à jour. Aucun audit, aucun suivi, restrictions jamais regardées.",
+    "answers": {
+      "via_q01": "aucun_compteur",
+      "via_q02": "18000",
+      "via_q03": "jamais",
+      "via_q04": "jet_sans_raclage",
+      "via_q05": "debordement_continu",
+      "via_q06": "entraine_a_l_eau",
+      "via_q07": "eau_perdue",
+      "via_q08": "non",
+      "via_q09": "collecte_partielle",
+      "via_q10": "raccorde_sans_convention",
+      "via_q11": "non_analyse",
+      "via_q12": "non"
+    }
+  },
+  {
+    "id": "volailles_equipe",
+    "nom": "Abattoir de volailles équipé, en réflexion sur la suite",
+    "description": "Abattoir de volailles de 120 salariés, 60 000 m³ par an. Raclage à sec partout, désinfection des couteaux par aspersion validée, évacuation des plumes et viscères à sec, sang collecté en totalité. Refroidissement par tour aéroréfrigérante, rinçages réutilisés ponctuellement pour les quais. Compteurs par atelier sans ratio, audit de plus de cinq ans, informé des restrictions sans analyse formelle.",
+    "answers": {
+      "via_q01": "par_atelier",
+      "via_q02": "60000",
+      "via_q03": "ancien",
+      "via_q04": "raclage_systematique",
+      "via_q05": "methode_alternative",
+      "via_q06": "a_sec",
+      "via_q07": "tour_aero",
+      "via_q08": "ponctuel",
+      "via_q09": "collecte_totale",
+      "via_q10": "raccorde_convention",
+      "via_q11": "informe",
+      "via_q12": "informe"
+    }
+  },
+  {
+    "id": "salaisonnerie_seche",
+    "nom": "Salaisonnerie de jambons secs, sans process humide",
+    "description": "Salaisonnerie de 12 salariés qui reçoit des jambons frais parés et les sale à sec puis les sèche en séchoirs ventilés. Pas de découpe au couteau sur stérilisateur, pas de flux de déchets, pas de saumure ni de cuisson, froid produit par des groupes à air. Environ 2 500 m³ par an, surtout pour le lavage des salles, déjà raclées à sec partout avec des lances à pistolet, sans consignes écrites. Compteur général, pas d'audit, informée des restrictions sans analyse.",
+    "answers": {
+      "via_q01": "compteur_general",
+      "via_q02": "2500",
+      "via_q03": "jamais",
+      "via_q04": "raclage_systematique",
+      "via_q05": "sans_objet",
+      "via_q06": "sans_objet",
+      "via_q07": "sans_eau",
+      "via_q08": "non",
+      "via_q09": "sans_objet",
+      "via_q10": "raccorde_convention",
+      "via_q11": "informe",
+      "via_q12": "non"
+    }
+  },
+  {
+    "id": "site_avance",
+    "nom": "Site exemplaire, charcuterie industrielle",
+    "description": "Charcuterie industrielle de 200 salariés, 80 000 m³ par an. Ratio d'eau par kilo suivi par atelier, audit récent, consignes de lavage écrites et volumes suivis, couteaux désinfectés par méthode alternative, déchets évacués à sec, circuits de froid fermés. Réutilisation déclarée des rinçages, saumures collectées, station d'épuration avec autosurveillance, plan sécheresse écrit, engagée dans le contrat de nappe.",
+    "answers": {
+      "via_q01": "ratio_kilo",
+      "via_q02": "80000",
+      "via_q03": "recent",
+      "via_q04": "consignes_suivies",
+      "via_q05": "methode_alternative",
+      "via_q06": "a_sec",
+      "via_q07": "circuit_ferme",
+      "via_q08": "organise_declare",
+      "via_q09": "collecte_totale",
+      "via_q10": "station_propre",
+      "via_q11": "plan_formalise",
+      "via_q12": "pilote"
+    }
+  },
+  {
+    "id": "ne_sait_pas",
+    "nom": "Assistante de direction qui répond pour le gérant",
+    "description": "Atelier de découpe de viande. La personne qui répond connaît la facture d'eau (environ 6 000 m³ par an) et sait que le site est raccordé au réseau avec une convention, mais ne sait rien du reste et répond « je ne sais pas » partout ailleurs.",
+    "answers": {
+      "via_q01": "__skip__",
+      "via_q02": "6000",
+      "via_q03": "__skip__",
+      "via_q04": "__skip__",
+      "via_q05": "__skip__",
+      "via_q06": "__skip__",
+      "via_q07": "__skip__",
+      "via_q08": "__skip__",
+      "via_q09": "__skip__",
+      "via_q10": "raccorde_convention",
+      "via_q11": "__skip__",
+      "via_q12": "__skip__"
+    }
+  },
+  {
+    "id": "gros_abattoir",
+    "nom": "Gros abattoir multi-espèces, intermédiaire",
+    "description": "Abattoir de bovins et de porcs de 400 salariés, 250 000 m³ par an, réseau doublé d'un forage, rubrique ICPE 3641. Raclage partiel, bacs à couteaux temporisés, déchets évacués à sec sur une partie des lignes, tour aéroréfrigérante. Station d'épuration propre, sang collecté en totalité. Compteurs par atelier, audit récent, sait ce qui s'arrêterait en sécheresse sans plan écrit, participe aux réunions de la commission locale de l'eau.",
+    "answers": {
+      "via_q01": "par_atelier",
+      "via_q02": "250000",
+      "via_q03": "recent",
+      "via_q04": "raclage_partiel",
+      "via_q05": "remplissage_temporise",
+      "via_q06": "mixte",
+      "via_q07": "tour_aero",
+      "via_q08": "ponctuel",
+      "via_q09": "collecte_totale",
+      "via_q10": "station_propre",
+      "via_q11": "evalue",
+      "via_q12": "participe"
+    }
+  },
+  {
+    "id": "saurisserie_littorale",
+    "nom": "Atelier de filetage et fumage de poisson, littoral",
+    "description": "Atelier de 30 salariés sur le littoral : décongélation, filetage, saumurage et fumage de saumon et de hareng. Environ 9 000 m³ par an, eau du réseau. Lavage partiellement raclé, pas de stérilisateur à couteaux, déchets de filetage entraînés à l'eau, froid par groupes à air, saumures usées rejetées à l'égout, raccordement sans convention à jour. Compteur général, aucun audit, pas d'analyse des restrictions.",
+    "answers": {
+      "via_q01": "compteur_general",
+      "via_q02": "9000",
+      "via_q03": "jamais",
+      "via_q04": "raclage_partiel",
+      "via_q05": "sans_objet",
+      "via_q06": "entraine_a_l_eau",
+      "via_q07": "sans_eau",
+      "via_q08": "non",
+      "via_q09": "egout",
+      "via_q10": "raccorde_sans_convention",
+      "via_q11": "non_analyse",
+      "via_q12": "non"
+    }
+  },
+  {
+    "id": "charcuterie_icpe_conforme",
+    "nom": "Charcuterie industrielle en enregistrement, conforme",
+    "description": "Fabricant de jambons cuits et de pâtés de 90 salariés, ICPE 2221 en enregistrement, 40 000 m³ par an. En conformité sur tout ce que l'arrêté impose : raclage à sec, circuits de refroidissement fermés, prétraitement et station avec autosurveillance, jus de cuisson et saumures collectés. Pièces reçues prêtes, pas de stérilisateur. Compteurs par atelier sans ratio, audit récent, sait ce qui s'arrêterait sans plan écrit, réutilisation ponctuelle.",
+    "answers": {
+      "via_q01": "par_atelier",
+      "via_q02": "40000",
+      "via_q03": "recent",
+      "via_q04": "raclage_systematique",
+      "via_q05": "sans_objet",
+      "via_q06": "sans_objet",
+      "via_q07": "circuit_ferme",
+      "via_q08": "ponctuel",
+      "via_q09": "collecte_totale",
+      "via_q10": "station_propre",
+      "via_q11": "evalue",
+      "via_q12": "participe"
+    }
+  },
+  {
+    "id": "reponses_incoherentes",
+    "nom": "Réponses contradictoires",
+    "description": "Atelier de découpe dont les réponses se contredisent : ratio par kilo suivi mais jamais d'audit ni de compteur divisionnaire évoqué, lavage au jet sans raclage mais déchets évacués à sec, réutilisation déclarée des rinçages mais jus rejetés à l'égout et rejet sans traitement.",
+    "answers": {
+      "via_q01": "ratio_kilo",
+      "via_q02": "15000",
+      "via_q03": "jamais",
+      "via_q04": "jet_sans_raclage",
+      "via_q05": "debordement_continu",
+      "via_q06": "a_sec",
+      "via_q07": "circuit_ferme",
+      "via_q08": "organise_declare",
+      "via_q09": "egout",
+      "via_q10": "aucun_traitement",
+      "via_q11": "plan_formalise",
+      "via_q12": "non"
+    }
+  }
+]

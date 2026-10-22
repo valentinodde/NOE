@@ -1,0 +1,79 @@
+{
+  "id": "PREST_HOP_013",
+  "nom": "Matachana France",
+  "type": "installateur",
+  "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792070100/Noe%20assets/logos/PREST_HOP_013.png",
+  "siret": "34172237900045",
+  "description": "Matachana France SA, établie à Créteil, est la filiale française du groupe espagnol Matachana (siège à Castelldefels, près de Barcelone), qui conçoit et fabrique des équipements de stérilisation hospitalière. Elle fournit aux services de stérilisation des laveurs-désinfecteurs et des cabines de lavage (gamme MAT LD), dont la cabine MAT LD2000 annoncée avec récupération de l'eau du dernier rinçage, et le service technique du groupe assure l'entretien des équipements en France. Au CHU de Rennes, le passage à des laveurs-désinfecteurs Matachana a fait baisser la consommation moyenne de 225 à 124,5 L d'eau par cycle, soit environ 1 550 m³ économisés par an sur les laveurs et 2 150 m³ sur les lave-cabines (poster SF2S 2024).",
+  "expertises": [
+    "Laveurs-désinfecteurs de stérilisation",
+    "Cabines de lavage",
+    "Stérilisateurs à vapeur",
+    "Maintenance des équipements"
+  ],
+  "categories": [
+    "ameliorer_efficacite_hydrique"
+  ],
+  "secteurs": ["hopitaux"],
+  "departements": [],
+  "mesures": [
+    { "id": "ACT_HOP_005", "roles": ["materiel"] }
+  ],
+  "contacts": [
+    { "type": "site_internet", "value": "https://www.matachana.com/fr/" },
+    { "type": "tel", "value": "01 41 94 17 80" },
+    { "type": "adresse", "value": "ZAC Europarc, 5 allée des Saules, 94043 Créteil" }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Matachana%20France&departement=94",
+      "date": "2026-10-15",
+      "extrait": "MATACHANA FRANCE SA, siret 34172237900045, siège, EUROPARC 5 ALLEE DES SAULES 94000 CRETEIL, activité 33.20D, etat_administratif A"
+    },
+    {
+      "champ": "contacts",
+      "url": "https://www.matachana.com/fr/service-clientele/",
+      "date": "2026-10-15",
+      "extrait": "MATACHANA FRANCE. Zac Europarc 5 Allée des Saules, 94043 Créteil, France. Tel. +33 01 41 94 17 80"
+    },
+    {
+      "champ": "description (groupe espagnol, filiale France)",
+      "url": "https://www.matachana.com/fr/matachana-group/",
+      "date": "2026-10-15",
+      "extrait": "Carrer Copèrnic, 8 08860 Castelldefels | Barcelona. La conception, fabrication, commercialisation [...] par le biais de bureaux en Espagne, Allemagne, France, Argentine et Indonésie."
+    },
+    {
+      "champ": "expertises, description",
+      "url": "https://www.matachana.com/fr/healthcare/",
+      "date": "2026-10-15",
+      "extrait": "Healthcare (CSSD) : stérilisateurs à vapeur (Miniclaves, S100, SC500, S1000, S2000), laveurs-désinfecteurs (MAT LD60/90 à LD1000), cabines de lavage et thermodésinfection (LD2000)"
+    },
+    {
+      "champ": "mesures (ACT_HOP_005), description",
+      "url": "https://www.matachana.com/fr/mat-ld2000/",
+      "date": "2026-10-15",
+      "extrait": "Réduction de la consommation d'énergie, d'eau et de produits chimiques. Jusqu'à 60% de moins. Efficacité améliorée. Récupération jusqu'à 90% de l'eau du dernier rinçage."
+    },
+    {
+      "champ": "expertises (maintenance), departements, description",
+      "url": "https://www.matachana.com/fr/support-et-services/",
+      "date": "2026-10-15",
+      "extrait": "le vaste réseau de succursales du SAV NATIONAL en Espagne, en France, en Allemagne [...] nous proposons un soutien technique direct aux clients et aux hôpitaux"
+    },
+    {
+      "champ": "mesures (ACT_HOP_005), description (référence hospitalière)",
+      "url": "https://www.sf2s-sterilisation.fr/wp-content/uploads/2024/11/PO-53.pdf",
+      "date": "2026-10-15",
+      "extrait": "Pharmacie usage intérieur CHU Rennes, secteur stérilisation. Comparaison 2021/2023 des consommations d'eau [...] sur les laveurs Matachana (nouveaux) et Steelco (anciens). Consommation moyenne : 225L eau/cycle (2021), 124,5L eau/cycle (2023). Economie d'eau : laveur-désinfecteurs 1 554 m3, laves cabines 2 146 m3."
+    },
+    {
+      "champ": "logo_url",
+      "url": "https://www.matachana.com/wp-content/uploads/2020/12/cropped-fabicon-192x192.png",
+      "date": "2026-10-15",
+      "extrait": "icône du site matachana.com (rel=icon 192 x 192, même image que l'apple-touch-icon), symbole bleu foncé"
+    }
+  ],
+  "date_maj": "2026-10-15"
+}

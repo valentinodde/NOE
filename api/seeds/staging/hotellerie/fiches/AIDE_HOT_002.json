@@ -1,0 +1,129 @@
+{
+  "id": "AIDE_HOT_002",
+  "nom": "CAP Tourisme, aide aux projets d'hébergements touristiques (Région Centre-Val de Loire)",
+  "financeur": "Région Centre-Val de Loire",
+  "logo_url": null,
+  "type": "subvention",
+  "taux": "20 % du coût éligible pour les travaux relevant d'une démarche écoresponsable",
+  "plafond": "20 000 € pour les travaux relevant d'une démarche écoresponsable ; bonification forfaitaire de 7 000 € pour l'adhésion à un écolabel dans le cadre du projet",
+  "description": "Subvention régionale aux projets de création, rénovation, modernisation ou extension d'hébergements touristiques. Parmi ses postes, le volet « démarche écoresponsable » finance les travaux préconisés par une étude ou un diagnostic environnemental, sur des thèmes qui incluent l'économie d'eau, la biodiversité et l'adaptation au changement climatique. Le même dispositif aide aussi les travaux structurels et les travaux d'amélioration énergétique.",
+  "eligibilite": "TPE et PME exerçant en Centre-Val de Loire et immatriculées au Registre national des entreprises (RNE), hors régime fiscal de la micro-entreprise, pour un hôtel ou un hôtel-restaurant classé après les travaux. Sont exclus les hôtels appartenant à une chaîne intégrée ou à un groupe propriétaire-exploitant de plus de 5 établissements.",
+  "categories": [
+    "ameliorer_efficacite_hydrique"
+  ],
+  "secteurs": ["hotellerie"],
+  "departements": ["18", "28", "36", "37", "41", "45"],
+  "agences": [],
+  "mesures": ["ACT_HOT_001"],
+  "infos_complementaires": [
+    {
+      "type": "info",
+      "texte": "La Région ne cite pas d'équipement précis : le lien avec les équipements hydro-économes repose sur le thème « économie d'eau » du volet écoresponsable. Seuls sont éligibles les travaux que le diagnostic environnemental préconise."
+    },
+    {
+      "type": "avertissement",
+      "texte": "Le diagnostic environnemental préalable est obligatoire et n'est pas financé par le dispositif. Seuls les travaux mentionnés dans son compte-rendu sont éligibles, et vous devez adresser à la Région la liste des actions que vous vous engagez à réaliser dans un délai de 5 ans."
+    },
+    {
+      "type": "avertissement",
+      "texte": "Aucun devis ne doit être signé et aucun acompte versé avant le dépôt du dossier sur le portail AIDEN : tout engagement antérieur rend la demande inéligible. Les devis doivent dater de moins de 6 mois et ne pas être signés."
+    },
+    {
+      "type": "avertissement",
+      "texte": "Les équipements non fixes (petits équipements, mobilier, etc.) et les dépenses d'entretien courant sont exclus des dépenses éligibles."
+    },
+    {
+      "type": "info",
+      "texte": "La démarche commence par un contact avec la chargée ou le chargé de mission Économie de proximité/Tourisme de la Maison de Région de votre département, puis une fiche-contact, un entretien avec la Direction du Tourisme et enfin le dépôt sur le portail AIDEN. Délai de traitement moyen indiqué par la Région : 2 à 3 mois."
+    },
+    {
+      "type": "info",
+      "texte": "Un même bénéficiaire ne peut obtenir qu'une aide de ce dispositif en trois ans, et l'aide n'est pas cumulable avec une autre aide régionale sur les mêmes dépenses. Les hôtels de plus de 30 chambres sont examinés en priorité au titre du programme FEDER."
+    },
+    {
+      "type": "ressource",
+      "texte": "Page du dispositif dans le guide des aides de la Région, avec les coordonnées des référents par département",
+      "lien": "https://www.centre-valdeloire.fr/le-guide-des-aides-de-la-region-centre-val-de-loire/aide-aux-projets-dhebergements-touristiques"
+    },
+    {
+      "type": "ressource",
+      "texte": "Présentation synthétique du dispositif CAP Tourisme 2026 (PDF)",
+      "lien": "https://www.centre-valdeloire.fr/sites/default/files/media/document/2026-06/PRESENTATION%20SYNTHETIQUE%20DISPOSITIF%20CAP%20TOURISME_HEBERGEMENT%20TOURISTIQUE%202026_v2.pdf"
+    },
+    {
+      "type": "ressource",
+      "texte": "Fiche-contact de présentation du projet 2026 (Word)",
+      "lien": "https://www.centre-valdeloire.fr/sites/default/files/media/document/2026-06/FICHE-CONTACT%20PRESENTATION%20PROJET%20D%27HEBERGEMENT%20TOURISTIQUE%202026_v2.docx"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "taux, plafond",
+      "url": "https://www.centre-valdeloire.fr/le-guide-des-aides-de-la-region-centre-val-de-loire/aide-aux-projets-dhebergements-touristiques",
+      "date": "2026-09-24",
+      "extrait": "Travaux relatifs à une démarche écoresponsable (hors travaux d'amélioration thermique et énergétique des bâtiments), préconisés par une étude ou un diagnostic environnemental (non pris en charge par le CAP « Tourisme ») : subvention, plafonnée à 20 000 €, taux de 20 % du coût éligible. Bonification forfaitaire de 7 000 € accordée pour l'adhésion à un écolabel dans le cadre du projet d'hébergement touristique."
+    },
+    {
+      "champ": "description, mesures, infos_complementaires (lien par thème)",
+      "url": "https://www.centre-valdeloire.fr/le-guide-des-aides-de-la-region-centre-val-de-loire/aide-aux-projets-dhebergements-touristiques",
+      "date": "2026-09-24",
+      "extrait": "L'aide aux travaux écoresponsables préconisés par un diagnostic environnemental (non pris en charge par le CAP « Tourisme ») : restauration durable, déchets, biodiversité, économie d'eau, adaptation au changement climatique, etc."
+    },
+    {
+      "champ": "infos_complementaires (travaux du compte-rendu, engagement à 5 ans)",
+      "url": "https://www.centre-valdeloire.fr/sites/default/files/media/document/2026-06/PRESENTATION%20SYNTHETIQUE%20DISPOSITIF%20CAP%20TOURISME_HEBERGEMENT%20TOURISTIQUE%202026_v2.pdf",
+      "date": "2026-09-24",
+      "extrait": "L’étude ou le diagnostic devra comprendre la liste des actions potentielles préconisées, ainsi que la liste des actions que le chef d’entreprise s’engage à réaliser dans un délai de 5 ans et seront à adresser à la Région. ; Sont éligibles : Les travaux/investissements mentionnés dans le compte -rendu du diagnostic/étude environnementale. (texte extrait avec pypdf, pages 3 et 5)"
+    },
+    {
+      "champ": "eligibilite (TPE/PME, activité en région, RNE, hôtellerie classée)",
+      "url": "https://www.centre-valdeloire.fr/le-guide-des-aides-de-la-region-centre-val-de-loire/aide-aux-projets-dhebergements-touristiques",
+      "date": "2026-09-24",
+      "extrait": "TPE/PME* quel que soit son statut, à l'exception des entreprises relevant du régime fiscal de la micro-entreprise ; Le bénéficiaire de l'aide régionale doit exercer son activité en Région Centre-Val de Loire et, pour les entreprises et assimilées, être immatriculé au Registre National des Entreprises (RNE). ; Hôtellerie classée* ; * Classée/Labellisée : après travaux de création/rénovation/modernisation/extension/développement"
+    },
+    {
+      "champ": "eligibilite (exclusion des chaînes et groupes)",
+      "url": "https://www.centre-valdeloire.fr/sites/default/files/media/document/2026-06/PRESENTATION%20SYNTHETIQUE%20DISPOSITIF%20CAP%20TOURISME_HEBERGEMENT%20TOURISTIQUE%202026_v2.pdf",
+      "date": "2026-09-24",
+      "extrait": "Sont exclus du dispositif CAP « Tourisme » : ▪ Les établissements -Hôtellerie, Hôtellerie-Restaurant, Hôtellerie de plein air - appartenant à une chaîne intégrée ou à un groupe propriétaire-exploitant de plus de 5 établissements (texte extrait avec pypdf, page 2)"
+    },
+    {
+      "champ": "infos_complementaires (dépôt avant engagement, devis)",
+      "url": "https://www.centre-valdeloire.fr/le-guide-des-aides-de-la-region-centre-val-de-loire/aide-aux-projets-dhebergements-touristiques",
+      "date": "2026-09-24",
+      "extrait": "L'aide régionale doit être sollicitée avant tout démarrage du projet (signature de devis, versement d'acompte aux entreprises qui réalisent les travaux, démarrage des travaux, etc.) sous peine d'inéligibilité de la demande. ; Le dépôt doit impérativement précéder tout engagement financier et/ou démarrage des travaux (devis de moins de 6 mois, non signés, etc.)"
+    },
+    {
+      "champ": "infos_complementaires (exclusions de dépenses)",
+      "url": "https://www.centre-valdeloire.fr/sites/default/files/media/document/2026-06/PRESENTATION%20SYNTHETIQUE%20DISPOSITIF%20CAP%20TOURISME_HEBERGEMENT%20TOURISTIQUE%202026_v2.pdf",
+      "date": "2026-09-24",
+      "extrait": "Sont exclus des dépenses éligibles : ▪ Les dépenses à caractère obligatoire issues d’une contrainte législative ou réglementaire ainsi que les dépenses d’entretien courant, [...] ▪ Les équipements non fixes (petits équipements, mobilier, literie, penderie, télévision, décoration…), (texte extrait avec pypdf, page 5)"
+    },
+    {
+      "champ": "infos_complementaires (démarche, délai)",
+      "url": "https://www.centre-valdeloire.fr/le-guide-des-aides-de-la-region-centre-val-de-loire/aide-aux-projets-dhebergements-touristiques",
+      "date": "2026-09-24",
+      "extrait": "Étape 1 : Prise de contact avec la Maison de Région Centre-Val de Loire (MRCVL) ; Étape 2 : Entretien avec la Direction du Tourisme (Siège Régional) ; Étape 3 : Dépôt de la demande d'aide financière sur le Portail AIDEN ; Délai de traitement moyen : environ 2 à 3 mois"
+    },
+    {
+      "champ": "infos_complementaires (cumul, FEDER)",
+      "url": "https://www.centre-valdeloire.fr/le-guide-des-aides-de-la-region-centre-val-de-loire/aide-aux-projets-dhebergements-touristiques",
+      "date": "2026-09-24",
+      "extrait": "elle n'est pas cumulable avec une autre aide régionale sur les mêmes dépenses ; Les demandes de financement des projets d'hébergements comportant plus de 30 chambres (hôtellerie) [...] seront prioritairement examinées dans le cadre du programme FEDER"
+    },
+    {
+      "champ": "infos_complementaires (une aide en trois ans)",
+      "url": "https://www.centre-valdeloire.fr/sites/default/files/media/document/2026-06/PRESENTATION%20SYNTHETIQUE%20DISPOSITIF%20CAP%20TOURISME_HEBERGEMENT%20TOURISTIQUE%202026_v2.pdf",
+      "date": "2026-09-24",
+      "extrait": "Les aides régionales ne présentent aucun caractère d’automaticité. Un même bénéficiaire ne peut se voir octroyer qu’une seule aide dans le cadre de ce dispositif dans un délai de trois ans. (texte extrait avec pypdf, page 5)"
+    },
+    {
+      "champ": "departements",
+      "url": "https://www.centre-valdeloire.fr/le-guide-des-aides-de-la-region-centre-val-de-loire/aide-aux-projets-dhebergements-touristiques",
+      "date": "2026-09-24",
+      "extrait": "Le bénéficiaire de l'aide régionale doit exercer son activité en Région Centre-Val de Loire ; il existe une MRCVL par département"
+    }
+  ],
+  "date_maj": "2026-09-24"
+}

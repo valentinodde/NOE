@@ -1,0 +1,76 @@
+{
+  "id": "PREST_FRL_009",
+  "nom": "Aquaprox I-Tech (ex Hytec Industrie)",
+  "type": "bureau_etudes",
+  "logo_url": null,
+  "siret": "34792633900040",
+  "description": "Société d'ingénierie du traitement de l'eau industrielle (NAF 71.12B), anciennement Hytec Industrie, installée à Saint-Ouen-l'Aumône (Val-d'Oise), qui étudie, conçoit, construit et exploite des installations d'eau de process, de traitement des effluents et de réutilisation des eaux usées traitées (REUT). Pour la transformation de fruits, elle a réalisé la station de traitement des effluents de l'usine de compotes et confitures Materne à Boué (méthanisation, réacteurs biologiques, aéroflottation) et indique recevoir des demandes de REUT pour les eaux de lavage, avec des unités conçues et fabriquées pour des industriels agroalimentaires français. Un projet de recyclage commence chez elle par une cartographie des flux d'eau du site, puis une étude de faisabilité avec essais pilotes, avant la construction et, si vous le souhaitez, la maintenance et l'exploitation.",
+  "expertises": [
+    "Réutilisation des eaux usées traitées",
+    "Traitement des effluents agroalimentaires",
+    "Cartographie des flux d'eau",
+    "Études de faisabilité et pilotes"
+  ],
+  "categories": [
+    "valoriser_reut_eaux_non_conventionnelles",
+    "agir_rejets_qualite",
+    "suivre_comprendre_maitriser"
+  ],
+  "secteurs": ["industrie_fruits_legumes"],
+  "departements": [],
+  "mesures": [
+    { "id": "ACT_FRL_006", "roles": ["conseil_etude", "travaux"] },
+    { "id": "ACT_FRL_008", "roles": ["conseil_etude", "travaux"] },
+    { "id": "ACT_AGR_002", "roles": ["conseil_etude"] }
+  ],
+  "contacts": [
+    { "type": "adresse", "value": "Parc d'activités des Béthunes, 28 avenue des Béthunes, 95310 Saint-Ouen-l'Aumône" },
+    { "type": "linkedin", "value": "https://fr.linkedin.com/company/aquaprox-i-tech" }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, contacts (adresse), type",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Aquaprox%20I-Tech&departement=95",
+      "date": "2026-09-25",
+      "extrait": "AQUAPROX I-TECH (HYTEC INDUSTRIE), siret 34792633900040, siège, PARC ACTIVITES BETHUNES 28 AVENUE DES BETHUNES 95310 SAINT-OUEN-L'AUMONE, activité 71.12B, état administratif A, 2 établissements ouverts"
+    },
+    {
+      "champ": "contacts (linkedin)",
+      "url": "https://fr.linkedin.com/company/aquaprox-i-tech",
+      "date": "2026-09-25",
+      "extrait": "AQUAPROX I-Tech. Spécialiste du traitement des eaux industrielles, des effluents et du Re-Use (eau recyclée). Saint-Ouen-l'Aumône, 28, Avenue des Béthunes, 95310"
+    },
+    {
+      "champ": "description, expertises, mesures (ACT_FRL_008 conseil_etude, travaux)",
+      "url": "https://www.revue-ein.com/article/agroalimentaire-diminuer-l-empreinte-eau-des-produits-et-des-procedes",
+      "date": "2026-09-25",
+      "extrait": "Materne a en effet fait appel à Hytec pour traiter les effluents d'une de ses usines spécialisées dans la production de compotes et confitures à Boué. L'installation mise en place repose sur un méthaniseur granulaire vertical à recirculation de 20.m3/h, six réacteurs biologiques aérobies à biomasse fixée immergée, un traitement physico-chimique avec aéroflottateur pour la séparation de la biomasse en excès et une unité de déshydratation des boues par centrifugation. [article du 29 septembre 2016, entreprise liée : AQUAPROX I-TECH (ex-HYTEC INDUSTRIE)]"
+    },
+    {
+      "champ": "description, expertises, mesures (ACT_FRL_006 conseil_etude, travaux ; ACT_AGR_002 conseil_etude), departements",
+      "url": "https://www.revue-ein.com/article/eaux-industrielle-maitriser-les-couts-d-exploitation",
+      "date": "2026-09-25",
+      "extrait": "Unité REUT d'eau de station d'épuration en appoint des TAR, conçue et fabriquée par Aquaprox I-Tech pour une IAA française. [...] Nous recevons des demandes dans tous secteurs agroalimentaires : transformation de fruits (eaux de lavage) [...] Nous avons traité ainsi cinq commandes d'industriels français de l'agroalimentaire désireux de faire de la REUT [...] Le recyclage est plus complexe qu'on ne le pense car il exige de faire d'abord une cartographie de ses usages de l'eau. [...] Nous avons d'ailleurs mis sur pied une cellule de deux personnes pour accompagner les industriels dans la cartographie de leurs flux [...] Nous réalisons actuellement des études de faisabilité, qui exigent en général des essais pilotes [...] Aquaprox Mobiles Services a construit quatre nouvelles unités de recyclage. L'une d'elles est déjà installée sur site en Bretagne"
+    },
+    {
+      "champ": "description, expertises, mesures (ACT_FRL_008)",
+      "url": "https://aquaprox-itech.com/expertises/traitement-effluents/",
+      "date": "2026-09-25",
+      "extrait": "Etudes préalables, Audits et faisabilité, Ingénierie. Pilotes et essais. Conception et développement de procédés. Construction et installation. Mise en service. Maintenance et exploitation. [...] Agroalimentaire : Industries carnées, Laiterie, Fromagerie, Boissons, Fruits et légumes"
+    },
+    {
+      "champ": "description, mesures (ACT_FRL_006)",
+      "url": "https://aquaprox-itech.com/expertises/production-eau-reuse-reut/",
+      "date": "2026-09-25",
+      "extrait": "Production d'eau en accord avec le Décret 2023-835 et le Décret 2024-33. [...] offre complète allant de l'étude hydraulique jusqu'à l'optimisation de l'exploitation avec un accompagnement sur mesure"
+    },
+    {
+      "champ": "description, type",
+      "url": "https://aquaprox-itech.com/",
+      "date": "2026-09-25",
+      "extrait": "Depuis 1989, AQUAPROX I-TECH est spécialisé dans l'étude, la conception et l'exploitation des installations [...]"
+    }
+  ],
+  "date_maj": "2026-09-25"
+}

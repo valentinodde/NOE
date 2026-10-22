@@ -1,0 +1,446 @@
+[
+  {
+    "id": "ACT_FRL_001",
+    "titre": "Former les équipes de campagne aux gestes économes en eau",
+    "titre_court": "Gestes économes des équipes",
+    "description": "Former au début de chaque campagne les équipes de ligne et de nettoyage, saisonniers compris : raclage à sec avant lavage, fermeture des rampes hors production, réglage des buses, lecture des compteurs. Vous agissez sur tous les postes à la fois, avec des équipes qui changent chaque saison.",
+    "categorie": "sensibiliser_former",
+    "secteurs": [
+      "industrie_fruits_legumes"
+    ],
+    "effort": {
+      "capex": "faible",
+      "opex": "faible",
+      "humain": "moyen"
+    },
+    "impact_eau": 1,
+    "facilite": 3,
+    "horizon": "immediat",
+    "image": null,
+    "infos_complementaires": [
+      {
+        "type": "info",
+        "texte": "Pour une installation classée qui prélève plus de 10 000 m3 par an, la sensibilisation du personnel aux économies d'eau est la première obligation dès le niveau de vigilance sécheresse.",
+        "lien": "https://aida.ineris.fr/reglementation/arrete-300623-relatif-mesures-restriction-periode-secheresse-portant-prelevement",
+        "lien_label": "Arrêté du 30 juin 2023"
+      },
+      {
+        "type": "info",
+        "texte": "Le nettoyage à sec et l'optimisation des buses figurent parmi les meilleures techniques disponibles reconnues pour le secteur agroalimentaire."
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "description",
+        "url": "https://aida.ineris.fr/reglementation/arrete-270220-relatif-meilleures-techniques-disponibles-mtd-applicables-a-certaines",
+        "date": "2020-02-27",
+        "extrait": "Nettoyage à sec, optimisation de la conception et du positionnement des buses parmi les techniques de réduction de la consommation d'eau."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://aida.ineris.fr/reglementation/arrete-300623-relatif-mesures-restriction-periode-secheresse-portant-prelevement",
+        "date": "2023-06-30",
+        "extrait": "Sensibilisation du personnel dès la vigilance, réduction des prélèvements de 5, 10 et 25 % selon le niveau de gravité pour les ICPE prélevant plus de 10 000 m3 par an."
+      }
+    ],
+    "date_maj": "2026-09-25"
+  },
+  {
+    "id": "ACT_FRL_002",
+    "titre": "Suivre le ratio d'eau par tonne de fruits ou légumes traités",
+    "titre_court": "Ratio eau par tonne",
+    "description": "Rapporter chaque semaine de campagne les volumes d'eau consommés aux tonnes de matière première reçues, ligne par ligne. Vous distinguez une dérive de pratique d'un simple changement de produit, et vous disposez de la preuve chiffrée de vos efforts face à l'inspection en période de sécheresse.",
+    "categorie": "suivre_comprendre_maitriser",
+    "secteurs": [
+      "industrie_fruits_legumes"
+    ],
+    "effort": {
+      "capex": "faible",
+      "opex": "faible",
+      "humain": "faible"
+    },
+    "impact_eau": 1,
+    "facilite": 3,
+    "horizon": "immediat",
+    "image": null,
+    "infos_complementaires": [
+      {
+        "type": "info",
+        "texte": "Ordre de grandeur : un site de surgélation de légumes breton consomme 500 000 m3 par an pour 80 000 tonnes produites, soit environ 6 m3 par tonne.",
+        "lien": "https://agence.eau-loire-bretagne.fr/home/espace-multimedia-1/contenu-multimedia/video/industrie-artisanat/contenu1/ardo-sa--gestion-globale-de-leau-une-strategie-pour-sadapter-au.html",
+        "lien_label": "Agence de l'eau Loire-Bretagne"
+      },
+      {
+        "type": "info",
+        "texte": "L'arrêté sécheresse applicable aux installations classées exempte de réduction les sites qui ont baissé leur prélèvement d'au moins 20 % depuis 2018 : sans historique rapporté à la production, cette baisse ne se démontre pas.",
+        "lien": "https://aida.ineris.fr/reglementation/arrete-300623-relatif-mesures-restriction-periode-secheresse-portant-prelevement",
+        "lien_label": "Arrêté du 30 juin 2023"
+      },
+      {
+        "type": "avertissement",
+        "texte": "Pour une installation enregistrée sous la rubrique 2220 qui consomme plus de 100 m3 par jour, le relevé quotidien du compteur est déjà obligatoire."
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "infos_complementaires",
+        "url": "https://agence.eau-loire-bretagne.fr/home/espace-multimedia-1/contenu-multimedia/video/industrie-artisanat/contenu1/ardo-sa--gestion-globale-de-leau-une-strategie-pour-sadapter-au.html",
+        "extrait": "ARDO Gourin : 500 000 m3 par an pour laver, peler et blanchir les légumes, 80 000 tonnes produites."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://aida.ineris.fr/reglementation/arrete-300623-relatif-mesures-restriction-periode-secheresse-portant-prelevement",
+        "date": "2023-06-30",
+        "extrait": "Article 3 : exclusion des exploitants ayant réduit leur prélèvement d'au moins 20 % depuis 2018."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://aida.ineris.fr/reglementation/arrete-141213-relatif-prescriptions-generales-applicables-installations-relevant-0",
+        "date": "2013-12-14",
+        "extrait": "Compteur totalisateur relevé journellement au-delà de 100 m3 par jour, hebdomadairement en dessous."
+      }
+    ],
+    "date_maj": "2026-09-25"
+  },
+  {
+    "id": "ACT_FRL_003",
+    "titre": "Retirer la terre à sec et réguler le débit des laveuses",
+    "titre_court": "Lavage d'entrée économe",
+    "description": "Déterrer la matière première à sec dès la réception (secouage, brossage, épierrage), puis asservir le débit des laveuses, rampes et goulottes au passage du produit et couper l'eau hors production. Vous réduisez le premier poste d'eau du site et la terre envoyée au traitement des effluents.",
+    "categorie": "ameliorer_efficacite_hydrique",
+    "secteurs": [
+      "industrie_fruits_legumes"
+    ],
+    "effort": {
+      "capex": "moyen",
+      "opex": "faible",
+      "humain": "faible"
+    },
+    "impact_eau": 3,
+    "facilite": 2,
+    "horizon": "court_terme",
+    "image": null,
+    "infos_complementaires": [
+      {
+        "type": "info",
+        "texte": "Le nettoyage à sec des matières premières avant tout lavage, la régulation des débits et l'arrêt automatique de l'eau font partie des meilleures techniques disponibles du secteur."
+      },
+      {
+        "type": "info",
+        "texte": "Au renouvellement d'une ligne, exigez une conception hygiénique : le CTCPA a mesuré plus de 67 000 litres d'eau sur une campagne pour le seul nettoyage haute pression d'une juteuse mal conçue.",
+        "lien": "https://www.ctcpa.org/2012/03/29/ligne-de-conserves-legumes-criteres-hygieniques/",
+        "lien_label": "CTCPA"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "description",
+        "url": "https://aida.ineris.fr/reglementation/arrete-270220-relatif-meilleures-techniques-disponibles-mtd-applicables-a-certaines",
+        "date": "2020-02-27",
+        "extrait": "Nettoyage à sec : éliminer autant que possible les matières résiduelles des matières premières avant leur nettoyage par liquide ; régulation du débit et vannes automatiques."
+      },
+      {
+        "champ": "description",
+        "url": "https://www.ania.net/developpement-durable/les-entreprises-agroalimentaires-sengagent-et-presentent-un-plan-de-sobriete-hydrique",
+        "extrait": "Le lavage des matières premières parmi les usages imposés par la sécurité sanitaire, premier facteur de consommation d'eau."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.ctcpa.org/2012/03/29/ligne-de-conserves-legumes-criteres-hygieniques/",
+        "date": "2012-03-29",
+        "extrait": "Plus de 67 000 litres consommés sur une campagne pour le nettoyage au jet haute pression d'une juteuse."
+      }
+    ],
+    "date_maj": "2026-09-25"
+  },
+  {
+    "id": "ACT_FRL_004",
+    "titre": "Recycler en boucle fermée l'eau de refroidissement des autoclaves",
+    "titre_court": "Refroidissement en boucle",
+    "description": "Faire circuler l'eau de refroidissement des autoclaves, pasteurisateurs et prérefroidisseurs en circuit fermé, avec échangeur ou tour et traitement de l'eau, au lieu de la rejeter après un seul passage. Vous supprimez un poste d'eau perdue, surtout sur les sites anciens ou soumis à simple déclaration.",
+    "categorie": "ameliorer_efficacite_hydrique",
+    "secteurs": [
+      "industrie_fruits_legumes"
+    ],
+    "effort": {
+      "capex": "moyen",
+      "opex": "moyen",
+      "humain": "faible"
+    },
+    "impact_eau": 2,
+    "facilite": 2,
+    "horizon": "moyen_terme",
+    "image": null,
+    "infos_complementaires": [
+      {
+        "type": "avertissement",
+        "texte": "L'eau qui refroidit des récipients hermétiques après traitement thermique ne doit pas devenir une source de contamination : une boucle fermée suppose un traitement et une surveillance de sa qualité.",
+        "lien": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32004R0852",
+        "lien_label": "Règlement (CE) n° 852/2004, annexe II"
+      },
+      {
+        "type": "info",
+        "texte": "La réfrigération en circuit ouvert est déjà interdite aux installations enregistrées sous la rubrique 2220 depuis 2014 : la mesure concerne d'abord les sites plus anciens et ceux soumis à déclaration."
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "infos_complementaires",
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32004R0852",
+        "date": "2004-04-29",
+        "extrait": "Annexe II, chapitre VII : l'eau utilisée pour refroidir les récipients hermétiquement clos après traitement thermique ne doit pas être une source de contamination."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://aida.ineris.fr/reglementation/arrete-141213-relatif-prescriptions-generales-applicables-installations-relevant-0",
+        "date": "2013-12-14",
+        "extrait": "La réfrigération en circuit ouvert est interdite."
+      }
+    ],
+    "date_maj": "2026-09-25"
+  },
+  {
+    "id": "ACT_FRL_005",
+    "titre": "Réduire l'eau des lignes d'épluchage et de blanchiment",
+    "titre_court": "Épluchage et blanchiment",
+    "description": "Passer à l'épluchage vapeur ou abrasif avec évacuation des peaux à sec, installer un décanteur sur la ligne de pelage et recycler l'eau des blancheurs. Vous réduisez fortement la consommation de ces lignes, parmi les plus gourmandes en pomme de terre et en légumes surgelés ou appertisés.",
+    "categorie": "changer_process_pratiques",
+    "secteurs": [
+      "industrie_fruits_legumes"
+    ],
+    "effort": {
+      "capex": "important",
+      "opex": "faible",
+      "humain": "moyen"
+    },
+    "impact_eau": 3,
+    "facilite": 1,
+    "horizon": "moyen_terme",
+    "image": null,
+    "infos_complementaires": [
+      {
+        "type": "retour_experience",
+        "texte": "ARDO à Gourin (légumes surgelés) : un décanteur installé sur la ligne de pelage a réduit de 50 % la consommation de cette ligne, soit 36 000 m3 économisés par an, pour 360 000 euros financés à 40 % par l'agence de l'eau.",
+        "lien": "https://agence.eau-loire-bretagne.fr/home/espace-multimedia-1/contenu-multimedia/video/industrie-artisanat/contenu1/ardo-sa--gestion-globale-de-leau-une-strategie-pour-sadapter-au.html",
+        "lien_label": "Agence de l'eau Loire-Bretagne"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "infos_complementaires",
+        "url": "https://agence.eau-loire-bretagne.fr/home/espace-multimedia-1/contenu-multimedia/video/industrie-artisanat/contenu1/ardo-sa--gestion-globale-de-leau-une-strategie-pour-sadapter-au.html",
+        "extrait": "Décanteur sur la ligne de pelage : consommation de la ligne réduite de 50 %, 36 000 m3 par an, 360 000 euros aidés à 40 %."
+      },
+      {
+        "champ": "description",
+        "url": "https://aida.ineris.fr/reglementation/arrete-270220-relatif-meilleures-techniques-disponibles-mtd-applicables-a-certaines",
+        "date": "2020-02-27",
+        "extrait": "Recyclage et réutilisation de l'eau, optimisation du débit parmi les techniques de réduction de la consommation d'eau."
+      }
+    ],
+    "date_maj": "2026-09-25"
+  },
+  {
+    "id": "ACT_FRL_006",
+    "titre": "Recycler en cascade les eaux de lavage et de rinçage",
+    "titre_court": "Recyclage en cascade",
+    "description": "Renvoyer l'eau du dernier rinçage, la plus propre, vers le lavage précédent, et réemployer après filtration les eaux de rinçage après pelage ou de blanchiment pour la découpe ou le prélavage. Vous économisez une large part de l'eau potable d'une conserverie, sous simple déclaration au préfet.",
+    "categorie": "valoriser_reut_eaux_non_conventionnelles",
+    "secteurs": [
+      "industrie_fruits_legumes"
+    ],
+    "effort": {
+      "capex": "moyen",
+      "opex": "faible",
+      "humain": "moyen"
+    },
+    "impact_eau": 3,
+    "facilite": 2,
+    "horizon": "court_terme",
+    "image": null,
+    "infos_complementaires": [
+      {
+        "type": "retour_experience",
+        "texte": "INRAE annonce jusqu'à 60 % d'économie d'eau potable en conserverie de légumes grâce à un recyclage en cascade optimisé, étudié dans une usine bretonne de légumes surgelés.",
+        "lien": "https://www.inrae.fr/dossiers/deuxieme-vie-nos-eaux-usees/leau-ca-se-recycle",
+        "lien_label": "INRAE"
+      },
+      {
+        "type": "avertissement",
+        "texte": "Les eaux de processus recyclées relèvent d'une déclaration au préfet et doivent entrer dans l'analyse des dangers du plan de maîtrise sanitaire, avec des vérifications par un laboratoire accrédité.",
+        "lien": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000049908820",
+        "lien_label": "Arrêté du 8 juillet 2024"
+      },
+      {
+        "type": "retour_experience",
+        "texte": "Pour aller plus loin, la conserverie d'aucy du Faouët renvoie 30 % de ses eaux usées traitées (ultrafiltration puis osmose inverse) au lavage des légumes : 45 000 m3 réutilisés pour près de 110 000 prévus, 11 millions d'euros investis. Ce niveau exige une autorisation préfectorale.",
+        "lien": "https://aides-redevances.eau-loire-bretagne.fr/home/retours-dexperiences/daucy---reutiliser-leau-dans-un-process-industriel.html",
+        "lien_label": "Agence de l'eau Loire-Bretagne"
+      },
+      {
+        "type": "ressource",
+        "texte": "Projet Minimeau du CTCPA : méthode pour minimiser les consommations d'eau en industrie agroalimentaire",
+        "lien": "https://www.ctcpa.org/en/2022/06/08/minimiser-consommaitons-eau-industrie-agroalimentaire-minimeau/"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "description",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000049010414",
+        "date": "2024-01-24",
+        "extrait": "Décret n° 2024-33 : eaux de processus recyclées soumises à déclaration."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.inrae.fr/dossiers/deuxieme-vie-nos-eaux-usees/leau-ca-se-recycle",
+        "extrait": "Jusqu'à 60 % d'économie d'eau potable en conserverie de légumes avec un système de recyclage optimisé."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000049908820",
+        "date": "2024-07-08",
+        "extrait": "Intégration au plan de maîtrise sanitaire, vérifications par un laboratoire accrédité."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://aides-redevances.eau-loire-bretagne.fr/home/retours-dexperiences/daucy---reutiliser-leau-dans-un-process-industriel.html",
+        "extrait": "Ultrafiltration puis osmose inverse, 30 % de l'eau traitée renvoyée au lavage des légumes, 45 000 m3 réutilisés au lieu de près de 110 000 prévus, 11 millions d'euros."
+      }
+    ],
+    "date_maj": "2026-09-25"
+  },
+  {
+    "id": "ACT_FRL_007",
+    "titre": "Valoriser l'eau de végétation récupérée lors de la concentration",
+    "titre_court": "Eau de végétation",
+    "description": "Collecter les condensats des évaporateurs de jus, de purées ou de concentrés et ceux des séchoirs, puis les employer après déclaration au préfet en chaudière, en nettoyage ou en prélavage de la matière première. Vous remplacez l'eau du réseau par l'eau contenue dans les fruits et légumes eux-mêmes.",
+    "categorie": "valoriser_reut_eaux_non_conventionnelles",
+    "secteurs": [
+      "industrie_fruits_legumes"
+    ],
+    "effort": {
+      "capex": "moyen",
+      "opex": "moyen",
+      "humain": "important"
+    },
+    "impact_eau": 3,
+    "facilite": 2,
+    "horizon": "moyen_terme",
+    "image": null,
+    "infos_complementaires": [
+      {
+        "type": "avertissement",
+        "texte": "L'eau de végétation est une eau recyclée issue des matières premières au sens du décret n° 2024-33 : déclaration au préfet, intégration au plan de maîtrise sanitaire, exigences de qualité croissantes du nettoyage sans contact jusqu'à l'usage comme ingrédient.",
+        "lien": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000049908702",
+        "lien_label": "Décret n° 2024-769"
+      },
+      {
+        "type": "info",
+        "texte": "Aucune étude ne chiffre encore le gisement propre au secteur : le volume disponible se mesure sur le site, par analyse des condensats avant tout choix de traitement. Il ne concerne que les sites qui concentrent ou sèchent."
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "description",
+        "url": "https://unijus.org/les-differents-types-de-jus",
+        "extrait": "Le jus à base de concentré est obtenu en extrayant l'eau du jus par évaporation, puis reconstitué avec la même quantité d'eau."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000049010414",
+        "date": "2024-01-24",
+        "extrait": "Catégorie des eaux recyclées issues des matières premières, soumises à déclaration."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000049908702",
+        "date": "2024-07-08",
+        "extrait": "Certaines eaux recyclées autorisées comme ingrédient, exigences de qualité selon l'usage."
+      }
+    ],
+    "date_maj": "2026-09-25"
+  },
+  {
+    "id": "ACT_FRL_008",
+    "titre": "Séparer terre, amidon et pulpes des eaux et traiter pour la campagne",
+    "titre_court": "Effluents de campagne",
+    "description": "Dégriller et décanter les eaux de lavage, récupérer l'amidon, collecter à part épluchures et pulpes pour l'alimentation animale ou la méthanisation, et caler bassin tampon et traitement sur le pic de campagne. Vous tenez vos limites de rejet quand les volumes culminent et vous valorisez vos coproduits.",
+    "categorie": "agir_rejets_qualite",
+    "secteurs": [
+      "industrie_fruits_legumes"
+    ],
+    "effort": {
+      "capex": "important",
+      "opex": "moyen",
+      "humain": "moyen"
+    },
+    "impact_eau": 2,
+    "facilite": 2,
+    "horizon": "court_terme",
+    "image": null,
+    "infos_complementaires": [
+      {
+        "type": "info",
+        "texte": "Pour une installation enregistrée sous la rubrique 2220, les valeurs limites de rejet sont un pH entre 5,5 et 8,5, une température sous 30 °C et une DCO de 300 mg/l sous 50 kg par jour, 125 mg/l au-delà.",
+        "lien": "https://aida.ineris.fr/reglementation/arrete-141213-relatif-prescriptions-generales-applicables-installations-relevant-0",
+        "lien_label": "Arrêté du 14 décembre 2013"
+      },
+      {
+        "type": "info",
+        "texte": "Depuis 2025, la redevance pollution des agences de l'eau ne porte plus que sur les rejets directs au milieu. Si vous êtes raccordé à une station collective, c'est votre convention de déversement qui fixe ce que vous pouvez envoyer.",
+        "lien": "https://www.eau-seine-normandie.fr/les-redevances/redevance-pollution-de-l-eau-d-origine-non-domestique",
+        "lien_label": "Agence de l'eau Seine-Normandie"
+      },
+      {
+        "type": "retour_experience",
+        "texte": "ARDO à Gourin a rénové sa station (pollution équivalente à 100 000 habitants, 18 mois de stockage des boues, phosphore divisé par deux) pour 6,15 millions d'euros cofinancés par l'agence de l'eau.",
+        "lien": "https://agence.eau-loire-bretagne.fr/home/espace-multimedia-1/contenu-multimedia/video/industrie-artisanat/contenu1/ardo-sa--gestion-globale-de-leau-une-strategie-pour-sadapter-au.html",
+        "lien_label": "Agence de l'eau Loire-Bretagne"
+      },
+      {
+        "type": "retour_experience",
+        "texte": "La conserverie d'aucy du Faouët méthanise 12 000 tonnes de déchets solides par an.",
+        "lien": "https://aides-redevances.eau-loire-bretagne.fr/home/retours-dexperiences/daucy---reutiliser-leau-dans-un-process-industriel.html",
+        "lien_label": "Agence de l'eau Loire-Bretagne"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "description",
+        "url": "https://aida.ineris.fr/reglementation/arrete-270220-relatif-meilleures-techniques-disponibles-mtd-applicables-a-certaines",
+        "date": "2020-02-27",
+        "extrait": "Séparation des flux d'eau, dégrillage, décantation, traitement biologique parmi les techniques du secteur."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://aida.ineris.fr/reglementation/arrete-141213-relatif-prescriptions-generales-applicables-installations-relevant-0",
+        "date": "2013-12-14",
+        "extrait": "pH 5,5 à 8,5, température inférieure à 30 °C, DCO 300 mg/l si flux inférieur à 50 kg/j, 125 mg/l au-delà."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.eau-seine-normandie.fr/les-redevances/redevance-pollution-de-l-eau-d-origine-non-domestique",
+        "extrait": "Depuis le 1er janvier 2025, seuls les rejets directs au milieu naturel entrent dans l'assiette de la redevance."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://agence.eau-loire-bretagne.fr/home/espace-multimedia-1/contenu-multimedia/video/industrie-artisanat/contenu1/ardo-sa--gestion-globale-de-leau-une-strategie-pour-sadapter-au.html",
+        "extrait": "Station rénovée : 100 000 équivalents habitants, 18 mois de stockage des boues, phosphore divisé par deux, 6,15 millions d'euros."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://aides-redevances.eau-loire-bretagne.fr/home/retours-dexperiences/daucy---reutiliser-leau-dans-un-process-industriel.html",
+        "extrait": "12 000 tonnes de déchets solides méthanisées par an."
+      }
+    ],
+    "date_maj": "2026-09-25"
+  }
+]

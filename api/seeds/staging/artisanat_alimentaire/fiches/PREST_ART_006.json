@@ -1,0 +1,94 @@
+{
+  "id": "PREST_ART_006",
+  "nom": "INBP, Institut national de la boulangerie pâtisserie",
+  "type": "organisme_formation",
+  "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792065095/Noe%20assets/logos/PREST_ART_006.png",
+  "siret": "31504294500032",
+  "description": "Fondation reconnue d'utilité publique installée à Rouen, l'INBP forme aux métiers de la boulangerie-pâtisserie, du CAP au brevet de maîtrise, et propose des stages courts aux professionnels. Ses formateurs interviennent aussi dans votre entreprise, notamment sur l'hygiène et le protocole de nettoyage du guide de bonnes pratiques, la responsabilité sociétale (anti-gaspillage, emballages, consommation d'énergie) et la boulangerie anti-gaspi. Les formations sont payantes, et l'INBP se charge des démarches de prise en charge auprès du FAFCEA pour les artisans et de l'OPCO EP pour les salariés.",
+  "expertises": [
+    "Formation dans l'entreprise",
+    "Hygiène et nettoyage (GBPH)",
+    "RSE en boulangerie-pâtisserie",
+    "Durabilité et anti-gaspillage"
+  ],
+  "categories": [],
+  "secteurs": ["artisanat_alimentaire"],
+  "departements": [],
+  "mesures": [],
+  "contacts": [
+    { "type": "site_internet", "value": "https://www.inbp.com/" },
+    { "type": "tel", "value": "02 35 58 17 77" },
+    { "type": "mail", "value": "bal@inbp.com" },
+    { "type": "adresse", "value": "150 boulevard de l'Europe, BP 1032, 76171 Rouen Cedex 1" }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, contacts, description",
+      "url": "https://www.inbp.com/mentions-legales/",
+      "date": "2026-10-15",
+      "extrait": "150, boulevard de l'Europe BP 1032 76 171 ROUEN cedex 1 Tél : 02 35 58 17 77 Adresse mail : bal@inbp.com Fondation reconnue d'utilité publique, par décret du 4 décembre 1974. SIRET : 315 042 945 000 32"
+    },
+    {
+      "champ": "siret",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=31504294500032",
+      "date": "2026-10-15",
+      "extrait": "FONDAT FORMAT PROMOT PROFES BOULANGERIE, unité légale active, établissement 31504294500032, 150 BOULEVARD DE L'EUROPE 76100 ROUEN, état A, NAF 85.32Z"
+    },
+    {
+      "champ": "contacts",
+      "url": "https://www.inbp.com/contact/",
+      "date": "2026-10-15",
+      "extrait": "Tel : 02 35 58 17 77 ... INBP 150 Boulevard de l'Europe B.P. 1032 76171 Rouen cedex 1"
+    },
+    {
+      "champ": "description",
+      "url": "https://www.inbp.com/",
+      "date": "2026-10-15",
+      "extrait": "Formations diplômantes, Stages courts ... Formations de base CAP, Formations supérieures BM"
+    },
+    {
+      "champ": "departements, expertises, description",
+      "url": "https://www.inbp.com/formations-dans-votre-entreprise/",
+      "date": "2026-10-15",
+      "extrait": "Ce sont donc les formateurs INBP qui se déplacent dans vos entreprises ! ... L'INBP se charge de toutes les démarches de financement auprès du FAFCEA pour les artisans et de l'OPCO EP pour les salariés de la branche de la boulangerie-pâtisserie."
+    },
+    {
+      "champ": "departements",
+      "url": "https://www.inbp.com/wp-content/uploads/inbp-catalogue-2026-formations-inbp-rouen-et-en-entreprise-WEB-1.pdf",
+      "date": "2026-10-15",
+      "extrait": "Nos formations, dispensées à Rouen ou dans votre entreprise, s'appuient sur l'expertise de formateurs expérimentés"
+    },
+    {
+      "champ": "expertises, description",
+      "url": "https://www.inbp.com/themes-formations-entreprise/",
+      "date": "2026-10-15",
+      "extrait": "Règlementation : Hygiène et traçabilité : application de la réglementation et du GBPH en pâtisserie ... Management : Responsabilité Sociétale des Entreprises (RSE) : les fondamentaux à appliquer en boulangerie-pâtisserie, La boulangerie « anti-gaspi »"
+    },
+    {
+      "champ": "expertises, description",
+      "url": "https://www.inbp.com/wp-content/uploads/Hygie%CC%80ne-et-trac%CC%A7abilite%CC%81_Application-GBPH.pdf",
+      "date": "2026-10-15",
+      "extrait": "Comprendre et appliquer le protocole de nettoyage propre à l'établissement ... Le nettoyage et la désinfection du matériel"
+    },
+    {
+      "champ": "expertises, description",
+      "url": "https://www.inbp.com/wp-content/uploads/RSE_Les-fondamentaux-a%CC%80-appliquer-en-BP.pdf",
+      "date": "2026-10-15",
+      "extrait": "L'Environnement : Actions anti-gaspillage, Les emballages, Consommation d'énergie, ..."
+    },
+    {
+      "champ": "expertises",
+      "url": "https://www.inbp.com/fiche/durabilite-et-anti-gaspi-en-boulangerie-patisserie-2026/",
+      "date": "2026-10-15",
+      "extrait": "Apprenez des techniques pratiques et innovantes pour réduire le gaspillage, économiser des ressources ... Chasser le gaspillage, Améliorer l'espace de travail"
+    },
+    {
+      "champ": "logo_url",
+      "url": "https://www.inbp.com/wp-content/uploads/2019/03/cropped-favicon-inbp.png",
+      "date": "2026-10-15",
+      "extrait": "Icône carrée du site (apple-touch-icon), 512 x 512"
+    }
+  ],
+  "date_maj": "2026-10-15"
+}

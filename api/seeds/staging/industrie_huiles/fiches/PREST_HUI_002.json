@@ -1,0 +1,122 @@
+{
+  "id": "PREST_HUI_002",
+  "nom": "OleaTech (OleaShop.fr)",
+  "type": "installateur",
+  "logo_url": null,
+  "siret": null,
+  "description": "Équipe spécialisée dans l'extraction d'huile d'olive, installée à Roquemaure (Gard), qui vend sous l'enseigne OleaShop.fr des moulins et des équipements de moulin, dont la gamme MiniOlive du fabricant Kocamaz (Izmir), et en assure le service après-vente en France. Pour les moulins, elle réalise l'installation et la mise en route des lignes d'extraction, l'entretien et la révision, des études d'optimisation sur site en saison (contrôle de chaque équipement, analyses, rapport) et l'accompagnement de projets de création ou d'extension de moulin. Elle forme les mouliniers sur leur lieu de production ou lors d'une formation générale de deux jours organisée chaque année ; les prestations sont sur devis, par formulaire, courriel, téléphone ou WhatsApp.",
+  "expertises": [
+    "Installation et mise en route de moulins",
+    "Entretien et révision de moulins",
+    "Étude d'optimisation du moulin",
+    "Formation des mouliniers"
+  ],
+  "categories": [],
+  "secteurs": [
+    "industrie_huiles"
+  ],
+  "departements": [],
+  "mesures": [],
+  "contacts": [
+    {
+      "type": "site_internet",
+      "value": "https://www.oleashop.fr"
+    },
+    {
+      "type": "site_internet",
+      "value": "https://www.oleatech.fr"
+    },
+    {
+      "type": "mail",
+      "value": "oleatechfrance@gmail.com"
+    },
+    {
+      "type": "tel",
+      "value": "06 10 21 59 98"
+    },
+    {
+      "type": "adresse",
+      "value": "ZI de l'Aspre, avenue de l'Aspre, 30150 Roquemaure"
+    },
+    {
+      "type": "linkedin",
+      "value": "https://linkedin.com/company/oleatech-france"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "expertises, description, mail",
+      "url": "https://www.oleashop.fr/nos-services",
+      "date": "2026-09-27",
+      "extrait": "Entretien & révision [...] Installation & assistance au démarrage : Bénéficiez d'une installation professionnelle de vos moulins et d'une assistance pour un démarrage rapide et serein de votre production. Formation & conseils techniques : Maîtrisez la conduite d'une ligne d'extraction d'huile [...] Vous pouvez également nous joindre facilement par WhatsApp ou par e-mail."
+    },
+    {
+      "champ": "adresse, description",
+      "url": "https://www.oleashop.fr/",
+      "date": "2026-09-27",
+      "extrait": "OleaShop.fr propose également des services d'installation et de maintenance pour votre équipement. [...] OleaShop Zi de l'aspre , Avenue de L'aspre 30150 ROQUEMAURE, France"
+    },
+    {
+      "champ": "description, type, expertises (service après-vente et mise en route par OleaTech du matériel vendu par OleaShop)",
+      "url": "https://www.oleashop.fr/product/21774505/moulin-miniolive-50-pro",
+      "date": "2026-09-27",
+      "extrait": "Une Prestation d'assitance à la mise en route par notre équipe OleaTech vous sera proposée (Mise en route , formation sur la conduite, les réglages , l'entretien). [...] Le Service aprés vente sera assuré par notre equipe OleaTech en France"
+    },
+    {
+      "champ": "type, description (Kocamaz, fabricant établi à Izmir)",
+      "url": "https://www.kocamaz.com.tr/zeytinyagi/en/urun-miniolive-400-boutique-olive-oil-machine/48",
+      "date": "2026-09-27",
+      "extrait": "Miniolive 400 Boutique Olive Oil Machine - Kocamaz Makina İTOB OSB 10011 Sokak No: 10 Tekeli - Menderes / İZMİR +90 (0232) 853 74 00"
+    },
+    {
+      "champ": "expertises, description",
+      "url": "https://www.oleatech.fr/Conseil.b.htm",
+      "date": "2026-09-27",
+      "extrait": "Nous vous proposons de réaliser une étude complète de votre système d'extraction. Nous venons pendant la saison pour réaliser un contrôle complet de chaque équipement. [...] Prise d'échantillons et analyses seront réalisées sur place."
+    },
+    {
+      "champ": "description",
+      "url": "https://www.oleatech.fr/Projet.f.htm",
+      "date": "2026-09-27",
+      "extrait": "Nos services : Définir un cahier des charges, consulter les fournisseurs, travailler l'implantation et le périmètre nécessaire, suivre votre projet, superviser le chantier... Conseil en sélection & implantation machines"
+    },
+    {
+      "champ": "expertises, description",
+      "url": "https://www.oleatech.fr/Formation.c.htm",
+      "date": "2026-09-27",
+      "extrait": "Nous fixons ensemble votre besoin puis une date, et nous intervenons sur votre lieu de production. Nous organisons chaque année une formation générale dédiée aux Mouliniers sur 2 jours."
+    },
+    {
+      "champ": "departements, tel, mail",
+      "url": "https://www.oleatech.fr/Contact.d.htm",
+      "date": "2026-09-27",
+      "extrait": "Notre domaine d'intervention: la France & l'Afrique du Nord [...] Contactez-nous par Téléphone (lien tel:+33610215998) [...] (lien mailto:oleatechfrance@gmail.com)"
+    },
+    {
+      "champ": "linkedin",
+      "url": "https://www.oleashop.fr/sur-les-reseaux",
+      "date": "2026-09-27",
+      "extrait": "lien https://linkedin.com/company/oleatech-france"
+    },
+    {
+      "champ": "siret (non retenu : lien avec le site non établi)",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=OLEATECH",
+      "date": "2026-09-27",
+      "extrait": "OLEATECH, siret 99949569000011, siège, 14 RUE DE LA ROUSSIERE 69970 CHAPONNAY, activité 70.22Z, état A"
+    },
+    {
+      "champ": "siret (non retenu : aucun établissement OLEATECH dans le Gard)",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=OLEATECH&departement=30",
+      "date": "2026-09-27",
+      "extrait": "{\"results\":[],\"total_results\":0}"
+    },
+    {
+      "champ": "siret (non retenu : aucune entreprise OLEASHOP)",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=OLEASHOP",
+      "date": "2026-09-27",
+      "extrait": "{\"results\":[],\"total_results\":0}"
+    }
+  ],
+  "date_maj": "2026-09-27"
+}

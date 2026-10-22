@@ -1,0 +1,184 @@
+{
+  "id": "AIDE_FRL_003",
+  "nom": "Aide aux investissements productifs dans l'agroalimentaire (Région Nouvelle-Aquitaine, crédits régionaux et FEADER)",
+  "financeur": "Région Nouvelle-Aquitaine (crédits régionaux ; pour les projets d'au moins 300 000 € HT, crédits européens FEADER avec la Région et, le cas échéant, les Départements comme cofinanceurs)",
+  "logo_url": null,
+  "type": "subvention",
+  "taux": "Taux modulés selon les critères de sélection. Pour les projets cofinancés par le FEADER : 20 % d'aide publique de base, jusqu'à 40 % avec les bonifications",
+  "plafond": "Projets de 120 000 € à 3 millions d'euros. Volet FEADER : dépenses éligibles plafonnées à 3 000 000 € HT, 5 000 000 € HT pour les projets fortement créateurs d'emplois",
+  "description": "Aide de la Région aux entreprises qui transforment, conditionnent et commercialisent des produits agricoles et portent un projet d'investissements productifs : création, extension ou modernisation des unités de production. Sont éligibles les matériels et équipements neufs, les dépenses immatérielles (logiciels, brevets) et les frais de prestations (maîtrise d'œuvre, diagnostics RSE, études et ingénierie) ; les bâtiments ne le sont que pour l'abattage et la découpe ou pour les entreprises récentes en zone à enjeux. L'aide est versée sous forme de prêt ou de subvention.",
+  "eligibilite": "Entreprises agroalimentaires (sociétés commerciales, coopératives agricoles et leurs unions ou filiales, Cuma, SICA) ayant une activité de stockage-conditionnement, de transformation et de commercialisation de produits agricoles ; groupements d'agriculteurs ou structures collectives majoritairement détenues par des agriculteurs, avec ou sans commercialisation ; sociétés de services qu'ils détiennent. Les produits de la pêche et de l'aquaculture sont exclus. Projet situé en Nouvelle-Aquitaine. Priorité aux PME et ETI ; les entreprises en difficulté sont exclues.",
+  "categories": [],
+  "secteurs": [
+    "industrie_fruits_legumes"
+  ],
+  "departements": [
+    "16",
+    "17",
+    "19",
+    "23",
+    "24",
+    "33",
+    "40",
+    "47",
+    "64",
+    "79",
+    "86",
+    "87"
+  ],
+  "agences": [],
+  "mesures": [],
+  "infos_complementaires": [
+    {
+      "type": "info",
+      "texte": "L'eau n'est pas une dépense ciblée par ce dispositif : c'est une aide générale à l'investissement productif. Le texte FEADER cite l'utilisation efficace de l'énergie et de l'eau parmi les process que le dispositif entend favoriser, et la page de la Région retient la dimension environnementale ou énergétique du projet parmi les critères qui modulent l'aide. Un équipement économe en eau peut donc y entrer s'il fait partie d'un programme d'investissements productifs, sans bonification propre à l'eau."
+    },
+    {
+      "type": "avertissement",
+      "texte": "La date de début d'éligibilité des dépenses est celle de la réception par la Région de la demande préalable datée, complète et signée ; l'accusé de réception de pré-demande vous indique cette date. Tout commencement du projet avant elle (premier devis signé ou bon de commande) rend la dépense inéligible : par prudence, attendez l'accusé de réception avant de vous engager."
+    },
+    {
+      "type": "avertissement",
+      "texte": "Sont exclus notamment le simple remplacement, le matériel d'occasion, les dépenses de mise aux normes ou liées à une obligation réglementaire et les investissements financés en crédit-bail."
+    },
+    {
+      "type": "avertissement",
+      "texte": "Au-delà de 300 000 € d'investissement, une démarche de responsabilité sociétale (RSE) conduite par des experts externes qualifiés ou un pré-diagnostic Usine du Futur est obligatoire ; au-delà de 1,5 million d'euros, la démarche RSE par des experts externes est exigée."
+    },
+    {
+      "type": "info",
+      "texte": "Les projets dont l'assiette éligible est inférieure à 300 000 € HT sont financés sur crédits de la Région seule ; au-delà, le dispositif FEADER 73.03.01 prend le relais, avec un taux de base de 20 % bonifié de 10 points notamment en zone de montagne ou territoire CADET, pour un projet collectif d'agriculteurs ou un projet majoritairement bio (40 % au maximum). Pour être cofinancé par le FEADER, le produit sortant doit relever de l'annexe I du TFUE ; les PME dont les produits sortants n'en relèvent pas sont orientées vers le FEDER. Pour les entreprises dont les produits sortants sont agricoles, les projets dont le coût éligible dépasse un seuil fixé en comité de suivi basculent sur des financements FEDER."
+    },
+    {
+      "type": "info",
+      "texte": "Les dossiers sont étudiés au fil de leur réception. La fiche de demande préalable est à envoyer par mail au service agroalimentaire de la Région (iaa@nouvelle-aquitaine.fr) ; pour le volet FEADER, l'accusé de réception indique ensuite comment déposer le dossier complet sur Mes Démarches en Nouvelle-Aquitaine (MDNA). Renseignements : Direction de l'agriculture, des IAA et de la pêche, service Relation aux usagers, 05 49 38 49 38."
+    },
+    {
+      "type": "ressource",
+      "texte": "Page du dispositif sur le guide des aides de la Région Nouvelle-Aquitaine",
+      "lien": "https://les-aides.nouvelle-aquitaine.fr/economie-et-emploi/aide-aux-investissements-productifs-dans-lagroalimentaire"
+    },
+    {
+      "type": "ressource",
+      "texte": "Fiche de demande préalable (tableur) à renvoyer au service agroalimentaire",
+      "lien": "https://les-aides.nouvelle-aquitaine.fr/system/files/specific_pj_files/Fiche_demande%20%28xls%29.xlsx"
+    },
+    {
+      "type": "ressource",
+      "texte": "Cahier des charges du dispositif FEADER 73.03.01 (version 2.0 du 20 mars 2024) : dépenses éligibles, grille de sélection, taux et bonifications",
+      "lien": "https://www.europe-en-nouvelle-aquitaine.eu/sites/default/files/2024-03/240320_Cahier_charges_IAA_V2.0.pdf"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "description, eligibilite",
+      "url": "https://les-aides.nouvelle-aquitaine.fr/economie-et-emploi/aide-aux-investissements-productifs-dans-lagroalimentaire",
+      "date": "2026-09-25",
+      "extrait": "Renforcer la compétitivité et l’innovation des entreprises agroalimentaires de la Nouvelle-Aquitaine par la création, l’extension et la modernisation des unités de production [...] Structures ayant une activité de stockage-conditionnement, de transformation de produits et de leur commercialisation [...] Priorité aux PME et ETI."
+    },
+    {
+      "champ": "type, taux, plafond, description",
+      "url": "https://les-aides.nouvelle-aquitaine.fr/economie-et-emploi/aide-aux-investissements-productifs-dans-lagroalimentaire",
+      "date": "2026-09-25",
+      "extrait": "Sous forme de prêts ou de subventions avec des taux d’intervention modulés en fonction des critères mentionnés ci-dessus (dans la limite des taux autorisés par les règlements européens et/ou les régimes d’aides d’Etat). [...] Projet de 120 000 € à 3 millions d'euros"
+    },
+    {
+      "champ": "infos_complementaires",
+      "url": "https://les-aides.nouvelle-aquitaine.fr/economie-et-emploi/aide-aux-investissements-productifs-dans-lagroalimentaire",
+      "date": "2026-09-25",
+      "extrait": "Dimension environnementale ou énergétique du projet [...] Projet d'investissement supérieur à 300 000 € : une démarche de responsabilité sociétale par des experts externes qualifiés ou Usine du Futur est obligatoire, Projet d'investissement supérieur à 1,5 millions d’euros : l’entreprise devra réaliser une démarche de responsabilité sociétale par des experts externes qualifiés."
+    },
+    {
+      "champ": "infos_complementaires",
+      "url": "https://les-aides.nouvelle-aquitaine.fr/economie-et-emploi/aide-aux-investissements-productifs-dans-lagroalimentaire",
+      "date": "2026-09-25",
+      "extrait": "Etude des dossiers au fil de leur réception [...] Les dossiers sont à envoyer par mail à l'adresse iaa@nouvelle-aquitaine.fr [...] Direction de l’agriculture des IAA et de la pêche Service Relation aux Usagers 05 49 38 49 38"
+    },
+    {
+      "champ": "departements",
+      "url": "https://les-aides.nouvelle-aquitaine.fr/economie-et-emploi/aide-aux-investissements-productifs-dans-lagroalimentaire",
+      "date": "2026-09-25",
+      "extrait": "Charente (16) Charente-Maritime (17) Corrèze (19) Creuse (23) Dordogne (24) Gironde (33) Landes (40) Lot-et-Garonne (47) Pyrénées-Atlantiques (64) Deux-Sèvres (79) Vienne (86) Haute-Vienne (87) Autre (hors Nouvelle-Aquitaine)"
+    },
+    {
+      "champ": "eligibilite, departements",
+      "url": "https://www.europe-en-nouvelle-aquitaine.eu/sites/default/files/2024-03/240320_Cahier_charges_IAA_V2.0.pdf",
+      "date": "2026-09-25",
+      "extrait": "les entreprises agroalimentaires (sociétés commerciales, coopératives agricoles et leurs unions ou filiales, les Cuma, les Sociétés d’Intérêt Collectif Agricole…) [...] Ces bénéficiaires sont éligibles, sous réserve de bénéficier d’une situation financière saine (entreprises qui ne sont pas en difficulté au sens des lignes directrices de l’Union). [...] Le projet d'investissement doit être localisé en Nouvelle-Aquitaine."
+    },
+    {
+      "champ": "description",
+      "url": "https://www.europe-en-nouvelle-aquitaine.eu/sites/default/files/2024-03/240320_Cahier_charges_IAA_V2.0.pdf",
+      "date": "2026-09-25",
+      "extrait": "Investissements matériels et équipements neufs, Investissements bâtiments et aménagements intérieurs pour les seuls projets d’investissements relatifs à l’abattage et/ou à la découpe d’animaux et/ou viandes, ou relatifs à des projets portés par des entreprises créées dans les deux années précédant la date de dépôt de la demande et localisées dans les zones suivantes [...] Dépenses immatérielles : acquisition logiciels informatiques, brevets, licences, droits d’auteur et marques commerciales, Frais de prestations : honoraires d'architecte/Maîtrise d’œuvre, diagnostics RSE, études et ingénierie."
+    },
+    {
+      "champ": "infos_complementaires",
+      "url": "https://www.europe-en-nouvelle-aquitaine.eu/sites/default/files/2024-03/240320_Cahier_charges_IAA_V2.0.pdf",
+      "date": "2026-09-25",
+      "extrait": "A travers son soutien aux projets privilégiant des process ou des itinéraires techniques respectueux de l’environnement (utilisation efficace de l’énergie/eau, valorisation coproduits…) ou intégrant des innovations technologiques et non technologiques, ce dispositif contribue notamment aux objectifs transversaux en matière d’innovation et d’environnement."
+    },
+    {
+      "champ": "infos_complementaires",
+      "url": "https://www.europe-en-nouvelle-aquitaine.eu/sites/default/files/2024-03/240320_Cahier_charges_IAA_V2.0.pdf",
+      "date": "2026-09-25",
+      "extrait": "Après réception de la fiche de demande préalable, la Région Nouvelle-Aquitaine enverra au demandeur un accusé de réception de pré demande indiquant la date de début d’éligibilité des dépenses du projet (date de début d’exécution). Tout commencement du projet avant la date de début d’éligibilité des dépenses rendra la dépense concernée inéligible. Le début d’exécution des opérations se définit comme le premier acte juridique, par exemple un devis signé ou un bon de commande"
+    },
+    {
+      "champ": "infos_complementaires",
+      "url": "https://www.europe-en-nouvelle-aquitaine.eu/sites/default/files/2024-03/240320_Cahier_charges_IAA_V2.0.pdf",
+      "date": "2026-09-25",
+      "extrait": "Investissements de simple remplacement, les matériels et équipements d’occasion, les équipements mobiles non liés à un outil de production, Dépenses visant la mise aux normes ou obligations réglementaires, [...] Investissements financés en crédit-bail."
+    },
+    {
+      "champ": "taux, plafond, infos_complementaires",
+      "url": "https://www.europe-en-nouvelle-aquitaine.eu/sites/default/files/2024-03/240320_Cahier_charges_IAA_V2.0.pdf",
+      "date": "2026-09-25",
+      "extrait": "Le projet (assiette éligible) doit répondre à un critère de taille minimale de 300 000 € HT. [...] Le plafond de dépenses éligibles est fixé à 3 000 000 € HT . Une majoration de ce plafond à 5 000 000 € HT est prévue pour les projets fortement créateurs d’emplois [...] Le taux d’aide publique de base est de 20 %. [...] Les bonus peuvent être cumulables dans la limite du Taux Maximum d’Aides Publiques de 40 %."
+    },
+    {
+      "champ": "infos_complementaires",
+      "url": "https://www.europe-en-nouvelle-aquitaine.eu/sites/default/files/2024-03/240320_Cahier_charges_IAA_V2.0.pdf",
+      "date": "2026-09-25",
+      "extrait": "Un bonus de 10 % est accordé aux projets en fonction : du territoire de réalisation du projet : Zone de montagne et/ou classé CADET [...] Un bonus supplémentaire de 10 % intervient dans les cas suivants : caractère collaboratif du projet (collectif d’agriculteurs, composé au moins de 3 exploitations agricoles, dont les coopératives agricoles), OU [...] OU projet d’investissement majoritairement dédié à la fabrication de produits certifiés Agriculture Biologique"
+    },
+    {
+      "champ": "infos_complementaires",
+      "url": "https://www.europe-en-nouvelle-aquitaine.eu/sites/default/files/2024-03/240320_Cahier_charges_IAA_V2.0.pdf",
+      "date": "2026-09-25",
+      "extrait": "Le résultat du processus de production doit être un produit de l’Annexe I du TFUE. [...] Les projets présentés par des PME agroalimentaires dont les produits sortants ne sont pas agricoles (hors annexe 1) sont orientés vers le FEDER. [...] L’accusé de réception de pré-demande précisera les modalités de dépôt de la demande complète qui doit être faite dans l’outil Mes Démarches en Nouvelle-Aquitaine (MDNA)"
+    },
+    {
+      "champ": "financeur, infos_complementaires",
+      "url": "https://www.europe-en-nouvelle-aquitaine.eu/sites/default/files/2025-01/PSR_V4.5.pdf",
+      "date": "2026-09-25",
+      "extrait": "Les projets dont les produits sortants sont des produits agricoles (annexe 1 du TFUE) et dont l’assiette éligible est < 300 000 € HT relèvent des dispositifs financés par les crédits de la Région Nouvelle-Aquitaine, hors PSR [...] Le taux d’aide de base est de 20 % [...] Taux de cofinancement FEADER 60% Type de soutien Subvention"
+    },
+    {
+      "champ": "infos_complementaires",
+      "url": "https://www.europe-en-nouvelle-aquitaine.eu/sites/default/files/2024-03/240320_Cahier_charges_IAA_V2.0.pdf",
+      "date": "2026-09-25",
+      "extrait": "La date de début d’éligibilité des dépenses est fixée à la date de réception par la Région Nouvelle-Aquitaine d’une demande d’aide datée, complétée et signée par le bénéficiaire*, avec les informations minimales suivantes"
+    },
+    {
+      "champ": "eligibilite",
+      "url": "https://www.europe-en-nouvelle-aquitaine.eu/sites/default/files/2024-03/240320_Cahier_charges_IAA_V2.0.pdf",
+      "date": "2026-09-25",
+      "extrait": "transformation de produits agricoles (à l'exception des produits de la pêche-aquaculture) [...] les groupements d’agriculteurs ou structures collectives majoritairement détenues par des agriculteurs avec une activité de stockage-conditionnement, transformation de produits agricoles, avec ou sans commercialisation (outils en propres ou outils en prestation de services)"
+    },
+    {
+      "champ": "infos_complementaires",
+      "url": "https://www.europe-en-nouvelle-aquitaine.eu/sites/default/files/2024-03/240320_Cahier_charges_IAA_V2.0.pdf",
+      "date": "2026-09-25",
+      "extrait": "Pour les entreprises dont les produits sortants sont des produits agricoles (annexe 1 du TFUE), une ligne de partage fondée sur un seuil de coût éligible des projets a été définie au-delà duquel, le projet bascule sur des financements du PO FEDER (plafond dont le montant est validé en comité de suivi)."
+    },
+    {
+      "champ": "financeur",
+      "url": "https://www.europe-en-nouvelle-aquitaine.eu/sites/default/files/2025-01/PSR_V4.5.pdf",
+      "date": "2026-09-25",
+      "extrait": "Type de soutien Subvention Top up Oui Co financeurs principaux/ponctuels Région, Département"
+    }
+  ],
+  "date_maj": "2026-09-25"
+}

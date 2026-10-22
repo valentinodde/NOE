@@ -37,7 +37,7 @@ function ScoreChip({ value, size = 'md' }) {
       className="inline-flex items-center justify-center rounded-full font-bold shrink-0"
       style={{ width: dim, height: dim, fontSize: fs, background: c.bg, color: c.text, border: `1.5px solid ${c.border}` }}
     >
-      {value ?? '—'}
+      {value ?? '-'}
     </span>
   );
 }
@@ -125,7 +125,7 @@ function CdpComment({ comment }) {
 // ─── Score matrix ─────────────────────────────────────────────────────────────
 
 function EcartBadge({ ecart }) {
-  if (ecart === null || ecart === undefined) return <span className="text-xs text-on-surface-var">—</span>;
+  if (ecart === null || ecart === undefined) return <span className="text-xs text-on-surface-var">-</span>;
   const abs   = Math.abs(ecart);
   const label = ecart === 0 ? '=' : ecart > 0 ? `+${ecart}` : `${ecart}`;
   const style = ecart === 0
@@ -567,7 +567,7 @@ export default function SectorDetailPage() {
         {/* ── Score matrix ── */}
         <div>
           <div className="text-xs font-semibold text-on-surface-var uppercase tracking-wider mb-3 px-1">
-            Opérations directes — scores
+            Opérations directes / scores
           </div>
           <ScoreMatrix
             draft={draft}
@@ -582,7 +582,7 @@ export default function SectorDetailPage() {
           style={{ background: '#fff', boxShadow: '0 1px 12px rgba(0,10,67,0.06)' }}
         >
           <label className="text-xs font-semibold text-on-surface-var uppercase tracking-wider block mb-2">
-            Phrase de synthèse — Opérations
+            Phrase de synthèse / Opérations
           </label>
           <textarea
             value={draft.ops_sentence}

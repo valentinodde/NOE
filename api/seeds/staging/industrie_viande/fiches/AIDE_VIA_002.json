@@ -1,0 +1,206 @@
+{
+  "id": "AIDE_VIA_002",
+  "nom": "Aide à la réduction des pollutions des activités industrielles et artisanales (agence de l'eau Rhin-Meuse, 12e programme)",
+  "financeur": "Agence de l'eau Rhin-Meuse",
+  "logo_url": null,
+  "type": "subvention",
+  "taux": "Subvention, à des taux de référence selon la taille de l'entreprise. Épuration et gestion des boues (premier ouvrage, fiabilisation, amélioration), opérations préliminaires à l'épuration ou à un raccordement, technologies propres, prévention des pollutions accidentelles ou par temps de pluie, moyens de mesure et de contrôle : hors zone d'aide à finalité régionale (AFR), 40 % pour une grande entreprise, 50 % pour une moyenne entreprise, 60 % pour une petite entreprise ou une microentreprise ; en zone AFR (c), 45 %, 55 % et 65 %. Épuration et gestion des boues dans le cadre du traitement de pollutions classiques en secteur non prioritaire et hors d'un Contrat Industriel Eau et Climat : 30 %, 40 % et 50 % hors zone AFR, 35 %, 45 % et 55 % en zone AFR. Études hors innovation : 60 %, 70 % et 80 %.",
+  "plafond": null,
+  "description": "Volet lutte contre les pollutions de la fiche thématique « Interventions en matière d'actions de lutte contre les pressions générées par les activités économiques industrielles et artisanales », approuvée par la délibération n°2025/21 du 12e programme d'intervention de l'agence de l'eau Rhin-Meuse. L'agence accompagne les actions de réduction ou d'élimination des pollutions classiques (carbonée, azotée et phosphorée) dans les secteurs prioritaires, c'est-à-dire là où la qualité des masses d'eau est impactée par les rejets. Sont éligibles : la création ou l'amélioration des dispositifs d'épuration et de leur filière de gestion des boues (nouvel ouvrage, amélioration de la filière de traitement, fiabilité et sécurité du fonctionnement des ouvrages) ; les opérations préliminaires à l'épuration ou à un raccordement, soit les travaux qui rendent l'épuration des effluents plus efficace (prétraitement notamment) et les investissements nécessaires au raccordement des effluents à un réseau d'assainissement collectif ; les technologies propres, investissements de lutte contre la pollution ou contribuant à l'adaptation ou l'atténuation au changement climatique, faisant partie intégrante de la chaîne de production ; la prévention ou la réduction des risques de pollution accidentelle ou par temps de pluie ; les moyens de mesure et de contrôle, dispositifs permettant la mesure et le suivi des eaux prélevées, des eaux de process et des flux polluants. Les études nécessaires à la définition, à l'analyse de la faisabilité ou de l'opportunité et à la préparation de ces investissements sont également éligibles.",
+  "eligibilite": "Entreprises des activités économiques industrielles et artisanales, aidées directement ou par appels à projets ; collectivités, associations et autres organismes qui exercent une activité économique concurrentielle, pour un projet lié à cette activité. Les investissements doivent respecter le principe de non-dégradation de l'état des eaux, apporter un haut niveau de protection environnementale et s'inscrire dans les trajectoires de sobriété en eau du territoire lorsqu'une structure porteuse de cette gouvernance existe. Pour la réduction de la pollution classique, les microentreprises ne sont éligibles qu'au travers d'actions exclusivement groupées, sur les secteurs où un enjeu relatif à la pollution classique a été démontré.",
+  "categories": [
+    "agir_rejets_qualite",
+    "suivre_comprendre_maitriser"
+  ],
+  "secteurs": [
+    "industrie_viande"
+  ],
+  "departements": [],
+  "agences": [
+    "AERM"
+  ],
+  "mesures": [
+    "ACT_VIA_008",
+    "ACT_VIA_007",
+    "ACT_AGR_001"
+  ],
+  "infos_complementaires": [
+    {
+      "type": "avertissement",
+      "texte": "L'agence n'apporte pas d'aide à un projet destiné à répondre à une mise en demeure réglementaire, sauf si la demande d'aide est antérieure à la date de l'arrêté de mise en demeure ou s'il s'agit d'une étude rendue obligatoire par cet arrêté. Si la mise en demeure porte une échéance, l'établissement est inéligible quelle que soit cette échéance ; si le préfet suspend sa mise en demeure pendant un certain temps ou jusqu'à une échéance donnée, il n'est pas tenu compte de cette tolérance. Le projet reste éligible si la mise en demeure porte sur un volet indépendant de celui de la demande d'aide, ou sur la réalisation d'une étude."
+    },
+    {
+      "type": "avertissement",
+      "texte": "Pour les sites soumis à la réglementation sur les installations classées et concernés par la directive sur les émissions industrielles (IED), l'agence accompagne l'émergence de projets qui permettent d'anticiper ou d'aller au-delà des normes européennes. Pour tous les investissements, les technologies mises en place doivent apporter un haut niveau de protection environnementale, et aucune aide n'est apportée à un projet qui répond à une mise en demeure réglementaire. Un investissement exigé par une mise en demeure, comme pourrait l'être la collecte à part du sang dans un abattoir, risque donc d'être écarté."
+    },
+    {
+      "type": "avertissement",
+      "texte": "Pour une activité industrielle soumise au régime de Suivi Régulier des Rejets (SRR), l'attribution d'une aide est conditionnée à l'obtention de l'agrément SRR, sauf impossibilité technique. Fait exception l'aide à la mise en place des moyens nécessaires à l'obtention de cet agrément."
+    },
+    {
+      "type": "avertissement",
+      "texte": "Sur les secteurs où un enjeu relatif à la pollution classique a été démontré, les microentreprises sont exclusivement accompagnées dans le cadre d'opérations groupées. La maîtrise d'ouvrage publique, les organismes consulaires et professionnels et les autres organismes représentatifs des activités économiques sont le public privilégié pour porter ces actions groupées (études préalables et animation)."
+    },
+    {
+      "type": "avertissement",
+      "texte": "Moyens de mesure et de contrôle : les dépenses d'analyses ne sont pas éligibles."
+    },
+    {
+      "type": "info",
+      "texte": "Les projets de réduction des pollutions classiques non prioritaires (hors Plans d'Actions Opérationnels Territorialisés ou Programmes de Mesures, hors situations à enjeu pour le milieu associées à un assec ou un étiage très sévère, ou non inscrits dans une démarche globale et pluriannuelle de type Contrat Industriel Eau et Climat) bénéficient d'un taux minoré de 10 points par rapport au taux de référence de la typologie d'action concernée."
+    },
+    {
+      "type": "info",
+      "texte": "Les taux affichés sont des taux de référence : l'agence est susceptible de proposer une adaptation de l'assiette ou du taux en fonction de l'impact ou de l'ambition du projet par rapport aux enjeux environnementaux. À bénéfice équivalent pour la ressource en eau, elle privilégie les solutions préventives aux solutions curatives."
+    },
+    {
+      "type": "info",
+      "texte": "L'aide prend la forme d'une subvention dont le taux de référence est basé sur les taux permis par le règlement communautaire en vigueur. L'agence se réserve le droit, au cas par cas, de mobiliser des aides sous forme d'avances remboursables."
+    },
+    {
+      "type": "info",
+      "texte": "Établissement raccordé à une station d'épuration collective : la collectivité peut être directement aidée pour les investissements de collecte et d'épuration des eaux usées non domestiques dès lors qu'un établissement industriel se raccorde à son ouvrage. L'agence exige alors la transmission d'une autorisation de déversement dans le réseau public et, le cas échéant, d'une convention de raccordement."
+    },
+    {
+      "type": "info",
+      "texte": "Les taux sont plus élevés en zone d'aide à finalité régionale (AFR). En France, les zones « c » non prédéfinies sont situées en métropole (Corse comprise) : vérifiez le classement de votre commune avant d'estimer le taux applicable."
+    },
+    {
+      "type": "info",
+      "texte": "Les demandes d'aide se formulent sur la plateforme Rivage, accessible du lundi au samedi de 7h30 à 20h. Les équipes de l'agence répondent du lundi au vendredi de 9h à 12h et de 13h30 à 16h30 au numéro vert gratuit 0 800 710 325."
+    },
+    {
+      "type": "ressource",
+      "texte": "Fiche thématique du 12e programme sur les pressions générées par les activités économiques industrielles et artisanales (délibération 2025/21)",
+      "lien": "https://cdi.eau-rhin-meuse.fr/GEIDEFile/Interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales_-_FICHE_THEMATIQUE.pdf?Archive=264992408217&File=interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales___FicHe_THeMaTiQue_pdf"
+    },
+    {
+      "type": "ressource",
+      "texte": "Page Nos aides de l'agence de l'eau Rhin-Meuse, avec le guide des aides aux industriels et l'accès à la plateforme Rivage",
+      "lien": "https://www.eau-rhin-meuse.fr/nos-aides"
+    },
+    {
+      "type": "ressource",
+      "texte": "Les délibérations et fiches thématiques du 12e programme d'intervention Rhin-Meuse",
+      "lien": "https://www.eau-rhin-meuse.fr/nos-deliberations"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "nom, financeur, description (intitulé et délibération)",
+      "url": "https://cdi.eau-rhin-meuse.fr/GEIDEFile/Interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales_-_FICHE_THEMATIQUE.pdf?Archive=264992408217&File=interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales___FicHe_THeMaTiQue_pdf",
+      "date": "2026-09-24",
+      "extrait": "FICHE THÉMATIQUE. Interventions en matière d'actions de lutte contre les pressions générées par les activités économiques industrielles et artisanales. Approuvée par la délibération n°2025/21 [...] 12e Programme d'intervention : Transformer pour protéger durablement (p. 163)"
+    },
+    {
+      "champ": "description (pollution classique, secteurs prioritaires)",
+      "url": "https://cdi.eau-rhin-meuse.fr/GEIDEFile/Interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales_-_FICHE_THEMATIQUE.pdf?Archive=264992408217&File=interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales___FicHe_THeMaTiQue_pdf",
+      "date": "2026-09-24",
+      "extrait": "Résorber les foyers résiduels de pollution classique (pollution carbonée, azotée et phosphorée) [...] L'Agence de l'eau accompagne donc les actions de réduction ou d'élimination (opérations préliminaires à l'épuration, traitement, gestion des boues, ...) des pollutions classiques dans les secteurs prioritaires, c'est-à-dire là où la qualité des masses d'eau est impactée par les rejets. (p. 164)"
+    },
+    {
+      "champ": "infos_complementaires (projets qui anticipent ou vont au-delà des normes)",
+      "url": "https://cdi.eau-rhin-meuse.fr/GEIDEFile/Interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales_-_FICHE_THEMATIQUE.pdf?Archive=264992408217&File=interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales___FicHe_THeMaTiQue_pdf",
+      "date": "2026-09-24",
+      "extrait": "« Contribution aux politiques publiques » [...] Accompagner les exploitants des sites soumis à la réglementation sur les installations classées pour la protection de l'environnement concernés par la mise en œuvre de la Directive sur les Émissions Industrielles (IED) pour l'émergence de projets permettant d'anticiper ou d'aller au-delà des normes européennes. (p. 164)"
+    },
+    {
+      "champ": "description (épuration et gestion des boues)",
+      "url": "https://cdi.eau-rhin-meuse.fr/GEIDEFile/Interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales_-_FICHE_THEMATIQUE.pdf?Archive=264992408217&File=interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales___FicHe_THeMaTiQue_pdf",
+      "date": "2026-09-24",
+      "extrait": "4.3.1. Créer ou améliorer les dispositifs d'épuration et leur filière de gestion des boues. Les travaux éligibles relatifs au traitement et à la gestion des eaux usées et des sous-produits de l'épuration recouvrent : La construction d'un nouvel ouvrage d'épuration (y compris la gestion des boues) ; Les investissements permettant d'améliorer la filière de traitement (y compris la gestion des boues) ; Les investissements permettant d'assurer la fiabilité et la sécurité du fonctionnement des ouvrages d'épuration (p. 168)"
+    },
+    {
+      "champ": "description (opérations préliminaires), mesures (ACT_VIA_008)",
+      "url": "https://cdi.eau-rhin-meuse.fr/GEIDEFile/Interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales_-_FICHE_THEMATIQUE.pdf?Archive=264992408217&File=interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales___FicHe_THeMaTiQue_pdf",
+      "date": "2026-09-24",
+      "extrait": "4.3.2. Opérations préliminaires à l'épuration ou à un raccordement. Les travaux éligibles sont : Les travaux qui ont pour objet de rendre l'épuration des effluents plus efficace (prétraitement notamment) ; Les investissements nécessaires au raccordement des effluents à un réseau d'assainissement collectif. (p. 168)"
+    },
+    {
+      "champ": "description (technologies propres), mesures (ACT_VIA_007)",
+      "url": "https://cdi.eau-rhin-meuse.fr/GEIDEFile/Interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales_-_FICHE_THEMATIQUE.pdf?Archive=264992408217&File=interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales___FicHe_THeMaTiQue_pdf",
+      "date": "2026-09-24",
+      "extrait": "4.3.3. Technologies propres. Est considéré comme une technologie propre éligible, un investissement de lutte contre la pollution ou contribuant à l'adaptation ou l'atténuation au changement climatique, faisant partie intégrante de la chaine de production. (p. 168) [...] TECHNOLOGIES PROPRES : Une technologie propre est une méthode de fabrication permettant d'une part l'utilisation la plus rationnelle possible des matières premières et de l'énergie et, d'autre part, la réduction et la quantité d'effluents ou de déchets polluants. (p. 178)"
+    },
+    {
+      "champ": "description (pollutions accidentelles, moyens de mesure), mesures (ACT_AGR_001), infos_complementaires (dépenses d'analyses)",
+      "url": "https://cdi.eau-rhin-meuse.fr/GEIDEFile/Interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales_-_FICHE_THEMATIQUE.pdf?Archive=264992408217&File=interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales___FicHe_THeMaTiQue_pdf",
+      "date": "2026-09-24",
+      "extrait": "4.3.4. Prévention ou réduction des risques de pollutions accidentelles ou par temps de pluie. Les travaux éligibles sont ceux visant à prévenir ou à réduire les risques de pollution accidentelle ou de pollution par temps de pluie. 4.3.5. Moyens de mesure et de contrôle. Les travaux éligibles sont les dispositifs permettant la mesure et le suivi des eaux prélevées, des eaux de process et des flux polluants et les dispositifs permettant la surveillance des eaux souterraines. (p. 168) Les dépenses d'analyses ne sont pas éligibles. (p. 169)"
+    },
+    {
+      "champ": "description (études), taux (études hors innovation)",
+      "url": "https://cdi.eau-rhin-meuse.fr/GEIDEFile/Interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales_-_FICHE_THEMATIQUE.pdf?Archive=264992408217&File=interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales___FicHe_THeMaTiQue_pdf",
+      "date": "2026-09-24",
+      "extrait": "4.2. AIDES A LA RÉALISATION DES ÉTUDES. Les études sont éligibles dès lors qu'elles sont nécessaires à la définition, à l'analyse de la faisabilité ou de l'opportunité et à la préparation des investissements ou actions éligibles (p. 167) [...] ÉTUDES, Hors études d'innovation : Grandes entreprises : 60 %, Moyennes entreprises : 70 %, Petites et microentreprises : 80 % (p. 172)"
+    },
+    {
+      "champ": "taux (épuration et gestion des boues, y compris secteur non prioritaire)",
+      "url": "https://cdi.eau-rhin-meuse.fr/GEIDEFile/Interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales_-_FICHE_THEMATIQUE.pdf?Archive=264992408217&File=interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales___FicHe_THeMaTiQue_pdf",
+      "date": "2026-09-24",
+      "extrait": "CRÉER OU AMÉLIORER LES DISPOSITIFS D'ÉPURATION ET LEUR FILIÈRE DE GESTION DES BOUES. Taux d'aide de référence : Hors zones d'Aides à Finalité Régionale (AFR) : Grandes entreprises : 40 %, Moyennes entreprises : 50 %, Petites et microentreprises : 60 %. En zones AFR (c) : Grandes entreprises : 45 %, Moyennes entreprises : 55 %, Petites et microentreprises : 65 %. Dans le cadre du traitement de pollutions classiques en secteur non prioritaire et hors d'un CIEC : Hors zones d'Aides à Finalité Régionale (AFR) : Grandes entreprises : 30 %, Moyennes entreprises : 40 %, Petites et microentreprises : 50 %. En zones AFR (c) : Grandes entreprises : 35 %, Moyennes entreprises : 45 %, Petites et microentreprises : 55 % (p. 173)"
+    },
+    {
+      "champ": "taux (opérations préliminaires, technologies propres, pollutions accidentelles, moyens de mesure)",
+      "url": "https://cdi.eau-rhin-meuse.fr/GEIDEFile/Interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales_-_FICHE_THEMATIQUE.pdf?Archive=264992408217&File=interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales___FicHe_THeMaTiQue_pdf",
+      "date": "2026-09-24",
+      "extrait": "Lignes OPÉRATIONS PRÉLIMINAIRES À L'ÉPURATION OU À UN RACCORDEMENT, TECHNOLOGIES PROPRES, PRÉVENTION OU RÉDUCTION DES RISQUES DE POLLUTIONS ACCIDENTELLES OU PAR TEMPS DE PLUIE (p. 174) et MOYENS DE MESURE DE CONTRÔLE (p. 175), chacune : Hors zones d'Aides à Finalité Régionale (AFR) : Grandes entreprises : 40 % Moyennes entreprises : 50 % Petites et microentreprises : 60 %. En zones AFR (c) : Grandes entreprises : 45 % Moyennes entreprises : 55 % Petites et microentreprises : 65 %"
+    },
+    {
+      "champ": "type, infos_complementaires (nature des aides)",
+      "url": "https://cdi.eau-rhin-meuse.fr/GEIDEFile/Interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales_-_FICHE_THEMATIQUE.pdf?Archive=264992408217&File=interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales___FicHe_THeMaTiQue_pdf",
+      "date": "2026-09-24",
+      "extrait": "3 - NATURE DES AIDES. L'Agence de l'eau intervient sous la forme d'une subvention dont le taux de référence est basé sur les taux d'aides permis par le règlement communautaire en vigueur. L'Agence de l'eau se réserve le droit, au cas par cas, de mobiliser des aides sous forme d'avances remboursables. (p. 166)"
+    },
+    {
+      "champ": "eligibilite (publics)",
+      "url": "https://cdi.eau-rhin-meuse.fr/GEIDEFile/Interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales_-_FICHE_THEMATIQUE.pdf?Archive=264992408217&File=interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales___FicHe_THeMaTiQue_pdf",
+      "date": "2026-09-24",
+      "extrait": "Les entreprises sont accompagnées via la mobilisation d'aides directes ou d'appels à projets dédiés préalablement définis par l'Agence de l'eau seule ou avec des partenaires. (p. 165) [...] Les collectivités et autres organismes publics (chambres consulaires, ...) qui exercent une activité économique concurrentielle (camping, activité portuaire, ...) pourront être aidés s'ils sont porteurs d'un projet éligible en lien avec cette activité. [...] Les associations et autres organismes privés [...] qui exercent une activité économique concurrentielle pourront être aidés s'ils sont porteurs d'un projet éligible en lien avec cette activité. (p. 166)"
+    },
+    {
+      "champ": "eligibilite (conditions des investissements, microentreprises), infos_complementaires (mise en demeure, haut niveau de protection, SRR)",
+      "url": "https://cdi.eau-rhin-meuse.fr/GEIDEFile/Interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales_-_FICHE_THEMATIQUE.pdf?Archive=264992408217&File=interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales___FicHe_THeMaTiQue_pdf",
+      "date": "2026-09-24",
+      "extrait": "Cas particulier des microentreprises pour la réduction de la pollution classique : actions exclusivement groupées sur les secteurs où enjeu relatif à la pollution classique a été démontré. Les investissements doivent [...] Respecter le principe de « non-dégradation » de l'état des eaux [...] et les technologies mises en place doivent apporter un haut niveau de protection environnementale ; S'inscrire dans les trajectoires de sobriété en eau définies dans le cadre des démarches de gouvernance de l'eau à l'échelle de territoires cohérents (dès lors qu'une structure porteuse de cette gouvernance existe sur le territoire concerné) [...] Pour une activité industrielle soumise réglementairement au régime de Suivi Régulier des Rejets (SRR), l'attribution d'une aide financière (autre que pour la mise en place des moyens nécessaires à l'obtention de l'agrément SRR) est conditionnée à l'obtention de l'agrément, sauf cas d'impossibilité technique. L'Agence de l'eau n'apportera pas d'aide lorsqu'elle est sollicitée pour accompagner un projet permettant de répondre à une mise en demeure réglementaire, sauf si la demande d'aide relative à ce projet est antérieure à la date de l'arrêté de mise en demeure ou s'il s'agit d'une étude rendue obligatoire par l'arrêté de mise en demeure. Si la mise en demeure porte une échéance, l'établissement est inéligible quelle que soit l'échéance. De même, si le Préfet suspend sa mise en demeure pendant un certain temps ou jusqu'à une échéance donnée, il n'est pas tenu compte de la tolérance accordée. Le projet est éligible si la mise en demeure porte sur un volet indépendant de celui qui justifie la demande d'aide ou sur la réalisation d'une étude. (p. 167)"
+    },
+    {
+      "champ": "infos_complementaires (microentreprises, opérations groupées)",
+      "url": "https://cdi.eau-rhin-meuse.fr/GEIDEFile/Interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales_-_FICHE_THEMATIQUE.pdf?Archive=264992408217&File=interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales___FicHe_THeMaTiQue_pdf",
+      "date": "2026-09-24",
+      "extrait": "Sur les secteurs où un enjeu relatif à la pollution classique a été démontré, les microentreprises sont exclusivement accompagnées dans le cadre d'opérations groupées. [...] La maîtrise d'ouvrage publique, les organismes consulaires et professionnels et les autres organismes représentatifs d'activités économiques industrielles, commerciales ou artisanales : Ce public est privilégié pour le portage des actions de connaissance et des actions groupées (études préalables et animation). (p. 166)"
+    },
+    {
+      "champ": "infos_complementaires (minoration de 10 points, adaptation des taux, solutions préventives)",
+      "url": "https://cdi.eau-rhin-meuse.fr/GEIDEFile/Interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales_-_FICHE_THEMATIQUE.pdf?Archive=264992408217&File=interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales___FicHe_THeMaTiQue_pdf",
+      "date": "2026-09-24",
+      "extrait": "5 - CONDITIONS D'APPRÉCIATION DES TAUX D'AIDE. L'Agence de l'eau est susceptible de proposer une adaptation de l'assiette ou/et du taux d'aide de référence affichés en fonction de l'impact ou de l'ambition du projet par rapport aux enjeux environnementaux. [...] Par ailleurs, les projets de réduction des pollutions classiques non prioritaires (hors Plans d'Actions Opérationnels Territorialisés/Programmes de Mesures et/ou situations, à enjeu milieu, associée à un assec ou étiage très sévère ou non-inscrits dans des démarches globales et pluriannuelles (Contrat Industriel Eau et Climat - CIEC)) bénéficient d'un taux d'aide minoré de 10 points par rapport au taux de référence selon la typologie d'action concernée. Plus largement, sont privilégiées, à bénéfice équivalent pour la ressource en eau, lorsqu'elles sont envisageables, les solutions préventives aux solutions curatives (p. 170)"
+    },
+    {
+      "champ": "infos_complementaires (établissement raccordé)",
+      "url": "https://cdi.eau-rhin-meuse.fr/GEIDEFile/Interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales_-_FICHE_THEMATIQUE.pdf?Archive=264992408217&File=interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales___FicHe_THeMaTiQue_pdf",
+      "date": "2026-09-24",
+      "extrait": "Les collectivités pourront notamment être directement aidées pour des investissements liés à la collecte et l'épuration d'eaux usées non domestiques dès lors qu'un établissement industriel se raccorde à son ouvrage d'épuration. (p. 166) [...] TRAITEMENT D'EFFLUENTS NON DOMESTIQUES VERS UNE STATION D'ÉPURATION COLLECTIVE : L'Agence de l'eau exige la transmission d'une autorisation de déversement dans le réseau public et, le cas échéant, d'une convention de raccordement. (p. 178)"
+    },
+    {
+      "champ": "infos_complementaires (zones AFR)",
+      "url": "https://cdi.eau-rhin-meuse.fr/GEIDEFile/Interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales_-_FICHE_THEMATIQUE.pdf?Archive=264992408217&File=interventions_en_matiere_d%E2%80%99actions_de_lutte_contre_les_pressions_generees_par_les_activites_economiques_industrielles_et_artisanales___FicHe_THeMaTiQue_pdf",
+      "date": "2026-09-24",
+      "extrait": "ZONES D'AIDES A FINALITE REGIONALE - AFR (C) [...] Les AFR sont des aides qui contribuent au développement économique et social des régions européennes les plus désavantagées. [...] En France, les zones « c » non prédéfinies sont situées en métropole (Corse comprise). (p. 178)"
+    },
+    {
+      "champ": "infos_complementaires (plateforme Rivage, horaires, numéro vert), ressource (page Nos aides)",
+      "url": "https://www.eau-rhin-meuse.fr/nos-aides",
+      "date": "2026-09-24",
+      "extrait": "Les demandes d'aides sont à formuler sur la plateforme Rivage [...] La plateforme Rivage est accessible du lundi au samedi de 7h30 à 20h. [...] Les équipes de l'agence de l'eau Rhin-Meuse répondent aux sollicitations du lundi au vendredi de 9h à 12h et de 13h30 à 16h30 [...] numéro vert gratuit (0 800 710 325) [...] Guide des aides aux industriels"
+    },
+    {
+      "champ": "infos_complementaires (ressource, page des délibérations)",
+      "url": "https://www.eau-rhin-meuse.fr/nos-deliberations",
+      "date": "2026-09-24",
+      "extrait": "Les actions de l'agence de l'eau Rhin-Meuse sont encadrées par des délibérations, fixant ses modalités d'intervention. [...] Interventions en matière d'actions de lutte contre les pressions générées par les activités économiques industrielles et artisanales"
+    }
+  ],
+  "date_maj": "2026-09-24"
+}

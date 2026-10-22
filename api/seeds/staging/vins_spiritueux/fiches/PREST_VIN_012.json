@@ -1,0 +1,114 @@
+{
+  "id": "PREST_VIN_012",
+  "nom": "A2P Industrie",
+  "type": "installateur",
+  "logo_url": null,
+  "siret": "41948899400049",
+  "description": "Entreprise de froid industriel implantée à Saint-Fons (Rhône), qui conçoit sur mesure des refroidisseurs au propane, des pompes à chaleur et des aéroréfrigérants, les fait construire en Europe par des constructeurs partenaires, puis les installe, les met en service et les entretient. Pour les caves, elle a équipé en 2024 des sites champenois (Épernay, Château-Thierry, Reims) en refroidisseurs et pompe à chaleur pour la thermorégulation de la fermentation, des étapes de production et du dégorgement. Chiffrage et fiche technique par son bureau d'études sur consultation, installation clé en main, contrats de maintenance et location de refroidisseurs.",
+  "expertises": [
+    "Thermorégulation de la fermentation",
+    "Aéroréfrigérants et free cooling",
+    "Installation et mise en service",
+    "Maintenance du froid process"
+  ],
+  "categories": [
+    "ameliorer_efficacite_hydrique"
+  ],
+  "secteurs": [
+    "vins_spiritueux"
+  ],
+  "departements": [
+    "02",
+    "51",
+    "69"
+  ],
+  "mesures": [
+    {
+      "id": "ACT_VIN_004",
+      "roles": [
+        "materiel",
+        "travaux"
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "type": "site_internet",
+      "value": "https://a2p.com/"
+    },
+    {
+      "type": "tel",
+      "value": "04 37 43 20 00"
+    },
+    {
+      "type": "mail",
+      "value": "info@a2p.com"
+    },
+    {
+      "type": "adresse",
+      "value": "Parc d'Activités Lyon Sud, 61 rue Mathieu Dussurgey, 69190 Saint-Fons"
+    },
+    {
+      "type": "linkedin",
+      "value": "https://www.linkedin.com/company/a2p-industrie/"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=A2P%20Industrie&departement=69",
+      "date": "2026-09-28",
+      "extrait": "A2P INDUSTRIE, siret 41948899400049, siège, 61 RUE MATHIEU DUSSURGEY 69190 SAINT-FONS, activité 46.69B, état administratif A"
+    },
+    {
+      "champ": "contacts",
+      "url": "https://a2p.com/contact/",
+      "date": "2026-09-28",
+      "extrait": "Parc d'Activités Lyon Sud, 61, rue Mathieu Dussurgey, 69190 Saint Fons, France. Téléphone : 04 37 43 20 00"
+    },
+    {
+      "champ": "contacts (mail, linkedin)",
+      "url": "https://a2p.com/",
+      "date": "2026-09-28",
+      "extrait": "info@a2p.com ; 04 37 43 20 00 ; Suivez notre actualité sur Linkedin (lien vers linkedin.com/company/a2p-industrie)"
+    },
+    {
+      "champ": "type, description",
+      "url": "https://a2p.com/a2p-presentation/",
+      "date": "2026-09-28",
+      "extrait": "A2P INDUSTRIE distribue et installe des équipements qu'elle conçoit sur-mesure et fait construire exclusivement en Europe par des partenaires certifiés. [...] elle assure la préconisation, la vente, la mise en service et la maintenance d'installations de froid industriel et de thermorégulation."
+    },
+    {
+      "champ": "description, expertises, mesures, secteurs",
+      "url": "https://a2p.com/la-thermoregulation-vinicole-en-champagne-un-vrai-savoir-faire/",
+      "date": "2026-09-28",
+      "extrait": "3 exemples de réalisations 2024. 1. Equipement à EPERNAY : Processus de fermentation, 2 refroidisseurs A2P QUARTZ au propane (R290). 2. Equipement à Château-Thierry : Thermorégulation, 1 pompe à chaleur réversible SILEX 375kW. 3. Equipement à Reims : Dégorgement, 1 refroidisseur A2P QUARTZ au propane (R290)"
+    },
+    {
+      "champ": "expertises, mesures (materiel)",
+      "url": "https://a2p.com/aerorefrigerants-zephir/",
+      "date": "2026-09-28",
+      "extrait": "Intégrés dans des systèmes de freecooling accouplés à un refroidisseur A2P QUARTZ, ils permettent de maintenir une température de consigne [...] Les aéroréfrigérants A2P apportent des solutions éco-responsables, économiques et fiables pour la production d'eau froide."
+    },
+    {
+      "champ": "expertises, mesures (materiel)",
+      "url": "https://a2p.com/refroidisseurs-r290-condenses-a-air/",
+      "date": "2026-09-28",
+      "extrait": "Récupération de chaleur totale ou partielle (condensation à eau montée en série) [...] Module hydraulique complet : pompes avec basculement automatique, cuve intégrée, vase d'expansion, remplissage. Free-cooling intégré ou séparé"
+    },
+    {
+      "champ": "description, expertises, mesures (travaux)",
+      "url": "https://a2p.com/prestation-globale/",
+      "date": "2026-09-28",
+      "extrait": "A2P propose une maîtrise d'œuvre complète d'installations de froid de process [...] l'installation et la mise en service de l'installation de froid, de façon échelonnée pour ne pas arrêter la production [...] Maintenance de l'installation [...] Prêt ou la location de refroidisseurs"
+    },
+    {
+      "champ": "departements",
+      "url": "https://a2p.com/la-thermoregulation-vinicole-en-champagne-un-vrai-savoir-faire/",
+      "date": "2026-09-28",
+      "extrait": "1. Equipement à EPERNAY : Processus de fermentation [...] 2. Equipement à Château-Thierry : Thermorégulation [...] 3. Equipement à Reims : Dégorgement [...] Depuis 1990, A2P INDUSTRIE implantée à Saint-Fons (69)"
+    }
+  ],
+  "date_maj": "2026-09-28"
+}

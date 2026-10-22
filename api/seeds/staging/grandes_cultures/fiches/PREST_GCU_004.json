@@ -1,0 +1,109 @@
+{
+  "id": "PREST_GCU_004",
+  "nom": "Chambre d'agriculture du Gers",
+  "type": "chambre_consulaire",
+  "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792084227/Noe%20assets/logos/PREST_GCU_004.png",
+  "siret": "18320002100016",
+  "description": "Établissement public consulaire des agriculteurs du Gers, basé à Auch. Elle suit en été 15 parcelles de référence en maïs ou soja équipées de sondes tensiométriques et en tire un bulletin d'irrigation hebdomadaire pour chacun des cinq secteurs du département, porte l'organisme unique de gestion collective Neste et rivières de Gascogne, l'un des quatre organismes uniques qui se partagent les secteurs de prélèvement du Gers, qui répartit chaque année les volumes entre les irrigants de son secteur, et forme en une journée aux étapes, aux coûts et au dimensionnement d'un projet de retenue collinaire. Les bulletins se téléchargent sur son site, les demandes d'autorisation passent par l'organisme unique du secteur de prélèvement, et la formation est prise en charge pour les contributeurs VIVEA (217 euros pour les autres publics).",
+  "expertises": [
+    "Bulletins d'irrigation hebdomadaires",
+    "Autorisations de prélèvement (OUGC)",
+    "Bilan hydrique",
+    "Formation projet de retenue collinaire"
+  ],
+  "categories": [
+    "suivre_comprendre_maitriser",
+    "valoriser_reut_eaux_non_conventionnelles",
+    "agir_grand_cycle"
+  ],
+  "secteurs": [
+    "grandes_cultures"
+  ],
+  "departements": [
+    "32"
+  ],
+  "mesures": [
+    {
+      "id": "ACT_GCU_001",
+      "roles": [
+        "conseil_etude"
+      ]
+    },
+    {
+      "id": "ACT_GCU_008",
+      "roles": [
+        "formation"
+      ]
+    },
+    {
+      "id": "ACT_AGR_010",
+      "roles": [
+        "conseil_etude"
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "type": "site_internet",
+      "value": "https://gers.chambres-agriculture.fr/"
+    },
+    {
+      "type": "tel",
+      "value": "05 62 61 77 77"
+    },
+    {
+      "type": "mail",
+      "value": "ca32@gers.chambagri.fr"
+    },
+    {
+      "type": "adresse",
+      "value": "3 chemin de la Caillaouère, CS 70161, 32003 Auch Cedex"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "contacts (tel, mail, adresse)",
+      "url": "https://gers.chambres-agriculture.fr/la-chambre-dagriculture-du-gers/contacts",
+      "date": "2026-10-15",
+      "extrait": "3 Chemin de la Caillaouère CS 70 161 32 003 AUCH Cédex - Tel : 05 62 61 77 77 @ : ca32(at)gers.chambagri.fr"
+    },
+    {
+      "champ": "contacts (site_internet)",
+      "url": "https://gers.chambres-agriculture.fr/",
+      "date": "2026-10-15",
+      "extrait": "Chambre d'agriculture - Gers. S'informer, Se former, Etre accompagné, La Chambre d'agriculture du Gers"
+    },
+    {
+      "champ": "siret, departements",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Chambre%20d%27agriculture%20du%20Gers&departement=32",
+      "date": "2026-10-15",
+      "extrait": "CHAMBRE DEPARTEMENTALE D'AGRICULTURE, siret 18320002100016, siège, MAISON DE L'AGRICULTURE CHEMIN DE LA CAILLAOUERE 32000 AUCH, nature juridique 7381, etat_administratif A"
+    },
+    {
+      "champ": "expertises, mesures (ACT_GCU_001), description",
+      "url": "https://gers.chambres-agriculture.fr/sinformer/produire-et-innover/irrigation",
+      "date": "2026-10-15",
+      "extrait": "La Chambre d'agriculture du Gers accompagne les agriculteurs dans la maîtrise de la ressource en eau et propose des bulletins hydriques. Les bulletins sont réalisés par zones : Adour, Midouze, Nord-Est Neste, Nord Neste, Sud Neste. Cette action repose sur l'observation de 15 parcelles de référence en maïs ou soja durant l'été, équipées de sondes tensiométriques. Cela permet ensuite la diffusion d'un bulletin hebdomadaire sur chacun des 5 secteurs représentatifs qui contient des conseils sur les cultures (maïs, soja, tournesol), un bilan météo avec la prévision des besoins culturaux. Télécharger la fiche \"le bilan hydrique\". Version excel du bilan hydrique"
+    },
+    {
+      "champ": "expertises, mesures (ACT_AGR_010), description",
+      "url": "https://gers.chambres-agriculture.fr/sinformer/comprendre-la-reglementation/gestion-quantitative-de-leau/les-demarches-pour-irriguer",
+      "date": "2026-10-15",
+      "extrait": "Sur le département du Gers, quatre organismes uniques ont été désignés suivant les secteurs de prélèvement : L'Organisme Unique Neste et Rivières de Gascogne porté par la Chambre d'Agriculture du Gers, dans le cadre d'un Service Commun avec les Chambres d'Agriculture des Hautes Pyrénées, Haute Garonne, Tarn et Garonne, Lot et Garonne et Landes. L'Organisme Unique Irrigadour. L'Organisme Unique Garonne Amont. L'Organisme Unique Garonne Aval. Chaque année, l'OUGC collecte les besoins des préleveurs-irrigants, et les volumes utilisés sur la campagne précédente. Il répartit ensuite les volumes à tous les irrigants. En cours de campagne d'irrigation, l'OUGC participe à la gestion collective de la ressource en eau. Arrêté préfectoral portant approbation du plan annuel de répartition 2026-2027"
+    },
+    {
+      "champ": "expertises, mesures (ACT_GCU_008), description",
+      "url": "https://gers.chambres-agriculture.fr/se-former/notre-offre-de-formation/detail-de-formation/etudier-son-projet-global-dirrigation",
+      "date": "2026-10-15",
+      "extrait": "Etudier son projet de retenue collinaire. Appréhendez les aspects technico-économiques de la création ou l'agrandissement de plan d'eau pour accéder plus facilement à la ressource en eau. Durée 1 jour(s). Contributeurs VIVEA et porteurs de projet : formation intégralement prise en charge (prescription PPP). Autres publics : 217 € net de Taxes. Le dimensionnement d'un projet de plan d'eau en fonction de la pluviométrie et des bassins versants. Les étapes administratives, les coûts et financements éventuels de son projet de création ou d'agrandissement de plan d'eau."
+    },
+    {
+      "champ": "logo_url",
+      "url": "https://gers.chambres-agriculture.fr/fileadmin/_processed_/d/a/csm_CA_GERS_V_NOIR_38b091a92a.webp",
+      "date": "2026-10-15",
+      "extrait": "Logo vertical noir de la Chambre d'agriculture du Gers, affiché sur gers.chambres-agriculture.fr"
+    }
+  ],
+  "date_maj": "2026-10-15"
+}

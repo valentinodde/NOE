@@ -1,0 +1,65 @@
+{
+  "id": "PREST_HUI_012",
+  "nom": "GreenFlex",
+  "type": "bureau_etudes",
+  "logo_url": null,
+  "siret": "51184084500149",
+  "description": "Société de conseil et d'ingénierie en énergie et environnement, aujourd'hui rattachée au groupe Oteis, avec des bureaux dans neuf villes françaises dont Lille, Lyon et Aix-en-Provence. Son offre efficacité hydrique commence par un état des lieux des consommations et des usages d'eau, puis une feuille de route et des études de faisabilité, notamment pour réutiliser les eaux usées traitées ou récupérer les eaux de pluie, et peut aller jusqu'à la réalisation en assistance à maîtrise d'ouvrage ou en clé en main. Dans le secteur, elle a renouvelé en clé en main les installations de refroidissement du process de l'usine Lesieur de Coudekerque-Branche, projet présenté sous l'angle énergie. Contact par le formulaire du site.",
+  "expertises": [
+    "État des lieux des consommations d'eau",
+    "Feuille de route eau et énergie",
+    "Faisabilité réutilisation des eaux usées",
+    "Froid industriel clé en main"
+  ],
+  "categories": [
+    "suivre_comprendre_maitriser",
+    "valoriser_reut_eaux_non_conventionnelles"
+  ],
+  "secteurs": ["industrie_huiles"],
+  "departements": [],
+  "mesures": [
+    { "id": "ACT_AGR_002", "roles": ["conseil_etude"] },
+    { "id": "ACT_HUI_005", "roles": ["conseil_etude"] },
+    { "id": "ACT_AGR_006", "roles": ["conseil_etude"] }
+  ],
+  "contacts": [
+    { "type": "site_internet", "value": "https://www.greenflex.com/offres/multi-expertises/efficacite-hydrique/" },
+    { "type": "tel", "value": "01 40 22 14 60" },
+    { "type": "mail", "value": "contact@greenflex.com" },
+    { "type": "adresse", "value": "7-11 boulevard Haussmann, 75009 Paris" }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=GreenFlex&departement=75",
+      "date": "2026-09-27",
+      "extrait": "GREENFLEX (ETHICITY - BECITIZEN - EVEIO), siret 51184084500149, siège, 7-11 7 BOULEVARD HAUSSMANN 75009 PARIS, activité 70.22Z, état administratif A"
+    },
+    {
+      "champ": "contacts, description",
+      "url": "https://www.greenflex.com/mentions-legales/",
+      "date": "2026-09-27",
+      "extrait": "R.C.S. Paris 511 840 845 [...] 7-11 boulevard Haussmann [...] 75009 Paris [...] Téléphone : +33 (0)1 40 22 14 60 [...] E-mail : contact@greenflex.com [...] La Société qui a créé ce site internet appartient au groupe Oteis."
+    },
+    {
+      "champ": "departements, description",
+      "url": "https://www.greenflex.com/qui-sommes-nous/",
+      "date": "2026-09-27",
+      "extrait": "Notre présence en Europe et en France : GreenFlex Paris, Strasbourg, Lille, Rennes, Nantes, Bordeaux, Toulouse, Aix-en-Provence (13290), Lyon"
+    },
+    {
+      "champ": "mesures, expertises, description, contacts",
+      "url": "https://www.greenflex.com/offres/multi-expertises/efficacite-hydrique/",
+      "date": "2026-09-27",
+      "extrait": "GreenFlex vous aide à réduire vos consommations et à réutiliser vos eaux usées. [...] Soyez plus autonome en réutilisant vos eaux usées traitées, en récupérant vos eaux de pluie [...] Nous réalisons un état des lieux de vos consommations et de vos usages actuels [...] nous élaborons une feuille de route opérationnelle et d'investissements. [...] Nos équipes analysent la faisabilité technique, économique et juridique des projets identifiés. [...] nous agissons en tant que contractant général, des études de faisabilité et de conception à la réception des travaux"
+    },
+    {
+      "champ": "expertises, description",
+      "url": "https://www.greenflex.com/projets/references/renouvellement-installations-froid-revalorisation-chaleur-fatale-lesieur/",
+      "date": "2026-09-27",
+      "extrait": "l'usine historique du Groupe Lesieur est celle de Coudekerque-Branche, près de Dunkerque [...] Renouvellement des installations de refroidissement du process [...] les études de conception, la fourniture et la réalisation des travaux ainsi que la valorisation des Certificats d'Economies d'Energie"
+    }
+  ],
+  "date_maj": "2026-09-27"
+}

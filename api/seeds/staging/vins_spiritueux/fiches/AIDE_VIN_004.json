@@ -1,0 +1,172 @@
+{
+  "id": "AIDE_VIN_004",
+  "nom": "Financement de la formation des salariés par OCAPIAT au titre du plan de développement des compétences : catalogue régional et offre Boost Compétences",
+  "financeur": "OCAPIAT, opérateur de compétences (OPCO) de la coopération agricole, de l'agriculture, de la pêche, de l'industrie agroalimentaire et des territoires",
+  "logo_url": null,
+  "type": "subvention",
+  "taux": "Catalogue régional : 100 % des coûts pédagogiques pour les entreprises de moins de 50 salariés. Formation hors catalogue (Boost Compétences) : 50 % des coûts pédagogiques",
+  "plafond": "Boost Compétences : coûts pédagogiques éligibles retenus dans la limite de 1 500 € HT par stagiaire et par dossier, soit une prise en charge de 750 € HT au plus par stagiaire et par dossier ; coût pédagogique horaire plafonné à 40 €/h. Catalogue régional : pas de plafond indiqué sur la page du dispositif",
+  "description": "OCAPIAT finance sur ses fonds mutualisés, au titre du plan de développement des compétences, la formation des salariés des entreprises de son périmètre, dont les entreprises des vins et spiritueux et les caves coopératives vinicoles. Deux voies : le catalogue de l'offre régionale (plus de 3 500 formations courtes, dont une formation « Raisonner et maîtriser ses opérations d'hygiène en cave » qui traite des techniques de nettoyage des chais et de la gestion de l'eau), et l'offre Boost Compétences, qui cofinance pour les entreprises de moins de 50 salariés une formation externe choisie librement (thème, organisme certifié Qualiopi, calendrier) quand le catalogue n'y répond pas. OCAPIAT présente la formation des salariés comme un levier des plans de réduction des flux d'énergie, de matières, d'eau et de déchets.",
+  "eligibilite": "Entreprises relevant du champ d'OCAPIAT, déterminé par la convention collective (IDCC) : notamment la convention nationale des vins, cidres, jus de fruits, sirops, spiritueux et liqueurs (IDCC 0493), les caves coopératives vinicoles (IDCC 7005), les distilleries viticoles coopératives (IDCC 7503) et la production agricole. Le catalogue est ouvert prioritairement aux entreprises de moins de 50 salariés, et sur contribution volontaire à celles de 50 salariés et plus ; Boost Compétences est réservé aux entreprises de moins de 50 salariés.",
+  "categories": [
+    "sensibiliser_former"
+  ],
+  "secteurs": [
+    "vins_spiritueux"
+  ],
+  "departements": [],
+  "agences": [],
+  "mesures": [
+    "ACT_VIN_001"
+  ],
+  "infos_complementaires": [
+    {
+      "type": "avertissement",
+      "texte": "Boost Compétences : la demande de prise en charge se dépose sur votre espace en ligne OCAPIAT avant le démarrage de la formation, au plus tôt 2 mois avant et au plus tard le premier jour. Une demande déposée après ce délai est refusée. Les justificatifs (convention ou devis, facture, certificat de réalisation) sont à déposer au plus tard 3 mois après la fin de la formation, sinon l'accord devient caduc.",
+      "lien": "https://www.ocapiat.fr/financement-sur-mesure-par-lopco-simulateur-boost-competences/",
+      "lien_label": "Page Boost Compétences"
+    },
+    {
+      "type": "avertissement",
+      "texte": "Ces financements ne sont ouverts qu'aux entreprises du périmètre d'OCAPIAT. Vérifiez le code IDCC de votre convention collective sur le site d'OCAPIAT avant d'engager une formation.",
+      "lien": "https://www.ocapiat.fr/verifier-par-secteur-lappartenance-dune-entreprise-a-ocapiat/",
+      "lien_label": "Vérifier l'appartenance à OCAPIAT"
+    },
+    {
+      "type": "info",
+      "texte": "Au catalogue, la formation « Raisonner et maîtriser ses opérations d'hygiène en cave » de l'EPLEFPA de Nîmes-Rodilhan (7 heures) vise la maîtrise des techniques de nettoyage et de désinfection des chais et aborde les matières actives et la gestion de l'eau ; elle s'adresse à tout public travaillant en cave coopérative ou individuelle. Elle n'est proposée qu'en Occitanie et, au 28 septembre 2026, aucune session n'y était ouverte. Hors Occitanie, ou faute de session, une formation équivalente auprès d'un organisme certifié Qualiopi se finance par Boost Compétences (formation hors catalogue)."
+    },
+    {
+      "type": "info",
+      "texte": "Catalogue régional : vous recherchez la formation sur le portail de l'offre régionale, puis vous inscrivez en ligne votre salarié, ou vous mandatez un centre de formation référencé, sous réserve de son accord. Si la formation n'existe pas au catalogue, OCAPIAT oriente vers l'action de formation hors catalogue (Boost Compétences)."
+    },
+    {
+      "type": "info",
+      "texte": "Boost Compétences fonctionne en remboursement : l'entreprise règle l'organisme de formation, puis OCAPIAT lui rembourse par virement les coûts accordés après réception des justificatifs. La formation doit être externe, délivrée par un organisme certifié Qualiopi, d'une durée minimale de 3 h 30 en continu. Plusieurs demandes sont possibles dans l'année, dans la limite des fonds disponibles. Les formations internes relèvent d'une offre distincte, « Formations internes »."
+    },
+    {
+      "type": "info",
+      "texte": "Pour les salariés de 50 ans et plus des entreprises de moins de 50 salariés, OCAPIAT prend aussi en charge la rémunération à hauteur du SMIC horaire brut chargé fixé à 12 € de l'heure, pour les formations du catalogue comme pour Boost Compétences, dans la limite du montant des coûts pédagogiques pris en charge."
+    },
+    {
+      "type": "ressource",
+      "texte": "Page du catalogue de formations et de son financement sur le site d'OCAPIAT",
+      "lien": "https://www.ocapiat.fr/catalogue-de-formations-et-financement/"
+    },
+    {
+      "type": "ressource",
+      "texte": "Portail de recherche et d'inscription de l'offre régionale OCAPIAT",
+      "lien": "https://offredeformation.ocapiat.fr/catalogui/#/home"
+    },
+    {
+      "type": "ressource",
+      "texte": "Page de l'offre Boost Compétences (formations hors catalogue) sur le site d'OCAPIAT",
+      "lien": "https://www.ocapiat.fr/financement-sur-mesure-par-lopco-simulateur-boost-competences/"
+    },
+    {
+      "type": "ressource",
+      "texte": "Page d'OCAPIAT sur le plan de développement des compétences des entreprises de moins de 50 salariés",
+      "lien": "https://www.ocapiat.fr/plan-developpement-competences/"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "financeur",
+      "url": "https://www.ocapiat.fr/catalogue-de-formations-et-financement/",
+      "date": "2026-09-28",
+      "extrait": "OCAPIAT est l'Opérateur de Compétences (OPCO) pour la Coopération agricole, l'Agriculture, la Pêche, l'Industrie Agroalimentaire et les Territoires."
+    },
+    {
+      "champ": "eligibilite",
+      "url": "https://www.ocapiat.fr/verifier-par-secteur-lappartenance-dune-entreprise-a-ocapiat/",
+      "date": "2026-09-28",
+      "extrait": "Toute entreprise, salarié, association, syndicat… appartenant à nos branches professionnelles adhérentes peut bénéficier des services d'OCAPIAT. Liste des secteurs adhérents [...] Production agricole et CUMA [...] Vins, cidres, jus de fruits, sirops, spiritueux et liqueurs [...] Coopératives Vinicoles"
+    },
+    {
+      "champ": "eligibilite (codes IDCC)",
+      "url": "https://www.legifrance.gouv.fr/conv_coll/article/KALIARTI000038908043",
+      "date": "2026-09-28",
+      "extrait": "Accord professionnel du 18 décembre 2018 relatif à l'OPCO (OCAPIAT), article 2, champ d'application professionnel : IDCC 0493. Les entreprises relevant de la convention collective nationale des vins, cidres jus de fruits, sirop, spiritueux et liqueurs. [...] IDCC 7005. Caves coopératives vinicoles. [...] IDCC 7503. Distilleries viticoles (coopératives et unions) et distillation (SICA)."
+    },
+    {
+      "champ": "eligibilite",
+      "url": "https://www.ocapiat.fr/catalogue-de-formations-et-financement/",
+      "date": "2026-09-28",
+      "extrait": "Le catalogue de formation de l'offre régionale est accessible : Uniquement aux entreprises du périmètre d'OCAPIAT. Prioritairement aux entreprises < 50 salariés. Sur contribution volontaire, aux entreprises de 50 salariés et plus."
+    },
+    {
+      "champ": "type, taux, description",
+      "url": "https://www.ocapiat.fr/catalogue-de-formations-et-financement/",
+      "date": "2026-09-28",
+      "extrait": "Financement sur fonds mutualisés d'OCAPIAT au titre du dispositif plan de développement des compétences. Coûts pédagogiques financés à 100 % pour les entreprises de moins de 50 salariés."
+    },
+    {
+      "champ": "description, infos_complementaires",
+      "url": "https://www.ocapiat.fr/catalogue-de-formations-et-financement/",
+      "date": "2026-09-28",
+      "extrait": "D'accéder à plus de 3 500 formations de courte durée sélectionnées par OCAPIAT. [...] J'inscris en ligne mon salarié via le portail de l'offre régionale ou j'ai la possibilité de mandater un centre de formation référencé sur l'offre régionale sous réserve de son accord. [...] La formation recherchée n'existe pas dans le catalogue ? Action de formation hors catalogue"
+    },
+    {
+      "champ": "infos_complementaires (portail)",
+      "url": "https://www.ocapiat.fr/catalogue-de-formations-et-financement/",
+      "date": "2026-09-28",
+      "extrait": "Via le portail de recherche en ligne : accédez à toutes les formations disponibles grâce à un moteur de recherche performant. Accéder au portail (lien vers https://offredeformation.ocapiat.fr/catalogui/#/home)"
+    },
+    {
+      "champ": "infos_complementaires",
+      "url": "https://www.ocapiat.fr/catalogue-de-formations-et-financement/",
+      "date": "2026-09-28",
+      "extrait": "Prise en charge de la rémunération pour les salariés expérimentés (50 ans et plus) à hauteur de 12€ stagiaire. Prise en charge des salaires plafonnée au montant des coûts pédagogiques pris en charge par l'OPCO."
+    },
+    {
+      "champ": "taux, plafond, description, eligibilite",
+      "url": "https://www.ocapiat.fr/financement-sur-mesure-par-lopco-simulateur-boost-competences/",
+      "date": "2026-09-28",
+      "extrait": "BOOST Compétences permet aux entreprises de moins de 50 salariés de se faire financer en partie les formations de leur choix concernant le thème, l'intervenant, le lieu et le calendrier de mise en oeuvre. [...] Prise en charge des coûts pédagogiques : 50 % des coûts pédagogiques demandés plafonnés à 750 € par stagiaire. Coût pédagogique horaire plafonné à 40 € /h"
+    },
+    {
+      "champ": "infos_complementaires",
+      "url": "https://www.ocapiat.fr/financement-sur-mesure-par-lopco-simulateur-boost-competences/",
+      "date": "2026-09-28",
+      "extrait": "Ma demande est à réaliser impérativement via mon service en ligne Mon Compte et au préalable du démarrage de l'action : au plus tôt dans les 2 mois précédant l'action et au plus tard le 1er jour de la formation [...] au plus tard 3 mois après la date de fin de ma formation externe (sinon l'accord de prise en charge devient caduc)"
+    },
+    {
+      "champ": "infos_complementaires",
+      "url": "https://www.ocapiat.fr/financement-sur-mesure-par-lopco-simulateur-boost-competences/",
+      "date": "2026-09-28",
+      "extrait": "Soutenir l'investissement des entreprises de moins de 50 salariés lorsqu'elles réalisent librement une action de formation externe d'une durée minimale de 3h30 en continu. [...] OCAPIAT me rembourse directement par virement les coûts pédagogiques [...] Plusieurs demandes préalables de prise en charge sont possibles dans l'année dans la limite des fonds disponibles. [...] pour la prise en charge des formations et AFEST internes, se reporter désormais à la nouvelle offre dédiée « Formations internes »"
+    },
+    {
+      "champ": "infos_complementaires",
+      "url": "https://www.ocapiat.fr/financement-sur-mesure-par-lopco-simulateur-boost-competences/",
+      "date": "2026-09-28",
+      "extrait": "Prise en charge des salaires : Prise en charge de 12 €/h pour les salariés expérimentés de 50 ans et plus. Prise en charge des salaires plafonnée au montant des coûts pédagogiques pris en charge par l'OPCO."
+    },
+    {
+      "champ": "description, mesures (ACT_VIN_001)",
+      "url": "https://www.ocapiat.fr/transition-ecologique-adaptez-votre-entreprise/",
+      "date": "2026-09-28",
+      "extrait": "Pourquoi vouloir développer ou renforcer les compétences de vos salariés dans le cadre d'un plan d'action et de réduction de flux d'énergie, matières, eau et déchets"
+    },
+    {
+      "champ": "description, infos_complementaires, mesures (ACT_VIN_001)",
+      "url": "https://wspub.ocapiat.fr/wsapicatalog/api/Formations/40829",
+      "date": "2026-09-28",
+      "extrait": "\"objectif\":\"Maitriser les techniques de nettoyage et de désinfection des chais\",\"contenu\":\"Distinction entre nettoyage et désinfection , Les techniques mises en ¿uvre , Les matières actives et la gestion de l'eau\",\"publicVise\":\"Tout public travaillant ou souhaitant travailler en cave coopérative ou individuelle\" [...] \"libelle\":\"Raisonner et maîtriser ses opérations d'hygiène en cave\" [...] \"libelle\":\"EPLEFPA DE NÎMES RODILHAN\" [...] \"libelle\":\"Occitanie\" [...] \"duree\":7.0 [...] \"nombreSessionsOuvertes\":0"
+    },
+    {
+      "champ": "plafond",
+      "url": "https://www.ocapiat.fr/formations-hors-catalogue/",
+      "date": "2026-09-28",
+      "extrait": "50 % des coûts pédagogiques/\"pédagogiques divers\" (coût du formateur) (éligibles sur la base de 1 500 € HT / stagiaire / dossier). Les 50% correspondent donc à une prise en charge nette d'OCAPIAT d'un montant maximum de 750 € HT / stagiaire / dossier) Et dans la limite des fonds disponibles"
+    },
+    {
+      "champ": "infos_complementaires (rémunération 12 €/h)",
+      "url": "https://www.ocapiat.fr/plan-developpement-competences/",
+      "date": "2026-09-28",
+      "extrait": "Pour tous les secteurs, un soutien au départ en formation des salariés de 50 ans et plus. Prise en charge de la rémunération, à hauteur du SMIC horaire brut chargé fixé à 12 €/h, pour les salariés de 50 ans et plus des entreprises de moins de 50 salarié. Cette mesure financière s'applique aux dispositifs Boost compétences et du catalogue de formations \"offre régionale\"."
+    }
+  ],
+  "date_maj": "2026-09-28"
+}

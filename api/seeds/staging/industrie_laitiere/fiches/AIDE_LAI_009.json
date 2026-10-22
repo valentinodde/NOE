@@ -1,0 +1,122 @@
+{
+  "id": "AIDE_LAI_009",
+  "nom": "ECO3, sobriété en eau des activités industrielles et économiques (agence de l'eau Rhône Méditerranée Corse, 12e programme)",
+  "financeur": "Agence de l'eau Rhône Méditerranée Corse",
+  "logo_url": null,
+  "type": "subvention",
+  "taux": "Subvention, à des taux maximaux. En cadre individuel, jusqu'à 40 % pour les études comme pour les travaux d'économie d'eau portant sur plus de 2 000 m3 par an, et jusqu'à 50 % pour la recherche, le développement et l'innovation sur des dispositifs d'économies d'eau. Ces deux taux sont majorés en fonction de la taille de l'entreprise : +10 % pour les moyennes entreprises, +20 % pour les petites entreprises.",
+  "plafond": "Pour les travaux, l'assiette est plafonnée à 40 € par m3 économisé par an.",
+  "description": "Fiche aide ECO3 du 12e programme de l'agence de l'eau Rhône Méditerranée Corse, version 1 adoptée par le conseil d'administration du 19 décembre 2024 (délibération 2024-38). Elle finance les études, état des lieux et diagnostics sur site des consommations d'eau et études préalables aux travaux, les actions de réduction des pertes en eau (réduction des fuites sur les réseaux, gestion de la pression), la mise en oeuvre de technologies économes en eau (changement de process, recyclage, régulation, modernisation des réseaux et des équipements, dispositifs de pilotage, télégestion et sectorisation incluant des dispositifs hydro-économes et des compteurs), la mise en oeuvre de technologie pour traiter l'eau usée en vue d'une réutilisation, d'un recyclage ou d'un réemploi sur le site industriel en lien avec des économies d'eau, les dispositifs de récupération des eaux pluviales, ainsi que les projets de recherche, de développement ou d'innovation portant sur des dispositifs d'économie d'eau.",
+  "eligibilite": "Acteurs économiques non agricoles (industries, sociétés, entreprises, coopératives) et organismes de recherche, sur tous les territoires des bassins Rhône-Méditerranée et de Corse. Les opérations doivent se traduire par une diminution effective des prélèvements dans le milieu au point de prélèvement ou sur le réseau d'eau potable. En cadre individuel, l'économie visée doit dépasser 2 000 m3 par an ; en deçà, le projet n'est aidé que dans le cadre de démarches collectives de branche ou de filière, via un appel à projets. La demande d'aide doit être formellement transmise à l'agence avant l'engagement du projet, sous peine de rejet.",
+  "categories": [
+    "suivre_comprendre_maitriser",
+    "ameliorer_efficacite_hydrique",
+    "valoriser_reut_eaux_non_conventionnelles"
+  ],
+  "secteurs": [
+    "industrie_laitiere"
+  ],
+  "departements": [],
+  "agences": [
+    "AERMC"
+  ],
+  "mesures": [
+    "ACT_AGR_002",
+    "ACT_LAI_003",
+    "ACT_LAI_004",
+    "ACT_LAI_006"
+  ],
+  "infos_complementaires": [
+    {
+      "type": "avertissement",
+      "texte": "Sous 2 000 m3 d'économie par an, un atelier sort du guichet individuel : les actions d'économie d'eau inférieures à ce seuil ne sont aidées que dans le cadre de démarches collectives de branche ou de filière, via un appel à projets. Pour une petite fromagerie, la voie d'accès passe donc par une opération portée par la filière ou le territoire."
+    },
+    {
+      "type": "avertissement",
+      "texte": "Poser des compteurs divisionnaires n'est pas finançable en tant que tel sur ce bassin : les dispositifs de comptage seuls, sans lien avec un projet d'étude ou de travaux, figurent parmi les dépenses non éligibles. Les compteurs ne sont pris en charge que comme composante d'un projet plus large de pilotage, de télégestion ou de sectorisation. À l'inverse, l'aide aux travaux est conditionnée à l'existence d'un comptage des prélèvements, ou au dépôt simultané d'une demande d'aide pour l'installer, afin de démontrer à terme l'atteinte de l'objectif d'économie annoncé."
+    },
+    {
+      "type": "avertissement",
+      "texte": "La demande d'aide doit être formellement transmise à l'agence avant l'engagement du projet. Le non-respect de cette disposition entraîne le rejet de la demande, sauf accord écrit préalable de l'agence pour engager les travaux, opération inscrite au plan d'action d'un contrat signé avec l'agence, ou actions préalables nécessaires à la préparation du dossier ou à la définition des travaux."
+    },
+    {
+      "type": "avertissement",
+      "texte": "Le renouvellement des ouvrages à l'identique n'est pas éligible. L'opération doit se traduire par une diminution effective des prélèvements au point de prélèvement ou sur le réseau d'eau potable."
+    },
+    {
+      "type": "info",
+      "texte": "La fiche ECO3 écrit la majoration de taille sous la forme « +10 % » et « +20 % » sans préciser s'il s'agit de points de taux ou d'une majoration proportionnelle. Faites confirmer le calcul par l'agence avant d'arrêter un prévisionnel."
+    },
+    {
+      "type": "info",
+      "texte": "Le taux de 50 % pour la recherche et le développement suppose un lien avec des industriels des bassins Rhône-Méditerranée et Corse. Si le projet est porté par le fournisseur de la solution, l'aide est conditionnée à une participation financière de ces industriels d'au moins 10 % du montant global du projet. S'il est porté par un organisme de recherche, elle est conditionnée à l'association d'un ou plusieurs industriels des bassins."
+    },
+    {
+      "type": "info",
+      "texte": "Quatre types d'opérations relèvent d'autres fiches aides que ECO3 et ne sont pas couverts ici : les actions d'économie d'eau en cadre groupé dans le cadre d'un appel à projets, les projets de substitution, la réutilisation des eaux usées traitées lorsqu'elle profite à des acteurs extérieurs au site, et les têtes de réseau."
+    },
+    {
+      "type": "info",
+      "texte": "Les aides sont attribuées sous forme de subventions. Une partie ou la totalité peut être convertie en avance remboursable à la demande du bénéficiaire, mais ces avances ne sont accordées qu'aux personnes morales de droit public : une entreprise privée n'y a pas accès."
+    },
+    {
+      "type": "info",
+      "texte": "Au solde de l'aide, l'agence demande la publicité de son soutien pour tout projet, et la fourniture du rapport d'étude pour les études."
+    },
+    {
+      "type": "ressource",
+      "texte": "Fiche aide ECO3, sobriété en eau des activités industrielles et économiques (délibération 2024-38)",
+      "lien": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/eco3-sobriete-industriels.pdf"
+    },
+    {
+      "type": "ressource",
+      "texte": "Conditions générales d'attribution et de versement des aides du 12e programme (délibération 2024-77)",
+      "lien": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-02/conditions-generales.pdf"
+    },
+    {
+      "type": "ressource",
+      "texte": "Les aides du 12e programme de l'agence de l'eau Rhône Méditerranée Corse",
+      "lien": "https://www.eaurmc.fr/jcms/pro_127118/fr/les-aides-du-12e-programme"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "nom, taux, plafond, eligibilite",
+      "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/eco3-sobriete-industriels.pdf",
+      "date": "2026-09-22",
+      "extrait": "ECO3 - Sobriété en eau des activités industrielles et économiques. Version 1 adoptée par le conseil d'administration du 19 décembre 2024, Délibération 2024-38. TYPES D'ACTIONS / TAUX MAXIMUM. Dans un cadre individuel : études et travaux d'économie d'eau supérieure à 2 000 m3/an : 40 % *. Recherche, développement, innovation pour des dispositifs d'économies d'eau : 50 % *. * Majoration en fonction de la taille de l'entreprise : +10 % pour les moyennes entreprises, +20% pour les petites entreprises. [...] Bénéficiaires éligibles : Acteurs économiques non agricoles (industries, sociétés, entreprises, coopératives...) ; Organismes de recherche. Territoires éligibles : Tous les territoires des bassins Rhône Méditerranée et de Corse. [...] Pour les travaux, l'assiette est plafonnée à hauteur de 40 €/m3 économisé/an."
+    },
+    {
+      "champ": "description, mesures",
+      "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/eco3-sobriete-industriels.pdf",
+      "date": "2026-09-22",
+      "extrait": "Actions et dépenses éligibles : Études : état des lieux et diagnostics sur site des consommations d'eau, études préalables aux travaux. Actions de réduction des pertes en eau : réduction des fuites sur les réseaux, gestion de la pression. Mise en oeuvre de technologies économes en eau : changement de process, recyclage, régulation, modernisation des réseaux et des équipements, dispositifs de pilotage, télégestion et sectorisation incluant des dispositifs hydro-économes et des compteurs. Mise en oeuvre de technologie pour traiter l'eau usée pour une réutilisation, recyclage, réemploi sur le site industriel en lien avec des économies d'eau. Dispositifs de récupération des eaux pluviales. Projets de recherche, développement ou innovation pour des dispositifs d'économie d'eau."
+    },
+    {
+      "champ": "eligibilite, infos_complementaires (comptage non éligible seul, seuil, renouvellement)",
+      "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/eco3-sobriete-industriels.pdf",
+      "date": "2026-09-22",
+      "extrait": "Actions et dépenses non éligibles : Dispositifs de comptage seuls (sans lien avec un projet d'étude ou de travaux) ; Renouvellement des ouvrages à l'identique. Conditions d'aides : Les opérations d'économies d'eau doivent se traduire par une diminution effective des prélèvements dans le milieu au point de prélèvement ou sur le réseau d'eau potable. Pour les travaux, les aides sont conditionnées à l'existence de dispositifs de comptage des prélèvements ou à la présentation simultanée d'une demande d'aide pour l'installation d'un tel dispositif, permettant de démontrer à terme l'atteinte de l'objectif d'économie annoncé. Les actions d'économie d'eau inférieures à 2 000 m3/an sont aidées uniquement dans le cadre de démarches collectives de branche ou de filière, via un appel à projets."
+    },
+    {
+      "champ": "infos_complementaires (conditions R&D, autres fiches aides, conditions de solde)",
+      "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/eco3-sobriete-industriels.pdf",
+      "date": "2026-09-22",
+      "extrait": "Les projets R&D doivent être en lien avec des industriels situés sur les bassins Rhône Méditerranée et Corse : En cas de portage du projet par le fournisseur de la solution, l'aide est conditionnée à une participation financière des industriels des bassins Rhône Méditerranée et Corse impliqués dans l'étude, et ce à hauteur minimale de 10% du montant global du projet ; En cas de portage du projet par un organisme de recherche, l'aide est conditionnée à l'association d'un ou plusieurs industriels situés sur les bassins Rhône Méditerranée et Corse. [...] Types d'actions relevant d'autres fiches aides : Actions d'économie d'eau dans un cadre groupé, dans le cadre d'un appel à projets : se référer à la fiche relative aux opérations sectorielles ; Projets de substitution ; Réutilisation des eaux usées traitées (dans le cas de réutilisation par des acteurs extérieurs au site) ; Têtes de réseau : se référer à la fiche relative à la gouvernance locale de l'eau et aux têtes de réseau. [...] Conditions de solde de l'aide. Pour tout projet : Publicité des aides de l'agence [...] Pour les études : Fourniture du rapport d'étude."
+    },
+    {
+      "champ": "type, eligibilite (dépôt avant engagement), infos_complementaires (avances remboursables)",
+      "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-02/conditions-generales.pdf",
+      "date": "2026-09-22",
+      "extrait": "Conditions générales d'attribution et de versement des aides. Version 1 adoptée par le conseil d'administration du 19 décembre 2024, Délibération 2024-77. Les aides sont attribuées sous forme de subventions, soit proportionnelles à l'assiette retenue pour le projet, soit forfaitaires pour les interventions prévues sous cette forme. La totalité ou une partie de l'aide prévue sous forme de subvention peut être convertie en avance remboursable à la demande du bénéficiaire. [...] Une demande d'aide doit être formellement transmise à l'agence avant l'engagement du projet considéré. Le non-respect de cette disposition entraîne le rejet de la demande d'aide, sauf dans les cas suivants : accord écrit préalable de l'agence pour engager les travaux avant le dépôt formel de la demande ; opérations inscrites dans le plan d'action d'un contrat signé avec l'agence [...] ; actions préalables, nécessaires à la préparation du dossier de demande d'aide, ou à la définition des travaux pour les aides relatives à des travaux [...] Les avances remboursables sont accordées uniquement aux personnes morales de droit public."
+    },
+    {
+      "champ": "description (programme en vigueur)",
+      "url": "https://www.eaurmc.fr/jcms/pro_127118/fr/les-aides-du-12e-programme",
+      "date": "2026-09-22",
+      "extrait": "Les aides du 12e programme. Le programme d'action Sauvons l'eau ! s'étale sur 6 ans, avec 50 % des aides du programme consacrées à l'adaptation des territoires face aux effets du changement climatique."
+    }
+  ],
+  "date_maj": "2026-09-22"
+}

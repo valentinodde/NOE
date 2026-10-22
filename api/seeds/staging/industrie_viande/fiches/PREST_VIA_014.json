@@ -1,0 +1,104 @@
+{
+  "id": "PREST_VIA_014",
+  "nom": "Groupe Ovalt",
+  "type": "installateur",
+  "logo_url": "https://groupe-ovalt.com/wp-content/uploads/2022/11/OVALT_logo_web-300x127.png",
+  "siret": "82464676400020",
+  "description": "Groupe de quatre entreprises (CIP Automation, ID Automation, OET Automation, PGC) sur trois sites, dont le siège est à Betton (35), qui intervient en électricité, automatisation, pilotage et supervision avancée sur l'ensemble des procédés de transformation de la viande, depuis l'abattage jusqu'au conditionnement. Il intervient dans les procédés de nettoyage en place (NEP), développe des systèmes de lavage entièrement automatisés et accompagne la réutilisation des eaux de lavage, lorsque c'est possible d'un point de vue sanitaire, ainsi que la valorisation des coproduits issus du nettoyage des eaux grasses ; il conçoit aussi des machines spéciales clés en main (pliage et palettisation des cuirs de bovins, mise en barquette et palettisation en fin de ligne d'abattage). Couverture saisie d'après ses trois implantations (Lamballe, Betton, Locminé) ; demande de projet ou de maintenance par le formulaire de contact du site ou par téléphone au siège.",
+  "expertises": [
+    "Automatisation et supervision de lignes",
+    "Systèmes de lavage automatisés",
+    "Réutilisation des eaux de lavage",
+    "Traçabilité MES et RFID"
+  ],
+  "categories": [
+    "valoriser_reut_eaux_non_conventionnelles",
+    "agir_rejets_qualite"
+  ],
+  "secteurs": [
+    "industrie_viande"
+  ],
+  "departements": [
+    "22",
+    "35",
+    "56"
+  ],
+  "mesures": [
+    {
+      "id": "ACT_VIA_006",
+      "roles": [
+        "conseil_etude"
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "type": "site_internet",
+      "value": "https://groupe-ovalt.com"
+    },
+    {
+      "type": "tel",
+      "value": "02 23 21 12 00"
+    },
+    {
+      "type": "adresse",
+      "value": "1 Route du Gacet, 35830 Betton"
+    },
+    {
+      "type": "linkedin",
+      "value": "https://www.linkedin.com/company/groupe-ovalt"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Ovalt&departement=35",
+      "date": "2026-09-24",
+      "extrait": "OVALT, siren 824646764, siret 82464676400020, siège, 1 ROUTE DU GACET 35830 BETTON, activité 70.10Z, état administratif A"
+    },
+    {
+      "champ": "siret, nom",
+      "url": "https://groupe-ovalt.com/mentions-legales/",
+      "date": "2026-09-24",
+      "extrait": "Le site www.groupe-ovalt.com est édité par la société Ovalt, société par actions simplifiée au capital de 6 341 330,00 €, immatriculée au registre du commerce et des sociétés sous le numéro Rennes B 824 646 764, dont le siège social est situé à BETTON (35)."
+    },
+    {
+      "champ": "contacts (tel, adresse), description, mesures (ACT_VIA_006), expertises, categories",
+      "url": "https://groupe-ovalt.com/sous-marches/abattoirs-transformation-de-la-viande-et-salaisons/",
+      "date": "2026-09-24",
+      "extrait": "Nous intervenons en électricité, automatisation, pilotage et supervision avancée, sur l'ensemble des procédés de transformation de la viande, depuis l'abattage jusqu'au conditionnement des produits [...] Réutilisation de l'eau et valorisation des coproduits. Nous intervenons dans les procédés de nettoyage en place (NEP) et développons des systèmes de lavage entièrement automatisés répondant aux contraintes sanitaires et environnementales. Nous vous accompagnons dans l'optimisation de votre production, par la valorisation des coproduits issus du nettoyage des eaux grasses et par la réutilisation des eaux de lavage, lorsque c'est possible d'un point de vue sanitaire. [...] Suivi des lots de carcasse à l'aide de tags RFID [...] Gestion de process (MOM et MES) [...] Siège social Ovalt 1 Route du Gacet, 35830 Betton || FR Tel. + 33 (0)2 23 21 12 00"
+    },
+    {
+      "champ": "description (machines spéciales), type",
+      "url": "https://groupe-ovalt.com/sous-marches/abattoirs-transformation-de-la-viande-et-salaisons/",
+      "date": "2026-09-24",
+      "extrait": "OVALT possède une expertise en gestion des cuirs (salage, conservation) et nous développons des machines spéciales clés en main, pour le pliage automatique et la palettisation des cuirs de bovins. [...] Nous concevons des machines de mise en barquette et de palettisation automatique en fin de ligne d'abattage, pour la livraison de grandes et moyennes surfaces (GMS)."
+    },
+    {
+      "champ": "departements, description (implantations), contacts (formulaire)",
+      "url": "https://groupe-ovalt.com/contact/",
+      "date": "2026-09-24",
+      "extrait": "Objet de la demande: Demande commerciale / Nouveau projet, Maintenance/Dépannage [...] Nous rendre visite: Lamballe (22) CIP; Betton (35) Build Data || LAB4i || OET || PGC || RMPI4i; Locminé (56) ID Automation"
+    },
+    {
+      "champ": "description (quatre entreprises, trois sites)",
+      "url": "https://groupe-ovalt.com/qui-sommes-nous/",
+      "date": "2026-09-24",
+      "extrait": "OVALT EN QUELQUES CHIFFRES 4 entreprises sur 3 sites 1 laboratoire d'innovation +480 collaborateurs"
+    },
+    {
+      "champ": "categories (effluents)",
+      "url": "https://groupe-ovalt.com/marches/agroalimentaire/",
+      "date": "2026-09-24",
+      "extrait": "Nous mettons en place les outils pour être plus productif et réaliser des économies d'eau et d'énergie : Ilots robotisés de palettisation, gestion des utilités et des effluents, optimisation énergétique."
+    },
+    {
+      "champ": "logo_url, contacts (linkedin)",
+      "url": "https://groupe-ovalt.com/qui-sommes-nous/",
+      "date": "2026-09-24",
+      "extrait": "img src=\"https://groupe-ovalt.com/wp-content/uploads/2022/11/OVALT_logo_web-300x127.png\" ; lien Linkedin https://www.linkedin.com/company/groupe-ovalt"
+    }
+  ],
+  "date_maj": "2026-09-24"
+}

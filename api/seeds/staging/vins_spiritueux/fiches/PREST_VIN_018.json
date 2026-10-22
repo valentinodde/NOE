@@ -1,0 +1,74 @@
+{
+  "id": "PREST_VIN_018",
+  "nom": "Hydrosol Ingénierie",
+  "type": "bureau_etudes",
+  "logo_url": "https://www.hydrosol.fr/wp-content/uploads/2016/07/hydrosol-logotype-2015-horizontal.png",
+  "siret": "35127557300050",
+  "description": "Bureau d'études en hydrogéologie, hydraulique et environnement créé en 1989 à Cavaillon, dont le siège est à Cheval-Blanc (Vaucluse). Pour les caves, il a réalisé le diagnostic des consommations d'eau de la cave coopérative Terres Valdèze (ICPE), bâtiment par bâtiment et machine par machine pendant les vendanges (article publié en septembre 2024), avec comparaison aux Meilleures Techniques Disponibles et plan d'action de réduction ; il monte aussi les dossiers ICPE (régime de classement, déclaration, enregistrement, autorisation) et assure la veille réglementaire environnementale. Intervention sur demande, par téléphone, par mail ou par le formulaire de contact du site.",
+  "expertises": [
+    "Diagnostic des consommations d'eau",
+    "Dossiers réglementaires ICPE",
+    "Veille réglementaire environnementale",
+    "Études hydrogéologiques et forages"
+  ],
+  "categories": [
+    "suivre_comprendre_maitriser"
+  ],
+  "secteurs": ["vins_spiritueux"],
+  "departements": ["84", "30"],
+  "mesures": [
+    { "id": "ACT_AGR_002", "roles": ["conseil_etude"] }
+  ],
+  "contacts": [
+    { "type": "site_internet", "value": "https://www.hydrosol.fr/" },
+    { "type": "tel", "value": "04 90 71 33 26" },
+    { "type": "mail", "value": "hydrosol.paca@hydrosol.fr" },
+    { "type": "adresse", "value": "373 B route de Cavaillon, 84460 Cheval-Blanc" }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Hydrosol%20Ingenierie&departement=84",
+      "date": "2026-09-28",
+      "extrait": "HYDROSOL INGENIERIE, siret 35127557300050, siège, 373 B ROUTE DE CAVAILLON 84460 CHEVAL-BLANC, activité 71.12B, état administratif A, 1 établissement ouvert"
+    },
+    {
+      "champ": "nom, siret, contacts (tel, mail, adresse)",
+      "url": "https://www.hydrosol.fr/mentions-legales/",
+      "date": "2026-09-28",
+      "extrait": "Hydrosol Ingénierie, 373 B route de Cavaillon, 84460 CHEVAL BLANC. SIRET 351275573 000 50. Adresse électronique : hydrosol.paca@hydrosol.fr. Téléphone : 04 90 71 33 26"
+    },
+    {
+      "champ": "mesures (ACT_AGR_002 conseil_etude), expertises (diagnostic), description",
+      "url": "https://www.hydrosol.fr/economies-deau-en-cave-vinicole-classee-icpe/",
+      "date": "2026-09-28",
+      "extrait": "la cave coopérative TERRES VALDEZE est une ICPE. HYDROSOL est intervenu sur site, pendant les vendanges, afin d'identifier les points de consommation d'eau dans les différents process de vinification. Après étude des consommations d'eau dans chaque bâtiment et au niveau des différentes machines, nous avons comparé leur consommation à celles usuellement rencontrées dans le secteur et leurs pratiques aux Meilleures Techniques Disponibles. Cette étude détaillée a permis de dresser un plan d'action. Article daté du 2024-09-06"
+    },
+    {
+      "champ": "expertises (ICPE, veille), description, departements",
+      "url": "https://www.hydrosol.fr/nos-competences/environnement/",
+      "date": "2026-09-28",
+      "extrait": "Que vous soyez en Occitanie proche de notre agence du Gard ou en PACA à proximité de notre agence de Cavaillon en Vaucluse, HYDROSOL Ingénierie vous accompagne dans votre veille réglementaire environnementale, vous aide à monter vos dossiers administratifs"
+    },
+    {
+      "champ": "expertises (ICPE), description",
+      "url": "https://www.hydrosol.fr/entreprises-2/",
+      "date": "2026-09-28",
+      "extrait": "HYDROSOL Ingénierie aide les entreprises à mettre en place la réglementation des ICPE. Réaliser vos dossiers de demande d'autorisation au titre des ICPE ; réalisation de vos dossiers de déclaration ou de demande d'enregistrement ; comparaison de vos pratiques aux meilleures techniques disponibles"
+    },
+    {
+      "champ": "expertises (hydrogéologie, forages), description (création 1989, Cavaillon)",
+      "url": "https://www.hydrosol.fr/accueil/le-bureau-d-etudes/",
+      "date": "2026-09-28",
+      "extrait": "Depuis sa création en Vaucluse à Cavaillon dans la région PACA en 1989. Un bureau a été créé en 2015 à Nîmes dans le Gard. Le bureau d'études intervient pour les études techniques et réglementaires dans la réalisation de forages et le suivi de nappes phréatiques"
+    },
+    {
+      "champ": "logo_url",
+      "url": "https://www.hydrosol.fr/",
+      "date": "2026-09-28",
+      "extrait": "hydrosol-logotype-2015-horizontal.png (logo affiché dans l'en-tête du site)"
+    }
+  ],
+  "date_maj": "2026-09-28"
+}

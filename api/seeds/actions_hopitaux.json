@@ -1,0 +1,388 @@
+[
+  {
+    "id": "ACT_HOP_001",
+    "titre": "Supprimer les bras morts et ajuster les purges anti-légionelles",
+    "titre_court": "Bras morts et purges",
+    "description": "Recenser les points d'eau peu ou pas utilisés, supprimer les bras morts et les points inutiles, et limiter les purges aux points restants à la durée utile, mesurée par le temps d'arrivée de l'eau chaude. Vous réduisez l'eau perdue en purges tout en diminuant le risque de légionellose.",
+    "categorie": "changer_process_pratiques",
+    "secteurs": [
+      "hopitaux"
+    ],
+    "effort": {
+      "capex": "moyen",
+      "opex": "faible",
+      "humain": "moyen"
+    },
+    "impact_eau": 2,
+    "facilite": 2,
+    "horizon": "court_terme",
+    "image": null,
+    "infos_complementaires": [
+      {
+        "type": "avertissement",
+        "texte": "Ne jamais baisser la température de l'eau chaude pour économiser : l'arrêté du 1er février 2010 impose aux établissements de santé un suivi quotidien des températures en production et sur chaque retour de boucle.",
+        "lien": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000021795143",
+        "lien_label": "Légifrance"
+      },
+      {
+        "type": "info",
+        "texte": "Selon le réseau des CPias, une purge de plus d'une minute est inutile dans la plupart des cas, et un bras mort doit contenir moins de 3 litres sur moins de 8 mètres.",
+        "lien": "https://cpias-occitanie.fr/wp-content/uploads/2026/02/FAQ-eau-V2-20022026.pdf",
+        "lien_label": "Réseau des CPias, 2026"
+      },
+      {
+        "type": "info",
+        "texte": "Une évaluation des risques des réseaux intérieurs d'eau potable est à réaliser avant le 1er janvier 2029 par un professionnel qualifié : c'est le moment de recenser les bras morts.",
+        "lien": "https://cpias-occitanie.fr/wp-content/uploads/2026/02/FAQ-eau-V2-20022026.pdf",
+        "lien_label": "Réseau des CPias, 2026"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "description",
+        "url": "https://cpias-occitanie.fr/wp-content/uploads/2026/02/FAQ-eau-V2-20022026.pdf",
+        "date": "2026-02-20",
+        "extrait": "Purger toutes les 48 heures les points peu utilisés, mesurer le temps d'arrivée de l'eau chaude stabilisée plutôt que purger longtemps, bras mort de moins de 3 litres sur moins de 8 mètres."
+      },
+      {
+        "champ": "description",
+        "url": "https://www.paca.ars.sante.fr/system/files/2024-07/EauVF.pdf",
+        "extrait": "Le nombre de points d'eau et de douches figure parmi les indicateurs de suivi (DGOS, programme PHARE)."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000021795143",
+        "extrait": "Relevé de la température de l'eau chaude une fois par jour en sortie de production et sur chaque retour de boucle."
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "ACT_HOP_002",
+    "titre": "Rechercher et réparer les fuites des réseaux enterrés et techniques",
+    "titre_court": "Recherche de fuites",
+    "description": "Faire réaliser une campagne de recherche de fuites sur les canalisations enterrées, les vides sanitaires et les locaux techniques, puis réparer et réduire la pression là où elle est excessive. Sur un site hospitalier étendu ou ancien, c'est souvent le premier gisement d'économie, invisible sans recherche active.",
+    "categorie": "suivre_comprendre_maitriser",
+    "secteurs": [
+      "hopitaux"
+    ],
+    "effort": {
+      "capex": "moyen",
+      "opex": "faible",
+      "humain": "faible"
+    },
+    "impact_eau": 3,
+    "facilite": 2,
+    "horizon": "court_terme",
+    "image": null,
+    "infos_complementaires": [
+      {
+        "type": "info",
+        "texte": "Les fuites représentent 5 à 25 % de la consommation d'un CHU, souvent sur des canalisations enterrées sous des sols bétonnés.",
+        "lien": "https://www.preventioninfection.fr/wp-content/uploads/2025/06/Philippe-Carenco.pdf",
+        "lien_label": "Réseau des CPias, 2025"
+      },
+      {
+        "type": "retour_experience",
+        "texte": "Le CHRU de Lille a posé 28 compteurs pour repérer ses fuites et a réduit sa facture d'eau de 166 600 euros par an par rapport à 2005.",
+        "lien": "https://www.fhf.fr/developpement-durable-archive/gestion-de-leau-lhopital",
+        "lien_label": "FHF, 2009"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "description",
+        "url": "https://cpias-occitanie.fr/wp-content/uploads/2026/02/FAQ-eau-V2-20022026.pdf",
+        "date": "2026-02-20",
+        "extrait": "Fuites sur des canalisations enterrées sous des sols bétonnés, des robinets de locaux techniques et des réservoirs."
+      },
+      {
+        "champ": "description",
+        "url": "https://www.paca.ars.sante.fr/system/files/2024-07/EauVF.pdf",
+        "extrait": "La réduction de pression limite les fuites (DGOS, programme PHARE)."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.preventioninfection.fr/wp-content/uploads/2025/06/Philippe-Carenco.pdf",
+        "extrait": "Fuites : 5 à 25 % de la consommation d'un CHU."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.fhf.fr/developpement-durable-archive/gestion-de-leau-lhopital",
+        "extrait": "CHRU de Lille : 28 compteurs, facture d'eau réduite de 166 600 euros par an par rapport à 2005."
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "ACT_HOP_003",
+    "titre": "Équiper les sanitaires d'une robinetterie économe validée par l'hygiène",
+    "titre_court": "Robinetterie adaptée",
+    "description": "Au renouvellement, choisir avec l'équipe d'hygiène des brise-jets, des commandes au genou, au pied ou au coude, des chasses à double commande et des douches à débit adapté. Vous baissez la consommation des chambres et des lave-mains sans créer de zones de stagnation propices aux légionelles.",
+    "categorie": "ameliorer_efficacite_hydrique",
+    "secteurs": [
+      "hopitaux"
+    ],
+    "effort": {
+      "capex": "moyen",
+      "opex": "faible",
+      "humain": "faible"
+    },
+    "impact_eau": 2,
+    "facilite": 2,
+    "horizon": "moyen_terme",
+    "image": null,
+    "infos_complementaires": [
+      {
+        "type": "avertissement",
+        "texte": "Les réducteurs de débit sont classés comme un faux pas par le réseau des CPias, à cause du risque de stagnation : tout dispositif qui réduit le débit est à évaluer avec les services techniques et l'équipe d'hygiène.",
+        "lien": "https://cpias-occitanie.fr/wp-content/uploads/2026/02/FAQ-eau-V2-20022026.pdf",
+        "lien_label": "Réseau des CPias, 2026"
+      },
+      {
+        "type": "info",
+        "texte": "La fiche achats du ministère déconseille les mousseurs, les aérateurs et le déclenchement optique, qui favorisent le risque infectieux.",
+        "lien": "https://www.paca.ars.sante.fr/system/files/2024-07/EauVF.pdf",
+        "lien_label": "DGOS, programme PHARE, 2024"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "description",
+        "url": "https://www.paca.ars.sante.fr/system/files/2024-07/EauVF.pdf",
+        "extrait": "Brise-jets, commandes au genou, au pied ou au coude, chasses sans réservoir ou à double commande, douches à débit adapté, plutôt que mousseurs, aérateurs et déclenchement optique."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://cpias-occitanie.fr/wp-content/uploads/2026/02/FAQ-eau-V2-20022026.pdf",
+        "date": "2026-02-20",
+        "extrait": "Réducteurs de débit : faux pas, risque de stagnation."
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "ACT_HOP_004",
+    "titre": "Moderniser le traitement d'eau de l'unité d'hémodialyse",
+    "titre_court": "Traitement d'eau de dialyse",
+    "description": "Remplacer les osmoseurs et générateurs anciens par des équipements récents à meilleur taux de conversion, et suivre la consommation d'eau par séance. Pour un établissement qui dialyse, c'est l'acte le plus consommateur, et l'effet peut aller jusqu'à diviser par deux l'eau par séance.",
+    "categorie": "ameliorer_efficacite_hydrique",
+    "secteurs": [
+      "hopitaux"
+    ],
+    "effort": {
+      "capex": "important",
+      "opex": "faible",
+      "humain": "moyen"
+    },
+    "impact_eau": 3,
+    "facilite": 1,
+    "horizon": "moyen_terme",
+    "image": null,
+    "infos_complementaires": [
+      {
+        "type": "info",
+        "texte": "Une séance d'hémodialyse consomme 382 litres selon le guide de la dialyse verte de la Société francophone de néphrologie, soit environ 60 000 litres par patient et par an.",
+        "lien": "https://www.omedit-grand-est.ars.sante.fr/media/117604/download",
+        "lien_label": "OMEDIT Grand Est, 2023"
+      },
+      {
+        "type": "retour_experience",
+        "texte": "Le remplacement d'un système de traitement d'eau a fait passer la consommation d'environ 600 à moins de 300 litres par séance (Bendine et al., 2020).",
+        "lien": "https://www.omedit-grand-est.ars.sante.fr/media/117604/download",
+        "lien_label": "OMEDIT Grand Est, 2023"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "description",
+        "url": "https://www.paca.ars.sante.fr/system/files/2024-07/EauVF.pdf",
+        "extrait": "Bi-osmoseurs et générateurs récents réduisent la consommation (DGOS, programme PHARE)."
+      },
+      {
+        "champ": "description",
+        "url": "https://www.preventioninfection.fr/wp-content/uploads/2025/06/Philippe-Carenco.pdf",
+        "extrait": "Hémodialyse : 500 à 600 litres par séance, acte le plus consommateur."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.omedit-grand-est.ars.sante.fr/media/117604/download",
+        "date": "2023-12-05",
+        "extrait": "382 litres par séance (guide SFNDT), 60 000 litres par patient et par an, passage d'environ 600 à moins de 300 litres par séance après remplacement du traitement d'eau."
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "ACT_HOP_005",
+    "titre": "Choisir des équipements de blanchisserie et de stérilisation économes en eau",
+    "titre_court": "Blanchisserie et stérilisation",
+    "description": "Exiger des fournisseurs la consommation en litres par kilo de linge et par cycle de stérilisation, et privilégier tunnels de lavage et recyclage des eaux de rinçage. Le levier vaut aussi pour une blanchisserie externalisée, en faisant de l'eau un critère du marché.",
+    "categorie": "ameliorer_efficacite_hydrique",
+    "secteurs": [
+      "hopitaux"
+    ],
+    "effort": {
+      "capex": "important",
+      "opex": "faible",
+      "humain": "faible"
+    },
+    "impact_eau": 2,
+    "facilite": 2,
+    "horizon": "moyen_terme",
+    "image": null,
+    "infos_complementaires": [
+      {
+        "type": "info",
+        "texte": "Ordres de grandeur : 5 à 20 litres par kilo de linge en blanchisserie, 60 à 120 litres par cycle de stérilisation.",
+        "lien": "https://www.preventioninfection.fr/wp-content/uploads/2025/06/Philippe-Carenco.pdf",
+        "lien_label": "Réseau des CPias, 2025"
+      },
+      {
+        "type": "retour_experience",
+        "texte": "Le changement du tunnel de lavage de la blanchisserie du CHU de Nice a économisé 5 000 m³ d'eau en un an.",
+        "lien": "https://www.fhf.fr/developpement-durable-archive/gestion-de-leau-lhopital",
+        "lien_label": "FHF, 2009"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "description",
+        "url": "https://www.paca.ars.sante.fr/system/files/2024-07/EauVF.pdf",
+        "extrait": "Demander aux fournisseurs la consommation en litres par kg de linge et par unité d'œuvre de stérilisation, privilégier tunnels de lavage et recyclage."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.preventioninfection.fr/wp-content/uploads/2025/06/Philippe-Carenco.pdf",
+        "extrait": "Blanchisserie : 5 à 20 litres par kg de linge. Stérilisation : 60 à 120 litres par cycle."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.fhf.fr/developpement-durable-archive/gestion-de-leau-lhopital",
+        "extrait": "CHU de Nice : changement du tunnel de lavage, 5 000 m³ d'eau économisés en un an."
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "ACT_HOP_006",
+    "titre": "Réutiliser les rejets d'osmose de la dialyse et de la stérilisation",
+    "titre_court": "Réutilisation des rejets d'osmose",
+    "description": "Collecter l'eau rejetée par les osmoseurs, propre mais non utilisée pour le soin, dans un circuit séparé du réseau d'eau potable, pour l'arrosage, le nettoyage ou les chasses d'eau. Vous récupérez une eau déjà payée, pertinente pour les établissements qui dialysent ou produisent de l'eau osmosée.",
+    "categorie": "valoriser_reut_eaux_non_conventionnelles",
+    "secteurs": [
+      "hopitaux"
+    ],
+    "effort": {
+      "capex": "moyen",
+      "opex": "faible",
+      "humain": "moyen"
+    },
+    "impact_eau": 2,
+    "facilite": 1,
+    "horizon": "moyen_terme",
+    "image": null,
+    "infos_complementaires": [
+      {
+        "type": "avertissement",
+        "texte": "Les rejets d'osmose ne sont pas encore définis par la réglementation sur les eaux impropres à la consommation humaine : un projet passe par l'expérimentation prévue par le décret de 2024, sur manifestation d'intérêt auprès de la DGS, et l'équipe d'hygiène doit en être informée.",
+        "lien": "https://www.paca.ars.sante.fr/reutilisation-des-eaux-usees-traitees",
+        "lien_label": "ARS PACA"
+      },
+      {
+        "type": "retour_experience",
+        "texte": "Le centre de dialyse AURAL, à Lyon, réutilise 1 200 m³ par an d'eau de rejet d'osmose pour les sanitaires de ses bâtiments.",
+        "lien": "https://www.omedit-grand-est.ars.sante.fr/media/117604/download",
+        "lien_label": "OMEDIT Grand Est, 2023"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "description",
+        "url": "https://www.paca.ars.sante.fr/system/files/2024-07/EauVF.pdf",
+        "extrait": "L'eau de rejet des osmoseurs peut servir aux espaces verts, au nettoyage, aux sanitaires ou aux buanderies si les circuits sont séparés du réseau d'eau potable."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://cpias-occitanie.fr/wp-content/uploads/2026/02/FAQ-eau-V2-20022026.pdf",
+        "date": "2026-02-20",
+        "extrait": "Rejets d'osmose inverse de la dialyse et de la stérilisation : pas encore définis réglementairement."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.paca.ars.sante.fr/reutilisation-des-eaux-usees-traitees",
+        "extrait": "Expérimentation prévue par le décret de 2024, sur manifestation d'intérêt auprès de la DGS. L'équipe opérationnelle d'hygiène doit être informée de toute installation."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.omedit-grand-est.ars.sante.fr/media/117604/download",
+        "date": "2023-12-05",
+        "extrait": "AURAL Lyon : 1 200 m³ par an d'eau de rejet d'osmose réutilisés pour les sanitaires."
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "ACT_HOP_007",
+    "titre": "Réduire à la source les rejets de médicaments et de désinfectants",
+    "titre_court": "Rejets réduits à la source",
+    "description": "Au-delà de l'autorisation de déversement, agir sur ce qui part à l'égout : pas de médicament à l'évier, centrales de dilution réglées, molécules moins persistantes à efficacité égale, en s'appuyant sur l'analyse des effluents par bâtiment. Pertinent surtout pour le court séjour, principale source des antibiotiques et du gadolinium de ses effluents.",
+    "categorie": "agir_rejets_qualite",
+    "secteurs": [
+      "hopitaux"
+    ],
+    "effort": {
+      "capex": "faible",
+      "opex": "moyen",
+      "humain": "moyen"
+    },
+    "impact_eau": 1,
+    "facilite": 2,
+    "horizon": "court_terme",
+    "image": null,
+    "infos_complementaires": [
+      {
+        "type": "avertissement",
+        "texte": "Le déversement d'eaux usées autres que domestiques dans le réseau public doit être autorisé par la collectivité qui gère l'assainissement (article L1331-10 du code de la santé publique).",
+        "lien": "https://www.nimes-metropole.fr/fileadmin/mediatheque/Dossier-commun/Documentations/publications/Eau-et-assainissement/Extrait_Code_Sante_Publique.pdf",
+        "lien_label": "Code de la santé publique"
+      },
+      {
+        "type": "retour_experience",
+        "texte": "Au centre hospitalier Alpes Léman, suivi par le site pilote SIPIBEL, la caractérisation des effluents a fourni les valeurs de référence de la convention de déversement. L'hôpital y est la source principale de la ciprofloxacine (antibiotique) et du gadolinium (imagerie) retrouvés dans les eaux usées.",
+        "lien": "https://www.graie.org/Sipibel/publications/sipibel-presentation-effluentsmedicaments.pdf",
+        "lien_label": "GRAIE et agence de l'eau RMC, 2014"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "description",
+        "url": "https://www.paca.ars.sante.fr/system/files/2024-07/EauVF.pdf",
+        "extrait": "Recenser les sources d'effluents et les analyser, molécules et excipients les moins persistants à efficacité égale, interdire le rejet des médicaments à l'évier, régler les centrales de dilution."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.nimes-metropole.fr/fileadmin/mediatheque/Dossier-commun/Documentations/publications/Eau-et-assainissement/Extrait_Code_Sante_Publique.pdf",
+        "extrait": "Article L1331-10 : tout déversement d'eaux usées autres que domestiques dans le réseau public doit être préalablement autorisé."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.graie.org/Sipibel/publications/sipibel-presentation-effluentsmedicaments.pdf",
+        "extrait": "Caractérisation préalable ayant fourni les valeurs de référence de la convention. Ciprofloxacine et gadolinium plus concentrés dans l'effluent hospitalier."
+      },
+      {
+        "champ": "description",
+        "url": "https://www.graie.org/Sipibel/publications/sipibel-presentation-effluentsmedicaments.pdf",
+        "extrait": "L'hôpital est la source principale de la ciprofloxacine et du gadolinium dans ses effluents."
+      }
+    ],
+    "date_maj": "2026-10-15"
+  }
+]

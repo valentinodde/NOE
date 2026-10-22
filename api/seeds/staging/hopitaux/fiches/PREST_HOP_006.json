@@ -1,0 +1,105 @@
+{
+  "id": "PREST_HOP_006",
+  "nom": "Adeunis",
+  "type": "equipementier",
+  "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792070135/Noe%20assets/logos/PREST_HOP_006.png",
+  "siret": "43019049600025",
+  "description": "Fabricant de capteurs sans fil (LoRaWAN, Sigfox, cellulaires) installé à Crolles, en Isère. Adeunis ne vend pas le compteur divisionnaire lui-même mais le capteur de télérelève qui l'équipe : son capteur PULSE se branche sur la sortie à impulsions d'un compteur d'eau pour en remonter l'index, surveiller le débit par seuils et déclencher une alarme en cas de fuite. Au CHU de Clermont-Ferrand, ces capteurs relèvent les compteurs d'eau et transmettent les données, via un concentrateur, au système de gestion énergétique. Achat auprès des distributeurs de la marque, ou contact direct avec l'équipe commerciale à défaut de distributeur proche.",
+  "expertises": [
+    "Capteur de télérelève pour compteur d'eau",
+    "Alarme de fuite sur compteur",
+    "Détecteurs de fuite d'eau au sol",
+    "Remontée vers la supervision"
+  ],
+  "categories": [
+    "suivre_comprendre_maitriser"
+  ],
+  "secteurs": [
+    "hopitaux"
+  ],
+  "departements": [],
+  "mesures": [
+    {
+      "id": "ACT_AGR_001",
+      "roles": [
+        "materiel"
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "type": "site_internet",
+      "value": "https://www.adeunis.com/"
+    },
+    {
+      "type": "tel",
+      "value": "04 76 92 01 62"
+    },
+    {
+      "type": "mail",
+      "value": "sales@adeunis.com"
+    },
+    {
+      "type": "adresse",
+      "value": "283 rue Louis Néel, Parc technologique Pré Roux, 38920 Crolles"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Adeunis&departement=38",
+      "date": "2026-10-15",
+      "extrait": "ADEUNIS, siret 43019049600025, siège, PARC TECHNOLOGIQUE PRE ROUX 283 RUE LOUIS NEEL 38920 CROLLES, activite_principale 26.30Z, etat_administratif A"
+    },
+    {
+      "champ": "type",
+      "url": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2023/09/FCACT066115_20230918.pdf",
+      "date": "2026-10-15",
+      "extrait": "Les capteurs cellulaires Adeunis, conçus et fabriqués sur le sol français, utilisent ainsi le module radio nRF9160 de Nordic. Adeunis compte 30 collaborateurs sur 1 site unique en France (près de Grenoble)."
+    },
+    {
+      "champ": "type",
+      "url": "https://www.adeunis.com/societe-iot/",
+      "date": "2026-10-15",
+      "extrait": "Savoir-faire industriel : + de 5 millions de produits vendus, Industrialisation de +100 produits, Production en grandes séries"
+    },
+    {
+      "champ": "mesures (ACT_AGR_001), expertises, description",
+      "url": "https://www.adeunis.com/cas-client-iot-energie-hopital/",
+      "date": "2026-10-15",
+      "extrait": "CHU de Clermont-Ferrand : surveiller et optimiser ses consommations (eau, électricité, température...). PULSE : permettre de remonter des indices de compteur d'eau et surveiller les consommations. Le concentrateur met à disposition, via BacNet, du système de gestion énergétique les données collectées."
+    },
+    {
+      "champ": "mesures (ACT_AGR_001), expertises, description",
+      "url": "https://www.adeunis.com/produit/pulse-compteur-iot/",
+      "date": "2026-10-15",
+      "extrait": "Ce capteur sans fil est conçu pour se connecter facilement aux compteurs d'électricité, d'eau ou thermique. Détection de fraude et de fuite. Surveillance de débit d'un compteur. Déclencher une alarme lorsque le débit dépasse un seuil (haut/bas), lorsqu'une fuite est détectée."
+    },
+    {
+      "champ": "expertises",
+      "url": "https://www.adeunis.com/produit/water-leak-cable-detection-deau/",
+      "date": "2026-10-15",
+      "extrait": "WATER LEAK CABLE : détecter une fuite d'eau au sol, autour d'un objet ou d'un équipement. Position du capteur : autour d'un élément, le long d'un mur, autour d'un tuyau."
+    },
+    {
+      "champ": "contacts",
+      "url": "https://www.adeunis.com/contact/",
+      "date": "2026-10-15",
+      "extrait": "283 Rue Louis Néel, 38920 Crolles, France. Réception / Administration : +33 (0) 4 76 92 01 62. Commerce : sales@adeunis.com"
+    },
+    {
+      "champ": "departements, description",
+      "url": "https://www.adeunis.com/revendeurs/",
+      "date": "2026-10-15",
+      "extrait": "Sélectionnez parmi la liste de pays celui dans lequel vous souhaitez rechercher un distributeur. Si vous ne trouvez pas de distributeur proche de chez vous, n'hésitez pas à nous contacter."
+    },
+    {
+      "champ": "logo_url",
+      "url": "https://www.adeunis-bourse.com/images/template/adeunis-logo-touch-icon.png",
+      "date": "2026-10-15",
+      "extrait": "apple-touch-icon du site investisseurs adeunis-bourse.com, symbole en couleur, 192 x 192"
+    }
+  ],
+  "date_maj": "2026-10-15"
+}

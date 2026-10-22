@@ -1,0 +1,151 @@
+[
+  {
+    "id": "hotel_novice",
+    "nom": "Hôtel indépendant 2 étoiles, rien de formalisé",
+    "description": "Hôtel familial de 35 chambres en zone littorale, restaurant et petite blanchisserie sur place, jardin arrosé au jet l'été. Robinetterie d'origine, linge changé chaque jour, fuites découvertes par les clients, machines achetées au prix. Aucun suivi autre que la facture, jamais d'audit, restrictions jamais regardées, pas de piscine.",
+    "answers": {
+      "hot_q01": [
+        "restaurant",
+        "blanchisserie",
+        "espaces_verts"
+      ],
+      "hot_q02": "facture",
+      "hot_q03": "jamais",
+      "hot_q04": "origine",
+      "hot_q05": "signalement_client",
+      "hot_q06": "chaque_jour",
+      "hot_q07": "sans_critere_eau",
+      "hot_q08": "sans_piscine",
+      "hot_q09": "arrosage_classique",
+      "hot_q10": "jamais_regarde",
+      "hot_q11": "non"
+    }
+  },
+  {
+    "id": "hotel_equipe",
+    "nom": "Hôtel 4 étoiles équipé, en réflexion sur la suite",
+    "description": "Hôtel de 90 chambres avec piscine extérieure et restaurant. Toutes les salles de bains ont été équipées en hydro-économes lors de la rénovation, fiche de signalement des fuites suivie, linge à la demande, machines choisies sur leur consommation. Relevé mensuel avec ratio par nuitée mais sans sous-compteur, audit de plus de cinq ans, piscine couverte la nuit mais filtres lavés à heure fixe, jardin déjà en goutte-à-goutte. Suit les alertes sécheresse sans plan.",
+    "answers": {
+      "hot_q01": [
+        "restaurant",
+        "piscine",
+        "espaces_verts"
+      ],
+      "hot_q02": "ratio_general",
+      "hot_q03": "ancien",
+      "hot_q04": "toutes_chambres",
+      "hot_q05": "fiche_signalement",
+      "hot_q06": "a_la_demande",
+      "hot_q07": "critere_eau",
+      "hot_q08": "couverture",
+      "hot_q09": "jardin_sobre",
+      "hot_q10": "informe",
+      "hot_q11": "informe"
+    }
+  },
+  {
+    "id": "hotel_urbain_chambres_seules",
+    "nom": "Hôtel urbain sans piscine, jardin ni machines",
+    "description": "Hôtel de 50 chambres en centre-ville, petit-déjeuner livré en plateaux préparés à l'extérieur, linge entièrement confié à une blanchisserie. Ni piscine, ni spa, ni espace vert. Relève le compteur de temps en temps, quelques chambres équipées de mousseurs, consigne orale sur les fuites, linge changé chaque jour. Jamais d'audit, jamais regardé les restrictions.",
+    "answers": {
+      "hot_q01": [
+        "chambres_seules"
+      ],
+      "hot_q02": "releve_occasionnel",
+      "hot_q03": "jamais",
+      "hot_q04": "partiel",
+      "hot_q05": "consigne_orale",
+      "hot_q06": "chaque_jour",
+      "hot_q07": "sans_machine",
+      "hot_q08": "sans_piscine",
+      "hot_q09": "sans_jardin",
+      "hot_q10": "jamais_regarde",
+      "hot_q11": "non"
+    }
+  },
+  {
+    "id": "hotel_avance",
+    "nom": "Hôtel écolabellisé, pratiques pilotées",
+    "description": "Hôtel de 120 chambres titulaire de l'Écolabel européen, piscine et jardin. Sous-compteurs par usage et ratio par nuitée, audit récent, toutes les salles de bains équipées et contrôlées, linge à la demande suivi, machines économes avec dosage automatique, eau de lavage des filtres réutilisée, jardin sobre à l'eau de pluie, plan sécheresse écrit, pilote d'une démarche de territoire.",
+    "answers": {
+      "hot_q01": [
+        "restaurant",
+        "blanchisserie",
+        "piscine",
+        "espaces_verts"
+      ],
+      "hot_q02": "sous_compteurs",
+      "hot_q03": "recent",
+      "hot_q04": "toutes_controlees",
+      "hot_q05": "controle_annuel",
+      "hot_q06": "a_la_demande_suivi",
+      "hot_q07": "critere_et_dosage",
+      "hot_q08": "recyclage",
+      "hot_q09": "jardin_sobre_pluie",
+      "hot_q10": "plan_formalise",
+      "hot_q11": "moteur"
+    }
+  },
+  {
+    "id": "hotel_ne_sait_pas",
+    "nom": "Réceptionniste qui répond pour la direction",
+    "description": "Réceptionniste d'un hôtel de 40 chambres, qui remplit le questionnaire à la place de la direction. Sait seulement que la consommation est suivie à la facture et que l'hôtel n'a pas de piscine ; ne connaît ni l'équipement des chambres, ni les pratiques de linge, ni les démarches engagées.",
+    "answers": {
+      "hot_q01": "__skip__",
+      "hot_q02": "facture",
+      "hot_q03": "__skip__",
+      "hot_q04": "__skip__",
+      "hot_q05": "__skip__",
+      "hot_q06": "__skip__",
+      "hot_q07": "__skip__",
+      "hot_q08": "sans_piscine",
+      "hot_q09": "__skip__",
+      "hot_q10": "__skip__",
+      "hot_q11": "__skip__"
+    }
+  },
+  {
+    "id": "village_vacances",
+    "nom": "Village de vacances saisonnier avec espace aquatique",
+    "description": "Village de vacances de 150 logements avec service de chambre quotidien, ouvert d'avril à octobre en zone méditerranéenne. Espace aquatique sans mesure particulière, vastes espaces verts arrosés par aspersion, restauration collective et blanchisserie intégrées avec des machines renouvelées sur critère eau. Mousseurs dans une partie des logements, linge laissé au choix du client mais consigne mal suivie, relevés de compteur occasionnels, audit envisagé. Informé des arrêtés sécheresse, participe à une démarche de l'office de tourisme.",
+    "answers": {
+      "hot_q01": [
+        "restaurant",
+        "blanchisserie",
+        "piscine",
+        "espaces_verts"
+      ],
+      "hot_q02": "releve_occasionnel",
+      "hot_q03": "envisage",
+      "hot_q04": "partiel",
+      "hot_q05": "consigne_orale",
+      "hot_q06": "refus_non_suivi",
+      "hot_q07": "critere_eau",
+      "hot_q08": "aucune_mesure",
+      "hot_q09": "arrosage_classique",
+      "hot_q10": "informe",
+      "hot_q11": "participe"
+    }
+  },
+  {
+    "id": "hotel_montagne_spa",
+    "nom": "Hôtel de station avec spa, tension hivernale",
+    "description": "Hôtel 4 étoiles de 60 chambres en station de ski, ouvert l'hiver et l'été, spa avec bassin intérieur non couvert. Salles de bains toutes équipées, linge à la demande, fiche de signalement des fuites. Ratio mensuel sans sous-compteur, pas d'audit, pas de jardin arrosé. A des consignes pour les restrictions d'été mais rien pour l'étiage hivernal ; pas de démarche collective.",
+    "answers": {
+      "hot_q01": [
+        "restaurant",
+        "piscine"
+      ],
+      "hot_q02": "ratio_general",
+      "hot_q03": "jamais",
+      "hot_q04": "toutes_chambres",
+      "hot_q05": "fiche_signalement",
+      "hot_q06": "a_la_demande",
+      "hot_q07": "critere_eau",
+      "hot_q08": "aucune_mesure",
+      "hot_q09": "sans_jardin",
+      "hot_q10": "consignes",
+      "hot_q11": "non"
+    }
+  }
+]

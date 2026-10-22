@@ -1,0 +1,75 @@
+{
+  "id": "PREST_LAI_006",
+  "nom": "CCI France (réseau des chambres de commerce et d'industrie)",
+  "type": "chambre_consulaire",
+  "logo_url": null,
+  "siret": "18750002000073",
+  "description": "CCI France fédère et anime les 126 chambres de commerce et d'industrie, établissements publics nationaux, régionaux et locaux. Sur l'eau, l'intervention est portée par la chambre territoriale : un conseiller environnement réalise une visite du site et un diagnostic de la gestion de l'eau, propose un plan d'actions à court, moyen et long terme, identifie les aides financières mobilisables et accompagne le dépôt du dossier de demande auprès de l'agence de l'eau du bassin. Cette fiche ne couvre que les territoires où un programme eau a été trouvé et sourcé, et les modalités y diffèrent : visite eau et montage de dossier entièrement pris en charge en Bourgogne-Franche-Comté, pré-diagnostic gratuit dans l'Yonne avec l'agence de l'eau Seine-Normandie, accompagnement sur devis en Hauts-de-France, programme Ressourc'Eau sur appel à candidature et de 675 à 1 125 euros hors taxes en Pays de la Loire. Vous vous adressez à la chambre de votre département, l'offre eau étant délivrée localement. Le réseau porte par ailleurs ClimaDiag Expert, programme national soutenu par l'ADEME, un diagnostic de vulnérabilité aux aléas climatiques dont la sécheresse, restitué sous forme de plan d'actions hiérarchisé.",
+  "expertises": [
+    "Diagnostic eau du site",
+    "Identification des aides financières",
+    "Montage des dossiers d'aide",
+    "Diagnostic de vulnérabilité climatique"
+  ],
+  "categories": [
+    "suivre_comprendre_maitriser"
+  ],
+  "secteurs": ["industrie_laitiere"],
+  "departements": [
+    "02", "21", "25", "39", "44", "49", "53", "58", "59",
+    "60", "62", "70", "71", "72", "80", "85", "89", "90"
+  ],
+  "mesures": [
+    { "id": "ACT_AGR_002", "roles": ["conseil_etude"] }
+  ],
+  "contacts": [
+    { "type": "site_internet", "value": "https://www.cci.fr" },
+    { "type": "adresse", "value": "8-10 rue Pierre Brossolette, 92300 Levallois-Perret" }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "nom, type, description, contacts (site internet uniquement)",
+      "url": "https://lannuaire.service-public.gouv.fr/gouvernement/f0d4fc00-c3c4-4a8c-8c31-5b01fc8fd556",
+      "date": "2026-09-22",
+      "extrait": "CCI France (Chambres de Commerce et d'Industrie). CCI France est l'établissement national fédérateur et animateur des 126 Chambres de Commerce et d'Industrie, établissements publics nationaux, régionaux et locaux. Site internet : https://www.cci.fr [note de saisie : l'adresse postale et le téléphone portés par cette fiche annuaire, 46 avenue de la Grande-Armée 75858 Paris Cedex 17 et 01 40 69 37 00, ne sont pas retenus, la base Sirene situant le siège à Levallois-Perret ; cette source ne justifie que le site internet]"
+    },
+    {
+      "champ": "siret, contacts (adresse)",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=CCI%20France",
+      "date": "2026-09-22",
+      "extrait": "CCI FRANCE, siret 18750002000073, siege, 8-10 8 RUE PIERRE BROSSOLETTE 92300 LEVALLOIS-PERRET, departement 92, nature juridique 7381, activite principale 94.11Z, etat administratif A"
+    },
+    {
+      "champ": "description, expertises, mesures, departements",
+      "url": "https://environnement.bfc.cci.fr/accompagnement_eau/",
+      "date": "2026-09-22",
+      "extrait": "Un conseiller expert réalise une visite pour identifier les usages de l'eau dans votre activité et détecter des pistes d'amélioration. La CCI identifie pour vous les aides financières disponibles pour vos projets de gestion durable de l'eau. La CCI vous accompagne également dans le dépôt de dossier de demande d'aide auprès de l'agence de l'eau. La Visite eau et le montage de dossier d'aides sont totalement pris en charge par les agences de l'eau et les CCI de Bourgogne Franche-Comté. Formulaire de contact, champ Département : 21 - Côte-d'Or, 25 - Doubs, 39 - Jura, 58 - Nièvre, 70 - Haute-Saône, 71 - Saône-et-Loire, 89 - Yonne, 90 - Territoire de Belfort"
+    },
+    {
+      "champ": "description, expertises, mesures, departements",
+      "url": "https://hautsdefrance.cci.fr/solutions/accompagnement-gestion-eau/",
+      "date": "2026-09-22",
+      "extrait": "Visite de l'entreprise et diagnostic de la gestion de l'eau. Identification des aides et financements existants. Toute entreprise régionale, plus particulièrement celles des secteurs industrie et services à l'industrie. Sur devis. Contacts : Raphaël Zaïtzev (Hauts-de-France), Badr Chamseddine El Idrissi (Aisne), Denis Weiss (Grand Hainaut), Oriane Guidot (Grand Lille)"
+    },
+    {
+      "champ": "description, mesures, departements",
+      "url": "https://www.cci89.fr/developper-son-entreprise/developpement-durable/eau/",
+      "date": "2026-09-22",
+      "extrait": "Votre conseiller environnement effectue un pré-diagnostic gratuit (la visite eau), sur site. En partenariat avec l'agence de l'eau de Seine-Normandie (AESN), la CCI de l'Yonne vous accompagne afin de mener à bien vos projets ou vous mettre en conformité réglementaire."
+    },
+    {
+      "champ": "description, mesures, departements",
+      "url": "https://www.paysdelaloire.cci.fr/nantes-saint-nazaire/entreprise/transition-ecologique/programme-ressourceau",
+      "date": "2026-09-22",
+      "extrait": "Une analyse détaillée de votre gestion de l'eau. Un plan d'action priorisé et personnalisé à court, moyen et long terme. Un appui à la mise en place des actions identifiées. Un échange après 6 mois/1 an pour suivre les actions engagées. Destiné à toutes les entreprises des Pays de la Loire pour qui l'eau constitue un enjeu de fonctionnement. Programme cofinancé par la CCI des Pays de la Loire et l'Agence de l'Eau Loire-Bretagne, avec le soutien du FEDER. 675 à 1125 euros HT."
+    },
+    {
+      "champ": "description, expertises",
+      "url": "https://www.cote-azur.cci.fr/solutions/climadiag-expert/",
+      "date": "2026-09-22",
+      "extrait": "ClimaDiag Expert s'inscrit dans le programme national porté par le réseau des CCI avec le soutien de l'ADEME. Canicules, inondations, sécheresses, épisodes méditerranéens intenses. Un plan d'actions opérationnel et hiérarchisé. Suivi à 6 mois."
+    }
+  ],
+  "date_maj": "2026-09-22"
+}

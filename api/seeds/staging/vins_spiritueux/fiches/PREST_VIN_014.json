@@ -1,0 +1,69 @@
+{
+  "id": "PREST_VIN_014",
+  "nom": "IFB Environnement",
+  "type": "bureau_etudes",
+  "logo_url": "https://ifbenvironnement.fr/wp-content/uploads/2025/04/logo-IFB-200.png",
+  "siret": "48274039600015",
+  "description": "Société d'ingénierie du traitement de l'eau créée en 2005 à Fresles (Seine-Maritime), avec des implantations à Salon-de-Provence et Toulouse, qui intervient notamment dans le secteur viticole. Elle conçoit et réalise des stations de traitement d'effluents clés en main, de l'étude de dimensionnement à la mise en route, puis en assure l'assistance à l'exploitation et la maintenance ; elle a par exemple installé un traitement biologique de vinasses concentrées à la distillerie d'Argeliers et un traitement des effluents de chais et de distillerie à Lassale de Batz (Gers). Elle accompagne aussi le montage des dossiers d'aide de l'agence de l'eau ; prestations sur devis.",
+  "expertises": [
+    "Traitement des effluents vinicoles",
+    "Traitement biologique des vinasses",
+    "Stations clés en main",
+    "Maintenance de stations"
+  ],
+  "categories": [
+    "agir_rejets_qualite"
+  ],
+  "secteurs": ["vins_spiritueux"],
+  "departements": [],
+  "mesures": [
+    { "id": "ACT_VIN_006", "roles": ["conseil_etude", "travaux"] },
+    { "id": "ACT_VIN_007", "roles": ["conseil_etude", "travaux"] }
+  ],
+  "contacts": [
+    { "type": "site_internet", "value": "https://ifbenvironnement.fr" },
+    { "type": "tel", "value": "02 35 93 98 91" },
+    { "type": "adresse", "value": "891 rue du Beau Soleil, 76270 Fresles" },
+    { "type": "linkedin", "value": "https://www.linkedin.com/company/ifb-environnement/" }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=IFB%20Environnement&departement=76",
+      "date": "2026-09-28",
+      "extrait": "IFB ENVIRONNEMENT, siret 48274039600015, siege, LE BEAU SOLEIL 76270 FRESLES, activite 71.12B, etat_administratif A"
+    },
+    {
+      "champ": "description, expertises, type",
+      "url": "https://ifbenvironnement.fr/nous-connaitre/",
+      "date": "2026-09-28",
+      "extrait": "IFB environnement est une société d'ingénierie [...] la société a naturellement développé ses activités dans le domaine industriel mais également dans les secteurs agroalimentaire, viticole et agricole [...] capable de proposer des installations « clés en main » depuis l'étude de dimensionnement jusqu'à la mise en route du procédé, son exploitation et sa maintenance [...] vous accompagne pour l'élaboration des dossiers type « Aide de l'agence de l'eau »."
+    },
+    {
+      "champ": "mesures (ACT_VIN_007), expertises",
+      "url": "https://ifbenvironnement.fr/realisations/traitement-des-effluents-vinicoles-de-la-distillerie-dargeliers/",
+      "date": "2026-09-28",
+      "extrait": "La mise en place de notre système Végébio® : traitement biologique par boues activées, nous permet de traiter 22000 m3 de vinasses concentrées par voie biologique."
+    },
+    {
+      "champ": "mesures (ACT_VIN_006), expertises",
+      "url": "https://ifbenvironnement.fr/realisations/distillerie-lassale-de-batz-groupe-vivadour-32-projet-2/",
+      "date": "2026-09-28",
+      "extrait": "Traitement des effluent vinicoles. Maître d'ouvrage : Ets MAO JB - Lassale de Batz (32). Type d'installation : VégéBio ® - Effluent de chais + distillerie. Capacité : 10 000 m³ / an"
+    },
+    {
+      "champ": "departements, contacts, description",
+      "url": "https://ifbenvironnement.fr/contact/",
+      "date": "2026-09-28",
+      "extrait": "Un déploiement géographique permettant une action sur l'ensemble du territoire national. Fresles (76) Siège social, 891 rue du Beau Soleil 76270 Fresles, 02 35 93 98 91. Salon de Provence (13). Toulouse (31)."
+    },
+    {
+      "champ": "logo_url, contacts",
+      "url": "https://ifbenvironnement.fr/",
+      "date": "2026-09-28",
+      "extrait": "logo-IFB-200.png ; lien linkedin.com/company/ifb-environnement/ ; Siège social 891 rue du Beau Soleil 76270 Fresles 02 35 93 98 91"
+    }
+  ],
+  "date_maj": "2026-09-28"
+}

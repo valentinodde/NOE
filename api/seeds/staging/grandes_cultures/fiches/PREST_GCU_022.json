@@ -1,0 +1,105 @@
+{
+  "id": "PREST_GCU_022",
+  "nom": "Otech",
+  "type": "equipementier",
+  "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792084486/Noe%20assets/logos/PREST_GCU_022.png",
+  "siret": "39053006100048",
+  "description": "Fabricant de pivots et de rampes frontales d'irrigation basse pression, conçus et produits depuis les années 1980 dans son usine de Puyoô (64), Otech fait partie du groupe italien Farmfront par le groupe Irrimec. Son bureau des projets dimensionne la machine d'après la parcelle et les besoins en eau de la culture, puis réalise l'étude de busage (type, hauteur et pression des arroseurs) pour répartir l'eau de façon homogène sans zones surarrosées, avec en option la télégestion, l'irrigation à taux variable et des capteurs d'humidité du sol. La vente passe par un réseau de revendeurs qui restent l'interlocuteur de l'exploitant, et dans le Sud-Ouest par la filiale Otech 40 (Mont-de-Marsan), qui étudie et installe pivots, rampes et enrouleurs.",
+  "expertises": [
+    "Pivots d'irrigation",
+    "Rampes frontales",
+    "Étude de busage",
+    "Télégestion des machines"
+  ],
+  "categories": [
+    "ameliorer_efficacite_hydrique"
+  ],
+  "secteurs": ["grandes_cultures"],
+  "departements": [],
+  "mesures": [
+    { "id": "ACT_GCU_003", "roles": ["materiel"] }
+  ],
+  "contacts": [
+    { "type": "site_internet", "value": "https://www.otech.fr/" },
+    { "type": "tel", "value": "05 59 65 12 19" },
+    { "type": "mail", "value": "otech-sa@otech.fr" },
+    { "type": "adresse", "value": "ZI la Sablière, 64270 Puyoô" },
+    { "type": "linkedin", "value": "https://fr.linkedin.com/company/otech" }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Otech&departement=64",
+      "date": "2026-10-15",
+      "extrait": "OTECH, siret 39053006100048, siege, CHEMIN DE LA SABLIERE 64270 PUYOO, activite_principale 28.30Z, etat_administratif A"
+    },
+    {
+      "champ": "siret",
+      "url": "https://www.otech.fr/fr/mentions.html",
+      "date": "2026-10-15",
+      "extrait": "Otech S.A.S. [...] est une SAS au capital de 1.920.000 € [...] Siret : 39053006100048 – APE : 2830Z"
+    },
+    {
+      "champ": "contacts",
+      "url": "https://www.otech.fr/fr/contact.html",
+      "date": "2026-10-15",
+      "extrait": "ZI la sablière 64270 Puyoô France +33 559 651 219 Lun - Ven, 8:00-17:00 otech-sa@otech.fr (adresse protégée par Cloudflare, décodée depuis le lien de la page)"
+    },
+    {
+      "champ": "contacts",
+      "url": "https://www.otech.fr/fr/",
+      "date": "2026-10-15",
+      "extrait": "Lien du pied de page vers https://fr.linkedin.com/company/otech ; Adresse OTECH S.A.S. ZI la sablière 64270 Puyoô France"
+    },
+    {
+      "champ": "type, description",
+      "url": "https://www.otech.fr/fr/entreprise/histoire.html",
+      "date": "2026-10-15",
+      "extrait": "Implantée à Puyoô [...] depuis le début des années 1980, l'usine Otech S.A.S. [...] un bureau d'étude équipé en outils CAO 3D pour la conception des prototypes [...] un centre de production (fabrication, usinage, soudure, électricité) sur 11 000m² [...] crée 4 ans plus tard OTECH40, une filiale à Mont de Marsan [...] pour s'adapter aux hybrides de maïs plus hauts, les tours ont été transformées"
+    },
+    {
+      "champ": "type, description, expertises, mesures",
+      "url": "https://www.otech.fr/fr/entreprise/savoir-faire.html",
+      "date": "2026-10-15",
+      "extrait": "Environs 20 000 tonnes d'acier sont transformées à l'usine de Puyoô chaque année. [...] Le débit nécessaire est calculé en mettant la surface en corrélation avec les besoins en eau de la culture. [...] Sa répartition doit être homogène, pour ne pas créer de zones sur ou sous-arrosées [...] sur la hauteur des arroseurs par rapport au sol, afin d'arroser au plus près de la culture et éviter les pertes [...] Cette relation tripartite Otech S.A.S. – Revendeur – Client permet au revendeur de rester l'interlocuteur privilégié pour le client"
+    },
+    {
+      "champ": "description, expertises",
+      "url": "https://www.otech.fr/fr/",
+      "date": "2026-10-15",
+      "extrait": "Notre gamme de produits ST : Les pivots, Les rampes frontales, La télégestion, Les armoires [...] étude de busage personnalisée | variable rate irrigation [...] station météo et capteurs d'humidité du sol"
+    },
+    {
+      "champ": "expertises, mesures",
+      "url": "https://www.otech.fr/fr/nos-produits/pivot/index.html",
+      "date": "2026-10-15",
+      "extrait": "Notre gamme ST « Pivot » : Mini Pivot, Pivot ST, Pivot ST Secteur, Pivot rehaussé, Pivot hydraulique, Double pivot, Pivot déplaçable sur roues"
+    },
+    {
+      "champ": "expertises, mesures",
+      "url": "https://www.otech.fr/fr/nos-produits/rampe-frontale/index.html",
+      "date": "2026-10-15",
+      "extrait": "Les rampes frontales sont des systèmes d'irrigation mobiles se déplaçant en translation pour irriguer des parcelles rectangulaires."
+    },
+    {
+      "champ": "description, mesures",
+      "url": "https://farmfront.com/en/about-us/group",
+      "date": "2026-10-15",
+      "extrait": "the Irrimec Group is now part of Farmfront [...] it also includes the French companies Otech and Otech 40. [...] Since the 1980s, OTECH has been designing and producing low-pressure, high-precision irrigation systems at its facility in Puyoô, France. [...] Otech 40 specialises in agricultural irrigation, drilling and water supply in south-western France [...] installation of irrigation solutions, including pivots, linear systems, rollers"
+    },
+    {
+      "champ": "departements",
+      "url": "https://www.otech.fr/fr/entreprise/savoir-faire.html",
+      "date": "2026-10-15",
+      "extrait": "le pôle ADV assure au quotidien l'interface [...] elles accompagnent nos livraisons tant au national qu'à l'international"
+    },
+    {
+      "champ": "logo_url",
+      "url": "https://www.otech.fr/images/favicon/favicon-196.png",
+      "date": "2026-10-15",
+      "extrait": "Icône du site (favicon 196 x 196, fond transparent) : goutte verte formée de points et d'arcs"
+    }
+  ],
+  "date_maj": "2026-10-15"
+}

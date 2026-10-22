@@ -1,0 +1,1470 @@
+[
+  {
+    "id": "PREST_HOT_001",
+    "nom": "EcoTechniques",
+    "type": "equipementier",
+    "logo_url": null,
+    "siret": "40767775600048",
+    "description": "Entreprise de Longvic (Côte-d'Or) spécialisée depuis 1996 dans l'économie d'eau, qui conçoit et fabrique en France des régulateurs de débit, douchettes et autres économiseurs, et cite des hôtels parmi ses références (hôtels B&B, Accor, Hôtel Clarine, Hôtel Daunou). Elle réalise un audit sur site qui inventorie tous les points d'eau et mesure débits et pressions, fait poser les dispositifs par ses propres techniciens puis suit les consommations pour vérifier les économies. L'audit initial est gratuit et sans engagement, et l'entreprise s'engage par écrit sur le niveau d'économies quand l'installation lui est confiée.",
+    "expertises": [
+      "Audit d'économie d'eau",
+      "Régulateurs et douchettes économes",
+      "Pose de dispositifs hydro-économes",
+      "Suivi des consommations après pose"
+    ],
+    "categories": [
+      "ameliorer_efficacite_hydrique",
+      "suivre_comprendre_maitriser"
+    ],
+    "secteurs": [
+      "hotellerie"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_HOT_001",
+        "roles": [
+          "conseil_etude",
+          "travaux",
+          "materiel"
+        ]
+      },
+      {
+        "id": "ACT_AGR_002",
+        "roles": [
+          "conseil_etude"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://eco-techniques.fr/"
+      },
+      {
+        "type": "tel",
+        "value": "03 80 52 99 75"
+      },
+      {
+        "type": "mail",
+        "value": "contact@eco-techniques.fr"
+      },
+      {
+        "type": "adresse",
+        "value": "7 Bis Boulevard Eiffel, 21600 Longvic"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "siret, adresse, type",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=ECO%20TECHNIQUES&departement=21",
+        "date": "2026-09-24",
+        "extrait": "ECO-TECHNIQUES, siret 40767775600048, siège, 7 B BOULEVARD EIFFEL 21600 LONGVIC, activité 28.14Z, état administratif A"
+      },
+      {
+        "champ": "contacts",
+        "url": "https://eco-techniques.fr/contact/",
+        "date": "2026-09-24",
+        "extrait": "7 Bis Boulevard Eiffel, 21600 Longvic. 03 80 52 99 75. contact@eco-techniques.fr"
+      },
+      {
+        "champ": "description, secteurs",
+        "url": "https://eco-techniques.fr/references/",
+        "date": "2026-09-24",
+        "extrait": "Hôtellerie & tourisme : Hôtels B&B, Hôtel Méridien Caraïbes, Hôtel Ambassador (75), Hôtel Clarine (21), Hôtel Daunou (75), CroisiEurope"
+      },
+      {
+        "champ": "description, secteurs",
+        "url": "https://eco-techniques.fr/a-propos/",
+        "date": "2026-09-24",
+        "extrait": "Depuis 1996 [...] Hôtellerie & tourisme : Accor, B&B, Méridien Caraïbes, CroisiEurope. Nos dispositifs français à 98% sont certifiés et garantis 10 ans"
+      },
+      {
+        "champ": "description, expertises, departements, mesures (ACT_AGR_002, ACT_HOT_001 conseil_etude), type",
+        "url": "https://eco-techniques.fr/audit-diagnostic-deconomie-deau/",
+        "date": "2026-09-24",
+        "extrait": "réalise des audits gratuits pour collectivités et entreprises en Bourgogne-Franche-Comté et partout en France [...] inventorier 100 % des points d'eau (robinets, douches, sanitaires…). Débits, pressions et usages sont mesurés [...] rapport clair et chiffré [...] L'audit initial est 100 % gratuit et sans engagement. [...] nous nous engageons par écrit sur le niveau d'économies d'eau prévu dans le diagnostic [...] conçus et fabriqués en France"
+      },
+      {
+        "champ": "expertises, mesures (ACT_HOT_001 materiel)",
+        "url": "https://eco-techniques.fr/dispositifs-hydro-economes/",
+        "date": "2026-09-24",
+        "extrait": "conçoit depuis plus de 25 ans des régulateurs, douchettes et aérateurs fiables, 98 % français [...] Nous proposons aussi des solutions comme les limiteurs de chasse d'eau ou les mousseurs adaptés aux faibles pressions."
+      },
+      {
+        "champ": "expertises, mesures (ACT_HOT_001 travaux), description",
+        "url": "https://eco-techniques.fr/installation-suivi/",
+        "date": "2026-09-24",
+        "extrait": "L'installation est réalisée directement par l'équipe EcoTechniques. Aucun sous-traitant [...] Habitués à équiper tous types de bâtiments [...] publics, hôtels, campings, industries [...] Relevés réguliers des compteurs, comparaison avant/après"
+      }
+    ],
+    "date_maj": "2026-09-24"
+  },
+  {
+    "id": "PREST_HOT_002",
+    "nom": "Delabie",
+    "type": "equipementier",
+    "logo_url": null,
+    "siret": "61568008900013",
+    "description": "Entreprise familiale qui fabrique de la robinetterie et des appareils sanitaires pour les lieux recevant du public, avec son siège social et son site de production à Friville-Escarbotin (Somme) ; le groupe a aussi acquis en 2012 une fonderie au Portugal. Pour un hôtel, elle fournit des pommeaux de douche à débit régulé de 6 l/min, des chasses directes à double touche 3 l/6 l et de la robinetterie temporisée, et présente une réalisation au Mama Shelter de Lille : robinets de lavabo temporisés dans les sanitaires des parties communes et installations sanitaires spécifiques dans les chambres pour personnes à mobilité réduite. Un service conseil répond par téléphone, un service devis par téléphone ou par formulaire, et le site propose un calcul des mètres cubes d'eau économisés.",
+    "expertises": [
+      "Pommeaux de douche à débit régulé",
+      "Chasse directe double touche",
+      "Robinetterie temporisée"
+    ],
+    "categories": [
+      "ameliorer_efficacite_hydrique"
+    ],
+    "secteurs": [
+      "hotellerie"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_HOT_001",
+        "roles": [
+          "materiel"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.delabie.fr/"
+      },
+      {
+        "type": "tel",
+        "value": "03 65 17 00 25"
+      },
+      {
+        "type": "adresse",
+        "value": "18 rue du Maréchal Foch, 80130 Friville-Escarbotin"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "siret, adresse",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=Delabie&departement=80",
+        "date": "2026-09-24",
+        "extrait": "DELABIE, SIRET 61568008900013, siège, 18 RUE DU MARECHAL FOCH 80130 FRIVILLE-ESCARBOTIN, activite_principale 28.14Z (NAF 2025 : 28.14Y), état administratif A"
+      },
+      {
+        "champ": "contacts, type, description (site de production en France), departements",
+        "url": "https://www.delabie.fr/contact",
+        "date": "2026-09-24",
+        "extrait": "DELABIE FRANCE 18, rue du Maréchal Foch 80130 Friville FRANCE [...] DEVIS Obtenez un chiffrage précis pour votre projet Tél. 03 22 60 22 71 Compléter notre formulaire CONSEIL Discutez de votre projet avec nos experts Tél. 03 65 17 00 25 [...] SIÈGE SOCIAL ET SITE DE PRODUCTION 18, rue du Maréchal Foch 80130 Friville FRANCE [...] DELABIE exporte dans plus de 90 pays depuis son usine en France"
+      },
+      {
+        "champ": "type, description (assemblage en France)",
+        "url": "https://www.delabie.fr/le-groupe/rejoignez-nous/nos-metiers/les-ateliers-d-assemblage",
+        "date": "2026-09-24",
+        "extrait": "Sur notre site de Friville Escarbotin (Picardie Maritime), nous comptons 8 équipes dédiées à la prise en charge des composants et à leur contrôle qualité, à l'assemblage de nos produits et à leur expédition vers nos clients."
+      },
+      {
+        "champ": "description (entreprise familiale)",
+        "url": "https://www.delabie.fr/le-groupe/rejoignez-nous/mieux-connaitre-delabie/delabie-presentee-par-l-un-de-ses-gerants-luc-delabie",
+        "date": "2026-09-24",
+        "extrait": "Entreprise 100 % familiale, DELABIE bénéficie de la grande stabilité de son actionnariat. Depuis l'origine, quatre générations ont dirigé l'entreprise"
+      },
+      {
+        "champ": "description (fonderie au Portugal)",
+        "url": "https://www.delabie.fr/le-groupe/a-propos-de-nous/notre-histoire",
+        "date": "2026-09-24",
+        "extrait": "2012 Acquisition d'une fonderie au Portugal"
+      },
+      {
+        "champ": "description, secteurs (référence hôtelière)",
+        "url": "https://www.delabie.fr/le-groupe/delabie-dans-le-monde/nos-realisations/hotellerie-restauration/hotel-mama-shelter-lille-france",
+        "date": "2026-09-24",
+        "extrait": "le Mama Shelter de Lille dispose dans les sanitaires des parties communes de robinetteries et équipements sanitaires modernes notamment des robinetteries de lavabo temporisées DELABIE TEMPOMIX 3. Certaines chambres conçues pour accueillir des personnes à mobilité réduite ont également des installations sanitaires spécifiques DELABIE."
+      },
+      {
+        "champ": "secteurs (offre hôtelière), description",
+        "url": "https://www.delabie.fr/nos-services/notre-expertise/nos-inspirations/hotel9",
+        "date": "2026-09-24",
+        "extrait": "Nos inspirations DELABIE - Hôtel [...] Nos équipes vous accompagnent pour trouver la solution adaptée à votre établissement, que ce soit en construction ou en rénovation. Calculez facilement le nombre de m3 d'eau économisés avec nos robinetteries"
+      },
+      {
+        "champ": "expertises, mesures (douche à débit limité)",
+        "url": "https://www.delabie.fr/nos-produits/robinetterie-pour-lieux-publics/robinet-de-douche-automatique/709000-pommeau-de-douche-round",
+        "date": "2026-09-24",
+        "extrait": "Pommeau de douche ROUND Réf. 709000 Pommeau de douche fixe : Pour arrivée d'eau encastrée. Débit 6 l/min à 3 bar. Régulation automatique du débit."
+      },
+      {
+        "champ": "expertises, mesures (chasse double commande)",
+        "url": "https://www.delabie.fr/le-groupe/trends-le-mag/in-the-air/a-tempo",
+        "date": "2026-09-24",
+        "extrait": "Plaques de commande pour robinetterie temporisée TEMPOFLUX 3 WC : Plaque double touche 3l/6l en métal chromé - référence 763040 Plaque double touche 3l/6l en Inox brossé - référence 763000"
+      },
+      {
+        "champ": "expertises, mesures (chasse à volume adapté)",
+        "url": "https://www.delabie.fr/nos-produits/robinetterie-pour-lieux-publics/chasse-d-eau-directe-sans-reservoir/464056-plaque-de-commande-tempomatic-bicommande-pour-wc",
+        "date": "2026-09-24",
+        "extrait": "adaptation du volume de chasse en fonction de l'usage - 3 l présence courte, 6 l présence longue - (ajustable 2 l/4 l ou 5 l/9 l)"
+      }
+    ],
+    "date_maj": "2026-09-24"
+  },
+  {
+    "id": "PREST_HOT_003",
+    "nom": "Les Robinets Presto",
+    "type": "equipementier",
+    "logo_url": null,
+    "siret": "54209143400010",
+    "description": "Fabricant français de robinetterie pour les lieux recevant du public, siège à Montrouge et site de production à Saint-Georges-de-Didonne (17110), avec un second site au Portugal. Pour les hôtels, il fournit des robinets de lavabo temporisés à débit réduit (1,9 ou 3 l/min), des robinetteries de douche temporisées (6, 8 ou 10 l/min), de la robinetterie électronique sans contact et des robinets de chasse directe à double volume réglable, et cite des références comme l'Hôtel Bedford et l'Hôtel Disneyland à Paris. Les produits se vendent par un réseau de distributeurs professionnels ; pour un chantier de plus de 3 000 euros HT en prix public, le chiffrage se demande par mail au service dédié, en indiquant l'installateur.",
+    "expertises": [
+      "Robinetterie temporisée",
+      "Robinetterie électronique sans contact",
+      "Chasse directe double volume"
+    ],
+    "categories": [
+      "ameliorer_efficacite_hydrique"
+    ],
+    "secteurs": [
+      "hotellerie"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_HOT_001",
+        "roles": [
+          "materiel"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://presto.fr/"
+      },
+      {
+        "type": "tel",
+        "value": "01 46 12 34 56"
+      },
+      {
+        "type": "mail",
+        "value": "serviceclient@presto-group.com"
+      },
+      {
+        "type": "adresse",
+        "value": "7 rue Racine, 92120 Montrouge"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "siret, adresse",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=Les%20Robinets%20Presto&departement=92",
+        "date": "2026-09-24",
+        "extrait": "SA LES ROBINETS PRESTO, SIRET 54209143400010, siège, 7 RUE RACINE 92120 MONTROUGE, NAF 28.14Z, état administratif A"
+      },
+      {
+        "champ": "contacts, description (chiffrage chantier)",
+        "url": "https://presto.fr/fr/contact/",
+        "date": "2026-09-24",
+        "extrait": "Tél. : +33 (0)1 46 12 34 56 [...] Email : serviceclient@presto-group.com ; Pour établir un chiffrage chantier dont le montant total en prix public est supérieur à 3 000€ HT, veuillez envoyer vos demandes de prix par mail en indiquant : [...] Le nom de l'installateur"
+      },
+      {
+        "champ": "type, description (fabrication en France)",
+        "url": "https://presto.fr/fr/entreprise/organisation/",
+        "date": "2026-09-24",
+        "extrait": "Tous les produits PRESTO sont fabriqués à Saint George-de-Didonne et au Portugal. Avec notre siège social situé à Montrouge, nous employons 220 salariés en France."
+      },
+      {
+        "champ": "type, description (fabricant)",
+        "url": "https://presto.fr/fr/entreprise/charte-dindustriel/",
+        "date": "2026-09-24",
+        "extrait": "PRESTO conçoit et fabrique depuis 100 ans des solutions de robinetteries pour les lieux qui reçoivent du public [...] Fabrication en France et au Portugal"
+      },
+      {
+        "champ": "description, expertises, mesures, secteurs",
+        "url": "https://presto.fr/fr/projet/hotellerie/",
+        "date": "2026-09-24",
+        "extrait": "Les robinets temporisés limitent durablement la consommation d'eau [...] Robinetterie électronique sans contact, détection infrarouge ; Chasse directe à double volume ajustable indépendamment ; Hôtel Bedford, Paris ; Hôtel DisneyLand, Paris ; Le Pas Sage, Royan ; site de production 4 rue Lavoisier, 17110 Saint Georges de Didonne"
+      },
+      {
+        "champ": "mesures, description (lavabo débit réduit)",
+        "url": "https://presto.fr/fr/robinetteries/robinet-temporise-neo/",
+        "date": "2026-09-24",
+        "extrait": "Robinet temporisé NEO, NEO DUO, NEO Sensor ; Débit : 1,9 l/min ou 3 l/min ; Double temporisation assurant une consommation d'eau optimale pour les différents usages"
+      },
+      {
+        "champ": "mesures, description (douche)",
+        "url": "https://presto.fr/fr/robinetteries/prestotem2/",
+        "date": "2026-09-24",
+        "extrait": "Prestotem® | Découvrez notre robinetterie de douche ; Débit : 6 l/min, 8 l/min ou 10 l/min"
+      },
+      {
+        "champ": "mesures, expertises (chasse double volume)",
+        "url": "https://presto.fr/fr/robinetteries/p1000xldva/",
+        "date": "2026-09-24",
+        "extrait": "Double volume d'eau ajustable et système S ; Version économique : grand volume ajustable de 3 à 5 litres et petit volume de 1,5 à 3 litres"
+      },
+      {
+        "champ": "departements, description (distribution)",
+        "url": "https://presto.fr/fr/store-locator/",
+        "date": "2026-09-24",
+        "extrait": "Retrouvez nos produits en distribution professionnelle. Carte de 1 375 points de vente (données de la carte, comptage du rédacteur) dont les codes postaux couvrent les départements 01 à 95, par exemple SIDER LILLE, 59520 Marquette-lez-Lille ; WSL33, 33000 Bordeaux ; SIDER RENNES, 35135 Chantepie ; SIDER LYON, 69120 Vaulx-en-Velin"
+      }
+    ],
+    "date_maj": "2026-09-24"
+  },
+  {
+    "id": "PREST_HOT_005",
+    "nom": "FairMoove Solutions (ex-Betterfly Tourism)",
+    "type": "bureau_etudes",
+    "logo_url": null,
+    "siret": "53356378900049",
+    "description": "Société de conseil nantaise spécialisée dans le tourisme, issue de Betterfly Tourism (entrée dans le groupe FairMoove en 2023). Pour les hôtels, elle édite FairScore, une notation environnementale par nuitée fondée sur les standards de l'ADEME et la base Empreinte, dont l'un des quatre indicateurs est la consommation d'eau, propose un accompagnement avec visite terrain et plan d'action sur l'énergie, l'eau et les achats, et forme le personnel par son organisme certifié Qualiopi, dont la formation de 3 h 30 du critère 237 du classement hôtelier sur les économies d'eau. Prestations payantes : la formation du critère 237 est affichée à 650 euros HT par session, dans l'établissement ou en visioconférence, avec prise en charge OPCO possible.",
+    "expertises": [
+      "Notation environnementale FairScore",
+      "Consommation d'eau par nuitée",
+      "Visite terrain et plan d'action",
+      "Formation critère 237"
+    ],
+    "categories": [
+      "suivre_comprendre_maitriser",
+      "sensibiliser_former"
+    ],
+    "secteurs": [
+      "hotellerie"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_HOT_007",
+        "roles": [
+          "conseil_etude"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.fairmoove-solutions.com/"
+      },
+      {
+        "type": "tel",
+        "value": "+33 (0)2 40 74 69 24"
+      },
+      {
+        "type": "mail",
+        "value": "contact.web@fairmoove-solutions.com"
+      },
+      {
+        "type": "adresse",
+        "value": "28 rue de Strasbourg, 44000 Nantes"
+      },
+      {
+        "type": "linkedin",
+        "value": "https://www.linkedin.com/company/fairmoove-solutions"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "siret, adresse, type",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=FairMoove%20Solutions&departement=44",
+        "date": "2026-09-24",
+        "extrait": "FAIRMOOVE SOLUTIONS, siret 53356378900049, siège, 28 RUE DE STRASBOURG 44000 NANTES, activité 70.22Z, état administratif A"
+      },
+      {
+        "champ": "contacts",
+        "url": "https://www.fairmoove-solutions.com/contact",
+        "date": "2026-09-24",
+        "extrait": "Par téléphone +33 (0)2 40 74 69 24. Par email contact.web@fairmoove-solutions.com [lien LinkedIn linkedin.com/company/fairmoove-solutions en pied de page]"
+      },
+      {
+        "champ": "nom, description",
+        "url": "https://www.fairmoove-solutions.com/qui-sommes-nous",
+        "date": "2026-09-24",
+        "extrait": "Betterfly Tourism devient FairMoove Solutions [...] En 2023, Jean-Pierre Nadir, fondateur de FairMoove [...] fait entrer Betterfly Tourism dans le groupe FairMoove"
+      },
+      {
+        "champ": "description, expertises, secteurs, mesures (ACT_HOT_007 conseil_etude)",
+        "url": "https://www.fairmoove-solutions.com/fairscore",
+        "date": "2026-09-24",
+        "extrait": "4 indicateurs clés pour une mesure précise (par nuitée) - Impact carbone - Consommation d’eau - Épuisement des ressources énergétiques [...] Un référentiel officiel : Basé sur les standards de l’ADEME et la base de données Empreinte® (ex-IMPACTS®) [...] Collecte des données : rassemblement d'informations sur vos consommations (énergie, eau, déchets, services, etc.)"
+      },
+      {
+        "champ": "description, expertises",
+        "url": "https://www.fairmoove-solutions.com/conseil-rse-hospitality",
+        "date": "2026-09-24",
+        "extrait": "Une visite terrain de votre établissement [...] Un plan d'action ciblé sur les principaux leviers : actions à engager sur l'énergie, l'eau, les consommables, les achats ou les pratiques internes [...] Eau : réduire vos consommations d'eau sans dégrader l'expérience client ni l'exploitation."
+      },
+      {
+        "champ": "description, expertises, categories",
+        "url": "https://www.fairmoove-solutions.com/academy",
+        "date": "2026-09-24",
+        "extrait": "FORMATION 3H30 Formation du personnel à la gestion économe de l'énergie, aux mesures d'économie d'eau et à la gestion des déchets (N°237) Financement Prise en charges OPCO possible [...] L'Académie Betterfly Tourism x FairMoove Solutions est un organisme de formation certifié Qualiopi [...] Écogestion responsable de l'eau dans les hébergements touristiques"
+      },
+      {
+        "champ": "description, departements, categories",
+        "url": "https://directus.fairmoove-solutions.com/assets/cd0fb7a8-8de6-4b20-82a2-62ab7a1360cb",
+        "date": "2026-09-24",
+        "extrait": "Formation du personnel à la gestion économe de l'énergie, aux mesures d'économie d'eau et à la gestion des déchets (N°237). 3H30. En présentiel dans votre établissement OU à distance en visioconférence. 650 € HT par session [...] Savoir comment réduire les consommations d'eau, d'énergie et la quantité de déchets dans un établissement hôtelier. Destinée à tout collaborateur travaillant dans le secteur de l'hôtellerie."
+      },
+      {
+        "champ": "departements",
+        "url": "https://landing.fairmoove-solutions.com/",
+        "date": "2026-09-24",
+        "extrait": "L'Académie Digitale | Formation E-Learning Hôtellerie [...] 19 langues [...] La gestion de la ressource en eau [...] une utilisation raisonnée et efficace de l'eau au quotidien"
+      }
+    ],
+    "date_maj": "2026-09-24"
+  },
+  {
+    "id": "PREST_HOT_006",
+    "nom": "FHOR",
+    "type": "organisme_formation",
+    "logo_url": null,
+    "siret": "98143541500014",
+    "description": "Organisme de formation bordelais certifié Qualiopi, constitué en entreprise individuelle et spécialisé dans l'hôtellerie et la restauration. Il dispense la formation aux écogestes exigée du personnel par le classement hôtelier, qui couvre l'eau, l'énergie et les déchets, avec une partie « Maîtriser la consommation d'eau » (état des lieux, bonnes pratiques à adopter), en 4 heures en visioconférence pour 1 à 10 participants, le programme et le format pouvant être adaptés. Le tarif indicatif affiché est de 650 euros, sur devis, avec une prise en charge possible par votre OPCO ; l'organisme intervient en France et dans les pays francophones.",
+    "expertises": [
+      "Formation écogestes classement hôtelier",
+      "Bonnes pratiques de consommation d'eau"
+    ],
+    "categories": [
+      "sensibiliser_former"
+    ],
+    "secteurs": [
+      "hotellerie"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_HOT_002",
+        "roles": [
+          "formation"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.fhor.fr/"
+      },
+      {
+        "type": "tel",
+        "value": "05 81 04 83 83"
+      },
+      {
+        "type": "tel",
+        "value": "05 47 29 27 70"
+      },
+      {
+        "type": "mail",
+        "value": "contact@fhor.fr"
+      },
+      {
+        "type": "adresse",
+        "value": "5 rue Fénelon, 33000 Bordeaux"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "siret",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=981435415&departement=33",
+        "date": "2026-09-24",
+        "extrait": "siren 981435415, siret 98143541500014, siège, nom et adresse [NON-DIFFUSIBLE], nature juridique 1000, activité 85.59A, état administratif A"
+      },
+      {
+        "champ": "siret, type, description (entreprise individuelle), contacts (tel 05 47 29 27 70, mail, adresse)",
+        "url": "https://www.fhor.fr/mentions-legales/",
+        "date": "2026-09-24",
+        "extrait": "Propriétaire du site : FHOR, Contact : contact[@]fhor.fr, 0547292770, Adresse : 5 rue Fénelon, 33000 Bordeaux. Identification de l'entreprise : EI FHOR, SIREN : 981.435.415"
+      },
+      {
+        "champ": "contacts",
+        "url": "https://www.fhor.fr/contact/",
+        "date": "2026-09-24",
+        "extrait": "Contactez-Nous 05 81 04 83 83 contact[@]fhor.fr 5 rue Fénelon 33000 Bordeaux [...] (pied de page) 05 47 29 27 70 contact[@]fhor.fr 5 rue Fénelon, 33000 Bordeaux"
+      },
+      {
+        "champ": "type, description, departements",
+        "url": "https://www.fhor.fr/nous-connaitre/",
+        "date": "2026-09-24",
+        "extrait": "FHOR est certifié Qualiopi [...] Restaurateurs et hôteliers, nous vous accompagnons pour la création et le développement de vos établissements. Nous intervenons en France et dans les pays francophones."
+      },
+      {
+        "champ": "description, expertises, mesures (ACT_HOT_002 formation)",
+        "url": "https://www.fhor.fr/service/ecogestes-en-hotellerie-formation/",
+        "date": "2026-09-24",
+        "extrait": "Ecogestes : eau, énergie, déchets (Classement hôtelier) 650 € [...] Identifier les sources de gaspillage et les leviers d'économie d'eau et d'énergie [...] 3) Maîtriser la consommation d'eau : Etat des lieux, Bonnes pratiques à adopter [...] Durée 4 heures. Format Distanciel (visioconférence). Public cible L'ensemble du personnel de l'établissement [...] 1 à 10 participants par session [...] prise en charge par votre OPCO"
+      },
+      {
+        "champ": "mesures (ACT_HOT_002 formation, contexte : article général de FHOR sur le contenu attendu de la formation écogestes, pas le programme)",
+        "url": "https://www.fhor.fr/hotellerie/formation-classement-hotelier-ecogestes-et-handicap/",
+        "date": "2026-09-24",
+        "extrait": "Gestion de l'eau : Sensibiliser à la consommation d'eau (robinets, douches, toilettes), à la détection des fuites et à l'utilisation de systèmes économes en eau."
+      }
+    ],
+    "date_maj": "2026-09-24"
+  },
+  {
+    "id": "PREST_HOT_007",
+    "nom": "Hôtel Vert",
+    "type": "bureau_etudes",
+    "logo_url": null,
+    "siret": null,
+    "description": "Équipe lyonnaise de consultants RSE spécialisés dans les hébergements touristiques, qui intervient sur toute la France. Elle réalise une analyse des pratiques de l'établissement, accompagne l'obtention de la Clef Verte en fournissant les éléments de preuve critère par critère (dont l'affichage proposant le changement des draps et serviettes uniquement à la demande) et forme le personnel aux écogestes exigés par le classement hôtelier, dont les mesures d'économie d'eau. La formation en formule intra ou inter est affichée à 650 euros HT la session de 3h30, et des modèles d'affichage et éléments de preuve sont téléchargeables gratuitement sur le site.",
+    "expertises": [
+      "Accompagnement au label Clef Verte",
+      "Formation écogestes classement hôtelier",
+      "Affichage linge à la demande",
+      "Diagnostic RSE d'établissement"
+    ],
+    "categories": [
+      "changer_process_pratiques",
+      "sensibiliser_former"
+    ],
+    "secteurs": [
+      "hotellerie"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_HOT_003",
+        "roles": [
+          "conseil_etude"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.hotelvert.com/"
+      },
+      {
+        "type": "tel",
+        "value": "09 72 01 01 74"
+      },
+      {
+        "type": "mail",
+        "value": "contact@hotelvert.com"
+      },
+      {
+        "type": "adresse",
+        "value": "129, Tour Part-Dieu, rue de Servient, 69003 Lyon"
+      },
+      {
+        "type": "linkedin",
+        "value": "https://www.linkedin.com/company/h%C3%B4tel-vert-d%C3%A9veloppement-durable-et-rse/"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "contacts (site, téléphone, adresse), departements",
+        "url": "https://www.hotelvert.com/contact/",
+        "date": "2026-09-24",
+        "extrait": "Adresse 129, Tour Part-Dieu Rue de Servient 69003 Lyon. Contact +33 09 72 01 01 74 [...] Formations et consulting sur toute la France"
+      },
+      {
+        "champ": "contacts (mail)",
+        "url": "https://www.hotelvert.com/wp-json/wp/v2/pages/27",
+        "date": "2026-09-24",
+        "extrait": "Contenu de la page Contact servi par le site en JSON, adresse non masquée : +33 09 72 01 01 74 contact@hotelvert.com"
+      },
+      {
+        "champ": "type, description, expertises (diagnostic RSE, Clef Verte)",
+        "url": "https://www.hotelvert.com/consulting-rse/",
+        "date": "2026-09-24",
+        "extrait": "Nous sommes une équipe de consultants RSE spécialisés dans le secteur hôtelier [...] Analyse de la Situation Actuelle : Notre équipe effectue une évaluation approfondie de vos pratiques actuelles [...] Obtention d'écolabel : Nous nous occupons des éléments de preuve pour que vous puissiez profitez pleinement de votre écolabel."
+      },
+      {
+        "champ": "description, expertises, mesures (ACT_HOT_003 conseil_etude)",
+        "url": "https://www.hotelvert.com/hotel-vert/labellisation-classement-hotelier/label-la-clef-verte/",
+        "date": "2026-09-24",
+        "extrait": "Hôtel Vert vous aide pour vos éléments de preuve [...] À chaque critère, un article avec des éléments de preuve téléchargeables et gratuits [...] 19) Un affichage indique aux clients qu'ils ont la possibilité de faire nettoyer leurs draps et serviettes uniquement sur demande."
+      },
+      {
+        "champ": "description, expertises, mesures (ACT_HOT_003 conseil_etude)",
+        "url": "https://www.hotelvert.com/la-reutilisation-des-draps-et-serviettes/",
+        "date": "2026-09-24",
+        "extrait": "Que ce soit en version papier ou en version numérique (TV ou QR code), vous vous devez de sensibiliser vos clients à la réutilisation des draps et serviettes à l'intérieur de la chambre. [...] Exemple signalisation pour la réutilisation des serviettes à imprimer"
+      },
+      {
+        "champ": "description, expertises (formation écogestes, tarif)",
+        "url": "https://www.hotelvert.com/formation-developpement-durable/",
+        "date": "2026-09-24",
+        "extrait": "Répondez au critère obligatoire 237 du classement hôtelier [...] formation du personnel à la gestion économe de l'énergie, aux mesures d'économie d'eau et à la gestion des déchets. [...] INTRA OU INTER Idéal pour les TPE ou + de 50 salariés € 650 HT pour une session de 3h30 [...] Formations sur toute la France"
+      },
+      {
+        "champ": "siret (non trouvé)",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=Hotel%20Vert&departement=69",
+        "date": "2026-09-24",
+        "extrait": "Aucun résultat au nom de Hôtel Vert dans le Rhône (seul résultat : CENTRE DE CONSEIL ET DE SERVICE, Nantes) ; la page mentions légales du site ne contient aucune identification de l'éditeur, et aucune page du site ni la page LinkedIn ne donnent de raison sociale ou de SIRET."
+      }
+    ],
+    "date_maj": "2026-09-24"
+  },
+  {
+    "id": "PREST_HOT_008",
+    "nom": "Danube International (Onnera Laundry France)",
+    "type": "installateur",
+    "logo_url": null,
+    "siret": "34222275900058",
+    "description": "Société de Lamotte-Beuvron (Loir-et-Cher), immatriculée sous le nom Onnera Laundry France et présentée sur son site sous la marque Danube, qui propose aux hôtels des laveuses frontales de 11 à 120 kg et cite l'hôtel 1770 Le Factory (Le Pontet) parmi ses réalisations. Pour l'eau, elle commercialise les bacs AQUABAC, qui récupèrent l'eau de rinçage pour la réinjecter dans un lavage suivant (jusqu'à 70 % d'économie d'eau annoncée par l'entreprise), et assure un service après-vente en ligne ou sur site. Le site dit concevoir et fabriquer ses machines, la commune la présente comme constructeur et son code d'activité est industriel (28.94Z), mais le lieu de fabrication n'est publié nulle part : faute de mention explicite d'une production en France, la fiche la classe en installateur.",
+    "expertises": [
+      "Laveuses professionnelles hôtelières",
+      "Récupération d'eau de rinçage",
+      "Service après-vente sur site"
+    ],
+    "categories": [
+      "ameliorer_efficacite_hydrique"
+    ],
+    "secteurs": [
+      "hotellerie"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_HOT_004",
+        "roles": [
+          "materiel"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.danube-international.com/"
+      },
+      {
+        "type": "tel",
+        "value": "02 54 88 05 76"
+      },
+      {
+        "type": "mail",
+        "value": "info@danube-international.com"
+      },
+      {
+        "type": "adresse",
+        "value": "3 rue Léonard de Vinci, Parc d'activités de Sologne, 41600 Lamotte-Beuvron"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "siret, adresse, nom, description (code d'activité 28.94Z)",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=ONNERA%20LAUNDRY%20FRANCE&departement=41",
+        "date": "2026-09-24",
+        "extrait": "ONNERA LAUNDRY FRANCE, siret 34222275900058, siège, PARC ACTIVITES DE SOLOGNE 3 RUE LEONARD DE VINCI 41600 LAMOTTE-BEUVRON, activité 28.94Z, état administratif A"
+      },
+      {
+        "champ": "nom, contacts, description, expertises, departements, type",
+        "url": "https://www.danube-international.com/entreprise/",
+        "date": "2026-09-24",
+        "extrait": "Chez Danube, nous concevons et fabriquons des machines pour la blanchisserie hospitalière depuis 1984. [...] Nous sommes un fournisseur mondial de machines qui propose des solutions complètes pour votre blanchisserie. [...] Notre équipe technique offre un support après-vente professionnel en ligne ou sur site chaque fois que nécessaire. [...] ONNERA LAUNDRY FRANCE, 3 rue Léonard de Vinci, Parc d'activités de Sologne, 41600 Lamotte Beuvron, France. (+33)2 54 88 05 76. info@danube-international.com"
+      },
+      {
+        "champ": "secteurs, description, expertises, mesures (ACT_HOT_004 materiel)",
+        "url": "https://www.danube-international.com/secteurs/hotellerie-restauration/",
+        "date": "2026-09-24",
+        "extrait": "la conception et la fabrication d'équipements et de solutions de blanchisserie innovants pour les hôtels et restaurants. [...] Laveuses frontales WED de 11 à 120 kg [...] Bacs de récupération d'eau pour économiser jusqu'à 70 % d'eau."
+      },
+      {
+        "champ": "description, expertises, mesures (ACT_HOT_004 materiel)",
+        "url": "https://www.danube-international.com/machinerie/machine-laver-aquabac/",
+        "date": "2026-09-24",
+        "extrait": "Les réservoirs de récupération d'eau AQUABAC ont été conçus pour se connecter facilement aux machines à laver DANUBE équipées du contrôle ET2 et d'une double vidange. Ils permettent la récupération de l'eau de rinçage, pour être réutilisée pour les lavages suivants [...] Jusqu'à 70 % d'économie d'eau"
+      },
+      {
+        "champ": "description, departements, secteurs",
+        "url": "https://www.danube-international.com/projets/hotel-1770-le-factory/",
+        "date": "2026-09-24",
+        "extrait": "Voici l'hôtel 4 étoiles 1770 et son restaurant Le Factory, situé à Le Pontet-Avignon. Ce très bel établissement a choisi d'équiper sa blanchisserie avec du matériel Danube."
+      },
+      {
+        "champ": "contacts, secteurs, description (constructeur)",
+        "url": "https://www.lamotte-beuvron.fr/commerces-artisans/danube-international/",
+        "date": "2026-09-24",
+        "extrait": "Constructeur de matériel de blanchisserie industriel : laveuses essoreuses, sécheuses repasseuses, séchoirs rotatifs pour le secteur hôtelier, hospitalier, industriel et laveries automatiques. 02 54 88 05 76"
+      },
+      {
+        "champ": "type (lieu de fabrication non publié)",
+        "url": "https://www.danube-international.com/visite-a-lusine/",
+        "date": "2026-09-24",
+        "extrait": "Visite à l'usine, 6 mai 2019 : Nous avons eu le plaisir d'accueillir à l'usine les 2 et 3 mai derniers notre distributeur indonésien PT Mega Pratama Medicalindo (l'article ne dit pas où se trouve l'usine)"
+      }
+    ],
+    "date_maj": "2026-09-24"
+  },
+  {
+    "id": "PREST_HOT_009",
+    "nom": "Winterhalter France",
+    "type": "installateur",
+    "logo_url": null,
+    "siret": "34314790600055",
+    "description": "Filiale française, créée en 1987 et installée à Chaponost (Rhône), du fabricant allemand Winterhalter, dont les machines sont produites en Allemagne et en Suisse : elle ne fabrique pas en France. Elle distribue la marque auprès d'un réseau national d'installateurs et de professionnels de la cuisine, et propose aux hôtels des lave-vaisselle frontaux, à capot, lave-ustensiles et à avancement automatique (2,2 litres d'eau de rinçage par cycle annoncés pour la gamme à capot PT, avec doseur de produit de rinçage intégré), les produits lessiviels, la location de machines et des forfaits d'entretien avec intervention de techniciens sur site ; la pose des machines par la filiale elle-même n'est pas décrite. Prestations payantes, à l'achat, à la location ou sous forfait d'entretien.",
+    "expertises": [
+      "Lave-vaisselle professionnels",
+      "Dosage des produits lessiviels",
+      "Location de lave-vaisselle",
+      "Entretien sur site"
+    ],
+    "categories": [
+      "ameliorer_efficacite_hydrique"
+    ],
+    "secteurs": [
+      "hotellerie"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_HOT_004",
+        "roles": [
+          "materiel"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.winterhalter.com/fr-fr/"
+      },
+      {
+        "type": "tel",
+        "value": "+33 4 81 76 76 00"
+      },
+      {
+        "type": "adresse",
+        "value": "46 route de Brignais, 69630 Chaponost"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "siret, adresse",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=Winterhalter%20France&departement=69",
+        "date": "2026-09-24",
+        "extrait": "WINTERHALTER FRANCE SAS, siret 34314790600055, siège, 46 ROUTE DE BRIGNAIS 69630 CHAPONOST, etat_administratif A"
+      },
+      {
+        "champ": "type, description, departements",
+        "url": "https://www.winterhalter.com/fr-fr/a-propos/",
+        "date": "2026-09-24",
+        "extrait": "La fabrication est toujours allemande et suisse [...] une maison-mère à Meckenbeuren (Allemagne) et des filiales et partenaires partout à travers le monde. [...] Créée en 1987, Winterhalter France est située à Chaponost, près de Lyon. [...] La filiale représente et distribue la marque Winterhalter auprès d'un réseau national d'installateurs et de professionnels de la cuisine. [...] Winterhalter France emploie plus de 90 commerciaux, techniciens et administratifs, à travers tout le pays."
+      },
+      {
+        "champ": "description, expertises, mesures",
+        "url": "https://www.winterhalter.com/fr-fr/secteurs/hotellerie/",
+        "date": "2026-09-24",
+        "extrait": "SOLUTIONS DE LAVAGE POUR HÔTELS [...] Grâce à des technologies avancées, ces machines réduisent également la consommation d'eau et d'énergie, vous permettant de réaliser des économies tout en contribuant à la protection de l'environnement. (menu de la page : Location de lave-vaisselle professionnels, Technologie de dosage)"
+      },
+      {
+        "champ": "description, mesures",
+        "url": "https://www.winterhalter.com/fr-fr/produits/lave-vaisselle-a-capot/gamme-pt/",
+        "date": "2026-09-24",
+        "extrait": "son système de lavage performant utilise seulement 2,2 litres d'eau de rinçage par cycle tout en garantissant des résultats de lavage irréprochables. [...] Un doseur de produit de rinçage intégré fait partie des équipements de série : il garantit un dosage précis et économe pour un résultat de lavage et de séchage parfait."
+      },
+      {
+        "champ": "expertises, description",
+        "url": "https://www.winterhalter.com/fr-fr/services/",
+        "date": "2026-09-24",
+        "extrait": "nos techniciens interviennent sur site dans les meilleurs délais ; Nos forfaits d'entretien vous garantissent une plus grande sécurité"
+      },
+      {
+        "champ": "contacts",
+        "url": "https://www.winterhalter.com/fr-fr/contact/",
+        "date": "2026-09-24",
+        "extrait": "Winterhalter France SAS, 46 route de Brignais, 69630 Chaponost, France. +33 481 76 76 00"
+      }
+    ],
+    "date_maj": "2026-09-24"
+  },
+  {
+    "id": "PREST_HOT_010",
+    "nom": "Syclope Electronique",
+    "type": "equipementier",
+    "logo_url": null,
+    "siret": "38361200900035",
+    "description": "PME d'une trentaine de salariés installée à Sauvagnon, près de Pau, qui fabrique dans son usine des équipements d'analyse et de régulation pour le traitement de l'eau, avec une gamme dédiée aux piscines d'hôtels, de campings et aux spas. Pour ces bassins, elle fournit la régulation automatique du chlore et du pH, des pompes doseuses, la production de chlore par électrolyse de sel, la supervision à distance et l'unité d'ultrafiltration UFPOOL, fabriquée en France, qui recycle l'eau de lavage des filtres pour un nouveau lavage ou pour la réinjecter dans le bassin. Son bureau d'études réalise des études de faisabilité et de besoins et élabore des cahiers des charges, et son service après-vente répare le matériel ; la pose n'est pas décrite sur son site. Ses technico-commerciaux couvrent la France par grandes zones.",
+    "expertises": [
+      "Régulation chlore et pH",
+      "Pompes doseuses",
+      "Électrolyse de sel",
+      "Recyclage eaux de lavage filtres"
+    ],
+    "categories": [
+      "ameliorer_efficacite_hydrique"
+    ],
+    "secteurs": [
+      "hotellerie"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_HOT_005",
+        "roles": [
+          "materiel"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.syclope.fr/"
+      },
+      {
+        "type": "tel",
+        "value": "05 59 33 70 36"
+      },
+      {
+        "type": "mail",
+        "value": "syclope@syclope.fr"
+      },
+      {
+        "type": "adresse",
+        "value": "Rue du Bruscos, 64230 Sauvagnon"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "siret, adresse",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=Syclope%20Electronique&departement=64",
+        "date": "2026-09-24",
+        "extrait": "SYCLOPE ELECTRONIQUE, siret 38361200900035, siège, AEROPOLE PAU PYRENEES RUE DU BRUSCOS 64230 SAUVAGNON, activité 26.51B, état administratif A"
+      },
+      {
+        "champ": "contacts, departements",
+        "url": "https://www.syclope.fr/contact-coordonnees/",
+        "date": "2026-09-24",
+        "extrait": "Rue du Bruscos, 64230 Sauvagnon [...] France. +33 (0)5 59 33 70 36. syclope@syclope.fr. Zones des commerciaux : SUD-OUEST, NORD-IDF, NORD-OUEST, NORD-EST, SUD-EST"
+      },
+      {
+        "champ": "type, description",
+        "url": "https://www.syclope.fr/societe/",
+        "date": "2026-09-24",
+        "extrait": "SYCLOPE Electronique est une PME d'une trentaine de salariés basée près de Pau. Fabricant français, nous produisons dans notre usine des équipements d'analyses et régulations pour le traitement de l'eau. [...] Soutien technique et commercial dans vos réponses aux appels d'offres, Etudes de faisabilité et de besoins, Élaboration cahier des charges [...] l'objectif premier de notre SAV est de réparer"
+      },
+      {
+        "champ": "description, expertises, secteurs, mesures (ACT_HOT_005 materiel)",
+        "url": "https://www.syclope.fr/secteurs-dactivites/eaux-de-loisirs/hotels-campings-spas/",
+        "date": "2026-09-24",
+        "extrait": "SYCLOPE propose des solutions de traitement d'eau adaptées aussi bien aux piscines d'hôtels et de campings [...] Pompes doseuses électromagnétiques, à moteur, péristaltiques [...] Production de chlore liquide sur site par électrolyse de sel [...] analyser et contrôler le chlore et le pH [...] suivi en temps réel et à distance"
+      },
+      {
+        "champ": "description, expertises, mesures (ACT_HOT_005 materiel)",
+        "url": "https://www.syclope.fr/produit/unite-ultrafiltration/",
+        "date": "2026-09-24",
+        "extrait": "Les unités d'ultrafiltration UFPOOL, fabriquées en France [...] recyclage de l'eau de lavage des filtres des piscines [...] Réutilisation de l'eau recyclée lors de nouvelles phases de lavage des filtres ou à réinjecter dans l'eau des bassins"
+      }
+    ],
+    "date_maj": "2026-09-24"
+  },
+  {
+    "id": "PREST_HOT_011",
+    "nom": "Ocene (Ocène Industrie)",
+    "type": "installateur",
+    "logo_url": "https://www.ocene-industrie.fr/images/logo/logo-ocene.svg",
+    "siret": "31312579100027",
+    "description": "Société bretonne de traitement de l'eau, d'hygiène et d'environnement, créée en 1976 et filiale du groupe Keralia. Elle a conçu EKOSWIM, un système qui collecte l'eau de lavage des filtres de piscine, la traite par filtration ou ultrafiltration et la stocke pour la réutiliser dans les sanitaires, l'arrosage des espaces verts ou le bac tampon du parc aquatique, avec suivi des économies et un pilotage à distance que la page marque d'un astérisque sans en préciser la portée ; son offre cible les campings et l'hôtellerie de plein air, et ni le lieu de fabrication d'EKOSWIM ni sa pose par Ocene ne sont publiés. Pour ses clients industriels, le site présente aussi un bureau d'études, le montage sur site, la mise en service et des contrats de maintenance, avec des techniciens qui interviennent en France et à l'étranger ; l'accès se fait sur demande de devis.",
+    "expertises": [
+      "Recyclage eau de lavage des filtres",
+      "Traitement par ultrafiltration",
+      "Réutilisation pour sanitaires et arrosage"
+    ],
+    "categories": [
+      "ameliorer_efficacite_hydrique",
+      "valoriser_reut_eaux_non_conventionnelles"
+    ],
+    "secteurs": [
+      "hotellerie",
+      "industrie_fruits_legumes"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_HOT_005",
+        "roles": [
+          "materiel"
+        ]
+      },
+      {
+        "id": "ACT_FRL_006",
+        "roles": [
+          "travaux",
+          "materiel"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.ocene-industrie.fr/"
+      },
+      {
+        "type": "tel",
+        "value": "02 99 98 55 03"
+      },
+      {
+        "type": "adresse",
+        "value": "2 avenue de Monthorin, CS 92002, 35420 Louvigné-du-Désert"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "siret, adresse",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=OCENE&departement=35",
+        "date": "2026-09-24",
+        "extrait": "OCENE, siren 313125791, siret 31312579100027, siège, AVENUE DE MONTHORIN 35420 LOUVIGNE-DU-DESERT, activité 46.69B, état administratif A"
+      },
+      {
+        "champ": "siret",
+        "url": "https://www.ocene-industrie.fr/mentions-legales/",
+        "date": "2026-09-24",
+        "extrait": "OCENE - 2 avenue de Monthorin - 35420 Louvigné-du-Désert - Tél. : 02 99 98 55 03 SAS au capital de 3 000 000 € - SIRET 31312579100027"
+      },
+      {
+        "champ": "contacts, description (demande de devis)",
+        "url": "https://www.ocene-industrie.fr/contact/",
+        "date": "2026-09-24",
+        "extrait": "Siège social 2 Avenue de Monthorin - CS 92002 - 35420 Louvigné-du-Désert [...] Tél. + 33 (0)2 99 98 55 03 [...] Objet Demande de contact Information Équipement Demande de Devis Contact Services"
+      },
+      {
+        "champ": "description (création, groupe)",
+        "url": "https://www.ocene-industrie.fr/qui-sommes-nous/",
+        "date": "2026-09-24",
+        "extrait": "Depuis sa création en 1976, OCENE [...] Au fil de son histoire, OCENE a intégré différents métiers : le traitement de l'eau, l'hygiène, l'environnement. [...] Implanté historiquement en Bretagne [...] croissance en France et à l'Export. [...] Président du groupe KERALIA"
+      },
+      {
+        "champ": "description, expertises, mesures (ACT_HOT_005 materiel), type (conçu par OCENE)",
+        "url": "https://www.ocene-industrie.fr/metiers/traitement-de-l-eau/eau-recyclee-reuse-recyclage-industrie/146-ekoswim-recyclage-des-eaux-de-lavage-des-filtres-de-piscine.html",
+        "date": "2026-09-24",
+        "extrait": "EKOSWIM® est le système de recyclage des eaux de lavage des filtres de piscine développé et conçu par OCENE. [...] Une fois traitée, elle peut être réutilisée pour l'arrosage des espaces verts, les sanitaires, ou être renvoyée vers le bac tampon afin d'alimenter votre parc aquatique. [...] Pilotage à distance* avec suivi des économies [...] Module filtration / Module ultrafiltration [...] en fonction des besoins de votre camping. [...] *Le volume d'eau mentionné a été calculé sur la base de trois cycles de nettoyage pendant la période estivale d'une piscine de 2 000 m²."
+      },
+      {
+        "champ": "description (hôtellerie de plein air), categories",
+        "url": "https://www.ocene-industrie.fr/metiers/traitement-de-l-eau/eau-recyclee-reuse-recyclage-industrie/reuse-eaux-de-filtration-piscine/",
+        "date": "2026-09-24",
+        "extrait": "les hôtelleries de plein air se tourne de plus en plus vers la réutilisation des eaux (REUT ou REUSE). OCENE a développé une solution économique et écologique de traitement d'eau : EKOSWIM®. Elle a pour but de recycler l'eau de lavage des filtres de piscine et de la réutiliser [...] tels que les sanitaires, l'arrosage, les piscines, bassins..."
+      },
+      {
+        "champ": "description (hôtellerie de plein air)",
+        "url": "https://www.ocene-industrie.fr/activites/hotellerie-de-plein-air/",
+        "date": "2026-09-24",
+        "extrait": "pour limiter la surconsommation d'eau, l'une des solutions est la réutilisation des eaux de lavage des filtres de piscine (REUT). Plutôt que de rejeter ces eaux dans les égouts, ce système permet de collecter les eaux usées, de les traiter et les réutiliser pour l'arrosage des espaces verts ou encore l'alimentation des WC."
+      },
+      {
+        "champ": "type, description (services), departements",
+        "url": "https://www.ocene-industrie.fr/services/",
+        "date": "2026-09-24",
+        "extrait": "Nos services pour l'industrie [...] ÉTUDE ET CONCEPTION Nos chargés d'affaires et ingénieurs du Bureau d'études [...] interviennent à toutes les étapes de votre projet : Fabrication, Contrôle et essai, Montage sur site, Mise en service et Formation. [...] nos équipes interviennent sur site, en France et à l'étranger [...] CONTRATS DE MAINTENANCE"
+      },
+      {
+        "champ": "logo_url",
+        "url": "https://www.ocene-industrie.fr/contact/",
+        "date": "2026-09-24",
+        "extrait": "<img src=\"/images/logo/logo-ocene.svg\" alt=\"Ocène\"/>"
+      },
+      {
+        "champ": "mesures",
+        "url": "https://www.ocene-industrie.fr/actualites/76-recyclage-de-l-eau-agroalimentaire-leau-recyclee-pour-le-prelavage-des-fruits-et-legumes.html",
+        "date": "2026-09-25",
+        "extrait": "Chez un producteur et transformateur de fruits et légumes du Grand Ouest : filtration fine des eaux à recycler, combinée à un processus de désinfection, pour le prélavage d'autres fruits et légumes."
+      }
+    ],
+    "date_maj": "2026-09-25"
+  },
+  {
+    "id": "PREST_HOT_014",
+    "nom": "idverde",
+    "type": "installateur",
+    "logo_url": null,
+    "siret": "33960966101806",
+    "description": "Entreprise d'aménagement et d'entretien des espaces paysagers, siège à Courbevoie, organisée en 24 territoires et une centaine de sites de production en France, dont le métier arrosage et fontainerie conçoit, installe et entretient des systèmes d'arrosage. Pour les espaces verts, elle propose une analyse agronomique et hydrique des plantations, l'arrosage localisé au goutte-à-goutte piloté selon la météo et l'humidité des sols, ainsi que le stockage et la réutilisation des eaux pluviales ; son site a présenté l'aménagement des espaces verts d'une résidence Pierre et Vacances Premium à Touques/Deauville (arrosage automatique, paillage, entretien pendant un an), référence qui ne figure plus sur le site actuel. Prestations sur devis, sa plaquette eau propose un audit gratuit des besoins en arrosage.",
+    "expertises": [
+      "Arrosage localisé au goutte-à-goutte",
+      "Pilotage de l'arrosage selon la météo",
+      "Récupération et réutilisation des eaux pluviales",
+      "Entretien des espaces verts"
+    ],
+    "categories": [
+      "changer_process_pratiques",
+      "valoriser_reut_eaux_non_conventionnelles"
+    ],
+    "secteurs": [
+      "hotellerie"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_HOT_006",
+        "roles": [
+          "conseil_etude",
+          "travaux"
+        ]
+      },
+      {
+        "id": "ACT_AGR_006",
+        "roles": [
+          "conseil_etude",
+          "travaux"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://idverde.fr/"
+      },
+      {
+        "type": "mail",
+        "value": "siege@idverde.com"
+      },
+      {
+        "type": "adresse",
+        "value": "25 quai du Président Paul Doumer, 92400 Courbevoie"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "siret, adresse, type",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=idverde&departement=92",
+        "date": "2026-09-24",
+        "extrait": "IDVERDE, siret 33960966101806, siège, IMMEUBLE WORKSTATION 25 QUAI DU PRESIDENT PAUL DOUMER 92400 COURBEVOIE, activité 81.30Z, état administratif A, 118 établissements ouverts"
+      },
+      {
+        "champ": "contacts (mail, adresse), departements, description, expertises, mesures (ACT_HOT_006 conseil_etude, travaux ; ACT_AGR_006 conseil_etude, travaux)",
+        "url": "https://idverde.fr/wp-content/uploads/sites/4/2026/09/idverde-Plaquette-technique-gestion-eau-SEPT2026_WEB2-1.pdf",
+        "date": "2026-09-24",
+        "extrait": "Analyse agronomique et hydrique des plantations. Adaptation aux sols, aux expositions et aux essences végétales. [...] Micro-irrigation et goutte-à-goutte : solutions assurant une distribution ciblée de l'eau favorisant les économies. Systèmes d'irrigation connectés : pilotage à distance avec ajustement automatique des apports en fonction des conditions météorologiques et de l'humidité des sols. [...] Contactez-nous pour un audit gratuit de vos besoins en arrosage ! [...] Simulations hydrique et financière du site [...] Stockage des eaux pluviales en ouvrages enterrés ou aériens : conception et mise en œuvre [...] Mise en œuvre : réalisation par des équipes spécialisées [...] Suivi & Maintenance [...] 24 territoires autonomes sur toute la France, 100 sites de production [...] Siège Social 25 quai du Président Paul Doumer 92 400 Courbevoie siege@idverde.com"
+      },
+      {
+        "champ": "description, expertises, mesures (ACT_HOT_006 travaux)",
+        "url": "https://idverde.fr/irrigation-jeux-deau/",
+        "date": "2026-09-24",
+        "extrait": "Une prestation complète couvrant la conception et l'installation de systèmes d'irrigation et de jeux d'eau. [...] L'enjeu est d'optimiser la consommation d'eau tout en garantissant fiabilité, durabilité et facilité d'entretien."
+      },
+      {
+        "champ": "description (aménagement et entretien des espaces paysagers)",
+        "url": "https://idverde.fr/idverde-fr/a-propos/",
+        "date": "2026-09-24",
+        "extrait": "idverde est le leader européen de l'aménagement et de l'entretien des espaces paysagers, avec un ancrage historique en France. Nous allions expertise locale et dimension européenne pour concevoir, réaliser et entretenir des espaces de vie plus durables."
+      },
+      {
+        "champ": "expertises (Entretien des espaces verts)",
+        "url": "https://idverde.fr/entretien-des-espaces-verts/",
+        "date": "2026-09-24",
+        "extrait": "Des prestations d'entretien complètes. Une gamme complète de services pour assurer le soin continu des espaces verts dans des environnements variés. Cela comprend l'entretien de la végétation, les soins saisonniers et les interventions qui permettent aux espaces de rester sains, sûrs et accueillants."
+      },
+      {
+        "champ": "description, secteurs (référence hébergement touristique)",
+        "url": "https://web.archive.org/web/20260607195406/https://idverde.fr/nos-projets/amenagement-et-entretien-espaces-verts/",
+        "date": "2026-09-24",
+        "extrait": "Hôtellerie-Restauration [...] Pierres et Vacances DEAUVILLE. Résidence « Premium » de Pierres et Vacances sur TOUQUES/DEAUVILLE (14). Mise en place de substrat adapté [...] Réalisation d'un arrosage automatique. [...] Plantation d'arbustes et vivaces, mise en place de paillage [...] Entretien des espaces verts pendant 1 an. (copie archivée du 7 juin 2026 de la page idverde.fr, qui redirige aujourd'hui vers /realisations/ sans ce projet ; aucune page idverde.fr en ligne ne cite d'hôtel ou de résidence de tourisme au 24 septembre 2026)"
+      }
+    ],
+    "date_maj": "2026-09-24"
+  },
+  {
+    "id": "PREST_HOT_015",
+    "nom": "Sénariz",
+    "type": "installateur",
+    "logo_url": null,
+    "siret": "43125957100013",
+    "description": "Entreprise de paysage basée à Plaisir (Yvelines) qui conçoit, crée et entretient les jardins, terrasses et rooftops d'hôtels à Paris et en Île-de-France depuis plus de 20 ans (références : Hôtel Madame Rêve, terrasse de l'hôtel Citizen M à Paris). Elle installe des systèmes d'arrosage automatique, dont le goutte-à-goutte, conçus et posés par un spécialiste interne, propose la gestion centralisée de l'arrosage avec sondes mesurant les besoins en eau, et pratique le paillage des massifs. Prestations sur devis.",
+    "expertises": [
+      "Arrosage goutte-à-goutte",
+      "Gestion centralisée de l'arrosage",
+      "Entretien de jardins d'hôtels",
+      "Création paysagère"
+    ],
+    "categories": [
+      "changer_process_pratiques"
+    ],
+    "secteurs": [
+      "hotellerie"
+    ],
+    "departements": [
+      "75",
+      "77",
+      "78",
+      "91",
+      "92",
+      "93",
+      "94",
+      "95"
+    ],
+    "mesures": [
+      {
+        "id": "ACT_HOT_006",
+        "roles": [
+          "travaux"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.senariz.fr/"
+      },
+      {
+        "type": "tel",
+        "value": "01 30 54 03 83"
+      },
+      {
+        "type": "mail",
+        "value": "senariz@orange.fr"
+      },
+      {
+        "type": "adresse",
+        "value": "1625 rue de la Boissière, 78370 Plaisir"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "siret, adresse, type",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=Senariz&departement=78",
+        "date": "2026-09-24",
+        "extrait": "SENARIZ, siret 43125957100013, siège, 1625 RUE DE LA BOISSIERE 78370 PLAISIR, activité 81.30Z, état administratif A"
+      },
+      {
+        "champ": "contacts",
+        "url": "https://www.senariz.fr/contact/",
+        "date": "2026-09-24",
+        "extrait": "Sénariz Paris 1625 rue de la Boissière, 78370, Plaisir FRANCE senariz@orange.fr 01 30 54 03 83 [...] Un projet ? Une question ? Un devis ?"
+      },
+      {
+        "champ": "departements, description",
+        "url": "https://www.senariz.fr/",
+        "date": "2026-09-24",
+        "extrait": "Sénariz, localisé à Plaisir, dans les Yvelines, intervient en Ile-de-France et, suivant les projets, partout en France."
+      },
+      {
+        "champ": "description, secteurs, expertises, departements",
+        "url": "https://www.senariz.fr/jardiniers-paysagistes-pour-hotels-a-paris-et-en-ile-de-france/",
+        "date": "2026-09-24",
+        "extrait": "Spécialisée dans la conception paysagère et l'entretien de jardin à Paris et en Ile-de-France, l'entreprise Sénariz accompagne depuis plus de 20 ans les hôteliers, les restaurateurs et tous les professionnels de l'accueil dans la création et l'entretien des jardins et des espaces verts de leur établissement."
+      },
+      {
+        "champ": "description (références hôtelières)",
+        "url": "https://www.senariz.fr/hotel-de-la-poste-madame-reve-paris-01/",
+        "date": "2026-09-24",
+        "extrait": "Création paysagère et entretien Hôtel de La Poste Madame Rêve, à Paris 01. [...] 500m2 de rooftop et 1000m2 d'espaces végétalisés sur trois niveaux"
+      },
+      {
+        "champ": "description (références hôtelières)",
+        "url": "https://www.senariz.fr/entretien-terrasse-hotel-citizen-m-paris-75/",
+        "date": "2026-09-24",
+        "extrait": "Entretien de la terrasse de l'Hôtel Citizen, un établissement de 151 chambres situé à proximité immédiate des Champs-Élysées."
+      },
+      {
+        "champ": "expertises, mesures (ACT_HOT_006 travaux), description",
+        "url": "https://www.senariz.fr/entretien/",
+        "date": "2026-09-24",
+        "extrait": "Arrosage en goutte à goutte pour un système discret, programmé en fonction des besoins de chaque variété et économe en eau. Pour la conception et la mise en place de ces systèmes, nous disposons en interne d'un spécialiste dédié [...] La gestion centralisée de l'arrosage. L'utilisation de sondes pour mesurer en temps réel les besoins en eau. [...] Le paillage des massifs"
+      },
+      {
+        "champ": "mesures (ACT_HOT_006)",
+        "url": "https://www.senariz.fr/lentreprise/nos-engagements/notre-vision-rse/",
+        "date": "2026-09-24",
+        "extrait": "Nous proposons systématiquement à nos clients des systèmes d'éclairage et d'arrosage économes."
+      }
+    ],
+    "date_maj": "2026-09-24"
+  },
+  {
+    "id": "PREST_HOT_017",
+    "nom": "Osmozis",
+    "type": "installateur",
+    "logo_url": null,
+    "siret": "48515641800058",
+    "description": "Société par actions simplifiée de Clapiers (Hérault), opérateur de réseaux Wifi et de services connectés pour l'hébergement touristique (campings, hôtels, villages vacances), qui inclut dans son offre de gestion de l'énergie pour hôtels des objets connectés qu'elle a développés et qui s'intègrent aux compteurs d'eau existants. Ces objets permettent de visualiser les consommations à distance, de détecter fuites et surconsommations et de couper l'eau à distance en cas d'anomalie ; selon des articles de son blog de 2023 (offre alors nommée OsmoWater), le personnel est alerté par SMS ou courriel et la consommation des différents équipements de l'hôtel peut être suivie. Prestation sur devis ; la page d'offre ne précise ni qui pose les objets ni où ils sont fabriqués, et indique qu'après leur installation ses équipes assurent le paramétrage et la formation à l'outil.",
+    "expertises": [
+      "Télérelève des compteurs d'eau",
+      "Détection de fuites et surconsommations",
+      "Coupure d'eau à distance"
+    ],
+    "categories": [
+      "suivre_comprendre_maitriser"
+    ],
+    "secteurs": [
+      "hotellerie"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_HOT_007",
+        "roles": [
+          "materiel"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.osmozis.com/"
+      },
+      {
+        "type": "tel",
+        "value": "04 67 58 40 83"
+      },
+      {
+        "type": "mail",
+        "value": "sales@osmozis.com"
+      },
+      {
+        "type": "adresse",
+        "value": "7 avenue de l'Europe, 34830 Clapiers"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "siret, adresse, description (forme juridique)",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=Osmozis&departement=34",
+        "date": "2026-09-24",
+        "extrait": "OSMOZIS, siret 48515641800058, siège, 7 AVENUE DE L'EUROPE 34830 CLAPIERS, nature juridique 5710 (SAS), activité 61.20Z, état administratif A"
+      },
+      {
+        "champ": "siret",
+        "url": "https://www.osmozis.com/mentions-legales/",
+        "date": "2026-09-24",
+        "extrait": "7, Avenue de l'Europe, 34 830 Clapiers [...] SIRET : 485 156 418 00058"
+      },
+      {
+        "champ": "contacts",
+        "url": "https://www.osmozis.com/assistance/",
+        "date": "2026-09-24",
+        "extrait": "7, avenue de l'Europe 34830 Clapiers, France. +33(0)4 67 58 40 83. sales@osmozis.com"
+      },
+      {
+        "champ": "description, expertises, mesures (ACT_HOT_007 materiel), type",
+        "url": "https://www.osmozis.com/nos-solutions/solution_gestion_energie/",
+        "date": "2026-09-24",
+        "extrait": "Nous avons également développé des objets connectés qui s'intègrent aux compteurs d'eau et d'électricité : Visualisation à distance des consommations ; Détection de fuites ou de surconsommations ; Coupure à distance en cas d'anomalie. [...] Après l'installation des objets connectés, nos équipes procèdent au paramétrage et à la formation. [...] Devis gratuit"
+      },
+      {
+        "champ": "description, secteurs",
+        "url": "https://www.osmozis.com/nos-secteurs/hotellerie/",
+        "date": "2026-09-24",
+        "extrait": "Nos solutions pour les hôtels : Wifi Network, TV & Streaming, Affichage dynamique, VoIP, Caméra, Alerte sonore, Energy Management solution"
+      },
+      {
+        "champ": "description (suivi par équipement, présentation de 2023), secteurs",
+        "url": "https://www.osmozis.com/blog/hotellerie-hpa-consommation-deau-moyenne-postes-a-optimiser/",
+        "date": "2026-09-24",
+        "extrait": "Article publié le 1 août 2023 : Suivre en temps réel la consommation d'eau des différents équipements de votre hôtel ; Être averti en cas de fuite ou de consommation excessive d'eau ; Couper ou activer l'eau à distance"
+      },
+      {
+        "champ": "description (alerte SMS ou courriel, présentation de 2023), secteurs",
+        "url": "https://www.osmozis.com/blog/alerte-fuite-deau-hotel-hpa-le-bon-reflexe-pour-faire-des-economies-deau/",
+        "date": "2026-09-24",
+        "extrait": "Article publié le 31 mars 2023 : si notre dispositif identifie une surconsommation d'eau, le personnel de l'hôtel ou du camping reçoit une alerte par sms ou par email"
+      },
+      {
+        "champ": "departements",
+        "url": "https://www.osmozis.com/nos-references/",
+        "date": "2026-09-24",
+        "extrait": "Environ 2600 sites équipés en Europe [...] Répartis en France, Espagne, Italie, Pays Bas, Allemagne"
+      }
+    ],
+    "date_maj": "2026-09-24"
+  },
+  {
+    "id": "PREST_HOT_018",
+    "nom": "Odalie (groupe Saur)",
+    "type": "installateur",
+    "logo_url": null,
+    "siret": "33937998405975",
+    "description": "Filiale de Saur, installée au siège du groupe à Issy-les-Moulineaux, qui propose aux bâtiments, hôtels compris, des solutions de suivi et de réutilisation de l'eau. Pour le suivi, son offre Mira fournit des sous-compteurs connectés à brancher sans travaux et un réseau de télérelève, puis un tableau de bord qui détaille les consommations par pièce, par bâtiment ou par site, avec alertes de fuite en temps réel et rapports automatisés ; elle propose aussi Aquapod, une unité de traitement des eaux grises pour les chasses d'eau, l'arrosage et le nettoyage extérieur. Offre commerciale, sur contact avec un responsable commercial régional.",
+    "expertises": [
+      "Télérelève des compteurs d'eau",
+      "Sous-compteurs connectés",
+      "Détection de fuites en temps réel",
+      "Recyclage des eaux grises"
+    ],
+    "categories": [
+      "suivre_comprendre_maitriser",
+      "valoriser_reut_eaux_non_conventionnelles"
+    ],
+    "secteurs": [
+      "hotellerie"
+    ],
+    "departements": [],
+    "mesures": [
+      {
+        "id": "ACT_HOT_007",
+        "roles": [
+          "materiel"
+        ]
+      },
+      {
+        "id": "ACT_AGR_001",
+        "roles": [
+          "materiel"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://odalie.eu/"
+      },
+      {
+        "type": "adresse",
+        "value": "11 Chemin de Bretagne, 92130 Issy-les-Moulineaux"
+      },
+      {
+        "type": "linkedin",
+        "value": "https://fr.linkedin.com/company/odalie"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "siret, adresse",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=Saur&departement=92",
+        "date": "2026-09-24",
+        "extrait": "SAUR, siren 339379984, siret 33937998405975, siège, 11 CHEMIN DE BRETAGNE 92130 ISSY-LES-MOULINEAUX, activité 36.00Z, état administratif A"
+      },
+      {
+        "champ": "siret (absence d'entité Odalie propre au groupe Saur)",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=Odalie&departement=92",
+        "date": "2026-09-24",
+        "extrait": "Recherche « Odalie » dans le 92 : aucun résultat. Recherche « Odalie Saur » : aucun résultat. Recherche « Odalie » sans département : aucune entité à l'adresse de Saur."
+      },
+      {
+        "champ": "siret",
+        "url": "https://odalie.eu/mentions-legales/",
+        "date": "2026-09-24",
+        "extrait": "Société Saur, société par actions simplifiée [...] 339 379 984 RCS Nanterre [...] 11, Chemin de Bretagne, 92130 Issy Les Moulineaux"
+      },
+      {
+        "champ": "contacts, description",
+        "url": "https://odalie.eu/contact/",
+        "date": "2026-09-24",
+        "extrait": "SAUR - Odalie, 11 Chemin de Bretagne, 92130 Issy Les Moulineaux. Responsables commerciaux par région (HDF & IDF, Nord-Ouest, Nouvelle-Aquitaine, Occitanie, PACA, AURA). LinkedIn : fr.linkedin.com/company/odalie"
+      },
+      {
+        "champ": "departements, description (filiale de Saur)",
+        "url": "https://odalie.eu/",
+        "date": "2026-09-24",
+        "extrait": "Odalie est une filiale de Saur [...] accompagne les acteurs du bâtiment dans leur transition hydrique [...] une présence nationale [...] des équipes présentes partout en France"
+      },
+      {
+        "champ": "secteurs, description, expertises, mesures (ACT_HOT_007 materiel), categories",
+        "url": "https://odalie.eu/vos-projets/vos-projets-hotellerie/",
+        "date": "2026-09-24",
+        "extrait": "Mira, suivi des consommations : Détectez les fuites et les surconsommations en temps réel. Suivez vos consommations depuis un tableau de bord personnalisé. Paramétrez vos rapports automatisés et votre budget prévisionnel. Aquapod : réutilisation des eaux grises [...] chasses d'eau, irrigation, nettoyage extérieur"
+      },
+      {
+        "champ": "expertises, mesures (ACT_AGR_001 materiel, ACT_HOT_007 materiel), description, type",
+        "url": "https://odalie.eu/nos-solutions/mira/",
+        "date": "2026-09-24",
+        "extrait": "01 Cartographie. Mise en place de l'infrastructure de collecte des données : Digitalisation du plan de comptage, Installation de sous compteurs, Mise en place du réseau de télérelève. [...] Installation sans travaux dans tout type de bâtiment [...] vue détaillée de vos consommations : par pièce, par bâtiment, ou par site entier. [...] Hôtellerie"
+      },
+      {
+        "champ": "expertises, categories, description",
+        "url": "https://odalie.eu/nos-solutions/aquapod/",
+        "date": "2026-09-24",
+        "extrait": "La récupération des eaux de salles de bains et des piscines [...] pour les usages non destinés à la consommation humaine, à savoir les chasses d'eau, l'arrosage des espaces verts et le nettoyage des espaces extérieurs [...] hôtels ou campings [...] Fabriqué en France"
+      }
+    ],
+    "date_maj": "2026-09-24"
+  },
+  {
+    "id": "PREST_HOT_019",
+    "nom": "CCI de région Bretagne (programme ECODO PRO)",
+    "type": "chambre_consulaire",
+    "logo_url": null,
+    "siret": "18350004000310",
+    "description": "Chambre de commerce et d'industrie de région Bretagne, qui porte le programme régional d'économies d'eau ECODO PRO, animé par Bretagne Compétitivité, association de développement économique pilotée par les CCI bretonnes. Un conseiller (Bretagne Compétitivité ou CCI) réalise un état des lieux avec diagnostic et recommandations personnalisées, vous accompagne sur la réglementation, les financements et les solutions techniques, et vous aide à élaborer un plan d'actions ; le programme organise aussi des ateliers inter-entreprises et des webinaires, et publie une fiche de pratiques hydro-économes dédiée aux hôtels. Réservé aux entreprises bretonnes, sur candidature, pour 1 à 4 jours d'accompagnement avec un reste à charge de 90 à 240 € HT par jour selon l'effectif.",
+    "expertises": [
+      "Diagnostic eau et recommandations",
+      "Plan d'actions hydro-économes",
+      "Conseil réglementaire et financements",
+      "Ateliers inter-entreprises sur l'eau"
+    ],
+    "categories": [
+      "suivre_comprendre_maitriser",
+      "sensibiliser_former"
+    ],
+    "secteurs": [
+      "hotellerie",
+      "industrie_fruits_legumes"
+    ],
+    "departements": [
+      "22",
+      "29",
+      "35",
+      "56"
+    ],
+    "mesures": [
+      {
+        "id": "ACT_AGR_002",
+        "roles": [
+          "conseil_etude"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "type": "site_internet",
+        "value": "https://www.bretagne-competitivite.fr/ecodopro/"
+      },
+      {
+        "type": "mail",
+        "value": "ecodo@bretagne-competitivite.fr"
+      },
+      {
+        "type": "tel",
+        "value": "02 99 25 41 70"
+      },
+      {
+        "type": "adresse",
+        "value": "1A rue Louis Braille, 35136 Saint-Jacques-de-la-Lande"
+      }
+    ],
+    "statut": "publie",
+    "sources": [
+      {
+        "champ": "siret, adresse",
+        "url": "https://recherche-entreprises.api.gouv.fr/search?q=chambre%20de%20commerce%20et%20d%27industrie%20de%20region%20Bretagne&departement=35",
+        "date": "2026-09-24",
+        "extrait": "CHAMBRE DE COMMERCE ET D'INDUSTRIE DE REGION BRETAGNE (CCIR), siren 183500040, siret 18350004000310, siège, 1 A RUE LOUIS BRAILLE 35136 SAINT-JACQUES-DE-LA-LANDE, nature juridique 7381, état administratif A"
+      },
+      {
+        "champ": "type, description, expertises, mesures (ACT_AGR_002), categories (sensibiliser_former : ateliers inter-entreprises, webinaires), contacts (site, mail, tel)",
+        "url": "https://www.bretagne-competitivite.fr/ecodopro/",
+        "date": "2026-09-24",
+        "extrait": "Un état des lieux avec un diagnostic et des recommandations personnalisées à mettre en place. Un accompagnement individuel spécifique : réglementation, financements, solutions techniques…. Des accompagnements collectifs pour monter en compétence (ateliers inter-entreprises, webinaires). […] De 1 à 4 jours selon la nature des projets. […] 90 € HT / jour d'accompagnement (- de 50 salariés) 180 € HT / jour d'accompagnement (50 à 250 salariés) 240 € HT / jour d'accompagnement (+ de 250 salariés) Accompagnements réservés aux entreprises bretonnes […] Bénéficiez de l'accompagnement d'ECODO PRO par l'un de nos conseillers (Bretagne Compétitive / CCI) […] ECODO PRO, le programme de la CCI de Bretagne, animé par Bretagne Compétitivité. […] ecodo@bretagne-competitivite.fr […] +33(0)2 99 25 41 70"
+      },
+      {
+        "champ": "description (Bretagne Compétitivité), contacts (adresse, tel)",
+        "url": "https://www.bretagne-competitivite.fr/contactez-nous/",
+        "date": "2026-09-24",
+        "extrait": "1A Rue Louis Braille (CCI Bretagne), 35136 Saint-Jacques-de-la-Lande. +33(0)2 99 25 41 70. Bretagne Compétitivité, est une association loi 1901 de développement économique, pilotée par un directoire de 8 élus désignés par les CCI territoriales et par la CCI de région."
+      },
+      {
+        "champ": "departements, mesures (ACT_AGR_002), description (plan d'actions)",
+        "url": "https://www.bretagne-economique.com/actualites/ecodopro-programme-danticipation-pour-securiser-lapprovisionnement-en-eau/",
+        "date": "2026-09-24",
+        "extrait": "[…] programme Ecodo'Pro, initié par la préfecture du Morbihan en 2019, déployé depuis régionalement par le réseau des CCI bretonnes […] la cartographie des process et des solutions hydroéconomes et enfin, l'élaboration d'un plan d'actions potentiellement financées […] Solliciter le conseiller CCI référent Ecodo'Pro de votre département […] Côtes d'Armor (22) Finistère (29) Ille-et-vilaine (35) Morbihan (56). (Maude Duval, le 22 juillet 2026)"
+      },
+      {
+        "champ": "description (fiche hôtels)",
+        "url": "https://www.bretagne-competitivite.fr/wp-content/uploads/2025/06/ECODO-Fiche-BP_Hotels.pdf",
+        "date": "2026-09-24",
+        "extrait": "ÉCOD'O, un programme d'actions pour économiser l'eau dans les entreprises. Pratiques hydro-économes hôtels. 7 recommandations pour réduire vos consommations d'eau. Contact : chargé de mission transition écologique, CCI Côtes d'Armor."
+      },
+      {
+        "champ": "secteurs",
+        "url": "https://www.bretagne.cci.fr/developpement-durable/economiser-la-ressource-en-eau/bretagne",
+        "date": "2026-09-25",
+        "extrait": "Pré-diagnostic réalisé par les conseillers CCI puis plan d'action ; la Conserverie Morbihannaise (d'aucy Le Faouët) citée en bonne pratique ; 41 % d'industries agroalimentaires parmi les inscrits."
+      }
+    ],
+    "date_maj": "2026-09-25"
+  }
+]

@@ -1,0 +1,147 @@
+{
+  "id": "AIDE_VIA_009",
+  "nom": "Appel à projets Innovations et pratiques sobres en eau en entreprise agroalimentaire (Région Pays de la Loire)",
+  "financeur": "Région des Pays de la Loire",
+  "logo_url": null,
+  "type": "subvention",
+  "taux": "Jusqu'à 35 % des dépenses éligibles pour les PME, 25 % pour les ETI",
+  "plafond": "Aide plafonnée à 80 000 €, pour une assiette plancher de 70 000 € de dépenses",
+  "description": "Subvention régionale aux projets de développement expérimental qui visent à réduire, réemployer et recycler l'eau aux différentes étapes du process de fabrication des produits alimentaires, en particulier la réutilisation d'eaux permise par le décret 2024-33 et l'arrêté du 8 juillet 2024. Les projets portent une étude de faisabilité, une expérimentation ou une preuve de concept, ou répondent à des besoins de recherche et d'innovation. Les dépenses éligibles comprennent les charges de personnel impliqué, les instruments et matériels de recherche, les consommables, les prestations d'études et les frais d'analyses.",
+  "eligibilite": "PME et ETI agroalimentaires porteuses du projet, dont le site concerné par le projet est situé en Pays de la Loire. Le projet doit relever du développement expérimental : les actions de diagnostic et d'évaluation des postes de consommation sont exclues.",
+  "categories": ["valoriser_reut_eaux_non_conventionnelles", "changer_process_pratiques"],
+  "secteurs": ["industrie_viande"],
+  "departements": ["44", "49", "53", "72", "85"],
+  "agences": [],
+  "mesures": ["ACT_VIA_006"],
+  "infos_complementaires": [
+    {
+      "type": "avertissement",
+      "texte": "Un simple diagnostic ou une évaluation des postes de consommation ne sont pas éligibles : le projet doit relever du développement expérimental. Sont aussi exclus les projets déjà en partie réalisés ou ayant vocation à être financés dans un autre cadre."
+    },
+    {
+      "type": "avertissement",
+      "texte": "Ne sont pas éligibles l'acquisition de licences logicielles, les dépenses liées à des actions commerciales et toute marge bénéficiaire. Des devis sont à fournir pour les achats, charges externes et autres services extérieurs."
+    },
+    {
+      "type": "info",
+      "texte": "Pour la troisième relève, la page de la Région indique une date limite de dépôt au 31 décembre 2027, tandis que le cahier des charges publié sur la même page indique une ouverture le 01/07/2026 et une date limite au 31/12/2026. Vérifiez la date applicable auprès de la Région avant de déposer."
+    },
+    {
+      "type": "info",
+      "texte": "Le dossier (formulaire de demande, formulaire propre à l'appel à projets) s'envoie par mail à la Direction des agricultures, de la pêche et de l'agroalimentaire de la Région (dapa@paysdelaloire.fr). Il doit préciser les volumes et la nature des eaux utilisées et estimer les volumes économisés et les périodes d'économie. Les dossiers incomplets ne sont pas instruits ; la sélection se fait dans la limite du budget disponible, puis la Commission permanente décide. Durée maximale des projets : 24 mois."
+    },
+    {
+      "type": "info",
+      "texte": "L'appel à projets est mené en lien avec VALORIAL et AREA Pays de la Loire. Le cahier des charges vise un budget prévisionnel de 500 000 € approuvé en Commission permanente le 17 novembre 2023 pour les projets sobres en eau des entreprises agroalimentaires, et une délibération du Conseil régional du 25 juin 2026 approuvant l'appel à projets."
+    },
+    {
+      "type": "ressource",
+      "texte": "Page de l'appel à projets sur le site de la Région des Pays de la Loire",
+      "lien": "https://www.paysdelaloire.fr/les-aides/innovations-et-pratiques-sobres-en-eau-en-entreprise-agroalimentaire"
+    },
+    {
+      "type": "ressource",
+      "texte": "Cahier des charges de l'appel à projets (PDF)",
+      "lien": "https://www.paysdelaloire.fr/sites/default/files/aides/1fea8ee4-6c5c-11ef-a1d8-c77b8c27db1b/subvention_cahierdescharges-aap-eauaa_1fea8ee4_annexe-3.pdf"
+    },
+    {
+      "type": "ressource",
+      "texte": "Formulaire propre à l'appel à projets (Word)",
+      "lien": "https://www.paysdelaloire.fr/sites/default/files/aides/1fea8ee4-6c5c-11ef-a1d8-c77b8c27db1b/subvention_formulaireaapeau_1fea8ee4_annexe-2.docx"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "nom, description, categories",
+      "url": "https://www.paysdelaloire.fr/les-aides/innovations-et-pratiques-sobres-en-eau-en-entreprise-agroalimentaire",
+      "date": "2026-09-24",
+      "extrait": "Soutenir l’émergence d’expérimentations innovantes et de projets de mise en place de pratiques sobres en eau, aux différentes étapes du process de fabrication des produits alimentaires, visant à réduire, réemployer et recycler l’eau."
+    },
+    {
+      "champ": "description, mesures",
+      "url": "https://www.paysdelaloire.fr/sites/default/files/aides/1fea8ee4-6c5c-11ef-a1d8-c77b8c27db1b/subvention_cahierdescharges-aap-eauaa_1fea8ee4_annexe-3.pdf",
+      "date": "2026-09-24",
+      "extrait": "Cet AAP vise en particulier à accélérer, élargir et démocratiser le recours à la réutilisation d’eaux en vue de la préparation, de la transformation et de la conservation de denrées alimentaires destinées à l’alimentation humaine."
+    },
+    {
+      "champ": "description",
+      "url": "https://www.paysdelaloire.fr/sites/default/files/aides/1fea8ee4-6c5c-11ef-a1d8-c77b8c27db1b/subvention_cahierdescharges-aap-eauaa_1fea8ee4_annexe-3.pdf",
+      "date": "2026-09-24",
+      "extrait": "vient d’évoluer avec le décret 2024-33 du 24 janvier et l’arrêté du 8 juillet 2024 relatif aux conditions de production des eaux réutilisées et à leur usage dans les entreprises alimentaires"
+    },
+    {
+      "champ": "description, mesures",
+      "url": "https://www.paysdelaloire.fr/sites/default/files/aides/1fea8ee4-6c5c-11ef-a1d8-c77b8c27db1b/subvention_cahierdescharges-aap-eauaa_1fea8ee4_annexe-3.pdf",
+      "date": "2026-09-24",
+      "extrait": "Les projets devront porter une étude de faisabilité, une expérimentation ou une preuve de concept (besoin de tester ou déployer une technologie déjà existante, mais nécessitant des adaptations au cas particulier du secteur agroalimentaire, d’une filière agroalimentaire ou d’un site industriel spécifique), ou bien répondre à des besoins de recherche et d’innovation"
+    },
+    {
+      "champ": "description",
+      "url": "https://www.paysdelaloire.fr/sites/default/files/aides/1fea8ee4-6c5c-11ef-a1d8-c77b8c27db1b/subvention_cahierdescharges-aap-eauaa_1fea8ee4_annexe-3.pdf",
+      "date": "2026-09-24",
+      "extrait": "Charges de personnel interne à la structure, des agents directement impliqués dans le projet [...] Achats : instruments, matériels de recherche, et consommables [...] Ex. prestations d’études, frais d’analyses"
+    },
+    {
+      "champ": "eligibilite, departements, secteurs",
+      "url": "https://www.paysdelaloire.fr/sites/default/files/aides/1fea8ee4-6c5c-11ef-a1d8-c77b8c27db1b/subvention_cahierdescharges-aap-eauaa_1fea8ee4_annexe-3.pdf",
+      "date": "2026-09-24",
+      "extrait": "Les bénéficiaires sont des PME et des ETI agroalimentaires (porteur du projet), dont le site concerné par le projet est situé en Pays de la Loire."
+    },
+    {
+      "champ": "eligibilite, infos_complementaires",
+      "url": "https://www.paysdelaloire.fr/sites/default/files/aides/1fea8ee4-6c5c-11ef-a1d8-c77b8c27db1b/subvention_cahierdescharges-aap-eauaa_1fea8ee4_annexe-3.pdf",
+      "date": "2026-09-24",
+      "extrait": "Projet ne répondant pas aux attendus de ce t appel à projets et ne concernant pas du développement expérimental (actions de diagnostic, évaluation des postes de consommation) [...] Projet ayant vocation à être financé dans un autre cadre [...] Projet recouvrant un projet en cours ou déjà (en partie) réalisé par ailleurs"
+    },
+    {
+      "champ": "type, taux, plafond",
+      "url": "https://www.paysdelaloire.fr/sites/default/files/aides/1fea8ee4-6c5c-11ef-a1d8-c77b8c27db1b/subvention_cahierdescharges-aap-eauaa_1fea8ee4_annexe-3.pdf",
+      "date": "2026-09-24",
+      "extrait": "Le soutien prend la forme d’une subvention régionale maximale de 35 % pour PME et de 25 % pour les ETI, des dépenses éligibles. [...] L’assiette plancher est fixée à 70 000 €, le montant de l’aide est plafonné à 80 000 €."
+    },
+    {
+      "champ": "infos_complementaires",
+      "url": "https://www.paysdelaloire.fr/sites/default/files/aides/1fea8ee4-6c5c-11ef-a1d8-c77b8c27db1b/subvention_cahierdescharges-aap-eauaa_1fea8ee4_annexe-3.pdf",
+      "date": "2026-09-24",
+      "extrait": "Les dépenses non-éligibles sont : l’acquisition de licences logicielles, les dépenses liées à des actions commerciales, toute marge bénéficiaire [...] des devis seront à fournir pour les achats, charges externes et autres services extérieurs."
+    },
+    {
+      "champ": "infos_complementaires",
+      "url": "https://www.paysdelaloire.fr/les-aides/innovations-et-pratiques-sobres-en-eau-en-entreprise-agroalimentaire",
+      "date": "2026-09-24",
+      "extrait": "La troisième relève de l’appel à projets « Innovations et pratiques sobres en eau en entreprise agroalimentaire » suit le calendrier suivant : Date limite de dépôt des projets : 31 décembre 2027 Sélection des projets : dans la limite du budget disponible"
+    },
+    {
+      "champ": "infos_complementaires",
+      "url": "https://www.paysdelaloire.fr/sites/default/files/aides/1fea8ee4-6c5c-11ef-a1d8-c77b8c27db1b/subvention_cahierdescharges-aap-eauaa_1fea8ee4_annexe-3.pdf",
+      "date": "2026-09-24",
+      "extrait": "Ouverture de l’appel à projets : 01/07/2026 Date limite de dépôt des projets par mail : 31/12/2026 à 23:59 (dapa@paysdelaloire.fr) Les dossiers incomplets ne seront pas instruits."
+    },
+    {
+      "champ": "infos_complementaires",
+      "url": "https://www.paysdelaloire.fr/les-aides/innovations-et-pratiques-sobres-en-eau-en-entreprise-agroalimentaire",
+      "date": "2026-09-24",
+      "extrait": "Le dossier déposé devra préciser les volumes et la nature des eaux actuellement utilisées, ainsi qu’estimer les volumes économisés (la différence entre les prélèvements et les rejets) et les périodes d’économie si le projet était mis en œuvre."
+    },
+    {
+      "champ": "infos_complementaires",
+      "url": "https://www.paysdelaloire.fr/sites/default/files/aides/1fea8ee4-6c5c-11ef-a1d8-c77b8c27db1b/subvention_cahierdescharges-aap-eauaa_1fea8ee4_annexe-3.pdf",
+      "date": "2026-09-24",
+      "extrait": "La durée maximale des projets est de 24 mois. [...] Le projet doit être sélectionné par le jury, puis soumis à l’arbitrage concernant l’attribution de l’aide, avant d’être présenté à la Commission permanente du Conseil régional."
+    },
+    {
+      "champ": "infos_complementaires",
+      "url": "https://www.paysdelaloire.fr/sites/default/files/aides/1fea8ee4-6c5c-11ef-a1d8-c77b8c27db1b/subvention_cahierdescharges-aap-eauaa_1fea8ee4_annexe-3.pdf",
+      "date": "2026-09-24",
+      "extrait": "VU la délibération de la Commission permanente du Conseil régional du 17 novembre 2023 approuvant le budget prévisionnel pour soutenir des projets sobres en eau port és par les entreprises agroalimentaires, dans le cadre du plan eau (500 000 € (AP)), VU la délibération du Conseil régional du 25 juin 2026 approuvant le présent appel à projets."
+    },
+    {
+      "champ": "infos_complementaires",
+      "url": "https://www.paysdelaloire.fr/les-aides/innovations-et-pratiques-sobres-en-eau-en-entreprise-agroalimentaire",
+      "date": "2026-09-24",
+      "extrait": "En lien avec VALORIAL et AREA Pays de la Loire, la Région des Pays de la Loire lance un AAP pour accélérer les innovations et les pratiques sobres en eau."
+    }
+  ],
+  "date_maj": "2026-09-24"
+}

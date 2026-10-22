@@ -3,6 +3,8 @@ import HomePage from './pages/HomePage';
 import CompanyPage from './pages/CompanyPage';
 import SectorsListPage from './pages/SectorsListPage';
 import SectorDetailPage from './pages/SectorDetailPage';
+import TerritoiresPage from './pages/TerritoiresPage';
+import FichesPage from './pages/FichesPage';
 
 const router = createBrowserRouter([
   {
@@ -20,6 +22,14 @@ const router = createBrowserRouter([
   {
     path: '/sectors/:id',
     element: <SectorDetailPage />,
+  },
+  {
+    path: '/territoires',
+    element: <TerritoiresPage />,
+  },
+  {
+    path: '/fiches',
+    element: <FichesPage />,
   },
 ]);
 

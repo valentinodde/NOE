@@ -1,0 +1,183 @@
+{
+  "id": "AIDE_VIA_003",
+  "nom": "Aide à la dépollution industrielle des entreprises (agence de l'eau Seine-Normandie, programme Eau, climat et biodiversité 2025-2030)",
+  "financeur": "Agence de l'eau Seine-Normandie",
+  "logo_url": null,
+  "type": "subvention",
+  "taux": "Taux maximaux autorisés par l'encadrement européen pour les études, les technologies propres, la réduction des pollutions (travaux d'épuration) et les mesures d'accompagnement. Pour les technologies propres, la réduction des micropolluants et les actions collectives, le programme prévoit aussi une subvention de 70 % au titre du régime de minimis. Les taux d'aide peuvent être plafonnés par l'encadrement européen ou national des aides aux activités économiques.",
+  "plafond": "Assiette limitée par un prix de référence calculé sur les flux de pollution concernés par le projet, selon la formule PR = a x [A + PR(MES) x (MES) + PR(DBO5) x (DBO5) + PR(DCO) x (DCO) + PR(NR) x (NR) + PR(P) x (P) + b x PR(MI) x (MI) + b x PR(METOX) x (METOX) + b x PR(AOX) x (AOX)], où a est un coefficient et b un coefficient prenant en compte les substances dangereuses prioritaires du SDAGE. Terme fixe A de 600 000 € (utilisé une seule fois par sous-ligne programme et pour la durée du programme) ; prix unitaires de 2 059 € par kg/j de MES, 1 160 € par kg/j de DBO5, 580 € par kg/j de DCO, 2 403 € par kg/j de NR (6 884 si traitements spécifiques de l'azote non biologiques), 6 010 € par kg/j de P, 47 € par g/j d'AOX, 47 € par g/j de METOX et 47 € par equitox/j de MI. Coefficients par ligne : technologies propres, a = 2 (pas de prix de référence si micropolluants) ; réduction des pollutions, a = 1,5 et b = 3 (pas de prix de référence si zéro rejet) ; mesures d'accompagnement, a = 1 et b = 3 (pas de prix de référence pour la prévention des pollutions accidentelles). Études en régie plafonnées à 5 % du montant des travaux éligibles. Les projets de moins de 10 000 € TTC ne sont pas aidés, seuil ramené à 3 500 € TTC pour les études des acteurs économiques et les actions collectives.",
+  "description": "Volet dépollution industrielle du 12e programme Eau, climat et biodiversité 2025-2030 de l'agence de l'eau Seine-Normandie, doté de 218 millions d'euros. L'agence finance les études (générales, d'orientation, diagnostics, préalables à la décision de réaliser des travaux, nécessaires à la réalisation des travaux, essais pilotes) et les travaux : technologies propres, c'est-à-dire la modification du dispositif de production pour éviter tout ou partie du flux de pollution ou lui substituer un flux moindre ou plus facile à traiter, ou un dispositif de valorisation de la matière contenue dans la pollution émise ; travaux d'épuration, soit les dispositifs de collecte, épuration ou prétraitement des effluents pollués, le traitement des sous-produits associés, la collecte et le stockage d'effluents concentrés ou graisseux avant envoi en centre autorisé ; mesures d'accompagnement, dont la fiabilisation du dispositif de collecte et de traitement, l'autosurveillance des rejets et la prévention des pollutions accidentelles ; réduction des micropolluants ; actions et travaux concernant les effluents concentrés, toxiques ou graisseux susceptibles de perturber le système d'assainissement.",
+  "eligibilite": "Tous les acteurs économiques non agricoles du bassin Seine-Normandie, aidés individuellement quelle que soit leur taille ou leur activité dès lors que le projet correspond aux objectifs du programme ; les activités dispersées sont préférentiellement accompagnées dans le cadre d'actions collectives. Les opérations faisant l'objet d'une mise en demeure de l'autorité administrative sur l'objet du projet ne sont pas éligibles.",
+  "categories": [
+    "agir_rejets_qualite"
+  ],
+  "secteurs": [
+    "industrie_viande"
+  ],
+  "departements": [],
+  "agences": [
+    "AESN"
+  ],
+  "mesures": [
+    "ACT_VIA_007",
+    "ACT_VIA_008"
+  ],
+  "infos_complementaires": [
+    {
+      "type": "avertissement",
+      "texte": "Aucun commencement d'exécution du projet (ordre de service ou bon de commande par exemple) ne peut avoir lieu avant le dépôt d'une demande d'aide formelle auprès de l'agence, sauf autorisation de démarrage anticipé. En cas de contractualisation par acceptation d'un devis, le commencement d'exécution est la date de signature du devis. L'accusé de réception de la demande ne vaut pas décision d'attribution."
+    },
+    {
+      "type": "avertissement",
+      "texte": "Les travaux faisant l'objet d'un arrêté de mise en demeure de l'autorité administrative compétente ne sont pas éligibles : les aides doivent avoir un effet incitatif."
+    },
+    {
+      "type": "info",
+      "texte": "Installations nouvelles (nouvelle implantation géographique depuis moins de 2 années) : l'agence ne finance que les études et travaux liés aux dispositifs d'épuration et aux technologies propres qui permettent d'aller au-delà des exigences de la réglementation applicable, et l'assiette se limite à ces dépenses."
+    },
+    {
+      "type": "info",
+      "texte": "Collecte et élimination des effluents concentrés : sont éligibles uniquement les actions et travaux concernant les effluents concentrés, toxiques ou graisseux susceptibles de perturber le système d'assainissement, de remettre en cause la valorisation des boues ou de polluer les eaux. Sous cette même rubrique, le programme exclut notamment les déchets faisant l'objet d'une responsabilité élargie du producteur et les déchets infectieux."
+    },
+    {
+      "type": "info",
+      "texte": "Engagements liés à l'aide : pour les travaux d'épuration, fournir à l'agence les données de pollution éliminée ou justifiant du respect des normes de rejet au réseau ou au milieu naturel, et justifier de l'élimination conforme des boues et sous-produits d'épuration ; pour les technologies propres, fournir les quantités de pollution évitée ou valorisée."
+    },
+    {
+      "type": "info",
+      "texte": "Études : une étude portant sur un système de traitement des effluents doit envisager au moins un scénario tenant compte de l'impact du changement climatique sur le milieu récepteur (hypothèse d'une baisse de 15 % du débit de référence QMNA5 du cours d'eau). Le financement d'une étude ne donne pas droit systématiquement au financement des travaux."
+    },
+    {
+      "type": "info",
+      "texte": "Démarche en trois étapes : présenter le projet au chargé d'opérations de votre direction territoriale, télécharger le formulaire de demande d'aide, puis déposer le dossier complet sur Démarche Numérique. En septembre 2026, l'agence indiquait : « Pour avoir l'assurance d'une instruction en 2026, vous devez déposer vos dossiers complets de demande d'aide sur Démarche Numérique avant le 30 septembre. » Vérifiez la date de l'année en cours."
+    },
+    {
+      "type": "info",
+      "texte": "Contact de l'agence : 12 rue de l'Industrie, CS 80148, 92416 Courbevoie Cedex, téléphone 01 41 20 16 00."
+    },
+    {
+      "type": "ressource",
+      "texte": "Les aides financières destinées aux entreprises, programme Eau, climat et biodiversité 2025-2030",
+      "lien": "https://www.eau-seine-normandie.fr/entreprises/aides-financieres-du-programme-eau-climat-biodiversite"
+    },
+    {
+      "type": "ressource",
+      "texte": "12e programme 2025-2030 de l'agence de l'eau Seine-Normandie (chapitre B, réduction des pressions des acteurs économiques hors agriculture, pages 63 à 71)",
+      "lien": "https://economie.eaufrance.fr/sites/default/files/2024-11/doc577-12e_programme_aesn_vf.pdf"
+    },
+    {
+      "type": "ressource",
+      "texte": "Formulaires de demande d'aide 2025-2030",
+      "lien": "https://www.eau-seine-normandie.fr/formulaires_aides"
+    },
+    {
+      "type": "ressource",
+      "texte": "Formulaire de demande d'aide Industrie",
+      "lien": "https://www.eau-seine-normandie.fr/sites/public_file/12e-programme/FORMULAIRES/12eme_Formulaire_aide_INDUSTRIE_VF.docx"
+    },
+    {
+      "type": "ressource",
+      "texte": "Complément formulaire OBJECTIF DEPOLLUTION",
+      "lien": "https://www.eau-seine-normandie.fr/sites/public_file/12e-programme/FORMULAIRES/12eme_Complement_Formulaire_aide_Industrie_OBJECTIF_DEPOLLUTION_VF.docx"
+    },
+    {
+      "type": "ressource",
+      "texte": "Conditions générales d'attribution et de paiement des aides (Titre 1), version en vigueur pour les aides attribuées à partir du 1er janvier 2025",
+      "lien": "https://www.eau-seine-normandie.fr/sites/public_file/12e-programme/TITRE_1_Conditions_generales_attribution_paiement.pdf"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "nom, description, mesures (ACT_VIA_008, ACT_VIA_007), taux",
+      "url": "https://www.eau-seine-normandie.fr/entreprises/aides-financieres-du-programme-eau-climat-biodiversite",
+      "date": "2026-09-24",
+      "extrait": "L'agence de l'eau consacre 218 millions d'euros (soit 6 % du montant des aides du 12è programme) à la dépollution industrielle pour : [...] la mise en place de technologies propres : la modification du dispositif de production permettant d'éviter tout ou partie du flux de pollution ou de lui substituer un flux de pollution moindre ou plus facile à traiter, ou encore un dispositif (individuel ou centralisé) de valorisation de la matière contenue dans la pollution émise [...] les travaux d'épuration : la réduction des pollutions chroniques par la mise en place de dispositifs de collecte, épuration ou prétraitement des effluents pollués et de leurs sous-produits, collecte et stockage d'effluents concentrés ou graisseux avant envoi en centre autorisé [...] Les taux d'aides peuvent être plafonnés par l'encadrement européen ou national des aides aux activités économiques"
+    },
+    {
+      "champ": "description (mesures d'accompagnement, effluents concentrés), mesures (ACT_VIA_008 autosurveillance, ACT_VIA_007)",
+      "url": "https://www.eau-seine-normandie.fr/entreprises/aides-financieres-du-programme-eau-climat-biodiversite",
+      "date": "2026-09-24",
+      "extrait": "les mesures d'accompagnement : sous cette dénomination sont regroupés les travaux d'adaptation et de fiabilisation du dispositif de collecte et de traitement des rejets, le dispositif d'autosurveillance des rejets ; la dépollution des rejets par temps de pluie ; les ouvrages visant la prévention des pollutions accidentelles [...] La collecte et l'élimination des effluents concentrés : [...] Elle finance également les actions et travaux concernant les effluents (concentrés, toxiques ou graisseux) susceptibles de perturber le système d'assainissement, de remettre en cause la valorisation des boues, ou de polluer les eaux"
+    },
+    {
+      "champ": "description (études), infos_complementaires (installations nouvelles)",
+      "url": "https://www.eau-seine-normandie.fr/entreprises/aides-financieres-du-programme-eau-climat-biodiversite",
+      "date": "2026-09-24",
+      "extrait": "les études générales les études d'orientation les études diagnostics les études préalables d'aide à la décision de réaliser des travaux les études nécessaires à la réalisation des travaux les études relatives à la réhabilitation des sites pollués et aux sédiments de dragage, les essais pilotes. [...] Les installations nouvelles (nouvelle implantation géographique depuis moins de 2 années) Pour ces dernières, l'agence de l'eau finance les études et les travaux liés aux dispositifs d'épuration et aux technologies propres permettant d'aller au-delà des exigences de la réglementation."
+    },
+    {
+      "champ": "infos_complementaires (date de dépôt, contact)",
+      "url": "https://www.eau-seine-normandie.fr/entreprises/aides-financieres-du-programme-eau-climat-biodiversite",
+      "date": "2026-09-24",
+      "extrait": "Pour avoir l'assurance d'une instruction en 2026, vous devez déposer vos dossiers complets de demande d'aide sur Démarche Numérique avant le 30 septembre. [...] Nous contacter 01 41 20 16 00 [...] 12 rue de l'Industrie CS 80148 92416 Courbevoie Cedex"
+    },
+    {
+      "champ": "infos_complementaires (démarche, commencement d'exécution), ressources (formulaires, conditions générales)",
+      "url": "https://www.eau-seine-normandie.fr/formulaires_aides",
+      "date": "2026-09-24",
+      "extrait": "Prendre contact avec le chargé d'opérations de la direction territoriale dont vous dépendez pour présenter votre projet en vue de l'élaboration du dossier de demande d'aide. Télécharger le formulaire de demande d'aide [...] Compléter le dossier et déposez-le en ligne sur démarche numérique. [...] aucun commencement d'exécution du projet (émission d'ordre de service ou de bon de commande par exemple) ne peut avoir lieu avant le dépôt d'une demande d'aide formelle auprès de l'agence de l'eau. [...] Conditions générales d'attribution et de paiement des aides (Titre 1) version en vigueur pour les aides attribuées à partir du 1er janvier 2025 [...] Formulaire de demande d'aide [...] Complément formulaire OBJECTIF DEPOLLUTION"
+    },
+    {
+      "champ": "eligibilite",
+      "url": "https://economie.eaufrance.fr/sites/default/files/2024-11/doc577-12e_programme_aesn_vf.pdf",
+      "date": "2026-09-24",
+      "extrait": "B.1. Actions aidées Tous les acteurs économiques sont aidés individuellement quelle que soit leur taille ou leur activité dès lors que le projet présenté correspond aux objectifs du programme. Les études et les travaux des activités dispersées sont préférentiellement accompagnés dans le cadre d'actions collectives sectorielles ou territoriales. [...] B.2. Modalités Éligibilité - Conditions d'éligibilité Sont éligibles les opérations (études et travaux) ne faisant pas l'objet d'une mise en demeure de la part d'une autorité administrative compétente sur l'objet du projet. (pages 63 et 64 du fichier, enregistré le 7 octobre 2024)"
+    },
+    {
+      "champ": "description (travaux d'épuration, technologies propres), mesures (ACT_VIA_008 prétraitement, ACT_VIA_007 effluents concentrés)",
+      "url": "https://economie.eaufrance.fr/sites/default/files/2024-11/doc577-12e_programme_aesn_vf.pdf",
+      "date": "2026-09-24",
+      "extrait": "B.2.2.3. Les travaux d'épuration Éligibilité - Conditions d'éligibilité Sont éligibles : • les actions de réduction des pollutions chroniques : dispositifs de collecte, épuration ou prétraitement des effluents pollués, traitement des sous-produits associés, collecte et stockage d'effluents concentrés ou d'effluents graisseux avant envoi en centre autorisé ; (page 65 du fichier)"
+    },
+    {
+      "champ": "infos_complementaires (engagements)",
+      "url": "https://economie.eaufrance.fr/sites/default/files/2024-11/doc577-12e_programme_aesn_vf.pdf",
+      "date": "2026-09-24",
+      "extrait": "L'attributaire fournit à l'agence de l'eau les données relatives aux quantités de pollution évitée ou valorisée. [...] Pour la réduction des pollutions industrielles : l'attributaire s'engage à fournir à l'agence de l'eau les données relatives à la quantité de pollution éliminée par le dispositif d'épuration ou [...] justifiant du respect des normes de rejet à un réseau de collecte ou au milieu naturel ; il s'engage à justifier de l'élimination conforme des boues et sous-produits d'épuration. (pages 65 et 66 du fichier)"
+    },
+    {
+      "champ": "infos_complementaires (effluents concentrés, exclusions de la rubrique B.2.2.7)",
+      "url": "https://economie.eaufrance.fr/sites/default/files/2024-11/doc577-12e_programme_aesn_vf.pdf",
+      "date": "2026-09-24",
+      "extrait": "B.2.2.7. La collecte et l'élimination des effluents concentrés [...] Sont éligibles uniquement les actions et travaux concernant les effluents (concentrés, toxiques ou graisseux) susceptibles de perturber le système d'assainissement, de remettre en cause la valorisation des boues, ou de polluer les eaux. [...] Ne sont pas éligibles les déchets faisant l'objet d'une responsabilité élargie du producteur, [...] les déchets explosifs, radioactifs et infectieux (pages 67 et 68 du fichier)"
+    },
+    {
+      "champ": "infos_complementaires (études)",
+      "url": "https://economie.eaufrance.fr/sites/default/files/2024-11/doc577-12e_programme_aesn_vf.pdf",
+      "date": "2026-09-24",
+      "extrait": "les études concernant la mise en place d'un système de traitement des effluents envisageront au moins un scenario tenant compte des perspectives de l'impact du changement climatique sur le milieu récepteur (en prenant notamment pour hypothèse une baisse des débits de référence de QMNA5 -15 % des cours d'eau [...]). Le financement d'étude ne donne pas droit systématique au financement de travaux. [...] Le financement des études réalisées en régie est plafonné à hauteur de 5 % du montant de l'assiette des travaux éligibles. (page 64 du fichier)"
+    },
+    {
+      "champ": "taux, plafond (coefficients du prix de référence)",
+      "url": "https://economie.eaufrance.fr/sites/default/files/2024-11/doc577-12e_programme_aesn_vf.pdf",
+      "date": "2026-09-24",
+      "extrait": "Tableau « Niveaux d'aide », lignes recopiées telles que le texte extrait les restitue (colonnes entremêlées) : Nature de l'opération Taux d'aide max Application d'un Coefficients Ligne [...] Études Taux maximaux Non - 1310 autorisés par 1320 pour l'encadrement études sites européen pollués [...] Réduction des Taux maximaux Non - 1331 micropolluants autorisés par l'encadrement européen Ou S 70 % de minimis Technologie propre Taux maximaux Oui a = 2 1315 autorisés par Non si l'encadrement micropolluants européen Ou S 70 % de minimis [...] Réduction des Taux maximaux Oui a = 1,5 et b = 3 1311 pollutions autorisés par Non si zéro rejet - l'encadrement européen Mesures Taux maximaux Oui a = 1 et b = 3 ; 1313 d'accompagnement et autorisés par Prix de référence prévention des l'encadrement Sauf pour la pour les pollutions européen prévention des Canalisations : accidentelles pollutions réseaux accidentelles [...] Actions collectives Taux maximaux Oui Selon la nature 1316 Études et travaux autorisés par des travaux l'encadrement européen S 70 % de minimis (pages 69 et 70 du fichier)"
+    },
+    {
+      "champ": "plafond (prix de référence)",
+      "url": "https://economie.eaufrance.fr/sites/default/files/2024-11/doc577-12e_programme_aesn_vf.pdf",
+      "date": "2026-09-24",
+      "extrait": "PR = a. [A + PR(MES).(MES) + PR(DB05).(DB05) + PR(DCO).(DCO) + PR(NR).(NR) + PR(P).(P) + b. PR(MI).(MI) + b. PR(METOX).(METOX) + b. PR(AOX).(AOX)] où : • a est un coefficient ; • b est un coefficient prenant en compte les substances dangereuses prioritaires du SDAGE ; • A est un terme fixe ; [...] Terme fixe A 600 000 € PR (MES) par kg/j de pollution 2059 €/kg/j de pollution PR (DB05) par kg/j de pollution 1160 €/kg/j de pollution PR (DCO) par kg/j de pollution 580 €/kg/j de pollution PR (NR) par kg/j de pollution 2403 €/kg/j de pollution Si traitements spécifiques de l'azote (non biologique) 6884 PR (P) par kg/j de pollution 6010 €/kg/j de pollution PR (AOX) par g/j de pollution 47 €/g/j de pollution PR (METOX) par g/j de pollution 47 €/g/j de pollution PR (Ml) par equitox/j de pollution 47 €/equitox/j [...] Pour un site d'activité donné, le terme fixe A (cf. tableau ci-dessus) est utilisé une seule fois pour chaque sous ligne programme et pour la durée du programme. (page 71 du fichier)"
+    },
+    {
+      "champ": "infos_complementaires (installations nouvelles, assiette)",
+      "url": "https://economie.eaufrance.fr/sites/default/files/2024-11/doc577-12e_programme_aesn_vf.pdf",
+      "date": "2026-09-24",
+      "extrait": "B.2.2.9. Les installations nouvelles Une installation nouvelle correspond à la création d'une nouvelle implantation géographique depuis moins de 2 années. [...] Le montant des dépenses éligibles correspond aux dépenses qui permettent d'aller au-delà des exigences de la réglementation applicable. (page 68 du fichier)"
+    },
+    {
+      "champ": "plafond (seuils plancher), type",
+      "url": "https://economie.eaufrance.fr/sites/default/files/2024-11/doc577-12e_programme_aesn_vf.pdf",
+      "date": "2026-09-24",
+      "extrait": "Les aides sont accordées par l'agence de l'eau sous forme de subventions ou d'avances remboursables à taux zéro. [...] ne sont pas aidés les projets dont le coût est inférieur à 10 000 €TTC. Par exception, ce seuil est ramené à 3 500 €TTC pour : • les études des acteurs économiques, • les actions collectives (études, travaux, animation) des acteurs économiques, (page 29 du fichier)"
+    },
+    {
+      "champ": "infos_complementaires (commencement d'exécution, devis, mise en demeure)",
+      "url": "https://economie.eaufrance.fr/sites/default/files/2024-11/doc577-12e_programme_aesn_vf.pdf",
+      "date": "2026-09-24",
+      "extrait": "Sauf autorisation de démarrage anticipé accordée par l'agence, l'attributaire ne peut pas démarrer l'exécution de l'opération avant le dépôt à l'agence de l'eau d'une demande d'aide formelle. L'agence en accuse réception. Cet accusé de réception ne vaut pas décision d'attribution de l'aide. [...] En cas de contractualisation par acceptation d'un devis, la date de signature du devis. [...] En particulier, les aides doivent avoir un effet incitatif. À ce titre notamment, les travaux faisant l'objet d'un arrêté de mise en demeure émanant de l'autorité administrative compétente ne sont pas éligibles aux aides de l'agence. (pages 28 à 31 du fichier)"
+    }
+  ],
+  "date_maj": "2026-09-24"
+}

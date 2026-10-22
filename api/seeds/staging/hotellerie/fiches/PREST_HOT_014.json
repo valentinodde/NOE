@@ -1,0 +1,92 @@
+{
+  "id": "PREST_HOT_014",
+  "nom": "idverde",
+  "type": "installateur",
+  "logo_url": null,
+  "siret": "33960966101806",
+  "description": "Entreprise d'aménagement et d'entretien des espaces paysagers, siège à Courbevoie, organisée en 24 territoires et une centaine de sites de production en France, dont le métier arrosage et fontainerie conçoit, installe et entretient des systèmes d'arrosage. Pour les espaces verts, elle propose une analyse agronomique et hydrique des plantations, l'arrosage localisé au goutte-à-goutte piloté selon la météo et l'humidité des sols, ainsi que le stockage et la réutilisation des eaux pluviales ; son site a présenté l'aménagement des espaces verts d'une résidence Pierre et Vacances Premium à Touques/Deauville (arrosage automatique, paillage, entretien pendant un an), référence qui ne figure plus sur le site actuel. Prestations sur devis, sa plaquette eau propose un audit gratuit des besoins en arrosage.",
+  "expertises": [
+    "Arrosage localisé au goutte-à-goutte",
+    "Pilotage de l'arrosage selon la météo",
+    "Récupération et réutilisation des eaux pluviales",
+    "Entretien des espaces verts"
+  ],
+  "categories": [
+    "changer_process_pratiques",
+    "valoriser_reut_eaux_non_conventionnelles"
+  ],
+  "secteurs": [
+    "hotellerie"
+  ],
+  "departements": [],
+  "mesures": [
+    {
+      "id": "ACT_HOT_006",
+      "roles": [
+        "conseil_etude",
+        "travaux"
+      ]
+    },
+    {
+      "id": "ACT_AGR_006",
+      "roles": [
+        "conseil_etude",
+        "travaux"
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "type": "site_internet",
+      "value": "https://idverde.fr/"
+    },
+    {
+      "type": "mail",
+      "value": "siege@idverde.com"
+    },
+    {
+      "type": "adresse",
+      "value": "25 quai du Président Paul Doumer, 92400 Courbevoie"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse, type",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=idverde&departement=92",
+      "date": "2026-09-24",
+      "extrait": "IDVERDE, siret 33960966101806, siège, IMMEUBLE WORKSTATION 25 QUAI DU PRESIDENT PAUL DOUMER 92400 COURBEVOIE, activité 81.30Z, état administratif A, 118 établissements ouverts"
+    },
+    {
+      "champ": "contacts (mail, adresse), departements, description, expertises, mesures (ACT_HOT_006 conseil_etude, travaux ; ACT_AGR_006 conseil_etude, travaux)",
+      "url": "https://idverde.fr/wp-content/uploads/sites/4/2026/09/idverde-Plaquette-technique-gestion-eau-SEPT2026_WEB2-1.pdf",
+      "date": "2026-09-24",
+      "extrait": "Analyse agronomique et hydrique des plantations. Adaptation aux sols, aux expositions et aux essences végétales. [...] Micro-irrigation et goutte-à-goutte : solutions assurant une distribution ciblée de l'eau favorisant les économies. Systèmes d'irrigation connectés : pilotage à distance avec ajustement automatique des apports en fonction des conditions météorologiques et de l'humidité des sols. [...] Contactez-nous pour un audit gratuit de vos besoins en arrosage ! [...] Simulations hydrique et financière du site [...] Stockage des eaux pluviales en ouvrages enterrés ou aériens : conception et mise en œuvre [...] Mise en œuvre : réalisation par des équipes spécialisées [...] Suivi & Maintenance [...] 24 territoires autonomes sur toute la France, 100 sites de production [...] Siège Social 25 quai du Président Paul Doumer 92 400 Courbevoie siege@idverde.com"
+    },
+    {
+      "champ": "description, expertises, mesures (ACT_HOT_006 travaux)",
+      "url": "https://idverde.fr/irrigation-jeux-deau/",
+      "date": "2026-09-24",
+      "extrait": "Une prestation complète couvrant la conception et l'installation de systèmes d'irrigation et de jeux d'eau. [...] L'enjeu est d'optimiser la consommation d'eau tout en garantissant fiabilité, durabilité et facilité d'entretien."
+    },
+    {
+      "champ": "description (aménagement et entretien des espaces paysagers)",
+      "url": "https://idverde.fr/idverde-fr/a-propos/",
+      "date": "2026-09-24",
+      "extrait": "idverde est le leader européen de l'aménagement et de l'entretien des espaces paysagers, avec un ancrage historique en France. Nous allions expertise locale et dimension européenne pour concevoir, réaliser et entretenir des espaces de vie plus durables."
+    },
+    {
+      "champ": "expertises (Entretien des espaces verts)",
+      "url": "https://idverde.fr/entretien-des-espaces-verts/",
+      "date": "2026-09-24",
+      "extrait": "Des prestations d'entretien complètes. Une gamme complète de services pour assurer le soin continu des espaces verts dans des environnements variés. Cela comprend l'entretien de la végétation, les soins saisonniers et les interventions qui permettent aux espaces de rester sains, sûrs et accueillants."
+    },
+    {
+      "champ": "description, secteurs (référence hébergement touristique)",
+      "url": "https://web.archive.org/web/20260607195406/https://idverde.fr/nos-projets/amenagement-et-entretien-espaces-verts/",
+      "date": "2026-09-24",
+      "extrait": "Hôtellerie-Restauration [...] Pierres et Vacances DEAUVILLE. Résidence « Premium » de Pierres et Vacances sur TOUQUES/DEAUVILLE (14). Mise en place de substrat adapté [...] Réalisation d'un arrosage automatique. [...] Plantation d'arbustes et vivaces, mise en place de paillage [...] Entretien des espaces verts pendant 1 an. (copie archivée du 7 juin 2026 de la page idverde.fr, qui redirige aujourd'hui vers /realisations/ sans ce projet ; aucune page idverde.fr en ligne ne cite d'hôtel ou de résidence de tourisme au 24 septembre 2026)"
+    }
+  ],
+  "date_maj": "2026-09-24"
+}

@@ -1,0 +1,105 @@
+{
+  "id": "PREST_GCU_001",
+  "nom": "Weenat",
+  "type": "solution_numerique",
+  "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792084330/Noe%20assets/logos/PREST_GCU_001.png",
+  "siret": "80345028700047",
+  "description": "Entreprise nantaise qui conçoit et construit dans ses ateliers près de Nantes des capteurs connectés, dont des sondes tensiométriques (vendues en kit de 6) et des sondes capacitives qui mesurent l'eau du sol à plusieurs profondeurs, reliés à son application de pilotage de l'irrigation. L'application intègre le bilan hydrique Irré-LIS d'Arvalis pour le maïs, le blé, le soja, le sorgho et la pomme de terre, et Weenat présente le cas d'un irrigant du Gers qui déclenche ses tours d'eau sur maïs à l'enrouleur d'après ses tensiomètres. Les capteurs sont livrés prêts à l'emploi avec un guide d'installation, sur devis gratuit, et les outils d'aide à la décision demandent un abonnement à l'application, certains étant payants.",
+  "expertises": [
+    "Sondes tensiométriques connectées",
+    "Sondes capacitives connectées",
+    "Bilan hydrique Irré-LIS intégré",
+    "Application de pilotage de l'irrigation"
+  ],
+  "categories": [
+    "suivre_comprendre_maitriser"
+  ],
+  "secteurs": [
+    "grandes_cultures"
+  ],
+  "departements": [],
+  "mesures": [
+    {
+      "id": "ACT_GCU_001",
+      "roles": [
+        "materiel"
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "type": "site_internet",
+      "value": "https://weenat.com/"
+    },
+    {
+      "type": "tel",
+      "value": "02 52 86 00 55"
+    },
+    {
+      "type": "mail",
+      "value": "contact@weenat.com"
+    },
+    {
+      "type": "adresse",
+      "value": "Technocampus Alimentation, 2 impasse Thérèse Bertrand-Fontaine, 44300 Nantes"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Weenat&departement=44",
+      "date": "2026-10-15",
+      "extrait": "WEENAT, siret 80345028700047, siège, 2 IMPASSE THERESE BERTRAND-FONTAINE 44300 NANTES, etat_administratif A"
+    },
+    {
+      "champ": "contacts",
+      "url": "https://weenat.com/contactez-nous/",
+      "date": "2026-10-15",
+      "extrait": "+33 2 52 86 00 55 ; contact@weenat.com ; Technocampus Alimentation, 2 impasse Thérèse Bertrand-Fontaine, 44300 Nantes"
+    },
+    {
+      "champ": "description, expertises, mesures",
+      "url": "https://weenat.com/pilotage-de-lirrigation/",
+      "date": "2026-10-15",
+      "extrait": "Grâce aux sondes capacitives ou tensiométriques et à l’application Weenat, vous pilotez votre irrigation tout en finesse. [...] Devis gratuit et sans engagement."
+    },
+    {
+      "champ": "description, expertises, mesures",
+      "url": "https://weenat.com/bilan-hydrique-irrelis-disponible-application-weenat/",
+      "date": "2026-10-15",
+      "extrait": "NOUVEAU : le bilan hydrique Irré-LIS® s'invite dans l'application Weenat. Les cultures disponibles : Maïs, Blé (tendre et dur), Soja, Sorgho, Pomme de Terre, Haricot vert"
+    },
+    {
+      "champ": "description, mesures (référence dans le secteur)",
+      "url": "https://weenat.com/comment-louis-pilote-irrigation-tensiometres-weenat/",
+      "date": "2026-10-15",
+      "extrait": "Les sondes sont vendues dans un kit de 6 tensiomètres [...] Ici, nous sommes dans le Gers avec Louis, dans des champs de maïs. Cet agriculteur utilise des enrouleurs pour irriguer, et des tensiomètres Weenat pour piloter ses apports d’eau."
+    },
+    {
+      "champ": "description (fabrication, livraison)",
+      "url": "https://weenat.com/nos-capteurs/",
+      "date": "2026-10-15",
+      "extrait": "Conçus et développés en France, tous les capteurs Weenat sont construits dans nos ateliers de production près de Nantes en Loire-Atlantique (France). [...] prêts à l'emploi avec un guide d'installation"
+    },
+    {
+      "champ": "description (abonnement)",
+      "url": "https://weenat.com/oad/",
+      "date": "2026-10-15",
+      "extrait": "Pour accéder aux OAD, vous devez être abonné. Attention, certains OAD sont gratuits mais d'autres sont payants."
+    },
+    {
+      "champ": "departements",
+      "url": "https://weenat.com/acquisition-corhize/",
+      "date": "2026-10-15",
+      "extrait": "Weenat acquiert CoRHIZE et renforce sa position de leader du pilotage de l'irrigation agricole en France et en Europe [...] Plus de 40 000 capteurs installés en France et en Europe"
+    },
+    {
+      "champ": "logo_url",
+      "url": "https://weenat.com/wp-content/uploads/2025/11/cropped-favicon-270x270.webp",
+      "date": "2026-10-15",
+      "extrait": "Symbole carré Weenat (icône du site, 270 x 270)"
+    }
+  ],
+  "date_maj": "2026-10-15"
+}

@@ -1,0 +1,53 @@
+{
+  "id": "PREST_VIA_007",
+  "nom": "Axima Réfrigération France",
+  "type": "installateur",
+  "logo_url": null,
+  "siret": "44026717700028",
+  "description": "Entreprise de froid industriel et commercial, siège à Bischheim (67), qui conçoit, installe, dépanne et entretient des installations frigorifiques avec 80 agences en France. Dans la viande, elle a réalisé en 2008 les installations de réfrigération du site de découpe de Cooperl Hunaudaye à La Rochetoirin (38) : groupes à l'ammoniac et à l'eau glycolée, aéroréfrigérants à air munis d'un dispositif adiabatique à la place d'une condensation à eau, et récupération de chaleur sur les compresseurs et les condenseurs pour l'eau chaude sanitaire et de lavage. Les tarifs ne sont pas publiés.",
+  "expertises": [
+    "Installations frigorifiques sur mesure",
+    "Aéroréfrigérants à dispositif adiabatique",
+    "Récupération de chaleur sur le froid",
+    "Maintenance d'installations frigorifiques"
+  ],
+  "categories": [
+    "ameliorer_efficacite_hydrique"
+  ],
+  "secteurs": ["industrie_viande"],
+  "departements": [],
+  "mesures": [
+    { "id": "ACT_VIA_004", "roles": ["travaux"] }
+  ],
+  "contacts": [
+    { "type": "adresse", "value": "6 rue de l'Atome, 67800 Bischheim" }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, type, contacts (adresse)",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Axima%20Refrigeration%20France&departement=67",
+      "date": "2026-09-24",
+      "extrait": "AXIMA REFRIGERATION FRANCE (QUIRI REFRIGERATION), siret 44026717700028, siège, 6 RUE DE L'ATOME 67800 BISCHHEIM, activité 33.20B, état administratif A, 76 établissements ouverts"
+    },
+    {
+      "champ": "type, description, departements, expertises (installations, maintenance)",
+      "url": "https://www.marque.alsace/partenaire/axima-refrigeration-france",
+      "date": "2026-09-24",
+      "extrait": "Axima Réfrigération France, acteur majeur du froid en France. [...] Nous concevons des installations frigorifiques sur-mesure [...]. Axima Réfrigération France vous accompagne pour la conception, l'installation, le dépannage et la maintenance de toutes vos installations frigorifiques. En chiffre, Axima Réfrigération France c'est 80 agences en France, 2300 collaborateurs et 1800 techniciens frigoristes à votre service."
+    },
+    {
+      "champ": "description, expertises (adiabatique, récupération de chaleur), mesures (ACT_VIA_004 travaux)",
+      "url": "https://www.zoneindustrie.com/Actualite/Axima-Refrigeration-equipe-Cooperl-Hunaudaye-6424.html",
+      "date": "2026-09-24",
+      "extrait": "Axima Réfrigération équipe Cooperl Hunaudaye, 18/11/2008. Cooperl Hunaudaye, 1er groupe porcin français [...] a choisi la société Axima Réfrigération pour réaliser les installations de réfrigération de son site de La Rochetoirin (38) [...] Les aéroréfrigérants sont munis d'un dispositif adiabatique qui fournit une brumisation lorsque la température extérieure est supérieure à 31°C. L'utilisation d'air et non d'eau au niveau des condenseurs permet d'éviter tout problème de légionellose."
+    },
+    {
+      "champ": "description (salles de découpe, récupération de chaleur)",
+      "url": "https://www.agroligne.com/news-entreprises/15421-axima-refrigeration-equipe-cooperl-hunaudaye.html",
+      "date": "2026-09-24",
+      "extrait": "Deux groupes destinés au froid positif [...] fonctionnent avec de l'ammoniac comme fluide frigorigène et de l'eau glycolée [...] des salles de découpe à +1° C [...] Afin d'économiser l'énergie, AXIMA REFRIGERATION a mis en place un système de récupération des calories en sortie des compresseurs et au niveau des condenseurs pour chauffer l'eau chaude sanitaire et de lavage."
+    }
+  ],
+  "date_maj": "2026-09-24"
+}

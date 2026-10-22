@@ -1,0 +1,125 @@
+{
+  "id": "PREST_GCU_011",
+  "nom": "Lidea France",
+  "type": "equipementier",
+  "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792084228/Noe%20assets/logos/PREST_GCU_011.png",
+  "siret": "42329625000016",
+  "description": "Semencier de grandes cultures dont le siège est à Lescar (64), qui sélectionne, produit et commercialise des semences multi-espèces, avec une usine de production de semences à Francescas. Sa gamme de maïs Hydro Master regroupe des hybrides sélectionnés en essais avec coupure d'irrigation pour leur comportement en stress hydrique, et son catalogue Sud-Ouest recommande variétés et densités de semis pour les parcelles à potentiel limité. Le standard est à Lescar, et l'équipe Sud-Ouest (ingénieurs commerciaux et animateurs terrain, chacun avec ses départements) couvre les départements de la fiche, les zones des trois autres équipes régionales n'étant pas publiées.",
+  "expertises": [
+    "Maïs tolérant au stress hydrique",
+    "Semences de grandes cultures"
+  ],
+  "categories": [
+    "changer_process_pratiques"
+  ],
+  "secteurs": [
+    "grandes_cultures"
+  ],
+  "departements": [
+    "09",
+    "11",
+    "12",
+    "15",
+    "19",
+    "24",
+    "31",
+    "32",
+    "33",
+    "34",
+    "40",
+    "46",
+    "47",
+    "48",
+    "64",
+    "65",
+    "66",
+    "81",
+    "82"
+  ],
+  "mesures": [
+    {
+      "id": "ACT_GCU_006",
+      "roles": [
+        "materiel"
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "type": "site_internet",
+      "value": "https://lidea-seeds.fr"
+    },
+    {
+      "type": "tel",
+      "value": "05 59 92 38 38"
+    },
+    {
+      "type": "adresse",
+      "value": "Avenue Gaston Phoebus, 64230 Lescar"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Lidea%20France&departement=64",
+      "date": "2026-10-15",
+      "extrait": "LIDEA FRANCE (LIDEA), siret 42329625000016, siège, AVENUE GASTON PHOEBUS 64230 LESCAR, etat_administratif A"
+    },
+    {
+      "champ": "contacts",
+      "url": "https://lidea-seeds.fr/contactez-nous",
+      "date": "2026-10-15",
+      "extrait": "LIDEA FRANCE - AVENUE GASTON PHOEBUS - 64230 LESCAR - Téléphone : 05 59 92 38 38"
+    },
+    {
+      "champ": "description (équipes régionales)",
+      "url": "https://lidea-seeds.fr/contactez-nous",
+      "date": "2026-10-15",
+      "extrait": "EQUIPE NORD OUEST, EQUIPE CENTRE OUEST, EQUIPE SUD OUEST, EQUIPE EST"
+    },
+    {
+      "champ": "departements, description (équipe Sud-Ouest)",
+      "url": "https://api.lidea-seeds.fr/uploads/2025/11/catalogue_so_2026.pdf",
+      "date": "2026-10-15",
+      "extrait": "Catalogue Sud-Ouest 2026, p. 2. INGÉNIEURS COMMERCIAUX : Nicolas ARANGOÏS (dépt. 31, 32, 33, 40, 64, 65), Nicolas RAFFY (dépt. 12, 15, 19, 46, 48), Valentin CHARIER (dépt. 24, 32, 33, 47, 82), Nicolas CAPOUL (dépt. 09, 11, 31, 32, 34, 66, 81, 82). ANIMATEURS TERRAIN : Jean-Luc DELAS (dépt. 40), Clémence PUJOS (dépt. sud 32, 65), Christophe DUFOURCQ (dépt. 64), Lisa FENASSE (dépt. 09, 11, 31), Audric DUCOURNEAU (dépt. nord 32, 40)"
+    },
+    {
+      "champ": "description (équipe Sud-Ouest)",
+      "url": "https://lidea-seeds.fr/contactez-nous/equipe-sud-ouest",
+      "date": "2026-10-15",
+      "extrait": "CONSEILLERS TECHNIQUES TERRAIN : Jean-Luc DELAS, Christophe DUFOURCQ, Clémence PUJOS, Audric DUCOURNEAU, Lisa FENASSE"
+    },
+    {
+      "champ": "expertises, mesures, description",
+      "url": "https://lidea-seeds.fr/solutions/mais/hydro-master-1",
+      "date": "2026-10-15",
+      "extrait": "Face à la sècheresse estivale, le choix de la variété de maïs est crucial. [...] Hydro Master, une gamme de variétés qui regroupe des hybrides de maïs performants, spécifiquement sélectionnés pour leur comportement exemplaire en conditions de stress hydrique. [...] Lidea analyse le comportement de chaque hybride en fonction du bilan hydrique de la parcelle (pluie, irrigation, réserve en eau disponible)."
+    },
+    {
+      "champ": "expertises, mesures, description (Hydro Master, situations limitantes)",
+      "url": "https://api.lidea-seeds.fr/uploads/2025/11/catalogue_so_2026.pdf",
+      "date": "2026-10-15",
+      "extrait": "p. 6 : Hydro Master, des variétés adaptées à toutes conditions et particulièrement aux conditions séchantes. p. 7 : réalisation et analyse des essais spécifiques en France menés en coupure d'irrigation. p. 8 : Comment valoriser le potentiel de mes parcelles en situations limitantes ? Variété, destination, densité de semis recommandée."
+    },
+    {
+      "champ": "expertises, description",
+      "url": "https://lidea-seeds.fr/lidea/nos-activites",
+      "date": "2026-10-15",
+      "extrait": "Lidea bénéficie d'expertises plurielles en termes de Recherche et Développement, production et commercialisation, pour proposer aux agriculteurs une large gamme de semences multi-espèces"
+    },
+    {
+      "champ": "type (fabrication en France)",
+      "url": "https://lidea-seeds.fr/news/lidea/pour-accompagner-son-developpement-le-site-industriel-lidea-de-francescas-recrute",
+      "date": "2026-10-15",
+      "extrait": "Le site Lidea de Francescas comprend 68 salariés permanents [...] Son cœur de métier : la production de semences de maïs, soja, céréales, colza, fourragères et légumes secs."
+    },
+    {
+      "champ": "logo_url",
+      "url": "https://lidea-seeds.fr/favicon.ico",
+      "date": "2026-10-15",
+      "extrait": "Favicon du site, symbole carré 48 x 48 px"
+    }
+  ],
+  "date_maj": "2026-10-15"
+}

@@ -1,0 +1,139 @@
+{
+  "id": "AIDE_VIN_001",
+  "nom": "Aide aux investissements des entreprises vitivinicoles (appel à projets FranceAgriMer)",
+  "financeur": "FranceAgriMer (plan stratégique national de la PAC, FEAGA)",
+  "logo_url": null,
+  "type": "subvention",
+  "taux": "30 % des dépenses éligibles pour une PME, 15 % pour une ETI, 7,5 % pour une grande entreprise, bonifiés de 5, 2,5 ou 1,25 points pour les investissements environnementaux (bonifications non cumulables), soit au plus 35 %, 17,5 % ou 8,75 %",
+  "plafond": "Dépenses éligibles d'au moins 10 000 € par demande. Plafonds par poste : 800 €/m² en construction, 400 €/m² en rénovation, 40 000 € pour l'aménagement du caveau et de la salle de dégustation, études limitées à 10 % des dépenses",
+  "description": "Subvention européenne gérée par FranceAgriMer pour moderniser l'outil de vinification, de la réception des vendanges à la commercialisation des vins, conditionnement et stockage compris. Plusieurs équipements classés « économie d'eau » y reçoivent la bonification « investissements environnementaux » : nettoyage en place (NEP), cuves inox à finition recuit brillant, électropolie ou polimiroir, cuves béton à revêtement époxy et rénovation de leur revêtement, pressoirs à lavage intégré, équipements de traitement de l'eau par UV, ultrafiltration, nanofiltration ou osmose inverse, et aménagement des sols associant forme de pente, caniveaux et revêtement. Le dégrilleur automatique, classé « réduction des déchets », est aussi bonifié : il retient les matières organiques avant les eaux usées. Les groupes de froid, la maîtrise des températures et les systèmes de récupération de chaleur sont également éligibles.",
+  "eligibilite": "Entreprises vitivinicoles, individuelles ou sociétaires, qui produisent ou commercialisent des produits de la vigne (vins, vins de liqueur, mousseux, moûts), ainsi que les organisations de producteurs, associations de producteurs à activité lucrative et organisations interprofessionnelles. Il faut un numéro CVI ou un agrément d'entrepositaire agréé, un SIRET actif et des obligations sociales à jour au 31 décembre 2025 ; un exploitant individuel doit être agriculteur à titre principal et inscrit à l'AMEXA. Sont notamment exclus les SCI et GFA non exploitants, les syndicats, les indivisions, les œnothèques et bars à vin, les commerces de détail de boissons en magasin spécialisé, les producteurs de raisins qui ne vinifient pas et les entreprises en difficulté. Les investissements doivent être neufs, réalisés en France, et ne pas renouveler à l'identique un équipement existant.",
+  "categories": [
+    "ameliorer_efficacite_hydrique",
+    "agir_rejets_qualite"
+  ],
+  "secteurs": [
+    "vins_spiritueux"
+  ],
+  "departements": [],
+  "agences": [],
+  "mesures": [
+    "ACT_VIN_003",
+    "ACT_VIN_004",
+    "ACT_VIN_006"
+  ],
+  "infos_complementaires": [
+    {
+      "type": "info",
+      "texte": "L'appel à projets 2026 est clos : les dépôts étaient ouverts du 10 février au 24 mars 2026 à midi, avec une période supplémentaire du 27 mars au 3 avril 2026 à midi après une panne du téléservice. Un appel à projets avait déjà été ouvert en 2025 : surveillez la page de FranceAgriMer pour le prochain (situation au 28 septembre 2026)."
+    },
+    {
+      "type": "avertissement",
+      "texte": "L'aide ne concerne que les produits de la vigne (vins, vins de liqueur, mousseux, moûts, vinaigre de vin) et les investissements spécifiques à leur production, de la réception des vendanges à la commercialisation. Les eaux-de-vie ne figurent pas dans cette liste : les alambics et le refroidissement d'une distillerie ne sont pas finançables par ce dispositif. Pour le refroidissement, seuls les groupes de froid et la maîtrise des températures des vendanges, moûts et vins en cave sont éligibles."
+    },
+    {
+      "type": "avertissement",
+      "texte": "Tout début d'exécution avant la date d'ouverture de l'appel à projets (arrhes, acompte, avance, facture payée) rend le devis ou la facture concerné inéligible. Les études préalables et les devis payants ne comptent pas comme début d'exécution."
+    },
+    {
+      "type": "avertissement",
+      "texte": "Pour les effluents, seul le dégrilleur automatique est finançable (avec le broyeur de rafles) : les équipements de stockage et de traitement des effluents sont exclus, tout comme les surfaces de bâtiment dédiées au stockage de marc ou d'autres déchets et les aires de lavage extérieures. Sont aussi exclus les adoucisseurs et systèmes de filtration d'eau qui ne sont pas accessoires d'un investissement éligible, les réseaux d'eau hors projet de construction, et les nettoyeurs autres que les nettoyeurs à eau ou à vapeur spécifiques aux fûts et aux cuves et le NEP."
+    },
+    {
+      "type": "avertissement",
+      "texte": "La construction et la rénovation de bâtiments, dont l'aménagement des sols en pente avec caniveaux, ne sont éligibles que pour les demandeurs bénéficiant de la bonification « nouvel installé » ou « projet structurant ». Cette restriction ne vise pas la création ou la rénovation d'un caveau de vente de vin, qui relève de règles propres."
+    },
+    {
+      "type": "avertissement",
+      "texte": "Si les demandes dépassent l'enveloppe (95 millions d'euros en 2026), un coefficient stabilisateur réduit toutes les aides, sauf celles des nouveaux installés. En 2025, ce coefficient a été de 65,32 %. Aucune autre aide financée par l'Union européenne ne peut compléter le projet, sous peine de rejet."
+    },
+    {
+      "type": "info",
+      "texte": "La demande se dépose sur le téléservice Viti-investissement après inscription au portail des téléservices de FranceAgriMer, qui demande un délai de validation. Une demande restée en statut provisoire n'est pas déposée. Pour l'appel 2026, la demande de paiement est à déposer avant le 15 mai 2028. Pour bénéficier de la bonification, les dépenses environnementales doivent être isolées sur les devis et factures."
+    },
+    {
+      "type": "ressource",
+      "texte": "Page de l'appel à projets 2026 sur le site de FranceAgriMer",
+      "lien": "https://www.franceagrimer.fr/aides/investissement-vitivinicole-appel-projets-2026"
+    },
+    {
+      "type": "ressource",
+      "texte": "Décision INTV-GPASV-2026-06 et ses annexes (liste des dépenses éligibles, dépenses inéligibles, investissements environnementaux)",
+      "lien": "https://www.franceagrimer.fr/sites/default/files/2026-02/INTV-GPASV-2026-06_AAP26%20aide%20aux%20investissements%20vitivinicole%20et%20annexes.pdf"
+    },
+    {
+      "type": "ressource",
+      "texte": "Téléservice Viti-investissement",
+      "lien": "https://www.franceagrimer.fr/e-services/viti-investissement"
+    },
+    {
+      "type": "ressource",
+      "texte": "Annuaire des services territoriaux de FranceAgriMer pour l'investissement vitivinicole",
+      "lien": "https://www.franceagrimer.fr/sites/default/files/2026-02/Annuaire%20_Services%20Territoriaux%20FAM_investissement%20viti.pdf"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "financeur",
+      "url": "https://www.franceagrimer.fr/sites/default/files/2026-02/INTV-GPASV-2026-06_AAP26%20aide%20aux%20investissements%20vitivinicole%20et%20annexes.pdf",
+      "date": "2026-09-28",
+      "extrait": "Objet : programme de soutien aux investissements des entreprises du secteur vitivinicole dans le cadre du plan stratégique national. Article 1 : Cette aide financée par le Fonds européen agricole de garantie (FEAGA) ... FranceAgriMer, en tant qu'organisme payeur des aides FEAGA."
+    },
+    {
+      "champ": "taux",
+      "url": "https://www.franceagrimer.fr/sites/default/files/2026-02/INTV-GPASV-2026-06_AAP26%20aide%20aux%20investissements%20vitivinicole%20et%20annexes.pdf",
+      "date": "2026-09-28",
+      "extrait": "Article 3, tableau 2 : PME 30% +5% ... 35% ; ETI 15% +2,5 ... 17,5% ; GE 7,5% +1,25% ... 8,75%. Les bonifications ne sont pas cumulables."
+    },
+    {
+      "champ": "plafond",
+      "url": "https://www.franceagrimer.fr/sites/default/files/2026-02/INTV-GPASV-2026-06_AAP26%20aide%20aux%20investissements%20vitivinicole%20et%20annexes.pdf",
+      "date": "2026-09-28",
+      "extrait": "Article 2.2.3 : Le montant total de dépenses éligibles au sein de la demande d'aide doit être supérieur ou égal à 10 000 €. Tableau 1 : construction 800 €/m², rénovation 400 €/m². Article 2.2.2 : aménagement des caveaux plafonné à 40 000 € ; frais d'études plafonnés à 10 %."
+    },
+    {
+      "champ": "description, eligibilite",
+      "url": "https://www.franceagrimer.fr/sites/default/files/2026-02/INTV-GPASV-2026-06_AAP26%20aide%20aux%20investissements%20vitivinicole%20et%20annexes.pdf",
+      "date": "2026-09-28",
+      "extrait": "Article 2.1.1 : entreprises vitivinicoles ... produisant ou commercialisant les produits visés à l'annexe VII, partie II ... disposer d'un numéro CVI ou d'un agrément EA ; disposer d'un numéro SIRET actif ; être à jour de leurs obligations sociales ... au 31 décembre 2025 ; exploitants à titre individuel : être agriculteur à titre principal, être inscrit à l'AMEXA. Article 2.1.2 : ne sont pas éligibles les SCI non exploitantes et GFA non exploitants, les syndicats, les indivisions, les œnothèques et bars à vin, les commerçants de détail de boissons en magasin spécialisé, les producteurs de raisins qui ne vinifient pas, les entreprises en difficulté. Article 2.2.1 : biens neufs, ne pas renouveler à l'identique."
+    },
+    {
+      "champ": "mesures (ACT_VIN_003, ACT_VIN_004, ACT_VIN_006), description",
+      "url": "https://www.franceagrimer.fr/sites/default/files/2026-02/INTV-GPASV-2026-06_AAP26%20aide%20aux%20investissements%20vitivinicole%20et%20annexes.pdf",
+      "date": "2026-09-28",
+      "extrait": "Annexe 5 : NEP ... Economie d'énergie et économie d'eau ... permet d'optimiser les consommations en eau ; Cuves inox recuit brillant, électropolies ou polimiroir ... économies d'eau ; Cuves béton avec revêtement epoxy ; Equipement de traitement de l'eau par UV, ultrafiltration, nanofiltration ou osmose inverse ... Economie d'eau ; Dégrilleur automatique Réduction des déchets : Permet d'éliminer les déchets des eaux usées ; Aménagement du sol (forme de pente, caniveaux, couverture) ... réduction de la consommation d'eau ; Système de récupération d'énergie ou de chaleur. Annexe 1 : Groupes de froid ; Maîtrise des températures des vendanges, moûts et vins."
+    },
+    {
+      "champ": "infos_complementaires (exclusions)",
+      "url": "https://www.franceagrimer.fr/sites/default/files/2026-02/INTV-GPASV-2026-06_AAP26%20aide%20aux%20investissements%20vitivinicole%20et%20annexes.pdf",
+      "date": "2026-09-28",
+      "extrait": "Annexe 2, point 20 : Les réseaux (eau, oxygène, azote, SO2...) non inclus dans un projet de construction de bien immeuble ; point 26 g : Les équipements de traitement des déchets et effluents ... hors broyeurs à rafles et dégrilleurs automatiques ; p : adoucisseurs et systèmes de filtration d'eau ; q : nettoyeurs et laveurs hors Nettoyeurs à eau ou à vapeur spécifiques aux fûts et aux cuves et Nettoyage en place. Annexe 2bis : 8. Stockage de marc ou autres déchets ; 10. Aire de lavage extérieure."
+    },
+    {
+      "champ": "infos_complementaires (début d'exécution, bâtiments, enveloppe, cumul, démarche)",
+      "url": "https://www.franceagrimer.fr/sites/default/files/2026-02/INTV-GPASV-2026-06_AAP26%20aide%20aux%20investissements%20vitivinicole%20et%20annexes.pdf",
+      "date": "2026-09-28",
+      "extrait": "5.3 : Tout début d'exécution du projet antérieur à cette date rend tout le devis ou la facture concerné inéligible. 2.2.2 a) Construction de biens immeubles (hors création ou rénovation d'un caveau de vente de vin) et b) Rénovation de biens immeubles (hors création ou rénovation d'un caveau de vente de vin) : éligibilité restreinte aux demandeurs bénéficiant des bonifications définies aux articles 3.2.1 et 3.2.2. 5.2 : enveloppe fixée à 95 millions d'euros ... coefficient stabilisateur ... à l'exception des demandes avec bonification nouvel installé. Article 4 : Aucune autre aide financée par l'Union européenne ne peut compléter le financement. 6.1 : demandes de paiement avant le 15 mai 2028."
+    },
+    {
+      "champ": "infos_complementaires (calendrier 2026, appel clos)",
+      "url": "https://www.franceagrimer.fr/aides/investissement-vitivinicole-appel-projets-2026",
+      "date": "2026-09-28",
+      "extrait": "Une période supplémentaire de dépôt des demandes d'aide est ouverte du vendredi 27 mars 2026 midi au vendredi 3 avril 2026 midi. / La date limite de dépôt des demandes d'aide accompagnées de toutes les pièces justificatives est fixée au 24 mars 2026 à 12h00 (midi)."
+    },
+    {
+      "champ": "infos_complementaires (appel 2025, coefficient stabilisateur)",
+      "url": "https://www.franceagrimer.fr/aides/investissement-vitivinicole-appel-projets-2025",
+      "date": "2026-09-28",
+      "extrait": "L'aide estimée s'est éleve à 161 M€ (AAP 2024 : 179 M€) => un coefficient stabilisateur de 65,322423% a été appliqué pour respecter l'enveloppe fixée à 110 M€"
+    },
+    {
+      "champ": "infos_complementaires (distillation hors champ)",
+      "url": "https://www.franceagrimer.fr/sites/default/files/2026-02/INTV-GPASV-2026-06_AAP26%20aide%20aux%20investissements%20vitivinicole%20et%20annexes.pdf",
+      "date": "2026-09-28",
+      "extrait": "Article 2.2.1 a) : Les investissements éligibles sont utilisés pour la production de vin, pour les étapes allant de la réception des vendanges à la commercialisation. Annexe 6 : Les catégories de produits de la vigne sont celles figurant aux points 1) à 17) (vin ... vinaigre de vin). Annexe 2, point 26 : Les investissements non spécifiques à la production des produits visés à l'annexe VII, partie II."
+    }
+  ],
+  "date_maj": "2026-09-28"
+}

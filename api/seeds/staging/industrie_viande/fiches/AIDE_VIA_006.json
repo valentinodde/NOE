@@ -1,0 +1,149 @@
+{
+  "id": "AIDE_VIA_006",
+  "nom": "IND1, réduction des pollutions de nature industrielle (agence de l'eau Rhône Méditerranée Corse, 12e programme)",
+  "financeur": "Agence de l'eau Rhône Méditerranée Corse",
+  "logo_url": null,
+  "type": "subvention",
+  "taux": "Taux maximaux : 40 % pour les études et travaux visant à réduire les émissions de pollutions (micropolluants ou macropolluants), 50 % pour les projets de recherche et développement visant à réduire les émissions de micropolluants. Ces taux sont majorés en fonction de la taille de l'entreprise : +10 % pour les moyennes entreprises, +20 % pour les petites entreprises.",
+  "plafond": null,
+  "description": "Fiche aide IND1 du 12e programme de l'agence de l'eau Rhône Méditerranée Corse, version 1 adoptée par le conseil d'administration du 19 décembre 2024 (délibération 2024-58), dont l'objectif est d'améliorer la qualité des eaux des milieux. Elle finance les études et travaux visant à réduire les pollutions par les macropolluants et les micropolluants, notamment la réduction à la source (mise en place de technologie propre), la mise en place de dispositifs d'épuration associée ou non à la réutilisation d'eaux usées traitées sur le site, la réduction des pollutions issues du ruissellement des eaux pluviales (traitement et réutilisation) et toute autre mesure permettant de réduire significativement les rejets. Elle finance aussi les travaux de réduction des pollutions par les plastiques (dispositifs de limitation des fuites de microbilles et biomédias) et les projets de recherche et développement visant à réduire les micropolluants.",
+  "eligibilite": "Acteurs économiques non agricoles (industries, sociétés, entreprises, coopératives) et organismes de recherche, sur tous les territoires des bassins Rhône-Méditerranée et de Corse. Le projet ne doit pas répondre à une mise en demeure par arrêté préfectoral. Pour la réduction des émissions de macropolluants, le coût prévisionnel du projet présenté dans la demande d'aide doit être supérieur à 50 000 €.",
+  "categories": ["agir_rejets_qualite"],
+  "secteurs": ["industrie_viande"],
+  "departements": [],
+  "agences": ["AERMC"],
+  "mesures": ["ACT_VIA_008", "ACT_VIA_007"],
+  "infos_complementaires": [
+    {
+      "type": "avertissement",
+      "texte": "Pour la réduction des émissions de macropolluants (matières en suspension, matières organiques, azote, phosphore, sels solubles dont les chlorures), les projets ne sont éligibles que si leur coût prévisionnel présenté dans la demande d'aide est supérieur à 50 000 €. En dessous de ce montant, un projet de réduction des macropolluants n'entre pas dans ce dispositif."
+    },
+    {
+      "type": "avertissement",
+      "texte": "Le projet ne doit pas répondre à une mise en demeure par arrêté préfectoral. Il doit aussi aller au-delà des normes communautaires en vigueur s'il en existe, et ne pas être porté par une entreprise en difficulté financière au sens de la réglementation européenne ; ces deux dernières conditions ne s'appliquent pas lorsque l'aide est apportée au titre d'un règlement de minimis, ce qui est le cas prioritaire."
+    },
+    {
+      "type": "avertissement",
+      "texte": "Ne sont pas éligibles, entre autres : les études opérationnelles et dispositifs d'autosurveillance seuls, non intégrés à un projet de travaux ; les campagnes d'analyses seules ; les investissements réglementaires qui ne concourent pas directement à la réduction des pollutions (étude d'impact des rejets, étude d'épandage, campagne d'analyses réglementaires) ; les investissements liés à des pollutions nouvelles (création ou accroissement d'activité), sauf dans une démarche territoriale substances ; les projets visant la pollution domestique des entreprises ; les pollutions non significatives ou non quantifiées ; le renouvellement à l'identique ; le traitement des eaux pluviales des zones de stationnement et voies de circulation."
+    },
+    {
+      "type": "avertissement",
+      "texte": "Secteur pêche et aquaculture : hors règlement de minimis, le bénéficiaire doit être une PME et le taux d'aide ne peut dépasser 50 %, indépendamment de la taille de la PME. Si votre atelier transforme du poisson, des crustacés ou des coquillages, faites confirmer par l'agence si cette règle s'applique à votre projet."
+    },
+    {
+      "type": "avertissement",
+      "texte": "La demande d'aide doit être formellement transmise à l'agence avant l'engagement du projet. Le non-respect de cette disposition entraîne le rejet de la demande, sauf notamment accord écrit préalable de l'agence pour engager les travaux, opération inscrite au plan d'action d'un contrat signé avec l'agence, ou actions préalables nécessaires à la préparation du dossier ou à la définition des travaux."
+    },
+    {
+      "type": "info",
+      "texte": "La fiche IND1 écrit la majoration de taille sous la forme « +10 % » et « +20 % » sans préciser s'il s'agit de points de taux ou d'une majoration proportionnelle. Faites confirmer le calcul par l'agence avant d'arrêter un prévisionnel."
+    },
+    {
+      "type": "info",
+      "texte": "Le renouvellement d'ouvrages est éligible dès lors qu'il est démontré que le projet présente un gain environnemental significatif entre les situations avant et après travaux."
+    },
+    {
+      "type": "info",
+      "texte": "Pour les eaux pluviales, la priorité va aux mesures qui évitent leur contamination, notamment la couverture des zones où se concentrent les pollutions et la séparation des réseaux eaux pluviales et eaux usées. Les travaux de stockage et de traitement des eaux pluviales avant rejet sont éligibles dans la limite d'un montant d'aide de 60 000 €."
+    },
+    {
+      "type": "info",
+      "texte": "Les projets de réutilisation des eaux usées traitées sur un même site sont considérés comme du recyclage : les modalités de la fiche aide relative à la REUT ne s'y appliquent pas."
+    },
+    {
+      "type": "info",
+      "texte": "Pour un dispositif d'autosurveillance, le bénéficiaire doit communiquer les résultats obtenus à l'agence pour le calcul de la redevance. Au solde de l'aide, l'agence demande la publicité de son soutien pour tout projet, la validation technique des dispositifs d'autosurveillance par un organisme habilité ou par l'agence pour les projets qui les touchent, et le rapport d'étude avec la fiche type de rendu pour les études préalables aux travaux."
+    },
+    {
+      "type": "ressource",
+      "texte": "Fiche aide IND1, réduction des pollutions de nature industrielle (délibération 2024-58)",
+      "lien": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/ind1-reductions-pollutions-industrielles.pdf"
+    },
+    {
+      "type": "ressource",
+      "texte": "Page de la fiche IND1 sur le site de l'agence",
+      "lien": "https://www.eaurmc.fr/jcms/pro_128878/fr/ind1-reduction-des-pollutions-de-nature-industrielle"
+    },
+    {
+      "type": "ressource",
+      "texte": "Conditions générales d'attribution et de versement des aides du 12e programme (délibération 2024-77)",
+      "lien": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-02/conditions-generales.pdf"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "nom, description",
+      "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/ind1-reductions-pollutions-industrielles.pdf",
+      "date": "2026-09-24",
+      "extrait": "Version 1 adoptée par le conseil d'administration du 19 décembre 2024. Délibération 2024-58. Bassin Rhône-Méditerranée. Bassin de Corse. IND1 - Réduction des pollutions de nature industrielle. OBJECTIFS : Améliorer la qualité des eaux des milieux."
+    },
+    {
+      "champ": "taux",
+      "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/ind1-reductions-pollutions-industrielles.pdf",
+      "date": "2026-09-24",
+      "extrait": "TYPES D'ACTIONS / TAUX MAXIMUM. Études et travaux visant à réduire les émissions de pollutions (micropolluants/macropolluants) 40% *. Projets de recherche et développement visant à réduire les émissions de micropolluants 50% *. * Majoration en fonction de la taille de l'entreprise : +10 % pour les moyennes entreprises, +20% pour les petites entreprises."
+    },
+    {
+      "champ": "eligibilite",
+      "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/ind1-reductions-pollutions-industrielles.pdf",
+      "date": "2026-09-24",
+      "extrait": "BÉNÉFICIAIRES ÉLIGIBLES : Acteurs économiques non agricoles (industries, sociétés, entreprises, coopératives…) ; Organismes de recherche. TERRITOIRES ÉLIGIBLES : Tous les territoires des bassins Rhône-Méditerranée et de Corse."
+    },
+    {
+      "champ": "description, mesures (ACT_VIA_007 : réduction à la source ; ACT_VIA_008 : dispositifs d'épuration)",
+      "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/ind1-reductions-pollutions-industrielles.pdf",
+      "date": "2026-09-24",
+      "extrait": "ACTIONS ET DÉPENSES ÉLIGIBLES : Études et travaux visant à réduire les pollutions par les macropolluants et les micropolluants, notamment : > Réduction à la source (mise en place de technologie propre) ; > Mise en place de dispositifs d'épuration associé ou non à la mise en œuvre de la réutilisation d'eaux usées traitées sur le site ; > Réduction des pollutions issues du ruissellement des eaux pluviales (traitement et réutilisation) ; > Toute autre mesure permettant de réduire significativement les rejets. Travaux de réduction des pollutions par les plastiques avec la mise en œuvre de dispositifs de limitation des fuites de microbilles et biomédias. Projets de R&D : études amont, pilotes de laboratoire et installations de démonstration permettant de réduire les micropolluants."
+    },
+    {
+      "champ": "infos_complementaires (dépenses non éligibles)",
+      "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/ind1-reductions-pollutions-industrielles.pdf",
+      "date": "2026-09-24",
+      "extrait": "ACTIONS ET DÉPENSES NON ÉLIGIBLES : Etudes opérationnelles et dispositifs d'autosurveillance seuls, non intégrés à un projet de travaux. Campagnes d'analyses seules (non intégrées à une étude plus globale). Investissements réglementaires qui ne concourent pas directement, ou qui ne sont pas indispensables, à l'atteinte de l'objectif de réduction des pollutions (exemple : étude d'impact des rejets, étude d'épandage, campagne d'analyses règlementaires...). Investissements en lien avec des pollutions nouvelles (création ou accroissement d'activité) sauf dans le cadre d'une démarche territoriale substances (cf. fiche dédiée). Investissements visant la dépollution de sites et sols pollués. Projets visant à réduire la pollution domestique des entreprises. Projets visant à réduire les pollutions, par les macropolluants ou les micropolluants, non significatives ou non quantifiées [...]. Renouvellement à l'identique. Traitement des eaux pluviales issues des zones de stationnement et voies de circulation."
+    },
+    {
+      "champ": "eligibilite, infos_complementaires (mise en demeure, normes communautaires, de minimis, renouvellement d'ouvrage)",
+      "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/ind1-reductions-pollutions-industrielles.pdf",
+      "date": "2026-09-24",
+      "extrait": "CONDITIONS D'AIDES. Conditions pour tous projets : Conformément à l'encadrement européen des aides d'Etat, les projets : ne doivent pas répondre à une mise en demeure par arrêté préfectoral ; doivent aller au-delà des normes communautaires en vigueur s'il en existe* ; ne doivent pas être portés par des entreprises « en difficulté financière » (au sens de la règlementation UE)*. * Ne s'applique pas lorsque l'aide est apportée au titre d'un règlement « de minimis ». [...] Renouvellement d'ouvrage : Le renouvellement d'ouvrages est éligible dès lors qu'il est démontré que le projet présente un gain environnemental significatif entre les situations avant et après travaux."
+    },
+    {
+      "champ": "eligibilite, infos_complementaires (seuil macropolluants, eaux pluviales, autosurveillance)",
+      "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/ind1-reductions-pollutions-industrielles.pdf",
+      "date": "2026-09-24",
+      "extrait": "Réduction des pollutions issues du ruissellement des eaux pluviales : La priorité est donnée aux mesures visant à éviter la contamination des eaux pluviales, notamment la couverture des zones où se concentrent les pollutions, et la séparation des réseaux eaux pluviales/eaux usées. Les travaux visant à limiter les impacts liés au rejet final de ces eaux dans le milieu (stockage et traitement des eaux pluviales avant rejet) sont éligibles dans la limite d'un montant d'aide de 60 000 €. Dispositif d'autosurveillance : Le bénéficiaire doit communiquer les résultats obtenus à l'agence de l'eau pour le calcul de la redevance. Réduction des émissions de macropolluants : Les projets sont éligibles uniquement si le coût prévisionnel du projet présenté dans la demande d'aide est supérieur à 50 000 €."
+    },
+    {
+      "champ": "infos_complementaires (REUT sur site, pêche et aquaculture, de minimis prioritaire)",
+      "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/ind1-reductions-pollutions-industrielles.pdf",
+      "date": "2026-09-24",
+      "extrait": "REUT : Les projets visant à réutiliser les eaux usées traitées sur un même site sont considérés comme du recyclage. A ce titre les modalités définies dans la fiche aide relative à la REUT ne s'appliquent pas. Secteur pêche/aquaculture : Conformément à l'encadrement européen des aides d'Etat, hors règlement « de minimis », le bénéficiaire doit être une PME et le taux d'aide ne peut dépasser 50% (indépendamment de la taille de la PME). MODALITÉ DE CALCUL DES AIDES [...] L'aide est apportée prioritairement au titre d'un règlement « de minimis »."
+    },
+    {
+      "champ": "infos_complementaires (conditions de solde)",
+      "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/ind1-reductions-pollutions-industrielles.pdf",
+      "date": "2026-09-24",
+      "extrait": "CONDITIONS DE SOLDE DE L'AIDE. Pour tout projet : Publicité des aides de l'agence selon les modalités précisées dans la fiche relative aux conditions générales. Pour les projets ayant un impact sur les équipements d'autosurveillance : Validation technique des dispositifs d'autosurveillance des industriels par un organisme habilité ou l'agence de l'eau [...] Pour les études préalables aux travaux : Fourniture du rapport d'étude et de la fiche type de rendu."
+    },
+    {
+      "champ": "infos_complementaires (définition des macropolluants)",
+      "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-01/ind1-reductions-pollutions-industrielles.pdf",
+      "date": "2026-09-24",
+      "extrait": "Macropolluants : Ensemble comprenant les matières en suspension, les matières organiques (paramètres DCO, DBO5, COT), les nutriments comme l'azote et le phosphore, les sels solubles (notamment chlorures)."
+    },
+    {
+      "champ": "type, infos_complementaires (dépôt avant engagement)",
+      "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2025-02/conditions-generales.pdf",
+      "date": "2026-09-24",
+      "extrait": "Conditions générales d'attribution et de versement des aides. Version 1 adoptée par le conseil d'administration du 19 décembre 2024. Délibération 2024-77. [...] Les aides sont attribuées sous forme de subventions, soit proportionnelles à l'assiette retenue pour le projet, soit forfaitaires pour les interventions prévues sous cette forme. [...] Une demande d'aide doit être formellement transmise à l'agence avant l'engagement du projet considéré. Le non-respect de cette disposition entraîne le rejet de la demande d'aide, sauf dans les cas suivants : accord écrit préalable de l'agence pour engager les travaux avant le dépôt formel de la demande ; opérations inscrites dans le plan d'action d'un contrat signé avec l'agence (ou validé par la commission des aides ou le directeur général) : dans ce cas, la demande d'aide demeure obligatoire ; actions préalables, nécessaires à la préparation du dossier de demande d'aide, ou à la définition des travaux pour les aides relatives à des travaux"
+    },
+    {
+      "champ": "infos_complementaires (ressource page IND1)",
+      "url": "https://www.eaurmc.fr/jcms/pro_128695/fr/industries-et-autres-activites-economiques",
+      "date": "2026-09-24",
+      "extrait": "Industries et autres activités économiques. [...] CONSULTER LES FICHES AIDE [...] IND1 - Réduction des pollutions de nature industrielle"
+    }
+  ],
+  "date_maj": "2026-09-24"
+}

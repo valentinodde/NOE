@@ -1,0 +1,117 @@
+{
+  "id": "PREST_GCU_012",
+  "nom": "Agrisem",
+  "type": "equipementier",
+  "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792084226/Noe%20assets/logos/PREST_GCU_012.png",
+  "siret": "38999673700026",
+  "description": "Entreprise française créée en 1993, dont le siège est à Ancenis, qui se présente comme concepteur, fabricant et vendeur d'outils de techniques culturales simplifiées pour le travail du sol, la fertilisation et le semis. Elle commercialise les semoirs de semis direct Boss, issus de son association avec SLY-Agrisem et développés et produits sur le site de Bournel (Lot-et-Garonne). L'élément Boss HD est destiné au semis direct, y compris sous couverts et en conditions très sèches. Vente par un réseau de concessionnaires, dont plusieurs dans le Gers.",
+  "expertises": [
+    "Semoirs de semis direct",
+    "Semis sous couvert végétal",
+    "Strip-till",
+    "Outils de travail simplifié"
+  ],
+  "categories": [
+    "changer_process_pratiques"
+  ],
+  "secteurs": [
+    "grandes_cultures"
+  ],
+  "departements": [],
+  "mesures": [
+    {
+      "id": "ACT_GCU_007",
+      "roles": [
+        "materiel"
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "type": "site_internet",
+      "value": "https://agrisem.com/"
+    },
+    {
+      "type": "tel",
+      "value": "02 51 14 14 40"
+    },
+    {
+      "type": "mail",
+      "value": "agrisem@agrisem.com"
+    },
+    {
+      "type": "adresse",
+      "value": "535 rue Pierre Levasseur, CS 60263, 44158 Ancenis Cedex"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Agrisem%20International&departement=44",
+      "date": "2026-10-15",
+      "extrait": "AGRISEM INTERNATIONAL, siret 38999673700026, siège, 535 RUE PIERRE LEVASSEUR 44150 ANCENIS-SAINT-GEREON, activite_principale 46.61Z, etat_administratif A, 1 établissement ouvert"
+    },
+    {
+      "champ": "nom",
+      "url": "https://agrisem.com/mentions-legales/",
+      "date": "2026-10-15",
+      "extrait": "Dénomination sociale : Agrisem International 535 Rue Pierre Levasseur 44150 Ancenis 02 51 14 14 40"
+    },
+    {
+      "champ": "contacts",
+      "url": "https://agrisem.com/contact/",
+      "date": "2026-10-15",
+      "extrait": "CONTACT COMMERCIAL +33 (0)2 51 14 14 40 [...] SIÈGE SOCIAL AGRISEM International S. A. S. 535 rue Pierre Levasseur [...] CS 60263 44158 Ancenis Cedex [...] FRANCE"
+    },
+    {
+      "champ": "contacts",
+      "url": "https://agrisem.com/gdpr/",
+      "date": "2026-10-15",
+      "extrait": "AGRISEM INTERNATIONAL SIÈGE SOCIAL AGRISEM International S. A. S. 535 rue Pierre Levasseur [...] TÉLÉPHONE: +33 (0)2 51 14 14 40 EMAIL: agrisem@agrisem.com"
+    },
+    {
+      "champ": "type, description",
+      "url": "https://agrisem.com/blog/sly-agrisem-devient-agrisem/",
+      "date": "2026-10-15",
+      "extrait": "Depuis 2019, AGRISEM commercialise en France et à l'export les Strip-till STRIPCAT et les Semoirs de semis directs BOSS de la marque SLY-Agrisem. [...] à partir du 1er novembre SLY-Agrisem devient AGRISEM. Le siège social, les équipes de développement et la production restent sur le site historique de BOURNEL (47)."
+    },
+    {
+      "champ": "description, mesures",
+      "url": "https://agrisem.com/blog/agrisem-30-ans-de-passion/",
+      "date": "2026-10-15",
+      "extrait": "Le semoir de semis direct BOSS a été développé en 2014 en s'appuyant sur une collaboration étroite avec des agriculteurs en TCS. [...] Cette machine est capable de semer dans des conditions très variables (de la terre préparée jusqu'au couverts)."
+    },
+    {
+      "champ": "type, description, expertises",
+      "url": "https://agrisem.com/agrisem-spirit/",
+      "date": "2026-10-15",
+      "extrait": "AGRISEM est une entreprise née en France au milieu des années 90, spécialisée dans la conception, la fabrication et la vente d'outils TCS pour le travail du sol, la fertilisation et le semis."
+    },
+    {
+      "champ": "description, expertises",
+      "url": "https://agrisem.com/notre-histoire/",
+      "date": "2026-10-15",
+      "extrait": "La société AGRISEM International est une PME familiale créée en 1993. Son activité repose sur la conception, la construction et la commercialisation d'outils de travail du sol. [...] En 2019, AGRISEM se sépare du Groupe Unia et s'associe avec l'entreprise SLY France afin de développer la gamme STRIP-TILL et semis direct. [...] 2022 Les Strip-till STRIPCAT et les semoirs de semis direct BOSS sont désormais commercialisés par AGRISEM."
+    },
+    {
+      "champ": "description, expertises, mesures",
+      "url": "https://agrisem.com/product/semoir-a-disques-incline-boss/",
+      "date": "2026-10-15",
+      "extrait": "BOSS HD L'original revisité. [...] il reste l'incontournable de tout système No-Till engagé ou sous couverts. [...] dans des conditions de TCS légères, comme dans des conditions No-Till très sèches, sans bouleversement de terrain."
+    },
+    {
+      "champ": "departements, description",
+      "url": "https://agrisem.com/notre-reseau/",
+      "date": "2026-10-15",
+      "extrait": "Notre réseau de concessionnaires [...] ETS TOUBOULIC ZA de Kerverzot 22450 LA ROCHE DERRIEN Commercial Agrisem [...] GIRARD SA ZAC de la Tuilerie 01330 VILLARS LES DOMBES Commercial Agrisem [...] DUPUY CONDOM 23 D931 32100 CONDOM Commercial Agrisem [...] SODIS AGRI ZI de Naudet 32700 LECTOURE Commercial Agrisem"
+    },
+    {
+      "champ": "logo_url",
+      "url": "https://agrisem.com/wp-content/themes/agrisem/assets/favicons/apple-icon-180x180.png",
+      "date": "2026-10-15",
+      "extrait": "Icône du site (apple-touch-icon 180 x 180), symbole noir Agrisem sur fond jaune"
+    }
+  ],
+  "date_maj": "2026-10-15"
+}

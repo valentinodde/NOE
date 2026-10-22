@@ -1,0 +1,95 @@
+{
+  "id": "PREST_HOP_003",
+  "nom": "Provence Maintenance Services (VINCI Facilities)",
+  "type": "installateur",
+  "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792070305/Noe%20assets/logos/PREST_HOP_003.png",
+  "siret": "43389978800072",
+  "description": "Entreprise de maintenance des bâtiments installée à Aix-en-Provence, qui exerce sous la marque VINCI Facilities, marque dédiée au facility management et à la maintenance multitechnique. Pour l'Assistance publique des hôpitaux de Marseille, elle est titulaire depuis janvier 2021 d'un marché de 48 mois (6 millions d'euros) de conduite, entretien et maintenance des installations d'eau sanitaire à l'intérieur des bâtiments hospitaliers, qui porte sur la conduite, la maintenance et le suivi des installations de distribution d'eau, de traitement d'eau et d'eau chaude sanitaire, avec une obligation de résultats en disponibilité et en sûreté de fonctionnement. Ses références publiques sont des marchés publics dans les Bouches-du-Rhône, dont l'exploitation, la conduite et la maintenance des installations électriques de l'hôpital d'instruction des armées Laveran à Marseille.",
+  "expertises": [
+    "Maintenance des réseaux d'eau sanitaire",
+    "Maintenance multitechnique de bâtiments",
+    "Maintenance des installations électriques"
+  ],
+  "categories": [
+    "changer_process_pratiques"
+  ],
+  "secteurs": [
+    "hopitaux"
+  ],
+  "departements": [
+    "13"
+  ],
+  "mesures": [],
+  "contacts": [
+    {
+      "type": "site_internet",
+      "value": "https://www.vinci-facilities.com/"
+    },
+    {
+      "type": "tel",
+      "value": "04 42 90 55 80"
+    },
+    {
+      "type": "adresse",
+      "value": "685 rue Georges Claude, 13100 Aix-en-Provence"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse, nom",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Provence%20Maintenance%20Services&departement=13",
+      "date": "2026-10-15",
+      "extrait": "PROVENCE MAINTENANCE SERVICES (VINCI FACILITIES), siret 43389978800072, siège, 685 RUE GEORGES CLAUDE 13100 AIX-EN-PROVENCE, activité 43.22B, etat_administratif A"
+    },
+    {
+      "champ": "description (AP-HM), expertises, departements, secteurs",
+      "url": "https://tabular-api.data.gouv.fr/api/resources/22847056-61df-452d-837d-8b8ceadbfc52/data/?uid__exact=26130008100484201977_71800000",
+      "date": "2026-10-15",
+      "extrait": "DECP consolidées : acheteur CENTRE HOSPITALIER REGIONAL DE MARSEILLE (ASSISTANCE PUBLIQUE-HOPITAUX MARSEILLE), titulaire PROVENCE MAINTENANCE SERVICES (VINCI FACILITIES) (43389978800072), objet « Conduite, entretien et maintenance des installations d'eau sanitaire à l'intérieur des bâtiments hospitaliers », montant 6000000, dureeMois 48, dateNotification 2021-01-07, lieuExecution 13005"
+    },
+    {
+      "champ": "description (marché AP-HM, nature et montant)",
+      "url": "https://tabular-api.data.gouv.fr/api/resources/22847056-61df-452d-837d-8b8ceadbfc52/data/?uid__exact=26130008100484201976_71800000",
+      "date": "2026-10-15",
+      "extrait": "DECP consolidées : même acheteur et même objet, nature Marché, montant 600000, dureeMois 48, dateNotification 2021-01-01, offresRecues 6"
+    },
+    {
+      "champ": "description (périmètre du marché AP-HM)",
+      "url": "https://ted.europa.eu/fr/notice/476224-2020/html",
+      "date": "2026-10-15",
+      "extrait": "Intitulé : Conduite, entretien et maintenance des installations d'eau sanitaire à l'intérieur des bâtiments hospitaliers. Description succincte : Prestations de conduite, de maintenance et suivi des installations de distribution d'eau, de traitement d'eau et eau chaude sanitaire de l'Assistance publique des hôpitaux de Marseille. Il s'agit d'un marché de services à obligation de résultats en termes de disponibilité et de sûreté de fonctionnement. Acheteur : APHM. Numéro de référence : 200018/Jo"
+    },
+    {
+      "champ": "description (marchés publics dans les Bouches-du-Rhône), expertises, departements",
+      "url": "https://tabular-api.data.gouv.fr/api/resources/22847056-61df-452d-837d-8b8ceadbfc52/data/?titulaire_id__exact=43389978800072&page_size=50",
+      "date": "2026-10-15",
+      "extrait": "17 marchés du titulaire 43389978800072, dont CCI Aix-Marseille-Provence « prestations d'exploitation et de maintenance multi technique des installations », CAF des Bouches-du-Rhône « Maintenance des installations électriques », lieux d'exécution dans le 13"
+    },
+    {
+      "champ": "contacts (tel), description (HIA Laveran)",
+      "url": "https://ted.europa.eu/fr/notice/691357-2022/html",
+      "date": "2026-10-15",
+      "extrait": "Lot nº : 3 Intitulé : prestations d'exploitation, de conduite et de maintenance des installations électriques au profit de l'hia Laveran de Marseille. Nom officiel : vinci Facilities - société Provence Maintenance Service Adresse postale : 685, rue Georges Claude Ville : Aix-en-Provence Téléphone : +33 442905580 Adresse internet : http://www.vinci-facilities.com"
+    },
+    {
+      "champ": "contacts (site_internet)",
+      "url": "https://ted.europa.eu/fr/notice/133957-2021/html",
+      "date": "2026-10-15",
+      "extrait": "Section V, nom et adresse du titulaire : Vinci Facilities ù Provence Maintenance Services, 685 rue Georges-Claude, Aix-en-Provence. Internet address: https://www.vinci-facilities.com/"
+    },
+    {
+      "champ": "description (marque VINCI Facilities)",
+      "url": "https://www.vinci-facilities.com/",
+      "date": "2026-10-15",
+      "extrait": "VINCI Facilities est la marque dédiée au facility management et à la maintenance multitechnique"
+    },
+    {
+      "champ": "logo_url",
+      "url": "https://www.vinci-facilities.com/app/themes/ve-uas-marques/resources/assets/images/favicons/apple-touch-icon.png",
+      "date": "2026-10-15",
+      "extrait": "Icône carrée du site (apple-touch-icon, 180 x 180), symbole rouge de VINCI Facilities"
+    }
+  ],
+  "date_maj": "2026-10-15"
+}

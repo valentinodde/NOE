@@ -1,0 +1,85 @@
+{
+  "id": "PREST_VIN_008",
+  "nom": "Bio-Inox",
+  "type": "equipementier",
+  "logo_url": "https://bio-inox.fr/wp-content/uploads/2025/10/Logo-Bio-Inox-300x240-1.png",
+  "siret": "40061311300010",
+  "description": "Fabricant de cuves en acier inoxydable créé en 1995, avec une usine de 10 000 m² et son bureau d'études à Lamonzie-Saint-Martin (Dordogne). Pour les caves, il fabrique des cuves de vinification et de stockage à fond plat en pente ou conique, des cuves autovidantes et une station mobile de nettoyage en place (BIO-CIP, en solution perdue) pour rincer, laver et détartrer cuves et tuyauteries ; il présente sa finition intérieure recuit brillant comme limitant l'adhérence du tartre, donc l'eau et les produits de lavage. Il assure aussi la livraison et l'installation des cuves sur site, la maintenance et la modernisation de cuves existantes.",
+  "expertises": [
+    "Cuves de vinification inox",
+    "Cuves autovidantes",
+    "Station de nettoyage mobile",
+    "Modernisation de cuves existantes"
+  ],
+  "categories": [
+    "ameliorer_efficacite_hydrique"
+  ],
+  "secteurs": [
+    "vins_spiritueux"
+  ],
+  "departements": [],
+  "mesures": [
+    {
+      "id": "ACT_VIN_003",
+      "roles": [
+        "materiel"
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "type": "site_internet",
+      "value": "https://bio-inox.fr"
+    },
+    {
+      "type": "tel",
+      "value": "05 53 24 08 47"
+    },
+    {
+      "type": "mail",
+      "value": "contact@bio-inox.com"
+    },
+    {
+      "type": "adresse",
+      "value": "ZA Les Planques, 8 route des Pascarelles, 24680 Lamonzie-Saint-Martin"
+    },
+    {
+      "type": "linkedin",
+      "value": "https://www.linkedin.com/company/bio-inox/"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Bio-Inox&departement=24",
+      "date": "2026-09-28",
+      "extrait": "BIO-INOX, siret 40061311300010, siège, 24680 LAMONZIE-SAINT-MARTIN, activité 25.29Z, etat_administratif A"
+    },
+    {
+      "champ": "type, description, departements",
+      "url": "https://bio-inox.fr/l-entreprise/",
+      "date": "2026-09-28",
+      "extrait": "Depuis 1995, BIO-INOX transforme l'acier inoxydable pour concevoir et fabriquer des cuves [...] Une usine de 10 000 m² [...] Siège social, Services Généraux, Commerciaux, Bureau d'Études regroupés sur un même site au plus près de la production. [...] présents, sur les marchés européens et dans le reste du monde, dans les secteurs : Laitier, Vin & Spiritueux"
+    },
+    {
+      "champ": "description, expertises, mesures, departements",
+      "url": "https://bio-inox.fr/nos-cuves-vinicoles/",
+      "date": "2026-09-28",
+      "extrait": "un acteur connu et reconnu sur l'ensemble des régions vinicoles [...] ces cuves à fond plat en pente ou à fond conique, permettent le décuvage (vin rouge) ou l'écoulement des lies [...] La finition intérieure, Recuit Brillant, réduit l'adhérence des dépôts tartriques sur les parois ce qui génère des économies d'eau, de produits de lavage [...] Station de lavage mobile BIO-INOX a développé une gamme de stations de nettoyage en place (NEP) en solution perdue appelée BIO-CIP® [...] Rincer, Laver, Passiver, Désinfecter, Détartrer, à chaud ou à froid, les cuves et réseaux de tuyauteries"
+    },
+    {
+      "champ": "description, expertises",
+      "url": "https://bio-inox.fr/services/",
+      "date": "2026-09-28",
+      "extrait": "prestations clés-en-main complémentaires à la fabrication des équipements : conditionnement, transport, déchargement, grutage, mise en place des cuves [...] maintenance préventive, de réparation, d'adaptation et de modernisation [...] Adaptations, rénovation, modernisation de cuves existantes"
+    },
+    {
+      "champ": "contacts (adresse, tel, mail, linkedin), logo_url",
+      "url": "https://bio-inox.fr/situation-contact/",
+      "date": "2026-09-28",
+      "extrait": "Adresse : ZA Les Planques 8 route des Pascarelles F-24680 Lamonzie Saint-Martin Tél. : +33 (0)5 53 24 08 47 Email : contact@bio-inox.com ; lien LinkedIn https://www.linkedin.com/company/bio-inox/"
+    }
+  ],
+  "date_maj": "2026-09-28"
+}

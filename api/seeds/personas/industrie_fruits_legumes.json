@@ -1,0 +1,173 @@
+[
+  {
+    "id": "conserverie_novice",
+    "nom": "Conserverie de légumes, rien de formalisé",
+    "description": "Conserverie familiale de légumes (10.39A), 25 salariés en campagne dont une moitié de saisonniers, eau du réseau uniquement, environ 40 000 m³ par an concentrés de juin à octobre. Légumes lavés directement à l'eau à réception, eau d'épluchage et de blanchiment rejetée, boîtes refroidies à l'eau perdue en sortie d'autoclave. Aucune consigne aux équipes, aucun rinçage réutilisé, pas d'évaporateur, eaux et déchets partent ensemble au réseau. Aucun compteur hormis celui du distributeur, jamais d'audit, restrictions jamais regardées.",
+    "answers": {
+      "frl_q01": "aucun_compteur",
+      "frl_q02": [
+        "aep"
+      ],
+      "frl_q03": "40000",
+      "frl_q04": "jamais",
+      "frl_q05": "lavage_direct",
+      "frl_q06": "rejetee",
+      "frl_q07": "eau_perdue",
+      "frl_q08": "aucune",
+      "frl_q09": "aucun",
+      "frl_q10": "non_equipe",
+      "frl_q11": "sans_separation",
+      "frl_q12": "non_analyse"
+    }
+  },
+  {
+    "id": "surgelation_equipee",
+    "nom": "Usine de légumes surgelés équipée, en réflexion",
+    "description": "Site de surgélation de légumes (10.39A) de 150 salariés, 250 000 m³ par an, réseau public doublé d'un forage. Terre retirée à sec et débits des laveuses régulés, épluchage vapeur avec eau des blancheurs recyclée, prérefroidissement en circuit fermé, consignes écrites rappelées à chaque campagne. Dernier rinçage réutilisé sur une ligne seulement, pas d'évaporateur, déchets collectés à part et rejets sous convention. Compteurs par ligne sans ratio à la tonne, audit de plus de cinq ans, informé des restrictions sans analyse formelle.",
+    "answers": {
+      "frl_q01": "par_ligne",
+      "frl_q02": [
+        "aep",
+        "forage"
+      ],
+      "frl_q03": "250000",
+      "frl_q04": "ancien",
+      "frl_q05": "lavage_regule",
+      "frl_q06": "optimisee",
+      "frl_q07": "circuit_ferme",
+      "frl_q08": "ecrites",
+      "frl_q09": "partiel",
+      "frl_q10": "non_equipe",
+      "frl_q11": "separe_convention",
+      "frl_q12": "informe"
+    }
+  },
+  {
+    "id": "fruits_a_coque",
+    "nom": "Transformateur de fruits à coque, sans process humide",
+    "description": "Atelier de cassage, tri et grillage de noix et noisettes (10.39B), 8 salariés, 800 m³ par an d'eau du réseau pour le nettoyage des locaux et les sanitaires. Aucun produit terreux lavé, ni épluchage ni blanchiment, aucun traitement thermique à refroidir, pas de séchoir. Consignes orales, rien n'est réutilisé, déchets collectés à part et rejets sous convention. Compteur général relevé de temps en temps, jamais d'audit, restrictions jamais regardées.",
+    "answers": {
+      "frl_q01": "compteur_general",
+      "frl_q02": [
+        "aep"
+      ],
+      "frl_q03": "800",
+      "frl_q04": "jamais",
+      "frl_q05": "sans_lavage_brut",
+      "frl_q06": "sans_objet",
+      "frl_q07": "sans_objet",
+      "frl_q08": "orales",
+      "frl_q09": "aucun",
+      "frl_q10": "non_equipe",
+      "frl_q11": "separe_convention",
+      "frl_q12": "non_analyse"
+    }
+  },
+  {
+    "id": "site_avance",
+    "nom": "Site de transformation avancé, tout est en place",
+    "description": "Site industriel de conserves et de surgelés (10.39A) de 300 000 m³ par an, alimenté par forage, par ses eaux de lavage recyclées et par les condensats de son concentrateur de purées. Compteurs par ligne avec ratio à la tonne, audit récent, terre retirée à sec et laveuses régulées, épluchage vapeur, circuits de refroidissement fermés, formation à chaque campagne. Rinçages réutilisés en cascade et condensats réutilisés, tous deux déclarés au préfet, station dimensionnée pour la campagne, plan écrit par niveau d'alerte.",
+    "answers": {
+      "frl_q01": "ratio_tonne",
+      "frl_q02": [
+        "forage",
+        "recyclage_process",
+        "eau_vegetation"
+      ],
+      "frl_q03": "300000",
+      "frl_q04": "recent",
+      "frl_q05": "lavage_regule",
+      "frl_q06": "optimisee",
+      "frl_q07": "circuit_ferme",
+      "frl_q08": "formation_suivi",
+      "frl_q09": "cascade",
+      "frl_q10": "valorise_declare",
+      "frl_q11": "station_campagne",
+      "frl_q12": "plan_formalise"
+    }
+  },
+  {
+    "id": "ne_sait_pas",
+    "nom": "Assistant qui répond pour le gérant",
+    "description": "Personne qui remplit le questionnaire à la place du dirigeant absent. Elle sait qu'il y a un compteur général en entrée de site, relevé de temps en temps, et rien de plus. Elle préfère répondre qu'elle ne sait pas plutôt que d'inventer.",
+    "answers": {
+      "frl_q01": "compteur_general",
+      "frl_q02": "__skip__",
+      "frl_q03": "__skip__",
+      "frl_q04": "__skip__",
+      "frl_q05": "__skip__",
+      "frl_q06": "__skip__",
+      "frl_q07": "__skip__",
+      "frl_q08": "__skip__",
+      "frl_q09": "__skip__",
+      "frl_q10": "__skip__",
+      "frl_q11": "__skip__",
+      "frl_q12": "__skip__"
+    }
+  },
+  {
+    "id": "jus_concentres",
+    "nom": "Gros site de jus et concentrés, condensats perdus",
+    "description": "Site de production de jus et de concentrés de pommes (10.32Z), 600 000 m³ par an, réseau public et captage en rivière. Fruits lavés avec terre retirée en partie à sec, pas d'épluchage, pasteurisateurs refroidis en circuit fermé, consignes écrites. Dernier rinçage réutilisé sur une ligne, mais les condensats de l'évaporateur partent intégralement aux effluents. Station sur site dimensionnée pour la campagne. Compteurs par ligne, audit récent, exposition aux restrictions évaluée.",
+    "answers": {
+      "frl_q01": "par_ligne",
+      "frl_q02": [
+        "aep",
+        "surface"
+      ],
+      "frl_q03": "600000",
+      "frl_q04": "recent",
+      "frl_q05": "prenettoyage_partiel",
+      "frl_q06": "sans_objet",
+      "frl_q07": "circuit_ferme",
+      "frl_q08": "ecrites",
+      "frl_q09": "partiel",
+      "frl_q10": "condensats_perdus",
+      "frl_q11": "station_campagne",
+      "frl_q12": "evalue"
+    }
+  },
+  {
+    "id": "quatrieme_gamme",
+    "nom": "Atelier de 4e gamme, lavage intensif sans cuisson",
+    "description": "Atelier de salades et légumes crus prêts à l'emploi (10.39A), 40 salariés, 18 000 m³ par an d'eau du réseau, activité toute l'année. Légumes lavés directement en bacs à débit constant, parage à la main sans épluchage industriel ni blanchiment, aucun traitement thermique. Consignes orales, rinçages non réutilisés mais le sujet a été évoqué, pas de séchoir, dégrillage avant rejet au réseau. Compteur général, audit envisagé, informé des restrictions.",
+    "answers": {
+      "frl_q01": "compteur_general",
+      "frl_q02": [
+        "aep"
+      ],
+      "frl_q03": "18000",
+      "frl_q04": "envisage",
+      "frl_q05": "lavage_direct",
+      "frl_q06": "sans_objet",
+      "frl_q07": "sans_objet",
+      "frl_q08": "orales",
+      "frl_q09": "envisage",
+      "frl_q10": "non_equipe",
+      "frl_q11": "pretraitement_simple",
+      "frl_q12": "informe"
+    }
+  },
+  {
+    "id": "icpe_conforme",
+    "nom": "Légumerie enregistrée ICPE, en conformité et rien au-delà",
+    "description": "Légumerie de pommes de terre épluchées (10.31Z) enregistrée au titre de la rubrique 2220, 90 000 m³ par an de réseau et de forage. Relevé quotidien du compteur par ligne comme l'impose l'arrêté, refroidissement en circuit fermé comme l'exige l'enregistrement, déchets collectés à part et rejets sous convention. Terre retirée en partie à sec, eau d'épluchage en partie décantée, consignes écrites, aucun rinçage réutilisé, pas de séchoir. Audit de plus de cinq ans, exposition aux restrictions évaluée.",
+    "answers": {
+      "frl_q01": "par_ligne",
+      "frl_q02": [
+        "aep",
+        "forage"
+      ],
+      "frl_q03": "90000",
+      "frl_q04": "ancien",
+      "frl_q05": "prenettoyage_partiel",
+      "frl_q06": "decantee_partiel",
+      "frl_q07": "circuit_ferme",
+      "frl_q08": "ecrites",
+      "frl_q09": "aucun",
+      "frl_q10": "non_equipe",
+      "frl_q11": "separe_convention",
+      "frl_q12": "evalue"
+    }
+  }
+]

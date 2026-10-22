@@ -1,0 +1,56 @@
+{
+  "id": "PREST_VIA_011",
+  "nom": "Atlantique Industrie",
+  "type": "installateur",
+  "logo_url": null,
+  "siret": "37994658500021",
+  "description": "Entreprise d'Ancenis-Saint-Géréon (Loire-Atlantique) créée en 1990, spécialisée dans le traitement des eaux usées industrielles avant rejet ou réutilisation pour des usages non potables. Elle a réalisé le prétraitement des eaux usées d'une salaison (60 m3 par jour : relevage, tamisage, bassin tampon, traitement chimique, flottateur, rejet au réseau communal). Elle a aussi réalisé la station complète de l'abattoir Bokail (dégrillage, aéroflottation, bassin d'aération, SBR, lagune de finissage) et conçu l'unité d'ultrafiltration placée en sortie, qui permet de réutiliser 3 à 5 m3 par jour d'eau usée traitée.",
+  "expertises": [
+    "Prétraitement des effluents",
+    "Station d'épuration industrielle",
+    "Réutilisation des eaux usées traitées"
+  ],
+  "categories": [
+    "agir_rejets_qualite",
+    "valoriser_reut_eaux_non_conventionnelles"
+  ],
+  "secteurs": ["industrie_viande"],
+  "departements": ["44"],
+  "mesures": [
+    { "id": "ACT_VIA_008", "roles": ["travaux"] },
+    { "id": "ACT_VIA_006", "roles": ["conseil_etude", "travaux"] }
+  ],
+  "contacts": [
+    { "type": "site_internet", "value": "https://www.atlantiqueindustrie.fr/" },
+    { "type": "adresse", "value": "ZAC de l'Aubinière, 80 impasse Félix Amiot, 44150 Ancenis-Saint-Géréon" },
+    { "type": "linkedin", "value": "https://www.linkedin.com/company/atlantique-industrie/" }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse, departements, type, description",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Atlantique%20Industrie&departement=44",
+      "date": "2026-09-24",
+      "extrait": "ATLANTIQUE INDUSTRIE, siren 379946585, date_creation 1990-11-15, siège siret 37994658500021, ZAC DE L AUBINIERE 80 IMP FELIX AMIOT 44150 ANCENIS-SAINT-GEREON, département 44, activité principale 46.61Z, état administratif A"
+    },
+    {
+      "champ": "description, contacts (site_internet, linkedin)",
+      "url": "https://www.linkedin.com/company/atlantique-industrie/",
+      "date": "2026-09-24",
+      "extrait": "Atlantique industrie est une entreprise spécialisée dans le traitement des eaux usées provenant des industries. [...] afin de les traiter pour éliminer les polluants [...] avant d'être rejetées dans le milieu naturel ou réutilisées pour des fonctions non potables. Site web : http://www.atlantiqueindustrie.fr"
+    },
+    {
+      "champ": "type, description, expertises, mesures (ACT_VIA_008 travaux)",
+      "url": "https://www.revue-ein.com/article/le-traitement-des-effluents-agroalimentaires",
+      "date": "2026-09-24",
+      "extrait": "Installation de prétraitement des eaux usées d'une salaison réalisée par Atlantique Industrie. Débit journalier : 60 m3- Relevage auto-amorçant, tamisage, bassin tampon, traitement chimique, flottateur et rejet au réseau communal."
+    },
+    {
+      "champ": "description, expertises, mesures (ACT_VIA_008 travaux, ACT_VIA_006 conseil_etude et travaux)",
+      "url": "https://www.revue-ein.com/article/eaux-de-process-industriels-produire-a-moins-cher",
+      "date": "2026-09-24",
+      "extrait": "L'abattoir Bokail a fait un premier pas vers la REUT avec Atlantique Industrie, qui a d'ailleurs réalisé la STEU elle-même: une filière complète avec dégrillage/filtrage, aéroflottation, bassin d'aération, SBR et lagune de finissage. Une unité d'ultrafiltration conteneurisée, placée en sortie de lagune, permet de réutiliser de 3 à 5 m3/j d'eau usée traitée. [légende photo] Atlantique Industrie a conçu et réalisé cette unité d'ultrafiltration, installée en sortie de STEU, pour de la REUT dans un abattoir"
+    }
+  ],
+  "date_maj": "2026-09-24"
+}

@@ -1,0 +1,148 @@
+[
+  {
+    "id": "gcu_novice_irrigant",
+    "nom": "Maïsiculteur du Sud-Ouest, rien de formalisé",
+    "description": "Exploitation de 120 ha dans le Gers, maïs grain irrigué et blé, eau pompée dans un forage. Enrouleurs à régulation mécanique jamais contrôlés, tours d'eau au calendrier, compteur relevé seulement pour la déclaration. Assolement et variétés inchangés, sol nu l'hiver, pulvérisateur lavé dans la cour, parcelles ouvertes, découvre les arrêtés quand ils tombent, ignore les démarches collectives.",
+    "answers": {
+      "gcu_q01": "sans_suivi",
+      "gcu_q02": ["forage"],
+      "gcu_q03": ["mais", "cereales_paille"],
+      "gcu_q04": "calendrier",
+      "gcu_q05": "enrouleur_mecanique",
+      "gcu_q06": "jamais",
+      "gcu_q07": "inchange",
+      "gcu_q08": "sol_nu",
+      "gcu_q09": "sans_amenagement",
+      "gcu_q10": "aucune",
+      "gcu_q11": "subit",
+      "gcu_q12": "non"
+    }
+  },
+  {
+    "id": "gcu_equipe_reflexion",
+    "nom": "Irrigant équipé de pivots et de sondes, sans stratégie écrite",
+    "description": "Exploitation de 250 ha dans la Vienne, maïs et blé irrigués par pivot depuis un forage et un pompage en rivière, en zone de répartition des eaux. Pilote avec sondes et bilan hydrique, vérifie lui-même son matériel chaque saison, suit ses volumes par îlot. A changé de variétés mais pas d'assolement, couverts là où c'est obligatoire, aire bétonnée sans traitement, quelques haies. Connaît les seuils de restriction sans stratégie, adhère à l'organisme unique.",
+    "answers": {
+      "gcu_q01": "suivi_ilot",
+      "gcu_q02": ["forage", "riviere"],
+      "gcu_q03": ["mais", "cereales_paille"],
+      "gcu_q04": "sondes",
+      "gcu_q05": "pivot",
+      "gcu_q06": "chaque_saison",
+      "gcu_q07": "varietes",
+      "gcu_q08": "couverts_obligatoires",
+      "gcu_q09": "aire_sans_traitement",
+      "gcu_q10": "quelques_haies",
+      "gcu_q11": "informe",
+      "gcu_q12": "adherent"
+    }
+  },
+  {
+    "id": "gcu_sec",
+    "nom": "Céréalier en sec de Bourgogne",
+    "description": "Exploitation de 180 ha en Côte-d'Or, blé, orge, colza, sans aucune irrigation. Assolement et variétés inchangés malgré des rendements en baisse, sol travaillé l'hiver, pulvérisateur rempli dans la cour, grandes parcelles sans haies, aucune démarche collective connue.",
+    "answers": {
+      "gcu_q01": "sec",
+      "gcu_q07": "inchange",
+      "gcu_q08": "sol_nu",
+      "gcu_q09": "sans_amenagement",
+      "gcu_q10": "aucune",
+      "gcu_q12": "non"
+    }
+  },
+  {
+    "id": "gcu_avance",
+    "nom": "Semencier irrigant exemplaire",
+    "description": "Exploitation de 200 ha dans le Loiret, semences et sorgho irrigués en partie au goutte-à-goutte, depuis un forage et une retenue de substitution. Sondes et bilan hydrique, diagnostic du matériel par un technicien chaque année, volumes suivis par îlot, plan de campagne écrit. Assolement et variétés adaptés et suivis, agriculture de conservation, aire de lavage avec traitement, maillage de haies, pilote le projet de territoire local.",
+    "answers": {
+      "gcu_q01": "suivi_ilot",
+      "gcu_q02": ["forage", "retenue"],
+      "gcu_q03": ["forte_valeur", "peu_exigeantes"],
+      "gcu_q04": "sondes",
+      "gcu_q05": "localise",
+      "gcu_q06": "diagnostic",
+      "gcu_q07": "les_deux",
+      "gcu_q08": "conservation",
+      "gcu_q09": "aire_traitement",
+      "gcu_q10": "maillage",
+      "gcu_q11": "plan_ecrit",
+      "gcu_q12": "acteur"
+    }
+  },
+  {
+    "id": "gcu_ne_sait_pas",
+    "nom": "Conjoint qui remplit pour l'exploitant",
+    "description": "La personne qui répond gère l'administratif d'une exploitation céréalière irriguée. Elle sait que l'exploitation irrigue et que le compteur est relevé en fin de campagne pour la déclaration, mais ne connaît ni le matériel, ni les pratiques culturales, ni les démarches en cours.",
+    "answers": {
+      "gcu_q01": "releve_fin_campagne",
+      "gcu_q02": "__skip__",
+      "gcu_q03": "__skip__",
+      "gcu_q04": "__skip__",
+      "gcu_q05": "__skip__",
+      "gcu_q06": "__skip__",
+      "gcu_q07": "__skip__",
+      "gcu_q08": "__skip__",
+      "gcu_q09": "__skip__",
+      "gcu_q10": "__skip__",
+      "gcu_q11": "__skip__",
+      "gcu_q12": "__skip__"
+    }
+  },
+  {
+    "id": "gcu_riziculteur",
+    "nom": "Riziculteur de Camargue",
+    "description": "Exploitation de 150 ha en Camargue, riz irrigué par submersion avec l'eau du Rhône, pompée par l'association d'irrigants, et blé en rotation. Relève le compteur en fin de campagne. Variétés inchangées, sol nu l'hiver, aire bétonnée sans traitement, quelques haies brise-vent anciennes, connaît les seuils de restriction, adhère à l'association.",
+    "answers": {
+      "gcu_q01": "releve_fin_campagne",
+      "gcu_q02": ["reseau_collectif"],
+      "gcu_q03": ["autres", "cereales_paille"],
+      "gcu_q04": "bulletin",
+      "gcu_q05": "submersion",
+      "gcu_q06": "en_panne",
+      "gcu_q07": "inchange",
+      "gcu_q08": "sol_nu",
+      "gcu_q09": "aire_sans_traitement",
+      "gcu_q10": "quelques_haies",
+      "gcu_q11": "informe",
+      "gcu_q12": "adherent"
+    }
+  },
+  {
+    "id": "gcu_reseau_collectif",
+    "nom": "Irrigant en réseau collectif, en zone de répartition",
+    "description": "Exploitation de 90 ha dans le Gard, desservie uniquement par le réseau d'une société d'aménagement régional, blé dur et légumes de plein champ irrigués par enrouleur à régulation électronique. Suit le bulletin de la chambre, vérifie son matériel chaque saison, relève son compteur en fin de campagne. A introduit du sorgho, couverts généralisés, aire bétonnée sans traitement, peu de haies, sait quelles parcelles protéger en priorité, adhère à l'association d'irrigants.",
+    "answers": {
+      "gcu_q01": "releve_fin_campagne",
+      "gcu_q02": ["reseau_collectif"],
+      "gcu_q03": ["cereales_paille", "forte_valeur"],
+      "gcu_q04": "bulletin",
+      "gcu_q05": "enrouleur_electronique",
+      "gcu_q06": "chaque_saison",
+      "gcu_q07": "assolement",
+      "gcu_q08": "couverts_generalises",
+      "gcu_q09": "aire_sans_traitement",
+      "gcu_q10": "aucune",
+      "gcu_q11": "priorites",
+      "gcu_q12": "adherent"
+    }
+  },
+  {
+    "id": "gcu_incoherent",
+    "nom": "Réponses contradictoires",
+    "description": "Déclare suivre ses volumes par îlot mais déclencher les tours d'eau au calendrier, avoir du goutte-à-goutte jamais contrôlé, et un plan de campagne écrit tout en n'ayant rien adapté. Pas de pulvérisateur, maillage de haies, aucune démarche collective connue.",
+    "answers": {
+      "gcu_q01": "suivi_ilot",
+      "gcu_q02": ["forage", "eaux_usees_traitees"],
+      "gcu_q03": ["mais"],
+      "gcu_q04": "calendrier",
+      "gcu_q05": "localise",
+      "gcu_q06": "jamais",
+      "gcu_q07": "inchange",
+      "gcu_q08": "conservation",
+      "gcu_q09": "sans_pulverisateur",
+      "gcu_q10": "maillage",
+      "gcu_q11": "plan_ecrit",
+      "gcu_q12": "non"
+    }
+  }
+]

@@ -1,0 +1,109 @@
+{
+  "id": "PREST_GCU_003",
+  "nom": "Challenge Agriculture",
+  "type": "solution_numerique",
+  "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792084255/Noe%20assets/logos/PREST_GCU_003.png",
+  "siret": "33920572600062",
+  "description": "Société spécialisée depuis 1986 dans la tensiométrie, filiale de France Pivots, elle-même rachetée par Irrifrance Groupe en octobre 2025. Elle vend un boîtier de mesure (Monitor R2-DX) équipé de sondes Watermark, dont les relevés s'affichent sur un graphe en ligne, et organise par ce graphe un conseil hebdomadaire d'un expert pour décider les irrigations de la semaine, y compris sur maïs. Matériel et abonnement payants (pack complet autour de 1 800 euros HT, abonnement de 110 euros HT pour trois saisons) et vendus en ligne. La pose et la dépose du matériel ne sont proposées que dans certaines régions, par la société ou ses partenaires locaux.",
+  "expertises": [
+    "Sondes tensiométriques Watermark",
+    "Pilotage de l'irrigation",
+    "Conseil hebdomadaire en ligne",
+    "Formation en vidéo"
+  ],
+  "categories": [
+    "suivre_comprendre_maitriser"
+  ],
+  "secteurs": [
+    "grandes_cultures"
+  ],
+  "departements": [],
+  "mesures": [
+    {
+      "id": "ACT_GCU_001",
+      "roles": [
+        "materiel",
+        "conseil_etude",
+        "formation"
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "type": "site_internet",
+      "value": "https://www.challenge-agriculture.fr/"
+    },
+    {
+      "type": "tel",
+      "value": "06 87 28 97 53"
+    },
+    {
+      "type": "adresse",
+      "value": "310 Route de Mont-de-Marsan, 40630 Sabres"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret, adresse",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=Challenge%20Agriculture&departement=40",
+      "date": "2026-10-15",
+      "extrait": "CHALLENGE AGRICULTURE SARL, siret 33920572600062, siege, ROUTE DE MONT DE MARSAN 40630 SABRES, etat_administratif A, nombre_etablissements_ouverts 1"
+    },
+    {
+      "champ": "contacts, description",
+      "url": "https://www.challenge-agriculture.fr/nous-contacter/",
+      "date": "2026-10-15",
+      "extrait": "Challenge Agriculture SAS / Groupe France Pivots / 310 Route de Mont-de-Marsan / 40630 Sabres France / Tél : (+33) (0)6 87 28 97 53"
+    },
+    {
+      "champ": "description",
+      "url": "https://www.challenge-agriculture.fr/qui-sommes-nous/",
+      "date": "2026-10-15",
+      "extrait": "Challenge Agriculture est spécialiste en tensiométrie depuis 1986 [...] Challenge Agriculture rejoint le Groupe France Pivots, afin d'assurer son développement."
+    },
+    {
+      "champ": "description",
+      "url": "https://www.unigrains.fr/uploads/pdf-actualites/2025/251008%20IRRIFRANCE%20France%20Pivots%20FR%20Final.pdf",
+      "date": "2026-10-15",
+      "extrait": "Paris, le 8 octobre 2025 : IRRIFRANCE Groupe [...] annonce l'acquisition de France Pivots [...] Innovation : intégration des solutions de tensiométrie développées par Challenge Agriculture, filiale de France Pivots."
+    },
+    {
+      "champ": "description, expertises, mesures",
+      "url": "https://www.challenge-agriculture.fr/tensiometrie/domaines-dapplication2/irrigation-agricole/",
+      "date": "2026-10-15",
+      "extrait": "Cette technique universelle permet de piloter tout système d'irrigation [...] aide à la mise en œuvre, conseil hebdomadaire en ligne [...] Sur le maïs, l'économie en condition non limitante est de 1,5 tour d'eau moyen."
+    },
+    {
+      "champ": "description, expertises, mesures, departements",
+      "url": "https://www.challenge-agriculture.fr/conseil/service/",
+      "date": "2026-10-15",
+      "extrait": "Selon les localisations, nous et nos partenaires en région proposons un service de pose/dépose du Monitor [...] Grâce à la boite de dialogue du graphe en ligne, nous organisons un conseil hebdomadaire donné par un expert."
+    },
+    {
+      "champ": "description, expertises, mesures",
+      "url": "https://www.challenge-agriculture.fr/materiel/les-prix/",
+      "date": "2026-10-15",
+      "extrait": "Le Pack Complet Monitor R2-DX coûte environ 1 800 € HT [...] L'abonnement Graph Web coûte 110€ HT pour 3 saisons."
+    },
+    {
+      "champ": "expertises, mesures",
+      "url": "https://www.challenge-agriculture.fr/conseil/formation-en-30-videos/",
+      "date": "2026-10-15",
+      "extrait": "Formation en 30 vidéos [...] Pilotage tensiométrique de l'irrigation [...] Pilotage tensiométrique de l'irrigation sur Maïs semence"
+    },
+    {
+      "champ": "departements",
+      "url": "https://www.challenge-agriculture.fr/legal/",
+      "date": "2026-10-15",
+      "extrait": "Les tarifs des produits vendus au travers des sites Internet sont indiqués en Euros hors taxes [...] Pour tous les produits expédiés hors Union européenne et/ou DOM-TOM, le tarif est calculé hors taxes"
+    },
+    {
+      "champ": "logo_url",
+      "url": "https://www.challenge-agriculture.fr/wp-content/uploads/2021/04/cropped-favicon-192x192.png",
+      "date": "2026-10-15",
+      "extrait": "Icône du site (apple-touch-icon et favicon 192 x 192) : goutte bleue au-dessus de deux bandes brune et verte"
+    }
+  ],
+  "date_maj": "2026-10-15"
+}

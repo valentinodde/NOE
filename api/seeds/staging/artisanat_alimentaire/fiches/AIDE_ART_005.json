@@ -1,0 +1,175 @@
+{
+  "id": "AIDE_ART_005",
+  "nom": "Prise en charge des formations des salariés par Opco EP (plan de développement des compétences des entreprises de moins de 50 salariés et catalogue Sélexion)",
+  "financeur": "Opco EP, opérateur de compétences des entreprises de proximité",
+  "logo_url": "https://res.cloudinary.com/dc1felxem/image/upload/v1792065093/Noe%20assets/logos/AIDE_ART_005.png",
+  "type": "subvention",
+  "taux": "Plan de développement des compétences : coûts pédagogiques pris en charge selon le barème horaire et la durée maximale fixés par votre branche (en boulangerie, thème « Transition écologique et énergétique » : 40 € HT/h, 14 h au plus). Catalogue Sélexion : 100 % des coûts pédagogiques pour les entreprises de moins de 50 salariés",
+  "plafond": "Plafond par entreprise pour 2026, fixé par la branche : boulangerie 3 500 € HT (moins de 50 salariés) ; charcuterie de détail 3 500 € HT (moins de 11 salariés) ou 7 000 € HT (11 à 49 salariés) ; pâtisserie 2 000 € HT (moins de 11 salariés) ou 3 000 € HT (11 à 49 salariés). Dans la limite des fonds disponibles",
+  "description": "Opco EP finance, sur les critères définis par chaque branche professionnelle, les actions de formation que l'employeur prévoit pour ses salariés dans son plan de développement des compétences. Les trois branches de l'artisanat alimentaire visées relèvent d'Opco EP : boulangerie-pâtisserie artisanale, charcuterie de détail et pâtisserie. Chaque branche publie une plaquette 2026 qui liste les thèmes finançables, le coût horaire retenu et la durée maximale ; celle de la boulangerie comporte un thème « Transition écologique et énergétique ». En complément, le catalogue Sélexion propose des formations de proximité sélectionnées par Opco EP, financées à 100 % pour les entreprises de moins de 50 salariés, dont une thématique « Transition écologique & énergétique ». Les pages consultées ne citent pas de formation consacrée à l'eau.",
+  "eligibilite": "Entreprises de moins de 50 salariés relevant du champ d'Opco EP, dont celles des conventions collectives de la boulangerie-pâtisserie artisanale (IDCC 0843), de la charcuterie de détail (IDCC 0953) et de la pâtisserie (IDCC 1267). La formation bénéficie aux salariés et doit être dispensée par un organisme certifié Qualiopi.",
+  "categories": [
+    "sensibiliser_former"
+  ],
+  "secteurs": [
+    "artisanat_alimentaire"
+  ],
+  "departements": [],
+  "agences": [],
+  "mesures": [
+    "ACT_ART_001"
+  ],
+  "infos_complementaires": [
+    {
+      "type": "avertissement",
+      "texte": "La demande de prise en charge d'une formation qui se déroule dans l'année doit parvenir à Opco EP au plus tard le 30 novembre de cette année : une demande déposée l'année suivante est refusée. Pour être sûr d'avoir la réponse avant le départ en formation, déposez-la au moins un mois avant le début de l'action.",
+      "lien": "https://www.opcoep.fr/ressources/centre-ressources/juridique/conditions-generales-gestion-controle-opcoep.pdf",
+      "lien_label": "Conditions générales de gestion et de contrôle 2026"
+    },
+    {
+      "type": "avertissement",
+      "texte": "Opco EP ne finance que les formations dispensées par un organisme certifié Qualiopi. Vérifiez la certification de l'organisme avant de signer le devis.",
+      "lien": "https://www.opcoep.fr/ressources/centre-ressources/juridique/conditions-generales-gestion-controle-opcoep.pdf",
+      "lien_label": "Conditions générales de gestion et de contrôle 2026"
+    },
+    {
+      "type": "avertissement",
+      "texte": "Un intitulé de formation absent de la plaquette de votre branche n'est pas financé, pas plus que la formation en situation de travail (AFEST) ; en boulangerie et en charcuterie de détail, la formation à distance est aussi exclue. Une action de moins de 140 heures doit tenir sur trois mois au plus, avec des dates précises, sinon la demande est refusée. Les demandes sont servies dans la limite des fonds disponibles, et les critères peuvent évoluer avant l'accord du dossier."
+    },
+    {
+      "type": "info",
+      "texte": "Pour une formation aux gestes économes en eau, le catalogue Sélexion propose « Mettre en œuvre les Eco-gestes » (thématique « Transition écologique et énergétique », 7 heures, ouverte aux salariés de toutes les branches d'Opco EP). Ce n'est pas une formation propre aux métiers de bouche, et l'eau n'y est qu'un thème parmi d'autres (énergie, déchets, transports) : le programme de l'organisme RH Reflex prévoit des « techniques pour réduire la consommation d'eau », celui d'Impuls'ions cite l'eau parmi ses thématiques. Hors Sélexion, rattacher une formation sur l'eau au thème « Transition écologique et énergétique » de la plaquette boulangerie est une piste à valider avec votre conseiller Opco EP ; les plaquettes 2026 de la charcuterie de détail et de la pâtisserie ne comportent pas de thème environnemental.",
+      "lien": "https://acces-formation.opcoep.fr/formation/mettre-en-%C5%93uvre-les-eco-gestes-4645",
+      "lien_label": "Fiche Sélexion « Mettre en œuvre les Eco-gestes »"
+    },
+    {
+      "type": "info",
+      "texte": "Une actualité Opco EP du 20 février 2026 annonce une enveloppe « Entreprises, soutien à la formation » pour les entreprises de moins de 50 salariés qui n'ont pas eu recours à un financement formation depuis le 1er janvier 2023 : formations réalisées entre le 1er janvier et le 31 décembre 2026, demande déposée au plus tard le 30 novembre 2026, prise en charge sous réserve de fonds disponibles. Votre conseiller Opco EP vous accompagne jusqu'au dépôt de la demande ; contactez-le pour un rendez-vous préalable.",
+      "lien": "https://www.opcoep.fr/actualites/opco-ep-soutient-et-favorise-l-acces-a-la-formation-des-petites-entreprises",
+      "lien_label": "Actualité Opco EP du 20 février 2026"
+    },
+    {
+      "type": "info",
+      "texte": "La demande se dépose sur l'espace « Mes services en ligne » d'Opco EP. Les formations Sélexion se réservent directement en ligne sur le catalogue, après création d'un compte."
+    },
+    {
+      "type": "ressource",
+      "texte": "Critères de financement 2026 de la branche Boulangerie",
+      "lien": "https://www.opcoep.fr/criteres-de-financement?branche=208"
+    },
+    {
+      "type": "ressource",
+      "texte": "Critères de financement 2026 de la branche Charcuterie de détail",
+      "lien": "https://www.opcoep.fr/criteres-de-financement?branche=202"
+    },
+    {
+      "type": "ressource",
+      "texte": "Critères de financement 2026 de la branche Pâtisserie",
+      "lien": "https://www.opcoep.fr/criteres-de-financement?branche=177"
+    },
+    {
+      "type": "ressource",
+      "texte": "Présentation du catalogue Sélexion sur le site d'Opco EP",
+      "lien": "https://www.opcoep.fr/entreprise/offre-de-services/selexion"
+    },
+    {
+      "type": "ressource",
+      "texte": "Espace « Mes services en ligne » pour déposer une demande de financement",
+      "lien": "https://messervicesenligne.opcoep.fr/"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "eligibilite (rattachement des branches, IDCC)",
+      "url": "https://www.opcoep.fr/branches-professionnelles",
+      "date": "2026-10-15",
+      "extrait": "IDCC 0843 Boulangerie-pâtisserie (entreprises artisanales) [...] IDCC 0953 Charcuterie de détail [...] IDCC 1267 Pâtisserie"
+    },
+    {
+      "champ": "description, eligibilite",
+      "url": "https://www.opcoep.fr/entreprise/former-mes-salaries",
+      "date": "2026-10-15",
+      "extrait": "Opco EP peut prendre en charge, selon les critères de financement en vigueur dans votre secteur d'activité, les actions prévues dans le plan de développement des compétences des entreprises de moins de 50 salariés."
+    },
+    {
+      "champ": "taux, plafond, description, infos_complementaires, mesures (ACT_ART_001)",
+      "url": "https://www.opcoep.fr/criteres-de-financement?branche=208",
+      "date": "2026-10-15",
+      "extrait": "Critères de financement par dispositifs applicables en 2026 [...] Mise à jour : 01/10/2026 [...] Le plan de développement des compétences regroupe l'ensemble des actions de formation à l'initiative de l'employeur au bénéfice de ses salariés. [...] Plafonds de financement entreprise : Moins de 50 salariés : 3 500 € HT [...] Pas de financement : Formation en distanciel, Action de formation en situation de travail (AFEST), Intitulés de formation non mentionnés dans la plaquette [...] Transition écologique et énergétique, Durée maximale de prise en charge : 14 h, Coût pédagogique : 40 € HT/h"
+    },
+    {
+      "champ": "plafond, infos_complementaires",
+      "url": "https://www.opcoep.fr/criteres-de-financement?branche=202",
+      "date": "2026-10-15",
+      "extrait": "Plafonds de financement entreprise : 3 500 € HT pour les entreprises de moins de 11 salariés, 7 000 € HT pour les entreprises de 11 à 49 salariés. Pas de financement : Formations en distanciel, Action de formation en situation de travail (AFEST), Intitulés de formation non mentionnés dans la plaquette."
+    },
+    {
+      "champ": "plafond, infos_complementaires",
+      "url": "https://www.opcoep.fr/criteres-de-financement?branche=177",
+      "date": "2026-10-15",
+      "extrait": "Les actions formation de moins de 140 heures ne peuvent s'étaler sur une période supérieure à 3 mois et les dates de formation précises doivent être renseignées. [...] Pas de financement : Action de formation en situation de travail (AFEST), Intitulés de formation non mentionnés dans la plaquette. Plafond de financement entreprise : 2 000 € HT pour les entreprises de moins de 11 salariés, 3 000 € HT pour les entreprises de 11 à 49 salariés"
+    },
+    {
+      "champ": "plafond, infos_complementaires (fonds disponibles)",
+      "url": "https://www.opcoep.fr/criteres-de-financement?branche=208",
+      "date": "2026-10-15",
+      "extrait": "Compte tenu du budget PDC-50 contraint, les critères de financement peuvent évoluer entre la demande de financement et l'approbation du dossier par les services d'Opco EP. [...] Toutes les demandes de prise en charge se font dans la limite des fonds disponibles."
+    },
+    {
+      "champ": "taux, description, infos_complementaires (Sélexion), mesures (ACT_ART_001)",
+      "url": "https://www.opcoep.fr/entreprise/offre-de-services/selexion",
+      "date": "2026-10-15",
+      "extrait": "Pour qui ? Tous les salariés des entreprises de moins de 50 salariés relevant du champ d'intervention d'Opco EP. Quelles formations ? Un catalogue de 36 formations couvrant 6 thématiques principales : [...] Transition écologique & énergétique [...] En 2026, les formations sont financées à 100% pour les entreprises de moins de 50 salariés. [...] Quelles démarches ? Directement depuis selexion.opcoep.fr [...] Créez votre compte ou connectez-vous [...] Inscrivez vos salariés en ligne"
+    },
+    {
+      "champ": "infos_complementaires (date limite, délai d'un mois)",
+      "url": "https://www.opcoep.fr/ressources/centre-ressources/juridique/conditions-generales-gestion-controle-opcoep.pdf",
+      "date": "2026-10-15",
+      "extrait": "Conditions générales de gestion et de contrôle 2026 [...] au moins un mois avant la date de début de l'action de formation, si l'entreprise souhaite une garantie de réponse [...] toute demande de prise en charge d'action se déroulant sur l'année N, doit parvenir à Opco EP au plus tard le 30 novembre de l'année N [...] Toute demande de prise en charge d'une action comportant des dates de réalisation l'année N sera refusée en N+1"
+    },
+    {
+      "champ": "eligibilite, infos_complementaires (Qualiopi)",
+      "url": "https://www.opcoep.fr/ressources/centre-ressources/juridique/conditions-generales-gestion-controle-opcoep.pdf",
+      "date": "2026-10-15",
+      "extrait": "À compter du 1er janvier 2022, les prestataires d'actions concourant au développement des compétences financés par des fonds publics ou mutualisés de la formation professionnelle doivent être détenteurs de la certification Qualiopi"
+    },
+    {
+      "champ": "infos_complementaires (Entreprises, soutien à la formation)",
+      "url": "https://www.opcoep.fr/actualites/opco-ep-soutient-et-favorise-l-acces-a-la-formation-des-petites-entreprises",
+      "date": "2026-10-15",
+      "extrait": "20/02/2026 [...] « Entreprises - Soutien à la formation » est mobilisable par les entreprises qui n'ont pas eu recours à un financement formation depuis le 1er janvier 2023. [...] Opco EP prend en charge, sous réserve de fonds disponibles, les formations prévues dans le Plan de Développement des Compétences de votre entreprise [...] Les formations doivent être dispensées par un prestataire de formation externe, référencé Qualiopi. Les actions de formation doivent être réalisées entre le 01/01/2026 et le 31/12/2026. La date limite de dépôt de votre demande est fixée au 30/11/2026. Votre conseiller Opco EP vous accompagne de l'identification de votre besoin en formation jusqu'au dépôt de votre demande de financement. Contactez-le dès maintenant pour un rendez-vous préalable."
+    },
+    {
+      "champ": "infos_complementaires (démarche)",
+      "url": "https://www.opcoep.fr/",
+      "date": "2026-10-15",
+      "extrait": "Demander un financement et suivre mon activité formation et alternance (lien vers https://messervicesenligne.opcoep.fr/) [...] Entreprise de moins de 50 salariés : Consulter Sélexion, le catalogue de formations sélectionnées par Opco EP"
+    },
+    {
+      "champ": "mesures (ACT_ART_001), infos_complementaires",
+      "url": "https://acces-formation.opcoep.fr/formation/mettre-en-%C5%93uvre-les-eco-gestes-4645",
+      "date": "2026-10-15",
+      "extrait": "Transition écologique et énergétique. Mettre en œuvre les Eco-gestes. OBJECTIFS : Identifier les écogestes pertinents pour la pratique professionnelle, les intégrer dans le quotidien, être en mesure d'en apprécier les effets, les promouvoir en interne. Public concerné : Les collaborateurs d'entreprises relevant d'Opco EP."
+    },
+    {
+      "champ": "mesures (ACT_ART_001), infos_complementaires",
+      "url": "https://acces-formation.opcoep.fr/file.get?path=doc/programmes/selexion/teepresentiel/rhreflex/selexion_norm_rhreflex_mettreenoeuvrelesecogestes.pdf",
+      "date": "2026-10-15",
+      "extrait": "Intitulé du module : Mettre en œuvre les Eco-gestes [...] Gestion de l'eau : Techniques pour réduire la consommation d'eau. [...] Public visé : Sont concernées les salariés des 54 branches professionnelles et l'interprofession relevant du champ de Opco EP [...] Durée de formation en heures et en jours : 7 heures / 1 jour"
+    },
+    {
+      "champ": "infos_complementaires",
+      "url": "https://acces-formation.opcoep.fr/file.get?path=doc/programmes/selexion/teepresentiel/impulsions/selexion_aura_impulsions_mettreenoeuvrelesecogestes.pdf",
+      "date": "2026-10-15",
+      "extrait": "Panorama des éco-gestes mobilisables : Travail sur plusieurs thématiques : énergies, eau, déchets, transports, bidoversité."
+    },
+    {
+      "champ": "logo_url",
+      "url": "https://www.opcoep.fr/themes/opcoep_theme/favicon-180px.png",
+      "date": "2026-10-15",
+      "extrait": "apple-touch-icon 180x180 déclaré dans l'en-tête des pages de opcoep.fr"
+    }
+  ],
+  "date_maj": "2026-10-15"
+}

@@ -1,0 +1,122 @@
+{
+  "id": "AIDE_HOT_008",
+  "nom": "Ressourc'Eau, programme de gestion durable de l'eau (CCI Pays de la Loire et agence de l'eau Loire-Bretagne)",
+  "financeur": "CCI des Pays de la Loire, agence de l'eau Loire-Bretagne et FEDER",
+  "logo_url": null,
+  "type": "accompagnement",
+  "taux": "Reste à charge de 30 % du coût de l'accompagnement pour l'entreprise",
+  "plafond": "Accompagnement de 2 250 à 3 750 € HT selon la durée (3 à 5 jours), soit 675 à 1 125 € HT à la charge de l'entreprise",
+  "description": "Accompagnement individuel de 3 à 5 jours par un conseiller eau de la CCI, cofinancé par la CCI des Pays de la Loire et l'agence de l'eau Loire-Bretagne avec le soutien du FEDER. Le parcours comprend un rendez-vous pré-visite, une visite technique du site, l'analyse des données de consommation et la restitution d'un rapport avec une analyse détaillée de la gestion de l'eau et un plan d'action priorisé à court, moyen et long terme. Le conseiller appuie ensuite la mise en œuvre des actions et fait un point de suivi après 6 mois ou un an.",
+  "eligibilite": "Entreprises implantées en Pays de la Loire pour qui l'eau constitue un enjeu de fonctionnement, un facteur de risque ou un levier de compétitivité, et qui veulent mettre en œuvre des actions concrètes à court ou moyen terme. Les candidatures sont sélectionnées par un jury ; la plaquette du programme et Mission Transition Écologique ciblent les entreprises consommant entre 10 000 et 100 000 m3 d'eau par an.",
+  "categories": [
+    "suivre_comprendre_maitriser"
+  ],
+  "secteurs": [],
+  "departements": [
+    "44",
+    "49",
+    "53",
+    "72",
+    "85"
+  ],
+  "agences": [],
+  "mesures": [
+    "ACT_AGR_002"
+  ],
+  "infos_complementaires": [
+    {
+      "type": "avertissement",
+      "texte": "La plaquette du programme (avril 2025) et la fiche Mission Transition Écologique réservent l'accompagnement aux entreprises qui consomment entre 10 000 et 100 000 m3 d'eau par an. L'appel à candidatures 2026 ne reprend pas ce seuil dans ses critères de sélection et indique que « c'est la pertinence de votre projet et l'urgence d'agir qui priment ». Si votre consommation est inférieure à 10 000 m3 par an, faites confirmer la recevabilité de votre candidature par la CCI avant de la déposer."
+    },
+    {
+      "type": "info",
+      "texte": "L'accompagnement n'est pas automatique : il passe par un appel à candidatures. L'appel 2026, publié le 30 janvier 2026, prévoit qu'un jury retienne une soixantaine d'entreprises. Mission Transition Écologique indique un dispositif disponible jusqu'au 31/12/2027 (information lue le 2026-09-24)."
+    },
+    {
+      "type": "info",
+      "texte": "Pour une question ou un devis, écrivez à l'équipe Ressourc'Eau : ressourceau@paysdelaloire.cci.fr. La CCI propose aussi un Flash Diag Eau gratuit pour évaluer en quelques minutes la maturité de votre entreprise sur l'eau avant de candidater."
+    },
+    {
+      "type": "ressource",
+      "texte": "Page du programme Ressourc'Eau sur le site de la CCI Pays de la Loire",
+      "lien": "https://www.paysdelaloire.cci.fr/nantes-saint-nazaire/entreprise/transition-ecologique/programme-ressourceau",
+      "lien_label": "Voir le programme"
+    },
+    {
+      "type": "ressource",
+      "texte": "Appel à candidatures Ressourc'Eau 2026 : critères de sélection, coût et déroulé",
+      "lien": "https://www.paysdelaloire.cci.fr/nantes-saint-nazaire/actualites/appel-candidatures-ressourceau",
+      "lien_label": "Lire l'appel 2026"
+    },
+    {
+      "type": "ressource",
+      "texte": "Formulaire de candidature au programme Ressourc'Eau",
+      "lien": "https://s1.sphinxonline.net/surveyserver/s/CCI-Nantes-StNazaire/Ressourc_Eau/questionnaire.htm",
+      "lien_label": "Déposer ma candidature"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "taux, plafond",
+      "url": "https://www.paysdelaloire.cci.fr/nantes-saint-nazaire/actualites/appel-candidatures-ressourceau",
+      "date": "2026-09-24",
+      "extrait": "Seul un reste à charge de 30% est demandé aux entreprises, variable selon la durée de l'accompagnement : Durée 3 jours : 2 250 € HT, soit 675 € HT [...] Durée 5 jours : 3 750 € HT, soit 1 125 € HT"
+    },
+    {
+      "champ": "plafond, financeur",
+      "url": "https://www.paysdelaloire.cci.fr/nantes-saint-nazaire/entreprise/transition-ecologique/programme-ressourceau",
+      "date": "2026-09-24",
+      "extrait": "3 à 5 jours, selon votre besoin. Tarif de l'offre 675 à 1125 € HT. Prise en charge CCI, AELB et FEDER selon éligibilité. [...] *Programme cofinancé par la CCI des Pays de la Loire et l'Agence de l'Eau Loire-Bretagne, avec le soutien du FEDER."
+    },
+    {
+      "champ": "description, mesures",
+      "url": "https://www.paysdelaloire.cci.fr/nantes-saint-nazaire/entreprise/transition-ecologique/programme-ressourceau",
+      "date": "2026-09-24",
+      "extrait": "Nos conseillers CCI experts sur l'eau vous proposent : Une analyse détaillée de votre gestion de l'eau. Un plan d'action priorisé et personnalisé à court, moyen et long terme. Un appui à la mise en place des actions identifiées. Un échange après 6 mois/1 an pour suivre les actions engagées."
+    },
+    {
+      "champ": "description",
+      "url": "https://www.paysdelaloire.cci.fr/nantes-saint-nazaire/actualites/appel-candidatures-ressourceau",
+      "date": "2026-09-24",
+      "extrait": "parcours d'accompagnement de 3 à 5 jours incluant un rendez-vous pré-visite, une visite technique sur votre site, l'analyse des données et la restitution du plan d'action."
+    },
+    {
+      "champ": "eligibilite, departements",
+      "url": "https://www.paysdelaloire.cci.fr/nantes-saint-nazaire/actualites/appel-candidatures-ressourceau",
+      "date": "2026-09-24",
+      "extrait": "Critères de sélection : Entreprises implantées en Pays de la Loire. Objectif de sécuriser son modèle économique face aux enjeux de l'eau. Volonté de mettre en œuvre des actions concrètes à court/moyen terme. [...] Nouveauté 2026 : Que vous soyez une PME en croissance ou un site industriel majeur, c'est la pertinence de votre projet et l'urgence d'agir qui priment."
+    },
+    {
+      "champ": "eligibilite, departements",
+      "url": "https://www.paysdelaloire.cci.fr/nantes-saint-nazaire/entreprise/transition-ecologique/programme-ressourceau",
+      "date": "2026-09-24",
+      "extrait": "Notre programme s'adresse à toutes les entreprises des Pays de la Loire pour qui l'eau constitue un enjeu de fonctionnement, un facteur de risque ou un levier de compétitivité."
+    },
+    {
+      "champ": "eligibilite, infos_complementaires",
+      "url": "https://www.paysdelaloire.cci.fr/sites/default/files/files/plaquette_ressourc_eau.pdf",
+      "date": "2026-09-24",
+      "extrait": "POUR QUI ? Les entreprises basées en Pays de la Loire qui consomment entre 10 000 et 100 000 m3 d'eau par an. [...] ©CCI Pays de la Loire | Création graphique : Agence Duo | Avril 2025"
+    },
+    {
+      "champ": "eligibilite, secteurs, infos_complementaires",
+      "url": "https://mission-transition-ecologique.beta.gouv.fr/aides-entreprise/ressourc-eau",
+      "date": "2026-09-24",
+      "extrait": "Toutes tailles, Éligible aux micro-entreprises, Pays de la Loire, Tous secteurs d'activité [...] Ce dispositif vise les entreprises basées en Pays de la Loire qui consomment entre 10 000 et 100 000 m3 d'eau par an. [...] Disponible jusqu'au 31/12/2027"
+    },
+    {
+      "champ": "infos_complementaires",
+      "url": "https://www.paysdelaloire.cci.fr/nantes-saint-nazaire/actualites/appel-candidatures-ressourceau",
+      "date": "2026-09-24",
+      "extrait": "30.01.2026 [...] lancent l'appel à candidatures 2026 du programme Ressourc'Eau. [...] Une soixantaine d'entreprises sera sélectionnée [...] Le jury sélectionne les 60 entreprises retenues. [...] Évaluez gratuitement la maturité de votre entreprise sur la gestion de l'eau et identifiez vos premières pistes de progrès grâce à notre Flash Diag Eau"
+    },
+    {
+      "champ": "infos_complementaires",
+      "url": "https://www.paysdelaloire.cci.fr/nantes-saint-nazaire/entreprise/transition-ecologique/programme-ressourceau",
+      "date": "2026-09-24",
+      "extrait": "Contactez un conseiller CCI Ressourc'Eau ressourceau@paysdelaloire.cci.fr [...] en répondant à l'appel à candidature"
+    }
+  ],
+  "date_maj": "2026-09-24"
+}

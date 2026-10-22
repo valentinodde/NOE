@@ -1,0 +1,468 @@
+[
+  {
+    "id": "ACT_GCU_001",
+    "titre": "Piloter l'irrigation avec des sondes et un outil de bilan hydrique",
+    "titre_court": "Pilotage de l'irrigation",
+    "description": "Déclenchez chaque tour d'eau d'après un bilan hydrique et des sondes dans le sol plutôt qu'au calendrier, et relevez votre compteur pour suivre les volumes par îlot. Arvalis mesure 20 à 60 mm d'eau économisés par saison sans perte de rendement, pour tous les irrigants.",
+    "categorie": "suivre_comprendre_maitriser",
+    "secteurs": [
+      "grandes_cultures"
+    ],
+    "effort": {
+      "capex": "faible",
+      "opex": "faible",
+      "humain": "moyen"
+    },
+    "impact_eau": 3,
+    "facilite": 3,
+    "horizon": "court_terme",
+    "image": null,
+    "infos_complementaires": [
+      {
+        "type": "info",
+        "texte": "Arvalis recommande de coupler le bilan hydrique et les sondes (méthode Irrinov) : le bilan anticipe, les sondes vérifient ce qui se passe réellement dans la parcelle.",
+        "lien": "https://www.arvalis.fr/infos-techniques/mais-comment-adapter-lirrigation-en-cas-de-ressources-en-eau-limitees",
+        "lien_label": "Arvalis, 2023"
+      },
+      {
+        "type": "info",
+        "texte": "Repère national : 1 902 m3 prélevés par hectare irrigué en 2020. Rapporter vos volumes relevés à vos hectares irrigués vous situe et prépare votre déclaration à l'organisme unique de gestion collective.",
+        "lien": "https://www.insee.fr/fr/statistiques/7728881",
+        "lien_label": "Insee, d'après SDES, 2024"
+      },
+      {
+        "type": "ressource",
+        "texte": "Modèles de bilan hydrique Irré-LIS (Arvalis)",
+        "lien": "https://www.arvalis.fr/outils-et-services/outils-et-fiches/modeles-bilan-hydrique"
+      },
+      {
+        "type": "ressource",
+        "texte": "Bulletins irrigation et parcelles de référence de la chambre d'agriculture (exemple du Gers)",
+        "lien": "https://gers.chambres-agriculture.fr/sinformer/produire-et-innover/irrigation"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "description",
+        "url": "https://www.arvalis.fr/outils-et-services/outils-et-fiches/modeles-bilan-hydrique",
+        "extrait": "Irré-LIS : 20 à 60 mm d'eau économisés sans baisse de rendement, d'après les résultats obtenus depuis 2007."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.arvalis.fr/infos-techniques/mais-comment-adapter-lirrigation-en-cas-de-ressources-en-eau-limitees",
+        "extrait": "Coupler bilan hydrique et sondes avec la méthode Irrinov."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.insee.fr/fr/statistiques/7728881",
+        "extrait": "1 902 m3 par hectare irrigué en 2020."
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "ACT_GCU_002",
+    "titre": "Diagnostiquer et régler son matériel d'irrigation avant chaque campagne",
+    "titre_court": "Réglage du matériel",
+    "description": "Contrôlez avant la saison la vitesse d'enroulement, les buses et l'écartement entre passages, et irriguez la nuit ou hors vent fort. Un matériel réglé répartit la même dose avec moins d'eau perdue, et l'arrosage de nuit évite les plages d'interdiction des arrêtés sécheresse.",
+    "categorie": "ameliorer_efficacite_hydrique",
+    "secteurs": [
+      "grandes_cultures"
+    ],
+    "effort": {
+      "capex": "faible",
+      "opex": "faible",
+      "humain": "faible"
+    },
+    "impact_eau": 2,
+    "facilite": 3,
+    "horizon": "immediat",
+    "image": null,
+    "infos_complementaires": [
+      {
+        "type": "info",
+        "texte": "En alerte sécheresse, l'irrigation par aspersion est interdite de 11 h à 18 h, et de 9 h à 20 h en alerte renforcée, selon le cadre national décliné par chaque arrêté départemental.",
+        "lien": "https://www.ecologie.gouv.fr/politiques-publiques/origine-gestion-secheresse",
+        "lien_label": "Ministère de la Transition écologique"
+      },
+      {
+        "type": "ressource",
+        "texte": "Fiche d'autodiagnostic de l'enrouleur (chambre d'agriculture du Gers)",
+        "lien": "https://gers.chambres-agriculture.fr/sinformer/produire-et-innover/irrigation"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "description",
+        "url": "https://vienne.chambres-agriculture.fr/fileadmin/user_upload/Nouvelle-Aquitaine/Medias_Externes/Fiche_technique_n11_Maitriser_l_irrigation_par_enrouleur.pdf",
+        "extrait": "Enrouleur déréglé au-delà de 15 % d'écart de vitesse en régulation mécanique ; écartement réduit avec le vent ; irrigation déconseillée au-delà de 30 km/h (lu par extrait, à relire)."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.ecologie.gouv.fr/politiques-publiques/origine-gestion-secheresse",
+        "extrait": "Aspersion interdite entre 11 h et 18 h en alerte, entre 9 h et 20 h en alerte renforcée, totalement en crise."
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "ACT_GCU_003",
+    "titre": "Équiper ses enrouleurs d'une régulation électronique ou passer au pivot",
+    "titre_court": "Modernisation de l'aspersion",
+    "description": "Équipez vos enrouleurs d'une régulation électronique de la vitesse, ou passez à un pivot ou une rampe à asperseurs basse pression lors d'un renouvellement. La dose devient plus homogène sur la parcelle et moins sensible au vent, ce qui évite de surirriguer pour compenser les zones mal arrosées.",
+    "categorie": "ameliorer_efficacite_hydrique",
+    "secteurs": [
+      "grandes_cultures"
+    ],
+    "effort": {
+      "capex": "moyen",
+      "opex": "faible",
+      "humain": "faible"
+    },
+    "impact_eau": 2,
+    "facilite": 2,
+    "horizon": "court_terme",
+    "image": null,
+    "infos_complementaires": [
+      {
+        "type": "avertissement",
+        "texte": "La régulation électronique ne rend la dose homogène que si la pression au canon est stable : faites vérifier la pompe et le réseau avant d'investir."
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "description",
+        "url": "https://lot.chambres-agriculture.fr/fileadmin/user_upload/282_chambre_dagriculture_-_lot/Documents/Bulletins/Irrigation/Newsletter1.pub.pdf",
+        "extrait": "La régulation électronique limite la variation de vitesse d'enroulement à moins de 5 % et rend la dose plus homogène si la pression au canon est stable (lu par extrait, à relire)."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://lot.chambres-agriculture.fr/fileadmin/user_upload/282_chambre_dagriculture_-_lot/Documents/Bulletins/Irrigation/Newsletter1.pub.pdf",
+        "extrait": "Condition de pression stable au canon."
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "ACT_GCU_004",
+    "titre": "Convertir une partie de la sole irriguée au goutte-à-goutte",
+    "titre_court": "Goutte-à-goutte",
+    "description": "Équipez en goutte-à-goutte, enterré ou de surface, les parcelles où l'eau rapporte le plus (semences, pomme de terre, tabac). L'irrigation localisée réduit les pertes par évaporation et reste autorisée plus longtemps que l'aspersion en cas d'arrêté sécheresse.",
+    "categorie": "ameliorer_efficacite_hydrique",
+    "secteurs": [
+      "grandes_cultures"
+    ],
+    "effort": {
+      "capex": "important",
+      "opex": "moyen",
+      "humain": "moyen"
+    },
+    "impact_eau": 3,
+    "facilite": 1,
+    "horizon": "moyen_terme",
+    "image": null,
+    "infos_complementaires": [
+      {
+        "type": "info",
+        "texte": "L'irrigation localisée reste autorisée jusqu'à l'alerte renforcée, et n'est interdite en crise que hors semences et plants, quand l'aspersion est coupée dès l'alerte sur une partie de la journée.",
+        "lien": "https://www.ecologie.gouv.fr/politiques-publiques/origine-gestion-secheresse",
+        "lien_label": "Ministère de la Transition écologique"
+      },
+      {
+        "type": "retour_experience",
+        "texte": "Sur maïs, l'essai de goutte-à-goutte enterré de la chambre d'agriculture des Landes a reçu 2 000 m3/ha en 2018 contre 2 380 pour le pivot témoin, avec des rendements parfois inférieurs.",
+        "lien": "https://cmds.chambre-agriculture.fr/fileadmin/user_upload/National/FAL_commun/publications/Nouvelle-Aquitaine/40_experimentations2018_essai_goutte_goutte.pdf",
+        "lien_label": "Chambre d'agriculture des Landes, 2018"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "description",
+        "url": "https://www.ecologie.gouv.fr/politiques-publiques/origine-gestion-secheresse",
+        "extrait": "L'irrigation localisée reste autorisée jusqu'à l'alerte renforcée."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://cmds.chambre-agriculture.fr/fileadmin/user_upload/National/FAL_commun/publications/Nouvelle-Aquitaine/40_experimentations2018_essai_goutte_goutte.pdf",
+        "extrait": "Goutte-à-goutte enterré sur maïs : 2 000 m3/ha en 2018 contre 2 380 pour le pivot témoin, plus de 25 % d'eau économisée en moyenne sur cinq ans avec des baisses de rendement (lu par extrait, à relire)."
+      },
+      {
+        "champ": "description",
+        "url": "https://www-rec.franceagrimer.fr/content/download/30042/document/Plan_strategique_filiere_Tabac.pdf",
+        "extrait": "Le plan de filière tabac prévoit de développer le goutte-à-goutte (lu par extrait)."
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "ACT_GCU_005",
+    "titre": "Introduire dans l'assolement des cultures moins exigeantes en eau",
+    "titre_court": "Assolement économe en eau",
+    "description": "Faites une plus grande place aux cultures d'hiver, qui bouclent l'essentiel de leur cycle avant l'été, et au sorgho ou au tournesol à la place du maïs ou d'autres cultures de printemps exigeantes. Pour une année sèche, Terres Inovia retient 140 mm d'irrigation pour le sorgho et 100 mm pour le tournesol, contre 240 mm pour le maïs.",
+    "categorie": "changer_process_pratiques",
+    "secteurs": [
+      "grandes_cultures"
+    ],
+    "effort": {
+      "capex": "faible",
+      "opex": "moyen",
+      "humain": "important"
+    },
+    "impact_eau": 3,
+    "facilite": 1,
+    "horizon": "moyen_terme",
+    "image": null,
+    "infos_complementaires": [
+      {
+        "type": "info",
+        "texte": "En sec, il faut 20 q/ha de tournesol contre 57 q/ha de maïs ou de sorgho pour dégager 500 euros de marge brute, et le tournesol s'est montré robuste en 2019 et 2020, deux années très sèches.",
+        "lien": "https://www.terre-net.fr/terres-inovia/article/173461/evaluer-la-rentabilite-du-tournesol-pour-mieux-saisir-son-interet-et-sa-robustes",
+        "lien_label": "Terres Inovia, 2022"
+      },
+      {
+        "type": "avertissement",
+        "texte": "Vérifiez les débouchés et le matériel de récolte avant de changer d'assolement : une culture sans acheteur proche ou sans contrat ne remplace pas le maïs."
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "description",
+        "url": "https://www.terre-net.fr/terres-inovia/article/173461/evaluer-la-rentabilite-du-tournesol-pour-mieux-saisir-son-interet-et-sa-robustes",
+        "extrait": "Année sèche : 240 mm d'irrigation pour le maïs, 140 mm pour le sorgho, 100 mm pour le tournesol (article signé Terres Inovia)."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.terre-net.fr/terres-inovia/article/173461/evaluer-la-rentabilite-du-tournesol-pour-mieux-saisir-son-interet-et-sa-robustes",
+        "extrait": "20 q/ha de tournesol contre 57 q/ha de maïs ou de sorgho pour 500 euros de marge brute en sec."
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "ACT_GCU_006",
+    "titre": "Choisir variétés et dates de semis pour esquiver la sécheresse estivale",
+    "titre_court": "Esquive de la sécheresse",
+    "description": "Choisissez des variétés plus précoces et avancez les semis quand le sol le permet, pour que les stades sensibles tombent avant les fortes chaleurs. Le gain varie de 0 à 30 mm d'eau selon les années, irrigation ou non, au prix d'un rendement plafonné en année pluvieuse.",
+    "categorie": "changer_process_pratiques",
+    "secteurs": [
+      "grandes_cultures"
+    ],
+    "effort": {
+      "capex": "faible",
+      "opex": "faible",
+      "humain": "faible"
+    },
+    "impact_eau": 2,
+    "facilite": 3,
+    "horizon": "immediat",
+    "image": null,
+    "infos_complementaires": [
+      {
+        "type": "info",
+        "texte": "Sur maïs, la période à protéger en priorité va du stade 15 feuilles à 10 ou 15 jours après la floraison femelle, soit en général juillet, en pleine période d'arrêtés sécheresse.",
+        "lien": "https://www.arvalis.fr/infos-techniques/mais-comment-adapter-lirrigation-en-cas-de-ressources-en-eau-limitees",
+        "lien_label": "Arvalis, 2023"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "description",
+        "url": "https://www.arvalis.fr/infos-techniques/adapter-les-pratiques-culturales-au-changement-climatique",
+        "extrait": "Variétés plus précoces : enjeu entre 0 et 30 mm d'eau selon les années, renoncement aux rendements des variétés tardives en année pluvieuse."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.arvalis.fr/infos-techniques/mais-comment-adapter-lirrigation-en-cas-de-ressources-en-eau-limitees",
+        "extrait": "Période à protéger : du stade 15 feuilles à 10 à 15 jours après la floraison femelle."
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "ACT_GCU_007",
+    "titre": "Gérer couverts et matière organique pour préserver la réserve en eau du sol",
+    "titre_court": "Sols et couverts",
+    "description": "Entretenez la matière organique et gérez les couverts d'interculture en les détruisant trois à quatre semaines avant un semis de printemps. Le sol garde mieux l'eau de l'hiver, ce qui compte d'abord pour les parcelles en sec et à faible réserve utile.",
+    "categorie": "changer_process_pratiques",
+    "secteurs": [
+      "grandes_cultures"
+    ],
+    "effort": {
+      "capex": "faible",
+      "opex": "moyen",
+      "humain": "moyen"
+    },
+    "impact_eau": 1,
+    "facilite": 2,
+    "horizon": "moyen_terme",
+    "image": null,
+    "infos_complementaires": [
+      {
+        "type": "avertissement",
+        "texte": "Un couvert détruit trop tard consomme l'eau du sol au détriment de la culture suivante : Arvalis juge difficile de conclure à une économie d'eau d'irrigation grâce au couvert seul, et recommande un compromis entre biomasse et levée.",
+        "lien": "https://www.arvalis.fr/infos-techniques/quel-est-leffet-des-couverts-sur-la-teneur-en-eau-des-sols",
+        "lien_label": "Arvalis, 2022"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "description",
+        "url": "https://www.arvalis.fr/infos-techniques/quel-est-leffet-des-couverts-sur-la-teneur-en-eau-des-sols",
+        "extrait": "Destruction du couvert trois à quatre semaines avant le semis du maïs."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.arvalis.fr/infos-techniques/mais-comment-adapter-lirrigation-en-cas-de-ressources-en-eau-limitees",
+        "extrait": "Une interculture détruite tardivement réduit la réserve du sol au départ."
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "ACT_GCU_008",
+    "titre": "Substituer ses prélèvements d'été par une retenue remplie en hiver",
+    "titre_court": "Stockage hivernal",
+    "description": "Remplacez une partie de vos pompages d'été en rivière ou en nappe par une retenue remplie en hiver, de préférence dans un projet de territoire. Vous sécurisez la campagne face aux restrictions et vous réduisez les prélèvements au moment où les milieux en ont le plus besoin.",
+    "categorie": "valoriser_reut_eaux_non_conventionnelles",
+    "secteurs": [
+      "grandes_cultures"
+    ],
+    "effort": {
+      "capex": "important",
+      "opex": "moyen",
+      "humain": "important"
+    },
+    "impact_eau": 2,
+    "facilite": 1,
+    "horizon": "moyen_terme",
+    "image": null,
+    "infos_complementaires": [
+      {
+        "type": "avertissement",
+        "texte": "Une retenue relève de la loi sur l'eau (déclaration ou autorisation), et les agences de l'eau ne financent pour l'irrigation que la part qui substitue des prélèvements d'étiage, dans un projet de territoire pour la gestion de l'eau.",
+        "lien": "https://aida.ineris.fr/reglementation/instruction-gouvernement-070519-relative-projet-territoire-gestion-leau",
+        "lien_label": "Instruction du 7 mai 2019"
+      },
+      {
+        "type": "info",
+        "texte": "La Cour des comptes recommande de conditionner le financement public de la sécurisation de l'irrigation à des engagements de réduction des prélèvements.",
+        "lien": "https://www.ccomptes.fr/fr/documents/65540",
+        "lien_label": "Cour des comptes, 2023"
+      },
+      {
+        "type": "info",
+        "texte": "L'irrigation avec des eaux usées traitées est une autre ressource de substitution, autorisée par le préfet et encadrée depuis 2023, à envisager collectivement près d'une station d'épuration.",
+        "lien": "https://www.services.eaufrance.fr/REUT",
+        "lien_label": "Eaufrance"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "description",
+        "url": "https://aida.ineris.fr/reglementation/instruction-gouvernement-070519-relative-projet-territoire-gestion-leau",
+        "extrait": "Les agences de l'eau ne financent, pour l'irrigation, que la part des ouvrages qui substitue des prélèvements d'étiage."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://www.ccomptes.fr/fr/documents/65540",
+        "extrait": "Conditionner le financement public de la sécurisation de l'irrigation à des engagements de réduction des prélèvements."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://agriculture.gouv.fr/publication-de-larrete-reut-irrigation-relatif-aux-conditions-de-production-et-dutilisation-des",
+        "extrait": "Arrêté REUT irrigation de 2023 : qualité requise selon l'usage, autorisation préfectorale."
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "ACT_GCU_009",
+    "titre": "Aménager une aire de remplissage et de lavage du pulvérisateur",
+    "titre_court": "Aire de lavage",
+    "description": "Installez une aire étanche pour remplir et laver le pulvérisateur, reliée à un dispositif de traitement des effluents phytosanitaires. Vous évitez que les fonds de cuve et les eaux de rinçage rejoignent les fossés, les rivières et les nappes, irrigation ou non.",
+    "categorie": "agir_rejets_qualite",
+    "secteurs": [
+      "grandes_cultures"
+    ],
+    "effort": {
+      "capex": "moyen",
+      "opex": "faible",
+      "humain": "faible"
+    },
+    "impact_eau": 1,
+    "facilite": 2,
+    "horizon": "court_terme",
+    "image": null,
+    "infos_complementaires": [
+      {
+        "type": "avertissement",
+        "texte": "L'arrêté du 4 mai 2017 encadre la gestion des fonds de cuve et des eaux de rinçage, et impose de protéger le point de remplissage contre les retours d'eau et les débordements.",
+        "lien": "https://cmds.chambre-agriculture.fr/fileadmin/user_upload/Nouvelle-Aquitaine/208_Inst-cmds/Actualites/2023/Documents/Guide_technique_platforme_230412.pdf",
+        "lien_label": "Chambres d'agriculture de Nouvelle-Aquitaine, 2023"
+      },
+      {
+        "type": "ressource",
+        "texte": "Guide technique : plateforme de remplissage et de lavage (chambres d'agriculture de Nouvelle-Aquitaine)",
+        "lien": "https://cmds.chambre-agriculture.fr/fileadmin/user_upload/Nouvelle-Aquitaine/208_Inst-cmds/Actualites/2023/Documents/Guide_technique_platforme_230412.pdf"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "description",
+        "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2017-05/2014-synth-c-aire-de-lavage.pdf",
+        "extrait": "Aire équipée d'un procédé de traitement : limite les fuites vers les rivières et les nappes (lu par extrait, à relire)."
+      },
+      {
+        "champ": "infos_complementaires",
+        "url": "https://cmds.chambre-agriculture.fr/fileadmin/user_upload/Nouvelle-Aquitaine/208_Inst-cmds/Actualites/2023/Documents/Guide_technique_platforme_230412.pdf",
+        "extrait": "Arrêté du 4 mai 2017 : effluents phytosanitaires, sécurisation du remplissage (lu par extrait, à relire)."
+      }
+    ],
+    "date_maj": "2026-10-15"
+  },
+  {
+    "id": "ACT_GCU_010",
+    "titre": "Planter des haies brise-vent pour limiter l'évaporation et l'érosion",
+    "titre_court": "Haies brise-vent",
+    "description": "Plantez des haies en bordure et à l'intérieur des grandes parcelles exposées au vent. Elles freinent l'évaporation et l'érosion, et protègent du vent desséchant les cultures en sec comme irriguées, sur les plateaux ouverts en particulier.",
+    "categorie": "agir_grand_cycle",
+    "secteurs": [
+      "grandes_cultures"
+    ],
+    "effort": {
+      "capex": "moyen",
+      "opex": "faible",
+      "humain": "moyen"
+    },
+    "impact_eau": 1,
+    "facilite": 2,
+    "horizon": "moyen_terme",
+    "image": null,
+    "infos_complementaires": [
+      {
+        "type": "info",
+        "texte": "Le pacte national en faveur de la haie vise un gain net de 50 000 km de haies d'ici 2030.",
+        "lien": "https://www.ecologie.gouv.fr/presse/presentation-sarah-el-hairy-marc-fesneau-du-pacte-faveur-haie-dote-dun-budget-110-meur-2024",
+        "lien_label": "Ministère de la Transition écologique, 2023"
+      }
+    ],
+    "statut": "brouillon",
+    "sources": [
+      {
+        "champ": "description",
+        "url": "https://www.ecologie.gouv.fr/presse/presentation-sarah-el-hairy-marc-fesneau-du-pacte-faveur-haie-dote-dun-budget-110-meur-2024",
+        "extrait": "Les haies réduisent l'érosion et ont un effet brise-vent et anti-sécheresse en limitant l'évaporation."
+      }
+    ],
+    "date_maj": "2026-10-15"
+  }
+]

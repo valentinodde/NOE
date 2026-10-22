@@ -1,0 +1,67 @@
+{
+  "id": "PREST_HOT_006",
+  "nom": "FHOR",
+  "type": "organisme_formation",
+  "logo_url": null,
+  "siret": "98143541500014",
+  "description": "Organisme de formation bordelais certifié Qualiopi, constitué en entreprise individuelle et spécialisé dans l'hôtellerie et la restauration. Il dispense la formation aux écogestes exigée du personnel par le classement hôtelier, qui couvre l'eau, l'énergie et les déchets, avec une partie « Maîtriser la consommation d'eau » (état des lieux, bonnes pratiques à adopter), en 4 heures en visioconférence pour 1 à 10 participants, le programme et le format pouvant être adaptés. Le tarif indicatif affiché est de 650 euros, sur devis, avec une prise en charge possible par votre OPCO ; l'organisme intervient en France et dans les pays francophones.",
+  "expertises": [
+    "Formation écogestes classement hôtelier",
+    "Bonnes pratiques de consommation d'eau"
+  ],
+  "categories": [
+    "sensibiliser_former"
+  ],
+  "secteurs": ["hotellerie"],
+  "departements": [],
+  "mesures": [
+    { "id": "ACT_HOT_002", "roles": ["formation"] }
+  ],
+  "contacts": [
+    { "type": "site_internet", "value": "https://www.fhor.fr/" },
+    { "type": "tel", "value": "05 81 04 83 83" },
+    { "type": "tel", "value": "05 47 29 27 70" },
+    { "type": "mail", "value": "contact@fhor.fr" },
+    { "type": "adresse", "value": "5 rue Fénelon, 33000 Bordeaux" }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "siret",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=981435415&departement=33",
+      "date": "2026-09-24",
+      "extrait": "siren 981435415, siret 98143541500014, siège, nom et adresse [NON-DIFFUSIBLE], nature juridique 1000, activité 85.59A, état administratif A"
+    },
+    {
+      "champ": "siret, type, description (entreprise individuelle), contacts (tel 05 47 29 27 70, mail, adresse)",
+      "url": "https://www.fhor.fr/mentions-legales/",
+      "date": "2026-09-24",
+      "extrait": "Propriétaire du site : FHOR, Contact : contact[@]fhor.fr, 0547292770, Adresse : 5 rue Fénelon, 33000 Bordeaux. Identification de l'entreprise : EI FHOR, SIREN : 981.435.415"
+    },
+    {
+      "champ": "contacts",
+      "url": "https://www.fhor.fr/contact/",
+      "date": "2026-09-24",
+      "extrait": "Contactez-Nous 05 81 04 83 83 contact[@]fhor.fr 5 rue Fénelon 33000 Bordeaux [...] (pied de page) 05 47 29 27 70 contact[@]fhor.fr 5 rue Fénelon, 33000 Bordeaux"
+    },
+    {
+      "champ": "type, description, departements",
+      "url": "https://www.fhor.fr/nous-connaitre/",
+      "date": "2026-09-24",
+      "extrait": "FHOR est certifié Qualiopi [...] Restaurateurs et hôteliers, nous vous accompagnons pour la création et le développement de vos établissements. Nous intervenons en France et dans les pays francophones."
+    },
+    {
+      "champ": "description, expertises, mesures (ACT_HOT_002 formation)",
+      "url": "https://www.fhor.fr/service/ecogestes-en-hotellerie-formation/",
+      "date": "2026-09-24",
+      "extrait": "Ecogestes : eau, énergie, déchets (Classement hôtelier) 650 € [...] Identifier les sources de gaspillage et les leviers d'économie d'eau et d'énergie [...] 3) Maîtriser la consommation d'eau : Etat des lieux, Bonnes pratiques à adopter [...] Durée 4 heures. Format Distanciel (visioconférence). Public cible L'ensemble du personnel de l'établissement [...] 1 à 10 participants par session [...] prise en charge par votre OPCO"
+    },
+    {
+      "champ": "mesures (ACT_HOT_002 formation, contexte : article général de FHOR sur le contenu attendu de la formation écogestes, pas le programme)",
+      "url": "https://www.fhor.fr/hotellerie/formation-classement-hotelier-ecogestes-et-handicap/",
+      "date": "2026-09-24",
+      "extrait": "Gestion de l'eau : Sensibiliser à la consommation d'eau (robinets, douches, toilettes), à la détection des fuites et à l'utilisation de systèmes économes en eau."
+    }
+  ],
+  "date_maj": "2026-09-24"
+}

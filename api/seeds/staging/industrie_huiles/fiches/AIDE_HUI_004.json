@@ -1,0 +1,94 @@
+{
+  "id": "AIDE_HUI_004",
+  "nom": "DECARB FLASH 2025-2027 (ADEME, France 2030)",
+  "financeur": "ADEME, Agence de la transition écologique",
+  "logo_url": null,
+  "type": "subvention",
+  "taux": "Selon la nature du projet",
+  "plafond": null,
+  "description": "Appel à projets national de l'ADEME qui finance la décarbonation des activités industrielles en agissant sur la baisse de la consommation énergétique des procédés de production, l'électrification des équipements industriels et l'isolation thermique des bâtiments. Seules les opérations de la liste du dispositif sont éligibles. C'est une aide énergie et climat, pas une aide à l'eau : pour un site de trituration, de raffinage ou un fondoir, son intérêt côté eau tient à l'opération « Installation de lignes de retours condensats sur les circuits vapeur », qui permet de renvoyer les condensats à la chaufferie au lieu de les perdre. Le refroidissement en circuit fermé ne figure pas dans la liste.",
+  "eligibilite": "Sites industriels de PME, ainsi que sites industriels de grandes entreprises non soumis à la directive EU-ETS, en France et dans les territoires d'outre-mer. Le coût total des opérations doit être compris entre 100 k€ (25 k€ en Corse et Outre-mer) et 3 M€. Un audit énergétique de moins de 4 ans ou une étude d'opportunité d'évolution du mix énergétique (programme PACTE Industrie) doit avoir été réalisé. Les activités agricoles sont exclues, sauf celles relevant de l'industrie agro-alimentaire.",
+  "categories": [
+    "valoriser_reut_eaux_non_conventionnelles"
+  ],
+  "secteurs": [
+    "industrie_huiles"
+  ],
+  "departements": [],
+  "agences": [],
+  "mesures": [
+    "ACT_HUI_005"
+  ],
+  "infos_complementaires": [
+    {
+      "type": "avertissement",
+      "texte": "L'investissement ne doit pas avoir été réalisé au moment du dépôt de la demande. Une réunion de pré-dépôt avec l'ADEME doit être organisée au moins un mois avant le dépôt du dossier, sur la base de la trame de présentation mise à disposition par l'ADEME (contact : decarb.flash@ademe.fr)."
+    },
+    {
+      "type": "avertissement",
+      "texte": "Sans audit énergétique de moins de 4 ans ou étude d'opportunité PACTE Industrie, le projet n'est pas éligible : prévoyez cet audit avant de monter le dossier."
+    },
+    {
+      "type": "info",
+      "texte": "Le dispositif est ouvert jusqu'au 15/02/2027. Le dossier se dépose en ligne sur la plateforme de l'ADEME, après création d'un compte ADEME. La liste des opérations éligibles peut évoluer : vérifiez celle en vigueur dans les documents de l'ADEME avant de monter le dossier."
+    },
+    {
+      "type": "ressource",
+      "texte": "Page du dispositif sur le site de l'ADEME (cahier des charges, liste des actions éligibles, contacts en région)",
+      "lien": "https://agirpourlatransition.ademe.fr/entreprises/aides-financieres/catalogue/aap/decarb-flash-2025-2027",
+      "lien_label": "Voir le dispositif"
+    },
+    {
+      "type": "ressource",
+      "texte": "Fiche du dispositif sur la plateforme Transition écologique des entreprises, avec la liste des opérations éligibles",
+      "lien": "https://mission-transition-ecologique.beta.gouv.fr/aides-entreprise/decarb-flash-2025-2027",
+      "lien_label": "Consulter la fiche"
+    }
+  ],
+  "statut": "brouillon",
+  "sources": [
+    {
+      "champ": "financeur, taux, eligibilite, description",
+      "url": "https://mission-transition-ecologique.beta.gouv.fr/aides-entreprise/decarb-flash-2025-2027",
+      "date": "2026-09-27",
+      "extrait": "Financez la décarbonation de vos activités industrielles grâce à cet appel à projet, en agissant sur : La baisse de la consommation énergétique dans les procédés de production ; L'électrification des équipements industriels ; L'isolation thermique de vos bâtiments. [...] Montant du financement Selon la nature du projet. Contact ADEME, Agence de la transition écologique"
+    },
+    {
+      "champ": "eligibilite",
+      "url": "https://mission-transition-ecologique.beta.gouv.fr/aides-entreprise/decarb-flash-2025-2027",
+      "date": "2026-09-27",
+      "extrait": "France et territoires d'outre-mer. [...] les activités agricoles (sauf celles relevant de l'industrie agro-alimentaire) [...] Le coût total des opérations doit être compris entre 100 k€ (25 k€ en Corse et Outre-mer) et 3 M€. L'appel à projet concerne les sites industriels appartenant à des PME, ainsi qu'à ceux appartenant à des Grandes Entreprises (non soumises à la directive EU-ETS)."
+    },
+    {
+      "champ": "mesures, description",
+      "url": "https://mission-transition-ecologique.beta.gouv.fr/aides-entreprise/decarb-flash-2025-2027",
+      "date": "2026-09-27",
+      "extrait": "Les projets éligibles sont les suivants : [...] Installation de purgeurs vapeur sur les circuits vapeur ; Installation de lignes de retours condensats sur les circuits vapeur ; Installation de lignes de retours sur les circuits des NEP [...]"
+    },
+    {
+      "champ": "infos_complementaires",
+      "url": "https://mission-transition-ecologique.beta.gouv.fr/aides-entreprise/decarb-flash-2025-2027",
+      "date": "2026-09-27",
+      "extrait": "Contactez l'ADEME pour planifier une réunion de pré-dépôt du dossier (au moins un mois avant la date limite de dépôt). [...] Créez un compte ADEME pour pouvoir déposer votre dossier. [...] À ce stade, votre investissement ne doit pas avoir été réalisé ! [...] Date de fin de l'aide Disponible jusqu'au 15/02/2027"
+    },
+    {
+      "champ": "type, nom, eligibilite",
+      "url": "https://www.invest-in-nord-franche-comte.fr/fr/newsletter-adnfc/decarb-flash2025-2027/",
+      "date": "2026-09-27",
+      "extrait": "L'Appel à Projets DECARB-FLASH, qui s'inscrit dans le cadre de France 2030, est reconduit jusqu'au 15 février 2027. [...] DECARB-FLASH est octroyé sous forme de subvention [...] Un audit énergétique de moins de 4 ans ou une étude d'opportunité d'évolution du mix énergétique (programme PACTE Industrie) devront être réalisés"
+    },
+    {
+      "champ": "infos_complementaires",
+      "url": "https://www.invest-in-nord-franche-comte.fr/fr/newsletter-adnfc/decarb-flash2025-2027/",
+      "date": "2026-09-27",
+      "extrait": "Une réunion de pré-dépôt doit être organisé en une présentation par le porteur du projet à l'adresse suivante : decarb.flash@ademe.fr. Cette présentation doit s'appuyer sur la « trame de présentation de dossier en pré-dépôt », disponible sur la plateforme ADEME AGIR et doit se dérouler 1 mois au minimum avant le dépôt du dossier."
+    },
+    {
+      "champ": "nom",
+      "url": "https://www.savoie.gouv.fr/Actions-de-l-Etat/Entreprises-innovez-avec-France-2030/Les-appels-a-candidature-et-appels-a-projet-en-cours",
+      "date": "2026-09-27",
+      "extrait": "Entreprises : innovez avec France 2030 > Les appels à candidature et appels à projet en cours [...] DECARB FLASH 2025-2027 - du 10 avril 2025 au 15 février 2027 : Pour accompagner des petits projets de décarbonation de sites industriels, dont le coût est compris entre 100 K€ et 3 M€"
+    }
+  ],
+  "date_maj": "2026-09-27"
+}

@@ -1,0 +1,808 @@
+{
+  "sector_id": "elevage_herbivores",
+  "sector_label": "Élevage d'herbivores",
+  "naf_codes": [
+    "01.41Z",
+    "01.42Z",
+    "01.43Z",
+    "01.44Z",
+    "01.45Z",
+    "01.50Z"
+  ],
+  "themes": [
+    {
+      "id": "connaissance",
+      "label": "Connaissance & mesure"
+    },
+    {
+      "id": "abreuvement",
+      "label": "Abreuvement"
+    },
+    {
+      "id": "traite",
+      "label": "Traite"
+    },
+    {
+      "id": "anticipation",
+      "label": "Fourrages & anticipation"
+    }
+  ],
+  "questions": [
+    {
+      "id": "hrb_q01",
+      "theme": "connaissance",
+      "order": 1,
+      "type": "single_choice",
+      "text": "Comment suivez-vous la consommation d'eau de votre élevage ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "aucun_suivi",
+          "text": "Je ne la suis pas, ou seulement par la facture",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "connaissance"
+          ]
+        },
+        {
+          "id": "compteur_general",
+          "text": "Je relève le compteur général de temps en temps",
+          "maturity_score": 1,
+          "concern_score": 1,
+          "topics": [
+            "connaissance"
+          ]
+        },
+        {
+          "id": "releve_regulier",
+          "text": "Je relève chaque mois et vérifie la nuit qu'il ne tourne pas",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        },
+        {
+          "id": "compteurs_par_poste",
+          "text": "Des compteurs séparés pour l'abreuvement et la traite",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "hrb_q02",
+      "theme": "connaissance",
+      "order": 2,
+      "type": "multi_choice",
+      "class": "source_eau",
+      "text": "D'où vient l'eau de votre élevage ? (plusieurs réponses possibles)",
+      "condition": null,
+      "options": [
+        {
+          "id": "reseau",
+          "text": "Le réseau public d'eau potable",
+          "maturity_score": 0,
+          "concern_score": 1,
+          "topics": [
+            "ressources"
+          ]
+        },
+        {
+          "id": "forage",
+          "text": "Un forage, un puits ou une source captée",
+          "maturity_score": 1,
+          "concern_score": 1,
+          "topics": []
+        },
+        {
+          "id": "milieu_naturel",
+          "text": "Un ruisseau, une mare ou une source au pré",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": []
+        },
+        {
+          "id": "pluie",
+          "text": "L'eau de pluie récupérée des toitures",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "hrb_q03",
+      "theme": "connaissance",
+      "order": 3,
+      "type": "single_choice",
+      "text": "Avez-vous fait faire un diagnostic eau de votre élevage (chambre d'agriculture, conseiller) ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "jamais",
+          "text": "Non",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "connaissance"
+          ]
+        },
+        {
+          "id": "envisage",
+          "text": "Non, mais j'y ai déjà pensé",
+          "maturity_score": 0,
+          "concern_score": 2,
+          "topics": [
+            "connaissance"
+          ]
+        },
+        {
+          "id": "ancien",
+          "text": "Oui, il y a plus de cinq ans",
+          "maturity_score": 1,
+          "concern_score": 2,
+          "topics": [
+            "connaissance"
+          ]
+        },
+        {
+          "id": "recent",
+          "text": "Oui, il y a moins de cinq ans",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "hrb_q04",
+      "theme": "abreuvement",
+      "order": 4,
+      "type": "single_choice",
+      "text": "Comment entretenez-vous les abreuvoirs et le réseau d'eau de vos bâtiments ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "sans_batiment",
+          "text": "Mes animaux vivent toujours dehors, sans bâtiment",
+          "maturity_score": 2,
+          "concern_score": 1,
+          "topics": []
+        },
+        {
+          "id": "reparation_a_vue",
+          "text": "Je répare quand une fuite ou un débordement se voit",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "abreuvement"
+          ]
+        },
+        {
+          "id": "controle_occasionnel",
+          "text": "Je les nettoie et les contrôle de temps en temps",
+          "maturity_score": 1,
+          "concern_score": 1,
+          "topics": [
+            "abreuvement"
+          ]
+        },
+        {
+          "id": "vannes_et_controle",
+          "text": "Vannes avant chaque abreuvoir, nettoyage et contrôle réguliers",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "hrb_q05",
+      "theme": "abreuvement",
+      "order": 5,
+      "type": "single_choice",
+      "text": "Comment vos animaux s'abreuvent-ils quand ils sont au pâturage ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "pas_de_paturage",
+          "text": "Mes animaux ne pâturent pas, ils restent en bâtiment",
+          "maturity_score": 2,
+          "concern_score": 1,
+          "topics": []
+        },
+        {
+          "id": "acces_direct",
+          "text": "Directement au ruisseau, à la mare ou à la source",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "paturage"
+          ]
+        },
+        {
+          "id": "tonne_ou_partiel",
+          "text": "Tonne à eau, ou abreuvoirs sur une partie des parcelles",
+          "maturity_score": 1,
+          "concern_score": 1,
+          "topics": [
+            "paturage"
+          ]
+        },
+        {
+          "id": "reseau_et_reserve",
+          "text": "Abreuvoirs raccordés partout et réserve de secours",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "hrb_q06",
+      "theme": "traite",
+      "order": 6,
+      "type": "single_choice",
+      "text": "Trayez-vous vos animaux, et comment est réglé le lavage de l'installation de traite ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "sans_traite",
+          "text": "Je ne trais pas",
+          "maturity_score": 2,
+          "concern_score": 1,
+          "topics": []
+        },
+        {
+          "id": "reglages_origine",
+          "text": "Je trais, réglages de lavage d'origine jamais revus",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "traite"
+          ]
+        },
+        {
+          "id": "controle_annuel",
+          "text": "Je trais, lavage vérifié au contrôle annuel de la machine",
+          "maturity_score": 1,
+          "concern_score": 1,
+          "topics": [
+            "traite"
+          ]
+        },
+        {
+          "id": "volumes_mesures",
+          "text": "Je trais, volumes de lavage mesurés et gestes communs aux trayeurs",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "hrb_q07",
+      "theme": "traite",
+      "order": 7,
+      "type": "single_choice",
+      "text": "Que devient l'eau qui refroidit le lait dans votre prérefroidisseur ?",
+      "condition": {
+        "questionId": "hrb_q06",
+        "operator": "in",
+        "value": [
+          "reglages_origine",
+          "controle_annuel",
+          "volumes_mesures"
+        ]
+      },
+      "options": [
+        {
+          "id": "sans_prerefroidisseur",
+          "text": "Je n'ai pas de prérefroidisseur",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "ressources"
+          ]
+        },
+        {
+          "id": "a_l_egout",
+          "text": "Elle part à l'égout, au fossé ou à la fosse",
+          "maturity_score": 1,
+          "concern_score": 1,
+          "topics": [
+            "ressources"
+          ]
+        },
+        {
+          "id": "reutilisation_partielle",
+          "text": "Elle va en partie aux abreuvoirs ou au lavage",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        },
+        {
+          "id": "reutilisation_complete",
+          "text": "Elle est stockée et entièrement réutilisée",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "hrb_q08",
+      "theme": "traite",
+      "order": 8,
+      "type": "single_choice",
+      "text": "Où partent les eaux de lavage de la salle de traite (eaux blanches et vertes) ?",
+      "condition": {
+        "questionId": "hrb_q06",
+        "operator": "in",
+        "value": [
+          "reglages_origine",
+          "controle_annuel",
+          "volumes_mesures"
+        ]
+      },
+      "options": [
+        {
+          "id": "rejet_direct",
+          "text": "Au fossé, au réseau pluvial ou au milieu",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "effluents"
+          ]
+        },
+        {
+          "id": "avec_lisier",
+          "text": "Dans la fosse, avec le lisier ou le purin",
+          "maturity_score": 1,
+          "concern_score": 1,
+          "topics": [
+            "effluents"
+          ]
+        },
+        {
+          "id": "stockage_separe",
+          "text": "Dans un stockage à part, épandu séparément",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        },
+        {
+          "id": "traitement_dedie",
+          "text": "Dans une filière de traitement dédiée (filtre planté, bassin)",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "hrb_q09",
+      "theme": "anticipation",
+      "order": 9,
+      "type": "single_choice",
+      "text": "Comment sécurisez-vous l'alimentation du troupeau face aux sécheresses d'été ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "achat_si_besoin",
+          "text": "J'achète du fourrage quand l'herbe vient à manquer",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "fourrage"
+          ]
+        },
+        {
+          "id": "stock_annuel",
+          "text": "Je fais mes stocks d'hiver, sans marge pour l'été",
+          "maturity_score": 1,
+          "concern_score": 1,
+          "topics": [
+            "fourrage"
+          ]
+        },
+        {
+          "id": "stock_securite",
+          "text": "Je garde un stock de sécurité d'une année sur l'autre",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        },
+        {
+          "id": "systeme_adapte",
+          "text": "Stock de sécurité et prairies ou fourrages résistants",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "hrb_q10",
+      "theme": "anticipation",
+      "order": 10,
+      "type": "single_choice",
+      "text": "Savez-vous comment abreuver et nourrir le troupeau si un point d'eau tarit ou si un arrêté tombe ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "pas_regarde",
+          "text": "Je n'y ai pas réfléchi",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "anticipation"
+          ]
+        },
+        {
+          "id": "sur_le_moment",
+          "text": "Je m'organise sur le moment (tonne, achats)",
+          "maturity_score": 1,
+          "concern_score": 2,
+          "topics": [
+            "anticipation"
+          ]
+        },
+        {
+          "id": "solutions_identifiees",
+          "text": "J'ai repéré mes solutions de secours, sans les écrire",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        },
+        {
+          "id": "plan_ecrit",
+          "text": "J'ai un plan écrit : secours en eau, stocks, niveaux d'arrêté",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    },
+    {
+      "id": "hrb_q11",
+      "theme": "anticipation",
+      "order": 11,
+      "type": "single_choice",
+      "text": "Participez-vous à une démarche collective sur l'eau de votre territoire (SAGE, PTGE, contrat de rivière) ?",
+      "condition": null,
+      "options": [
+        {
+          "id": "non",
+          "text": "Non",
+          "maturity_score": 0,
+          "concern_score": 0,
+          "topics": [
+            "collectif"
+          ]
+        },
+        {
+          "id": "informe",
+          "text": "Je suis informé, sans y participer",
+          "maturity_score": 1,
+          "concern_score": 1,
+          "topics": [
+            "collectif"
+          ]
+        },
+        {
+          "id": "via_organisation",
+          "text": "Oui, par ma chambre, ma coopérative ou mon syndicat",
+          "maturity_score": 2,
+          "concern_score": 2,
+          "topics": []
+        },
+        {
+          "id": "participe",
+          "text": "Oui, j'y participe directement",
+          "maturity_score": 3,
+          "concern_score": 3,
+          "topics": []
+        }
+      ]
+    }
+  ],
+  "topics_labels": {
+    "connaissance": "Connaissance des consommations",
+    "ressources": "Ressources alternatives et réutilisation",
+    "abreuvement": "Abreuvoirs et réseau d'eau",
+    "paturage": "Abreuvement au pâturage",
+    "traite": "Lavage de la traite",
+    "effluents": "Eaux blanches et vertes",
+    "fourrage": "Système fourrager",
+    "anticipation": "Anticipation des sécheresses",
+    "collectif": "Démarche collective"
+  },
+  "action_plan_config": {
+    "always_include": [],
+    "never_include": [],
+    "filters": [
+      {
+        "id": "f_suivi_global",
+        "description": "Consommation suivie par la facture ou un seul compteur, même relevé chaque mois : poser des sous-compteurs pour séparer abreuvement et traite (retirés sans traite, où l'abreuvement est le seul usage)",
+        "type": "answer",
+        "questionId": "hrb_q01",
+        "operator": "in",
+        "value": [
+          "aucun_suivi",
+          "compteur_general",
+          "releve_regulier"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_AGR_001"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_suivi_inconnu",
+        "description": "La personne qui répond ne sait pas comment l'eau est suivie : commencer par les sous-compteurs",
+        "type": "answer",
+        "questionId": "hrb_q01",
+        "operator": "not_answered",
+        "effect": "add",
+        "measures": [
+          "ACT_AGR_001"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_sans_eau_de_pluie",
+        "description": "Pas d'eau de pluie parmi les sources : récupérer l'eau des toitures pour l'abreuvement et le lavage",
+        "type": "class",
+        "class": "source_eau",
+        "operator": "not_includes",
+        "value": "pluie",
+        "effect": "add",
+        "measures": [
+          "ACT_AGR_006"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_sans_diagnostic",
+        "description": "Jamais de diagnostic eau, ou un diagnostic de plus de cinq ans : faire réaliser un audit",
+        "type": "answer",
+        "questionId": "hrb_q03",
+        "operator": "in",
+        "value": [
+          "jamais",
+          "envisage",
+          "ancien"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_AGR_002"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_diagnostic_inconnu",
+        "description": "La personne qui répond ne sait pas si un diagnostic a été fait : proposer l'audit comme point d'entrée",
+        "type": "answer",
+        "questionId": "hrb_q03",
+        "operator": "not_answered",
+        "effect": "add",
+        "measures": [
+          "ACT_AGR_002"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_abreuvoirs_non_entretenus",
+        "description": "Abreuvoirs réparés à vue ou contrôlés de temps en temps : équiper de vannes et entretenir pour supprimer fuites et débordements",
+        "type": "answer",
+        "questionId": "hrb_q04",
+        "operator": "in",
+        "value": [
+          "reparation_a_vue",
+          "controle_occasionnel"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_HRB_001"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_sans_batiment",
+        "description": "Animaux toujours dehors, sans bâtiment : retirer l'entretien des abreuvoirs de bâtiment, l'eau de toiture faute de toiture, le sous-comptage et l'audit puisqu'il n'y a ni réseau de bâtiment ni second usage à examiner",
+        "type": "answer",
+        "questionId": "hrb_q04",
+        "operator": "eq",
+        "value": "sans_batiment",
+        "effect": "remove",
+        "measures": [
+          "ACT_HRB_001",
+          "ACT_AGR_006",
+          "ACT_AGR_001",
+          "ACT_AGR_002"
+        ],
+        "priority": 2
+      },
+      {
+        "id": "f_batiment_inconnu",
+        "description": "La personne qui répond ne sait pas comment sont tenus les bâtiments : ne pas proposer l'eau de toiture sans savoir s'il y a une toiture",
+        "type": "answer",
+        "questionId": "hrb_q04",
+        "operator": "not_answered",
+        "effect": "remove",
+        "measures": [
+          "ACT_AGR_006"
+        ],
+        "priority": 2
+      },
+      {
+        "id": "f_abreuvement_au_ruisseau",
+        "description": "Animaux qui boivent directement au ruisseau, à la mare ou à la source : sécuriser l'abreuvement au pâturage et aménager les points d'eau hors du cours d'eau",
+        "type": "answer",
+        "questionId": "hrb_q05",
+        "operator": "eq",
+        "value": "acces_direct",
+        "effect": "add",
+        "measures": [
+          "ACT_HRB_003",
+          "ACT_HRB_007"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_paturage_sans_reseau",
+        "description": "Pâturage abreuvé à la tonne ou sur une partie des parcelles seulement : équiper les pâtures d'un réseau et d'une réserve de secours",
+        "type": "answer",
+        "questionId": "hrb_q05",
+        "operator": "eq",
+        "value": "tonne_ou_partiel",
+        "effect": "add",
+        "measures": [
+          "ACT_HRB_003"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_sans_paturage",
+        "description": "Animaux qui ne pâturent pas : retirer les mesures d'abreuvement au pâturage et de berges",
+        "type": "answer",
+        "questionId": "hrb_q05",
+        "operator": "eq",
+        "value": "pas_de_paturage",
+        "effect": "remove",
+        "measures": [
+          "ACT_HRB_003",
+          "ACT_HRB_007"
+        ],
+        "priority": 2
+      },
+      {
+        "id": "f_lavage_non_optimise",
+        "description": "Lavage de la traite aux réglages d'origine ou seulement vérifié au contrôle annuel, qui ne regarde pas les volumes : régler le lavage et former les trayeurs",
+        "type": "answer",
+        "questionId": "hrb_q06",
+        "operator": "in",
+        "value": [
+          "reglages_origine",
+          "controle_annuel"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_HRB_002"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_sans_traite",
+        "description": "Élevage sans traite : retirer les mesures de la salle de traite (lavage, prérefroidisseur, eaux blanches et vertes) et le sous-comptage, l'abreuvement étant alors le seul usage compté",
+        "type": "answer",
+        "questionId": "hrb_q06",
+        "operator": "eq",
+        "value": "sans_traite",
+        "effect": "remove",
+        "measures": [
+          "ACT_HRB_002",
+          "ACT_HRB_005",
+          "ACT_HRB_006",
+          "ACT_AGR_001"
+        ],
+        "priority": 2
+      },
+      {
+        "id": "f_prerefroidisseur_perdu",
+        "description": "L'eau du prérefroidisseur part à l'égout ou au fossé : la réutiliser pour l'abreuvement et le lavage des quais",
+        "type": "answer",
+        "questionId": "hrb_q07",
+        "operator": "eq",
+        "value": "a_l_egout",
+        "effect": "add",
+        "measures": [
+          "ACT_HRB_005"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_eaux_blanches_melangees",
+        "description": "Eaux de lavage de la traite rejetées ou mêlées au lisier : les collecter et les traiter à part",
+        "type": "answer",
+        "questionId": "hrb_q08",
+        "operator": "in",
+        "value": [
+          "rejet_direct",
+          "avec_lisier"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_HRB_006"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_fourrage_sans_marge",
+        "description": "Fourrage acheté au besoin ou stocks d'hiver sans marge pour l'été : adapter le système fourrager à la sécheresse",
+        "type": "answer",
+        "questionId": "hrb_q09",
+        "operator": "in",
+        "value": [
+          "achat_si_besoin",
+          "stock_annuel"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_HRB_004"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_secheresse_non_anticipee",
+        "description": "Pas de réflexion ou organisation sur le moment face au manque d'eau : préparer le plan sécheresse de l'élevage",
+        "type": "answer",
+        "questionId": "hrb_q10",
+        "operator": "in",
+        "value": [
+          "pas_regarde",
+          "sur_le_moment"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_AGR_009"
+        ],
+        "priority": 1
+      },
+      {
+        "id": "f_novice_sans_collectif",
+        "description": "Niveau novice : mesurer, réparer et sécuriser l'abreuvement avant de s'engager dans une démarche de territoire, retirer la démarche collective",
+        "type": "maturity",
+        "questionId": null,
+        "operator": "in",
+        "value": [
+          "novice"
+        ],
+        "effect": "remove",
+        "measures": [
+          "ACT_AGR_010"
+        ],
+        "priority": 2
+      },
+      {
+        "id": "f_hors_collectif",
+        "description": "Pas de participation à une démarche collective sur l'eau : rejoindre le SAGE, le PTGE ou le contrat de rivière du territoire",
+        "type": "answer",
+        "questionId": "hrb_q11",
+        "operator": "in",
+        "value": [
+          "non",
+          "informe"
+        ],
+        "effect": "add",
+        "measures": [
+          "ACT_AGR_010"
+        ],
+        "priority": 1
+      }
+    ]
+  }
+}
