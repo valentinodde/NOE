@@ -57,7 +57,7 @@ CODES_EPUISES_AVANT_BLOCAGE = 3
 CACHE_SESSION = 60
 
 COOKIE = "noe_session"
-EXPEDITEUR = os.getenv("AUTH_EXPEDITEUR", "acces@noe.hydros-consulting.com")
+EXPEDITEUR = os.getenv("AUTH_EXPEDITEUR", "no_reply@noe.hydros-consulting.com")
 CONTACT = os.getenv("AUTH_CONTACT", "valentin.odde@hydros-consulting.com")
 
 _SECRET = os.getenv("AUTH_SECRET")
