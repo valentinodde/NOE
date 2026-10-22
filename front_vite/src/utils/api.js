@@ -51,7 +51,7 @@ export async function verifierCode(email, code) {
 }
 
 export async function deconnecter() {
-  return json(await requete('/auth/deconnexion', { method: 'POST' }));
+  return json(await requete('/auth/deconnexion', corpsJson('POST', {})));
 }
 
 // ─── Console d'admin ──────────────────────────────────────────────────────────
@@ -69,7 +69,7 @@ export async function modifierOrganisation(id, champs) {
 }
 
 export async function supprimerOrganisation(id) {
-  return json(await requete(`/admin/organisations/${id}`, { method: 'DELETE' }));
+  return json(await requete(`/admin/organisations/${id}`, corpsJson('DELETE', {})));
 }
 
 export async function fetchUtilisateurs() {
@@ -81,7 +81,7 @@ export async function modifierUtilisateur(email, champs) {
 }
 
 export async function revoquerSessions(email) {
-  return json(await requete(`/admin/utilisateurs/${encodeURIComponent(email)}/revoquer`, { method: 'POST' }));
+  return json(await requete(`/admin/utilisateurs/${encodeURIComponent(email)}/revoquer`, corpsJson('POST', {})));
 }
 
 // ─── Données ──────────────────────────────────────────────────────────────────

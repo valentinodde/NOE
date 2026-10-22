@@ -2,11 +2,17 @@
 Accès à Noé : connexion par code à usage unique envoyé par mail.
 
 Seules les adresses dont le domaine appartient à une organisation active
-(table organisations_domaines) peuvent demander un code. Le code (6 chiffres,
+(table organisations_domaines) reçoivent un code. Le code (6 chiffres,
 10 minutes, 5 essais) est stocké haché avec une clé serveur. Une fois vérifié,
 il ouvre une session de 30 jours, portée par un cookie HttpOnly dont seul le
 haché est en base. Une session n'est valable que tant que l'organisation du
 domaine reste active : désactiver une organisation coupe ses accès.
+
+Pas d'énumération des domaines autorisés : la demande de code reçoit la même
+réponse, dans le même temps, que le domaine soit connu ou non. Toutes les
+demandes sont comptées dans tentatives_acces et les plafonds s'appliquent sans
+regarder le domaine. L'envoi part en tâche de fond. La vérification d'un code
+répond le même message qu'il soit faux, expiré ou inexistant.
 
 Les tables sont créées au démarrage de l'API (creer_tables, idempotent).
 Amorçage de la première organisation et du premier admin : api/gerer_acces.py.
@@ -17,7 +23,9 @@ import hmac
 import os
 import re
 import secrets
+import threading
 import time
+import traceback
 from contextlib import contextmanager
 from datetime import datetime, timedelta
 
@@ -30,8 +38,20 @@ import DB_processor as DBP
 DUREE_CODE = timedelta(minutes=10)
 DUREE_SESSION = timedelta(days=30)
 ESSAIS_PAR_CODE = 5
-CODES_PAR_ADRESSE = (3, timedelta(minutes=15))
-CODES_PAR_IP = (10, timedelta(hours=1))
+
+# Plafonds des demandes de code. Ils comptent les demandes, que le domaine soit
+# autorisé ou non, pour ne rien révéler. Une demande refusée par un plafond
+# ne compte que pour celui de l'IP.
+DELAI_ENTRE_DEMANDES = timedelta(seconds=60)          # par adresse
+DEMANDES_PAR_ADRESSE = [(3, timedelta(minutes=15)), (10, timedelta(days=1))]
+DEMANDES_PAR_DOMAINE = (30, timedelta(hours=1))
+DEMANDES_PAR_IP = (20, timedelta(hours=1))
+# Codes réellement envoyés sur 24 h, sous le quota Mailjet. Une alerte part
+# vers AUTH_CONTACT la première fois qu'il est atteint dans la journée.
+PLAFOND_ENVOIS_JOUR = int(os.getenv("AUTH_PLAFOND_JOUR", "150"))
+# Une adresse dont 3 codes ont été épuisés (5 essais faux) en 24 h ne reçoit
+# plus de code pendant 24 h, sans que la réponse change.
+CODES_EPUISES_AVANT_BLOCAGE = 3
 # Une session vérifiée en base reste en cache ce nombre de secondes : une
 # révocation faite par un autre processus prend effet au plus après ce délai.
 CACHE_SESSION = 60
@@ -85,6 +105,17 @@ CREATE TABLE IF NOT EXISTS codes_acces (
 );
 CREATE INDEX IF NOT EXISTS codes_acces_email ON codes_acces (email, cree_le);
 CREATE INDEX IF NOT EXISTS codes_acces_ip ON codes_acces (ip, cree_le);
+CREATE TABLE IF NOT EXISTS tentatives_acces (
+    id       serial PRIMARY KEY,
+    email    text NOT NULL,
+    domaine  text NOT NULL,
+    ip       text,
+    resultat text NOT NULL,   -- envoye, inconnu, bloque, limite, plafond
+    cree_le  timestamptz NOT NULL DEFAULT now()
+);
+CREATE INDEX IF NOT EXISTS tentatives_acces_email ON tentatives_acces (email, cree_le);
+CREATE INDEX IF NOT EXISTS tentatives_acces_domaine ON tentatives_acces (domaine, cree_le);
+CREATE INDEX IF NOT EXISTS tentatives_acces_ip ON tentatives_acces (ip, cree_le);
 CREATE TABLE IF NOT EXISTS sessions (
     jeton_hash        text PRIMARY KEY,
     email             text NOT NULL REFERENCES utilisateurs(email) ON DELETE CASCADE,
@@ -167,57 +198,133 @@ def _organisation_active(cur, email):
 
 # ─── Connexion ────────────────────────────────────────────────────────────────
 
-def demander_code(email, ip, envoyer):
-    """
-    Crée un code pour `email` et le transmet par `envoyer(email, code)`.
-    Le nouveau code invalide les précédents une fois l'envoi réussi.
-    """
-    adresse = normaliser_email(email)
-    if not adresse:
-        raise ErreurAcces("adresse_invalide", "Cette adresse mail n'est pas valide.")
+TROP_DE_DEMANDES = "Trop de demandes. Réessayez dans quelques minutes."
+CODE_REFUSE = "Code incorrect ou expiré. Vérifiez le dernier code reçu, ou demandez-en un nouveau."
 
-    with _curseur() as cur:
-        # Ménage : codes de plus d'un jour, sessions expirées
-        cur.execute("DELETE FROM codes_acces WHERE cree_le < now() - interval '1 day'")
-        cur.execute("DELETE FROM sessions WHERE expire_le < now()")
 
-        if not _organisation_active(cur, adresse):
-            raise ErreurAcces(
-                "organisation_inconnue",
-                "Votre organisation n'a pas encore accès à Noé.",
-                403,
-                contact=CONTACT,
-            )
+def _compter(cur, colonne, valeur, fenetre, toutes=False):
+    """Demandes de `colonne` = `valeur` sur la fenêtre (hors refus par plafond, sauf `toutes`)."""
+    cur.execute(
+        f"""SELECT count(*) AS n FROM tentatives_acces
+            WHERE {colonne} = %s AND cree_le > now() - %s {'' if toutes else "AND resultat <> 'limite'"}""",
+        (valeur, fenetre),
+    )
+    return cur.fetchone()["n"]
 
-        for colonne, valeur, (limite, fenetre) in (("email", adresse, CODES_PAR_ADRESSE), ("ip", ip, CODES_PAR_IP)):
-            cur.execute(
-                f"SELECT count(*) AS n FROM codes_acces WHERE {colonne} = %s AND cree_le > now() - %s",
-                (valeur, fenetre),
-            )
-            if cur.fetchone()["n"] >= limite:
-                raise ErreurAcces("trop_de_demandes", "Trop de codes demandés. Réessayez dans quelques minutes.", 429)
 
-        code = f"{secrets.randbelow(10**6):06d}"
-        cur.execute(
-            """INSERT INTO codes_acces (email, code_hash, ip, expire_le)
-               VALUES (%s, %s, %s, now() + %s) RETURNING id""",
-            (adresse, _hash_code(adresse, code), ip, DUREE_CODE),
+def _plafond_atteint(cur, adresse, domaine, ip):
+    """Refus à opposer à la demande, ou None. Ne dépend jamais du domaine autorisé ou non."""
+    cur.execute(
+        """SELECT extract(epoch FROM (max(cree_le) + %s - now())) AS reste FROM tentatives_acces
+           WHERE email = %s AND resultat <> 'limite'""",
+        (DELAI_ENTRE_DEMANDES, adresse),
+    )
+    reste = cur.fetchone()["reste"]
+    if reste and reste > 0:
+        secondes = int(reste) + 1
+        return ErreurAcces(
+            "trop_tot", f"Patientez {secondes} secondes avant de redemander un code.", 429, attente=secondes,
         )
-        id_code = cur.fetchone()["id"]
 
+    plafonds = [("email", adresse, n, f) for n, f in DEMANDES_PAR_ADRESSE]
+    plafonds.append(("domaine", domaine, *DEMANDES_PAR_DOMAINE))
+    if any(_compter(cur, col, val, fenetre) >= n for col, val, n, fenetre in plafonds):
+        return ErreurAcces("trop_de_demandes", TROP_DE_DEMANDES, 429)
+    if ip and _compter(cur, "ip", ip, DEMANDES_PAR_IP[1], toutes=True) >= DEMANDES_PAR_IP[0]:
+        return ErreurAcces("trop_de_demandes", TROP_DE_DEMANDES, 429)
+    return None
+
+
+def _adresse_bloquee(cur, adresse):
+    cur.execute(
+        """SELECT count(*) AS n FROM codes_acces
+           WHERE email = %s AND tentatives >= %s AND cree_le > now() - interval '1 day'""",
+        (adresse, ESSAIS_PAR_CODE),
+    )
+    return cur.fetchone()["n"] >= CODES_EPUISES_AVANT_BLOCAGE
+
+
+def _envoyer_en_fond(id_code, adresse, code, envoyer):
+    """Envoi hors de la requête : la réponse ne dépend pas de l'existence du domaine."""
     try:
         envoyer(adresse, code)
     except Exception:
+        traceback.print_exc()
         with _curseur() as cur:
             cur.execute("DELETE FROM codes_acces WHERE id = %s", (id_code,))
-        raise
-
+        return
+    # Seul le dernier code envoyé reste valable
     with _curseur() as cur:
         cur.execute(
             "UPDATE codes_acces SET utilise = true WHERE email = %s AND id < %s AND NOT utilise",
             (adresse, id_code),
         )
-    return {"email": adresse, "validite_minutes": int(DUREE_CODE.total_seconds() // 60)}
+
+
+def demander_code(email, ip, envoyer, alerter=None):
+    """
+    Enregistre la demande et, si le domaine est autorisé et l'adresse non
+    bloquée, crée un code transmis en tâche de fond par `envoyer(email, code)`.
+    La réponse est la même dans tous les cas, sauf plafond atteint (429).
+    `alerter(message)` prévient l'équipe quand le plafond global est atteint.
+    """
+    adresse = normaliser_email(email)
+    if not adresse:
+        raise ErreurAcces("adresse_invalide", "Cette adresse mail n'est pas valide.")
+    domaine = adresse.split("@", 1)[1]
+    refus, a_envoyer, alerte = None, None, False
+
+    with _curseur() as cur:
+        # Ménage : codes de plus d'un jour, sessions expirées, tentatives de plus de deux jours
+        cur.execute("DELETE FROM codes_acces WHERE cree_le < now() - interval '1 day'")
+        cur.execute("DELETE FROM sessions WHERE expire_le < now()")
+        cur.execute("DELETE FROM tentatives_acces WHERE cree_le < now() - interval '2 days'")
+
+        refus = _plafond_atteint(cur, adresse, domaine, ip)
+        if not refus:
+            cur.execute(
+                "SELECT count(*) FILTER (WHERE resultat = 'envoye') AS envoyes, "
+                "count(*) FILTER (WHERE resultat = 'plafond') AS alertes "
+                "FROM tentatives_acces WHERE cree_le > now() - interval '1 day'"
+            )
+            jour = cur.fetchone()
+            if jour["envoyes"] >= PLAFOND_ENVOIS_JOUR:
+                refus = ErreurAcces("service_sature", TROP_DE_DEMANDES, 429)
+                alerte = jour["alertes"] == 0
+
+        if refus:
+            resultat = "plafond" if refus.code == "service_sature" else "limite"
+        elif not _organisation_active(cur, adresse):
+            resultat = "inconnu"
+        elif _adresse_bloquee(cur, adresse):
+            resultat = "bloque"
+        else:
+            resultat = "envoye"
+            code = f"{secrets.randbelow(10**6):06d}"
+            cur.execute(
+                """INSERT INTO codes_acces (email, code_hash, ip, expire_le)
+                   VALUES (%s, %s, %s, now() + %s) RETURNING id""",
+                (adresse, _hash_code(adresse, code), ip, DUREE_CODE),
+            )
+            a_envoyer = (cur.fetchone()["id"], adresse, code, envoyer)
+
+        cur.execute(
+            "INSERT INTO tentatives_acces (email, domaine, ip, resultat) VALUES (%s, %s, %s, %s)",
+            (adresse, domaine, ip, resultat),
+        )
+
+    if alerte and alerter:
+        threading.Thread(
+            target=alerter,
+            args=(f"Plafond de {PLAFOND_ENVOIS_JOUR} codes d'accès Noé envoyés en 24 h atteint. "
+                  "Les nouvelles demandes sont refusées jusqu'à ce que le compteur redescende.",),
+            daemon=True,
+        ).start()
+    if refus:
+        raise refus
+    if a_envoyer:
+        threading.Thread(target=_envoyer_en_fond, args=a_envoyer, daemon=True).start()
+    return {"email": adresse, "validite_minutes": int(DUREE_CODE.total_seconds() // 60), "contact": CONTACT}
 
 
 def verifier_code(email, code, ip=None, user_agent=None):
@@ -235,20 +342,18 @@ def verifier_code(email, code, ip=None, user_agent=None):
         )
         ligne = cur.fetchone() if adresse else None
 
+        # Même refus que le code soit faux, expiré ou inexistant : un code
+        # inexistant trahirait une adresse dont le domaine n'est pas autorisé
+        code_refuse = ErreurAcces("code_invalide", CODE_REFUSE, 401)
         if not ligne:
-            refus = ErreurAcces("code_expire", "Ce code a expiré ou a déjà servi. Demandez-en un nouveau.", 401)
+            refus = code_refuse
         elif not hmac.compare_digest(ligne["code_hash"], _hash_code(adresse, code)):
             tentatives = ligne["tentatives"] + 1
             cur.execute(
                 "UPDATE codes_acces SET tentatives = %s, utilise = %s WHERE id = %s",
                 (tentatives, tentatives >= ESSAIS_PAR_CODE, ligne["id"]),
             )
-            restants = ESSAIS_PAR_CODE - tentatives
-            refus = (
-                ErreurAcces("code_incorrect", f"Code incorrect. Il vous reste {restants} essai{'s' if restants > 1 else ''}.", 401, restants=restants)
-                if restants > 0 else
-                ErreurAcces("code_expire", "Code incorrect. Trop d'essais, demandez un nouveau code.", 401)
-            )
+            refus = code_refuse
         else:
             cur.execute("UPDATE codes_acces SET utilise = true WHERE id = %s", (ligne["id"],))
             organisation = _organisation_active(cur, adresse)
@@ -333,10 +438,43 @@ def envoyer_code_console(email, code):
     print(f"\n  Code d'accès Noé pour {email} : {code}\n", flush=True)
 
 
-def envoyer_code_mailjet(email, code):
+def alerte_console(message):
+    print(f"\n  ALERTE accès Noé : {message}\n", flush=True)
+
+
+def _mailjet(destinataire, objet, texte, html=None, custom_id="noe-acces"):
     cle, secret = os.getenv("MAILJET_API_KEY"), os.getenv("MAILJET_API_SECRET")
     if not (cle and secret):
         raise RuntimeError("MAILJET_API_KEY et MAILJET_API_SECRET manquants")
+    message = {
+        "From": {"Email": EXPEDITEUR, "Name": "Noé by Hydros"},
+        "To": [{"Email": destinataire}],
+        "ReplyTo": {"Email": CONTACT},
+        "Subject": objet,
+        "TextPart": texte,
+        "CustomID": custom_id,
+    }
+    if html:
+        message["HTMLPart"] = html
+    reponse = requests.post(
+        "https://api.mailjet.com/v3.1/send",
+        auth=(cle.strip(), secret.strip()),
+        json={"Messages": [message]},
+        timeout=15,
+    )
+    if reponse.status_code != 200 or reponse.json()["Messages"][0].get("Status") != "success":
+        raise RuntimeError(f"Mailjet a refusé l'envoi ({reponse.status_code}) : {reponse.text[:300]}")
+
+
+def alerte_mailjet(message):
+    try:
+        _mailjet(CONTACT, "Alerte Noé : plafond des codes d'accès atteint", message, custom_id="noe-alerte")
+    except Exception:
+        traceback.print_exc()
+    alerte_console(message)
+
+
+def envoyer_code_mailjet(email, code):
     minutes = int(DUREE_CODE.total_seconds() // 60)
 
     texte = (
@@ -357,22 +495,7 @@ def envoyer_code_mailjet(email, code):
   </div>
 </div>"""
 
-    reponse = requests.post(
-        "https://api.mailjet.com/v3.1/send",
-        auth=(cle.strip(), secret.strip()),
-        json={"Messages": [{
-            "From": {"Email": EXPEDITEUR, "Name": "Noé by Hydros"},
-            "To": [{"Email": email}],
-            "ReplyTo": {"Email": CONTACT},
-            "Subject": f"Votre code d'accès Noé : {code}",
-            "TextPart": texte,
-            "HTMLPart": html,
-            "CustomID": "noe-code-acces",
-        }]},
-        timeout=15,
-    )
-    if reponse.status_code != 200 or reponse.json()["Messages"][0].get("Status") != "success":
-        raise RuntimeError(f"Mailjet a refusé l'envoi ({reponse.status_code}) : {reponse.text[:300]}")
+    _mailjet(email, f"Votre code d'accès Noé : {code}", texte, html, custom_id="noe-code-acces")
 
 
 # ─── Console d'admin ──────────────────────────────────────────────────────────

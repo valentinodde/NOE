@@ -116,7 +116,11 @@ conda run -n noe-env python api/ingest_aides_exemples.py --construire # reconstr
 La route `GET /aides/exemples?naf=&lat=&lon=&dept=&categories=` renvoie des exemples par cercles de proximité (même NAF puis même division, agence de l'établissement d'abord, thème du plan d'action en repli) et des médianes par agence. Composant `AidesExemples` dans l'onglet Avancer.
 
 ### Accès et authentification
-Toute l'API exige une session, sauf `/home` et les routes `/auth/*` de connexion (contrôle dans `controler_acces`, `app.py`). Connexion sans mot de passe : l'adresse doit appartenir au domaine d'une organisation active, un code à 6 chiffres part par Mailjet (expéditeur `acces@noe.hydros-consulting.com`, réponse vers `AUTH_CONTACT`), valable 10 minutes, 5 essais, seul le dernier envoyé compte, 3 envois par quart d'heure et par adresse, 10 par heure et par IP. Le code ouvre une session de 30 jours (cookie `noe_session`, HttpOnly, SameSite=Lax, seul son haché est en base). Désactiver ou supprimer une organisation coupe les sessions de ses utilisateurs.
+Toute l'API exige une session, sauf `/home` et les routes `/auth/*` de connexion (contrôle dans `controler_acces`, `app.py`). Connexion sans mot de passe : l'adresse doit appartenir au domaine d'une organisation active, un code à 6 chiffres part par Mailjet (expéditeur `acces@noe.hydros-consulting.com`, réponse vers `AUTH_CONTACT`), valable 10 minutes, 5 essais, seul le dernier envoyé compte. Le code ouvre une session de 30 jours (cookie `noe_session`, HttpOnly, SameSite=Lax, seul son haché est en base). Désactiver ou supprimer une organisation coupe les sessions de ses utilisateurs.
+
+Pas d'énumération des domaines autorisés : la demande de code répond pareil, dans le même temps, que le domaine soit connu ou non (« si votre organisation a accès… »), l'envoi part en tâche de fond, et un code faux, expiré ou inexistant reçoit le même refus. Toutes les demandes sont tracées dans `tentatives_acces` (résultat `envoye`, `inconnu`, `bloque`, `limite`, `plafond`, gardées deux jours) et les plafonds s'appliquent sans regarder le domaine : 60 secondes entre deux demandes, 3 par quart d'heure et 10 par jour par adresse, 30 par heure par domaine, 20 par heure par IP (refus compris), et au plus `AUTH_PLAFOND_JOUR` codes envoyés en 24 h (150 par défaut, sous le quota Mailjet, alerte par mail à `AUTH_CONTACT` la première fois). Une adresse dont 3 codes ont été épuisés en 24 h ne reçoit plus de code pendant 24 h, sans que la réponse change. Constantes en tête de `auth_processor.py`.
+
+Toute requête POST, PUT, PATCH ou DELETE doit être en JSON (sinon 415) : un autre site, même un sous-domaine `hydros-consulting.com` qui reçoit le cookie, ne peut pas en envoyer sans passer la vérification CORS. Les erreurs renvoyées ne contiennent jamais le texte des exceptions (il part dans les logs). En-têtes de sécurité (`nosniff`, `X-Frame-Options`, HSTS en production) posés par l'API et par `vite preview` (`preview.headers`), redirection HTTPS forcée sur les deux apps Scalingo (`scalingo --app <app> force-https`).
 
 - `api/auth_processor.py` : tables (créées au démarrage de l'API), codes, sessions, envoi Mailjet, fonctions de la console. Tables `organisations`, `organisations_domaines` (un domaine appartient à une seule organisation, les messageries grand public sont refusées), `utilisateurs` (créé à la première connexion, case `admin`), `codes_acces`, `sessions`.
 - Réservé aux admins (API et front) : `/admin/*` (console), `/fiches`, `/sectors` (éditeur des secteurs).
@@ -219,7 +223,7 @@ Risk scores per company: `score_croise_2025/2030/2050`, normalized water scores 
 | Layer | Key Libraries |
 |-------|--------------|
 | Frontend | React 19, React Router 7, Tailwind CSS 4, Recharts, react-leaflet |
-| Backend | Flask 2.3, Flask-CORS, Pandas, openpyxl |
+| Backend | Flask 3.1, Flask-CORS 6, gunicorn, Pandas, psycopg2 |
 | Future DB | MongoDB (pymongo 4.4, python-dotenv, certifi) |
 
 ## Current Limitations

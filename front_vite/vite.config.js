@@ -24,6 +24,14 @@ export default defineConfig({
       '.scalingo.io'                  // Autorise aussi tous les sous-domaines scalingo
     ],
     host: '0.0.0.0',                  // Obligatoire pour Scalingo
-    port: process.env.PORT || 4173    // Utilise le port de Scalingo
+    port: process.env.PORT || 4173,   // Utilise le port de Scalingo
+    // En-têtes de sécurité du site servi en production (HTTPS imposé, pas
+    // d'affichage dans un cadre, pas de devinette du type des fichiers)
+    headers: {
+      'Strict-Transport-Security': 'max-age=31536000',
+      'X-Frame-Options': 'DENY',
+      'X-Content-Type-Options': 'nosniff',
+      'Referrer-Policy': 'strict-origin-when-cross-origin',
+    },
   }
 })

@@ -84,7 +84,7 @@ export default function ConnexionPage() {
   const [code, setCode] = useState('');
   const [envoi, setEnvoi] = useState(false);
   const [erreur, setErreur] = useState(null);
-  const [inconnue, setInconnue] = useState(null);
+  const [contact, setContact] = useState(null);
   const [renvoye, setRenvoye] = useState(false);
   const champCode = useRef(null);
 
@@ -95,17 +95,17 @@ export default function ConnexionPage() {
     e?.preventDefault();
     setEnvoi(true);
     setErreur(null);
-    setInconnue(null);
     try {
+      // Même réponse que l'organisation ait accès ou non (pas d'énumération)
       const reponse = await demanderCode(email);
       setEmail(reponse.email);
+      setContact(reponse.contact);
       setRenvoye(etape === 'code');
       setEtape('code');
       setCode('');
       setTimeout(() => champCode.current?.focus(), 0);
     } catch (err) {
-      if (err.data?.error === 'organisation_inconnue') setInconnue(err.data);
-      else setErreur(err.message);
+      setErreur(err.message);
     } finally {
       setEnvoi(false);
     }
@@ -157,7 +157,7 @@ export default function ConnexionPage() {
             <p className="text-on-surface-var text-[0.875rem] leading-relaxed">
               {etape === 'email'
                 ? <>Connectez-vous avec votre adresse professionnelle.<br />Nous vous envoyons un code d'accès.</>
-                : <>Un code à 6 chiffres vient d'être envoyé à <strong className="text-on-surface font-semibold">{email}</strong>. Il est valable 10 minutes.</>}
+                : <>Si votre organisation a accès à Noé, un code à 6 chiffres vient d'être envoyé à <strong className="text-on-surface font-semibold">{email}</strong>. Il est valable 10 minutes.</>}
             </p>
           </div>
 
@@ -175,24 +175,9 @@ export default function ConnexionPage() {
                   autoFocus
                   placeholder="prenom.nom@entreprise.fr"
                   value={email}
-                  onChange={e => { setEmail(e.target.value); setErreur(null); setInconnue(null); }}
+                  onChange={e => { setEmail(e.target.value); setErreur(null); }}
                   erreur={erreur}
                 />
-
-                {inconnue && (
-                  <div
-                    className="rounded-xl p-4 text-[0.8125rem] text-on-surface-var leading-relaxed"
-                    style={{ background: 'rgba(251,146,60,0.07)', border: '1px solid rgba(251,146,60,0.2)' }}
-                  >
-                    <p className="font-semibold text-on-surface mb-1">{inconnue.message}</p>
-                    <p>
-                      Pour demander un accès, écrivez à{' '}
-                      <a href={`mailto:${inconnue.contact}?subject=Accès à Noé`} className="text-primary font-medium underline">
-                        {inconnue.contact}
-                      </a>.
-                    </p>
-                  </div>
-                )}
 
                 <BoutonPrincipal disabled={!email.trim() || envoi}>
                   {envoi ? 'Envoi en cours…' : "Recevoir un code d'accès →"}
@@ -215,6 +200,16 @@ export default function ConnexionPage() {
                   aide={renvoye ? "Un nouveau code vient d'être envoyé. Seul le dernier reçu est valable." : 'Pensez à vérifier vos courriers indésirables.'}
                   style={{ letterSpacing: '0.4em', fontWeight: 600 }}
                 />
+
+                {contact && (
+                  <p className="text-[0.75rem] text-on-surface-var leading-relaxed">
+                    Rien reçu après quelques minutes ? Votre organisation n'a peut-être pas encore accès à Noé.
+                    Pour le demander, écrivez à{' '}
+                    <a href={`mailto:${contact}?subject=Accès à Noé`} className="text-primary font-medium underline">
+                      {contact}
+                    </a>.
+                  </p>
+                )}
 
                 <BoutonPrincipal disabled={code.length !== 6 || envoi}>
                   {envoi ? 'Vérification…' : 'Se connecter →'}

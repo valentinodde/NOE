@@ -54,7 +54,15 @@ def route_admin():
 @app.before_request
 def controler_acces():
     # Les requêtes préliminaires CORS ne portent jamais le cookie
-    if request.method == 'OPTIONS' or request.path in ROUTES_PUBLIQUES:
+    if request.method == 'OPTIONS':
+        return None
+    # Toute requête qui modifie quelque chose doit être en JSON : un formulaire
+    # ou un appel « simple » venu d'un autre site (même d'un sous-domaine
+    # hydros-consulting.com, qui reçoit le cookie) ne peut pas l'envoyer sans
+    # passer par la vérification CORS
+    if request.method in ('POST', 'PUT', 'PATCH', 'DELETE') and not request.is_json:
+        return jsonify({"error": "json_requis"}), 415
+    if request.path in ROUTES_PUBLIQUES:
         return None
     try:
         utilisateur = AUTH.utilisateur_de_la_session(request.cookies.get(AUTH.COOKIE))
@@ -67,6 +75,16 @@ def controler_acces():
         return jsonify({"error": "reserve_admin"}), 403
     g.utilisateur = utilisateur
     return None
+
+
+@app.after_request
+def entetes_securite(reponse):
+    reponse.headers['X-Content-Type-Options'] = 'nosniff'
+    reponse.headers['X-Frame-Options'] = 'DENY'
+    reponse.headers['Referrer-Policy'] = 'no-referrer'
+    if not LOCAL:
+        reponse.headers['Strict-Transport-Security'] = 'max-age=31536000'
+    return reponse
 
 
 @app.errorhandler(AUTH.ErreurAcces)
@@ -83,14 +101,11 @@ def ip_client():
 @app.route('/auth/demander-code', methods=['POST'])
 def demander_code():
     corps = request.get_json(silent=True) or {}
-    envoyer = AUTH.envoyer_code_console if LOCAL else AUTH.envoyer_code_mailjet
-    try:
-        return jsonify(AUTH.demander_code(corps.get('email'), ip_client(), envoyer))
-    except AUTH.ErreurAcces:
-        raise
-    except Exception:
-        traceback.print_exc()
-        return jsonify({"error": "envoi_impossible", "message": "L'envoi du mail a échoué. Réessayez dans un instant."}), 502
+    return jsonify(AUTH.demander_code(
+        corps.get('email'), ip_client(),
+        envoyer=AUTH.envoyer_code_console if LOCAL else AUTH.envoyer_code_mailjet,
+        alerter=AUTH.alerte_console if LOCAL else AUTH.alerte_mailjet,
+    ))
 
 
 @app.route('/auth/verifier-code', methods=['POST'])
@@ -264,9 +279,9 @@ def get_vigieau_zones():
 
     try:
         return jsonify(VGE.load_restrictions(lat, lon, commune=commune, profil=profil, naf_code=naf))
-    except Exception as e:
+    except Exception:
         traceback.print_exc()
-        return jsonify({"error": "API VigiEau indisponible", "detail": str(e)}), 502
+        return jsonify({"error": "API VigiEau indisponible"}), 502
 
 
 @app.route('/restrictions/historique/<string:code_commune>', methods=['GET'])
@@ -275,9 +290,9 @@ def get_restrictions_historique(code_commune):
     annee_debut = request.args.get('depuis', type=int)
     try:
         return jsonify(DBP.load_restrictions_history(code_commune, annee_debut=annee_debut))
-    except Exception as e:
+    except Exception:
         traceback.print_exc()
-        return jsonify({"error": "Historique indisponible", "detail": str(e)}), 500
+        return jsonify({"error": "Historique indisponible"}), 500
 
 
 @app.route('/aides/exemples', methods=['GET'])
@@ -306,9 +321,9 @@ def get_aides_exemples():
             limit=limit,
             siren=request.args.get('siren'),
         ))
-    except Exception as e:
+    except Exception:
         traceback.print_exc()
-        return jsonify({"error": "Exemples d'aides indisponibles", "detail": str(e)}), 500
+        return jsonify({"error": "Exemples d'aides indisponibles"}), 500
 
 
 @app.route('/agences-eau/contours', methods=['GET'])
@@ -316,9 +331,9 @@ def get_contours_agences():
     """Contours simplifiés des six bassins des agences de l'eau (fond de carte)."""
     try:
         return jsonify(DBP.load_contours_agences())
-    except Exception as e:
+    except Exception:
         traceback.print_exc()
-        return jsonify({"error": "Contours indisponibles", "detail": str(e)}), 500
+        return jsonify({"error": "Contours indisponibles"}), 500
 
 
 @app.route('/territoires/bassins', methods=['GET'])
@@ -330,9 +345,9 @@ def get_carte_bassins():
     """
     try:
         corps = TER.carte_bassins_gzip()
-    except Exception as e:
+    except Exception:
         traceback.print_exc()
-        return jsonify({"error": "Carte des bassins indisponible", "detail": str(e)}), 500
+        return jsonify({"error": "Carte des bassins indisponible"}), 500
 
     if 'gzip' in request.headers.get('Accept-Encoding', ''):
         reponse = Response(corps, mimetype='application/json')
@@ -349,9 +364,9 @@ def get_communes_territoire():
     """Recherche de commune (nom ou code INSEE), avec le bassin qui la contient."""
     try:
         return jsonify(TER.rechercher_communes(request.args.get('q', '')))
-    except Exception as e:
+    except Exception:
         traceback.print_exc()
-        return jsonify({"error": "Recherche indisponible", "detail": str(e)}), 500
+        return jsonify({"error": "Recherche indisponible"}), 500
 
 
 @app.route('/territoires/activite', methods=['GET'])
@@ -363,9 +378,9 @@ def get_activite_territoire():
     bassins = [b for b in request.args.get('bassins', '').split(',') if b]
     try:
         return jsonify(TER.load_activite(bassins or None, limite=request.args.get('limit', default=8, type=int)))
-    except Exception as e:
+    except Exception:
         traceback.print_exc()
-        return jsonify({"error": "Activité indisponible", "detail": str(e)}), 500
+        return jsonify({"error": "Activité indisponible"}), 500
 
 
 @app.route('/questionnaire/<string:naf>', methods=['GET'])
@@ -377,9 +392,9 @@ def get_questionnaire(naf):
     """
     try:
         referentiel = DBP.load_referentiel_by_naf(naf)
-    except Exception as e:
+    except Exception:
         traceback.print_exc()
-        return jsonify({"error": "Référentiel indisponible", "detail": str(e)}), 500
+        return jsonify({"error": "Référentiel indisponible"}), 500
 
     if not referentiel:
         return jsonify({"error": "Aucun questionnaire pour ce code NAF", "naf": naf}), 404
@@ -407,9 +422,9 @@ def get_solutions():
             lat=request.args.get('lat', type=float),
             lon=request.args.get('lon', type=float),
         )
-    except Exception as e:
+    except Exception:
         traceback.print_exc()
-        return jsonify({"error": "Solutions indisponibles", "detail": str(e)}), 500
+        return jsonify({"error": "Solutions indisponibles"}), 500
 
     if not solutions:
         return jsonify({"error": "Aucun questionnaire pour ce code NAF", "naf": naf}), 404
@@ -427,9 +442,9 @@ def get_fiches():
     """
     try:
         return jsonify(FIC.load_fiches())
-    except Exception as e:
+    except Exception:
         traceback.print_exc()
-        return jsonify({"error": "Fiches indisponibles", "detail": str(e)}), 500
+        return jsonify({"error": "Fiches indisponibles"}), 500
 
 
 if __name__ == '__main__':
