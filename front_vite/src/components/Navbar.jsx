@@ -4,7 +4,6 @@ export default function Navbar() {
   const navigate  = useNavigate();
   const location  = useLocation();
   const onSectors = location.pathname.startsWith('/sectors');
-  const onTerritoires = location.pathname.startsWith('/territoires');
   const onFiches = location.pathname.startsWith('/fiches');
 
   return (
@@ -37,22 +36,6 @@ export default function Navbar() {
       </button>
 
       <div className="hidden sm:flex items-center gap-4">
-        {/* Territoires link */}
-        <button
-          onClick={() => navigate('/territoires')}
-          className="text-xs font-medium transition-colors"
-          style={{
-            color: onTerritoires ? '#000a43' : '#9b8ab8',
-            paddingBottom: 2,
-            background: 'none',
-            border: 'none',
-            borderBottom: onTerritoires ? '1.5px solid #000a43' : '1.5px solid transparent',
-            cursor: 'pointer',
-          }}
-        >
-          Vision territoriale
-        </button>
-
         {/* Sectors link */}
         <button
           onClick={() => navigate('/sectors')}

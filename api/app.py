@@ -23,9 +23,9 @@ app.config['CORS_HEADERS'] = 'application/json'
 
 df_data = pd.read_excel('test_data.xlsx')   
 
-# Carte de la page Vision territoriale, calculée en tâche de fond dès le démarrage
-TER.prechauffer()
-    
+# La carte de la page Vision territoriale (mise de côté, lien retiré du header)
+# n'est plus préchauffée au démarrage : elle se calcule au premier appel.
+
 @app.route('/home', methods=['GET'])
 def get_all_buildings():
     return jsonify({"app":"Noé Project"})
