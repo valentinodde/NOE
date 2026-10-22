@@ -236,3 +236,105 @@ body {
 @media (prefers-reduced-motion: reduce) {
   .noe-deplier { animation: none; }
 }
+
+/* ─── Page de connexion ─── */
+
+.noe-connexion-visuel {
+  min-height: 300px;
+}
+
+.noe-connexion-champ {
+  border: 1px solid #e0e2eb;
+  transition: border-color 0.18s, box-shadow 0.18s;
+}
+
+.noe-connexion-champ:hover {
+  border-color: #c5c8d6;
+}
+
+.noe-connexion-champ:focus {
+  border-color: #000a43;
+  box-shadow: 0 0 0 4px rgba(107, 45, 111, 0.12);
+}
+
+.noe-connexion-champ[aria-invalid='true'] {
+  border-color: #964900;
+}
+
+.noe-connexion-champ::placeholder {
+  color: #9a9cab;
+}
+
+.noe-connexion-bouton {
+  background: linear-gradient(135deg, #000a43 0%, #051b71 100%);
+  transition: background-position 0.3s, box-shadow 0.2s, opacity 0.2s;
+}
+
+.noe-connexion-bouton:not(:disabled):hover {
+  box-shadow: 0 8px 24px -8px rgba(0, 10, 67, 0.45);
+}
+
+.noe-connexion-bouton:focus-visible,
+.noe-connexion-visuel ~ main button:focus-visible,
+.noe-connexion-visuel ~ main a:focus-visible {
+  outline: 2px solid #6b2d6f;
+  outline-offset: 3px;
+}
+
+.noe-connexion-credit {
+  color: rgba(255, 255, 255, 0.4);
+}
+
+.noe-connexion-credit a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.noe-connexion-credit a:hover {
+  color: rgba(255, 255, 255, 0.8);
+  text-decoration: underline;
+}
+
+/* Surlignage façon kakemono, qui suit les retours à la ligne */
+.noe-connexion-surligne {
+  background: #051b71;
+  padding: 0 0.18em;
+  margin-left: -0.18em;
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+}
+
+/* Cercles du logo, ancrés sur le coin haut droit du panneau */
+.noe-connexion-ondes {
+  width: 760px;
+  height: 760px;
+  top: -300px;
+  right: -260px;
+}
+
+@media (min-width: 1024px) {
+  .noe-connexion-ondes {
+    width: 980px;
+    height: 980px;
+    top: -330px;
+    right: -380px;
+  }
+}
+
+.noe-onde {
+  transform-box: fill-box;
+  transform-origin: center;
+  animation: noe-onde-ouverture 1.8s cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+.noe-onde-2 { animation-delay: 0.12s; }
+.noe-onde-3 { animation-delay: 0.24s; }
+
+@keyframes noe-onde-ouverture {
+  0%   { transform: scale(0.55); opacity: 0; }
+  100% { transform: scale(1); opacity: 1; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .noe-onde { animation: none; }
+}
