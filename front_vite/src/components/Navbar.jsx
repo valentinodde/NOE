@@ -1,10 +1,18 @@
 import { useNavigate, useLocation } from 'react-router-dom';
+import { useAuth } from '../utils/authContext';
 
 export default function Navbar() {
   const navigate  = useNavigate();
   const location  = useLocation();
+  const { utilisateur, deconnecter } = useAuth();
   const onSectors = location.pathname.startsWith('/sectors');
   const onFiches = location.pathname.startsWith('/fiches');
+  const onAdmin = location.pathname.startsWith('/admin');
+
+  async function seDeconnecter() {
+    await deconnecter();
+    navigate('/connexion', { replace: true });
+  }
 
   return (
     <nav
@@ -29,45 +37,50 @@ export default function Navbar() {
 
         {/* Tagline */}
         <span
+          className="hidden sm:inline"
           style={{ fontSize: '0.6875rem', color: '#9b8ab8', letterSpacing: '0.08em', textTransform: 'uppercase', fontWeight: 400 }}
         >
           Analyse des Risques Eau
         </span>
       </button>
 
-      <div className="hidden sm:flex items-center gap-4">
-        {/* Sectors link */}
-        <button
-          onClick={() => navigate('/sectors')}
-          className="text-xs font-medium transition-colors"
-          style={{
-            color: onSectors ? '#000a43' : '#9b8ab8',
-            paddingBottom: 2,
-            background: 'none',
-            border: 'none',
-            borderBottom: onSectors ? '1.5px solid #000a43' : '1.5px solid transparent',
-            cursor: 'pointer',
-          }}
-        >
-          Référentiel sectoriel
-        </button>
+      {utilisateur && (
+        <div className="flex items-center gap-4">
+          {/* Outils internes, réservés aux admins */}
+          {utilisateur.admin && (
+            <div className="hidden sm:flex items-center gap-4">
+              <LienNav actif={onSectors} onClick={() => navigate('/sectors')}>Référentiel sectoriel</LienNav>
+              <LienNav actif={onFiches} onClick={() => navigate('/fiches')}>Fiches solutions</LienNav>
+              <LienNav actif={onAdmin} onClick={() => navigate('/admin')}>Administration</LienNav>
+              <span className="w-px h-4" style={{ background: '#ede6ff' }} />
+            </div>
+          )}
 
-        {/* Fiches link */}
-        <button
-          onClick={() => navigate('/fiches')}
-          className="text-xs font-medium transition-colors"
-          style={{
-            color: onFiches ? '#000a43' : '#9b8ab8',
-            paddingBottom: 2,
-            background: 'none',
-            border: 'none',
-            borderBottom: onFiches ? '1.5px solid #000a43' : '1.5px solid transparent',
-            cursor: 'pointer',
-          }}
-        >
-          Fiches solutions
-        </button>
-      </div>
+          <span className="hidden sm:inline text-xs" style={{ color: '#9b8ab8' }} title={utilisateur.organisation?.nom}>
+            {utilisateur.email}
+          </span>
+          <LienNav onClick={seDeconnecter}>Déconnexion</LienNav>
+        </div>
+      )}
     </nav>
+  );
+}
+
+function LienNav({ actif = false, onClick, children }) {
+  return (
+    <button
+      onClick={onClick}
+      className="text-xs font-medium transition-colors"
+      style={{
+        color: actif ? '#000a43' : '#9b8ab8',
+        paddingBottom: 2,
+        background: 'none',
+        border: 'none',
+        borderBottom: actif ? '1.5px solid #000a43' : '1.5px solid transparent',
+        cursor: 'pointer',
+      }}
+    >
+      {children}
+    </button>
   );
 }

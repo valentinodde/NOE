@@ -7,6 +7,16 @@ export default defineConfig({
     tailwindcss(),
     react(),
   ],
+  // En local, VITE_API_URL=/api : le front et l'API partagent l'origine du
+  // serveur Vite, ce qui permet au cookie de session de circuler.
+  server: {
+    proxy: {
+      '/api': {
+        target: process.env.API_LOCALE || 'http://127.0.0.1:5000',
+        rewrite: chemin => chemin.replace(/^\/api/, ''),
+      },
+    },
+  },
   preview: {
     allowedHosts: [
       'noe.hydros-consulting.com',     // Domaine personnalisé

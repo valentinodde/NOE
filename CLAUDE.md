@@ -60,7 +60,12 @@ conda env update -f api/environment.yml --prune  # after editing api/requirement
 - `api/environment.yml` pins Python and delegates package pins to `api/requirements.txt` — **add new dependencies to `requirements.txt`**, not to `environment.yml`.
 - VS Code auto-activates `noe-env` via `.vscode/settings.json` (`python.defaultInterpreterPath` + `python.terminal.activateEnvironment`). If a terminal opens on the wrong env, run `conda activate noe-env` or reload the window.
 
-Frontend communicates with backend via `REACT_APP_API_URL` defined in `front/.env` (defaults to `http://127.0.0.1:5000`).
+Le front (`front_vite`) appelle l'API via `VITE_API_URL`. En local, `front_vite/.env` vaut `VITE_API_URL=/api` : le serveur Vite relaie `/api` vers `http://127.0.0.1:5000` (proxy dans `vite.config.js`, cible modifiable par `API_LOCALE`), ce qui permet au cookie de session de circuler. Ne pas pointer le front local directement sur `127.0.0.1:5000`, le cookie ne passerait pas. Sur macOS, `localhost:5000` est pris par le récepteur AirPlay : Flask écoute sur `127.0.0.1`, et `PORT=5077 python app.py` change de port.
+
+### Déploiement (Scalingo, région osc-fr1)
+- `noe-front` (https://noe.hydros-consulting.com) : `PROJECT_DIR=front_vite`, `npm start` sert le build avec `vite preview`. `VITE_API_URL` est lue au build : la changer impose de redéployer, pas seulement de redémarrer.
+- `noe-back` (https://noe-api.hydros-consulting.com) : `PROJECT_DIR=api`, gunicorn à un worker et 4 threads (conteneur M, 512 Mo). Variables : `DB_PG_*`, `DB_MG_*`, `MAILJET_API_KEY`, `MAILJET_API_SECRET`, `AUTH_SECRET`.
+- Déployer : `git push scalingo-front master`, `git push scalingo-back master`.
 
 ## Architecture
 
@@ -109,6 +114,22 @@ conda run -n noe-env python api/ingest_aides_exemples.py --construire # reconstr
 `type_beneficiaire` de la source est trompeur ("autres" cache beaucoup d'entreprises) : se fier au NAF. Les montants ne se comparent qu'au sein d'une même agence, chacune ayant ses programmes et ses règles de publication.
 
 La route `GET /aides/exemples?naf=&lat=&lon=&dept=&categories=` renvoie des exemples par cercles de proximité (même NAF puis même division, agence de l'établissement d'abord, thème du plan d'action en repli) et des médianes par agence. Composant `AidesExemples` dans l'onglet Avancer.
+
+### Accès et authentification
+Toute l'API exige une session, sauf `/home` et les routes `/auth/*` de connexion (contrôle dans `controler_acces`, `app.py`). Connexion sans mot de passe : l'adresse doit appartenir au domaine d'une organisation active, un code à 6 chiffres part par Mailjet (expéditeur `acces@noe.hydros-consulting.com`, réponse vers `AUTH_CONTACT`), valable 10 minutes, 5 essais, seul le dernier envoyé compte, 3 envois par quart d'heure et par adresse, 10 par heure et par IP. Le code ouvre une session de 30 jours (cookie `noe_session`, HttpOnly, SameSite=Lax, seul son haché est en base). Désactiver ou supprimer une organisation coupe les sessions de ses utilisateurs.
+
+- `api/auth_processor.py` : tables (créées au démarrage de l'API), codes, sessions, envoi Mailjet, fonctions de la console. Tables `organisations`, `organisations_domaines` (un domaine appartient à une seule organisation, les messageries grand public sont refusées), `utilisateurs` (créé à la première connexion, case `admin`), `codes_acces`, `sessions`.
+- Réservé aux admins (API et front) : `/admin/*` (console), `/fiches`, `/sectors` (éditeur des secteurs).
+- Console `/admin` (`pages/AdminPage.jsx`) : organisations et domaines, activation, utilisateurs, droits d'admin, fermeture des sessions.
+- Front : `AuthProvider` et `Protege` dans `components/auth/`, `useAuth` dans `utils/authContext.js`, page `pages/ConnexionPage.jsx`. Tous les appels passent par `requete()` dans `utils/api.js`, qui envoie le cookie et renvoie vers `/connexion?retour=...` sur un 401.
+- En local (`python app.py`), aucun mail ne part : le code s'affiche dans la console de l'API, et le cookie n'a pas l'attribut Secure. Sous gunicorn, l'envoi passe par Mailjet.
+
+Amorçage et dépannage, sans passer par la console :
+```bash
+conda run -n noe-env python api/gerer_acces.py organisation "Hydros Consulting" hydros-consulting.com
+conda run -n noe-env python api/gerer_acces.py admin prenom.nom@hydros-consulting.com
+conda run -n noe-env python api/gerer_acces.py lister
+```
 
 ### Vision territoriale
 Page `/territoires` (mise de côté : plus de lien dans le header, accessible par URL directe), à part du parcours entreprise : les 1 140 bassins versants de métropole sur une carte MapLibre, un indicateur à la fois, aux horizons 2025, 2030 et 2050. Panneau de droite : synthèse du territoire choisi (France, région, département) ou fiche du bassin cliqué. Sous la carte : classement des bassins du territoire. L'état (territoire, indicateur, horizon, bassin) vit dans l'URL.
@@ -203,5 +224,5 @@ Risk scores per company: `score_croise_2025/2030/2050`, normalized water scores 
 
 ## Current Limitations
 - Backend data source is `api/test_data.xlsx` — not a live database
-- Flask runs with `debug=True`; CORS allows all origins
+- `python app.py` runs Flask with `debug=True` (local only, production runs gunicorn); CORS is limited to `FRONT_ORIGINS` (default `https://noe.hydros-consulting.com`)
 - No custom tests exist yet (test infrastructure from CRA is present)

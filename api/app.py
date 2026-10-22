@@ -1,4 +1,4 @@
-from flask import Flask, Response, request, jsonify
+from flask import Flask, Response, request, jsonify, g
 from flask_cors import CORS
 
 import pandas as pd
@@ -8,6 +8,7 @@ import DBM_processor as DBM
 import vigieau_processor as VGE
 import territoires_processor as TER
 import fiches_processor as FIC
+import auth_processor as AUTH
 import gzip
 import uuid
 import json
@@ -17,14 +18,160 @@ import sys, os
 
 import traceback
 
+# `python app.py` : développement local (codes d'accès affichés dans la console,
+# cookie sans Secure). Sous gunicorn : production. En local, le front passe par
+# le proxy /api de Vite (vite.config.js) : même origine, pas de CORS.
+LOCAL = __name__ == '__main__'
+
 app = Flask(__name__)
-cors = CORS(app)
-app.config['CORS_HEADERS'] = 'application/json'
+
+# Le cookie de session part avec les requêtes du front : CORS limité à ses origines
+ORIGINES = [o.strip() for o in os.getenv('FRONT_ORIGINS', 'https://noe.hydros-consulting.com').split(',') if o.strip()]
+cors = CORS(app, origins=ORIGINES, supports_credentials=True)
 
 df_data = pd.read_excel('test_data.xlsx')   
 
 # La carte de la page Vision territoriale (mise de côté, lien retiré du header)
 # n'est plus préchauffée au démarrage : elle se calcule au premier appel.
+
+try:
+    AUTH.creer_tables()
+except Exception:
+    traceback.print_exc()
+
+
+# ─── Contrôle d'accès ─────────────────────────────────────────────────────────
+
+ROUTES_PUBLIQUES = {'/home', '/auth/demander-code', '/auth/verifier-code', '/auth/deconnexion'}
+
+
+def route_admin():
+    """Outils internes : console d'accès, explorateur des fiches, éditeur des secteurs."""
+    chemin = request.path
+    return chemin.startswith('/admin/') or chemin == '/fiches' or chemin.startswith('/sectors')
+
+
+@app.before_request
+def controler_acces():
+    # Les requêtes préliminaires CORS ne portent jamais le cookie
+    if request.method == 'OPTIONS' or request.path in ROUTES_PUBLIQUES:
+        return None
+    try:
+        utilisateur = AUTH.utilisateur_de_la_session(request.cookies.get(AUTH.COOKIE))
+    except Exception:
+        traceback.print_exc()
+        return jsonify({"error": "authentification_indisponible"}), 503
+    if not utilisateur:
+        return jsonify({"error": "non_connecte"}), 401
+    if route_admin() and not utilisateur['admin']:
+        return jsonify({"error": "reserve_admin"}), 403
+    g.utilisateur = utilisateur
+    return None
+
+
+@app.errorhandler(AUTH.ErreurAcces)
+def erreur_acces(e):
+    return jsonify(e.json()), e.statut
+
+
+def ip_client():
+    # Le routeur Scalingo ajoute l'adresse réelle en dernier dans X-Forwarded-For
+    transmis = request.headers.get('X-Forwarded-For', '')
+    return transmis.split(',')[-1].strip() if transmis else request.remote_addr
+
+
+@app.route('/auth/demander-code', methods=['POST'])
+def demander_code():
+    corps = request.get_json(silent=True) or {}
+    envoyer = AUTH.envoyer_code_console if LOCAL else AUTH.envoyer_code_mailjet
+    try:
+        return jsonify(AUTH.demander_code(corps.get('email'), ip_client(), envoyer))
+    except AUTH.ErreurAcces:
+        raise
+    except Exception:
+        traceback.print_exc()
+        return jsonify({"error": "envoi_impossible", "message": "L'envoi du mail a échoué. Réessayez dans un instant."}), 502
+
+
+@app.route('/auth/verifier-code', methods=['POST'])
+def verifier_code():
+    corps = request.get_json(silent=True) or {}
+    jeton, utilisateur = AUTH.verifier_code(
+        corps.get('email'), corps.get('code'),
+        ip=ip_client(), user_agent=request.headers.get('User-Agent'),
+    )
+    reponse = jsonify(utilisateur)
+    reponse.set_cookie(
+        AUTH.COOKIE, jeton,
+        max_age=int(AUTH.DUREE_SESSION.total_seconds()),
+        httponly=True, secure=not LOCAL, samesite='Lax', path='/',
+    )
+    return reponse
+
+
+@app.route('/auth/moi', methods=['GET'])
+def moi():
+    return jsonify(g.utilisateur)
+
+
+@app.route('/auth/deconnexion', methods=['POST'])
+def deconnexion():
+    AUTH.fermer_session(request.cookies.get(AUTH.COOKIE))
+    reponse = jsonify({"ok": True})
+    reponse.delete_cookie(AUTH.COOKIE, path='/', httponly=True, secure=not LOCAL, samesite='Lax')
+    return reponse
+
+
+# ─── Console d'admin ──────────────────────────────────────────────────────────
+
+@app.route('/admin/organisations', methods=['GET'])
+def admin_organisations():
+    return jsonify(AUTH.lister_organisations())
+
+
+@app.route('/admin/organisations', methods=['POST'])
+def admin_creer_organisation():
+    corps = request.get_json(silent=True) or {}
+    organisation_id = AUTH.creer_organisation(
+        corps.get('nom'), corps.get('domaines') or [], corps.get('notes'), corps.get('actif', True),
+    )
+    return jsonify({"id": organisation_id}), 201
+
+
+@app.route('/admin/organisations/<int:organisation_id>', methods=['PATCH'])
+def admin_modifier_organisation(organisation_id):
+    corps = request.get_json(silent=True) or {}
+    AUTH.modifier_organisation(organisation_id, {k: corps[k] for k in ('nom', 'domaines', 'notes', 'actif') if k in corps})
+    return jsonify({"ok": True})
+
+
+@app.route('/admin/organisations/<int:organisation_id>', methods=['DELETE'])
+def admin_supprimer_organisation(organisation_id):
+    AUTH.supprimer_organisation(organisation_id)
+    return jsonify({"ok": True})
+
+
+@app.route('/admin/utilisateurs', methods=['GET'])
+def admin_utilisateurs():
+    return jsonify(AUTH.lister_utilisateurs())
+
+
+@app.route('/admin/utilisateurs/<string:email>', methods=['PATCH'])
+def admin_modifier_utilisateur(email):
+    corps = request.get_json(silent=True) or {}
+    if 'admin' in corps:
+        if email == g.utilisateur['email'] and not corps['admin']:
+            return jsonify({"error": "auto_retrait", "message": "Vous ne pouvez pas retirer vos propres droits d'admin."}), 400
+        AUTH.modifier_admin(email, corps['admin'])
+    return jsonify({"ok": True})
+
+
+@app.route('/admin/utilisateurs/<string:email>/revoquer', methods=['POST'])
+def admin_revoquer(email):
+    return jsonify({"sessions_fermees": AUTH.revoquer_sessions(email)})
+
+
+# ─── Données ──────────────────────────────────────────────────────────────────
 
 @app.route('/home', methods=['GET'])
 def get_all_buildings():
@@ -286,4 +433,4 @@ def get_fiches():
 
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=True, port=int(os.getenv('PORT', 5000)))
