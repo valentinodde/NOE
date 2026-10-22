@@ -27,8 +27,10 @@ import re
 
 import referentiel_verif as V
 
-RACINE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-SEEDS = os.path.join(RACINE, "api", "seeds")
+# Ancré sur le dossier api lui-même : sur Scalingo (PROJECT_DIR=api), il est
+# servi depuis /app et la racine du dépôt n'existe pas.
+API = os.path.dirname(os.path.abspath(__file__))
+SEEDS = os.path.join(API, "seeds")
 STAGING = os.path.join(SEEDS, "staging")
 
 # À date égale, la version la plus avancée dans le circuit de rédaction gagne
@@ -48,7 +50,7 @@ def _lire(chemin):
 
 def _relatif(chemin):
     """Chemin depuis la racine du dépôt, tel qu'on l'ouvre dans l'éditeur."""
-    return os.path.relpath(chemin, RACINE)
+    return os.path.join("api", os.path.relpath(chemin, API))
 
 
 def _secteurs_staging():
@@ -143,7 +145,7 @@ def _assembler(versions, verifier, contexte):
         verdict = None
         for v in vs:
             if v["provenance"] == "fiche":
-                chemin = os.path.splitext(os.path.join(RACINE, v["fichier"]))[0]
+                chemin = os.path.splitext(os.path.join(API, os.path.relpath(v["fichier"], "api")))[0]
                 verdict = _verdict(chemin + ".verdict.md")
                 if verdict:
                     break
